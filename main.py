@@ -801,7 +801,7 @@ Return strict JSON with exactly 5 keys:
 - "detailed_caption": A deeply analytical, multi-paragraph intelligence briefing (4-5 paragraphs, 1000-1200 chars). This MUST be entirely distinct from image_summary. DO NOT copy-paste or repeat any sentences. Deeply explore the strategic context, regional geopolitical impact, potential diplomatic fallout, and relevant historical precedent. Explain the broader ramifications for global power dynamics. Ensure all sentences are grammatically complete.
 - "flags": A list of up to two 2-letter ISO country codes (lowercase) of the PRIMARY nations physically involved in this specific event. DO NOT blindly default to "us" and "ir". If the strike happens in Bahrain, you MUST include "bh". If it involves Ukraine, include "ua". Be highly specific to the article text.
 - "keywords": A list of 3-5 critical words to highlight (lowercase, e.g., "b-1b lancers", "casualties", "airstrike").
-- "hindi_broadcast_script": You must write a fast-paced, highly engaging news script in casual **Hinglish** (a natural mix of everyday Hindi and English words, exactly how Indian Instagram influencers talk). Do NOT use complex, pure, or formal Hindi words. Keep it easy to understand, punchy, and aggressive. Start the script with a catchy hook like 'Breaking News: ' or 'Dosto, ek bohot badi khabar...'. Limit to 2 or 3 sentences.
+- "hindi_broadcast_script": You must write an EXTREMELY aggressive, high-energy, sensational war-time news script in conversational Hinglish. Think of a prime-time Indian TV news anchor reporting on a massive crisis. Use words like 'Bohot badi khabar!', 'Hamla!', 'High Alert!', or 'Tension'. Use short, punchy sentences and MULTIPLE exclamation marks (!!!) to force the TTS engine to sound panicked and urgent. Maximum 3 sentences. Start with 'Breaking News!'
 
 Return ONLY the JSON object, no markdown, no explanation."""
 
@@ -1773,7 +1773,7 @@ def create_cinematic_video(image_path: Path, audio_path: Path, video_path: Path)
         '-framerate', '30', 
         '-i', str(image_path), 
         '-i', str(audio_path), 
-        '-vf', "zoompan=z='min(zoom+0.0005,1.15)':d=3000,fade=t=in:st=0:d=1", 
+        '-vf', "scale=iw*1.02:ih*1.02,crop=iw/1.02:ih/1.02:(iw-ow)/2+(iw-ow)/2*sin(t*15):(ih-oh)/2+(ih-oh)/2*cos(t*22),eq=brightness='0.04*sin(t*8)'", 
         '-c:v', 'libx264', 
         '-tune', 'stillimage', 
         '-c:a', 'aac', 
