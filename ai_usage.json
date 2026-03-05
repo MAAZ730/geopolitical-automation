@@ -2,10 +2,10 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 33,
+  "total_calls": 36,
   "tiers": {
     "groq": 26,
-    "gemini": 7
+    "gemini": 10
   },
   "log": [
     {
@@ -172,6 +172,21 @@
       "timestamp": "2026-03-05T20:41:18.347224+00:00",
       "tier": "groq",
       "article": "The mask slipped during Karoline Leavitt\u2019s press conference on Iran"
+    },
+    {
+      "timestamp": "2026-03-05T21:39:17.014361+00:00",
+      "tier": "gemini",
+      "article": "Israel orders more than 500,000 people to evacuate Beirut\u2019s southern suburbs"
+    },
+    {
+      "timestamp": "2026-03-05T21:40:12.798140+00:00",
+      "tier": "gemini",
+      "article": "What satellite images reveal about war in Iran"
+    },
+    {
+      "timestamp": "2026-03-05T21:40:59.802415+00:00",
+      "tier": "gemini",
+      "article": "US and Mideast countries seek Kyiv\u2019s drone expertise as Russia-Ukraine talks put on ice"
     }
   ]
 }
