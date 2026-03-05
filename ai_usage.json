@@ -2,10 +2,10 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 39,
+  "total_calls": 42,
   "tiers": {
-    "groq": 27,
-    "gemini": 12
+    "groq": 28,
+    "gemini": 14
   },
   "log": [
     {
@@ -202,6 +202,21 @@
       "timestamp": "2026-03-05T22:36:24.221343+00:00",
       "tier": "groq",
       "article": "We paid \u00a31.5k for a disco bus to escape Dubai for Heathrow flight out of Middle East"
+    },
+    {
+      "timestamp": "2026-03-05T23:53:51.387766+00:00",
+      "tier": "gemini",
+      "article": "Israeli evacuation order for Beirut's southern suburbs sparks panic"
+    },
+    {
+      "timestamp": "2026-03-05T23:54:40.011741+00:00",
+      "tier": "gemini",
+      "article": "Defence secretary accuses Tory and Reform MPs of \u2018unpatriotic\u2019 behaviour"
+    },
+    {
+      "timestamp": "2026-03-05T23:54:57.152868+00:00",
+      "tier": "groq",
+      "article": "Trump shrugs off rising gas prices to reporters \u2013 \u2018If they rise, they rise\u2019"
     }
   ]
 }
