@@ -801,7 +801,7 @@ Return strict JSON with exactly 5 keys:
 - "detailed_caption": A deeply analytical, multi-paragraph intelligence briefing (4-5 paragraphs, 1000-1200 chars). This MUST be entirely distinct from image_summary. DO NOT copy-paste or repeat any sentences. Deeply explore the strategic context, regional geopolitical impact, potential diplomatic fallout, and relevant historical precedent. Explain the broader ramifications for global power dynamics. Ensure all sentences are grammatically complete.
 - "flags": A list of up to two 2-letter ISO country codes (lowercase) of the PRIMARY nations physically involved in this specific event. DO NOT blindly default to "us" and "ir". If the strike happens in Bahrain, you MUST include "bh". If it involves Ukraine, include "ua". Be highly specific to the article text.
 - "keywords": A list of 3-5 critical words to highlight (lowercase, e.g., "b-1b lancers", "casualties", "airstrike").
-- "hindi_broadcast_script": You must write a dramatic, urgent, and sharp Hindi news broadcast script (2 to 3 sentences) that explains the headline AND the 'Big Picture'. It must sound exactly like a sensational prime-time Indian TV news anchor. Start the script with 'ब्रेकिंग न्यूज़...' (Breaking News).
+- "hindi_broadcast_script": You must write a highly dramatic, aggressive, and sensational Hindi news broadcast script (2 to 3 sentences max). It must sound exactly like a high-energy, prime-time Indian TV news anchor breaking a massive story. Use urgent and impactful vocabulary. Explain the core conflict in a sharp, attention-grabbing way. The script MUST begin with 'ब्रेकिंग न्यूज़...' (Breaking News).
 
 Return ONLY the JSON object, no markdown, no explanation."""
 
