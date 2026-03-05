@@ -2,9 +2,10 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 15,
+  "total_calls": 18,
   "tiers": {
-    "groq": 15
+    "groq": 17,
+    "gemini": 1
   },
   "log": [
     {
@@ -81,6 +82,21 @@
       "timestamp": "2026-03-05T13:09:18.566162+00:00",
       "tier": "groq",
       "article": "Will the US benefit from the oil crisis sparked by the war on Iran?"
+    },
+    {
+      "timestamp": "2026-03-05T13:56:41.504714+00:00",
+      "tier": "groq",
+      "article": "Missiles fired by US, Israel hit two schools near Tehran: Iranian media"
+    },
+    {
+      "timestamp": "2026-03-05T13:57:05.653872+00:00",
+      "tier": "gemini",
+      "article": "Hegseth boasts of \u2018incredible\u2019 results of US war with Iran after four days"
+    },
+    {
+      "timestamp": "2026-03-05T13:57:07.793923+00:00",
+      "tier": "groq",
+      "article": "The mask slipped during Karoline Leavitt\u2019s press conference on Iran"
     }
   ]
 }
