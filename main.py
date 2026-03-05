@@ -15,11 +15,14 @@ import re
 import logging
 import math
 import time
+import asyncio
+import subprocess
 from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from pathlib import Path
 from io import BytesIO
 
+import edge_tts
 import feedparser
 import requests
 import dateparser as dp
@@ -58,6 +61,8 @@ MIN_EXTRACT_CHARS = 150
 BATCH_SIZE = 3                   # V8.9: 3 posts per 30-min run
 HIGHLIGHT_COLOR = "#FBBF24"      # V7.0: keyword highlight gold
 MAX_ARTICLE_AGE_HOURS = 20       # V9.6: 20h hyper-recency window
+
+ANCHOR_VOICE = "en-IN-PrabhatNeural" # V10.2: Authoritative Indian English male voice
 
 # ---------------------------------------------------------------------------
 # Anti-Bot Headers
@@ -1742,6 +1747,43 @@ def get_filename_prefix() -> str:
 
 
 # ===========================================================================
+# 15.5 V10.2 CINEMATIC TTS AUDIO & VIDEO
+# ===========================================================================
+
+async def _generate_audio_async(text: str, filepath: Path) -> None:
+    communicate = edge_tts.Communicate(text, ANCHOR_VOICE)
+    await communicate.save(str(filepath))
+
+def create_headline_audio(headline: str, filepath: Path) -> None:
+    script = f"Breaking News: {headline}"
+    log.info(f"  Generating TTS Audio: {script[:40]}...")
+    asyncio.run(_generate_audio_async(script, filepath))
+
+def create_cinematic_video(image_path: Path, audio_path: Path, video_path: Path) -> None:
+    log.info(f"  Rendering Cinematic Video: {video_path.name}")
+    command = [
+        'ffmpeg', '-y', 
+        '-loop', '1', 
+        '-framerate', '30', 
+        '-i', str(image_path), 
+        '-i', str(audio_path), 
+        '-vf', 'fade=t=in:st=0:d=1', 
+        '-c:v', 'libx264', 
+        '-tune', 'stillimage', 
+        '-c:a', 'aac', 
+        '-b:a', '192k', 
+        '-pix_fmt', 'yuv420p', 
+        '-shortest', 
+        str(video_path)
+    ]
+    try:
+        subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, check=True)
+        log.info(f"  [INFO] Cinematic Video rendered: {video_path}")
+    except subprocess.CalledProcessError as e:
+        log.error(f"  [ERROR] FFmpeg failed: {e}")
+
+
+# ===========================================================================
 # 16. GOOGLE DRIVE UPLOAD
 # ===========================================================================
 
@@ -1795,7 +1837,7 @@ def upload_to_drive(service, filepath, parent_id):
     u = service.files().create(body=fm, media_body=media, fields="id, name", supportsAllDrives=True).execute()
     log.info(f"  Uploaded: {u.get('name')} (ID: {u.get('id')})")
 
-def upload_files_to_drive(png_path, txt_path):
+def upload_files_to_drive(png_path: Path, txt_path: Path, mp4_path: Path = None):
     svc = get_drive_service()
     if not svc:
         return
@@ -1805,6 +1847,8 @@ def upload_files_to_drive(png_path, txt_path):
         out = find_or_create_folder(svc, "Outputs", geo)
         upload_to_drive(svc, png_path, out)
         upload_to_drive(svc, txt_path, out)
+        if mp4_path and mp4_path.exists():
+            upload_to_drive(svc, mp4_path, out)
     except Exception as exc:
         log.error(f"Drive upload failed: {exc}")
 
@@ -1853,9 +1897,18 @@ def main() -> None:
             log.info("  Generating static card")
             png = OUTPUT_DIR / f"{prefix}_Card{idx}.png"
             txt = OUTPUT_DIR / f"{prefix}_Card{idx}.txt"
+            mp3 = OUTPUT_DIR / f"{prefix}_Card{idx}.mp3"
+            mp4 = OUTPUT_DIR / f"{prefix}_Card{idx}.mp4"
+            
             generate_card(article, png)
             generate_caption(article, txt)
-            upload_files_to_drive(png, txt)
+            
+            # V10.2 Cinematic TTS Video Broadcast
+            create_headline_audio(article['title'], mp3)
+            create_cinematic_video(png, mp3, mp4)
+            print(f"[INFO] Cinematic Video rendered: {mp4}")
+            
+            upload_files_to_drive(png, txt, mp4)
 
             posted = mark_posted(
                 article.get("real_url", article["link"]),
