@@ -63,7 +63,7 @@ BATCH_SIZE = 2                   # V10.12: 2 posts per 30-min run
 HIGHLIGHT_COLOR = "#FBBF24"      # V7.0: keyword highlight gold
 MAX_ARTICLE_AGE_HOURS = 20       # V9.6: 20h hyper-recency window
 
-ANCHOR_VOICE = "hi-IN-SwaraNeural"     # V10.7: Sharp female Hindi voice
+ANCHOR_VOICE = "hi-IN-KavyaNeural"     # V10.14: Professional National female Hindi voice
 
 # ---------------------------------------------------------------------------
 # Anti-Bot Headers
@@ -818,7 +818,7 @@ Return strict JSON with exactly 5 keys:
 - "detailed_caption": A deeply analytical, multi-paragraph intelligence briefing (4-5 paragraphs, 1000-1200 chars). This MUST be entirely distinct from image_summary. DO NOT copy-paste or repeat any sentences. Deeply explore the strategic context, regional geopolitical impact, potential diplomatic fallout, and relevant historical precedent. Explain the broader ramifications for global power dynamics. Ensure all sentences are grammatically complete.
 - "flags": A list of up to two 2-letter ISO country codes (lowercase) of the PRIMARY nations physically involved in this specific event. DO NOT blindly default to "us" and "ir". If the strike happens in Bahrain, you MUST include "bh". If it involves Ukraine, include "ua". Be highly specific to the article text.
 - "keywords": Generate a massive, comma-separated list of EXACTLY 50 to 60 highly relevant, trending SEO keywords, tags, and search terms related to the article (e.g., missile, war, pentagon, drone strike, geopolitics, etc.). Do not use hashtags (#), just comma-separated words.
-- "hindi_broadcast_script": You must write an EXTREMELY aggressive, high-energy, sensational war-time news script in conversational Hinglish. Think of a prime-time Indian TV news anchor reporting on a massive crisis. Use words like 'Bohot badi khabar!', 'Hamla!', 'High Alert!', or 'Tension'. Use short, punchy sentences and MULTIPLE exclamation marks (!!!) to force the TTS engine to sound panicked and urgent. Maximum 3 sentences. Start with 'Breaking News!'
+- "hindi_broadcast_script": You must write a highly professional, authoritative, and impactful news broadcast script in clean, journalistic Hindi. It must sound exactly like a top-tier prime-time national news anchor breaking a major international story. Do NOT use casual influencer language. Use strong, respectful, and urgent news vocabulary (e.g., 'Tension', 'Hamla', 'Sankat'). Maintain a serious, objective, and urgent tone. Start with 'ब्रेकिंग न्यूज़:' (Breaking News). Limit to 2 or 3 sentences.
 
 Return ONLY the JSON object, no markdown, no explanation."""
 
@@ -1790,7 +1790,6 @@ def create_cinematic_video(image_path: Path, audio_path: Path, video_path: Path)
         '-framerate', '30', 
         '-i', str(image_path), 
         '-i', str(audio_path), 
-        '-vf', "scale=iw*1.02:ih*1.02,crop=iw/1.02:ih/1.02:(iw-ow)/2+(iw-ow)/2*sin(t*15):(ih-oh)/2+(ih-oh)/2*cos(t*22),eq=brightness='0.04*sin(t*8)'", 
         '-c:v', 'libx264', 
         '-tune', 'stillimage', 
         '-c:a', 'aac', 
