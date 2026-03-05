@@ -69,13 +69,11 @@ ANCHOR_VOICE = "hi-IN-MadhurNeural" # V10.4: Authoritative Indian Hindi male voi
 # ---------------------------------------------------------------------------
 
 HTTP_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "DNT": "1",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
     "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
+    "Upgrade-Insecure-Requests": "1"
 }
 
 # ---------------------------------------------------------------------------
@@ -596,21 +594,24 @@ def _deep_scrub(text: str) -> str:
 
 
 def extract_article(url: str) -> dict | None:
-    """V9.6: Fast BS4 extractor with stealth headers and 10s timeout."""
+    """V10.5: Fast BS4 extractor with Premium Stealth Headers + Session."""
     try:
-        resp = requests.get(url, headers=HTTP_HEADERS, timeout=10, allow_redirects=True)
+        session = requests.Session()
+        resp = session.get(url, headers=HTTP_HEADERS, timeout=15, allow_redirects=True)
         if resp.status_code != 200:
-            log.warning(f"  [ERROR] HTTP {resp.status_code} on extraction")
+            print(f"  [ERROR] Extraction failed: HTTP {resp.status_code} Forbidden/Error from server.")
             return None
         soup = BeautifulSoup(resp.text, "html.parser")
         # Remove script, style, nav, footer
         for tag in soup(["script", "style", "nav", "footer", "aside", "header"]):
             tag.decompose()
         text = soup.get_text(separator="\n", strip=True)
-        if len(text) < MIN_EXTRACT_CHARS:
+        if len(text) < 100:
+            print("  [WARNING] Extraction failed: Article text hidden by JS paywall.")
             return None
         text = _deep_scrub(text)
         if len(text) < MIN_EXTRACT_CHARS:
+            print("  [WARNING] Extraction failed: Text too short after deep scrub.")
             return None
         title = ""
         og_title = soup.find("meta", property="og:title")
@@ -626,7 +627,7 @@ def extract_article(url: str) -> dict | None:
             source = og_site["content"]
         return {"text": text, "title": title, "image": image, "date": "", "source": source}
     except Exception as e:
-        print(f"[ERROR] Scraper failed: {e}")
+        print(f"  [ERROR] Extraction failed: {e}")
         return None
 
 
