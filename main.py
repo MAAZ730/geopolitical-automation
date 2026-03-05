@@ -57,18 +57,14 @@ FLAG_SCALE_DOWN = 0.85           # 15% smaller flags
 MIN_EXTRACT_CHARS = 150
 BATCH_SIZE = 3                   # V8.9: 3 posts per 30-min run
 HIGHLIGHT_COLOR = "#FBBF24"      # V7.0: keyword highlight gold
-MAX_ARTICLE_AGE_HOURS = 16       # V8.5: 16h hyper-recency window
+MAX_ARTICLE_AGE_HOURS = 20       # V9.6: 20h hyper-recency window
 
 # ---------------------------------------------------------------------------
 # Anti-Bot Headers
 # ---------------------------------------------------------------------------
 
 HTTP_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/122.0.0.0 Safari/537.36"
-    ),
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
     "Accept-Encoding": "gzip, deflate, br",
@@ -555,10 +551,11 @@ def _deep_scrub(text: str) -> str:
 
 
 def extract_article(url: str) -> dict | None:
-    """V8.7: Fast BS4 extractor with 5s timeout. No newspaper4k dependency."""
+    """V9.6: Fast BS4 extractor with stealth headers and 10s timeout."""
     try:
-        resp = requests.get(url, headers=HTTP_HEADERS, timeout=5)
+        resp = requests.get(url, headers=HTTP_HEADERS, timeout=10, allow_redirects=True)
         if resp.status_code != 200:
+            log.warning(f"  [ERROR] HTTP {resp.status_code} on extraction")
             return None
         soup = BeautifulSoup(resp.text, "html.parser")
         # Remove script, style, nav, footer
@@ -618,7 +615,7 @@ def _is_too_old(article: dict) -> bool:
 
 
 def select_and_extract_batch(articles: list[dict], posted: dict) -> list[dict]:
-    """V9.5: 2 Kinetic, 1 General Curation Rule. Pre-filter, select 3, then extract."""
+    """V9.6: Smart Queue Logic. Pre-filter, then dynamically extract until we hit 2 Kinetic, 1 General."""
     sorted_a = sort_by_priority(articles)
     
     valid_articles = []
@@ -642,62 +639,72 @@ def select_and_extract_batch(articles: list[dict], posted: dict) -> list[dict]:
     if not valid_articles:
         return []
 
-    # Final Selection: 2 Kinetic, 1 General
-    final_selection = []
+    # Queue Separation
+    kinetic_queue = [a for a in valid_articles if _kinetic_score(a) > 0]
+    general_queue = [a for a in valid_articles if _kinetic_score(a) == 0]
+
+    final_batch = []
     
-    kinetic_candidates = [a for a in valid_articles if _kinetic_score(a) > 0]
-    general_candidates = [a for a in valid_articles if _kinetic_score(a) == 0]
-
-    # Pick top 2 kinetic
-    for a in kinetic_candidates[:2]:
-        final_selection.append(a)
-
-    # Pick 1 general from the bottom (least severe)
-    if general_candidates:
-        final_selection.append(general_candidates[-1])
-        
-    # Fallbacks if we don't have enough of one type
-    while len(final_selection) < 3 and len(valid_articles) > len(final_selection):
-        for a in valid_articles:
-            if a not in final_selection:
-                final_selection.append(a)
-                break
-
-    # Cap at exactly 3
-    final_selection = final_selection[:3]
-
-    selected = []
-    # ONLY Deep Scrape the 3 selected
-    for a in final_selection:
-        log.info(f"Targeting: {a['title'][:70]}\u2026")
-        
-        extracted = extract_article(a["real_url"])
+    def _try_extract(article: dict) -> bool:
+        log.info(f"Targeting: {article['title'][:70]}\u2026")
+        extracted = extract_article(article["real_url"])
         if extracted is None:
-            log.info("  Extraction failed. Discarded.\u2026")
-            continue
+            log.info("  Extraction failed. Continuing to next URL...\u2026")
+            return False
 
-        a["full_text"] = extracted["text"]
+        article["full_text"] = extracted["text"]
         log.info(f"  Extracted: {len(extracted['text'])} chars \u2713")
 
         if extracted.get("title"):
-            a["title"] = extracted["title"]
+            article["title"] = extracted["title"]
         if extracted.get("image"):
-            a["image_url"] = extracted["image"]
-        elif not a.get("image_url"):
-            fb = _fallback_scrape_image(a["real_url"])
+            article["image_url"] = extracted["image"]
+        elif not article.get("image_url"):
+            fb = _fallback_scrape_image(article["real_url"])
             if fb:
-                a["image_url"] = fb
+                article["image_url"] = fb
         if extracted.get("source"):
-            a["source"] = extracted["source"]
+            article["source"] = extracted["source"]
         if extracted.get("date"):
             pd = parse_date_bulletproof(extracted["date"])
             if pd:
-                a["pub_date"] = pd
+                article["pub_date"] = pd
         
-        selected.append(a)
-        log.info(f"  \u2713 Finalized ({len(selected)}/3)")
+        return True
 
-    return selected
+    # 1. Fill Kinetic Quota (Target: 2)
+    kinetic_count = 0
+    for a in kinetic_queue:
+        if kinetic_count >= 2:
+            break
+        if _try_extract(a):
+            final_batch.append(a)
+            kinetic_count += 1
+            log.info(f"  \u2713 Kinetic Slot Filled ({kinetic_count}/2)")
+
+    # 2. Fill General Quota (Target: 1)
+    # Start from bottom of general_queue (least severe first)
+    general_count = 0
+    for a in reversed(general_queue):
+        if general_count >= 1:
+            break
+        if _try_extract(a):
+            final_batch.append(a)
+            general_count += 1
+            log.info(f"  \u2713 General Slot Filled ({general_count}/1)")
+
+    # 3. Fallback Filler (If either queue was exhausted before hitting target)
+    if len(final_batch) < 3:
+        log.info(f"  Quota not met ({len(final_batch)}/3). Pulling from remaining valid articles...")
+        for a in valid_articles:
+            if len(final_batch) >= 3:
+                break
+            if a not in final_batch:
+                if _try_extract(a):
+                    final_batch.append(a)
+                    log.info(f"  \u2713 Fallback Slot Filled ({len(final_batch)}/3)")
+
+    return final_batch
 
 
 # ===========================================================================
