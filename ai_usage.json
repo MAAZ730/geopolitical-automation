@@ -2,10 +2,10 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 18,
+  "total_calls": 21,
   "tiers": {
-    "groq": 17,
-    "gemini": 1
+    "groq": 18,
+    "gemini": 3
   },
   "log": [
     {
@@ -96,6 +96,21 @@
     {
       "timestamp": "2026-03-05T13:57:07.793923+00:00",
       "tier": "groq",
+      "article": "The mask slipped during Karoline Leavitt\u2019s press conference on Iran"
+    },
+    {
+      "timestamp": "2026-03-05T14:14:35.819421+00:00",
+      "tier": "groq",
+      "article": "Missiles fired by US, Israel hit two schools near Tehran: Iranian media"
+    },
+    {
+      "timestamp": "2026-03-05T14:15:27.627273+00:00",
+      "tier": "gemini",
+      "article": "Hegseth boasts of \u2018incredible\u2019 results of US war with Iran after four days"
+    },
+    {
+      "timestamp": "2026-03-05T14:15:55.138770+00:00",
+      "tier": "gemini",
       "article": "The mask slipped during Karoline Leavitt\u2019s press conference on Iran"
     }
   ]
