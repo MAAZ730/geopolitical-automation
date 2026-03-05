@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 8,
+  "total_calls": 9,
   "tiers": {
-    "groq": 8
+    "groq": 9
   },
   "log": [
     {
@@ -46,6 +46,11 @@
       "timestamp": "2026-03-05T07:55:14.107611+00:00",
       "tier": "groq",
       "article": "Novel interceptor drones bend air-defense economics in Ukraine\u2019s favor"
+    },
+    {
+      "timestamp": "2026-03-05T08:45:27.195510+00:00",
+      "tier": "groq",
+      "article": "Iran targets headquarters of Iranian Kurdish forces in Iraq"
     }
   ]
 }
