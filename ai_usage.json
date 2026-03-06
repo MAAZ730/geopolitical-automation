@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 42,
+  "total_calls": 45,
   "tiers": {
-    "groq": 28,
+    "groq": 31,
     "gemini": 14
   },
   "log": [
@@ -217,6 +217,21 @@
       "timestamp": "2026-03-05T23:54:57.152868+00:00",
       "tier": "groq",
       "article": "Trump shrugs off rising gas prices to reporters \u2013 \u2018If they rise, they rise\u2019"
+    },
+    {
+      "timestamp": "2026-03-06T00:08:28.320273+00:00",
+      "tier": "groq",
+      "article": "Iran's high-risk war strategy seems to centre on endurance and deterrence"
+    },
+    {
+      "timestamp": "2026-03-06T00:08:46.435873+00:00",
+      "tier": "groq",
+      "article": "White House looking to lower gas prices after Trump war in Iran spikes costs: report"
+    },
+    {
+      "timestamp": "2026-03-06T00:09:29.842236+00:00",
+      "tier": "groq",
+      "article": "Finland plans to lift decades-old ban on hosting nuclear weapons"
     }
   ]
 }
