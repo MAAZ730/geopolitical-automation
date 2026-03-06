@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 122,
+  "total_calls": 125,
   "tiers": {
-    "groq": 104,
+    "groq": 107,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-05T15:15:01.493494+00:00",
-      "tier": "groq",
-      "article": "\u2018This is a needless war\u2019: Americans share their thoughts on the US-Israel attacks on Iran"
-    },
-    {
-      "timestamp": "2026-03-05T15:15:03.753339+00:00",
-      "tier": "groq",
-      "article": "The mask slipped during Karoline Leavitt\u2019s press conference on Iran"
-    },
-    {
-      "timestamp": "2026-03-05T16:12:11.498008+00:00",
-      "tier": "groq",
-      "article": "Missiles fired by US, Israel hit two schools near Tehran: Iranian media"
-    },
     {
       "timestamp": "2026-03-05T16:12:55.444517+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-06T23:15:50.331396+00:00",
       "tier": "groq",
       "article": "Insiders slam CBS News chief Bari Weiss\u2019s \u2018propaganda-palooza\u2019 for Trump war in Iran"
+    },
+    {
+      "timestamp": "2026-03-06T23:37:17.124836+00:00",
+      "tier": "groq",
+      "article": "Inside bombed-out Beirut - where Hezbollah makes the rules"
+    },
+    {
+      "timestamp": "2026-03-06T23:37:35.865546+00:00",
+      "tier": "groq",
+      "article": "Pentagon task force to conduct laser test against drones"
+    },
+    {
+      "timestamp": "2026-03-06T23:37:53.954156+00:00",
+      "tier": "groq",
+      "article": "US President Donald Trump sets his sights on crisis-hit Cuba after Iran action"
     }
   ]
 }
