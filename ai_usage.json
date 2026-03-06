@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 48,
+  "total_calls": 51,
   "tiers": {
-    "groq": 33,
+    "groq": 36,
     "gemini": 15
   },
   "log": [
@@ -247,6 +247,21 @@
       "timestamp": "2026-03-06T00:42:05.562228+00:00",
       "tier": "groq",
       "article": "Pentagon boss Pete Hegseth says \u2018we have only just begun\u2019 in Iran "
+    },
+    {
+      "timestamp": "2026-03-06T01:26:43.725579+00:00",
+      "tier": "groq",
+      "article": "US says Iran missile attacks down 90% after strikes from B-2 bombers"
+    },
+    {
+      "timestamp": "2026-03-06T01:27:08.539434+00:00",
+      "tier": "groq",
+      "article": "White House says Trump had a \u2018feeling based on fact\u2019 about Iran threat"
+    },
+    {
+      "timestamp": "2026-03-06T01:27:32.171739+00:00",
+      "tier": "groq",
+      "article": "Pentagon says it is labeling Anthropic a supply chain risk \u2018effective immediately\u2019"
     }
   ]
 }
