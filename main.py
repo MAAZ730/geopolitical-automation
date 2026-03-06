@@ -821,6 +821,7 @@ Return strict JSON with exactly 5 keys:
 - "flags": A list of up to two 2-letter ISO country codes (lowercase) of the PRIMARY nations physically involved in this specific event. DO NOT blindly default to "us" and "ir". If the strike happens in Bahrain, you MUST include "bh". If it involves Ukraine, include "ua". Be highly specific to the article text.
 - "keywords": Generate a massive, comma-separated list of EXACTLY 50 to 60 highly relevant, trending SEO keywords, tags, and search terms related to the article (e.g., missile, war, pentagon, drone strike, geopolitics, etc.). Do not use hashtags (#), just comma-separated words.
 - "threat_level": Rate the geopolitical severity of this event as an integer from 1 to 10. (1-4 = low/diplomatic, 5-7 = medium/tensions, 8-10 = high/war/missile strike/casualties). Return ONLY the integer.
+- "video_overlays": An array of 5 to 7 short, punchy Hinglish sentences (MAXIMUM 40 characters per sentence) that tell the story of this event. These will be flashed sequentially on a video like an Al Jazeera news reel. Make them aggressive and informative.
 
 Return ONLY the JSON object, no markdown, no explanation."""
 
@@ -835,9 +836,11 @@ def _parse_ai_result(result: dict) -> dict | None:
     # Use image_summary if available, else fall back to legacy summary
     summary = image_summary or legacy_summary
     keywords = result.get("keywords", [])
+    video_overlays = result.get("video_overlays", [])
+    
     if not summary:
         return None
-    out = {"summary": summary, "countries": countries, "keywords": keywords}
+    out = {"summary": summary, "countries": countries, "keywords": keywords, "video_overlays": video_overlays}
     if detailed_caption:
         out["detailed_caption"] = detailed_caption
         
@@ -1097,6 +1100,7 @@ def generate_internal_summary(article: dict) -> dict:
     article["countries"] = result.get("countries", [])
     article["keywords"] = result.get("keywords", [])
     article["threat_level"] = result.get("threat_level", 8)
+    article["video_overlays"] = result.get("video_overlays", [])
 
     # Build paragraphs for caption
     parts = card_summary.split("\n\n")
@@ -1787,7 +1791,7 @@ def get_filename_prefix() -> str:
 # 15.5 V11.0 OSINT VIDEO EXTRACTION & RENDERING
 # ===========================================================================
 
-def extract_and_process_video(article_url: str, headline: str, output_filepath: Path, caption_filepath: Path, summary_text: str) -> bool:
+def extract_and_process_video(article_url: str, headline: str, output_filepath: Path, caption_filepath: Path, summary_text: str, parsed_json: dict) -> bool:
     log.info("  [OSINT] Attempting to rip raw OSINT video footage...")
     
     # Needs a temp file for yt-dlp before FFmpeg processing
@@ -1796,9 +1800,6 @@ def extract_and_process_video(article_url: str, headline: str, output_filepath: 
     ydl_opts = {
         'outtmpl': str(temp_raw),
         'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
-        'writesubtitles': True,
-        'writeautomaticsub': True,
-        'subtitleslangs': ['en'],
         'quiet': True,
         'no_warnings': True,
         'match_filter': lambda info, *args, **kwargs: 'Video is too long' if info.get('duration', 0) > 180 else None
@@ -1811,25 +1812,44 @@ def extract_and_process_video(article_url: str, headline: str, output_filepath: 
         if not temp_raw.exists():
             return False
 
-        # Build FFmpeg command to draw headline box
-        log.info("  [OSINT] Processing video with FFmpeg...")
+        # Build FFmpeg Vertical Mirror Blur + AJ+ Overlays
+        log.info("  [OSINT] Processing video with FFmpeg vertical filters...")
         
-        # Check for subtitles (yt-dlp names them e.g. temp_raw.en.vtt)
-        sub_file = temp_raw.with_name(f"{temp_raw.stem}.en.vtt")
+        # 1. Set up the 9:16 Mirror Blur and Watermark
+        watermark_text = "@geopoliticsofical"
+        fc = "[0:v]split=2[bg][fg];"
+        fc += "[bg]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[bg_blurred];"
+        fc += "[fg]scale=1080:1920:force_original_aspect_ratio=decrease[fg_scaled];"
+        fc += "[bg_blurred][fg_scaled]overlay=(W-w)/2:(H-h)/2[merged];"
+        fc += f"[merged]drawtext=text='{watermark_text}':fontcolor=white@0.4:fontsize=35:x=W-tw-30:y=50[with_wm]"
         
-        # We must escape colons and quotes for FFmpeg drawtext
-        clean_headline = headline.replace("'", "").replace(":", "\\\\:")
-        vf_string = f"drawtext=text='{clean_headline}':fontcolor=white:fontsize=24:box=1:boxcolor=black@0.5:boxborderw=5:x=(w-text_w)/2:y=10"
-        
-        if sub_file.exists():
-            vf_string += f",subtitles={sub_file}"
-        
+        # 2. Add the dynamic text overlays (AJ+ Style)
+        last_node = "with_wm"
+        overlay_nodes = []
+        chunk_duration = 5
+
+        overlays = parsed_json.get("video_overlays", [])
+        if not overlays:
+            overlays = [headline]
+            
+        for idx, text_chunk in enumerate(overlays):
+            start_t = idx * chunk_duration
+            end_t = start_t + chunk_duration
+            # Sanitize text
+            safe_text = text_chunk.replace("'", "").replace(":", "\\\\:").replace(",", "")
+            next_node = f"v{idx}"
+            # Place text in the bottom third over the blurred background
+            drawtext_cmd = f"[{last_node}]drawtext=text='{safe_text}':fontcolor=white:fontsize=45:box=1:boxcolor=black@0.6:boxborderw=20:x=(W-text_w)/2:y=H-(H/3.5):enable='between(t,{start_t},{end_t})'[{next_node}]"
+            overlay_nodes.append(drawtext_cmd)
+            last_node = next_node
+
+        filter_complex_str = fc + ";" + ";".join(overlay_nodes)
+
         command = [
-            'ffmpeg', '-y',
-            '-i', str(temp_raw),
-            '-vf', vf_string,
-            '-c:a', 'copy',
-            str(output_filepath)
+            'ffmpeg', '-y', '-i', str(temp_raw), '-t', '90',
+            '-filter_complex', filter_complex_str,
+            '-map', f'[{last_node}]', '-map', '0:a?',
+            '-c:v', 'libx264', '-preset', 'fast', '-c:a', 'aac', str(output_filepath)
         ]
         
         subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, check=True)
@@ -1840,20 +1860,12 @@ def extract_and_process_video(article_url: str, headline: str, output_filepath: 
         # Cleanup
         if temp_raw.exists():
             temp_raw.unlink()
-        if sub_file.exists():
-            sub_file.unlink()
             
         return True
     except Exception as e:
         print(f"  [INFO] No extractable/processable video found on this page. ({e})")
         if 'temp_raw' in locals() and temp_raw.exists():
             temp_raw.unlink()
-        try:
-            old_sub = output_filepath.with_name(f"{output_filepath.stem}_raw.en.vtt")
-            if old_sub.exists():
-                old_sub.unlink()
-        except:
-            pass
         return False
 
 
@@ -1999,7 +2011,8 @@ def main() -> None:
                     article['title'], 
                     video_filepath, 
                     video_txt, 
-                    article.get('summary', '')
+                    article.get('summary', ''),
+                    article
                 )
                 if video_success:
                     print(f"[SUCCESS] Prepared OSINT video: {video_filepath}")
