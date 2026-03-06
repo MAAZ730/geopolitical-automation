@@ -1737,7 +1737,12 @@ def generate_caption(article: dict, output_path: Path) -> None:
     source = article.get("source", "Unknown")
     link = article.get("real_url", article.get("link", ""))
     dateline = format_dateline(article.get("pub_date"))
-    keywords = article.get("keywords", [])
+    raw_keywords = article.get("keywords", "")
+    if isinstance(raw_keywords, list):
+        keywords_str = ", ".join([str(k).strip() for k in raw_keywords])
+    else:
+        keywords_str = str(raw_keywords).strip()
+    final_keywords = ", ".join([k.strip() for k in keywords_str.split(",") if k.strip()])
     countries = article.get("countries", [])
 
     lines = []
@@ -1773,8 +1778,8 @@ def generate_caption(article: dict, output_path: Path) -> None:
     if countries:
         flag_str = " ".join(f":{c}:" for c in countries)
         lines.append(f"\U0001f30d Nations: {flag_str}")
-    if keywords:
-        lines.append(f"\U0001f3af Keywords: {', '.join(keywords)}")
+    if final_keywords:
+        lines.append(f"\U0001f3af Keywords: {final_keywords}")
     lines.append("")
     lines.append("#Geopolitics #BreakingNews #WarUpdate #MilitaryIntel #GlobalAffairs")
     lines.append("")
@@ -1863,8 +1868,30 @@ def extract_and_process_video(article_url: str, headline: str, output_filepath: 
         
         subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, check=True)
         
-        # Write caption file
-        caption_filepath.write_text(summary_text, encoding="utf-8")
+        # V12.3: Build Full OSINT Video Caption
+        flags = parsed_json.get("countries", [])
+        raw_keywords = parsed_json.get("keywords", "")
+        if isinstance(raw_keywords, list):
+            keywords_str = ", ".join([str(k).strip() for k in raw_keywords])
+        else:
+            keywords_str = str(raw_keywords).strip()
+        final_keywords = ", ".join([k.strip() for k in keywords_str.split(",") if k.strip()])
+
+        image_summary = parsed_json.get("summary", "")
+        detailed_caption = parsed_json.get("detailed_caption", "")
+        
+        video_caption_content = f"🌍 Nations: {', '.join(flags)}\n"
+        if final_keywords:
+            video_caption_content += f"🎯 Keywords: {final_keywords}\n\n"
+        video_caption_content += "#Geopolitics #BreakingNews #WarUpdate #MilitaryIntel #GlobalAffairs\n\n"
+        video_caption_content += "Follow @geopoliticsofical for real-time intelligence updates.\n\n---\n\n"
+        video_caption_content += f"⚠️ {headline}\n\n"
+        video_caption_content += f"📌 INTELLIGENCE BRIEF:\n{image_summary}\n\n"
+        if detailed_caption:
+            video_caption_content += f"📋 DETAILED ANALYSIS:\n{detailed_caption}\n"
+
+        with open(caption_filepath, "w", encoding="utf-8") as vf:
+            vf.write(video_caption_content)
         
         # Cleanup
         if temp_raw.exists():
