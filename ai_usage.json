@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 54,
+  "total_calls": 57,
   "tiers": {
-    "groq": 39,
+    "groq": 42,
     "gemini": 15
   },
   "log": [
@@ -277,6 +277,21 @@
       "timestamp": "2026-03-06T01:41:16.279304+00:00",
       "tier": "groq",
       "article": "US, Venezuela to restore diplomatic ties"
+    },
+    {
+      "timestamp": "2026-03-06T02:12:08.284649+00:00",
+      "tier": "groq",
+      "article": "Iran war live updates: US temporarily lets India buy Russian oil amid energy fears; Israeli military launches strikes on Beirut"
+    },
+    {
+      "timestamp": "2026-03-06T02:12:27.445616+00:00",
+      "tier": "groq",
+      "article": "Some Gulf countries frustrated with lack of notice about Iran strikes, defense help, AP sources say"
+    },
+    {
+      "timestamp": "2026-03-06T02:12:45.311072+00:00",
+      "tier": "groq",
+      "article": "Major blackout leaves millions without power as energy crisis deepens"
     }
   ]
 }
