@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 98,
+  "total_calls": 101,
   "tiers": {
-    "groq": 82,
+    "groq": 85,
     "gemini": 16
   },
   "log": [
-    {
-      "timestamp": "2026-03-05T07:05:01.849815+00:00",
-      "tier": "groq",
-      "article": "Iran denies firing missile towards Turkiye after NATO interception"
-    },
     {
       "timestamp": "2026-03-05T07:05:25.703797+00:00",
       "tier": "groq",
@@ -497,6 +492,21 @@
       "timestamp": "2026-03-06T16:48:29.572022+00:00",
       "tier": "groq",
       "article": "Trump says Cuba is next: \u2018Gonna fall pretty soon\u2019 he tells CNN"
+    },
+    {
+      "timestamp": "2026-03-06T17:37:39.758080+00:00",
+      "tier": "groq",
+      "article": "Teenagers killed themselves in Dorset after baby taken into care, inquest finds"
+    },
+    {
+      "timestamp": "2026-03-06T17:37:59.778903+00:00",
+      "tier": "groq",
+      "article": "Iran war forces OPEC nation to limit production"
+    },
+    {
+      "timestamp": "2026-03-06T17:38:17.524611+00:00",
+      "tier": "groq",
+      "article": "The Kurdish fighters who could join fight against Iran - and inspire uprising following air strikes"
     }
   ]
 }
