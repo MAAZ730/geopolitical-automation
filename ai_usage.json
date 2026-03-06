@@ -2,10 +2,10 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 45,
+  "total_calls": 48,
   "tiers": {
-    "groq": 31,
-    "gemini": 14
+    "groq": 33,
+    "gemini": 15
   },
   "log": [
     {
@@ -232,6 +232,21 @@
       "timestamp": "2026-03-06T00:09:29.842236+00:00",
       "tier": "groq",
       "article": "Finland plans to lift decades-old ban on hosting nuclear weapons"
+    },
+    {
+      "timestamp": "2026-03-06T00:41:30.599486+00:00",
+      "tier": "gemini",
+      "article": "Italy, allies send warships to protect Europe\u2019s southeastern edge from Iran strikes"
+    },
+    {
+      "timestamp": "2026-03-06T00:41:48.597527+00:00",
+      "tier": "groq",
+      "article": "Timeline: How joint US-Israeli strikes on Iran unfolded as war escalates"
+    },
+    {
+      "timestamp": "2026-03-06T00:42:05.562228+00:00",
+      "tier": "groq",
+      "article": "Pentagon boss Pete Hegseth says \u2018we have only just begun\u2019 in Iran "
     }
   ]
 }
