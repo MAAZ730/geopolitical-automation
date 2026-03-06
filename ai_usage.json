@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 57,
+  "total_calls": 60,
   "tiers": {
-    "groq": 42,
+    "groq": 45,
     "gemini": 15
   },
   "log": [
@@ -292,6 +292,21 @@
       "timestamp": "2026-03-06T02:12:45.311072+00:00",
       "tier": "groq",
       "article": "Major blackout leaves millions without power as energy crisis deepens"
+    },
+    {
+      "timestamp": "2026-03-06T04:22:29.974426+00:00",
+      "tier": "groq",
+      "article": "Intense Israeli strikes target Iran and Lebanon as US warns bombardment to 'surge dramatically'"
+    },
+    {
+      "timestamp": "2026-03-06T04:22:48.913916+00:00",
+      "tier": "groq",
+      "article": "Trump admits US should worry about attacks at home due to Iran war: \u2018I guess so\u2019"
+    },
+    {
+      "timestamp": "2026-03-06T04:26:27.530143+00:00",
+      "tier": "groq",
+      "article": "Cocoa crisis unfolds as farmers wait several months for payments"
     }
   ]
 }
