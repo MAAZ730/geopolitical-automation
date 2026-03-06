@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 72,
+  "total_calls": 75,
   "tiers": {
-    "groq": 56,
+    "groq": 59,
     "gemini": 16
   },
   "log": [
@@ -367,6 +367,21 @@
       "timestamp": "2026-03-06T08:51:34.466490+00:00",
       "tier": "groq",
       "article": "NORAD intercepts 2 Russian maritime patrol aircraft near Alaska, Canada"
+    },
+    {
+      "timestamp": "2026-03-06T09:41:23.218724+00:00",
+      "tier": "groq",
+      "article": "Leak from secret UK meeting about US attacks on Iran a travesty, says Lammy"
+    },
+    {
+      "timestamp": "2026-03-06T09:41:42.222364+00:00",
+      "tier": "groq",
+      "article": "Timeline: How a week of war unfolded in the Middle East after strikes on Iran"
+    },
+    {
+      "timestamp": "2026-03-06T09:41:59.283201+00:00",
+      "tier": "groq",
+      "article": "Ecologists alarmed after invasive fire ants found in ancient Australian rainforest"
     }
   ]
 }
