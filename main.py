@@ -937,47 +937,14 @@ def download_category_icon(category: str, dest_path: Path) -> bool:
 
 def generate_intelligence_cascade(article_title: str, article_text: str) -> dict | None:
     """
-    V9.5: 3-Tier API Waterfall (Zero Downtime).
-    Tries OpenRouter (Llama 3) -> Groq (Llama 3) -> Gemini 2.5 Flash in order.
+    V12.1: 3-Tier API Waterfall (Zero Downtime).
+    Tries Groq (Llama 3) -> Gemini 2.5 Flash -> OpenRouter in order.
     No time.sleep() needed, it just falls back instantly on hit rate limits.
     """
     input_text = article_text[:4000] if len(article_text) > 4000 else article_text
     prompt = _AI_PROMPT_TEMPLATE.format(headline=article_title, text=input_text)
 
-    # === ATTEMPT 1: OPENROUTER (Meta Llama 3) ===
-    or_key = os.environ.get("OPENROUTER_API_KEY")
-    if or_key:
-        try:
-            from openai import OpenAI
-            client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=or_key)
-            
-            response = client.chat.completions.create(
-                model="meta-llama/llama-3.3-70b-instruct:free",
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.3,
-                max_tokens=4000,
-                response_format={"type": "json_object"},
-            )
-            
-            resp_text = _strip_markdown_json(response.choices[0].message.content or "")
-            if resp_text:
-                raw = json.loads(resp_text)
-                result = _parse_ai_result(raw)
-                if result:
-                    log.info(f"  \u2728 OpenRouter AI Success \u2728")
-                    track_ai_usage("openrouter", article_title)
-                    return result
-        except ImportError:
-            log.warning("  openai package not installed for OpenRouter")
-            print("[WARNING] Tier 1 (qwen/qwen-2.5-7b-instruct:free) failed: Missing openai package")
-        except Exception as e:
-            if "429" in str(e) or "rate limit" in str(e).lower() or "resource exhausted" in str(e).lower():
-                print("[INFO] Rate limit hit on Tier 1. Cooling down for 5 seconds...")
-                time.sleep(5)
-            log.warning(f"  [FALLBACK] OpenRouter failed: {e}. Falling back to Groq...")
-            print(f"[WARNING] Tier 1 (qwen/qwen-2.5-7b-instruct:free) failed: {e}")
-
-    # === ATTEMPT 2: GROQ (Meta Llama 3) ===
+    # === ATTEMPT 1: GROQ (Meta Llama 3) ===
     groq_key = os.environ.get("GROQ_API_KEY")
     if groq_key:
         try:
@@ -1002,15 +969,15 @@ def generate_intelligence_cascade(article_title: str, article_text: str) -> dict
                     return result
         except ImportError:
             log.warning("  groq package not installed")
-            print("[WARNING] Tier 2 (Llama-3.1-8b-instant) failed: Missing groq package")
+            print("[WARNING] Tier 1 (Llama-3.1-8b-instant) failed: Missing groq package")
         except Exception as e:
             if "429" in str(e) or "rate limit" in str(e).lower() or "resource exhausted" in str(e).lower():
-                print("[INFO] Rate limit hit on Tier 2. Cooling down for 5 seconds...")
+                print("[INFO] Rate limit hit on Tier 1. Cooling down for 5 seconds...")
                 time.sleep(5)
             log.warning(f"  [FALLBACK] Groq failed: {e}. Falling back to Gemini...")
-            print(f"[WARNING] Tier 2 (Llama-3.1-8b-instant) failed: {e}")
+            print(f"[WARNING] Tier 1 (Llama-3.1-8b-instant) failed: {e}")
 
-    # === ATTEMPT 3: GEMINI (2.5 Flash) ===
+    # === ATTEMPT 2: GEMINI (2.5 Flash) ===
     gemini_key = os.environ.get("GEMINI_API_KEY")
     if gemini_key:
         try:
@@ -1032,13 +999,46 @@ def generate_intelligence_cascade(article_title: str, article_text: str) -> dict
                     return result
         except ImportError:
             log.warning("  google-genai not installed")
-            print("[WARNING] Tier 3 (Gemini-2.5-Flash) failed: Missing google-genai package")
+            print("[WARNING] Tier 2 (Gemini-2.5-Flash) failed: Missing google-genai package")
+        except Exception as e:
+            if "429" in str(e) or "rate limit" in str(e).lower() or "resource exhausted" in str(e).lower():
+                print("[INFO] Rate limit hit on Tier 2. Cooling down for 5 seconds...")
+                time.sleep(5)
+            log.warning(f"  [FALLBACK] Gemini failed: {e}. Falling back to OpenRouter...")
+            print(f"[WARNING] Tier 2 (Gemini-2.5-Flash) failed: {e}")
+            
+    # === ATTEMPT 3: OPENROUTER (Gemini 2.0 Flash Lite) ===
+    or_key = os.environ.get("OPENROUTER_API_KEY")
+    if or_key:
+        try:
+            from openai import OpenAI
+            client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=or_key)
+            
+            response = client.chat.completions.create(
+                model="google/gemini-2.0-flash-lite-preview-02-05:free",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.3,
+                max_tokens=4000,
+                response_format={"type": "json_object"},
+            )
+            
+            resp_text = _strip_markdown_json(response.choices[0].message.content or "")
+            if resp_text:
+                raw = json.loads(resp_text)
+                result = _parse_ai_result(raw)
+                if result:
+                    log.info(f"  \u2728 OpenRouter AI Success \u2728")
+                    track_ai_usage("openrouter", article_title)
+                    return result
+        except ImportError:
+            log.warning("  openai package not installed for OpenRouter")
+            print("[WARNING] Tier 3 (Gemini 2.0 Flash Lite) failed: Missing openai package")
         except Exception as e:
             if "429" in str(e) or "rate limit" in str(e).lower() or "resource exhausted" in str(e).lower():
                 print("[INFO] Rate limit hit on Tier 3. Cooling down for 5 seconds...")
                 time.sleep(5)
-            log.warning(f"  [FATAL] Gemini fallback failed: {e}")
-            print(f"[WARNING] Tier 3 (Gemini-2.5-Flash) failed: {e}")
+            log.warning(f"  [FATAL] OpenRouter fallback failed: {e}")
+            print(f"[WARNING] Tier 3 (Gemini 2.0 Flash Lite) failed: {e}")
 
     # If all 3 fail:
     print(f"[ERROR] API Waterfall exhausted. Skipping article.")
@@ -1981,8 +1981,8 @@ def main() -> None:
     carousel_caption = ""
     prefix = get_filename_prefix()
     
-    # V11.0 Video Alternate Toggle
-    run_video = datetime.now().minute < 15
+    # V12.2 Always-On Video Engine
+    run_video = True
     
     # Store dynamic files for Drive
     drive_upload_queue = []
@@ -2026,8 +2026,6 @@ def main() -> None:
                 if video_success:
                     print(f"[SUCCESS] Prepared OSINT video: {video_filepath}")
                     drive_upload_queue.extend([video_filepath, video_txt])
-                    # Run exactly 1 video per 15-min top-of-hour bucket
-                    run_video = False
 
             posted = mark_posted(
                 article.get("real_url", article["link"]),
