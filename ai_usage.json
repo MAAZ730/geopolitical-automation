@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 104,
+  "total_calls": 107,
   "tiers": {
-    "groq": 88,
+    "groq": 91,
     "gemini": 16
   },
   "log": [
-    {
-      "timestamp": "2026-03-05T07:45:10.115968+00:00",
-      "tier": "groq",
-      "article": "Video: Intense US-Israeli bombardment across Iran"
-    },
-    {
-      "timestamp": "2026-03-05T07:45:30.532056+00:00",
-      "tier": "groq",
-      "article": "US Senator helps police drag anti-war protester from meeting"
-    },
-    {
-      "timestamp": "2026-03-05T07:54:46.538978+00:00",
-      "tier": "groq",
-      "article": "Cuba: Millions plunged into darkness as fuel crisis deepens"
-    },
     {
       "timestamp": "2026-03-05T07:55:14.107611+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-06T18:55:30.212363+00:00",
       "tier": "groq",
       "article": "No deal with Iran except \u2018unconditional surrender,\u2019 Trump says"
+    },
+    {
+      "timestamp": "2026-03-06T19:36:51.053482+00:00",
+      "tier": "groq",
+      "article": "CCTV video captures moment strike lands next to boys\u2019 school in Iran"
+    },
+    {
+      "timestamp": "2026-03-06T19:37:09.921986+00:00",
+      "tier": "groq",
+      "article": "Russia has provided Iran with information that can help Tehran strike US military, AP sources say"
+    },
+    {
+      "timestamp": "2026-03-06T19:37:26.904587+00:00",
+      "tier": "groq",
+      "article": "Russia supplying Iran with intelligence to target US forces, says report"
     }
   ]
 }
