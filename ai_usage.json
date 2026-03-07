@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 194,
+  "total_calls": 198,
   "tiers": {
-    "groq": 176,
+    "groq": 180,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T15:41:52.018195+00:00",
-      "tier": "groq",
-      "article": "Markwayne Mullin describes frantic pace of Trump call to replace Noem as DHS chief"
-    },
-    {
-      "timestamp": "2026-03-06T16:44:33.689756+00:00",
-      "tier": "groq",
-      "article": "Thousands of Syrian refugees flee Lebanon after Israeli strikes"
-    },
-    {
-      "timestamp": "2026-03-06T16:44:52.663584+00:00",
-      "tier": "groq",
-      "article": "Should Americans fear attacks by Iran at home? \u2018I guess,\u2019 says Trump"
-    },
-    {
-      "timestamp": "2026-03-06T16:48:29.572022+00:00",
-      "tier": "groq",
-      "article": "Trump says Cuba is next: \u2018Gonna fall pretty soon\u2019 he tells CNN"
-    },
     {
       "timestamp": "2026-03-06T17:37:39.758080+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-07T12:41:21.788163+00:00",
       "tier": "groq",
       "article": "Israeli media: Sirens in northern \u2018Israel\u2019 amid rocket, suspected drone attacks from Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-07T12:57:11.534166+00:00",
+      "tier": "groq",
+      "article": "Iran has targeted 14 US bases in region in 7 days"
+    },
+    {
+      "timestamp": "2026-03-07T12:57:50.751001+00:00",
+      "tier": "groq",
+      "article": "Russian embassy in Tehran says remains active amid war"
+    },
+    {
+      "timestamp": "2026-03-07T12:58:28.713014+00:00",
+      "tier": "groq",
+      "article": "Iran Armed Forces not targeted neighboring countries"
+    },
+    {
+      "timestamp": "2026-03-07T12:59:06.934666+00:00",
+      "tier": "groq",
+      "article": "Iranian military reports casualties among US forces in region"
     }
   ]
 }
