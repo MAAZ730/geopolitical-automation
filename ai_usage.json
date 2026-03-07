@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 134,
+  "total_calls": 137,
   "tiers": {
-    "groq": 116,
+    "groq": 119,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-05T21:40:12.798140+00:00",
-      "tier": "gemini",
-      "article": "What satellite images reveal about war in Iran"
-    },
-    {
-      "timestamp": "2026-03-05T21:40:59.802415+00:00",
-      "tier": "gemini",
-      "article": "US and Mideast countries seek Kyiv\u2019s drone expertise as Russia-Ukraine talks put on ice"
-    },
-    {
-      "timestamp": "2026-03-05T22:35:23.500227+00:00",
-      "tier": "gemini",
-      "article": "Middle East crisis live: Israeli military begins strikes on Beirut suburbs; Trump demands say in choosing Iran\u2019s next supreme leader"
-    },
     {
       "timestamp": "2026-03-05T22:36:06.833774+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-07T04:20:42.542873+00:00",
       "tier": "groq",
       "article": "Trump slams Fox reporter for \u2018stupid question\u2019 about claims Russia is helping Iran"
+    },
+    {
+      "timestamp": "2026-03-07T05:15:12.954608+00:00",
+      "tier": "groq",
+      "article": "Three people killed and three hospitalized as Michigan town hit by tornado"
+    },
+    {
+      "timestamp": "2026-03-07T05:15:30.733560+00:00",
+      "tier": "groq",
+      "article": "Why Yemen\u2019s Houthis are staying out of Israel-US fight with Iran \u2013 for now"
+    },
+    {
+      "timestamp": "2026-03-07T05:15:48.741489+00:00",
+      "tier": "groq",
+      "article": "Trump has shown \u2018serious interest\u2019 in US troops deploying to Iran, report claims"
     }
   ]
 }
