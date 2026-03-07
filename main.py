@@ -1630,10 +1630,12 @@ def generate_card(article: dict, output_path: Path, threat_level: int = 8) -> No
         fallback = get_locator_map(article) or get_actor_image(article)
         if fallback:
             art_img = fallback
+            
+    # V17.7: Premium Image Cropping - Perfectly center-crop without distortion
     if art_img:
-        news_img = ImageOps.fit(art_img.convert("RGB"), (980, 550), Image.LANCZOS)
+        news_img = ImageOps.fit(art_img.convert("RGB"), (980, 550), method=Image.Resampling.LANCZOS)
     else:
-        news_img = Image.new("RGB", (980, 550), (30, 30, 40))
+        news_img = None  # V17.7: Skip logic handled in main loop
 
     # ── Apply rounded corners to news image ──
     news_img = news_img.convert("RGBA")
@@ -1986,15 +1988,17 @@ def fetch_instagram_posts() -> list[dict]:
     posts = []
     
     try:
-        print("  [IG] Triggering Apify Instagram Scraper...")
+        print("  [IG] Triggering Apify Instagram Scraper (Video Hunter Mode)...")
         run_input = {
             "directUrls": [
                 "https://www.instagram.com/iran_military_officiall/",
                 "https://www.instagram.com/irgc.intel/",
-                "https://www.instagram.com/middle_east_spectator/"
+                "https://www.instagram.com/middle_east_spectator/",
+                "https://www.instagram.com/military.ir/",
+                "https://www.instagram.com/global.military.news/"
             ],
             "resultsType": "posts",
-            "resultsLimit": 2, # Grabs the 2 newest posts per page
+            "resultsLimit": 15, # Increased pool to guarantee finding a video
         }
         run = client.actor("apify/instagram-scraper").call(run_input=run_input)
         
@@ -2072,6 +2076,7 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path]) -> in
     
     prefix = get_filename_prefix()
     ig_count = 0
+    ig_video_count = 0  # V17.7: Track video quota
     
     for idx, post in enumerate(ig_posts, 1):
         try:
@@ -2102,12 +2107,19 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path]) -> in
                 "countries": [],
             }
             
-            if post.get("is_video") and post.get("video_url"):
-                # === VIDEO MODE ===
-                log.info("  [IG] Processing as VIDEO...")
-                video_filepath = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT.mp4"
-                video_txt = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT_Caption.txt"
-                
+            # V17.7: Enforce Mandatory 1 Video Quota
+            MAX_IG_VIDEOS = 1
+            video_url = post.get("video_url")
+            is_video = True if video_url else False
+            
+            if is_video:
+                if ig_video_count < MAX_IG_VIDEOS:
+                    print("  [IG] Video/Reel detected! Routing to FFmpeg engine...")
+                    video_filepath = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT.mp4"
+                    video_txt = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT_Caption.txt"
+                    
+                    ig_video_count += 1
+
                 # Download the video first
                 temp_video = VIDEO_DIR / f"{prefix}_IG{idx}_raw.mp4"
                 try:
@@ -2194,6 +2206,8 @@ def main() -> None:
     
     # Store dynamic files for Drive
     drive_upload_queue = []
+    
+    txt_idx = 0  # V17.7: Keep post numbers sequential even if articles are skipped
 
     for idx, article in enumerate(batch, 1):
         try:
@@ -2204,10 +2218,20 @@ def main() -> None:
             # Try AI generation, if it throws rate limits/errors, it will be caught below
             article = generate_internal_summary(article)
 
+            # V17.7: Strict "No Image = Skip" Rule
+            # Download image first to verify quality before generating text
+            temp_img = download_article_image(article)
+            fallback = get_locator_map(article) or get_actor_image(article) if not temp_img else None
+            if not temp_img and not fallback:
+                print(f"  [SKIP] No high-quality image found for '{article.get('title')[:40]}...'. Skipping post generation.")
+                continue
+                
             # IMAGE mode: standard card generation
             log.info("  Generating static card")
-            png = OUTPUT_DIR / f"{prefix}_Card{idx}.png"
-            txt = OUTPUT_DIR / f"{prefix}_Card{idx}.txt"
+            txt_idx += 1
+            png = OUTPUT_DIR / f"{prefix}_Card{txt_idx}.png"
+            txt = OUTPUT_DIR / f"{prefix}_Card{txt_idx}.txt" # Need separate counter to keep file names sequential if skips happen
+
             
             threat_level = int(article.get("threat_level", 8))
             generate_card(article, png, threat_level=threat_level)
