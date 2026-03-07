@@ -1308,9 +1308,8 @@ def download_flag(country_code: str) -> Image.Image | None:
 
 def download_article_image(article: dict) -> Image.Image | None:
     """V17.1: Cloudscraper with browser mimicry for Iranian server bypasses."""
+    # V17.3: Extract URL but don't immediately abort if missing (we can use Wikipedia fallback)
     url = article.get("image_url")
-    if not url:
-        return None
     
     # V17.1: Full browser mimicry to bypass Iranian server blocks
     scraper = cloudscraper.create_scraper(browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False})
@@ -1319,22 +1318,58 @@ def download_article_image(article: dict) -> Image.Image | None:
         "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
         "Referer": "https://news.google.com/"
     }
-    try:
-        log.info(f"  Downloading image: {url[:60]}\u2026")
-        response = scraper.get(url, headers=headers, timeout=20)  # V17.1: Increased timeout
-        response.raise_for_status()
-        
-        # Failsafe: Ensure the server actually sent an image, not an HTML Cloudflare block
-        content_type = response.headers.get('Content-Type', '')
-        if not content_type.startswith('image/'):
-            print(f"  [ERROR] Server blocked image download (returned {content_type}).")
-            return None
+    
+    if url:
+        try:
+            log.info(f"  Downloading image: {url[:60]}\u2026")
+            response = scraper.get(url, headers=headers, timeout=20)  # V17.1: Increased timeout
+            response.raise_for_status()
             
-        image = Image.open(BytesIO(response.content)).convert("RGB")
-        return image
-    except Exception as e:
-        print(f"  [ERROR] Image download failed: {e}")
-        return None
+            # Failsafe: Ensure the server actually sent an image, not an HTML Cloudflare block
+            content_type = response.headers.get('Content-Type', '')
+            if not content_type.startswith('image/'):
+                print(f"  [ERROR] Server blocked image download (returned {content_type}).")
+            else:
+                image = Image.open(BytesIO(response.content)).convert("RGB")
+                return image
+        except Exception as e:
+            print(f"  [ERROR] Primary image download failed: {e}")
+    
+    # V17.3: Wikipedia Image Fallback
+    try:
+        import wikipedia
+        log.info("  [FALLBACK] Attempting Wikipedia image search...")
+        
+        # Clean headline to get a subject query
+        title = article.get("title", article.get("image_hook", ""))
+        clean_title = title.replace("\U0001f6a8 BREAKING:", "").replace("BREAKING:", "").strip()
+        
+        # Use first 3-4 significant words as query
+        words = [w for w in clean_title.split() if len(w) > 3]
+        search_query = " ".join(words[:3]) if words else clean_title
+        
+        log.info(f"  [FALLBACK] Searching Wikipedia for: '{search_query}'")
+        results = wikipedia.search(search_query, results=1)
+        
+        if results:
+            page = wikipedia.page(results[0], auto_suggest=False)
+            # Filter for valid high-res image types (avoiding SVG icons)
+            valid_images = [img for img in page.images if img.lower().endswith(('.jpg', '.jpeg', '.png')) and 'icon' not in img.lower()]
+            
+            if valid_images:
+                wiki_img_url = valid_images[0]
+                log.info(f"  [FALLBACK] Found Wikipedia image for '{results[0]}': {wiki_img_url[:60]}...")
+                
+                wiki_resp = scraper.get(wiki_img_url, headers=headers, timeout=15)
+                wiki_resp.raise_for_status()
+                image = Image.open(BytesIO(wiki_resp.content)).convert("RGB")
+                return image
+            else:
+                log.info(f"  [FALLBACK] No suitable images found on Wikipedia page for '{results[0]}'")
+    except Exception as wiki_e:
+        log.warning(f"  [FALLBACK] Wikipedia image search failed: {wiki_e}")
+        
+    return None
 
 
 # ===========================================================================
