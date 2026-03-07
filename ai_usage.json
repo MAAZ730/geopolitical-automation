@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 206,
+  "total_calls": 207,
   "tiers": {
-    "groq": 188,
+    "groq": 189,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T19:37:26.904587+00:00",
-      "tier": "groq",
-      "article": "Russia supplying Iran with intelligence to target US forces, says report"
-    },
     {
       "timestamp": "2026-03-06T20:34:51.531714+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-03-07T14:54:11.109225+00:00",
       "tier": "groq",
       "article": "Hezbollah resistance fighters targeted the Ein Zeitim base northwest of the occupied city of Safed with a rocket barrage: Military Media statement no.8 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-07T15:30:01.749553+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Orders Israelis in Kiryat Shmona, Nahariya to Evacuate - Al-Manar TV Lebanon"
     }
   ]
 }
