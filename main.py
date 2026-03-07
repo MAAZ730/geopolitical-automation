@@ -1991,7 +1991,7 @@ def fetch_instagram_posts() -> list[dict]:
                 "https://www.instagram.com/global.military.news/"
             ],
             "resultsType": "posts",
-            "resultsLimit": 15, # Increased pool to guarantee finding a video
+            "resultsLimit": 30, # Increased pool to guarantee finding enough fresh content
         }
         run = client.actor("apify/instagram-scraper").call(run_input=run_input)
         
@@ -2073,8 +2073,8 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
     # V18.0: Strict Quotas
     ig_video_count = 0
     ig_image_count = 0
-    MAX_IG_VIDEOS = 1
-    MAX_IG_IMAGES = 2
+    MAX_IG_VIDEOS = 2  # V18.1: Expanded to 2
+    MAX_IG_IMAGES = 5  # V18.1: Expanded to 5
     
     for idx, post in enumerate(ig_posts, 1):
         if ig_video_count >= MAX_IG_VIDEOS and ig_image_count >= MAX_IG_IMAGES:
@@ -2135,9 +2135,10 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                                 f.write(chunk)
                                 
                         if temp_video_path.exists():
-                            # Pass to FFmpeg 9:16 vertical processor directly
+                            # FIX (V18.1): Ensure the downloaded file path is handed down correctly
+                            temp_raw = temp_video_path
                             video_success = format_vertical_video(
-                                str(temp_video_path), 
+                                str(temp_raw), 
                                 image_hook, 
                                 video_filepath, 
                                 video_txt, 
