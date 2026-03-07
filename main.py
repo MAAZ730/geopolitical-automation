@@ -1805,6 +1805,10 @@ def extract_and_process_video(article_url: str, headline: str, output_filepath: 
         log.info("  [OSINT] No video found from any source.")
         return False
     
+    return format_vertical_video(str(temp_raw), headline, output_filepath, caption_filepath, article_url, parsed_json)
+
+def format_vertical_video(input_video: str, headline: str, output_filepath: Path, caption_filepath: Path, article_url: str, parsed_json: dict) -> bool:
+    """V18.0: Standalone FFmpeg Vertical formatting (bypasses yt-dlp)."""
     try:
         # Build FFmpeg Vertical Mirror Blur + AJ+ Overlays
         log.info("  [OSINT] Processing video with FFmpeg vertical filters...")
@@ -2058,19 +2062,33 @@ def rewrite_caption_ai(original_caption: str) -> dict | None:
     return None
 
 
-def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path]) -> int:
-    """V17.0: Process Instagram posts through existing branding pipeline."""
+def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], posted_links: dict) -> int:
+    """V17.0/V18.0: Process Instagram posts with strict quotas and duplicate tracking."""
     if not ig_posts:
         return 0
     
     prefix = get_filename_prefix()
     ig_count = 0
-    ig_video_count = 0  # V17.7: Track video quota
+    
+    # V18.0: Strict Quotas
+    ig_video_count = 0
+    ig_image_count = 0
+    MAX_IG_VIDEOS = 1
+    MAX_IG_IMAGES = 2
     
     for idx, post in enumerate(ig_posts, 1):
+        if ig_video_count >= MAX_IG_VIDEOS and ig_image_count >= MAX_IG_IMAGES:
+            log.info("  [IG] All quotas met. Stopping Instagram batch.")
+            break
+            
         try:
+            ig_url = post.get("url", "")
+            if is_posted(ig_url, posted_links):
+                log.info(f"  [IG] Skipping {ig_url} (Already posted / Duplicate).")
+                continue
+                
             log.info(f"\n{'=' * 40}")
-            log.info(f"  [IG] Processing IG post [{idx}/{len(ig_posts)}] from @{post['owner']}")
+            log.info(f"  [IG] Processing IG post from @{post['owner']} ({ig_url})")
             
             # AI Rewrite the caption
             rewrite_result = rewrite_caption_ai(post.get("caption", ""))
@@ -2088,62 +2106,76 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path]) -> in
                 "image_hook": image_hook,
                 "instagram_caption": rewritten_caption,
                 "source": f"@{post['owner']}",
-                "real_url": post.get("url", ""),
-                "link": post.get("url", ""),
+                "real_url": ig_url,
+                "link": ig_url,
                 "image_url": post.get("image_url", ""),
                 "threat_level": 8,
                 "video_overlays": [],
                 "countries": [],
             }
             
-            # V17.7: Enforce Mandatory 1 Video Quota
-            MAX_IG_VIDEOS = 1
             video_url = post.get("video_url")
             is_video = True if video_url else False
             
             if is_video:
                 if ig_video_count < MAX_IG_VIDEOS:
-                    print("  [IG] Video/Reel detected! Routing to FFmpeg engine...")
+                    print("  [IG] Video/Reel detected! Downloading direct URL...")
+                    VIDEO_DIR.mkdir(parents=True, exist_ok=True)
                     video_filepath = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT.mp4"
                     video_txt = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT_Caption.txt"
                     
-                    ig_video_count += 1
-
-                # Download the video first
-                temp_video = VIDEO_DIR / f"{prefix}_IG{idx}_raw.mp4"
-                try:
-                    resp = requests.get(post["video_url"], headers=HTTP_HEADERS, timeout=30, stream=True)
-                    resp.raise_for_status()
-                    with open(temp_video, "wb") as f:
-                        for chunk in resp.iter_content(chunk_size=8192):
-                            f.write(chunk)
-                except Exception as e:
-                    log.warning(f"  [IG] Video download failed: {e}")
-                    continue
-                
-                if temp_video.exists():
-                    # Process through FFmpeg using the same function
-                    video_success = extract_and_process_video(
-                        str(temp_video), image_hook, video_filepath, video_txt,
-                        rewritten_caption, ig_article
-                    )
-                    if temp_video.exists():
-                        temp_video.unlink()
-                    if video_success:
-                        drive_queue.extend([video_filepath, video_txt])
-                        ig_count += 1
-                        log.info(f"  [IG] ✓ Video processed: {video_filepath.name}")
+                    temp_video_path = VIDEO_DIR / f"temp_ig_{ig_video_count}.mp4"
+                    
+                    # Download directly using requests (bypassing yt-dlp)
+                    try:
+                        resp = requests.get(video_url, timeout=30, stream=True)
+                        resp.raise_for_status()
+                        with open(temp_video_path, "wb") as f:
+                            for chunk in resp.iter_content(chunk_size=8192):
+                                f.write(chunk)
+                                
+                        if temp_video_path.exists():
+                            # Pass to FFmpeg 9:16 vertical processor directly
+                            video_success = format_vertical_video(
+                                str(temp_video_path), 
+                                image_hook, 
+                                video_filepath, 
+                                video_txt, 
+                                ig_url, 
+                                ig_article
+                            )
+                            if temp_video_path.exists():
+                                temp_video_path.unlink()
+                                
+                            if video_success:
+                                drive_queue.extend([video_filepath, video_txt])
+                                ig_count += 1
+                                ig_video_count += 1
+                                mark_posted(ig_url, None, posted_links, title=image_hook)
+                                log.info(f"  [IG] ✓ Video processed: {video_filepath.name}")
+                    except Exception as e:
+                        log.warning(f"  [IG] Direct video download failed: {e}")
+                else:
+                    log.info("  [IG] Video quota met. Skipping excess video.")
             else:
                 # === IMAGE MODE ===
-                log.info("  [IG] Processing as IMAGE...")
-                png = OUTPUT_DIR / f"{prefix}_IG{idx}_Card.png"
-                txt = OUTPUT_DIR / f"{prefix}_IG{idx}_Card.txt"
-                
-                generate_card(ig_article, png, threat_level=8)
-                generate_caption(ig_article, txt)
-                drive_queue.extend([png, txt])
-                ig_count += 1
-                log.info(f"  [IG] ✓ Card generated: {png.name}")
+                if ig_image_count < MAX_IG_IMAGES:
+                    log.info("  [IG] Processing as IMAGE...")
+                    png = OUTPUT_DIR / f"{prefix}_IG{idx}_Card.png"
+                    txt = OUTPUT_DIR / f"{prefix}_IG{idx}_Card.txt"
+                    
+                    try:
+                        generate_card(ig_article, png, threat_level=8)
+                        generate_caption(ig_article, txt)
+                        drive_queue.extend([png, txt])
+                        ig_count += 1
+                        ig_image_count += 1
+                        mark_posted(ig_url, None, posted_links, title=image_hook)
+                        log.info(f"  [IG] ✓ Card generated: {png.name}")
+                    except Exception as e:
+                        log.error(f"  [IG] Card generation failed: {e}")
+                else:
+                    log.info("  [IG] Image quota met. Skipping excess image.")
             
             # Rate limit
             time.sleep(5)
@@ -2152,7 +2184,7 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path]) -> in
             log.error(f"  [IG] Failed processing IG post: {e}")
             continue
     
-    log.info(f"  [IG] Instagram batch complete: {ig_count} posts processed.")
+    log.info(f"  [IG] Instagram batch complete: {ig_count} total posts processed ({ig_video_count} videos, {ig_image_count} images).")
     return ig_count
 
 def main() -> None:
@@ -2281,8 +2313,9 @@ def main() -> None:
     log.info("=" * 60)
     
     ig_posts = fetch_instagram_posts()
-    ig_processed = process_instagram_batch(ig_posts, drive_upload_queue)
+    ig_processed = process_instagram_batch(ig_posts, drive_upload_queue, posted)
     log.info(f"  [IG] {ig_processed} Instagram posts rebranded.")
+    save_posted(posted) # V18.0: Save posted duplicate tracker after IG runs
 
     # ----------------------------------------------------
     # V11.0 CAROUSEL COMPILATION & DRIVE UPLOAD
