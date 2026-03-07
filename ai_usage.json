@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 170,
+  "total_calls": 173,
   "tiers": {
-    "groq": 152,
+    "groq": 155,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T08:46:01.353881+00:00",
-      "tier": "groq",
-      "article": "How long can Iran continue the war?"
-    },
-    {
-      "timestamp": "2026-03-06T08:51:34.466490+00:00",
-      "tier": "groq",
-      "article": "NORAD intercepts 2 Russian maritime patrol aircraft near Alaska, Canada"
-    },
-    {
-      "timestamp": "2026-03-06T09:41:23.218724+00:00",
-      "tier": "groq",
-      "article": "Leak from secret UK meeting about US attacks on Iran a travesty, says Lammy"
-    },
     {
       "timestamp": "2026-03-06T09:41:42.222364+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-07T09:33:30.655073+00:00",
       "tier": "groq",
       "article": "Syrian Army pledges strong response to new escalations by SDF in eastern Aleppo"
+    },
+    {
+      "timestamp": "2026-03-07T09:55:53.851673+00:00",
+      "tier": "groq",
+      "article": "IRGC Announces Full Success in 22nd Missile Wave of Operation True Promise 4 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-07T09:56:13.440518+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters target Israeli occupation forces at the newly-established site in Markaba border town with a missile salvo: Statement 15 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-07T09:56:29.745702+00:00",
+      "tier": "groq",
+      "article": "Interior Ministry arrests perpetrators of Imam Ali Mosque bombing in Homs"
     }
   ]
 }
