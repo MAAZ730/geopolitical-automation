@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 209,
+  "total_calls": 211,
   "tiers": {
-    "groq": 191,
+    "groq": 193,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T20:38:55.092140+00:00",
-      "tier": "gemini",
-      "article": "I\u2019m an expert on global relations. Here\u2019s how Iran chooses next supreme leader"
-    },
-    {
-      "timestamp": "2026-03-06T21:32:05.976586+00:00",
-      "tier": "groq",
-      "article": "Ngoshe attack: 'Massive' numbers killed, Nigerian Senator Ndume tells BBC"
-    },
     {
       "timestamp": "2026-03-06T21:32:23.784301+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-03-07T18:27:15.040841+00:00",
       "tier": "groq",
       "article": "Loud explosions rock the occupied city of Haifa as a result of a large barrage of rockets launched from Lebanon: reports - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-07T20:33:05.759713+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted the Tel HaShomer base (the headquarters of the General Staff, southeast of \u201cTel Aviv\u201d) with a qualitative missile: statement 14 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-07T20:33:27.938092+00:00",
+      "tier": "groq",
+      "article": "Iranian FM Abbas Araghchi: My Saudi counterpart and I are in continuous contact, Saudi officials confirmed they are fully committed to preventing their territory, waters, or airspace from being used against Iran - Al-Manar TV Lebanon"
     }
   ]
 }
