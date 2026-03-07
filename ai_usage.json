@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 137,
+  "total_calls": 140,
   "tiers": {
-    "groq": 119,
+    "groq": 122,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-05T22:36:06.833774+00:00",
-      "tier": "gemini",
-      "article": "Azerbaijan says Iran struck its territory, as war spills over border"
-    },
-    {
-      "timestamp": "2026-03-05T22:36:24.221343+00:00",
-      "tier": "groq",
-      "article": "We paid \u00a31.5k for a disco bus to escape Dubai for Heathrow flight out of Middle East"
-    },
-    {
-      "timestamp": "2026-03-05T23:53:51.387766+00:00",
-      "tier": "gemini",
-      "article": "Israeli evacuation order for Beirut's southern suburbs sparks panic"
-    },
     {
       "timestamp": "2026-03-05T23:54:40.011741+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-07T05:15:48.741489+00:00",
       "tier": "groq",
       "article": "Trump has shown \u2018serious interest\u2019 in US troops deploying to Iran, report claims"
+    },
+    {
+      "timestamp": "2026-03-07T06:00:59.264366+00:00",
+      "tier": "groq",
+      "article": "Iran war: What is happening on day eight of US-Israel attacks?"
+    },
+    {
+      "timestamp": "2026-03-07T06:01:17.863022+00:00",
+      "tier": "groq",
+      "article": "Caught between Iran and Saudi Arabia, can Pakistan stay neutral for long?"
+    },
+    {
+      "timestamp": "2026-03-07T06:01:34.594374+00:00",
+      "tier": "groq",
+      "article": "Pakistani man convicted of plotting to kill Trump over death of Iranian commander"
     }
   ]
 }
