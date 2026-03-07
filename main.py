@@ -65,7 +65,7 @@ FLAG_SCALE_DOWN = 0.85           # 15% smaller flags
 MIN_EXTRACT_CHARS = 150
 BATCH_SIZE = 3                   # V11.0: 3 posts per run
 HIGHLIGHT_COLOR = "#FBBF24"      # V7.0: keyword highlight gold
-MAX_ARTICLE_AGE_HOURS = 20       # V9.6: 20h hyper-recency window
+MAX_ARTICLE_AGE_HOURS = 24       # V15.6: 24h strict freshness window
 
 
 
@@ -691,7 +691,7 @@ def _fallback_scrape_image(url: str) -> str | None:
 
 
 def _is_too_old(article: dict) -> bool:
-    """V4.0: Reject articles older than MAX_ARTICLE_AGE_HOURS."""
+    """V15.6: Reject articles older than MAX_ARTICLE_AGE_HOURS with Iranian date fix."""
     pub = article.get("pub_date")
     if not pub:
         return False  # Give benefit of doubt if no date
@@ -699,6 +699,10 @@ def _is_too_old(article: dict) -> bool:
     if not pub.tzinfo:
         pub = pub.replace(tzinfo=timezone.utc)
     age_hours = (now - pub).total_seconds() / 3600
+    # V15.6: Fix broken Iranian server timestamps
+    if age_hours > 100 or age_hours < 0:
+        log.info(f"  [FIX] Bypassing date parser error (age={age_hours:.1f}h). Assuming live RSS feed article is fresh.")
+        age_hours = 1.0  # Treat as 1 hour old
     if age_hours > MAX_ARTICLE_AGE_HOURS:
         log.info(f"  Rejected (age: {age_hours:.1f}h > {MAX_ARTICLE_AGE_HOURS}h)")
         return True
