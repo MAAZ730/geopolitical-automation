@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 131,
+  "total_calls": 134,
   "tiers": {
-    "groq": 113,
+    "groq": 116,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-05T20:41:00.915394+00:00",
-      "tier": "gemini",
-      "article": "Sri Lanka evacuates crew from Iranian navy vessel days after warship was destroyed by US"
-    },
-    {
-      "timestamp": "2026-03-05T20:41:18.347224+00:00",
-      "tier": "groq",
-      "article": "The mask slipped during Karoline Leavitt\u2019s press conference on Iran"
-    },
-    {
-      "timestamp": "2026-03-05T21:39:17.014361+00:00",
-      "tier": "gemini",
-      "article": "Israel orders more than 500,000 people to evacuate Beirut\u2019s southern suburbs"
-    },
     {
       "timestamp": "2026-03-05T21:40:12.798140+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-07T02:03:01.713885+00:00",
       "tier": "groq",
       "article": "US to send anti-drone system to Mideast after successful use in Ukraine, officials say"
+    },
+    {
+      "timestamp": "2026-03-07T04:08:25.171617+00:00",
+      "tier": "groq",
+      "article": "US, Ecuador launch joint anti-drug strikes"
+    },
+    {
+      "timestamp": "2026-03-07T04:20:24.684145+00:00",
+      "tier": "groq",
+      "article": "Middle East crisis live: explosions rock Tehran as Iran war enters second week"
+    },
+    {
+      "timestamp": "2026-03-07T04:20:42.542873+00:00",
+      "tier": "groq",
+      "article": "Trump slams Fox reporter for \u2018stupid question\u2019 about claims Russia is helping Iran"
     }
   ]
 }
