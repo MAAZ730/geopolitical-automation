@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 146,
+  "total_calls": 149,
   "tiers": {
-    "groq": 128,
+    "groq": 131,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T00:41:48.597527+00:00",
-      "tier": "groq",
-      "article": "Timeline: How joint US-Israeli strikes on Iran unfolded as war escalates"
-    },
-    {
-      "timestamp": "2026-03-06T00:42:05.562228+00:00",
-      "tier": "groq",
-      "article": "Pentagon boss Pete Hegseth says \u2018we have only just begun\u2019 in Iran "
-    },
-    {
-      "timestamp": "2026-03-06T01:26:43.725579+00:00",
-      "tier": "groq",
-      "article": "US says Iran missile attacks down 90% after strikes from B-2 bombers"
-    },
     {
       "timestamp": "2026-03-06T01:27:08.539434+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-07T07:25:59.070132+00:00",
       "tier": "groq",
       "article": "Rep. Tony Gonzales drops re-election bid after admitting affair with staffer"
+    },
+    {
+      "timestamp": "2026-03-07T07:31:23.509335+00:00",
+      "tier": "groq",
+      "article": "Iranian missiles intercepted over Saudi, UAE, drones launched at Qatar"
+    },
+    {
+      "timestamp": "2026-03-07T07:31:40.063236+00:00",
+      "tier": "groq",
+      "article": "At least 6 dead as tornado tears through Michigan and storms rattle Central US"
+    },
+    {
+      "timestamp": "2026-03-07T07:37:59.096871+00:00",
+      "tier": "groq",
+      "article": "Investigators release timeline of Utah triple homicide investigation"
     }
   ]
 }
