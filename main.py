@@ -2119,43 +2119,52 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
             
             if is_video:
                 if ig_video_count < MAX_IG_VIDEOS:
-                    print("  [IG] Video/Reel detected! Downloading direct URL...")
+                    print(f"  [IG] Video/Reel detected! Downloading direct URL...")
                     VIDEO_DIR.mkdir(parents=True, exist_ok=True)
-                    video_filepath = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT.mp4"
-                    video_txt = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT_Caption.txt"
+                    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
                     
-                    temp_video_path = VIDEO_DIR / f"temp_ig_{ig_video_count}.mp4"
+                    # Explicitly define variables to fix NameError and scope issues
+                    temp_raw = VIDEO_DIR / f"temp_ig_raw_{ig_video_count}.mp4"
+                    final_output_path = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT.mp4"
+                    caption_path = VIDEO_DIR / f"{prefix}_IG{idx}_OSINT_Caption.txt"
                     
-                    # Download directly using requests (bypassing yt-dlp)
                     try:
-                        resp = requests.get(video_url, timeout=30, stream=True)
-                        resp.raise_for_status()
-                        with open(temp_video_path, "wb") as f:
-                            for chunk in resp.iter_content(chunk_size=8192):
+                        # 1. Download the video directly
+                        video_response = requests.get(video_url, stream=True, timeout=30)
+                        video_response.raise_for_status()
+                        with open(temp_raw, 'wb') as f:
+                            for chunk in video_response.iter_content(chunk_size=8192):
                                 f.write(chunk)
+                        
+                        # 2. Process the video
+                        video_success = format_vertical_video(
+                            str(temp_raw), 
+                            image_hook, 
+                            final_output_path, 
+                            caption_path, 
+                            ig_url, 
+                            ig_article
+                        )
+                        
+                        if temp_raw.exists():
+                            temp_raw.unlink()
+                            
+                        if video_success:
+                            # 3. Create the text file with 'OSINT' in the name and enqueue
+                            with open(caption_path, "w", encoding="utf-8") as f:
+                                # Overwrite generated caption if custom writing requested, otherwise FFmpeg did it
+                                f.write(f"🚨 BREAKING:\n\n{rewritten_caption}\n")
                                 
-                        if temp_video_path.exists():
-                            # FIX (V18.1): Ensure the downloaded file path is handed down correctly
-                            temp_raw = temp_video_path
-                            video_success = format_vertical_video(
-                                str(temp_raw), 
-                                image_hook, 
-                                video_filepath, 
-                                video_txt, 
-                                ig_url, 
-                                ig_article
-                            )
-                            if temp_video_path.exists():
-                                temp_video_path.unlink()
-                                
-                            if video_success:
-                                drive_queue.extend([video_filepath, video_txt])
-                                ig_count += 1
-                                ig_video_count += 1
-                                mark_posted(ig_url, None, posted_links, title=image_hook)
-                                log.info(f"  [IG] ✓ Video processed: {video_filepath.name}")
+                            drive_queue.extend([final_output_path, caption_path])
+                            ig_count += 1
+                            ig_video_count += 1
+                            mark_posted(ig_url, None, posted_links, title=image_hook)
+                            print(f"  [IG] ✓ Video {ig_video_count}/{MAX_IG_VIDEOS} successfully processed.")
+                        else:
+                            print("  [ERROR] FFmpeg processing returned False.")
+                            
                     except Exception as e:
-                        log.warning(f"  [IG] Direct video download failed: {e}")
+                        print(f"  [ERROR] IG Video download/processing failed: {e}")
                 else:
                     log.info("  [IG] Video quota met. Skipping excess video.")
             else:
