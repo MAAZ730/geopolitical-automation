@@ -72,7 +72,8 @@ SUMMARY_CHAR_LIMIT = 500         # V7.0: Groq generates 450-480 chars
 LINE_SPACING_MULT = 1.3          # summary line-height multiplier
 FLAG_SCALE_DOWN = 0.85           # 15% smaller flags
 MIN_EXTRACT_CHARS = 150
-BATCH_SIZE = 3                   # V11.0: 3 posts per run
+BATCH_SIZE = 4                   # V16.7: 4 posts per run
+MAX_VIDEOS = 2                   # V16.7: Cap video generation at 2 per run
 HIGHLIGHT_COLOR = "#FBBF24"      # V7.0: keyword highlight gold
 MAX_ARTICLE_AGE_HOURS = 24       # V15.6: 24h strict freshness window
 
@@ -1909,12 +1910,14 @@ def upload_files_to_drive(file_paths: list[Path]):
         out = find_or_create_folder(svc, "Outputs", geo)
         for p in file_paths:
             if p and p.exists():
-                # V16.3: Route video and its OSINT caption to dedicated Video folder
+                # V16.6: Strict Asset Separation Routing
+                # Video files (.mp4) AND their OSINT caption files -> Video Folder
                 if (p.suffix == ".mp4" or "OSINT" in p.name) and VIDEO_DRIVE_FOLDER_ID:
-                    log.info(f"  [ROUTING] Sending to Dedicated Video Folder: {p.name}")
+                    log.info(f"  [ROUTING] Sending Video Asset to Dedicated Video Folder: {p.name}")
                     upload_to_drive(svc, p, VIDEO_DRIVE_FOLDER_ID)
-                # Route static cards and carousel captions to the Outputs folder
+                # Static images (.png/.jpg) AND standard post captions (_Card.txt) -> Outputs
                 else:
+                    log.info(f"  [ROUTING] Sending Post Asset to Outputs Folder: {p.name}")
                     upload_to_drive(svc, p, out)
     except Exception as exc:
         log.error(f"Drive upload failed: {exc}")
@@ -2144,6 +2147,7 @@ def main() -> None:
     
     # V12.2 Always-On Video Engine
     run_video = True
+    video_count = 0  # V16.7: Video quota counter
     
     # Store dynamic files for Drive
     drive_upload_queue = []
@@ -2172,10 +2176,10 @@ def main() -> None:
             if txt.exists():
                 carousel_caption += txt.read_text(encoding="utf-8") + "\n\n---\n\n"
 
-            # V11.0 OSINT Video
-            if run_video:
-                video_filepath = VIDEO_DIR / f"{prefix}_OSINT_Video.mp4"
-                video_txt = VIDEO_DIR / f"{prefix}_OSINT_Video_Caption.txt"
+            # V16.7: Decoupled Video Generation with Quota Cap
+            if run_video and video_count < MAX_VIDEOS:
+                video_filepath = VIDEO_DIR / f"{prefix}_OSINT_Video{video_count + 1}.mp4"
+                video_txt = VIDEO_DIR / f"{prefix}_OSINT_Video{video_count + 1}_Caption.txt"
                 video_success = extract_and_process_video(
                     article['real_url'], 
                     article['title'], 
@@ -2185,8 +2189,11 @@ def main() -> None:
                     article
                 )
                 if video_success:
-                    print(f"[SUCCESS] Prepared OSINT video: {video_filepath}")
+                    video_count += 1
+                    print(f"  [QUOTA] Video {video_count}/{MAX_VIDEOS} generated successfully.")
                     drive_upload_queue.extend([video_filepath, video_txt])
+            elif video_count >= MAX_VIDEOS:
+                log.info(f"  [QUOTA] Max videos ({MAX_VIDEOS}) reached. Skipping video for this article.")
 
             posted = mark_posted(
                 article.get("real_url", article["link"]),
