@@ -1986,11 +1986,15 @@ def fetch_instagram_posts() -> list[dict]:
     posts = []
     
     try:
-        log.info(f"  [IG] Fetching posts from {len(TARGET_IG_CHANNELS)} channels...")
+        print("  [IG] Triggering Apify Instagram Scraper...")
         run_input = {
-            "usernames": TARGET_IG_CHANNELS,
-            "resultsLimit": 2,  # 2 most recent posts per channel
+            "directUrls": [
+                "https://www.instagram.com/iran_military_officiall/",
+                "https://www.instagram.com/irgc.intel/",
+                "https://www.instagram.com/middle_east_spectator/"
+            ],
             "resultsType": "posts",
+            "resultsLimit": 2, # Grabs the 2 newest posts per page
         }
         run = client.actor("apify/instagram-scraper").call(run_input=run_input)
         
