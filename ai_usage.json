@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 161,
+  "total_calls": 164,
   "tiers": {
-    "groq": 143,
+    "groq": 146,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T05:34:18.980749+00:00",
-      "tier": "groq",
-      "article": "Iran-backed militias intensify attacks against US, Israel and allies"
-    },
-    {
-      "timestamp": "2026-03-06T05:34:36.267349+00:00",
-      "tier": "groq",
-      "article": "Forget oil \u2013 the real threat from a Hormuz closure is a global food crisis"
-    },
-    {
-      "timestamp": "2026-03-06T06:54:21.596362+00:00",
-      "tier": "groq",
-      "article": "How close is Iran to a nuclear bomb? Satellite images reveal damage from US strikes"
-    },
     {
       "timestamp": "2026-03-06T06:56:01.915974+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-07T08:40:47.934277+00:00",
       "tier": "groq",
       "article": "Peruvian state responsible for mother\u2019s death in forced sterilisation, court rules"
+    },
+    {
+      "timestamp": "2026-03-07T09:17:22.970136+00:00",
+      "tier": "groq",
+      "article": "Govt. spokeswoman reports on 7 days of US-Israeli war on Iran"
+    },
+    {
+      "timestamp": "2026-03-07T09:17:55.836430+00:00",
+      "tier": "groq",
+      "article": "Iran Army Navy fires missile towards Abraham Lincoln aircraft"
+    },
+    {
+      "timestamp": "2026-03-07T09:18:27.936702+00:00",
+      "tier": "groq",
+      "article": "\"Spring Sonata\" brings Syrian memory to Damascus stage"
     }
   ]
 }
