@@ -38,6 +38,7 @@ import pillow_avif
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output"
+VIDEO_DIR = BASE_DIR / "videos"
 FONTS_DIR = BASE_DIR / "fonts"
 FLAGS_DIR = BASE_DIR / "assets" / "flags"
 COUNTRY_MAPS_DIR = BASE_DIR / "assets" / "country_maps"
@@ -116,11 +117,37 @@ SEVERITY_KEYWORDS = [
 ]
 
 GEOPOLITICS_KEYWORDS = [
-    "war", "military", "sanctions", "strike", "defense", "crisis",
-    "conflict", "diplomatic", "ceasefire", "troops", "deployment",
-    "invasion", "missile", "airstrike", "bombardment", "armed forces",
-    "escalation", "battlefield", "retaliation", "national security",
-    "alliance", "nuclear", "interstate",
+    "war", "strike", "death", "missile", "airstrike", "drone", "casualties",
+    "offensive", "invasion", "frontline", "troops", "skirmish", "ceasefire",
+    "escalation", "retaliation", "bombing", "artillery", "ambush", "fighter jet",
+    "naval", "warship", "submarine", "tank", "radar", "air defense", "ballistic",
+    "cruise missile", "hypersonic", "nuclear", "uranium", "stealth",
+    "aircraft carrier", "treaty", "sanctions", "summit", "ambassador", "diplomat",
+    "veto", "nato", "alliance", "proxy", "embargo", "blockade", "bilateral",
+    "intelligence", "espionage", "cyberattack", "assassination", "covert",
+    "rebel", "insurgent", "militia", "guerilla", "terror", "hostage",
+    "evacuation", "refugee", "humanitarian", "annexation", "sovereignty",
+    "territory", "border", "strait", "chokepoint", "deployment", "garrison",
+    "battalion", "infantry", "special forces", "reconnaissance", "kamikaze",
+    "intercept", "dogfight", "casualty", "fatality", "wounded", "civilian",
+    "collateral damage", "war crime", "tribunal", "paramilitary", "regime",
+    "coup", "overthrow", "uprising", "protest", "riot", "crackdown",
+    "martial law", "curfew", "mobilization", "conscription", "draft", "mutiny",
+    "desertion", "defector", "pow", "prisoner of war", "interrogation",
+    "surrender", "armistice", "truce", "peacekeeping", "unsc", "resolution",
+    "condemnation", "diplomatic fallout", "expulsion", "persona non grata",
+    "embassy", "consulate", "geopolitics", "hegemony", "superpower",
+    "deterrence", "brinkmanship", "standoff", "stalemate", "flashpoint",
+    "no-fly zone", "demilitarized", "wmd", "chemical weapon", "biological weapon",
+    "fallout", "radioactive", "emp", "jamming", "electronic warfare", "satellite",
+    "recon", "surveillance", "black op", "clandestine", "mercenary", "pmc",
+    "wagner", "cartel", "smuggling", "contraband", "piracy", "hijack",
+    "maritime", "freedom of navigation", "airspace", "violation", "incursion",
+    "scramble", "alert", "defcon", "threat level", "readiness", "drill",
+    "exercise", "wargame", "live fire", "munitions", "shrapnel", "ied",
+    "minefield", "trench", "fortification", "bunker", "barracks",
+    "command post", "headquarters", "logistics", "supply chain",
+    "embassy attack", "drone swarm",
 ]
 
 EXCLUDE_MARKERS = [
@@ -819,41 +846,36 @@ Article text:
 {text}
 
 Return strict JSON with exactly 5 keys:
-- "image_summary": A comprehensive 3-4 sentence tactical summary (400-500 chars). Provide high detail on military hardware used, exact strike locations, casualty reports, and the kinetic facts. Ensure all sentences are grammatically complete. Do not end on floating or cut-off quotes. DO NOT include the phrase "THE BIG PICTURE:" anywhere — the system handles that prefix.
-- "detailed_caption": A deeply analytical, multi-paragraph intelligence briefing (4-5 paragraphs, 1000-1200 chars). This MUST be entirely distinct from image_summary. DO NOT copy-paste or repeat any sentences. Deeply explore the strategic context, regional geopolitical impact, potential diplomatic fallout, and relevant historical precedent. Explain the broader ramifications for global power dynamics. Ensure all sentences are grammatically complete.
+- "instagram_caption": Write exactly one engaging, easy-to-understand paragraph summarizing the news. Explain it like you are talking to a friend. No robotic formats, no complex jargon. Make it highly readable.
 - "flags": A list of up to two 2-letter ISO country codes (lowercase) of the PRIMARY nations physically involved in this specific event. DO NOT blindly default to "us" and "ir". If the strike happens in Bahrain, you MUST include "bh". If it involves Ukraine, include "ua". Be highly specific to the article text.
-- "keywords": Generate a massive, comma-separated list of EXACTLY 50 to 60 highly relevant, trending SEO keywords, tags, and search terms related to the article (e.g., missile, war, pentagon, drone strike, geopolitics, etc.). Do not use hashtags (#), just comma-separated words.
 - "threat_level": Rate the geopolitical severity of this event as an integer from 1 to 10. (1-4 = low/diplomatic, 5-7 = medium/tensions, 8-10 = high/war/missile strike/casualties). Return ONLY the integer.
 - "video_overlays": An array of 5 to 7 short, punchy Hinglish sentences (MAXIMUM 40 characters per sentence) that tell the story of this event. These will be flashed sequentially on a video like an Al Jazeera news reel. Make them aggressive and informative.
-- "image_hook": Write exactly 1 or 2 short lines (MAXIMUM 15 words total) summarizing the event. Use very simple, basic English. No complex words. This will be drawn in massive font on the image. Make it punchy and dramatic.
+- "image_hook": Write exactly 1 or 2 lines summarizing the event. MAXIMUM 15 words. Use EXTREMELY simple, basic English (5th-grade level). Do not use complex words like 'escalation' or 'retaliation'. Just say who attacked who, or what happened. This will go on the image.
 
 Return ONLY the JSON object, no markdown, no explanation."""
 
 
 def _parse_ai_result(result: dict) -> dict | None:
-    """V8.6: Normalize AI response keys and validate."""
+    """V14.0: Parse simplified AI response with instagram_caption."""
     countries = result.get("flags", result.get("countries", []))
-    # V8.6: Support both new split fields and legacy single summary
-    image_summary = result.get("image_summary", "")
-    detailed_caption = result.get("detailed_caption", "")
-    legacy_summary = result.get("summary", "")
-    # Use image_summary if available, else fall back to legacy summary
-    summary = image_summary or legacy_summary
-    keywords = result.get("keywords", [])
+    instagram_caption = result.get("instagram_caption", "")
     video_overlays = result.get("video_overlays", [])
-    
-    if not summary:
-        return None
     image_hook = result.get("image_hook", "")
-    out = {"summary": summary, "countries": countries, "keywords": keywords, "video_overlays": video_overlays, "image_hook": image_hook}
-    if detailed_caption:
-        out["detailed_caption"] = detailed_caption
-        
+
+    if not instagram_caption and not image_hook:
+        return None
+
+    out = {
+        "instagram_caption": instagram_caption,
+        "countries": countries,
+        "video_overlays": video_overlays,
+        "image_hook": image_hook,
+    }
     try:
         out["threat_level"] = int(result.get("threat_level", 8))
     except (ValueError, TypeError):
         out["threat_level"] = 8
-        
+
     return out
 
 
@@ -1085,43 +1107,25 @@ def _fallback_summary(text: str, headline: str) -> dict:
 
 def generate_internal_summary(article: dict) -> dict:
     """
-    V9.5: Triggers the new API waterfall.
+    V14.0: Triggers the API waterfall with simplified caption output.
     """
     full_text = (article.get("full_text") or "") or (article.get("summary") or "")
     headline = article.get("title", "")
 
     if not full_text:
-        article["paragraphs"] = [headline]
-        article["card_summary"] = headline
+        article["instagram_caption"] = headline
         article["countries"] = []
-        article["keywords"] = []
+        article["image_hook"] = headline
         return article
 
     # Run the 3-Tier API Waterfall
     result = generate_intelligence_cascade(headline, full_text)
 
-    card_summary = smart_typography(result["summary"])
-    article["card_summary"] = card_summary
+    article["instagram_caption"] = result.get("instagram_caption", "")
     article["countries"] = result.get("countries", [])
-    article["keywords"] = result.get("keywords", [])
     article["threat_level"] = result.get("threat_level", 8)
     article["video_overlays"] = result.get("video_overlays", [])
     article["image_hook"] = result.get("image_hook", "")
-
-    # Build paragraphs for caption
-    parts = card_summary.split("\n\n")
-    article["paragraphs"] = parts
-    
-    if "detailed_caption" in result:
-        article["paragraphs"].append(smart_typography(result["detailed_caption"]))
-    else:
-        # Find official statement for caption (from original text)
-        all_sentences = re.split(r'(?<=[.!?])\s+', full_text.strip())
-        statement_kw = ["said", "stated", "announced", "confirmed", "declared", "spokesperson"]
-        for s in all_sentences[3:]:
-            if any(kw in s.lower() for kw in statement_kw):
-                article["paragraphs"].append(smart_typography(s))
-                break
 
     return article
 
@@ -1489,159 +1493,184 @@ def _auto_scale(draw, text: str, font_name: str, max_width: int, max_lines: int,
 
 
 # ===========================================================================
-# 13. NEWS CARD GENERATION (V3.4 LAYOUT)
+# 12B. FLAG IMAGE HELPER
+# ===========================================================================
+
+def get_flag_image(country_code: str) -> Image.Image | None:
+    """V14.0: Download a small flag image for drawing on the white canvas."""
+    local = FLAGS_DIR / f"{country_code}.png"
+    if local.exists():
+        try:
+            return Image.open(local).convert("RGBA")
+        except Exception:
+            pass
+    url = f"https://flagcdn.com/w80/{country_code.lower()}.png"
+    try:
+        resp = requests.get(url, headers=HTTP_HEADERS, timeout=8)
+        if resp.status_code == 200:
+            img = Image.open(BytesIO(resp.content)).convert("RGBA")
+            FLAGS_DIR.mkdir(parents=True, exist_ok=True)
+            img.save(str(local), "PNG")
+            return Image.open(local).convert("RGBA")
+    except Exception:
+        pass
+    return None
+
+
+# ===========================================================================
+# 13. NEWS CARD GENERATION (V14.0 — White Canvas Bulletin)
 # ===========================================================================
 
 def generate_card(article: dict, output_path: Path, threat_level: int = 8) -> None:
-    """V13.0: Full-bleed OSINT influencer card with multi-template overlays."""
+    """V14.0: White-background News Bulletin with prominent flags and dynamic layouts."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     # ── Threat-level border color ──
     if threat_level >= 8:
-        banner_color = "#990000"  # Blood Red (War/Strikes)
+        banner_color = "#990000"  # Blood Red
     elif threat_level >= 5:
-        banner_color = "#B8860B"  # Yellow/Dark Goldenrod (Tensions)
+        banner_color = "#B8860B"  # Yellow/Dark Goldenrod
     else:
-        banner_color = "#1E3A8A"  # Deep Blue (Diplomacy/General)
+        banner_color = "#1E3A8A"  # Deep Blue
 
-    # ── Full-bleed 1080x1080 base image ──
+    BORDER_PX = 6
+    pad_x = 50
+
+    # ── White canvas base ──
+    canvas = Image.new("RGB", (CARD_WIDTH, CARD_HEIGHT), (255, 255, 255))
+    draw = ImageDraw.Draw(canvas)
+
+    # ── Prepare news image (half-screen 1080x540) ──
     art_img = download_article_image(article)
-    if art_img:
-        canvas = ImageOps.fit(art_img.convert("RGB"), (CARD_WIDTH, CARD_HEIGHT), Image.LANCZOS)
-    else:
+    if not art_img:
         fallback = get_locator_map(article) or get_actor_image(article)
         if fallback:
-            canvas = ImageOps.fit(fallback.convert("RGB"), (CARD_WIDTH, CARD_HEIGHT), Image.LANCZOS)
-        else:
-            canvas = Image.new("RGB", (CARD_WIDTH, CARD_HEIGHT), _hex(TEXT_PANEL_BG))
-    log.info("  Card: full-bleed base created")
+            art_img = fallback
+    if art_img:
+        news_img = ImageOps.fit(art_img.convert("RGB"), (CARD_WIDTH, 540), Image.LANCZOS)
+    else:
+        news_img = Image.new("RGB", (CARD_WIDTH, 540), (30, 30, 40))
 
-    # Convert to RGBA for overlay compositing
-    canvas = canvas.convert("RGBA")
-
-    # ── Random layout template ──
-    layout_style = random.choice(["bottom_heavy", "center_focus", "top_alert"])
-    log.info(f"  Card layout: {layout_style}")
+    # ── Prepare flags ──
+    countries = detect_countries(article)
+    flag_images = []
+    for code in countries[:2]:
+        fi = get_flag_image(code)
+        if fi:
+            fi.thumbnail((120, 80), Image.LANCZOS)
+            flag_images.append(fi)
 
     # ── Get the punchy image_hook text ──
     hook_text = article.get("image_hook", "").strip()
     if not hook_text:
-        # Fallback: use headline truncated to ~15 words
         words = article.get("title", "BREAKING NEWS").split()
         hook_text = " ".join(words[:15])
     hook_text = smart_typography(hook_text)
 
-    # ── Draw translucent overlay + hook text ──
-    overlay = Image.new("RGBA", (CARD_WIDTH, CARD_HEIGHT), (0, 0, 0, 0))
-    odraw = ImageDraw.Draw(overlay)
-
-    BORDER_PX = 15
-    pad_x = 40  # horizontal text padding inside overlay
-
-    # Auto-scale hook font: start large, shrink to fit
-    hook_max_width = CARD_WIDTH - BORDER_PX * 2 - pad_x * 2
-    hook_font_size = 80
+    # ── Auto-scale hook font ──
+    hook_max_width = CARD_WIDTH - pad_x * 2
+    hook_font_size = 72
     hook_font = _load_font("header", hook_font_size)
-    hook_lines = _pixel_wrap(odraw, hook_text, hook_font, hook_max_width, 4)
-    # Shrink if too many lines
-    while len(hook_lines) > 4 and hook_font_size > 44:
+    hook_lines = _pixel_wrap(draw, hook_text, hook_font, hook_max_width, 4)
+    while len(hook_lines) > 4 and hook_font_size > 40:
         hook_font_size -= 4
         hook_font = _load_font("header", hook_font_size)
-        hook_lines = _pixel_wrap(odraw, hook_text, hook_font, hook_max_width, 4)
-    # Ensure minimum size
-    if hook_font_size < 44:
-        hook_font_size = 44
-        hook_font = _load_font("header", hook_font_size)
-        hook_lines = _pixel_wrap(odraw, hook_text, hook_font, hook_max_width, 4)
+        hook_lines = _pixel_wrap(draw, hook_text, hook_font, hook_max_width, 4)
 
     line_h = hook_font_size + 10
     text_block_h = len(hook_lines) * line_h
 
-    if layout_style == "bottom_heavy":
-        # Black rectangle (opacity 180) across bottom third
-        overlay_top = CARD_HEIGHT - CARD_HEIGHT // 3
-        odraw.rectangle(
-            [(BORDER_PX, overlay_top), (CARD_WIDTH - BORDER_PX, CARD_HEIGHT - BORDER_PX)],
-            fill=(0, 0, 0, 180)
-        )
-        # Left-aligned text in bottom third
-        text_y = overlay_top + 25
-        for i, line in enumerate(hook_lines):
-            odraw.text((BORDER_PX + pad_x, text_y + i * line_h),
-                       line, fill=(255, 255, 255, 255), font=hook_font)
+    # ── Random layout ──
+    layout = random.choice(["image_top", "image_bottom", "image_center"])
+    log.info(f"  Card layout: {layout}")
 
-    elif layout_style == "center_focus":
-        # Black rectangle (opacity 150) across exact center
-        center_y = CARD_HEIGHT // 2
-        overlay_h = text_block_h + 60
-        overlay_top = center_y - overlay_h // 2
-        overlay_bot = center_y + overlay_h // 2
-        odraw.rectangle(
-            [(BORDER_PX, overlay_top), (CARD_WIDTH - BORDER_PX, overlay_bot)],
-            fill=(0, 0, 0, 150)
-        )
-        # Center-aligned text
-        text_y = overlay_top + 30
+    if layout == "image_top":
+        # Image at top
+        canvas.paste(news_img, (0, 0))
+        # Flags centered around y=600
+        _draw_flags_centered(canvas, flag_images, y_center=600)
+        # Hook text centered around y=750
+        text_y = 750 - text_block_h // 2
         for i, line in enumerate(hook_lines):
             try:
-                lw = odraw.textlength(line, font=hook_font)
+                lw = draw.textlength(line, font=hook_font)
             except AttributeError:
-                bbox = odraw.textbbox((0, 0), line, font=hook_font)
+                bbox = draw.textbbox((0, 0), line, font=hook_font)
                 lw = bbox[2] - bbox[0]
             lx = (CARD_WIDTH - lw) / 2
-            odraw.text((lx, text_y + i * line_h),
-                       line, fill=(255, 255, 255, 255), font=hook_font)
+            draw.text((lx, text_y + i * line_h), line, fill=(0, 0, 0), font=hook_font)
 
-    elif layout_style == "top_alert":
-        # Black rectangle at the top
-        overlay_bot = text_block_h + 80
-        odraw.rectangle(
-            [(BORDER_PX, BORDER_PX), (CARD_WIDTH - BORDER_PX, overlay_bot)],
-            fill=(0, 0, 0, 180)
-        )
-        # Left-aligned text at top
-        text_y = BORDER_PX + 25
+    elif layout == "image_bottom":
+        # Flags centered around y=120
+        _draw_flags_centered(canvas, flag_images, y_center=120)
+        # Hook text centered around y=280
+        text_y = 280 - text_block_h // 2
         for i, line in enumerate(hook_lines):
-            odraw.text((BORDER_PX + pad_x, text_y + i * line_h),
-                       line, fill=(255, 255, 255, 255), font=hook_font)
+            try:
+                lw = draw.textlength(line, font=hook_font)
+            except AttributeError:
+                bbox = draw.textbbox((0, 0), line, font=hook_font)
+                lw = bbox[2] - bbox[0]
+            lx = (CARD_WIDTH - lw) / 2
+            draw.text((lx, text_y + i * line_h), line, fill=(0, 0, 0), font=hook_font)
+        # Image at bottom
+        canvas.paste(news_img, (0, 540))
 
-    # Composite overlay onto canvas
-    canvas = Image.alpha_composite(canvas, overlay)
+    elif layout == "image_center":
+        # Smaller image in center band
+        center_img = ImageOps.fit(art_img.convert("RGB") if art_img else news_img, (CARD_WIDTH, 400), Image.LANCZOS)
+        # Hook text at top y=150
+        text_y = 150 - text_block_h // 2
+        if text_y < 30:
+            text_y = 30
+        for i, line in enumerate(hook_lines):
+            try:
+                lw = draw.textlength(line, font=hook_font)
+            except AttributeError:
+                bbox = draw.textbbox((0, 0), line, font=hook_font)
+                lw = bbox[2] - bbox[0]
+            lx = (CARD_WIDTH - lw) / 2
+            draw.text((lx, text_y + i * line_h), line, fill=(0, 0, 0), font=hook_font)
+        # Image in center
+        canvas.paste(center_img, (0, 340))
+        # Flags at bottom y=850
+        _draw_flags_centered(canvas, flag_images, y_center=850)
 
-    # ── Threat-level border: 15px around entire image ──
+    # ── Threat-level border ──
     border_rgb = _hex(banner_color)
-    border_overlay = Image.new("RGBA", (CARD_WIDTH, CARD_HEIGHT), (0, 0, 0, 0))
-    bdraw = ImageDraw.Draw(border_overlay)
-    # Top
-    bdraw.rectangle([(0, 0), (CARD_WIDTH, BORDER_PX)], fill=(*border_rgb, 255))
-    # Bottom
-    bdraw.rectangle([(0, CARD_HEIGHT - BORDER_PX), (CARD_WIDTH, CARD_HEIGHT)], fill=(*border_rgb, 255))
-    # Left
-    bdraw.rectangle([(0, 0), (BORDER_PX, CARD_HEIGHT)], fill=(*border_rgb, 255))
-    # Right
-    bdraw.rectangle([(CARD_WIDTH - BORDER_PX, 0), (CARD_WIDTH, CARD_HEIGHT)], fill=(*border_rgb, 255))
-    canvas = Image.alpha_composite(canvas, border_overlay)
+    draw = ImageDraw.Draw(canvas)
+    draw.rectangle([(0, 0), (CARD_WIDTH - 1, BORDER_PX)], fill=border_rgb)
+    draw.rectangle([(0, CARD_HEIGHT - BORDER_PX), (CARD_WIDTH - 1, CARD_HEIGHT - 1)], fill=border_rgb)
+    draw.rectangle([(0, 0), (BORDER_PX, CARD_HEIGHT - 1)], fill=border_rgb)
+    draw.rectangle([(CARD_WIDTH - BORDER_PX, 0), (CARD_WIDTH - 1, CARD_HEIGHT - 1)], fill=border_rgb)
 
-    # ── @geopoliticsofical watermark — bottom right corner ──
-    wm_overlay = Image.new("RGBA", (CARD_WIDTH, CARD_HEIGHT), (0, 0, 0, 0))
-    wdraw = ImageDraw.Draw(wm_overlay)
+    # ── @geopoliticsofical watermark — bottom center, dark gray ──
     brand_str = "@geopoliticsofical"
-    brand_font = _load_font("footer", 20)
+    brand_font = _load_font("footer", 18)
     try:
-        brand_w = wdraw.textlength(brand_str, font=brand_font)
+        brand_w = draw.textlength(brand_str, font=brand_font)
     except AttributeError:
-        bbox = wdraw.textbbox((0, 0), brand_str, font=brand_font)
+        bbox = draw.textbbox((0, 0), brand_str, font=brand_font)
         brand_w = bbox[2] - bbox[0]
-    brand_x = CARD_WIDTH - int(brand_w) - BORDER_PX - 15
-    brand_y = CARD_HEIGHT - BORDER_PX - 30
-    wdraw.text((brand_x, brand_y), brand_str,
-              fill=(255, 255, 255, 160), font=brand_font)
-    canvas = Image.alpha_composite(canvas, wm_overlay)
+    brand_x = (CARD_WIDTH - int(brand_w)) // 2
+    brand_y = CARD_HEIGHT - BORDER_PX - 28
+    draw.text((brand_x, brand_y), brand_str, fill=_hex("#555555"), font=brand_font)
 
-    # Convert back to RGB for saving
-    canvas = canvas.convert("RGB")
     canvas.save(str(output_path), "PNG", quality=95)
     log.info(f"  Card saved: {output_path}")
+
+
+def _draw_flags_centered(canvas: Image.Image, flag_images: list, y_center: int) -> None:
+    """Paste flag images horizontally centered at the given y_center."""
+    if not flag_images:
+        return
+    gap = 30
+    total_w = sum(f.width for f in flag_images) + gap * (len(flag_images) - 1)
+    x = (CARD_WIDTH - total_w) // 2
+    for fi in flag_images:
+        fy = y_center - fi.height // 2
+        canvas.paste(fi, (x, fy), fi)
+        x += fi.width + gap
 
 
 # ===========================================================================
@@ -1649,63 +1678,20 @@ def generate_card(article: dict, output_path: Path, threat_level: int = 8) -> No
 # ===========================================================================
 
 def generate_caption(article: dict, output_path: Path) -> None:
-    """V8.6: Multi-paragraph exhaustive caption with distinct text from card."""
+    """V14.1: Clean, human-readable Instagram caption."""
     headline = smart_typography(article.get("title", ""))
-    paragraphs = article.get("paragraphs", [])
-    summary = article.get("card_summary", article.get("summary", ""))
-    detailed = article.get("detailed_caption", "")
+    instagram_caption = article.get("instagram_caption", "News update.")
     source = article.get("source", "Unknown")
     link = article.get("real_url", article.get("link", ""))
-    dateline = format_dateline(article.get("pub_date"))
-    raw_keywords = article.get("keywords", "")
-    if isinstance(raw_keywords, list):
-        keywords_str = ", ".join([str(k).strip() for k in raw_keywords])
-    else:
-        keywords_str = str(raw_keywords).strip()
-    final_keywords = ", ".join([k.strip() for k in keywords_str.split(",") if k.strip()])
-    countries = article.get("countries", [])
 
-    lines = []
-    # Title block
-    lines.append(f"\u26a0\ufe0f {headline}")
-    lines.append("")
+    caption_content = f"\u26a0\ufe0f {headline}\n\n"
+    caption_content += f"{instagram_caption}\n\n"
+    caption_content += f"\U0001f4f0 Source: {source}\n"
+    caption_content += f"\U0001f517 {link}\n\n"
+    caption_content += "Follow and like @geopoliticsofical for daily global intelligence! \U0001f30d\n\n"
+    caption_content += "#Geopolitics #NewsUpdate #GlobalAffairs #Military #BreakingNews\n"
 
-    # AI-generated tactical summary (short hook from card)
-    if summary:
-        lines.append("\U0001f4cc INTELLIGENCE BRIEF:")
-        lines.append(f"THE BIG PICTURE: {summary.replace('THE BIG PICTURE: ', '').replace('THE BIG PICTURE:', '')}")
-        lines.append("")
-
-    # V8.6: Detailed caption — entirely distinct from image_summary
-    if detailed:
-        lines.append("\U0001f4cb DETAILED ANALYSIS:")
-        for part in detailed.split("\n\n"):
-            part = part.strip()
-            if part:
-                lines.append(part)
-                lines.append("")
-    elif paragraphs:
-        lines.append("\U0001f4cb DETAILED ANALYSIS:")
-        for para in paragraphs:
-            lines.append(para)
-            lines.append("")
-
-    # Metadata
-    lines.append("\u2500" * 30)
-    lines.append(f"\U0001f4f0 Source: {source}")
-    lines.append(f"\U0001f517 {link}")
-    lines.append(f"\U0001f4c5 {dateline}")
-    if countries:
-        flag_str = " ".join(f":{c}:" for c in countries)
-        lines.append(f"\U0001f30d Nations: {flag_str}")
-    if final_keywords:
-        lines.append(f"\U0001f3af Keywords: {final_keywords}")
-    lines.append("")
-    lines.append("#Geopolitics #BreakingNews #WarUpdate #MilitaryIntel #GlobalAffairs")
-    lines.append("")
-    lines.append("Follow @geopoliticsofical for real-time intelligence updates.")
-
-    output_path.write_text("\n".join(lines), encoding="utf-8")
+    output_path.write_text(caption_content, encoding="utf-8")
     log.info(f"  Caption saved: {output_path}")
 
 
@@ -1788,27 +1774,14 @@ def extract_and_process_video(article_url: str, headline: str, output_filepath: 
         
         subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT, check=True)
         
-        # V12.3: Build Full OSINT Video Caption
-        flags = parsed_json.get("countries", [])
-        raw_keywords = parsed_json.get("keywords", "")
-        if isinstance(raw_keywords, list):
-            keywords_str = ", ".join([str(k).strip() for k in raw_keywords])
-        else:
-            keywords_str = str(raw_keywords).strip()
-        final_keywords = ", ".join([k.strip() for k in keywords_str.split(",") if k.strip()])
+        # V14.1: Build simplified OSINT Video Caption
+        instagram_caption = parsed_json.get("instagram_caption", "News update.")
 
-        image_summary = parsed_json.get("summary", "")
-        detailed_caption = parsed_json.get("detailed_caption", "")
-        
-        video_caption_content = f"🌍 Nations: {', '.join(flags)}\n"
-        if final_keywords:
-            video_caption_content += f"🎯 Keywords: {final_keywords}\n\n"
-        video_caption_content += "#Geopolitics #BreakingNews #WarUpdate #MilitaryIntel #GlobalAffairs\n\n"
-        video_caption_content += "Follow @geopoliticsofical for real-time intelligence updates.\n\n---\n\n"
-        video_caption_content += f"⚠️ {headline}\n\n"
-        video_caption_content += f"📌 INTELLIGENCE BRIEF:\n{image_summary}\n\n"
-        if detailed_caption:
-            video_caption_content += f"📋 DETAILED ANALYSIS:\n{detailed_caption}\n"
+        video_caption_content = f"\u26a0\ufe0f {headline}\n\n"
+        video_caption_content += f"{instagram_caption}\n\n"
+        video_caption_content += f"\U0001f4f0 Source: {headline}\n\n"
+        video_caption_content += "Follow and like @geopoliticsofical for daily global intelligence! \U0001f30d\n\n"
+        video_caption_content += "#Geopolitics #NewsUpdate #GlobalAffairs #Military #BreakingNews\n"
 
         with open(caption_filepath, "w", encoding="utf-8") as vf:
             vf.write(video_caption_content)
@@ -1903,6 +1876,10 @@ def main() -> None:
     log.info("Geopolitical Breaking News v11.0 — Omni-Channel Engine starting")
     log.info("=" * 60)
 
+    # Ensure output directories exist for both static cards and video assets.
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    VIDEO_DIR.mkdir(parents=True, exist_ok=True)
+
     articles = fetch_articles()
     if not articles:
         log.info("No articles. Exiting.")
@@ -1960,8 +1937,8 @@ def main() -> None:
 
             # V11.0 OSINT Video
             if run_video:
-                video_filepath = OUTPUT_DIR / f"{prefix}_OSINT_Video.mp4"
-                video_txt = OUTPUT_DIR / f"{prefix}_OSINT_Video_Caption.txt"
+                video_filepath = VIDEO_DIR / f"{prefix}_OSINT_Video.mp4"
+                video_txt = VIDEO_DIR / f"{prefix}_OSINT_Video_Caption.txt"
                 video_success = extract_and_process_video(
                     article['real_url'], 
                     article['title'], 
