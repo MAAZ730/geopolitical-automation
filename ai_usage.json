@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 182,
+  "total_calls": 186,
   "tiers": {
-    "groq": 164,
+    "groq": 168,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T11:56:35.676804+00:00",
-      "tier": "groq",
-      "article": "Iceland proposes referendum on resuming EU accession talks in August \u2013 Europe live"
-    },
-    {
-      "timestamp": "2026-03-06T13:00:03.575397+00:00",
-      "tier": "groq",
-      "article": "US likely responsible for deadly strike on Iran girls\u2019 school, say military officials"
-    },
-    {
-      "timestamp": "2026-03-06T13:02:32.258806+00:00",
-      "tier": "groq",
-      "article": "What is the PrSM missile that the US used for the first time in Iran?"
-    },
-    {
-      "timestamp": "2026-03-06T13:02:49.630763+00:00",
-      "tier": "groq",
-      "article": "Southern Lebanon residents rush to flee homes as Israel pounds Beirut with bombs"
-    },
     {
       "timestamp": "2026-03-06T14:00:53.783516+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-07T11:25:50.081776+00:00",
       "tier": "groq",
       "article": "Member of Iran's Defense Council warns Iraqi Kurdistan region"
+    },
+    {
+      "timestamp": "2026-03-07T11:36:03.525593+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz has become insecure due to US mischiefs"
+    },
+    {
+      "timestamp": "2026-03-07T11:36:36.974437+00:00",
+      "tier": "groq",
+      "article": "Iran air defense shoots down 13 drones"
+    },
+    {
+      "timestamp": "2026-03-07T11:37:11.039322+00:00",
+      "tier": "groq",
+      "article": "Iranian, Russian presidents discuss war developments"
+    },
+    {
+      "timestamp": "2026-03-07T11:37:44.093536+00:00",
+      "tier": "groq",
+      "article": "EU states to be legitimate targets if they join aggression"
     }
   ]
 }
