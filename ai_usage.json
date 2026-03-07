@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 125,
+  "total_calls": 128,
   "tiers": {
-    "groq": 107,
+    "groq": 110,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-05T16:12:55.444517+00:00",
-      "tier": "gemini",
-      "article": "\u2018Everyone\u2019s calling\u2019: demand for private jets from UK firm soars by up to 300% amid Iran war"
-    },
-    {
-      "timestamp": "2026-03-05T16:13:31.897302+00:00",
-      "tier": "gemini",
-      "article": "We paid \u00a31.5k for a disco bus to escape Dubai for Heathrow flight out of Middle East"
-    },
-    {
-      "timestamp": "2026-03-05T19:46:03.432502+00:00",
-      "tier": "groq",
-      "article": "Missiles fired by US, Israel hit two schools near Tehran: Iranian media"
-    },
     {
       "timestamp": "2026-03-05T19:46:21.926005+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-06T23:37:53.954156+00:00",
       "tier": "groq",
       "article": "US President Donald Trump sets his sights on crisis-hit Cuba after Iran action"
+    },
+    {
+      "timestamp": "2026-03-07T00:01:41.284958+00:00",
+      "tier": "groq",
+      "article": "Lousy job growth and high gas: the economy is in crisis and puts Trump at risk"
+    },
+    {
+      "timestamp": "2026-03-07T00:07:09.038034+00:00",
+      "tier": "groq",
+      "article": "Messi criticised for applauding Trump amid US attacks on Iran"
+    },
+    {
+      "timestamp": "2026-03-07T00:07:25.934704+00:00",
+      "tier": "groq",
+      "article": "White House posts \u2018American justice\u2019 video days after Iran school attack"
     }
   ]
 }
