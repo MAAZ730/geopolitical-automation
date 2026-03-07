@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 205,
+  "total_calls": 206,
   "tiers": {
-    "groq": 187,
+    "groq": 188,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T19:37:09.921986+00:00",
-      "tier": "groq",
-      "article": "Russia has provided Iran with information that can help Tehran strike US military, AP sources say"
-    },
     {
       "timestamp": "2026-03-06T19:37:26.904587+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-03-07T14:10:24.289040+00:00",
       "tier": "groq",
       "article": "Vice president explains about Pezeshkian's remarks on war"
+    },
+    {
+      "timestamp": "2026-03-07T14:54:11.109225+00:00",
+      "tier": "groq",
+      "article": "Hezbollah resistance fighters targeted the Ein Zeitim base northwest of the occupied city of Safed with a rocket barrage: Military Media statement no.8 - Al-Manar TV Lebanon"
     }
   ]
 }
