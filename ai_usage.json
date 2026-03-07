@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 186,
+  "total_calls": 190,
   "tiers": {
-    "groq": 168,
+    "groq": 172,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T14:00:53.783516+00:00",
-      "tier": "groq",
-      "article": "US investigators believe strike on Iranian girls\u2019 school probably carried out by US forces"
-    },
-    {
-      "timestamp": "2026-03-06T14:01:13.178912+00:00",
-      "tier": "groq",
-      "article": "Fear grips Tehran as \u2018worst night\u2019 of US-Israeli bombs turns neighbourhoods to rubble"
-    },
-    {
-      "timestamp": "2026-03-06T14:01:31.707382+00:00",
-      "tier": "groq",
-      "article": "Australia complains to China after \u2018unsafe and unprofessional\u2019 helicopter encounter"
-    },
-    {
-      "timestamp": "2026-03-06T14:51:11.511737+00:00",
-      "tier": "groq",
-      "article": "US and Israel threaten major escalation as airstrikes bombard Iran and Lebanon"
-    },
     {
       "timestamp": "2026-03-06T14:51:31.782717+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-07T11:37:44.093536+00:00",
       "tier": "groq",
       "article": "EU states to be legitimate targets if they join aggression"
+    },
+    {
+      "timestamp": "2026-03-07T11:47:52.883118+00:00",
+      "tier": "groq",
+      "article": "IRGC launches 23rd wave of True Promise Operation"
+    },
+    {
+      "timestamp": "2026-03-07T11:48:26.681737+00:00",
+      "tier": "groq",
+      "article": "Oil prices surge toward $90 amid tension in Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-03-07T11:48:59.373375+00:00",
+      "tier": "groq",
+      "article": "Iran not yet used its new weapons against aggressors"
+    },
+    {
+      "timestamp": "2026-03-07T11:49:32.220006+00:00",
+      "tier": "groq",
+      "article": "Reinforcements for the Syrian Arab Army move toward deployment line east of Aleppo"
     }
   ]
 }
