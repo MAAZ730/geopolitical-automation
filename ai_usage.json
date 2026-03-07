@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 155,
+  "total_calls": 158,
   "tiers": {
-    "groq": 137,
+    "groq": 140,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T02:12:27.445616+00:00",
-      "tier": "groq",
-      "article": "Some Gulf countries frustrated with lack of notice about Iran strikes, defense help, AP sources say"
-    },
-    {
-      "timestamp": "2026-03-06T02:12:45.311072+00:00",
-      "tier": "groq",
-      "article": "Major blackout leaves millions without power as energy crisis deepens"
-    },
-    {
-      "timestamp": "2026-03-06T04:22:29.974426+00:00",
-      "tier": "groq",
-      "article": "Intense Israeli strikes target Iran and Lebanon as US warns bombardment to 'surge dramatically'"
-    },
     {
       "timestamp": "2026-03-06T04:22:48.913916+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-07T08:16:21.305799+00:00",
       "tier": "groq",
       "article": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy"
+    },
+    {
+      "timestamp": "2026-03-07T08:26:35.502673+00:00",
+      "tier": "groq",
+      "article": "Man accused of Natalie McNally\u2019s murder beat previous partner, court told"
+    },
+    {
+      "timestamp": "2026-03-07T08:26:52.750918+00:00",
+      "tier": "groq",
+      "article": "Arkansas mother killed herself and two kids, say new autopsy results"
+    },
+    {
+      "timestamp": "2026-03-07T08:29:56.987742+00:00",
+      "tier": "groq",
+      "article": "German twist in the Telegraph tale shatters Lord Rothermere\u2019s dreams"
     }
   ]
 }
