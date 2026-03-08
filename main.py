@@ -2241,9 +2241,9 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                     import subprocess
                     print(f"  [IG] Video/Reel detected! Downloading direct URL...")
                     
-                    temp_video_path = os.path.join("videos", f"temp_ig_raw_{successful_post_counter}.mp4")
-                    final_vid_path = os.path.join(RUN_DIR, f"{FN}_{successful_post_counter}.mp4")
-                    caption_path = os.path.join(RUN_DIR, f"{FN}_{successful_post_counter}.txt")
+                    temp_video_path = os.path.join("videos", f"temp_ig_raw_{successful_post_counter:02d}.mp4")
+                    final_vid_path = os.path.join(RUN_DIR, f"{successful_post_counter:02d}_Video.mp4")
+                    caption_path = os.path.join(RUN_DIR, f"{successful_post_counter:02d}_Caption.txt")
                     
                     try:
                         # 1. Download video
@@ -2287,8 +2287,8 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                 # === IMAGE MODE ===
                 if ig_image_count < MAX_IG_IMAGES:
                     log.info("  [IG] Processing as IMAGE...")
-                    png = Path(RUN_DIR) / f"{FN}_{successful_post_counter}.png"
-                    txt = Path(RUN_DIR) / f"{FN}_{successful_post_counter}.txt"
+                    png = Path(RUN_DIR) / f"{successful_post_counter:02d}_Image.png"
+                    txt = Path(RUN_DIR) / f"{successful_post_counter:02d}_Caption.txt"
                     
                     try:
                         # Ensure we clean caption for text generation too
@@ -2385,8 +2385,8 @@ def main() -> None:
             # IMAGE mode: standard card generation
             log.info("  Generating static card")
             
-            png = OUTPUT_DIR / f"{FN}_{successful_post_counter}.png"
-            txt = OUTPUT_DIR / f"{FN}_{successful_post_counter}.txt"
+            png = OUTPUT_DIR / f"{successful_post_counter:02d}_Image.png"
+            txt = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
 
             
             threat_level = int(article.get("threat_level", 8))
