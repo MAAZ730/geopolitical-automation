@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 252,
+  "total_calls": 256,
   "tiers": {
-    "groq": 234,
+    "groq": 238,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T08:15:47.882792+00:00",
-      "tier": "groq",
-      "article": "Russian strike on Kharkiv apartment block kills seven"
-    },
-    {
-      "timestamp": "2026-03-07T08:16:04.245021+00:00",
-      "tier": "groq",
-      "article": "Hezbollah, Israeli troops clash on the ground in eastern Lebanon\u2019s Bekaa"
-    },
-    {
-      "timestamp": "2026-03-07T08:16:21.305799+00:00",
-      "tier": "groq",
-      "article": "Hungary seizes millions of euros in cash and gold from Ukrainian convoy"
-    },
-    {
-      "timestamp": "2026-03-07T08:26:35.502673+00:00",
-      "tier": "groq",
-      "article": "Man accused of Natalie McNally\u2019s murder beat previous partner, court told"
-    },
     {
       "timestamp": "2026-03-07T08:26:52.750918+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T07:54:23.497552+00:00",
       "tier": "groq",
       "article": "Reinforcements for the Syrian Arab Army move toward deployment line east of Aleppo"
+    },
+    {
+      "timestamp": "2026-03-08T08:34:38.829516+00:00",
+      "tier": "groq",
+      "article": "Israeli Ministry of Health: 1,929 injured Israelis evacuated to hospitals since the start of the war with Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T08:35:00.427208+00:00",
+      "tier": "groq",
+      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
+    },
+    {
+      "timestamp": "2026-03-08T08:35:18.783877+00:00",
+      "tier": "groq",
+      "article": "Reinforcements for the Syrian Arab Army move toward deployment line east of Aleppo"
+    },
+    {
+      "timestamp": "2026-03-08T08:35:36.477210+00:00",
+      "tier": "groq",
+      "article": "Israeli attack on hotel in Lebanon\u2019s Beirut kills four"
     }
   ]
 }
