@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 244,
+  "total_calls": 248,
   "tiers": {
-    "groq": 226,
+    "groq": 230,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T07:20:33.165442+00:00",
-      "tier": "groq",
-      "article": "Iran-US latest: Major Tehran airport hit ahead of \u2018biggest bombing campaign\u2019 warning"
-    },
-    {
-      "timestamp": "2026-03-07T07:25:59.070132+00:00",
-      "tier": "groq",
-      "article": "Rep. Tony Gonzales drops re-election bid after admitting affair with staffer"
-    },
-    {
-      "timestamp": "2026-03-07T07:31:23.509335+00:00",
-      "tier": "groq",
-      "article": "Iranian missiles intercepted over Saudi, UAE, drones launched at Qatar"
-    },
-    {
-      "timestamp": "2026-03-07T07:31:40.063236+00:00",
-      "tier": "groq",
-      "article": "At least 6 dead as tornado tears through Michigan and storms rattle Central US"
-    },
     {
       "timestamp": "2026-03-07T07:37:59.096871+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T06:08:16.486578+00:00",
       "tier": "groq",
       "article": "Iran warns Baku to prevent expanding insecurity in region"
+    },
+    {
+      "timestamp": "2026-03-08T07:08:27.289893+00:00",
+      "tier": "groq",
+      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
+    },
+    {
+      "timestamp": "2026-03-08T07:08:45.657527+00:00",
+      "tier": "groq",
+      "article": "\u2018You initiated war and Iran will end it\u2019"
+    },
+    {
+      "timestamp": "2026-03-08T07:09:45.380340+00:00",
+      "tier": "groq",
+      "article": "Iran friend to its neighbors: FM Araghchi"
+    },
+    {
+      "timestamp": "2026-03-08T07:10:44.605397+00:00",
+      "tier": "groq",
+      "article": "Reinforcements for the Syrian Arab Army move toward deployment line east of Aleppo"
     }
   ]
 }
