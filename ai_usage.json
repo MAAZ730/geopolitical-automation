@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 232,
+  "total_calls": 236,
   "tiers": {
-    "groq": 214,
+    "groq": 218,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T04:20:24.684145+00:00",
-      "tier": "groq",
-      "article": "Middle East crisis live: explosions rock Tehran as Iran war enters second week"
-    },
-    {
-      "timestamp": "2026-03-07T04:20:42.542873+00:00",
-      "tier": "groq",
-      "article": "Trump slams Fox reporter for \u2018stupid question\u2019 about claims Russia is helping Iran"
-    },
-    {
-      "timestamp": "2026-03-07T05:15:12.954608+00:00",
-      "tier": "groq",
-      "article": "Three people killed and three hospitalized as Michigan town hit by tornado"
-    },
-    {
-      "timestamp": "2026-03-07T05:15:30.733560+00:00",
-      "tier": "groq",
-      "article": "Why Yemen\u2019s Houthis are staying out of Israel-US fight with Iran \u2013 for now"
-    },
     {
       "timestamp": "2026-03-07T05:15:48.741489+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T04:25:28.469074+00:00",
       "tier": "groq",
       "article": "Trump says US does not need UK\u2019s aircraft carriers for Iran war"
+    },
+    {
+      "timestamp": "2026-03-08T04:44:09.609745+00:00",
+      "tier": "groq",
+      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
+    },
+    {
+      "timestamp": "2026-03-08T04:44:28.671261+00:00",
+      "tier": "groq",
+      "article": "Iran preparing for long-term war with enemy: Spox"
+    },
+    {
+      "timestamp": "2026-03-08T04:45:28.824127+00:00",
+      "tier": "groq",
+      "article": "Riyadh tries hard to limit scope of war: Arab media"
+    },
+    {
+      "timestamp": "2026-03-08T04:46:28.913512+00:00",
+      "tier": "groq",
+      "article": "How far will the Iran war spillover?"
     }
   ]
 }
