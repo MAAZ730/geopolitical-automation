@@ -69,6 +69,8 @@ RUN_DIR = BASE_DIR / "output" / folder_name
 os.makedirs(RUN_DIR, exist_ok=True)
 os.makedirs(BASE_DIR / "videos", exist_ok=True)
 
+successful_post_counter = 1
+
 OUTPUT_DIR = RUN_DIR
 VIDEO_DIR = RUN_DIR
 FONTS_DIR = BASE_DIR / "fonts"
@@ -2053,47 +2055,56 @@ def fetch_instagram_posts() -> list[dict]:
         log.warning("  [IG] apify-client not installed. Skipping Instagram engine.")
         return []
     
-    apify_token = os.environ.get("APIFY_TOKEN", "")
-    if not apify_token:
-        log.warning("  [IG] APIFY_TOKEN not set. Skipping Instagram engine.")
+    apify_tokens = [
+        "apify_api_gqeLyPw3Zj6n5BQ4p70RNAaBd1F5XG1WvpTD",
+        os.environ.get("APIFY_TOKEN", "")
+    ]
+    valid_tokens = [t for t in apify_tokens if t]
+    
+    if not valid_tokens:
+        log.warning("  [IG] No valid APIFY_TOKEN found. Skipping Instagram engine.")
         return []
     
-    client = ApifyClient(apify_token)
     posts = []
     
-    try:
-        print("  [IG] Triggering Apify Instagram Scraper (Video Hunter Mode)...")
-        run_input = {
-            "directUrls": [
-                "https://www.instagram.com/presstv/",
-                "https://www.instagram.com/thecradlemedia/",
-                "https://www.instagram.com/almayadeenenglish/",
-                "https://www.instagram.com/tasnimnews_en/",
-                "https://www.instagram.com/irna_en/",
-                "https://www.instagram.com/tehrantimes/",
-                "https://www.instagram.com/mehrnews_en/",
-                "https://www.instagram.com/ifpnews/"
-            ],
-            "resultsType": "posts",
-            "resultsLimit": 100, # Increased to 100 to guarantee fresh quota fulfillment
-        }
-        run = client.actor("apify/instagram-scraper").call(run_input=run_input)
-        
-        for item in client.dataset(run["defaultDatasetId"]).iterate_items():
-            post = {
-                "caption": item.get("caption", ""),
-                "image_url": item.get("displayUrl", ""),
-                "video_url": item.get("videoUrl", ""),
-                "is_video": item.get("isVideo", False),
-                "owner": item.get("ownerUsername", "Unknown"),
-                "timestamp": item.get("timestamp", ""),
-                "url": item.get("url", ""),
+    for token in valid_tokens:
+        client = ApifyClient(token)
+        try:
+            print(f"  [IG] Triggering Apify Instagram Scraper using token: {token[:12]}...")
+            run_input = {
+                "directUrls": [
+                    "https://www.instagram.com/atlas.news3/",
+                    "https://www.instagram.com/thecradlemedia/",
+                    "https://www.instagram.com/almayadeenenglish/",
+                    "https://www.instagram.com/funker530/",
+                    "https://www.instagram.com/presstv/",
+                    "https://www.instagram.com/clashreport/"
+                ],
+                "resultsType": "posts",
+                "resultsLimit": 30, # Optimized down to 30
             }
-            if post["caption"] or post["image_url"] or post["video_url"]:
-                posts.append(post)
-                log.info(f"  [IG] Found post from @{post['owner']}: {post['caption'][:50]}...")
-    except Exception as e:
-        log.error(f"  [IG] Apify scraper failed: {e}")
+            run = client.actor("apify/instagram-scraper").call(run_input=run_input)
+            
+            print("  [IG] Fetching dataset results...")
+            for item in client.dataset(run["defaultDatasetId"]).iterate_items():
+                post = {
+                    "caption": item.get("caption", ""),
+                    "image_url": item.get("displayUrl", ""),
+                    "video_url": item.get("videoUrl", ""),
+                    "is_video": item.get("isVideo", False),
+                    "owner": item.get("ownerUsername", "Unknown"),
+                    "timestamp": item.get("timestamp", ""),
+                    "url": item.get("url", ""),
+                }
+                if post["caption"] or post["image_url"] or post["video_url"]:
+                    posts.append(post)
+                    log.info(f"  [IG] Found post from @{post['owner']}: {post['caption'][:50]}...")
+            
+            break # Success, so don't try the fallback token
+            
+        except Exception as e:
+            log.warning(f"  [IG] Apify API limit reached or failed with token {token[:12]}: {e}. Trying fallback if available...")
+            continue
     
     log.info(f"  [IG] Total Instagram posts fetched: {len(posts)}")
     return posts
@@ -2148,6 +2159,7 @@ def rewrite_caption_ai(original_caption: str) -> dict | None:
 
 def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], posted_links: dict) -> int:
     """V17.0/V18.0: Process Instagram posts with strict quotas and duplicate tracking."""
+    global successful_post_counter
     if not ig_posts:
         return 0
     
@@ -2210,16 +2222,14 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
             video_url = post.get("video_url")
             is_video = True if video_url else False
             
-            global_post_index = ig_count + 1
-            
             if is_video:
                 if ig_video_count < MAX_IG_VIDEOS:
                     import subprocess
                     print(f"  [IG] Video/Reel detected! Downloading direct URL...")
                     
-                    temp_video_path = os.path.join("videos", f"temp_ig_raw_{global_post_index}.mp4")
-                    final_vid_path = os.path.join(RUN_DIR, f"{FN}{global_post_index}.mp4")
-                    caption_path = os.path.join(RUN_DIR, f"{FN}{global_post_index}.txt")
+                    temp_video_path = os.path.join("videos", f"temp_ig_raw_{successful_post_counter}.mp4")
+                    final_vid_path = os.path.join(RUN_DIR, f"{FN}_{successful_post_counter}.mp4")
+                    caption_path = os.path.join(RUN_DIR, f"{FN}_{successful_post_counter}.txt")
                     
                     try:
                         # 1. Download video
@@ -2249,6 +2259,7 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                             drive_queue.extend([Path(final_vid_path), Path(caption_path)])
                             ig_count += 1
                             ig_video_count += 1
+                            successful_post_counter += 1
                             mark_posted(ig_url, None, posted_links, title=image_hook)
                             print(f"  [IG] ✓ Video {ig_video_count}/{MAX_IG_VIDEOS} successfully processed.")
                         else:
@@ -2262,8 +2273,8 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                 # === IMAGE MODE ===
                 if ig_image_count < MAX_IG_IMAGES:
                     log.info("  [IG] Processing as IMAGE...")
-                    png = Path(RUN_DIR) / f"{FN}{global_post_index}.png"
-                    txt = Path(RUN_DIR) / f"{FN}{global_post_index}.txt"
+                    png = Path(RUN_DIR) / f"{FN}_{successful_post_counter}.png"
+                    txt = Path(RUN_DIR) / f"{FN}_{successful_post_counter}.txt"
                     
                     try:
                         # Ensure we clean caption for text generation too
@@ -2280,8 +2291,9 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                         drive_queue.extend([png, txt])
                         ig_count += 1
                         ig_image_count += 1
+                        successful_post_counter += 1
                         mark_posted(ig_url, None, posted_links, title=image_hook)
-                        log.info(f"  [IG] ✓ Card generated: {png.name}")
+                        print(f"  [IG] ✓ Image {ig_image_count}/{MAX_IG_IMAGES} successfully generated.")
                     except Exception as e:
                         log.error(f"  [IG] Card generation failed: {e}")
                 else:
@@ -2337,7 +2349,7 @@ def main() -> None:
     # Store dynamic files for Drive
     drive_upload_queue = []
     
-    txt_idx = 0  # V17.7: Keep post numbers sequential even if articles are skipped
+    global successful_post_counter
 
     for idx, article in enumerate(batch, 1):
         try:
@@ -2358,9 +2370,9 @@ def main() -> None:
                 
             # IMAGE mode: standard card generation
             log.info("  Generating static card")
-            txt_idx += 1
-            png = OUTPUT_DIR / f"{prefix}_Card{txt_idx}.png"
-            txt = OUTPUT_DIR / f"{prefix}_Card{txt_idx}.txt" # Need separate counter to keep file names sequential if skips happen
+            
+            png = OUTPUT_DIR / f"{FN}_{successful_post_counter}.png"
+            txt = OUTPUT_DIR / f"{FN}_{successful_post_counter}.txt"
 
             
             threat_level = int(article.get("threat_level", 8))
@@ -2368,6 +2380,7 @@ def main() -> None:
             generate_caption(article, txt)
             
             drive_upload_queue.extend([png, txt])
+            successful_post_counter += 1
             
             # Append local txt to combined string
             if txt.exists():
