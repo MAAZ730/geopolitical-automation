@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 220,
+  "total_calls": 224,
   "tiers": {
-    "groq": 202,
+    "groq": 206,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-06T23:07:56.786207+00:00",
-      "tier": "groq",
-      "article": "Lebanon: Beirut evacuees 'sleeping in tents and cars'"
-    },
-    {
-      "timestamp": "2026-03-06T23:15:50.331396+00:00",
-      "tier": "groq",
-      "article": "Insiders slam CBS News chief Bari Weiss\u2019s \u2018propaganda-palooza\u2019 for Trump war in Iran"
-    },
-    {
-      "timestamp": "2026-03-06T23:37:17.124836+00:00",
-      "tier": "groq",
-      "article": "Inside bombed-out Beirut - where Hezbollah makes the rules"
-    },
-    {
-      "timestamp": "2026-03-06T23:37:35.865546+00:00",
-      "tier": "groq",
-      "article": "Pentagon task force to conduct laser test against drones"
-    },
     {
       "timestamp": "2026-03-06T23:37:53.954156+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-07T22:54:35.779900+00:00",
       "tier": "groq",
       "article": "Hezbollah fighters launched a salvo of rockets targeting the occupied city of Nahariya: statement 26 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T01:58:43.222766+00:00",
+      "tier": "groq",
+      "article": "Russia kills 10 in Ukraine strike including children with new missile"
+    },
+    {
+      "timestamp": "2026-03-08T01:59:01.400461+00:00",
+      "tier": "groq",
+      "article": "US embassy in Baghdad attacked as US-Israel war on Iran escalates"
+    },
+    {
+      "timestamp": "2026-03-08T01:59:18.815251+00:00",
+      "tier": "groq",
+      "article": "Huge fire rages at Tehran oil depot after Israeli attack"
+    },
+    {
+      "timestamp": "2026-03-08T01:59:36.745805+00:00",
+      "tier": "groq",
+      "article": "Cuba says electricity plant successfully repaired after large blackout"
     }
   ]
 }
