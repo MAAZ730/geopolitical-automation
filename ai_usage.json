@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 311,
+  "total_calls": 312,
   "tiers": {
-    "groq": 293,
+    "groq": 294,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T21:48:38.686730+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Hits Dozens of Israeli Sites with Coordinated Missile, Drone Strikes - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-07T21:49:00.845657+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-03-08T19:26:10.868201+00:00",
       "tier": "groq",
       "article": "Islamic Resistance targeted a gathering of Israeli military vehicles at Al-Marj occupation site off Markaba border town with a squadron of combat drones at 01:00 PM: Statement 14 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T20:29:30.564654+00:00",
+      "tier": "groq",
+      "article": "How do you track a war in real time?"
     }
   ]
 }
