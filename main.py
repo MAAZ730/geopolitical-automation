@@ -628,7 +628,7 @@ def save_posted(data: dict):
     # Keep only the 150 most recent links to prevent permanent lockup/starvation
     MAX_MEMORY_SIZE = 150
     if len(data) > MAX_MEMORY_SIZE:
-        print(f"  [SYSTEM] Memory full. Pruning oldest {len(data) - MAX_MEMORY_SIZE} links.")
+        log.info(f"  [SYSTEM] Memory full. Pruning oldest {len(data) - MAX_MEMORY_SIZE} links.")
         # Sort by timestamp and keep newest 150 (since it's a dict)
         sorted_keys = sorted(data.keys(), key=lambda k: data[k].get("published", ""), reverse=True)
         new_data = {k: data[k] for k in sorted_keys[:MAX_MEMORY_SIZE]}
@@ -797,7 +797,7 @@ def extract_article(url: str) -> dict | None:
             
         return {"text": text, "title": title, "image": image, "date": "", "source": source}
     except Exception as e:
-        print(f"  [ERROR] Extraction failed: {e}")
+        log.warning(f"  Extraction failed: {type(e).__name__} for {url}")
         return None
 
 
@@ -1421,12 +1421,12 @@ def download_article_image(article: dict) -> Image.Image | None:
             # Failsafe: Ensure the server actually sent an image, not an HTML Cloudflare block
             content_type = response.headers.get('Content-Type', '')
             if not content_type.startswith('image/'):
-                print(f"  [ERROR] Server blocked image download (returned {content_type}).")
+                log.warning(f"  Server blocked image download (returned {content_type}).")
             else:
                 image = Image.open(BytesIO(response.content)).convert("RGB")
                 return image
         except Exception as e:
-            print(f"  [ERROR] Primary image download failed: {e}")
+            log.warning(f"  Primary image download failed: {type(e).__name__}")
     
     # V17.3: Wikipedia Image Fallback
     try:
@@ -2261,12 +2261,12 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                             ig_video_count += 1
                             successful_post_counter += 1
                             mark_posted(ig_url, None, posted_links, title=image_hook)
-                            print(f"  [IG] ✓ Video {ig_video_count}/{MAX_IG_VIDEOS} successfully processed.")
+                            log.info(f"  [IG] ✓ Video {ig_video_count}/{MAX_IG_VIDEOS} successfully processed.")
                         else:
-                            print(f"  [ERROR] FFmpeg failed: {result.stderr.decode('utf-8')}")
+                            log.error(f"  FFmpeg failed: {result.stderr.decode('utf-8')}")
                             
                     except Exception as e:
-                        print(f"  [ERROR] IG Video processing failed: {e}")
+                        log.error(f"  IG Video processing failed: {type(e).__name__}")
                 else:
                     log.info("  [IG] Video quota met. Skipping excess video.")
             else:
@@ -2293,7 +2293,7 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                         ig_image_count += 1
                         successful_post_counter += 1
                         mark_posted(ig_url, None, posted_links, title=image_hook)
-                        print(f"  [IG] ✓ Image {ig_image_count}/{MAX_IG_IMAGES} successfully generated.")
+                        log.info(f"  [IG] ✓ Image {ig_image_count}/{MAX_IG_IMAGES} successfully generated.")
                     except Exception as e:
                         log.error(f"  [IG] Card generation failed: {e}")
                 else:
