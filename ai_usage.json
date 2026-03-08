@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 318,
+  "total_calls": 320,
   "tiers": {
-    "groq": 300,
+    "groq": 302,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T22:31:09.186723+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted an Israeli occupation force trying to advance from the Avivim barracks towards the plain of Maroun Al-Ras village with artillery shells: statement 24 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-07T22:54:35.779900+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters launched a salvo of rockets targeting the occupied city of Nahariya: statement 26 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-08T01:58:43.222766+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-03-08T22:27:27.216826+00:00",
       "tier": "groq",
       "article": "Islamic Resistance shoots a Hermes-450 Israeli drone over Wadi Slouki with appropriate weapons: Statement 15 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T22:51:41.913450+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance targets with artillery shells a Zionist force in northern Mais Al-Jabal border town: Statement 16 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T22:52:01.856841+00:00",
+      "tier": "groq",
+      "article": "Israeli president says 'mind boggles' at doubts over legality of Iran war"
     }
   ]
 }
