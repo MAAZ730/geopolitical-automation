@@ -2073,15 +2073,15 @@ def fetch_instagram_posts() -> list[dict]:
             print(f"  [IG] Triggering Apify Instagram Scraper using token: {token[:12]}...")
             run_input = {
                 "directUrls": [
-                    "https://www.instagram.com/atlas.news3/",
                     "https://www.instagram.com/thecradlemedia/",
                     "https://www.instagram.com/almayadeenenglish/",
-                    "https://www.instagram.com/funker530/",
                     "https://www.instagram.com/presstv/",
-                    "https://www.instagram.com/clashreport/"
+                    "https://www.instagram.com/tehrantimes/",
+                    "https://www.instagram.com/irna_en/",
+                    "https://www.instagram.com/funker530/"
                 ],
                 "resultsType": "posts",
-                "resultsLimit": 30, # Optimized down to 30
+                "resultsLimit": 50, # Set to 50 to balance API cost with enough fresh content
             }
             run = client.actor("apify/instagram-scraper").call(run_input=run_input)
             
