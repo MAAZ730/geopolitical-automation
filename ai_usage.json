@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 256,
+  "total_calls": 260,
   "tiers": {
-    "groq": 238,
+    "groq": 242,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T08:26:52.750918+00:00",
-      "tier": "groq",
-      "article": "Arkansas mother killed herself and two kids, say new autopsy results"
-    },
-    {
-      "timestamp": "2026-03-07T08:29:56.987742+00:00",
-      "tier": "groq",
-      "article": "German twist in the Telegraph tale shatters Lord Rothermere\u2019s dreams"
-    },
-    {
-      "timestamp": "2026-03-07T08:34:51.919563+00:00",
-      "tier": "groq",
-      "article": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian"
-    },
-    {
-      "timestamp": "2026-03-07T08:35:09.141909+00:00",
-      "tier": "groq",
-      "article": "Iran: Will Kurdish forces be the US' 'boots on the ground?'"
-    },
     {
       "timestamp": "2026-03-07T08:40:47.934277+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T08:35:36.477210+00:00",
       "tier": "groq",
       "article": "Israeli attack on hotel in Lebanon\u2019s Beirut kills four"
+    },
+    {
+      "timestamp": "2026-03-08T08:47:52.812623+00:00",
+      "tier": "groq",
+      "article": "Israeli media: An anti-tank missile was fired at an Israeli Army D9 bulldozer in South Lebanon; serious injuries reported - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T08:48:12.517209+00:00",
+      "tier": "groq",
+      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
+    },
+    {
+      "timestamp": "2026-03-08T08:48:30.450778+00:00",
+      "tier": "groq",
+      "article": "Reinforcements for the Syrian Arab Army move toward deployment line east of Aleppo"
+    },
+    {
+      "timestamp": "2026-03-08T08:48:48.182711+00:00",
+      "tier": "groq",
+      "article": "Smoke rises from a Dubai tower after attack"
     }
   ]
 }
