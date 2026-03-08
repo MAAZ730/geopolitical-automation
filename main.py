@@ -171,22 +171,22 @@ GOOGLE_NEWS_QUERIES = [
 
 COMBAT_KEYWORDS = [
     # Core Weapons & Tech
-    'missile', 'strike', 'ballistic', 'hypersonic', 'fattah', 'fatteh', 
-    'supersonic', 'bomb', 'rocket', 'drone', 'uav', 'shahed', 'cruise', 
+    'missile', 'ballistic', 'hypersonic', 'fattah', 'fatteh', 
+    'supersonic', 'bomb', 'rocket', 'drone', 'uav', 'shahed', 'cruise missile', 
     'warhead', 'munition', 'artillery', 'radar', 'interceptor',
     
     # Specific Iranian/Resistance Arsenal
     'khorramshahr', 'sejjil', 'qiam', 'zolfaghar', 'bavar', 'khordad', 'ababil', 'mohajer',
     
-    # Combat Actions & Events
-    'war', 'target', 'intercept', 'explosion', 'airstrike', 'attack', 
-    'assault', 'raid', 'ambush', 'destroy', 'blast', 'launch', 'barrage', 
-    'salvo', 'retaliation', 'revenge', 'engage', 'offensive', 'escalation',
+    # Strict Combat Actions & Events
+    'war', 'intercepted', 'explosion', 'airstrike', 'air strike', 'missile strike', 
+    'assault', 'raid', 'ambush', 'destroyed', 'blast', 'missile launch', 'barrage', 
+    'salvo', 'retaliation', 'revenge', 'military offensive', 'escalation',
     
     # Entities, Factions & Forces
     'idf', 'irgc', 'hezbollah', 'houthi', 'ansarallah', 'quds force', 
     'axis of resistance', 'hamas', 'al-qassam', 'zionist', 'centcom', 
-    'hashd', 'pmu', 'air defense', 'military base', 'outpost'
+    'hashd', 'pmu', 'air defense', 'military base', 'outpost', 'military facility'
 ]
 
 def is_combat_relevant(text: str) -> bool:
