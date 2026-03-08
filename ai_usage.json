@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 260,
+  "total_calls": 264,
   "tiers": {
-    "groq": 242,
+    "groq": 246,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T08:40:47.934277+00:00",
-      "tier": "groq",
-      "article": "Peruvian state responsible for mother\u2019s death in forced sterilisation, court rules"
-    },
-    {
-      "timestamp": "2026-03-07T09:17:22.970136+00:00",
-      "tier": "groq",
-      "article": "Govt. spokeswoman reports on 7 days of US-Israeli war on Iran"
-    },
-    {
-      "timestamp": "2026-03-07T09:17:55.836430+00:00",
-      "tier": "groq",
-      "article": "Iran Army Navy fires missile towards Abraham Lincoln aircraft"
-    },
-    {
-      "timestamp": "2026-03-07T09:18:27.936702+00:00",
-      "tier": "groq",
-      "article": "\"Spring Sonata\" brings Syrian memory to Damascus stage"
-    },
     {
       "timestamp": "2026-03-07T09:27:33.391436+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T08:48:48.182711+00:00",
       "tier": "groq",
       "article": "Smoke rises from a Dubai tower after attack"
+    },
+    {
+      "timestamp": "2026-03-08T09:06:27.962265+00:00",
+      "tier": "groq",
+      "article": "Children wounded in the US-Israeli strikes receive treatment in Tehran"
+    },
+    {
+      "timestamp": "2026-03-08T09:06:48.575797+00:00",
+      "tier": "groq",
+      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
+    },
+    {
+      "timestamp": "2026-03-08T09:07:06.565092+00:00",
+      "tier": "groq",
+      "article": "China warns of spreading flames of war in West Asia, world\u00a0"
+    },
+    {
+      "timestamp": "2026-03-08T09:08:06.956040+00:00",
+      "tier": "groq",
+      "article": "\u2018No popular support\u2019: China warns against government change in Iran"
     }
   ]
 }
