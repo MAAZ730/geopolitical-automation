@@ -2454,10 +2454,16 @@ def main() -> None:
         drive_upload_queue.append(combo_txt)
         
     if drive_upload_queue:
-        # Also grab anything generated directly to RUN_DIR by IG parser or Video engines
-        files_to_upload = [Path(os.path.join(RUN_DIR, f)) for f in os.listdir(RUN_DIR) if os.path.isfile(os.path.join(RUN_DIR, f))]
-        # combine lists and dedupe
-        all_ups = list(set(drive_upload_queue + files_to_upload))
+        # Sort files alphabetically/numerically so 1.png and 1.txt upload together
+        raw_files = [f for f in os.listdir(RUN_DIR) if os.path.isfile(os.path.join(RUN_DIR, f))]
+        sorted_files = sorted(raw_files)
+        files_to_upload = [Path(os.path.join(RUN_DIR, f)) for f in sorted_files]
+        
+        # Combine lists and dedupe (safely avoiding unordered set)
+        all_ups = list(dict.fromkeys(drive_upload_queue + files_to_upload))
+        
+        # Strict alphanumeric sort before sequential Google Drive loop
+        all_ups = sorted(all_ups, key=lambda x: x.name)
         upload_files_to_drive(all_ups)
 
     log.info("\n" + "=" * 60)
