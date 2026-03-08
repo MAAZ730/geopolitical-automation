@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 276,
+  "total_calls": 280,
   "tiers": {
-    "groq": 258,
+    "groq": 262,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T10:52:19.785317+00:00",
-      "tier": "groq",
-      "article": "Protesters in US cities demand end to strikes on Iran"
-    },
-    {
-      "timestamp": "2026-03-07T10:52:52.126405+00:00",
-      "tier": "groq",
-      "article": "VIDEO: School destroyed by Israeli-American strikes"
-    },
-    {
-      "timestamp": "2026-03-07T10:53:43.797543+00:00",
-      "tier": "groq",
-      "article": "Cuba denounces US-Israeli aggression against Iran\u00a0"
-    },
-    {
-      "timestamp": "2026-03-07T11:24:44.027259+00:00",
-      "tier": "groq",
-      "article": "IRGC targets US oil tanker near Kuwait waters"
-    },
     {
       "timestamp": "2026-03-07T11:25:17.579786+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T09:55:47.780155+00:00",
       "tier": "groq",
       "article": "Iranian Embassy in Beirut categorically denies all reports and rumors about an attack on the ambassador at the Ramada Hotel at dawn today - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T10:27:53.625504+00:00",
+      "tier": "groq",
+      "article": "Israeli strikes kill 37 across Lebanon in 24 hours"
+    },
+    {
+      "timestamp": "2026-03-08T10:28:14.099228+00:00",
+      "tier": "groq",
+      "article": "Day 7 of Aggression: Israeli Strikes on Beirut, South Lebanon Leave Multiple Martyrs and Wounded - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T10:28:32.999830+00:00",
+      "tier": "groq",
+      "article": "Kuwait, Saudi Arabia and Qatar intercept Iranian drones and missiles"
+    },
+    {
+      "timestamp": "2026-03-08T10:28:51.071183+00:00",
+      "tier": "groq",
+      "article": "Trump administration denies reports that Iran captured US soldiers"
     }
   ]
 }
