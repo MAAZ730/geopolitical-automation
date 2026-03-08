@@ -47,8 +47,30 @@ except ImportError:
 # ---------------------------------------------------------------------------
 
 BASE_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = BASE_DIR / "output"
-VIDEO_DIR = BASE_DIR / "videos"
+# Track run number for DD_NN format
+tracker_file = BASE_DIR / "run_tracker.json"
+today_dd = datetime.now(timezone.utc).strftime("%d")
+run_nn = 1
+
+if os.path.exists(tracker_file):
+    try:
+        with open(tracker_file, "r") as f:
+            tracker = json.load(f)
+        if tracker.get("date") == today_dd:
+            run_nn = tracker.get("run_number", 0) + 1
+    except Exception: pass
+
+with open(tracker_file, "w") as f:
+    json.dump({"date": today_dd, "run_number": run_nn}, f)
+
+FN = f"{today_dd}_{run_nn}" # e.g., 08_1
+folder_name = f"DD_FN----{FN}"
+RUN_DIR = BASE_DIR / "output" / folder_name
+os.makedirs(RUN_DIR, exist_ok=True)
+os.makedirs(BASE_DIR / "videos", exist_ok=True)
+
+OUTPUT_DIR = RUN_DIR
+VIDEO_DIR = RUN_DIR
 FONTS_DIR = BASE_DIR / "fonts"
 FLAGS_DIR = BASE_DIR / "assets" / "flags"
 COUNTRY_MAPS_DIR = BASE_DIR / "assets" / "country_maps"
@@ -126,6 +148,11 @@ RSS_FEEDS = {
     "Al Mayadeen": "https://english.almayadeen.net/rss",
     "Al Manar": "https://english.almanar.com.lb/rss",
     "SANA": "https://sana.sy/en/?feed=rss2",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "Defense News": "https://www.defensenews.com/arc/outboundfeeds/rss/",
+    "Defense Post": "https://www.thedefensepost.com/feed/",
+    "BBC ME": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+    "Defense Update": "https://defense-update.com/feed/"
 }
 
 GOOGLE_NEWS_QUERIES = [
@@ -380,10 +407,10 @@ def resolve_google_news_url(url: str) -> str:
 
 def fetch_articles() -> list[dict]:
     articles = []
-    for query in GOOGLE_NEWS_QUERIES:
-        # V15.8: Append when:24h to strictly filter server-side
-        url = f"https://news.google.com/rss/search?q={requests.utils.quote(query + ' when:24h')}&hl=en-US&gl=US&ceid=US:en"
-        log.info(f"Fetching Google News: {query[:50]}\u2026")
+    
+    # ENFORCED PRIORITY: Parse Direct RSS Feeds First (Bypassing Google JS Walls)
+    for source_name, url in RSS_FEEDS.items():
+        log.info(f"Fetching RSS: {source_name}")
         try:
             feed = feedparser.parse(url)
             for entry in feed.get("entries", []):
@@ -391,26 +418,42 @@ def fetch_articles() -> list[dict]:
                 link = entry.get("link", "").strip()
                 if not title or not link:
                     continue
-                source_name = ""
-                if " - " in title:
-                    parts = title.rsplit(" - ", 1)
-                    title = parts[0].strip()
-                    source_name = parts[1].strip()
+                summary = ""
+                if entry.get("summary"):
+                    summary = BeautifulSoup(entry["summary"], "html.parser").get_text(strip=True)
                 pub_date = None
                 for df in ["published", "updated", "created"]:
                     if entry.get(df):
                         pub_date = parse_date_bulletproof(entry[df])
                         if pub_date:
                             break
+                image_url = None
+                for field in ["media_content", "media_thumbnail"]:
+                    if entry.get(field):
+                        for mc in entry[field]:
+                            if mc.get("url"):
+                                image_url = mc["url"]
+                                break
+                    if image_url:
+                        break
+                # V15.8: Chronological cutoff — stop parsing if we hit old news
+                if pub_date:
+                    _cut_now = datetime.now(timezone.utc)
+                    _cut_pub = pub_date if pub_date.tzinfo else pub_date.replace(tzinfo=timezone.utc)
+                    _cut_age = (_cut_now - _cut_pub).total_seconds() / 3600
+                    if _cut_age > 48 and _cut_age < 700:
+                        log.info(f"  [SKIP] Reached old news in {source_name} feed ({_cut_age:.0f}h). Moving to next source.")
+                        break
                 articles.append({
-                    "title": title, "link": link, "summary": "",
-                    "source": source_name or "Google News",
-                    "pub_date": pub_date, "image_url": None, "full_text": None,
+                    "title": title, "link": link, "summary": summary,
+                    "source": source_name, "pub_date": pub_date,
+                    "image_url": image_url, "full_text": None,
                 })
         except Exception as exc:
-            log.warning(f"Google News failed: {exc}")
+            log.warning(f"RSS {source_name} failed: {exc}")
 
-    for source_name, url in RSS_FEEDS.items():
+    # Fallback to Google News scraping after direct feeds are processed
+    for query in GOOGLE_NEWS_QUERIES:
         log.info(f"Fetching RSS: {source_name}")
         try:
             feed = feedparser.parse(url)
@@ -555,6 +598,15 @@ def load_posted() -> dict:
     return {}
 
 def save_posted(data: dict):
+    # Keep only the 150 most recent links to prevent permanent lockup/starvation
+    MAX_MEMORY_SIZE = 150
+    if len(data) > MAX_MEMORY_SIZE:
+        print(f"  [SYSTEM] Memory full. Pruning oldest {len(data) - MAX_MEMORY_SIZE} links.")
+        # Sort by timestamp and keep newest 150 (since it's a dict)
+        sorted_keys = sorted(data.keys(), key=lambda k: data[k].get("published", ""), reverse=True)
+        new_data = {k: data[k] for k in sorted_keys[:MAX_MEMORY_SIZE]}
+        data = new_data
+        
     with open(POSTED_LINKS_FILE, "w") as f:
         json.dump(data, f, indent=2)
 
@@ -790,16 +842,18 @@ def select_and_extract_batch(articles: list[dict], posted: dict) -> list[dict]:
         log.info(f"Targeting: {article['title'][:70]}\u2026")
         extracted = extract_article(article["real_url"])
         
-        # V17.8: RSS Summary Fallback
+        # 1. Try standard text extraction
         extracted_text = extracted.get("text") if extracted else None
         
+        # 2. Fallback to RSS summary if text is blocked
         if not extracted_text or len(extracted_text) < 100:
             log.info("  [WARNING] Full text extraction failed or too short. Using RSS summary fallback.")
             extracted_text = article.get("summary") or article.get("description", "")
             
+        # 3. SMART FILTER: Ultimate fallback to the Headline itself
         if not extracted_text or len(extracted_text) < 20:
-            log.info(f"  [SKIP] No text or summary available for {article['real_url']}")
-            return False
+            log.info(f"  [SMART FILTER] Paywall detected for {article['real_url']}. Falling back to Headline.")
+            extracted_text = article.get("title")
 
         article["full_text"] = extracted_text
         log.info(f"  Extracted/Fallback text: {len(extracted_text)} chars \u2713")
@@ -1678,7 +1732,7 @@ def generate_card(article: dict, output_path: Path, threat_level: int = 8) -> No
     # ── V16.4: Dynamic Font Scaling Engine (no more cutoffs) ──
     max_text_width = 980
     max_text_height = 280  # Space between flags (y=150) and image (y=430)
-    font_size = 65
+    font_size = 48
 
     while font_size > 20:
         if font_path:
@@ -1940,19 +1994,14 @@ def upload_files_to_drive(file_paths: list[Path]):
         return
     try:
         ROOT_ID = "1AVFFrHH89quUE8wMO_C5XHu7T62RuBNZ"
-        geo = find_or_create_folder(svc, "Geopolitics", ROOT_ID)
-        out = find_or_create_folder(svc, "Outputs", geo)
+        
+        # User requested new folder structure: DD_FN----Date_FolderNumber-1,2,3
+        target_folder_id = find_or_create_folder(svc, folder_name, ROOT_ID)
+        
         for p in file_paths:
             if p and p.exists():
-                # V16.6: Strict Asset Separation Routing
-                # Video files (.mp4) AND their OSINT caption files -> Video Folder
-                if (p.suffix == ".mp4" or "OSINT" in p.name) and VIDEO_DRIVE_FOLDER_ID:
-                    log.info(f"  [ROUTING] Sending Video Asset to Dedicated Video Folder: {p.name}")
-                    upload_to_drive(svc, p, VIDEO_DRIVE_FOLDER_ID)
-                # Static images (.png/.jpg) AND standard post captions (_Card.txt) -> Outputs
-                else:
-                    log.info(f"  [ROUTING] Sending Post Asset to Outputs Folder: {p.name}")
-                    upload_to_drive(svc, p, out)
+                log.info(f"  [ROUTING] Sending Asset to Target Folder: {p.name}")
+                upload_to_drive(svc, p, target_folder_id)
     except Exception as exc:
         log.error(f"Drive upload failed: {exc}")
 
@@ -1988,10 +2037,15 @@ def fetch_instagram_posts() -> list[dict]:
                 "https://www.instagram.com/geopolitics_live/",
                 "https://www.instagram.com/conflict_observer/",
                 "https://www.instagram.com/global_defense_news/",
-                "https://www.instagram.com/breaking_news_osint/"
+                "https://www.instagram.com/clashreport/",
+                "https://www.instagram.com/osintdefender/",
+                "https://www.instagram.com/geo.politic/",
+                "https://www.instagram.com/war_noir/",
+                "https://www.instagram.com/caucasus.war/",
+                "https://www.instagram.com/frontline_focus/"
             ],
             "resultsType": "posts",
-            "resultsLimit": 30, # Increased pool to guarantee finding enough fresh content
+            "resultsLimit": 100, # Increased to 100 to guarantee fresh quota fulfillment
         }
         run = client.actor("apify/instagram-scraper").call(run_input=run_input)
         
@@ -2114,19 +2168,22 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                 "countries": [],
             }
             
+            # Clean AI artifacts like ** and "
+            clean_caption = re.sub(r'[\*"]', '', rewritten_caption).strip()
+            
             video_url = post.get("video_url")
             is_video = True if video_url else False
+            
+            global_post_index = ig_count + 1
             
             if is_video:
                 if ig_video_count < MAX_IG_VIDEOS:
                     import subprocess
                     print(f"  [IG] Video/Reel detected! Downloading direct URL...")
-                    os.makedirs('videos', exist_ok=True)
-                    os.makedirs('output', exist_ok=True)
                     
-                    temp_video_path = f"videos/temp_ig_raw_{ig_video_count}.mp4"
-                    final_output_path = f"output/D6_IG_Video_{ig_video_count}_OSINT.mp4"
-                    caption_path = f"output/D6_IG_Video_{ig_video_count}_OSINT.txt"
+                    temp_video_path = os.path.join("videos", f"temp_ig_raw_{global_post_index}.mp4")
+                    final_vid_path = os.path.join(RUN_DIR, f"{FN}{global_post_index}.mp4")
+                    caption_path = os.path.join(RUN_DIR, f"{FN}{global_post_index}.txt")
                     
                     try:
                         # 1. Download video
@@ -2142,17 +2199,18 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                             'ffmpeg', '-y', '-i', temp_video_path,
                             '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
                             '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
-                            final_output_path
+                            final_vid_path
                         ]
                         
-                        result = subprocess.run(ffmpeg_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                        result = subprocess.run(ffmpeg_cmd, capture_output=True)
                         
                         if result.returncode == 0:
-                            # 3. Create caption file
+                            # Enhanced Caption with Tags
+                            hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
                             with open(caption_path, "w", encoding="utf-8") as f:
-                                f.write(f"🚨 BREAKING:\n\n{rewritten_caption}\n")
+                                f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
                             
-                            drive_queue.extend([Path(final_output_path), Path(caption_path)])
+                            drive_queue.extend([Path(final_vid_path), Path(caption_path)])
                             ig_count += 1
                             ig_video_count += 1
                             mark_posted(ig_url, None, posted_links, title=image_hook)
@@ -2168,12 +2226,21 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                 # === IMAGE MODE ===
                 if ig_image_count < MAX_IG_IMAGES:
                     log.info("  [IG] Processing as IMAGE...")
-                    png = OUTPUT_DIR / f"{prefix}_IG{idx}_Card.png"
-                    txt = OUTPUT_DIR / f"{prefix}_IG{idx}_Card.txt"
+                    png = Path(RUN_DIR) / f"{FN}{global_post_index}.png"
+                    txt = Path(RUN_DIR) / f"{FN}{global_post_index}.txt"
                     
                     try:
+                        # Ensure we clean caption for text generation too
+                        ig_article["instagram_caption"] = clean_caption
+                        
                         generate_card(ig_article, png, threat_level=8)
+                        # We also overwrite the caption file directly to match the hashtags requested
                         generate_caption(ig_article, txt)
+                        
+                        hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
+                        with open(txt, "w", encoding="utf-8") as f:
+                            f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
+                        
                         drive_queue.extend([png, txt])
                         ig_count += 1
                         ig_image_count += 1
@@ -2327,12 +2394,16 @@ def main() -> None:
     # ----------------------------------------------------
     # V11.0 CAROUSEL COMPILATION & DRIVE UPLOAD
     if carousel_caption:
-        combo_txt = OUTPUT_DIR / f"{prefix}_Carousel_Combined.txt"
+        combo_txt = Path(RUN_DIR) / f"{FN}_Carousel_Combined.txt"
         combo_txt.write_text(carousel_caption, encoding="utf-8")
         drive_upload_queue.append(combo_txt)
         
     if drive_upload_queue:
-        upload_files_to_drive(drive_upload_queue)
+        # Also grab anything generated directly to RUN_DIR by IG parser or Video engines
+        files_to_upload = [Path(os.path.join(RUN_DIR, f)) for f in os.listdir(RUN_DIR) if os.path.isfile(os.path.join(RUN_DIR, f))]
+        # combine lists and dedupe
+        all_ups = list(set(drive_upload_queue + files_to_upload))
+        upload_files_to_drive(all_ups)
 
     log.info("\n" + "=" * 60)
     log.info(f"Run complete. {processed_count} RSS cards + {ig_processed} IG posts. {failed_count} failed.")
