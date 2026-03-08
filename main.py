@@ -2056,7 +2056,7 @@ def fetch_instagram_posts() -> list[dict]:
         return []
     
     apify_tokens = [
-        "apify_api_gqeLyPw3Zj6n5BQ4p70RNAaBd1F5XG1WvpTD",
+        os.environ.get("APIFY_TOKEN_NEW", ""),
         os.environ.get("APIFY_TOKEN", "")
     ]
     valid_tokens = [t for t in apify_tokens if t]
