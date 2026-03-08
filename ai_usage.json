@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 312,
+  "total_calls": 313,
   "tiers": {
-    "groq": 294,
+    "groq": 295,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T21:49:00.845657+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted the Iron Dome radars at the Kiryat Elazar site (the main air defense base in the occupied city of Haifa) with a barrage of high-quality missiles: statement 19 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-07T21:49:19.737906+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-03-08T20:29:30.564654+00:00",
       "tier": "groq",
       "article": "How do you track a war in real time?"
+    },
+    {
+      "timestamp": "2026-03-08T20:53:09.268484+00:00",
+      "tier": "groq",
+      "article": "Thousands flee Akobo after South Sudan army issues forced evacuation order"
     }
   ]
 }
