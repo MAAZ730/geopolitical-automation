@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 314,
+  "total_calls": 318,
   "tiers": {
-    "groq": 296,
+    "groq": 300,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T21:49:38.401184+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted the city of Kiryat Shmona in northern occupied Palestine at 17:30 on Saturday with a squadron of combat drones: statement 16 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-07T22:30:10.444615+00:00",
-      "tier": "groq",
-      "article": "Once again, Hezbollah fighters targeted an Israeli occupation force trying to advance toward the Maroun Al-Ras plain with a second coordinated missile salvo: statement 27 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-07T22:30:30.297944+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted an Israeli occupation force trying to advance into the town of Aitaroun with artillery shells: statement 25 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-07T22:30:50.271560+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted the Glilot base (the headquarters of Military Intelligence Unit 8200), located 110 km from the Lebanese-Palestinian border with a squadron of attack drones: statement 33 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-07T22:31:09.186723+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T21:26:16.773991+00:00",
       "tier": "groq",
       "article": "Marches for International Women\u2019s Day denounce war, abuse and oppression"
+    },
+    {
+      "timestamp": "2026-03-08T22:26:29.906658+00:00",
+      "tier": "groq",
+      "article": "In maps: Strikes across Iran and the Middle East"
+    },
+    {
+      "timestamp": "2026-03-08T22:26:48.884674+00:00",
+      "tier": "groq",
+      "article": "'Night turned into day': Iranians tell of strikes on oil depots"
+    },
+    {
+      "timestamp": "2026-03-08T22:27:09.968155+00:00",
+      "tier": "groq",
+      "article": "Who\u2019s in control in Iran and how will Gulf states react to attacks?"
+    },
+    {
+      "timestamp": "2026-03-08T22:27:27.216826+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance shoots a Hermes-450 Israeli drone over Wadi Slouki with appropriate weapons: Statement 15 - Al-Manar TV Lebanon"
     }
   ]
 }
