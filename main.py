@@ -156,17 +156,42 @@ RSS_FEEDS = {
 }
 
 GOOGLE_NEWS_QUERIES = [
-    '"IRGC" OR "Islamic Revolutionary Guard Corps"',
-    '"Iran missile" OR "Iran drone" OR "air defense"',
-    '"US base attack" OR "Israel strike"',
-    '"Hezbollah" OR "Lebanon strike"',
-    '"Houthi" OR "Red Sea ship"',
-    '"Axis of Resistance" OR "proxy forces"',
+    '"Fattah missile" OR "hypersonic" OR "supersonic"',
+    '"ballistic missile" AND "strike"',
+    '"IRGC" AND "air defense"',
+    '"Israel strike" OR "US base attack"',
+    '"Hezbollah rockets" OR "Lebanon airstrike"'
 ]
 
 # ---------------------------------------------------------------------------
 # Keyword Systems
 # ---------------------------------------------------------------------------
+
+COMBAT_KEYWORDS = [
+    # Core Weapons & Tech
+    'missile', 'strike', 'ballistic', 'hypersonic', 'fattah', 'fatteh', 
+    'supersonic', 'bomb', 'rocket', 'drone', 'uav', 'shahed', 'cruise', 
+    'warhead', 'munition', 'artillery', 'radar', 'interceptor',
+    
+    # Specific Iranian/Resistance Arsenal
+    'khorramshahr', 'sejjil', 'qiam', 'zolfaghar', 'bavar', 'khordad', 'ababil', 'mohajer',
+    
+    # Combat Actions & Events
+    'war', 'target', 'intercept', 'explosion', 'airstrike', 'attack', 
+    'assault', 'raid', 'ambush', 'destroy', 'blast', 'launch', 'barrage', 
+    'salvo', 'retaliation', 'revenge', 'engage', 'offensive', 'escalation',
+    
+    # Entities, Factions & Forces
+    'idf', 'irgc', 'hezbollah', 'houthi', 'ansarallah', 'quds force', 
+    'axis of resistance', 'hamas', 'al-qassam', 'zionist', 'centcom', 
+    'hashd', 'pmu', 'air defense', 'military base', 'outpost'
+]
+
+def is_combat_relevant(text: str) -> bool:
+    if not text:
+        return False
+    text_lower = text.lower()
+    return any(keyword in text_lower for keyword in COMBAT_KEYWORDS)
 
 SEVERITY_KEYWORDS = [
     "war", "strike", "attack", "military", "defense",
@@ -854,6 +879,10 @@ def select_and_extract_batch(articles: list[dict], posted: dict) -> list[dict]:
         if not extracted_text or len(extracted_text) < 20:
             log.info(f"  [SMART FILTER] Paywall detected for {article['real_url']}. Falling back to Headline.")
             extracted_text = article.get("title")
+
+        if not is_combat_relevant(extracted_text) and not is_combat_relevant(article.get('title', '')):
+            log.info(f"  [SKIP] Out of context (No combat/missile keywords): {article.get('title', '')}")
+            return False
 
         article["full_text"] = extracted_text
         log.info(f"  Extracted/Fallback text: {len(extracted_text)} chars \u2713")
@@ -1729,29 +1758,32 @@ def generate_card(article: dict, output_path: Path, threat_level: int = 8) -> No
         text_content = " ".join(words[:15])
     text_content = smart_typography(text_content)
 
-    # ── V16.4: Dynamic Font Scaling Engine (no more cutoffs) ──
-    max_text_width = 980
+    # ── V18.11: Premium Typography Engine ──
     max_text_height = 280  # Space between flags (y=150) and image (y=430)
-    font_size = 48
+    
+    # Force a smaller max font size for an elegant, premium look
+    font_size = 38
+    
+    # Wrap text wider to form a robust paragraph
+    wrap_width = 45
+    line_spacing = 20  # Increased for breathability
 
     while font_size > 20:
         if font_path:
             font = ImageFont.truetype(font_path, font_size)
         else:
             font = _load_font("header", font_size)
-        # Estimate chars per line based on font size
-        avg_char_width = font.getbbox("A")[2]
-        wrap_width = max(10, int(max_text_width / avg_char_width))
+            
         wrapped_text = textwrap.fill(text_content, width=wrap_width)
         # Calculate total height of wrapped text
-        bbox = draw.multiline_textbbox((0, 0), wrapped_text, font=font, spacing=15)
+        bbox = draw.multiline_textbbox((0, 0), wrapped_text, font=font, spacing=line_spacing)
         text_height = bbox[3] - bbox[1]
         if text_height <= max_text_height:
             break  # It fits!
         font_size -= 2  # Shrink font and try again
 
     # ── Draw left-aligned text ──
-    draw.multiline_text((pad_x, 150), wrapped_text, fill="black", font=font, align="left", spacing=15)
+    draw.multiline_text((pad_x, 150), wrapped_text, fill="black", font=font, align="left", spacing=line_spacing)
 
     text_bottom = 150 + text_height
 
@@ -2033,16 +2065,14 @@ def fetch_instagram_posts() -> list[dict]:
         print("  [IG] Triggering Apify Instagram Scraper (Video Hunter Mode)...")
         run_input = {
             "directUrls": [
-                "https://www.instagram.com/atlas.news3/",
-                "https://www.instagram.com/geopolitics_live/",
-                "https://www.instagram.com/conflict_observer/",
-                "https://www.instagram.com/global_defense_news/",
-                "https://www.instagram.com/clashreport/",
-                "https://www.instagram.com/osintdefender/",
-                "https://www.instagram.com/geo.politic/",
-                "https://www.instagram.com/war_noir/",
-                "https://www.instagram.com/caucasus.war/",
-                "https://www.instagram.com/frontline_focus/"
+                "https://www.instagram.com/presstv/",
+                "https://www.instagram.com/thecradlemedia/",
+                "https://www.instagram.com/almayadeenenglish/",
+                "https://www.instagram.com/tasnimnews_en/",
+                "https://www.instagram.com/irna_en/",
+                "https://www.instagram.com/tehrantimes/",
+                "https://www.instagram.com/mehrnews_en/",
+                "https://www.instagram.com/ifpnews/"
             ],
             "resultsType": "posts",
             "resultsLimit": 100, # Increased to 100 to guarantee fresh quota fulfillment
@@ -2144,8 +2174,14 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
             log.info(f"\n{'=' * 40}")
             log.info(f"  [IG] Processing IG post from @{post['owner']} ({ig_url})")
             
+            # Extract and check caption against the strict combat gatekeeper
+            caption = post.get("caption", "")
+            if not is_combat_relevant(caption):
+                log.info("  [IG] Skipped: Out of context (No combat keywords in caption).")
+                continue
+            
             # AI Rewrite the caption
-            rewrite_result = rewrite_caption_ai(post.get("caption", ""))
+            rewrite_result = rewrite_caption_ai(caption)
             if not rewrite_result:
                 log.warning("  [IG] Caption rewrite failed. Using original caption.")
                 rewritten_caption = post.get("caption", "News update.")[:200]
