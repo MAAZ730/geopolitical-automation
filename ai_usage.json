@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 272,
+  "total_calls": 276,
   "tiers": {
-    "groq": 254,
+    "groq": 258,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-07T09:56:29.745702+00:00",
-      "tier": "groq",
-      "article": "Interior Ministry arrests perpetrators of Imam Ali Mosque bombing in Homs"
-    },
-    {
-      "timestamp": "2026-03-07T10:29:43.540026+00:00",
-      "tier": "groq",
-      "article": "IRGC destroys strategic US radars in regional countries"
-    },
-    {
-      "timestamp": "2026-03-07T10:30:16.784179+00:00",
-      "tier": "groq",
-      "article": "Aleppo reopens long-closed roads to revive movement"
-    },
-    {
-      "timestamp": "2026-03-07T10:30:34.676247+00:00",
-      "tier": "groq",
-      "article": "Araghchi lashes out at UN for ignoring casualties in Iran war"
-    },
     {
       "timestamp": "2026-03-07T10:52:19.785317+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-08T09:27:37.545765+00:00",
       "tier": "groq",
       "article": "Trump encourages Latin American leaders to use military action to help US fight cartels"
+    },
+    {
+      "timestamp": "2026-03-08T09:54:50.639436+00:00",
+      "tier": "groq",
+      "article": "Iranian Ministry of Health: Since the start of the aggression, over 1,200 have been martyred and more than 10,000 civilians have been injured - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-08T09:55:12.304345+00:00",
+      "tier": "groq",
+      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
+    },
+    {
+      "timestamp": "2026-03-08T09:55:30.307827+00:00",
+      "tier": "groq",
+      "article": "Reinforcements for the Syrian Arab Army move toward deployment line east of Aleppo"
+    },
+    {
+      "timestamp": "2026-03-08T09:55:47.780155+00:00",
+      "tier": "groq",
+      "article": "Iranian Embassy in Beirut categorically denies all reports and rumors about an attack on the ambassador at the Ramada Hotel at dawn today - Al-Manar TV Lebanon"
     }
   ]
 }
