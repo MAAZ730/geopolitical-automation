@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 337,
+  "total_calls": 341,
   "tiers": {
-    "groq": 319,
+    "groq": 323,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-08T05:30:42.465023+00:00",
-      "tier": "groq",
-      "article": "Attack on Haifa refinery response to attack on Tehran's"
-    },
-    {
-      "timestamp": "2026-03-08T05:31:41.620351+00:00",
-      "tier": "groq",
-      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
-    },
-    {
-      "timestamp": "2026-03-08T05:31:58.998423+00:00",
-      "tier": "groq",
-      "article": "Iranian people foiled US plots in war: Top security official"
-    },
-    {
-      "timestamp": "2026-03-08T06:06:41.856508+00:00",
-      "tier": "groq",
-      "article": "Israel strikes busy Beirut hotel in assassination attempt"
-    },
     {
       "timestamp": "2026-03-08T06:06:59.689295+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-09T10:53:29.669732+00:00",
       "tier": "groq",
       "article": "UAE releases video of Iranian drone interception"
+    },
+    {
+      "timestamp": "2026-03-09T13:12:48.866747+00:00",
+      "tier": "groq",
+      "article": "New Wave of Iranian Missiles Strikes Tel Aviv, Casualties Reported - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-09T13:13:10.229353+00:00",
+      "tier": "groq",
+      "article": "\u2018Reprehensible\u2019: New wave of Iranian missiles, drones target Gulf nations"
+    },
+    {
+      "timestamp": "2026-03-09T13:13:27.265330+00:00",
+      "tier": "groq",
+      "article": "Moment building in Beirut southern suburbs was targeted by Israeli strike"
+    },
+    {
+      "timestamp": "2026-03-09T13:13:45.130936+00:00",
+      "tier": "groq",
+      "article": "Finland readies itself to be able to host nukes in longtime policy departure"
     }
   ]
 }
