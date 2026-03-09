@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 357,
+  "total_calls": 361,
   "tiers": {
-    "groq": 339,
+    "groq": 343,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-08T08:48:12.517209+00:00",
-      "tier": "groq",
-      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
-    },
-    {
-      "timestamp": "2026-03-08T08:48:30.450778+00:00",
-      "tier": "groq",
-      "article": "Reinforcements for the Syrian Arab Army move toward deployment line east of Aleppo"
-    },
-    {
-      "timestamp": "2026-03-08T08:48:48.182711+00:00",
-      "tier": "groq",
-      "article": "Smoke rises from a Dubai tower after attack"
-    },
-    {
-      "timestamp": "2026-03-08T09:06:27.962265+00:00",
-      "tier": "groq",
-      "article": "Children wounded in the US-Israeli strikes receive treatment in Tehran"
-    },
     {
       "timestamp": "2026-03-08T09:06:48.575797+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-09T16:58:58.799505+00:00",
       "tier": "groq",
       "article": "Iran\u2019s authorities showcase continuity as they back new leader during war"
+    },
+    {
+      "timestamp": "2026-03-09T18:59:53.371468+00:00",
+      "tier": "groq",
+      "article": "US military kills six in strike on alleged drug boat in the Eastern Pacific"
+    },
+    {
+      "timestamp": "2026-03-09T19:00:09.857297+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted the satellite communications station belonging to the Cyber \u200b\u200bDefense and Communications Division of the Israeli enemy army in the Ella Valley in central occupied Palestine, 160 km away from the Lebanese border, with a barrage of sophisticated missiles: Statement 17 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-09T19:00:27.398783+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted the Ramla base (Home Front Command base), located southeast of Tel Aviv and 135 km from the Lebanese-Palestinian border, with a barrage of sophisticated missiles: Statement 18 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-09T19:00:44.208292+00:00",
+      "tier": "groq",
+      "article": "Head of Hezbollah parliamentary bloc Hajj Mohammad Raad: Israeli enemy has never observed the ceasefire concluded in 2024 - Al-Manar TV Lebanon"
     }
   ]
 }
