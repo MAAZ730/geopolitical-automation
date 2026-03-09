@@ -2,7 +2,8 @@ name: Antigravity News Automation
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    # Changed from 30 mins to every 2 hours to prevent Apify API limits from draining
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -32,6 +33,7 @@ jobs:
           path: |
             posted_links.json
             ai_usage.json
+            run_tracker.json
           key: antigravity-trackers-${{ github.run_id }}
           restore-keys: |
             antigravity-trackers-
@@ -54,10 +56,16 @@ jobs:
           if [ -f posted_links.json ]; then
             git config user.name "GitHub Actions Bot"
             git config user.email "actions@github.com"
-            git add posted_links.json ai_usage.json
+            
+            # Added run_tracker.json so folder DD_NN numbering works perfectly
+            git add posted_links.json ai_usage.json run_tracker.json
+            
             git diff --cached --quiet || git commit -m "chore: update antigravity trackers [skip ci]"
-            git pull --rebase --autostash
-            git push
+            
+            # Flawless git pull to guarantee NO merge conflicts
+            git pull --rebase origin main
+            
+            git push origin main
           fi
 
       - name: Upload output artifacts
@@ -67,3 +75,4 @@ jobs:
           name: antigravity-output-${{ github.run_number }}
           path: output/
           retention-days: 7
+          
