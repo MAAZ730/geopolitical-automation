@@ -46,6 +46,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           APIFY_TOKEN_NEW: ${{ secrets.APIFY_TOKEN_NEW }}
+          SCRAPE_CREATORS_API_KEY: ${{ secrets.SCRAPE_CREATORS_API_KEY }}
         run: |
           python main.py
 

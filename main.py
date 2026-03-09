@@ -2063,10 +2063,13 @@ def upload_files_to_drive(file_paths: list[Path]):
 # 17A. V17.0 INSTAGRAM CLONE & REBRAND ENGINE
 # ===========================================================================
 
-def fetch_instagram_posts() -> list[dict]:
-    """V17.0: Fetch latest posts from target IG channels via Apify."""
+def fetch_ig_apify(image_count: int) -> list[dict]:
+    """V18.25: Emergency Fallback IG Engine via Apify. Images ONLY."""
+    if image_count >= 5:
+        return []
+        
     if not APIFY_AVAILABLE:
-        log.warning("  [IG] apify-client not installed. Skipping Instagram engine.")
+        log.warning("  [IG] apify-client not installed. Skipping Instagram fallback engine.")
         return []
     
     apify_tokens = [
@@ -2076,30 +2079,25 @@ def fetch_instagram_posts() -> list[dict]:
     valid_tokens = [t for t in apify_tokens if t]
     
     if not valid_tokens:
-        log.warning("  [IG] No valid APIFY_TOKEN found. Skipping Instagram engine.")
+        log.warning("  [IG] No valid APIFY_TOKEN found. Skipping Instagram fallback engine.")
         return []
     
     posts = []
+    IG_SOURCES = ["thecradlemedia", "almayadeenenglish", "irna_en", "funker530", "presstv", "tehrantimes"]
+    target_url = f"https://www.instagram.com/{random.choice(IG_SOURCES)}/"
     
     for token in valid_tokens:
         client = ApifyClient(token)
         try:
-            print(f"  [IG] Triggering Apify Instagram Scraper using token: {token[:12]}...")
+            print(f"  [IG-FALLBACK] Triggering Apify Instagram Scraper on {target_url}...")
             run_input = {
-                "directUrls": [
-                    "https://www.instagram.com/thecradlemedia/",
-                    "https://www.instagram.com/almayadeenenglish/",
-                    "https://www.instagram.com/presstv/",
-                    "https://www.instagram.com/tehrantimes/",
-                    "https://www.instagram.com/irna_en/",
-                    "https://www.instagram.com/funker530/"
-                ],
+                "directUrls": [target_url],
                 "resultsType": "posts",
-                "resultsLimit": 30, # Optimized back down to 30
+                "resultsLimit": 15,
             }
             run = client.actor("apify/instagram-scraper").call(run_input=run_input)
             
-            print("  [IG] Fetching dataset results...")
+            print("  [IG-FALLBACK] Fetching dataset results...")
             for item in client.dataset(run["defaultDatasetId"]).iterate_items():
                 post = {
                     "caption": item.get("caption", ""),
@@ -2110,18 +2108,212 @@ def fetch_instagram_posts() -> list[dict]:
                     "timestamp": item.get("timestamp", ""),
                     "url": item.get("url", ""),
                 }
-                if post["caption"] or post["image_url"] or post["video_url"]:
+                if post["is_video"]:
+                    log.info(f"  [IG-FALLBACK] Skipping video from @{post['owner']}. Videos are strictly Telegram only.")
+                    continue
+                    
+                if post["caption"] or post["image_url"]:
                     posts.append(post)
-                    log.info(f"  [IG] Found post from @{post['owner']}: {post['caption'][:50]}...")
+                    log.info(f"  [IG-FALLBACK] Found image post from @{post['owner']}: {post['caption'][:50]}...")
             
-            break # Success, so don't try the fallback token
+            break # Success
             
         except Exception as e:
-            log.warning(f"  [IG] Apify API limit reached or failed with token {token[:12]}: {e}. Trying fallback if available...")
+            log.warning(f"  [IG-FALLBACK] Apify API limit reached or failed with token {token[:12]}: {e}. Trying next token...")
             continue
     
-    log.info(f"  [IG] Total Instagram posts fetched: {len(posts)}")
+    log.info(f"  [IG-FALLBACK] Total posts fetched: {len(posts)}")
     return posts
+
+def fetch_ig_scrape_creators() -> list[dict]:
+    """V18.24: Primary IG Engine via Scrape Creators API."""
+    IG_SOURCES = ["thecradlemedia", "almayadeenenglish", "irna_en", "funker530"]
+    api_key = os.environ.get("SCRAPE_CREATORS_API_KEY", "")
+    posts = []
+    
+    if not api_key:
+        log.warning("  [IG-PRIMARY] No SCRAPE_CREATORS_API_KEY found/provided. Scrape Creators bypassed.")
+        return posts
+        
+    print("  [SYSTEM] Engaging Primary IG Engine: Scrape Creators API...")
+    for source in IG_SOURCES:
+        url = "https://scrapecreator.p.rapidapi.com/v1/instagram/user/posts"
+        headers = {
+            "x-rapidapi-key": api_key,
+            "x-rapidapi-host": "scrapecreator.p.rapidapi.com"
+        }
+        params = {"username": source, "limit": "10"}
+        
+        try:
+            response = requests.get(url, headers=headers, params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                items = data.get("data", {}).get("items", []) if isinstance(data.get("data"), dict) else data.get("items", [])
+                if not items and isinstance(data, list):
+                    items = data
+                    
+                for item in items:
+                    caption = item.get("caption", item.get("text", ""))
+                    if isinstance(caption, dict):
+                        caption = caption.get("text", "")
+                        
+                    video_url = item.get("video_url")
+                    if not video_url and isinstance(item.get("video_versions"), list) and len(item.get("video_versions")) > 0:
+                        video_url = item["video_versions"][0].get("url", "")
+                        
+                    image_url = item.get("image_url", item.get("display_url", item.get("thumbnail_url", "")))
+                    post_url = item.get("url", item.get("permalink", f"https://instagram.com/p/{item.get('shortcode', '')}"))
+                    
+                    is_video = True if video_url else False
+                    if is_video:
+                        log.info(f"  [IG-PRIMARY] Skipping video from {source}. Videos are strictly Telegram only.")
+                        continue
+                    
+                    if caption or image_url:
+                        posts.append({
+                            "caption": caption,
+                            "image_url": image_url,
+                            "video_url": video_url,
+                            "is_video": is_video,
+                            "owner": source,
+                            "timestamp": item.get("timestamp", ""),
+                            "url": post_url
+                        })
+        except Exception as e:
+            log.warning(f"  [IG-PRIMARY] Scrape Creators failed for {source}: {e}")
+            
+    log.info(f"  [IG-PRIMARY] Total Scrape Creators posts fetched: {len(posts)}")
+    return posts
+
+def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_queue):
+    print("  [SYSTEM] Engaging Telegram Quota Hunter (Target: 2 Images, 3 Videos)...")
+    
+    TG_CHANNELS = [
+        'thecradlemedia', 'middle_east_spectator', 'ResistanceTrench', 
+        'RNN_webed', 'PalestineResist', 'QudsNen', 'DDGeopolitics', 
+        'warmonitors', 'BellumActaNews', 'militarywave', 'presstv', 'CensoredMen'
+    ]
+    
+    for channel in TG_CHANNELS:
+        if tg_image_count >= 2 and tg_video_count >= 3:
+            print("  [TG] Quotas fully met! Exiting Telegram engine.")
+            break
+            
+        url = f"https://t.me/s/{channel}"
+        try:
+            response = requests.get(url, timeout=15)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            messages = soup.find_all('div', class_='tgme_widget_message')
+            
+            for msg in reversed(messages):
+                if tg_image_count >= 2 and tg_video_count >= 3:
+                    break
+                    
+                msg_link = msg.get('data-post')
+                if not msg_link or is_posted(msg_link, posted_links):
+                    continue
+                    
+                text_div = msg.find('div', class_='tgme_widget_message_text')
+                caption = text_div.text if text_div else ""
+                
+                if not is_combat_relevant(caption):
+                    continue
+                    
+                video_tag = msg.find('video')
+                photo_tag = msg.find('a', class_='tgme_widget_message_photo_wrap')
+                
+                media_url = None
+                is_video = False
+                
+                if video_tag and video_tag.get('src'):
+                    if tg_video_count >= 3:
+                        continue
+                    media_url = video_tag['src']
+                    is_video = True
+                elif photo_tag and photo_tag.get('style'):
+                    if tg_image_count >= 2:
+                        continue
+                    match = re.search(r"url\('(.+?)'\)", photo_tag['style'])
+                    if match:
+                        media_url = match.group(1)
+                        
+                if media_url:
+                    print(f"  [TG] Found valid combat media from {channel}")
+                    
+                    rewrite_result = rewrite_caption_ai(caption)
+                    if not rewrite_result:
+                        rewritten_caption = caption[:200]
+                        image_hook = rewritten_caption[:80]
+                    else:
+                        rewritten_caption = rewrite_result.get("rewritten_caption", "News update.")
+                        image_hook = rewrite_result.get("image_hook", rewritten_caption[:80])
+                        
+                    clean_caption = re.sub(r'[\*"]', '', rewritten_caption).strip()
+                    
+                    final_file_path = OUTPUT_DIR / f"{successful_post_counter:02d}_{'Video.mp4' if is_video else 'Image.png'}"
+                    caption_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
+                    
+                    media_resp = requests.get(media_url, stream=True, timeout=30)
+                    media_resp.raise_for_status()
+                    
+                    if is_video:
+                        temp_video_path = os.path.join("videos", f"temp_tg_raw_{successful_post_counter:02d}.mp4")
+                        with open(temp_video_path, 'wb') as f:
+                            for chunk in media_resp.iter_content(chunk_size=8192):
+                                f.write(chunk)
+                                
+                        print("  [TG] Applying FFmpeg processing to Telegram Video...")
+                        ffmpeg_cmd = [
+                            'ffmpeg', '-y', '-i', temp_video_path,
+                            '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
+                            '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
+                            str(final_file_path)
+                        ]
+                        res = subprocess.run(ffmpeg_cmd, capture_output=True)
+                        if res.returncode != 0:
+                            log.error(f"  [TG] FFmpeg failed: {res.stderr.decode('utf-8')}")
+                            continue
+                            
+                        hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
+                        with open(caption_path, "w", encoding="utf-8") as f:
+                            f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
+                            
+                        drive_queue.extend([Path(final_file_path), Path(caption_path)])
+                        tg_video_count += 1
+                        successful_post_counter += 1
+                        mark_posted(msg_link, None, posted_links, title=image_hook)
+                    else:
+                        temp_img_path = os.path.join("videos", f"temp_tg_raw_{successful_post_counter:02d}.jpg")
+                        with open(temp_img_path, 'wb') as f:
+                            for chunk in media_resp.iter_content(chunk_size=8192):
+                                f.write(chunk)
+                                
+                        tg_article = {
+                            "title": image_hook,
+                            "image_hook": image_hook,
+                            "instagram_caption": clean_caption,
+                            "source": channel,
+                            "real_url": msg_link,
+                            "link": msg_link,
+                            "image_url": temp_img_path,
+                            "threat_level": 8,
+                            "video_overlays": [],
+                            "countries": [],
+                        }
+                        
+                        generate_card(tg_article, final_file_path, threat_level=8)
+                        generate_caption(tg_article, caption_path)
+                        
+                        drive_queue.extend([Path(final_file_path), Path(caption_path)])
+                        image_count += 1
+                        tg_image_count += 1
+                        successful_post_counter += 1
+                        mark_posted(msg_link, None, posted_links, title=image_hook)
+                    
+        except Exception as e:
+            print(f"  [ERROR] Telegram scraping failed for {channel}: {e}")
+            
+    return successful_post_counter, image_count, tg_video_count, tg_image_count
 
 
 def rewrite_caption_ai(original_caption: str) -> dict | None:
@@ -2171,23 +2363,19 @@ def rewrite_caption_ai(original_caption: str) -> dict | None:
     return None
 
 
-def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], posted_links: dict) -> int:
-    """V17.0/V18.0: Process Instagram posts with strict quotas and duplicate tracking."""
+def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], posted_links: dict, image_count: int) -> tuple[int, int]:
+    """V18.25: Process Instagram image posts with strict quotas and duplicate tracking."""
     global successful_post_counter
     if not ig_posts:
-        return 0
+        return 0, image_count
     
     prefix = get_filename_prefix()
     ig_count = 0
     
-    # V18.0: Strict Quotas
-    ig_video_count = 0
-    ig_image_count = 0
-    MAX_IG_VIDEOS = 2  # V18.1: Expanded to 2
-    MAX_IG_IMAGES = 5  # V18.1: Expanded to 5
+    MAX_IG_IMAGES = 5
     
     for idx, post in enumerate(ig_posts, 1):
-        if ig_video_count >= MAX_IG_VIDEOS and ig_image_count >= MAX_IG_IMAGES:
+        if image_count >= MAX_IG_IMAGES:
             log.info("  [IG] All quotas met. Stopping Instagram batch.")
             break
             
@@ -2237,55 +2425,11 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
             is_video = True if video_url else False
             
             if is_video:
-                if ig_video_count < MAX_IG_VIDEOS:
-                    import subprocess
-                    print(f"  [IG] Video/Reel detected! Downloading direct URL...")
-                    
-                    temp_video_path = os.path.join("videos", f"temp_ig_raw_{successful_post_counter:02d}.mp4")
-                    final_vid_path = os.path.join(RUN_DIR, f"{successful_post_counter:02d}_Video.mp4")
-                    caption_path = os.path.join(RUN_DIR, f"{successful_post_counter:02d}_Caption.txt")
-                    
-                    try:
-                        # 1. Download video
-                        video_response = requests.get(video_url, stream=True, timeout=30)
-                        video_response.raise_for_status()
-                        with open(temp_video_path, 'wb') as f:
-                            for chunk in video_response.iter_content(chunk_size=8192):
-                                f.write(chunk)
-                        
-                        # 2. Direct FFmpeg Vertical Blur Processing
-                        print("  [IG] Applying 9:16 vertical blur background via FFmpeg...")
-                        ffmpeg_cmd = [
-                            'ffmpeg', '-y', '-i', temp_video_path,
-                            '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
-                            '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
-                            final_vid_path
-                        ]
-                        
-                        result = subprocess.run(ffmpeg_cmd, capture_output=True)
-                        
-                        if result.returncode == 0:
-                            # Enhanced Caption with Tags
-                            hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
-                            with open(caption_path, "w", encoding="utf-8") as f:
-                                f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
-                            
-                            drive_queue.extend([Path(final_vid_path), Path(caption_path)])
-                            ig_count += 1
-                            ig_video_count += 1
-                            successful_post_counter += 1
-                            mark_posted(ig_url, None, posted_links, title=image_hook)
-                            log.info(f"  [IG] ✓ Video {ig_video_count}/{MAX_IG_VIDEOS} successfully processed.")
-                        else:
-                            log.error(f"  FFmpeg failed: {result.stderr.decode('utf-8')}")
-                            
-                    except Exception as e:
-                        log.error(f"  IG Video processing failed: {type(e).__name__}")
-                else:
-                    log.info("  [IG] Video quota met. Skipping excess video.")
+                log.info("  [IG] Skipped: Videos are strictly handled by Telegram Engine.")
+                continue
             else:
                 # === IMAGE MODE ===
-                if ig_image_count < MAX_IG_IMAGES:
+                if image_count < MAX_IG_IMAGES:
                     log.info("  [IG] Processing as IMAGE...")
                     png = Path(RUN_DIR) / f"{successful_post_counter:02d}_Image.png"
                     txt = Path(RUN_DIR) / f"{successful_post_counter:02d}_Caption.txt"
@@ -2304,10 +2448,10 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                         
                         drive_queue.extend([png, txt])
                         ig_count += 1
-                        ig_image_count += 1
+                        image_count += 1
                         successful_post_counter += 1
                         mark_posted(ig_url, None, posted_links, title=image_hook)
-                        log.info(f"  [IG] ✓ Image {ig_image_count}/{MAX_IG_IMAGES} successfully generated.")
+                        log.info(f"  [IG] ✓ Image {image_count}/{MAX_IG_IMAGES} successfully generated.")
                     except Exception as e:
                         log.error(f"  [IG] Card generation failed: {e}")
                 else:
@@ -2320,8 +2464,8 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
             log.error(f"  [IG] Failed processing IG post: {e}")
             continue
     
-    log.info(f"  [IG] Instagram batch complete: {ig_count} total posts processed ({ig_video_count} videos, {ig_image_count} images).")
-    return ig_count
+    log.info(f"  [IG] Instagram batch complete: {ig_count} total image posts processed.")
+    return ig_count, image_count
 
 def main() -> None:
     log.info("=" * 60)
@@ -2356,9 +2500,12 @@ def main() -> None:
     carousel_caption = ""
     prefix = get_filename_prefix()
     
-    # V12.2 Always-On Video Engine
+    # V18.25 Multi-Agent Quotas
     run_video = True
-    video_count = 0  # V16.7: Video quota counter
+    tg_video_count = 0
+    tg_image_count = 0
+    image_count = 0
+
     
     # Store dynamic files for Drive
     drive_upload_queue = []
@@ -2395,29 +2542,19 @@ def main() -> None:
             
             drive_upload_queue.extend([png, txt])
             successful_post_counter += 1
+            image_count += 1
+
             
             # Append local txt to combined string
             if txt.exists():
                 carousel_caption += txt.read_text(encoding="utf-8") + "\n\n---\n\n"
 
             # V16.7: Decoupled Video Generation with Quota Cap
-            if run_video and video_count < MAX_VIDEOS:
-                video_filepath = VIDEO_DIR / f"{prefix}_OSINT_Video{video_count + 1}.mp4"
-                video_txt = VIDEO_DIR / f"{prefix}_OSINT_Video{video_count + 1}_Caption.txt"
-                video_success = extract_and_process_video(
-                    article['real_url'], 
-                    article['title'], 
-                    video_filepath, 
-                    video_txt, 
-                    article.get('summary', ''),
-                    article
-                )
-                if video_success:
-                    video_count += 1
-                    print(f"  [QUOTA] Video {video_count}/{MAX_VIDEOS} generated successfully.")
-                    drive_upload_queue.extend([video_filepath, video_txt])
-            elif video_count >= MAX_VIDEOS:
-                log.info(f"  [QUOTA] Max videos ({MAX_VIDEOS}) reached. Skipping video for this article.")
+            if run_video:
+                # V18.25: Local Generation (if any) could theoretically cap, but 
+                # here we just let it run if run_video is True for local files,
+                # though user requested all video from TG. We skip internal RSS video creation.
+                log.info("  [RSS] Video generation skipped. Videos handled exclusively by Telegram.")
 
             posted = mark_posted(
                 article.get("real_url", article["link"]),
@@ -2443,16 +2580,35 @@ def main() -> None:
             continue
 
     # --------------------------------------------------
-    # V17.0 INSTAGRAM CLONE & REBRAND ENGINE
+    # V18.24 MULTI-AGENT HYBRID ENGINE
     # --------------------------------------------------
     log.info("\n" + "=" * 60)
-    log.info("V17.0: Starting Instagram Clone & Rebrand Engine...")
+    log.info("V18.24: Starting Multi-Agent Hybrid Engine...")
     log.info("=" * 60)
     
-    ig_posts = fetch_instagram_posts()
-    ig_processed = process_instagram_batch(ig_posts, drive_upload_queue, posted)
-    log.info(f"  [IG] {ig_processed} Instagram posts rebranded.")
-    save_posted(posted) # V18.0: Save posted duplicate tracker after IG runs
+    # Engine 1: Scrape Creators API
+    ig_posts = fetch_ig_scrape_creators()
+    ig_processed, image_count = process_instagram_batch(
+        ig_posts, drive_upload_queue, posted, image_count
+    )
+    log.info(f"  [IG-PRIMARY] {ig_processed} primary IG image posts processed.")
+    
+    # Engine 2: Telegram Hunter
+    successful_post_counter, image_count, tg_video_count, tg_image_count = run_telegram_hunter(
+        posted, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_upload_queue
+    )
+    
+    # Emergency Fallback: Apify
+    apify_processed = 0
+    if not ig_posts and image_count < 5:
+        log.info("  [SYSTEM] Scrape Creators returned 0. Engaging Apify Fallback...")
+        fallback_posts = fetch_ig_apify(image_count)
+        apify_processed, image_count = process_instagram_batch(
+            fallback_posts, drive_upload_queue, posted, image_count
+        )
+        log.info(f"  [IG-FALLBACK] {apify_processed} fallback IG image posts processed.")
+        
+    save_posted(posted) # V18.0: Save posted duplicate tracker after engines run
 
     # ----------------------------------------------------
     # V11.0 CAROUSEL COMPILATION & DRIVE UPLOAD
@@ -2475,7 +2631,7 @@ def main() -> None:
         upload_files_to_drive(all_ups)
 
     log.info("\n" + "=" * 60)
-    log.info(f"Run complete. {processed_count} RSS cards + {ig_processed} IG posts. {failed_count} failed.")
+    log.info(f"Run complete. {processed_count} RSS cards + {ig_processed} IG posts + {apify_processed} Fallback posts. {failed_count} failed.")
     log.info("=" * 60)
 
 
