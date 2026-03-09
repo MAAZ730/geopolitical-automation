@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 361,
+  "total_calls": 365,
   "tiers": {
-    "groq": 343,
+    "groq": 347,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-08T09:06:48.575797+00:00",
-      "tier": "groq",
-      "article": "Daraa launches $7.8 million in service projects under \u201cAbshari Horan\u201d campaign"
-    },
-    {
-      "timestamp": "2026-03-08T09:07:06.565092+00:00",
-      "tier": "groq",
-      "article": "China warns of spreading flames of war in West Asia, world\u00a0"
-    },
-    {
-      "timestamp": "2026-03-08T09:08:06.956040+00:00",
-      "tier": "groq",
-      "article": "\u2018No popular support\u2019: China warns against government change in Iran"
-    },
-    {
-      "timestamp": "2026-03-08T09:14:52.642627+00:00",
-      "tier": "groq",
-      "article": "Iran war: What is happening on day nine of US-Israel attacks?"
-    },
     {
       "timestamp": "2026-03-08T09:15:10.318161+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-09T19:00:44.208292+00:00",
       "tier": "groq",
       "article": "Head of Hezbollah parliamentary bloc Hajj Mohammad Raad: Israeli enemy has never observed the ceasefire concluded in 2024 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-09T20:47:56.622052+00:00",
+      "tier": "groq",
+      "article": "What is the US endgame in Iran, as the war escalates?"
+    },
+    {
+      "timestamp": "2026-03-09T20:48:12.610421+00:00",
+      "tier": "groq",
+      "article": "Why Israel\u2019s war on Hezbollah keeps returning"
+    },
+    {
+      "timestamp": "2026-03-09T20:48:28.879834+00:00",
+      "tier": "groq",
+      "article": "US B-1B Lancers arrive at RAF Fairford as strikes on Iran intensify "
+    },
+    {
+      "timestamp": "2026-03-09T20:48:44.984346+00:00",
+      "tier": "groq",
+      "article": "Anthropic sues Trump administration to undo US \u2018supply chain risk\u2019 tag"
     }
   ]
 }
