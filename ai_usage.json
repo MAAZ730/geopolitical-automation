@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 385,
+  "total_calls": 389,
   "tiers": {
-    "groq": 367,
+    "groq": 371,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-08T11:23:45.391296+00:00",
-      "tier": "groq",
-      "article": "Rapper-turned-politician Balen Shah\u2019s RSP heads for poll landslide in Nepal"
-    },
-    {
-      "timestamp": "2026-03-08T11:24:02.835168+00:00",
-      "tier": "groq",
-      "article": "Hundreds march in New York condemning US-Israeli attacks on Iran"
-    },
-    {
-      "timestamp": "2026-03-08T11:24:20.819748+00:00",
-      "tier": "groq",
-      "article": "China urges dialogue with Washington, warns of escalation risks"
-    },
-    {
-      "timestamp": "2026-03-08T12:46:20.758517+00:00",
-      "tier": "groq",
-      "article": "Pezeshkian visits hospitals treating war victims"
-    },
     {
       "timestamp": "2026-03-08T12:47:21.662602+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-10T06:58:53.090530+00:00",
       "tier": "groq",
       "article": "Trump says some sanctions to be lifted on oil producers amid Iran war"
+    },
+    {
+      "timestamp": "2026-03-10T08:51:33.057359+00:00",
+      "tier": "groq",
+      "article": "Iran Army strikes Haifa refinery, fuel depots with drones"
+    },
+    {
+      "timestamp": "2026-03-10T08:52:30.048006+00:00",
+      "tier": "groq",
+      "article": "Strikes shake Iran as crowds rally in support of Mojtaba Khamenei"
+    },
+    {
+      "timestamp": "2026-03-10T08:52:46.134965+00:00",
+      "tier": "groq",
+      "article": "Israeli dies from his wounds following Monday missile attack on central \u2018Israel\u2019: Hebrew media - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-10T08:53:02.982533+00:00",
+      "tier": "groq",
+      "article": "GPS jamming: The invisible battle in the Middle East"
     }
   ]
 }
