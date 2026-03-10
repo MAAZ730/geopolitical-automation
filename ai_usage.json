@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 389,
+  "total_calls": 393,
   "tiers": {
-    "groq": 371,
+    "groq": 375,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-08T12:47:21.662602+00:00",
-      "tier": "groq",
-      "article": "Enemy media: Sirens sound in the Western Galilee due to fears of drone infiltration - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-08T12:47:41.759575+00:00",
-      "tier": "groq",
-      "article": "Who pays when the war on Iran breaks air travel?"
-    },
-    {
-      "timestamp": "2026-03-08T12:47:59.630639+00:00",
-      "tier": "groq",
-      "article": "Why are Iranian leaders sending mixed messages on Gulf attacks?"
-    },
-    {
-      "timestamp": "2026-03-08T13:50:40.474819+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance strikes Misgav military base with a missile salvo: Statement 12 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-08T13:51:00.644414+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-10T08:53:02.982533+00:00",
       "tier": "groq",
       "article": "GPS jamming: The invisible battle in the Middle East"
+    },
+    {
+      "timestamp": "2026-03-10T10:44:36.968520+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s deadly strikes against aggressors to continue\u00a0"
+    },
+    {
+      "timestamp": "2026-03-10T10:45:34.239857+00:00",
+      "tier": "groq",
+      "article": "Air strike kills four Iran-linked fighters in Iraq"
+    },
+    {
+      "timestamp": "2026-03-10T10:45:50.586781+00:00",
+      "tier": "groq",
+      "article": "Toddler\u2019s body pulled from the rubble after US-Israeli strikes hit Tehran"
+    },
+    {
+      "timestamp": "2026-03-10T10:46:06.730162+00:00",
+      "tier": "groq",
+      "article": "IRGC destroys Tel Aviv Satellite Communications Center\u00a0"
     }
   ]
 }
