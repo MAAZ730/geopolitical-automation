@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 401,
+  "total_calls": 405,
   "tiers": {
-    "groq": 383,
+    "groq": 387,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-08T14:52:44.311232+00:00",
-      "tier": "groq",
-      "article": "Trump rules out negotiations with Iran, threatens to target its military leaders"
-    },
-    {
-      "timestamp": "2026-03-08T15:48:26.017857+00:00",
-      "tier": "groq",
-      "article": "\u2018Gulf countries may question US capability to protect them\u2019"
-    },
-    {
-      "timestamp": "2026-03-08T16:31:13.781078+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s FM Araghchi: Ceasefire is Rejected Unless It Leads to Permanent End of War - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-08T17:50:31.833031+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fires a missile salvo at Kiryat Shmona for the second time on Sunday: Statement 13 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-08T18:37:33.622718+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-10T14:56:05.925116+00:00",
       "tier": "groq",
       "article": "Walk down Beirut street shows destruction after Israeli bombing"
+    },
+    {
+      "timestamp": "2026-03-10T17:04:25.592238+00:00",
+      "tier": "groq",
+      "article": "War expands to central Beirut as Israel says Iranians hit in luxury hotel"
+    },
+    {
+      "timestamp": "2026-03-10T17:04:42.263029+00:00",
+      "tier": "groq",
+      "article": "Pentagon chief vows \u2018most intense day\u2019 of US strikes against Iran"
+    },
+    {
+      "timestamp": "2026-03-10T17:04:58.183185+00:00",
+      "tier": "groq",
+      "article": "Israeli air strike targets building in south Lebanon"
+    },
+    {
+      "timestamp": "2026-03-10T17:05:14.185520+00:00",
+      "tier": "groq",
+      "article": "Trump \u2018not happy\u2019 with choice of new Iranian leader, says talks with regime \u2018possible\u2019 - Al-Manar TV Lebanon"
     }
   ]
 }
