@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 377,
+  "total_calls": 381,
   "tiers": {
-    "groq": 359,
+    "groq": 363,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-08T10:28:14.099228+00:00",
-      "tier": "groq",
-      "article": "Day 7 of Aggression: Israeli Strikes on Beirut, South Lebanon Leave Multiple Martyrs and Wounded - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-08T10:28:32.999830+00:00",
-      "tier": "groq",
-      "article": "Kuwait, Saudi Arabia and Qatar intercept Iranian drones and missiles"
-    },
-    {
-      "timestamp": "2026-03-08T10:28:51.071183+00:00",
-      "tier": "groq",
-      "article": "Trump administration denies reports that Iran captured US soldiers"
-    },
-    {
-      "timestamp": "2026-03-08T10:53:19.480570+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: Israeli warplanes launched an airstrike on the town of Taybeh, South Lebanon - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-08T10:53:39.836850+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-10T02:25:24.131669+00:00",
       "tier": "groq",
       "article": "Trump slams Mojtaba Khamenei\u2019s appointment as Iran projects defiance"
+    },
+    {
+      "timestamp": "2026-03-10T05:12:55.444298+00:00",
+      "tier": "groq",
+      "article": "US Patriot missile crashes in Bahrain\u2019s residential areas"
+    },
+    {
+      "timestamp": "2026-03-10T05:13:54.777950+00:00",
+      "tier": "groq",
+      "article": "Iran launches 33rd wave of Op. \u2018True Promise-4\u2019"
+    },
+    {
+      "timestamp": "2026-03-10T05:14:52.184965+00:00",
+      "tier": "groq",
+      "article": "Australia to send missiles to UAE, surveillance plane to help Gulf defence"
+    },
+    {
+      "timestamp": "2026-03-10T05:15:08.460611+00:00",
+      "tier": "groq",
+      "article": "Iran Army targets Israeli, American positions with drones"
     }
   ]
 }
