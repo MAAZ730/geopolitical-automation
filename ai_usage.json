@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 441,
+  "total_calls": 445,
   "tiers": {
-    "groq": 423,
+    "groq": 427,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-09T14:57:05.960770+00:00",
-      "tier": "groq",
-      "article": "Israel strikes Hezbollah financial institutions as Lebanon calls for talks"
-    },
-    {
-      "timestamp": "2026-03-09T14:57:23.719330+00:00",
-      "tier": "groq",
-      "article": "New missile video puts spotlight on US over Iran school attack"
-    },
-    {
-      "timestamp": "2026-03-09T14:57:41.453471+00:00",
-      "tier": "groq",
-      "article": "Turkey sends six F-16 fighters to Northern Cyprus amid Iran missile threats"
-    },
-    {
-      "timestamp": "2026-03-09T14:57:58.819832+00:00",
-      "tier": "groq",
-      "article": "Europe becoming arms powerhouse despite increased imports, says SIPRI"
-    },
     {
       "timestamp": "2026-03-09T16:16:45.394888+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-11T13:15:04.224483+00:00",
       "tier": "groq",
       "article": "Islamic Resistance in Iraq says carried out 4 operations against US bases in Iraq and abroad in last 24 hours - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-11T14:56:57.076145+00:00",
+      "tier": "groq",
+      "article": "What happened in Ukraine missile attack in Russia\u2019s Bryansk?"
+    },
+    {
+      "timestamp": "2026-03-11T14:57:13.777330+00:00",
+      "tier": "groq",
+      "article": "Israeli Army Admits Defense Failure after Hezbollah Precision Strike on Satellite Hub - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-11T14:57:34.316320+00:00",
+      "tier": "groq",
+      "article": "Funeral held for top Iranian commanders killed in US-Israeli strikes"
+    },
+    {
+      "timestamp": "2026-03-11T14:57:50.517622+00:00",
+      "tier": "groq",
+      "article": "4 day week, fewer car trips in Philippines as Iran fallout bites"
     }
   ]
 }
