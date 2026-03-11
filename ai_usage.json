@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 429,
+  "total_calls": 433,
   "tiers": {
-    "groq": 411,
+    "groq": 415,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-09T08:52:41.484824+00:00",
-      "tier": "groq",
-      "article": "IRGC warns of energy war after US-Israeli strikes on Iranian assets"
-    },
-    {
-      "timestamp": "2026-03-09T08:52:59.272109+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Sirens sound as new Iranian missiles launched towards northern \u2018Israel\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-09T08:53:18.496948+00:00",
-      "tier": "groq",
-      "article": "At least 42 people killed in days of floods across Kenya"
-    },
-    {
-      "timestamp": "2026-03-09T08:53:36.036476+00:00",
-      "tier": "groq",
-      "article": "Israel unlawfully used white phosphorus in Lebanon: HRW"
-    },
     {
       "timestamp": "2026-03-09T10:52:27.102602+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-11T07:06:16.836820+00:00",
       "tier": "groq",
       "article": "Qatar warns Gulf security is tied to global stability"
+    },
+    {
+      "timestamp": "2026-03-11T08:52:40.580134+00:00",
+      "tier": "groq",
+      "article": "Israel pounds Lebanon, targets residential building in central Beirut"
+    },
+    {
+      "timestamp": "2026-03-11T08:52:56.994556+00:00",
+      "tier": "groq",
+      "article": "Israeli strikes hit Beirut suburbs"
+    },
+    {
+      "timestamp": "2026-03-11T08:53:12.890341+00:00",
+      "tier": "groq",
+      "article": "Al Jazeera reports from Israeli bombing of Beirut apartment block"
+    },
+    {
+      "timestamp": "2026-03-11T08:53:28.969333+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian urges Intl. condemnation of US-Israeli crimes"
     }
   ]
 }
