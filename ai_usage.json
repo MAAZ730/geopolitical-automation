@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 437,
+  "total_calls": 441,
   "tiers": {
-    "groq": 419,
+    "groq": 423,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-09T13:12:48.866747+00:00",
-      "tier": "groq",
-      "article": "New Wave of Iranian Missiles Strikes Tel Aviv, Casualties Reported - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-09T13:13:10.229353+00:00",
-      "tier": "groq",
-      "article": "\u2018Reprehensible\u2019: New wave of Iranian missiles, drones target Gulf nations"
-    },
-    {
-      "timestamp": "2026-03-09T13:13:27.265330+00:00",
-      "tier": "groq",
-      "article": "Moment building in Beirut southern suburbs was targeted by Israeli strike"
-    },
-    {
-      "timestamp": "2026-03-09T13:13:45.130936+00:00",
-      "tier": "groq",
-      "article": "Finland readies itself to be able to host nukes in longtime policy departure"
-    },
     {
       "timestamp": "2026-03-09T14:57:05.960770+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-11T10:47:55.447658+00:00",
       "tier": "groq",
       "article": "Israeli enemy issues new evacuation threat to residents of several towns in Tyre district in south Lebanon and to residents of Haret Hreik and Burj Al-Barajneh in Beirut\u2019s Dahiyeh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-11T13:14:12.957887+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in south Lebanon reports Israeli strikes on Habboush and Touline - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-11T13:14:30.248828+00:00",
+      "tier": "groq",
+      "article": "Iranian army says bombed several targets in the occupied territories, including Israeli military intelligence and Unit 8200 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-11T13:14:47.933310+00:00",
+      "tier": "groq",
+      "article": "UN aid worker killed in DR Congo\u2019s rebel-held Goma"
+    },
+    {
+      "timestamp": "2026-03-11T13:15:04.224483+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance in Iraq says carried out 4 operations against US bases in Iraq and abroad in last 24 hours - Al-Manar TV Lebanon"
     }
   ]
 }
