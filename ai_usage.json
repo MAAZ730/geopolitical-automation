@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 433,
+  "total_calls": 437,
   "tiers": {
-    "groq": 415,
+    "groq": 419,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-09T10:52:27.102602+00:00",
-      "tier": "groq",
-      "article": "US Launching Missiles from Residential Areas of Neighboring Countries: Tehran - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-09T10:52:47.783163+00:00",
-      "tier": "groq",
-      "article": "Israeli Aggression Enters Second Week with Heavy Strikes on Beirut and Southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-09T10:53:12.816291+00:00",
-      "tier": "groq",
-      "article": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians"
-    },
-    {
-      "timestamp": "2026-03-09T10:53:29.669732+00:00",
-      "tier": "groq",
-      "article": "UAE releases video of Iranian drone interception"
-    },
     {
       "timestamp": "2026-03-09T13:12:48.866747+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-11T08:53:28.969333+00:00",
       "tier": "groq",
       "article": "Pezeshkian urges Intl. condemnation of US-Israeli crimes"
+    },
+    {
+      "timestamp": "2026-03-11T10:47:05.602605+00:00",
+      "tier": "groq",
+      "article": "Israeli Enemy Widens Aggression Across Lebanon, Strikes Beirut Anew - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-11T10:47:23.444441+00:00",
+      "tier": "groq",
+      "article": "US hits minelaying ships in Iran after warning of 'intense' day of bombs"
+    },
+    {
+      "timestamp": "2026-03-11T10:47:39.360019+00:00",
+      "tier": "groq",
+      "article": "Russia kills two in Ukraine\u2019s Kharkiv; war grinds on, focus on Middle East"
+    },
+    {
+      "timestamp": "2026-03-11T10:47:55.447658+00:00",
+      "tier": "groq",
+      "article": "Israeli enemy issues new evacuation threat to residents of several towns in Tyre district in south Lebanon and to residents of Haret Hreik and Burj Al-Barajneh in Beirut\u2019s Dahiyeh - Al-Manar TV Lebanon"
     }
   ]
 }
