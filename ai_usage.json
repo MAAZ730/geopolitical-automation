@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 489,
+  "total_calls": 493,
   "tiers": {
-    "groq": 471,
+    "groq": 475,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-10T10:44:36.968520+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s deadly strikes against aggressors to continue\u00a0"
-    },
-    {
-      "timestamp": "2026-03-10T10:45:34.239857+00:00",
-      "tier": "groq",
-      "article": "Air strike kills four Iran-linked fighters in Iraq"
-    },
-    {
-      "timestamp": "2026-03-10T10:45:50.586781+00:00",
-      "tier": "groq",
-      "article": "Toddler\u2019s body pulled from the rubble after US-Israeli strikes hit Tehran"
-    },
-    {
-      "timestamp": "2026-03-10T10:46:06.730162+00:00",
-      "tier": "groq",
-      "article": "IRGC destroys Tel Aviv Satellite Communications Center\u00a0"
-    },
     {
       "timestamp": "2026-03-10T13:10:07.748220+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-12T15:00:12.294685+00:00",
       "tier": "groq",
       "article": "Dubai high-rise building damaged in overnight drone hit"
+    },
+    {
+      "timestamp": "2026-03-12T17:07:07.453242+00:00",
+      "tier": "groq",
+      "article": "How Iran used asymmetric warfare to offset US-Israeli military power"
+    },
+    {
+      "timestamp": "2026-03-12T17:07:23.576455+00:00",
+      "tier": "groq",
+      "article": "Al Jazeera reporter sees destruction in Tehran neighbourhood"
+    },
+    {
+      "timestamp": "2026-03-12T17:07:39.558731+00:00",
+      "tier": "groq",
+      "article": "Massive destruction after Israeli strikes in Beirut neighbourhood"
+    },
+    {
+      "timestamp": "2026-03-12T17:07:55.623713+00:00",
+      "tier": "groq",
+      "article": "Nations withdraw some equipment from NATO Arctic exercise amid Iran fallout"
     }
   ]
 }
