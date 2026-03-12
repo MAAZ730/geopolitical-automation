@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 465,
+  "total_calls": 469,
   "tiers": {
-    "groq": 447,
+    "groq": 451,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-09T22:34:36.206533+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters target a gathering of soldiers and military vehicles at the Israeli occupation site of Al-Abbad off Houla border town with a missile salvo: Statement 22 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-09T22:34:52.794123+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters target the Israeli occupation site of Menara off Houla border town with a missile salvo: Statement 21 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-09T22:35:09.010095+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters target the Israeli occupation site of Al-Abbad off Houla border town with a missile salvo: Statement 20 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-09T22:35:25.153576+00:00",
-      "tier": "groq",
-      "article": "MP Raad: Israeli Enemy Benefited from Lebanese Government Listlessness, Hezbollah Will Fight to Defend Nation - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-10T02:03:29.053143+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-12T02:34:56.951049+00:00",
       "tier": "groq",
       "article": "Six die in Swiss bus fire after man thought to have set himself alight"
+    },
+    {
+      "timestamp": "2026-03-12T05:22:42.384732+00:00",
+      "tier": "groq",
+      "article": "Pres. Pezeshkian declares conditions for ending war"
+    },
+    {
+      "timestamp": "2026-03-12T05:23:40.986839+00:00",
+      "tier": "groq",
+      "article": "Ships hit in Strait of Hormuz as countries agree to release emergency oil reserves"
+    },
+    {
+      "timestamp": "2026-03-12T05:23:56.845796+00:00",
+      "tier": "groq",
+      "article": "Six vessels attacked amid reports of Iranian drone boats, sea mines"
+    },
+    {
+      "timestamp": "2026-03-12T05:24:12.944543+00:00",
+      "tier": "groq",
+      "article": "Powerful Iranian Armed Forces punishing Israel: FM Araghchi\u00a0"
     }
   ]
 }
