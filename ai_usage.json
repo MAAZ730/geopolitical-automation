@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 473,
+  "total_calls": 477,
   "tiers": {
-    "groq": 455,
+    "groq": 459,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-10T02:24:32.863226+00:00",
-      "tier": "groq",
-      "article": "Loud explosions rock Safed, north of occupied Palestine: reports - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-10T02:24:51.090261+00:00",
-      "tier": "groq",
-      "article": "\u2018No middle ground\u2019: Israelis back Iran war, despite taking mounting hits"
-    },
-    {
-      "timestamp": "2026-03-10T02:25:07.553620+00:00",
-      "tier": "groq",
-      "article": "Trump says US-Israeli war on Iran will be over \u2018very soon\u2019"
-    },
-    {
-      "timestamp": "2026-03-10T02:25:24.131669+00:00",
-      "tier": "groq",
-      "article": "Trump slams Mojtaba Khamenei\u2019s appointment as Iran projects defiance"
-    },
     {
       "timestamp": "2026-03-10T05:12:55.444298+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-12T07:07:25.453109+00:00",
       "tier": "groq",
       "article": "Vessels linked to aggressors not allowed cross Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-03-12T08:56:15.656074+00:00",
+      "tier": "groq",
+      "article": "Israeli \u2018double-tap strike\u2019 hits displaced on Beirut seafront, kills eight"
+    },
+    {
+      "timestamp": "2026-03-12T08:56:31.847545+00:00",
+      "tier": "groq",
+      "article": "In the US-Israeli war on Iran, who will run out of missiles first?"
+    },
+    {
+      "timestamp": "2026-03-12T08:56:47.696666+00:00",
+      "tier": "groq",
+      "article": "Iraqi Resistance killed 13 US forces in attack on its bases\u00a0"
+    },
+    {
+      "timestamp": "2026-03-12T08:57:44.979520+00:00",
+      "tier": "groq",
+      "article": "US Marine Corps pursues thermal cloaks to hide troops from heat sensors"
     }
   ]
 }
