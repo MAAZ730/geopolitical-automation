@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 477,
+  "total_calls": 481,
   "tiers": {
-    "groq": 459,
+    "groq": 463,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-10T05:12:55.444298+00:00",
-      "tier": "groq",
-      "article": "US Patriot missile crashes in Bahrain\u2019s residential areas"
-    },
-    {
-      "timestamp": "2026-03-10T05:13:54.777950+00:00",
-      "tier": "groq",
-      "article": "Iran launches 33rd wave of Op. \u2018True Promise-4\u2019"
-    },
-    {
-      "timestamp": "2026-03-10T05:14:52.184965+00:00",
-      "tier": "groq",
-      "article": "Australia to send missiles to UAE, surveillance plane to help Gulf defence"
-    },
-    {
-      "timestamp": "2026-03-10T05:15:08.460611+00:00",
-      "tier": "groq",
-      "article": "Iran Army targets Israeli, American positions with drones"
-    },
     {
       "timestamp": "2026-03-10T06:57:23.294001+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-12T08:57:44.979520+00:00",
       "tier": "groq",
       "article": "US Marine Corps pursues thermal cloaks to hide troops from heat sensors"
+    },
+    {
+      "timestamp": "2026-03-12T10:46:49.182197+00:00",
+      "tier": "groq",
+      "article": "US Senate Democratic Leader: Donald Trump is a Liar - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-12T10:47:09.834926+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s strikes disrupt Israel ability to detect missiles"
+    },
+    {
+      "timestamp": "2026-03-12T10:48:06.745583+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fires 200 rockets at Israel overnight"
+    },
+    {
+      "timestamp": "2026-03-12T10:49:04.654555+00:00",
+      "tier": "groq",
+      "article": "Iran conducts 40th wave of Operation \u201cTrue Promise-4\u201d"
     }
   ]
 }
