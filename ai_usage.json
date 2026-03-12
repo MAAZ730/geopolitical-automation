@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 501,
+  "total_calls": 505,
   "tiers": {
-    "groq": 483,
+    "groq": 487,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-10T17:04:25.592238+00:00",
-      "tier": "groq",
-      "article": "War expands to central Beirut as Israel says Iranians hit in luxury hotel"
-    },
-    {
-      "timestamp": "2026-03-10T17:04:42.263029+00:00",
-      "tier": "groq",
-      "article": "Pentagon chief vows \u2018most intense day\u2019 of US strikes against Iran"
-    },
-    {
-      "timestamp": "2026-03-10T17:04:58.183185+00:00",
-      "tier": "groq",
-      "article": "Israeli air strike targets building in south Lebanon"
-    },
-    {
-      "timestamp": "2026-03-10T17:05:14.185520+00:00",
-      "tier": "groq",
-      "article": "Trump \u2018not happy\u2019 with choice of new Iranian leader, says talks with regime \u2018possible\u2019 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-10T19:01:19.542688+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-12T20:46:31.213635+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers at Al-Khazan Hill in the town of Al-Adaisseh on the Lebanese-Palestinian border with a rocket barrage: Statement 20 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-12T22:35:49.566559+00:00",
+      "tier": "groq",
+      "article": "B-21 Raider completed \u2018close-proximity flight\u2019 with KC-135 tanker, US Air Force confirms"
+    },
+    {
+      "timestamp": "2026-03-12T22:36:05.839941+00:00",
+      "tier": "groq",
+      "article": "How Iran war ship attacks choked off Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-03-12T22:36:22.041438+00:00",
+      "tier": "groq",
+      "article": "Advocates push for major probe as US boat strikes in Latin America kill 157"
+    },
+    {
+      "timestamp": "2026-03-12T22:36:38.163434+00:00",
+      "tier": "groq",
+      "article": "Iran's new Supreme Leader vows to continue blocking Strait of Hormuz"
     }
   ]
 }
