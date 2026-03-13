@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 505,
+  "total_calls": 509,
   "tiers": {
-    "groq": 487,
+    "groq": 491,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-10T19:01:19.542688+00:00",
-      "tier": "groq",
-      "article": "Huge explosions rock Doha as missile strike targets Al-Udeid US base: reports - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-10T19:01:36.305472+00:00",
-      "tier": "groq",
-      "article": "Moment \u2018Hezbollah missile\u2019 strikes Israeli radar station"
-    },
-    {
-      "timestamp": "2026-03-10T19:01:52.322295+00:00",
-      "tier": "groq",
-      "article": "WHO warns of health risks from \u2018black rain\u2019 in Iran"
-    },
-    {
-      "timestamp": "2026-03-10T19:02:08.273050+00:00",
-      "tier": "groq",
-      "article": "Canadian authorities investigating gunfire at US consulate in Toronto"
-    },
     {
       "timestamp": "2026-03-10T20:44:25.122959+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-12T22:36:38.163434+00:00",
       "tier": "groq",
       "article": "Iran's new Supreme Leader vows to continue blocking Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-03-13T02:31:59.928682+00:00",
+      "tier": "groq",
+      "article": "Iranian missile strikes residential area in northern Israel"
+    },
+    {
+      "timestamp": "2026-03-13T02:32:16.183666+00:00",
+      "tier": "groq",
+      "article": "Qatar rejects attempts to \u2018drive wedge\u2019 with US over gas pause"
+    },
+    {
+      "timestamp": "2026-03-13T02:32:32.742596+00:00",
+      "tier": "groq",
+      "article": "British man charged in Dubai for alleged filming of Iranian missiles"
+    },
+    {
+      "timestamp": "2026-03-13T02:32:49.302343+00:00",
+      "tier": "groq",
+      "article": "US Air Force KC-135 goes down in Iraq, CENTCOM says"
     }
   ]
 }
