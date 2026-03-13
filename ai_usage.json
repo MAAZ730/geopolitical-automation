@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 533,
+  "total_calls": 537,
   "tiers": {
-    "groq": 515,
+    "groq": 519,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-11T10:47:05.602605+00:00",
-      "tier": "groq",
-      "article": "Israeli Enemy Widens Aggression Across Lebanon, Strikes Beirut Anew - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-11T10:47:23.444441+00:00",
-      "tier": "groq",
-      "article": "US hits minelaying ships in Iran after warning of 'intense' day of bombs"
-    },
-    {
-      "timestamp": "2026-03-11T10:47:39.360019+00:00",
-      "tier": "groq",
-      "article": "Russia kills two in Ukraine\u2019s Kharkiv; war grinds on, focus on Middle East"
-    },
-    {
-      "timestamp": "2026-03-11T10:47:55.447658+00:00",
-      "tier": "groq",
-      "article": "Israeli enemy issues new evacuation threat to residents of several towns in Tyre district in south Lebanon and to residents of Haret Hreik and Burj Al-Barajneh in Beirut\u2019s Dahiyeh - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-11T13:14:12.957887+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-13T14:52:09.948018+00:00",
       "tier": "groq",
       "article": "US refueling aircraft struck over Iraq"
+    },
+    {
+      "timestamp": "2026-03-13T16:51:24.040644+00:00",
+      "tier": "groq",
+      "article": "Michigan synagogue and Virginia university shootings: What we know"
+    },
+    {
+      "timestamp": "2026-03-13T16:51:40.482151+00:00",
+      "tier": "groq",
+      "article": "Turkiye says NATO defences intercepted third missile from Iran"
+    },
+    {
+      "timestamp": "2026-03-13T16:51:56.459072+00:00",
+      "tier": "groq",
+      "article": "Video shows projectile near Turkish base hosting US troops"
+    },
+    {
+      "timestamp": "2026-03-13T16:52:12.269222+00:00",
+      "tier": "groq",
+      "article": "What\u2019s happened in Gaza and the West Bank since the start of the Iran war?"
     }
   ]
 }
