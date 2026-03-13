@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 521,
+  "total_calls": 525,
   "tiers": {
-    "groq": 503,
+    "groq": 507,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-11T05:18:44.222141+00:00",
-      "tier": "groq",
-      "article": "No projectile fired from Iran towards Turkey"
-    },
-    {
-      "timestamp": "2026-03-11T05:19:44.310196+00:00",
-      "tier": "groq",
-      "article": "Different missiles used in 35th wave of True Promise 4 Op.\u00a0"
-    },
-    {
-      "timestamp": "2026-03-11T05:20:41.709781+00:00",
-      "tier": "groq",
-      "article": "US army base in Iraqi Kurdistan shelled with missiles\u00a0"
-    },
-    {
-      "timestamp": "2026-03-11T05:21:39.110191+00:00",
-      "tier": "groq",
-      "article": "1,255 people martyred in US-Israeli aggression on Iran"
-    },
     {
       "timestamp": "2026-03-11T07:04:46.830679+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-13T08:52:48.032489+00:00",
       "tier": "groq",
       "article": "Iran\u2019s defensive op. not against Bahrain\u2019s sovereignty"
+    },
+    {
+      "timestamp": "2026-03-13T10:47:09.711198+00:00",
+      "tier": "groq",
+      "article": "Explosions near Tehran al-Quds Day march in solidarity with Palestinians"
+    },
+    {
+      "timestamp": "2026-03-13T10:47:25.969574+00:00",
+      "tier": "groq",
+      "article": "Casualties in Israeli strike on residential structure in Al-Fawwar area near the southern Lebanese coastal city of Sidon: Al-Manar correspondent - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-13T10:47:43.767896+00:00",
+      "tier": "groq",
+      "article": "Iran targets northern Al-Quds, Tel Aviv, US bases in region"
+    },
+    {
+      "timestamp": "2026-03-13T10:48:41.084474+00:00",
+      "tier": "groq",
+      "article": "This is what American people need to know.."
     }
   ]
 }
