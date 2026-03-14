@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 565,
+  "total_calls": 569,
   "tiers": {
-    "groq": 547,
+    "groq": 551,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-12T05:22:42.384732+00:00",
-      "tier": "groq",
-      "article": "Pres. Pezeshkian declares conditions for ending war"
-    },
-    {
-      "timestamp": "2026-03-12T05:23:40.986839+00:00",
-      "tier": "groq",
-      "article": "Ships hit in Strait of Hormuz as countries agree to release emergency oil reserves"
-    },
-    {
-      "timestamp": "2026-03-12T05:23:56.845796+00:00",
-      "tier": "groq",
-      "article": "Six vessels attacked amid reports of Iranian drone boats, sea mines"
-    },
-    {
-      "timestamp": "2026-03-12T05:24:12.944543+00:00",
-      "tier": "groq",
-      "article": "Powerful Iranian Armed Forces punishing Israel: FM Araghchi\u00a0"
-    },
     {
       "timestamp": "2026-03-12T07:06:36.942787+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-14T08:48:00.640251+00:00",
       "tier": "groq",
       "article": "Peace in region requires Zionist regime destruction"
+    },
+    {
+      "timestamp": "2026-03-14T10:36:01.345876+00:00",
+      "tier": "groq",
+      "article": "Iran continues intensified attacks across Gulf in US-Israel war fallout"
+    },
+    {
+      "timestamp": "2026-03-14T10:36:17.560651+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in south Lebanon reports Israeli strikes on the outskirts of Sujud and Arab Salim in Iqlim Al-Tuffah - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-14T10:36:34.839824+00:00",
+      "tier": "groq",
+      "article": "Hezbollah conducts 26 op. against Israeli in less 24 hours"
+    },
+    {
+      "timestamp": "2026-03-14T10:37:31.694398+00:00",
+      "tier": "groq",
+      "article": "Quds Day carries clear message to US, Zionists: Gen. Shairf"
     }
   ]
 }
