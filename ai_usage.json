@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 569,
+  "total_calls": 573,
   "tiers": {
-    "groq": 551,
+    "groq": 555,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-12T07:06:36.942787+00:00",
-      "tier": "groq",
-      "article": "Iran targets Gulf nations with missiles, drones as oil prices soar"
-    },
-    {
-      "timestamp": "2026-03-12T07:06:53.166751+00:00",
-      "tier": "groq",
-      "article": "Students among 17 dead in RSF drone attack in Sudan\u2019s White Nile State"
-    },
-    {
-      "timestamp": "2026-03-12T07:07:09.251346+00:00",
-      "tier": "groq",
-      "article": "Who bombed the Iranian girls\u2019 school, killing more than 170? What we know"
-    },
-    {
-      "timestamp": "2026-03-12T07:07:25.453109+00:00",
-      "tier": "groq",
-      "article": "Vessels linked to aggressors not allowed cross Hormuz Strait"
-    },
     {
       "timestamp": "2026-03-12T08:56:15.656074+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-14T10:37:31.694398+00:00",
       "tier": "groq",
       "article": "Quds Day carries clear message to US, Zionists: Gen. Shairf"
+    },
+    {
+      "timestamp": "2026-03-14T13:04:52.459039+00:00",
+      "tier": "groq",
+      "article": "Five US Refueling Planes Damaged in Iranian Missile Strike in Saudi Air Base: Report - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-14T13:05:12.943567+00:00",
+      "tier": "groq",
+      "article": "Another 5 Palestinians killed in Israel\u2019s genocide in Gaza amid wider war"
+    },
+    {
+      "timestamp": "2026-03-14T13:05:29.588203+00:00",
+      "tier": "groq",
+      "article": "\"We will target origin of enemy missile launches in UAE\""
+    },
+    {
+      "timestamp": "2026-03-14T13:06:27.619734+00:00",
+      "tier": "groq",
+      "article": "US, Israel seeking to disintegrate Islamic states: Pezeshkian"
     }
   ]
 }
