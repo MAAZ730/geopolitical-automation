@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 581,
+  "total_calls": 585,
   "tiers": {
-    "groq": 563,
+    "groq": 567,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-12T13:13:44.757154+00:00",
-      "tier": "groq",
-      "article": "Iran says it targets Israeli bases, accuses Israel of targeting hospitals"
-    },
-    {
-      "timestamp": "2026-03-12T13:14:00.806677+00:00",
-      "tier": "groq",
-      "article": "Iran Launches Strikes: Two Israeli Military Bases and Shin Bet HQ Targeted - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-12T13:14:20.903294+00:00",
-      "tier": "groq",
-      "article": "'Fingers on the trigger': Deadly warnings for Iranians being urged to take action"
-    },
-    {
-      "timestamp": "2026-03-12T13:14:36.648475+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Army Force cmdr. vows to defend country with all might"
-    },
     {
       "timestamp": "2026-03-12T14:59:23.831849+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-14T16:38:58.942166+00:00",
       "tier": "groq",
       "article": "More US Marines and warships being moved to Middle East, reports say"
+    },
+    {
+      "timestamp": "2026-03-14T18:44:36.539532+00:00",
+      "tier": "groq",
+      "article": "Operation \u201cEaten Straw\u201d Continues: Hezbollah Missiles Strike Israeli Soldiers, Merkava Tanks, Settlements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-14T18:44:58.065955+00:00",
+      "tier": "groq",
+      "article": "After spotting an Israeli tank attempting to advance towards the eastern entrance of the town of Taybeh on the Lebanese-Palestinian border, Islamic Resistance fighters targeted it at 18:00 on Saturday, March 14, 2026, with a guided missile, resulting in its destruction and confirmed casualties: statement 34 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-14T18:45:16.170135+00:00",
+      "tier": "groq",
+      "article": "Two Indian ships cross Strait of Hormuz as Iran says it allowed passage"
+    },
+    {
+      "timestamp": "2026-03-14T18:45:32.311336+00:00",
+      "tier": "groq",
+      "article": "Trump says \u2018many countries\u2019 will send warships to Hormuz amid Iran blockade"
     }
   ]
 }
