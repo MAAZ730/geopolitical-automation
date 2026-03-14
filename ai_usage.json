@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 549,
+  "total_calls": 553,
   "tiers": {
-    "groq": 531,
+    "groq": 535,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-11T19:07:19.522309+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Fighters Strike Gatherings of Israeli Occupation Soldiers in Lebanese-Palestinian Border Area - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-11T19:07:41.761080+00:00",
-      "tier": "groq",
-      "article": "Iran war may force US to shift missile defenses from South Korea, Seoul says"
-    },
-    {
-      "timestamp": "2026-03-11T19:07:57.975851+00:00",
-      "tier": "groq",
-      "article": "Ship crew film drone strike on oil facility at Oman\u2019s Salalah port"
-    },
-    {
-      "timestamp": "2026-03-11T19:08:14.199380+00:00",
-      "tier": "groq",
-      "article": "Could the US deploy troops to Iran, and how could that play out?"
-    },
     {
       "timestamp": "2026-03-11T20:44:09.551227+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-13T22:39:56.619755+00:00",
       "tier": "groq",
       "article": "Israel\u2019s military campaign in Lebanon reaches devastating new phase"
+    },
+    {
+      "timestamp": "2026-03-14T02:30:04.934406+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters strike a Zionist force attempting to advance in Aitaroun border town with a guided missile: Al-Manar reporter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-14T02:30:22.902944+00:00",
+      "tier": "groq",
+      "article": "At 21:45 on Friday, March 13, 2026, the Islamic Resistance fighters targeted the Ain Shemer base (a missile air defense base) located 75 km from the Lebanese-Palestinian border, east of Hadera, with a squadron of attack drones: statement 4 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-14T02:30:40.132492+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Hezbollah fighters do not stop attempting to target our soldiers - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-14T02:30:58.141687+00:00",
+      "tier": "groq",
+      "article": "Qatar\u2019s interior minister says security situation \u2018stable\u2019 amid Iran war"
     }
   ]
 }
