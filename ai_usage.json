@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 601,
+  "total_calls": 605,
   "tiers": {
-    "groq": 583,
+    "groq": 587,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-12T22:35:49.566559+00:00",
-      "tier": "groq",
-      "article": "B-21 Raider completed \u2018close-proximity flight\u2019 with KC-135 tanker, US Air Force confirms"
-    },
-    {
-      "timestamp": "2026-03-12T22:36:05.839941+00:00",
-      "tier": "groq",
-      "article": "How Iran war ship attacks choked off Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-03-12T22:36:22.041438+00:00",
-      "tier": "groq",
-      "article": "Advocates push for major probe as US boat strikes in Latin America kill 157"
-    },
-    {
-      "timestamp": "2026-03-12T22:36:38.163434+00:00",
-      "tier": "groq",
-      "article": "Iran's new Supreme Leader vows to continue blocking Strait of Hormuz"
-    },
     {
       "timestamp": "2026-03-13T02:31:59.928682+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-15T05:46:01.430654+00:00",
       "tier": "groq",
       "article": "Tension at Hormuz Strait result of US-Israeli aggression"
+    },
+    {
+      "timestamp": "2026-03-15T07:08:10.721039+00:00",
+      "tier": "groq",
+      "article": "Cars were burned and overturned by shrapnel in Tel Aviv district"
+    },
+    {
+      "timestamp": "2026-03-15T07:08:27.158315+00:00",
+      "tier": "groq",
+      "article": "Iran intercepts, downs advanced Israeli \u201cHERMES\u201d drone"
+    },
+    {
+      "timestamp": "2026-03-15T07:09:24.874938+00:00",
+      "tier": "groq",
+      "article": "FPV drone slams into US military base in Iraq"
+    },
+    {
+      "timestamp": "2026-03-15T07:09:41.055967+00:00",
+      "tier": "groq",
+      "article": "Air defense in US embassy in Baghdad not working"
     }
   ]
 }
