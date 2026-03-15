@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 629,
+  "total_calls": 633,
   "tiers": {
-    "groq": 611,
+    "groq": 615,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-13T14:51:13.327718+00:00",
-      "tier": "groq",
-      "article": "Four US Soldiers Killed as Refueling Plane Crashes in Iraq - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-13T14:51:33.686186+00:00",
-      "tier": "groq",
-      "article": "Air attack strikes Tehran during al-Quds Day rally"
-    },
-    {
-      "timestamp": "2026-03-13T14:51:49.984970+00:00",
-      "tier": "groq",
-      "article": "Top Iranian Officials Make Public Appearance in Al-Quds Day Rallies Despite US-Israeli Aggression - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-13T14:52:09.948018+00:00",
-      "tier": "groq",
-      "article": "US refueling aircraft struck over Iraq"
-    },
     {
       "timestamp": "2026-03-13T16:51:24.040644+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-15T18:46:23.209139+00:00",
       "tier": "groq",
       "article": "France offers to broker Lebanon-Israel talks: What do we know?"
+    },
+    {
+      "timestamp": "2026-03-15T20:36:11.864961+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted a Merkava tank north of the Khiam detention center with a guided missile and hit it directly: Military Media Statement 21 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T20:36:29.736670+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted a D9 bulldozer in the Taybeh Project area with a guided missile, scoring a direct hit: Military Media Statement 20 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T20:36:46.907551+00:00",
+      "tier": "groq",
+      "article": "IRGC: 54th wave of True Promise Operation -4 launched using Khorramshahr, Kheibar Shekan, Qadr, Imad, and Sejjil missiles, targeting key command centers, air operation hubs, military-industrial infrastructure, and Israeli troop gatherings in the occupied territories - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T20:37:05.682320+00:00",
+      "tier": "groq",
+      "article": "Trump calls for naval coalition to open Strait of Hormuz: Can it work?"
     }
   ]
 }
