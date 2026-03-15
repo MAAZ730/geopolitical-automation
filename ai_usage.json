@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 613,
+  "total_calls": 617,
   "tiers": {
-    "groq": 595,
+    "groq": 599,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-13T07:05:20.000572+00:00",
-      "tier": "groq",
-      "article": "Iran war: What is happening on day 14 of US-Israel attacks?"
-    },
-    {
-      "timestamp": "2026-03-13T07:05:36.287192+00:00",
-      "tier": "groq",
-      "article": "French soldier killed, others wounded in attack in Iraq, Macron says"
-    },
-    {
-      "timestamp": "2026-03-13T07:05:52.388948+00:00",
-      "tier": "groq",
-      "article": "Govt. stands by armed forces to defend Natl. sovereignty"
-    },
-    {
-      "timestamp": "2026-03-13T07:06:50.209988+00:00",
-      "tier": "groq",
-      "article": "International figures slam US-Israel attack on Iran"
-    },
     {
       "timestamp": "2026-03-13T08:51:59.025062+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-15T10:41:12.403594+00:00",
       "tier": "groq",
       "article": "Iran war: What is happening on day 16 of US-Israel attacks?"
+    },
+    {
+      "timestamp": "2026-03-15T13:02:17.816803+00:00",
+      "tier": "groq",
+      "article": "Iran Launches Sejjil Missiles at Israel for First Time During Operation True Promise 4 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T13:02:36.765239+00:00",
+      "tier": "groq",
+      "article": "Lebanese Ministry of Health: 8 injured in initial toll from enemy airstrikes on the south - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T13:02:53.449076+00:00",
+      "tier": "groq",
+      "article": "Israeli Drone Strike Claims Martyr in Residential Building Near Sidon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T13:03:12.822481+00:00",
+      "tier": "groq",
+      "article": "US, China hold trade talks in Paris to clear path to Trump-Xi summit"
     }
   ]
 }
