@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 609,
+  "total_calls": 613,
   "tiers": {
-    "groq": 591,
+    "groq": 595,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-13T05:20:20.097170+00:00",
-      "tier": "groq",
-      "article": "IRGC launches 42nd wave of True Promise 4 Operation"
-    },
-    {
-      "timestamp": "2026-03-13T05:21:18.988255+00:00",
-      "tier": "groq",
-      "article": "IRGC launches 41st wave of True Promise 4 Operation"
-    },
-    {
-      "timestamp": "2026-03-13T05:22:16.188110+00:00",
-      "tier": "groq",
-      "article": "Iran not to allow any oil to reach US, Israel, partners\u00a0"
-    },
-    {
-      "timestamp": "2026-03-13T05:23:13.485567+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters launched an air attack with swarms of attack drones on the Sharagha and Yiftah barracks: Statement 26 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-13T07:05:20.000572+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-15T08:49:38.778132+00:00",
       "tier": "groq",
       "article": "Al-Quds Day rally in Toronto calls for an end to the war in Iran & Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T10:39:41.140727+00:00",
+      "tier": "groq",
+      "article": "Trump says US may hit Iran\u2019s Kharg Island again \u2018just for fun\u2019"
+    },
+    {
+      "timestamp": "2026-03-15T10:39:57.093009+00:00",
+      "tier": "groq",
+      "article": "IRGC announces launch of wave 53 of Operation True Promise 4, which included 10 hypersonic missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T10:40:14.774052+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy chief says his forces hit three US bases"
+    },
+    {
+      "timestamp": "2026-03-15T10:41:12.403594+00:00",
+      "tier": "groq",
+      "article": "Iran war: What is happening on day 16 of US-Israel attacks?"
     }
   ]
 }
