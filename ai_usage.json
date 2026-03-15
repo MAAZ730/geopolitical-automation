@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 593,
+  "total_calls": 597,
   "tiers": {
-    "groq": 575,
+    "groq": 579,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-12T19:39:49.979873+00:00",
-      "tier": "groq",
-      "article": "Israel attacks central Beirut in escalation of deadly assault on Lebanon"
-    },
-    {
-      "timestamp": "2026-03-12T19:40:06.306655+00:00",
-      "tier": "groq",
-      "article": "As part of the warning issued by the Islamic Resistance to the occupied city of Nahariya in northern occupied Palestine, Islamic Resistance fighters targeted it at 3:15 PM on Thursday, March 12, 2026, with a barrage of sophisticated missiles: Statement 18 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-12T19:40:23.314724+00:00",
-      "tier": "groq",
-      "article": "Questions mount for Hegseth over possible US involvement in strike on Iranian school"
-    },
-    {
-      "timestamp": "2026-03-12T19:40:39.475642+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Mojtaba Khamenei vows to fight in first statement as supreme leader"
-    },
     {
       "timestamp": "2026-03-12T20:45:40.040634+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-14T22:37:29.453567+00:00",
       "tier": "groq",
       "article": "Iran Says Attacks on Its Islands Were Launched from UAE, Vows to Respond - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T02:49:11.615301+00:00",
+      "tier": "groq",
+      "article": "At 9:20 PM on Saturday, March 14, 2026, Islamic Resistance fighters targeted an Israeli enemy artillery position in the settlement of Dishon with a rocket barrage: statement 43 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T02:49:29.084387+00:00",
+      "tier": "groq",
+      "article": "Iran warns UAE ports and \u2018American hideouts\u2019 are targets"
+    },
+    {
+      "timestamp": "2026-03-15T02:49:45.161618+00:00",
+      "tier": "groq",
+      "article": "Israeli war jets raid the outskirts of Khiam town, South Lebanon: Al-Manar reporter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T02:50:02.965694+00:00",
+      "tier": "groq",
+      "article": "Trump administration threatens news outlets over critical coverage of Iran"
     }
   ]
 }
