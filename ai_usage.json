@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 597,
+  "total_calls": 601,
   "tiers": {
-    "groq": 579,
+    "groq": 583,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-12T20:45:40.040634+00:00",
-      "tier": "groq",
-      "article": "Emirati minister tells BBC Iran must end strikes on Gulf"
-    },
-    {
-      "timestamp": "2026-03-12T20:45:56.387427+00:00",
-      "tier": "groq",
-      "article": "Assailant dead after vehicle ramming, gunfire at Michigan synagogue in US"
-    },
-    {
-      "timestamp": "2026-03-12T20:46:12.569636+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Hezbollah, Iran fire missiles at \u2018Israel\u2019 simultaneously with Netanyahu\u2019s speech - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-12T20:46:31.213635+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers at Al-Khazan Hill in the town of Al-Adaisseh on the Lebanese-Palestinian border with a rocket barrage: Statement 20 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-12T22:35:49.566559+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-15T02:50:02.965694+00:00",
       "tier": "groq",
       "article": "Trump administration threatens news outlets over critical coverage of Iran"
+    },
+    {
+      "timestamp": "2026-03-15T05:43:49.922237+00:00",
+      "tier": "groq",
+      "article": "Barrage of US-Israeli strikes target Isfahan"
+    },
+    {
+      "timestamp": "2026-03-15T05:44:06.083121+00:00",
+      "tier": "groq",
+      "article": "Iran missile strike precision doubled on US, Israeli targets"
+    },
+    {
+      "timestamp": "2026-03-15T05:45:04.155694+00:00",
+      "tier": "groq",
+      "article": "Iran targets Israeli Nevatim base with missile: IRGC"
+    },
+    {
+      "timestamp": "2026-03-15T05:46:01.430654+00:00",
+      "tier": "groq",
+      "article": "Tension at Hormuz Strait result of US-Israeli aggression"
     }
   ]
 }
