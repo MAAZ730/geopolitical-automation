@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 625,
+  "total_calls": 629,
   "tiers": {
-    "groq": 607,
+    "groq": 611,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-13T13:12:08.278394+00:00",
-      "tier": "groq",
-      "article": "Day 12 of Israeli Aggression on Lebanon: Massacre in Sidon Amid Expanding Civilian Toll - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-13T13:12:26.698998+00:00",
-      "tier": "groq",
-      "article": "Iris Dena: Bodies of 84 Iranian sailors killed in US attack to be repatriated"
-    },
-    {
-      "timestamp": "2026-03-13T13:12:42.449808+00:00",
-      "tier": "groq",
-      "article": "Dozens injured after missile attack hits northern Israel"
-    },
-    {
-      "timestamp": "2026-03-13T13:12:58.719732+00:00",
-      "tier": "groq",
-      "article": "Yet another US oil tanker set on fire in Persian Gulf"
-    },
     {
       "timestamp": "2026-03-13T14:51:13.327718+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-15T16:39:17.516049+00:00",
       "tier": "groq",
       "article": "How Trump\u2019s unchecked power has changed the world"
+    },
+    {
+      "timestamp": "2026-03-15T18:45:33.450527+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters attacked the settlement of Kiryat Shmona in northern occupied Palestine with a rocket salvo: Military Media statement 14 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T18:45:50.335206+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Islamic Resistance fighters targeted the Tsnobar logistics base in the occupied Golan with a missile salvo: Military Media statement 13 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-15T18:46:07.011470+00:00",
+      "tier": "groq",
+      "article": "\u2018We killed dogs\u2019: Israeli troops kill two children, parents in West Bank"
+    },
+    {
+      "timestamp": "2026-03-15T18:46:23.209139+00:00",
+      "tier": "groq",
+      "article": "France offers to broker Lebanon-Israel talks: What do we know?"
     }
   ]
 }
