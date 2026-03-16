@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 677,
+  "total_calls": 681,
   "tiers": {
-    "groq": 659,
+    "groq": 663,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-14T16:38:03.672220+00:00",
-      "tier": "groq",
-      "article": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs"
-    },
-    {
-      "timestamp": "2026-03-14T16:38:19.607555+00:00",
-      "tier": "groq",
-      "article": "Macron says France ready to facilitate ceasefire discussions between Israel and Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T16:38:38.730806+00:00",
-      "tier": "groq",
-      "article": "Sheltering Israeli Agent by Ukrainian Embassy in Beirut Political, Diplomatic Scandal: Hezbollah MP - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T16:38:58.942166+00:00",
-      "tier": "groq",
-      "article": "More US Marines and warships being moved to Middle East, reports say"
-    },
     {
       "timestamp": "2026-03-14T18:44:36.539532+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-16T20:44:41.979717+00:00",
       "tier": "groq",
       "article": "Norway\u2019s elite Arctic soldiers still dig their own snow caves to hide from drones"
+    },
+    {
+      "timestamp": "2026-03-16T22:40:01.195869+00:00",
+      "tier": "groq",
+      "article": "Al-Manar reporter: Missile salvo targets Metula settlement - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T22:40:18.225365+00:00",
+      "tier": "groq",
+      "article": "Two India carriers secure safe passage through Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-03-16T22:40:34.174928+00:00",
+      "tier": "groq",
+      "article": "Who is answering Trump\u2019s call for help with Strait of Hormuz?"
+    },
+    {
+      "timestamp": "2026-03-16T22:40:50.351171+00:00",
+      "tier": "groq",
+      "article": "US, Israel now know \u2018what kind of nation they are dealing with\u2019"
     }
   ]
 }
