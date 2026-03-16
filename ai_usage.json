@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 653,
+  "total_calls": 657,
   "tiers": {
-    "groq": 635,
+    "groq": 639,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-14T05:18:24.202500+00:00",
-      "tier": "groq",
-      "article": "Trump posts bombing video after saying US hit Kharg Island"
-    },
-    {
-      "timestamp": "2026-03-14T05:18:40.093034+00:00",
-      "tier": "groq",
-      "article": "Projectile falls, explodes in Israel\u2019s Negev"
-    },
-    {
-      "timestamp": "2026-03-14T05:18:56.106367+00:00",
-      "tier": "groq",
-      "article": "Power equations have changed in region: Gen. Fadavi"
-    },
-    {
-      "timestamp": "2026-03-14T05:19:53.512407+00:00",
-      "tier": "groq",
-      "article": "Resistant Iranians to not bow to coward attacks: FM"
-    },
     {
       "timestamp": "2026-03-14T06:58:35.995900+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-16T09:03:39.184029+00:00",
       "tier": "groq",
       "article": "Map shows how 16 days of attacks have evolved in US-Israel war on Iran"
+    },
+    {
+      "timestamp": "2026-03-16T10:58:37.646883+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Operation Eaten Straw: Israeli Gatherings Under Fire (Video) - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T10:58:56.197132+00:00",
+      "tier": "groq",
+      "article": "Third Week of Israeli Aggression Brings Rising Toll of 850 Dead, Mass Displacement - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T10:59:13.845900+00:00",
+      "tier": "groq",
+      "article": "Fire erupts at Dubai airport following drone attack"
+    },
+    {
+      "timestamp": "2026-03-16T10:59:30.099218+00:00",
+      "tier": "groq",
+      "article": "Israeli Health Ministry reports 3,369 casualties since the start of the war with Iran, including 142 in the last 24 hours: Hebrew media - Al-Manar TV Lebanon"
     }
   ]
 }
