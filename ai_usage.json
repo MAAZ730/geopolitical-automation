@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 645,
+  "total_calls": 649,
   "tiers": {
-    "groq": 627,
+    "groq": 631,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-13T22:39:06.726983+00:00",
-      "tier": "groq",
-      "article": "Drone attack on market in Sudan kills 11, as air war civilian toll mounts"
-    },
-    {
-      "timestamp": "2026-03-13T22:39:22.694266+00:00",
-      "tier": "groq",
-      "article": "Zionist media: New Iranian missiles were launched at central \u2018Israel\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-13T22:39:39.972753+00:00",
-      "tier": "groq",
-      "article": "As part of Al-Quds Day operations, at 21:20 on Friday, March 13, 2026, Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers at the Fatima Gate on the Lebanese-Palestinian border in the town of Kfarkela with a rocket salvo: statement 20 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-13T22:39:56.619755+00:00",
-      "tier": "groq",
-      "article": "Israel\u2019s military campaign in Lebanon reaches devastating new phase"
-    },
     {
       "timestamp": "2026-03-14T02:30:04.934406+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-16T05:52:58.299296+00:00",
       "tier": "groq",
       "article": "Large protest held in London against US-Israeli war on Iran"
+    },
+    {
+      "timestamp": "2026-03-16T07:25:38.492445+00:00",
+      "tier": "groq",
+      "article": "Rafah crossing closure leaves Gaza patients trapped without treatment"
+    },
+    {
+      "timestamp": "2026-03-16T07:25:54.693201+00:00",
+      "tier": "groq",
+      "article": "Japan begins release of oil reserves as Iran war sparks energy crisis"
+    },
+    {
+      "timestamp": "2026-03-16T07:26:10.824028+00:00",
+      "tier": "groq",
+      "article": "Stars at Oscars 2026 call for end to war in Gaza and Iran"
+    },
+    {
+      "timestamp": "2026-03-16T07:26:26.941119+00:00",
+      "tier": "groq",
+      "article": "What\u2019s the impact of the Iran war on China?"
     }
   ]
 }

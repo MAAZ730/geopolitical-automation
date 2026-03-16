@@ -1,4 +1,39 @@
 {
+  "81c40ff456aabc40a4f2043b72334d2552c2d96ad5537f7af07d30af57082e6b": {
+    "url": "warmonitors/42323",
+    "title": "DRONES DOWN, DUBAI STANDS STRONG! Iran's cowardly attack met with fierce resistance",
+    "published": "2026-03-16T07:29:50.452025+00:00"
+  },
+  "2d4fdbcafbcbdf1bad3b03801279805018fd553a722a32c3035f0393842eab0d": {
+    "url": "warmonitors/42325",
+    "title": "Iran's Drone Strike on Dubai: 5 Lives Lost, Chaos Unleashed",
+    "published": "2026-03-16T07:27:54.409340+00:00"
+  },
+  "79a49b1b57d0709206a739d29d433433186e79bab1eb371797cfad1cadc1a318": {
+    "url": "QudsNen/214158",
+    "title": "IRAN STRIKES BACK: Israel's reckless attack on Tehran's fuel storage sparks outrage and calls for justice!",
+    "published": "2026-03-16T07:27:10.074826+00:00"
+  },
+  "53e481b31574ed1eee4e0e8aec82c078b4ccb0d26ac1a2d2378ad65e17460f6b": {
+    "url": "QudsNen/214171",
+    "title": "BOMBING LEBANON: Israeli airstrike kills 3 brave paramedics in southern Lebanon. #JusticeForLebanon #WarOnInnocence",
+    "published": "2026-03-16T07:27:08.805062+00:00"
+  },
+  "bbc1366a1455b4b986be90f3bd77ca1ed9cc3fe0e2c9376ad33af1fae6de9f1b": {
+    "url": "QudsNen/214172",
+    "title": "Israeli aggression rages on in Lebanon. Paramedics cut down in cold blood. #Lebanon #Israel #War",
+    "published": "2026-03-16T07:27:07.434384+00:00"
+  },
+  "246566c64a528625969532fda383a55efd35543b794ea6cffbb1507aecd233fd": {
+    "url": "https://www.aljazeera.com/economy/2026/3/16/japan-begins-release-of-oil-reserves-as-iran-war-sparks-energy-crisis?traffic_source=rss",
+    "title": "Japan begins release of oil reserves as Iran war sparks energy crisis",
+    "published": "2026-03-16T06:56:13+00:00"
+  },
+  "bef8b63a6865347a0be01f5db610d6228f6cd198fd068ef905b10c34bc2ac2e7": {
+    "url": "https://www.aljazeera.com/news/2026/3/16/rafah-crossing-closure-leaves-gaza-patients-trapped-without-treatment?traffic_source=rss",
+    "title": "Rafah crossing closure leaves Gaza patients trapped without treatment",
+    "published": "2026-03-16T06:04:39+00:00"
+  },
   "a6c2eba561469e0ef4d87a9f3c44dc9159b2a70c0cfada13d7fd021006756e72": {
     "url": "QudsNen/214153",
     "title": "BREAKING: Iran's aggression reaches new heights! Tel Aviv under attack. #IsraelUnderFire #IranianAggression",
@@ -33,6 +68,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/large-protest-held-in-london-against-us-israeli-war-on-iran?traffic_source=rss",
     "title": "Large protest held in London against US-Israeli war on Iran",
     "published": "2026-03-16T04:02:11+00:00"
+  },
+  "08e5a451a11f0ab6b196d701750c7932cee97758a0b7e39b2574011650ea3b8d": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss",
+    "title": "Stars at Oscars 2026 call for end to war in Gaza and Iran",
+    "published": "2026-03-16T03:48:41+00:00"
   },
   "4e49c5d6a2d3cd357892f12927998835ec3018aaec3f9cc387fc73a2b4fcaa73": {
     "url": "thecradlemedia/54411",
@@ -78,6 +118,11 @@
     "url": "https://www.aljazeera.com/news/2026/3/15/muted-response-as-trump-urges-nations-to-escort-ships-through-hormuz-strait?traffic_source=rss",
     "title": "Muted response as Trump urges nations to escort ships through Hormuz Strait",
     "published": "2026-03-15T23:30:39+00:00"
+  },
+  "bfea0669f667269b035d82b7db3bef79a40c37b6d19401f14b67fc92ef055d93": {
+    "url": "https://www.aljazeera.com/video/inside-story/2026/3/15/whats-the-impact-of-the-iran-war-on-china?traffic_source=rss",
+    "title": "What\u2019s the impact of the Iran war on China?",
+    "published": "2026-03-15T23:18:31+00:00"
   },
   "518b433f5b2935cd703c1b44aefa51ac3f175ac2924b083c37b804027bd8ce0d": {
     "url": "DDGeopolitics/177793",
@@ -703,50 +748,5 @@
     "url": "thecradlemedia/54269",
     "title": "Israeli airstrikes SMASH Hezbollah in Beirut! Terrorists tremble as IDF shows its might!",
     "published": "2026-03-14T16:39:02.370560+00:00"
-  },
-  "19212f61707db9cfde6b38af4eb501a1cf2a28d3b36560a4a956d8456eb401dd": {
-    "url": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss",
-    "title": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
-    "published": "2026-03-14T16:03:00+00:00"
-  },
-  "61abc33c34b52b2629edaea0d54469d3b2c79b7fed498c27ca2592a70429482b": {
-    "url": "thecradlemedia/54245",
-    "title": "IRAN STRIKES BACK! Buildings in Israel left in ruins after Iran unleashes fury from the skies!",
-    "published": "2026-03-14T14:46:41.063578+00:00"
-  },
-  "46d74612df3f025ae62218a3e00b6b184f0259eb91c188925860d7f4804b5857": {
-    "url": "thecradlemedia/54249",
-    "title": "Israeli drone sirens sound off in Nahariya and Upper Galilee! #IsraeliDroneAlert #GalileeOnHighAlert",
-    "published": "2026-03-14T14:45:44.558177+00:00"
-  },
-  "3a9813f1ee377ba2a9d3febea59417d2a48c3e0736d3ddc3f592910ad6407917": {
-    "url": "thecradlemedia/54251",
-    "title": "Iran Just Attacked the UAE's Oil Terminal! US-Iran Conflict Heats Up!",
-    "published": "2026-03-14T14:45:43.703686+00:00"
-  },
-  "49d3e5390b81a923ed45311ded246bb3ee37ba7431c62b69a7c5fe52740444a8": {
-    "url": "thecradlemedia/54255",
-    "title": "12 HEARTLESS KILLS: Israeli airstrike MURDERS medical team in Lebanon!",
-    "published": "2026-03-14T14:45:42.698156+00:00"
-  },
-  "577376b5858d7b30aaa9d5b936fb8a6ece5b918bd587ee04231a8101e3fa2cd6": {
-    "url": "thecradlemedia/54256",
-    "title": "Iran targets US troops in civilian areas, expert says. The gloves are off.",
-    "published": "2026-03-14T14:40:42.445867+00:00"
-  },
-  "189832e8d53b12fa4636ecdaabebd13b730611504eaa533606be26addd2c11f1": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/us-bombs-irans-oil-hub-kharg-island?traffic_source=rss",
-    "title": "Why is Iran\u2019s Kharg Island important?",
-    "published": "2026-03-14T14:07:05+00:00"
-  },
-  "798767c61b6a2c6f35560a12203b3c8c4d7771b0299039a1f3cd94e9a56c0cfb": {
-    "url": "https://english.almanar.com.lb/article/36267/",
-    "title": "Israeli media: Two injured in Iranian missile attack on Eilat, Jerusalem also targeted - Al-Manar TV Lebanon",
-    "published": "2026-03-14T13:56:33+00:00"
-  },
-  "11c481ea4eeb82c2186fc41de6eac3e9bab0cfac7a638663b8a01d6b2845e8ab": {
-    "url": "https://english.almanar.com.lb/article/36247/",
-    "title": "Sheltering Israeli Agent by Ukrainian Embassy in Beirut Political, Diplomatic Scandal: Hezbollah MP - Al-Manar TV Lebanon",
-    "published": "2026-03-14T13:55:15+00:00"
   }
 }
