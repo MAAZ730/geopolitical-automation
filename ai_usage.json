@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 657,
+  "total_calls": 661,
   "tiers": {
-    "groq": 639,
+    "groq": 643,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-14T06:58:35.995900+00:00",
-      "tier": "groq",
-      "article": "Iran fires 30 ballistic missiles towards occupied territories"
-    },
-    {
-      "timestamp": "2026-03-14T06:59:32.871753+00:00",
-      "tier": "groq",
-      "article": "Iran to retaliate if its energy infrastructure targeted"
-    },
-    {
-      "timestamp": "2026-03-14T07:00:33.376009+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Army vows to take revenge for enemy with all might"
-    },
-    {
-      "timestamp": "2026-03-14T07:01:30.256983+00:00",
-      "tier": "groq",
-      "article": "Trump claims US \u2018way ahead of schedule\u2019 in Iran war"
-    },
     {
       "timestamp": "2026-03-14T08:46:31.641163+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-16T10:59:30.099218+00:00",
       "tier": "groq",
       "article": "Israeli Health Ministry reports 3,369 casualties since the start of the war with Iran, including 142 in the last 24 hours: Hebrew media - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T13:22:50.109853+00:00",
+      "tier": "groq",
+      "article": "Iran, Lebanese Resistance Strike Strategic Targets Across Occupied Territories - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T13:23:09.079749+00:00",
+      "tier": "groq",
+      "article": "Iran Issues Threat to USS Ford Strike Group, Launches New Wave of Op. True Promise 4 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T13:23:27.998387+00:00",
+      "tier": "groq",
+      "article": "Monastery shelters families fleeing Israeli strikes in Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T13:23:44.101984+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in south Lebanon: Israeli occupation forces carried out a large bombing in the border town of Rub Al-Thalatheen - Al-Manar TV Lebanon"
     }
   ]
 }
