@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 669,
+  "total_calls": 673,
   "tiers": {
-    "groq": 651,
+    "groq": 655,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-14T13:04:52.459039+00:00",
-      "tier": "groq",
-      "article": "Five US Refueling Planes Damaged in Iranian Missile Strike in Saudi Air Base: Report - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T13:05:12.943567+00:00",
-      "tier": "groq",
-      "article": "Another 5 Palestinians killed in Israel\u2019s genocide in Gaza amid wider war"
-    },
-    {
-      "timestamp": "2026-03-14T13:05:29.588203+00:00",
-      "tier": "groq",
-      "article": "\"We will target origin of enemy missile launches in UAE\""
-    },
-    {
-      "timestamp": "2026-03-14T13:06:27.619734+00:00",
-      "tier": "groq",
-      "article": "US, Israel seeking to disintegrate Islamic states: Pezeshkian"
-    },
     {
       "timestamp": "2026-03-14T14:34:32.452360+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-16T17:07:45.220350+00:00",
       "tier": "groq",
       "article": "Iran hits key UAE oil port and Dubai airport"
+    },
+    {
+      "timestamp": "2026-03-16T19:08:46.888237+00:00",
+      "tier": "groq",
+      "article": "US responsible for deadly attack on Iranian school: Amnesty International"
+    },
+    {
+      "timestamp": "2026-03-16T19:09:03.113098+00:00",
+      "tier": "groq",
+      "article": "Iran missile strike damages five KC-135 tankers in Saudi Arabia, officials say"
+    },
+    {
+      "timestamp": "2026-03-16T19:09:19.570199+00:00",
+      "tier": "groq",
+      "article": "'My mother cried out one last time': Palestinian boy, 12, describes how Israeli forces killed his family in car"
+    },
+    {
+      "timestamp": "2026-03-16T19:09:35.698149+00:00",
+      "tier": "groq",
+      "article": "Iran officials tout \u2018Trump-burning\u2019 celebration amid battle of narratives"
     }
   ]
 }
