@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 665,
+  "total_calls": 669,
   "tiers": {
-    "groq": 647,
+    "groq": 651,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-14T10:36:01.345876+00:00",
-      "tier": "groq",
-      "article": "Iran continues intensified attacks across Gulf in US-Israel war fallout"
-    },
-    {
-      "timestamp": "2026-03-14T10:36:17.560651+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent in south Lebanon reports Israeli strikes on the outskirts of Sujud and Arab Salim in Iqlim Al-Tuffah - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T10:36:34.839824+00:00",
-      "tier": "groq",
-      "article": "Hezbollah conducts 26 op. against Israeli in less 24 hours"
-    },
-    {
-      "timestamp": "2026-03-14T10:37:31.694398+00:00",
-      "tier": "groq",
-      "article": "Quds Day carries clear message to US, Zionists: Gen. Shairf"
-    },
     {
       "timestamp": "2026-03-14T13:04:52.459039+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-16T15:06:15.483298+00:00",
       "tier": "groq",
       "article": "\u2018Not Our War\u2019: German DM Rejects Trump\u2019s Call for Military Support against Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T17:06:54.628314+00:00",
+      "tier": "groq",
+      "article": "At 12:30 PM on Monday, March 16, 2026, Islamic Resistance fighters shot down an Israeli Hermes 450 drone over the city of Bint Jbeil in southern Lebanon using appropriate weapons. Israeli warplanes then attacked the crash site between Bint Jbeil and the town of Aitaroun: statement 10 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T17:07:11.257935+00:00",
+      "tier": "groq",
+      "article": "Afghanistan says children among four killed in latest attacks by Pakistan"
+    },
+    {
+      "timestamp": "2026-03-16T17:07:28.391345+00:00",
+      "tier": "groq",
+      "article": "Israeli media: \u201cMissile fragments\u201d fall a few meters from Netanyahu\u2019s office - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T17:07:45.220350+00:00",
+      "tier": "groq",
+      "article": "Iran hits key UAE oil port and Dubai airport"
     }
   ]
 }
