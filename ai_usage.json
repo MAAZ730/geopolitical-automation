@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 649,
+  "total_calls": 653,
   "tiers": {
-    "groq": 631,
+    "groq": 635,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-14T02:30:04.934406+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters strike a Zionist force attempting to advance in Aitaroun border town with a guided missile: Al-Manar reporter - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T02:30:22.902944+00:00",
-      "tier": "groq",
-      "article": "At 21:45 on Friday, March 13, 2026, the Islamic Resistance fighters targeted the Ain Shemer base (a missile air defense base) located 75 km from the Lebanese-Palestinian border, east of Hadera, with a squadron of attack drones: statement 4 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T02:30:40.132492+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Hezbollah fighters do not stop attempting to target our soldiers - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T02:30:58.141687+00:00",
-      "tier": "groq",
-      "article": "Qatar\u2019s interior minister says security situation \u2018stable\u2019 amid Iran war"
-    },
     {
       "timestamp": "2026-03-14T05:18:24.202500+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-16T07:26:26.941119+00:00",
       "tier": "groq",
       "article": "What\u2019s the impact of the Iran war on China?"
+    },
+    {
+      "timestamp": "2026-03-16T09:02:49.521531+00:00",
+      "tier": "groq",
+      "article": "Drone strike disrupts Dubai flights as Iran continues Gulf attacks"
+    },
+    {
+      "timestamp": "2026-03-16T09:03:05.602983+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent reports Israeli air strike on the southern Lebanese city of Nabatieh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-16T09:03:23.316081+00:00",
+      "tier": "groq",
+      "article": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC"
+    },
+    {
+      "timestamp": "2026-03-16T09:03:39.184029+00:00",
+      "tier": "groq",
+      "article": "Map shows how 16 days of attacks have evolved in US-Israel war on Iran"
     }
   ]
 }
