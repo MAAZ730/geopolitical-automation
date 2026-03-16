@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 637,
+  "total_calls": 641,
   "tiers": {
-    "groq": 619,
+    "groq": 623,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-13T18:52:55.353325+00:00",
-      "tier": "groq",
-      "article": "As part of the Al-Quds Day operations, at 18:30 on Friday, March 13, 2026, Islamic Resistance fighters targeted a gathering of Israeli enemy army vehicles and soldiers in Wadi Hounin, off the border town of Markaba, with a rocket barrage: statement 18 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-13T18:53:13.484676+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Attacks Israeli Settlements, Soldiers on Al-Quds Day - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-13T18:53:31.304314+00:00",
-      "tier": "groq",
-      "article": "Ukraine, EU allies slam US decision to roll back Russia oil sanctions"
-    },
-    {
-      "timestamp": "2026-03-13T18:53:47.631419+00:00",
-      "tier": "groq",
-      "article": "Success uncertain, but Israelis continue to back \u2018heroic\u2019 war with Iran"
-    },
     {
       "timestamp": "2026-03-13T20:42:46.721047+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-15T22:34:04.602657+00:00",
       "tier": "groq",
       "article": "Ukraine eyes money and tech in return for Middle East drone support"
+    },
+    {
+      "timestamp": "2026-03-16T02:45:01.280539+00:00",
+      "tier": "groq",
+      "article": "US-Israeli strike pounds city of Hamadan, Iran"
+    },
+    {
+      "timestamp": "2026-03-16T02:45:17.403744+00:00",
+      "tier": "groq",
+      "article": "Muted response as Trump urges nations to escort ships through Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-03-16T02:45:33.158039+00:00",
+      "tier": "groq",
+      "article": "Israeli occupation forces conduct incursions into villages in northern Quneitra"
+    },
+    {
+      "timestamp": "2026-03-16T02:45:49.494340+00:00",
+      "tier": "groq",
+      "article": "Top Trump adviser says Iran war price tag at $12bn so far"
     }
   ]
 }
