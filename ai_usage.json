@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 689,
+  "total_calls": 693,
   "tiers": {
-    "groq": 671,
+    "groq": 675,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-14T22:36:38.799497+00:00",
-      "tier": "groq",
-      "article": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says"
-    },
-    {
-      "timestamp": "2026-03-14T22:36:54.886607+00:00",
-      "tier": "groq",
-      "article": "IRGC: 51st Wave of Operation True Promise 4 Targeted Al-Kharj US Air Base - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-14T22:37:13.560043+00:00",
-      "tier": "groq",
-      "article": "US embassy in Venezuela reopens as Trump pushes for access to resources"
-    },
-    {
-      "timestamp": "2026-03-14T22:37:29.453567+00:00",
-      "tier": "groq",
-      "article": "Iran Says Attacks on Its Islands Were Launched from UAE, Vows to Respond - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-15T02:49:11.615301+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-17T05:25:04.133659+00:00",
       "tier": "groq",
       "article": "Israel policy looms large over US elections in Illinois amid Iran war"
+    },
+    {
+      "timestamp": "2026-03-17T07:11:51.426781+00:00",
+      "tier": "groq",
+      "article": "At 18:00 on Monday, 16/03/2026, Islamic Resistance fighters targeted radar sites and control rooms at the Ramat David Air Base in northern occupied Palestine with a squadron of attack drones: statement 23 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T07:12:08.429225+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s neighbours brace for fallout as war threatens new refugee crisis"
+    },
+    {
+      "timestamp": "2026-03-17T07:12:24.492987+00:00",
+      "tier": "groq",
+      "article": "Drone sparks fire at UAE oil site as Gulf takes more hits amid Iran war"
+    },
+    {
+      "timestamp": "2026-03-17T07:12:40.317726+00:00",
+      "tier": "groq",
+      "article": "EU says Iran is \u2018not Europe\u2019s war\u2019"
     }
   ]
 }
