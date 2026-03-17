@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 721,
+  "total_calls": 725,
   "tiers": {
-    "groq": 703,
+    "groq": 707,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-15T16:38:28.499257+00:00",
-      "tier": "groq",
-      "article": "Iranian govt reveals scale of civilian casualties from US-Israeli strikes"
-    },
-    {
-      "timestamp": "2026-03-15T16:38:44.712987+00:00",
-      "tier": "groq",
-      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
-    },
-    {
-      "timestamp": "2026-03-15T16:39:01.310523+00:00",
-      "tier": "groq",
-      "article": "Moment Iranian missile hits Tel Aviv"
-    },
-    {
-      "timestamp": "2026-03-15T16:39:17.516049+00:00",
-      "tier": "groq",
-      "article": "How Trump\u2019s unchecked power has changed the world"
-    },
     {
       "timestamp": "2026-03-15T18:45:33.450527+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-17T20:45:26.446315+00:00",
       "tier": "groq",
       "article": "Could the Iran war keep Netanyahu in power for longer?"
+    },
+    {
+      "timestamp": "2026-03-17T22:39:01.054210+00:00",
+      "tier": "groq",
+      "article": "Pakistan denies hospital strike in Afghanistan as death toll hits 400"
+    },
+    {
+      "timestamp": "2026-03-17T22:39:17.367585+00:00",
+      "tier": "groq",
+      "article": "At 23:30 on Tuesday, 17/03/2026, Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers near the settlement of Misgav Am with a drone strike: statement 30 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T22:39:34.522273+00:00",
+      "tier": "groq",
+      "article": "Trump says US does not \u2018need\u2019 Strait of Hormuz help, despite appeal"
+    },
+    {
+      "timestamp": "2026-03-17T22:39:50.661121+00:00",
+      "tier": "groq",
+      "article": "Trump says it\u2019s a \u2018good thing\u2019 counterterrorism director resigned over Iran"
     }
   ]
 }
