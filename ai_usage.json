@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 705,
+  "total_calls": 709,
   "tiers": {
-    "groq": 687,
+    "groq": 691,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-15T08:46:44.643923+00:00",
-      "tier": "groq",
-      "article": "US bank branches targeted in response to attack on Iranians\u2019"
-    },
-    {
-      "timestamp": "2026-03-15T08:47:42.849208+00:00",
-      "tier": "groq",
-      "article": "French ships not to join any offensive op. against Iran"
-    },
-    {
-      "timestamp": "2026-03-15T08:48:40.918323+00:00",
-      "tier": "groq",
-      "article": "US no longer a world power, must be expelled from region"
-    },
-    {
-      "timestamp": "2026-03-15T08:49:38.778132+00:00",
-      "tier": "groq",
-      "article": "Al-Quds Day rally in Toronto calls for an end to the war in Iran & Lebanon"
-    },
     {
       "timestamp": "2026-03-15T10:39:41.140727+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-17T13:22:33.158437+00:00",
       "tier": "groq",
       "article": "Are the US and Israel waging war on Iran\u2019s cultural heritage?"
+    },
+    {
+      "timestamp": "2026-03-17T15:02:54.479159+00:00",
+      "tier": "groq",
+      "article": "Iran Launches 58th Wave of Retaliatory Strikes with Heavy Precision Missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T15:03:13.109364+00:00",
+      "tier": "groq",
+      "article": "What we know about deadly strike on Kabul medical centre"
+    },
+    {
+      "timestamp": "2026-03-17T15:03:29.414747+00:00",
+      "tier": "groq",
+      "article": "Iranian media: Iranian armed forces launch new barrage of missiles towards the Zionist entity - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T15:03:47.055521+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in south Lebanon: Israeli artillery shells western neighborhood of Khiam border town using white phosphorus munitions, gunfire heard - Al-Manar TV Lebanon"
     }
   ]
 }
