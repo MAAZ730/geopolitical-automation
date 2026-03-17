@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 713,
+  "total_calls": 717,
   "tiers": {
-    "groq": 695,
+    "groq": 699,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-15T13:02:17.816803+00:00",
-      "tier": "groq",
-      "article": "Iran Launches Sejjil Missiles at Israel for First Time During Operation True Promise 4 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-15T13:02:36.765239+00:00",
-      "tier": "groq",
-      "article": "Lebanese Ministry of Health: 8 injured in initial toll from enemy airstrikes on the south - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-15T13:02:53.449076+00:00",
-      "tier": "groq",
-      "article": "Israeli Drone Strike Claims Martyr in Residential Building Near Sidon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-15T13:03:12.822481+00:00",
-      "tier": "groq",
-      "article": "US, China hold trade talks in Paris to clear path to Trump-Xi summit"
-    },
     {
       "timestamp": "2026-03-15T14:35:56.874720+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-17T17:08:34.123722+00:00",
       "tier": "groq",
       "article": "Israeli media: Sirens are blaring from Lebanon border till Tel Aviv - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T19:08:50.204258+00:00",
+      "tier": "groq",
+      "article": "Video: Man rescued from under rubble after attack in Iran"
+    },
+    {
+      "timestamp": "2026-03-17T19:09:06.538955+00:00",
+      "tier": "groq",
+      "article": "Zionist Channel 12: 20 missiles were fired from Lebanon at Galilee, air defenses activated - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T19:09:25.269314+00:00",
+      "tier": "groq",
+      "article": "Sheikh Qassem to Hezbollah fighters: Our choice of confronting the aggression reflects valor and readiness - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T19:09:43.494836+00:00",
+      "tier": "groq",
+      "article": "Patriot air defense interception is costly: Here\u2019s how it works"
     }
   ]
 }
