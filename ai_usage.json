@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 717,
+  "total_calls": 721,
   "tiers": {
-    "groq": 699,
+    "groq": 703,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-15T14:35:56.874720+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-03-15T14:36:12.865947+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-03-15T14:36:29.151415+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: Enemy warplanes attacked the town of Sharqiyah in the Nabatieh district - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-15T14:36:46.020116+00:00",
-      "tier": "groq",
-      "article": "Commander of the Khatam al-Anbiya Headquarters: The people of the region must know that the United States is no longer capable of providing their security - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-15T16:38:28.499257+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-17T19:09:43.494836+00:00",
       "tier": "groq",
       "article": "Patriot air defense interception is costly: Here\u2019s how it works"
+    },
+    {
+      "timestamp": "2026-03-17T20:44:32.423534+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance Launches Operation Khaibar 1 against Israeli Enemy - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T20:44:52.573337+00:00",
+      "tier": "groq",
+      "article": "Zionist media: Hezbollah fires ballistic missiles at settlements in the West Bank - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T20:45:09.240766+00:00",
+      "tier": "groq",
+      "article": "Sheikh Qassem: Resolution lies in the stop of the aggression, withdrawal from the occupied territories, release of prisoners, the return of the displaced people to their villages and cities, and the start of reconstruction - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T20:45:26.446315+00:00",
+      "tier": "groq",
+      "article": "Could the Iran war keep Netanyahu in power for longer?"
     }
   ]
 }
