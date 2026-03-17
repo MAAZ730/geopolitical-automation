@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 697,
+  "total_calls": 701,
   "tiers": {
-    "groq": 679,
+    "groq": 683,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-15T05:43:49.922237+00:00",
-      "tier": "groq",
-      "article": "Barrage of US-Israeli strikes target Isfahan"
-    },
-    {
-      "timestamp": "2026-03-15T05:44:06.083121+00:00",
-      "tier": "groq",
-      "article": "Iran missile strike precision doubled on US, Israeli targets"
-    },
-    {
-      "timestamp": "2026-03-15T05:45:04.155694+00:00",
-      "tier": "groq",
-      "article": "Iran targets Israeli Nevatim base with missile: IRGC"
-    },
-    {
-      "timestamp": "2026-03-15T05:46:01.430654+00:00",
-      "tier": "groq",
-      "article": "Tension at Hormuz Strait result of US-Israeli aggression"
-    },
     {
       "timestamp": "2026-03-15T07:08:10.721039+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-17T09:00:00.558446+00:00",
       "tier": "groq",
       "article": "Wary allies show there's no quick fix to Trump's Iran crisis "
+    },
+    {
+      "timestamp": "2026-03-17T10:56:14.582962+00:00",
+      "tier": "groq",
+      "article": "Israel claims to have assassinated commander of Iran\u2019s Basij militia unit"
+    },
+    {
+      "timestamp": "2026-03-17T10:56:30.736866+00:00",
+      "tier": "groq",
+      "article": "Day 16 of Aggression: Overnight Strikes Target Beirut\u2019s Southern Suburbs, Aramoun, and Southern Villages Amid Escalating Violence - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T10:56:50.573962+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Army detects Iranian missile launch toward northern \u2018Israel\u2019 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-17T10:57:07.628789+00:00",
+      "tier": "groq",
+      "article": "EU foreign policy chief\u00a0Kaja Kallas: Nobody is ready to put their \u2060people in harm\u2019s way\u00a0in the Strait of Hormuz - Al-Manar TV Lebanon"
     }
   ]
 }
