@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 737,
+  "total_calls": 741,
   "tiers": {
-    "groq": 719,
+    "groq": 723,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-16T02:45:01.280539+00:00",
-      "tier": "groq",
-      "article": "US-Israeli strike pounds city of Hamadan, Iran"
-    },
-    {
-      "timestamp": "2026-03-16T02:45:17.403744+00:00",
-      "tier": "groq",
-      "article": "Muted response as Trump urges nations to escort ships through Hormuz Strait"
-    },
-    {
-      "timestamp": "2026-03-16T02:45:33.158039+00:00",
-      "tier": "groq",
-      "article": "Israeli occupation forces conduct incursions into villages in northern Quneitra"
-    },
-    {
-      "timestamp": "2026-03-16T02:45:49.494340+00:00",
-      "tier": "groq",
-      "article": "Top Trump adviser says Iran war price tag at $12bn so far"
-    },
     {
       "timestamp": "2026-03-16T05:52:10.324112+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-18T07:08:20.942021+00:00",
       "tier": "groq",
       "article": "Actor Sean Penn gifted a special \u2018Oscar\u2019 by Ukraine\u2019s railway company"
+    },
+    {
+      "timestamp": "2026-03-18T08:57:41.996388+00:00",
+      "tier": "groq",
+      "article": "11 Civil Defense members injured in Israeli strike near their health center in the southern city of Nabatieh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-18T08:57:59.236017+00:00",
+      "tier": "groq",
+      "article": "Aftermath of Iranian \u2018revenge\u2019 strikes on Israel leaves destruction, two ki"
+    },
+    {
+      "timestamp": "2026-03-18T08:58:15.560236+00:00",
+      "tier": "groq",
+      "article": "Iran launches \u2018revenge\u2019 missile attack on Israel after assassinations"
+    },
+    {
+      "timestamp": "2026-03-18T08:58:31.382088+00:00",
+      "tier": "groq",
+      "article": "At 21:20 on Tuesday, 17/03/2026, Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers at the Marj site off the border town of Markaba with a rocket barrage: statement 36 - Al-Manar TV Lebanon"
     }
   ]
 }
