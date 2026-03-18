@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 749,
+  "total_calls": 753,
   "tiers": {
-    "groq": 731,
+    "groq": 735,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-16T09:02:49.521531+00:00",
-      "tier": "groq",
-      "article": "Drone strike disrupts Dubai flights as Iran continues Gulf attacks"
-    },
-    {
-      "timestamp": "2026-03-16T09:03:05.602983+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent reports Israeli air strike on the southern Lebanese city of Nabatieh - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-16T09:03:23.316081+00:00",
-      "tier": "groq",
-      "article": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC"
-    },
-    {
-      "timestamp": "2026-03-16T09:03:39.184029+00:00",
-      "tier": "groq",
-      "article": "Map shows how 16 days of attacks have evolved in US-Israel war on Iran"
-    },
     {
       "timestamp": "2026-03-16T10:58:37.646883+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-18T13:23:04.433404+00:00",
       "tier": "groq",
       "article": "How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper"
+    },
+    {
+      "timestamp": "2026-03-18T15:08:55.672558+00:00",
+      "tier": "groq",
+      "article": "Hebrew media: Cluster missile impact in Ramat Gan, emergency forces en route to the scene - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-18T15:09:13.320874+00:00",
+      "tier": "groq",
+      "article": "Turkey deploys third NATO Patriot system to repel Iranian missiles"
+    },
+    {
+      "timestamp": "2026-03-18T15:09:29.797645+00:00",
+      "tier": "groq",
+      "article": "Turkiye says NATO bringing in more defences after missile interceptions"
+    },
+    {
+      "timestamp": "2026-03-18T15:09:46.019259+00:00",
+      "tier": "groq",
+      "article": "Israel to mount lasers on fighter jets and helicopters"
     }
   ]
 }
