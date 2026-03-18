@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 753,
+  "total_calls": 757,
   "tiers": {
-    "groq": 735,
+    "groq": 739,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-16T10:58:37.646883+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Operation Eaten Straw: Israeli Gatherings Under Fire (Video) - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-16T10:58:56.197132+00:00",
-      "tier": "groq",
-      "article": "Third Week of Israeli Aggression Brings Rising Toll of 850 Dead, Mass Displacement - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-16T10:59:13.845900+00:00",
-      "tier": "groq",
-      "article": "Fire erupts at Dubai airport following drone attack"
-    },
-    {
-      "timestamp": "2026-03-16T10:59:30.099218+00:00",
-      "tier": "groq",
-      "article": "Israeli Health Ministry reports 3,369 casualties since the start of the war with Iran, including 142 in the last 24 hours: Hebrew media - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-16T13:22:50.109853+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-18T15:09:46.019259+00:00",
       "tier": "groq",
       "article": "Israel to mount lasers on fighter jets and helicopters"
+    },
+    {
+      "timestamp": "2026-03-18T17:07:05.912232+00:00",
+      "tier": "groq",
+      "article": "Iran threatens to strike Gulf energy facilities after South Pars attack"
+    },
+    {
+      "timestamp": "2026-03-18T17:07:22.427043+00:00",
+      "tier": "groq",
+      "article": "European groups join aid convoy to Cuba amid crippling oil blockade"
+    },
+    {
+      "timestamp": "2026-03-18T17:07:38.503022+00:00",
+      "tier": "groq",
+      "article": "How Dubai and UAE are being affected by Iran attacks and US-Israeli war"
+    },
+    {
+      "timestamp": "2026-03-18T17:07:54.679175+00:00",
+      "tier": "groq",
+      "article": "Not just energy: How the Iran war could trigger a global food crisis"
     }
   ]
 }
