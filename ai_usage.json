@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 725,
+  "total_calls": 729,
   "tiers": {
-    "groq": 707,
+    "groq": 711,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-15T18:45:33.450527+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters attacked the settlement of Kiryat Shmona in northern occupied Palestine with a rocket salvo: Military Media statement 14 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-15T18:45:50.335206+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Islamic Resistance fighters targeted the Tsnobar logistics base in the occupied Golan with a missile salvo: Military Media statement 13 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-15T18:46:07.011470+00:00",
-      "tier": "groq",
-      "article": "\u2018We killed dogs\u2019: Israeli troops kill two children, parents in West Bank"
-    },
-    {
-      "timestamp": "2026-03-15T18:46:23.209139+00:00",
-      "tier": "groq",
-      "article": "France offers to broker Lebanon-Israel talks: What do we know?"
-    },
     {
       "timestamp": "2026-03-15T20:36:11.864961+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-17T22:39:50.661121+00:00",
       "tier": "groq",
       "article": "Trump says it\u2019s a \u2018good thing\u2019 counterterrorism director resigned over Iran"
+    },
+    {
+      "timestamp": "2026-03-18T02:34:42.803063+00:00",
+      "tier": "groq",
+      "article": "Israel killed Larijani hoping to \u2018torpedo\u2019 chance of US-Iran talks"
+    },
+    {
+      "timestamp": "2026-03-18T02:34:59.063768+00:00",
+      "tier": "groq",
+      "article": "Pakistan \u2018strongly\u2019 rejects claim it struck Kabul hospital"
+    },
+    {
+      "timestamp": "2026-03-18T02:35:15.442131+00:00",
+      "tier": "groq",
+      "article": "Burning debris from missile interceptions showers Dubai"
+    },
+    {
+      "timestamp": "2026-03-18T02:35:31.432454+00:00",
+      "tier": "groq",
+      "article": "Colombia\u2019s Petro accuses Ecuador of bombing near border"
     }
   ]
 }
