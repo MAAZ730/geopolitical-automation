@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 741,
+  "total_calls": 745,
   "tiers": {
-    "groq": 723,
+    "groq": 727,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-16T05:52:10.324112+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-03-16T05:52:26.561270+00:00",
-      "tier": "groq",
-      "article": "Oil prices keep rising as Trump seeks coalition to reopen Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-03-16T05:52:42.521457+00:00",
-      "tier": "groq",
-      "article": "Oscars 2026: Full list of winners"
-    },
-    {
-      "timestamp": "2026-03-16T05:52:58.299296+00:00",
-      "tier": "groq",
-      "article": "Large protest held in London against US-Israeli war on Iran"
-    },
     {
       "timestamp": "2026-03-16T07:25:38.492445+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-18T08:58:31.382088+00:00",
       "tier": "groq",
       "article": "At 21:20 on Tuesday, 17/03/2026, Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers at the Marj site off the border town of Markaba with a rocket barrage: statement 36 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-18T10:57:34.625043+00:00",
+      "tier": "groq",
+      "article": "Lebanon: Dozens Martyred, Injured as Israeli Enemy Steps Up Attacks on Civilians - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-18T10:57:56.646452+00:00",
+      "tier": "groq",
+      "article": "Israel says it killed Iran intel minister in third assassination in 2 days"
+    },
+    {
+      "timestamp": "2026-03-18T10:58:13.757096+00:00",
+      "tier": "groq",
+      "article": "Iran war: What is happening on day 19 of US-Israel attacks?"
+    },
+    {
+      "timestamp": "2026-03-18T10:58:30.216997+00:00",
+      "tier": "groq",
+      "article": "Qatar can keep goods flowing amid tensions, customs chief says"
     }
   ]
 }
