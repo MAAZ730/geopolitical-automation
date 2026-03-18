@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 761,
+  "total_calls": 765,
   "tiers": {
-    "groq": 743,
+    "groq": 747,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-16T15:05:26.863490+00:00",
-      "tier": "groq",
-      "article": "Turkey\u2019s Baykar tests swarm behavior of its K2 one-way attack drone"
-    },
-    {
-      "timestamp": "2026-03-16T15:05:43.328160+00:00",
-      "tier": "groq",
-      "article": "US says it has destroyed Iran missile capacity: How is Iran still shooting?"
-    },
-    {
-      "timestamp": "2026-03-16T15:05:59.349602+00:00",
-      "tier": "groq",
-      "article": "Strait of Hormuz: Which countries\u2019 ships has Iran allowed safe passage to?"
-    },
-    {
-      "timestamp": "2026-03-16T15:06:15.483298+00:00",
-      "tier": "groq",
-      "article": "\u2018Not Our War\u2019: German DM Rejects Trump\u2019s Call for Military Support against Iran - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-16T17:06:54.628314+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-18T19:07:57.057995+00:00",
       "tier": "groq",
       "article": "Polish court clears extradition of Russian archaeologist to Ukraine"
+    },
+    {
+      "timestamp": "2026-03-18T20:47:03.627206+00:00",
+      "tier": "groq",
+      "article": "Qatar says Iran missile attack sparks fire, causes damage at gas facility"
+    },
+    {
+      "timestamp": "2026-03-18T20:47:19.659225+00:00",
+      "tier": "groq",
+      "article": "Loud explosions rock Tel Aviv after heavy missile fire from Lebanon: Al-Manar reporter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-18T20:47:37.574206+00:00",
+      "tier": "groq",
+      "article": "Trump temporarily waives century-old shipping law amid rising fuel costs"
+    },
+    {
+      "timestamp": "2026-03-18T20:47:53.794924+00:00",
+      "tier": "groq",
+      "article": "The Pentagon wants to field laser weapons at scale within 3 years"
     }
   ]
 }
