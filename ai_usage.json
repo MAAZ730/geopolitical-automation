@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 797,
+  "total_calls": 801,
   "tiers": {
-    "groq": 779,
+    "groq": 783,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-17T10:56:14.582962+00:00",
-      "tier": "groq",
-      "article": "Israel claims to have assassinated commander of Iran\u2019s Basij militia unit"
-    },
-    {
-      "timestamp": "2026-03-17T10:56:30.736866+00:00",
-      "tier": "groq",
-      "article": "Day 16 of Aggression: Overnight Strikes Target Beirut\u2019s Southern Suburbs, Aramoun, and Southern Villages Amid Escalating Violence - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T10:56:50.573962+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Army detects Iranian missile launch toward northern \u2018Israel\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T10:57:07.628789+00:00",
-      "tier": "groq",
-      "article": "EU foreign policy chief\u00a0Kaja Kallas: Nobody is ready to put their \u2060people in harm\u2019s way\u00a0in the Strait of Hormuz - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-17T13:21:41.080496+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-19T15:00:25.333686+00:00",
       "tier": "groq",
       "article": "EU leaders slam Hungary\u2019s Orban for blocking Ukraine aid package"
+    },
+    {
+      "timestamp": "2026-03-19T17:07:47.453168+00:00",
+      "tier": "groq",
+      "article": "As part of the warning that the Islamic resistance directed to a number of settlements in the north of occupied Palestine, the fighters of the Islamic resistance targeted at 14:00 Thursday 03/19/2026 the Shtula settlement with a missile salvo: statement 21 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-19T17:08:04.548193+00:00",
+      "tier": "groq",
+      "article": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues"
+    },
+    {
+      "timestamp": "2026-03-19T17:08:20.601857+00:00",
+      "tier": "groq",
+      "article": "Israeli military radio: Iranian missile hits oil refineries in Haifa - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-19T17:08:37.494209+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Denies Kuwaiti Accusations, Reaffirms Keenness on Brotherly People - Al-Manar TV Lebanon"
     }
   ]
 }
