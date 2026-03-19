@@ -1,4 +1,29 @@
 {
+  "de602033dfa61845531c0ec161889c96acaacb225826f863e756c80b1cee90f2": {
+    "url": "warmonitors/42553",
+    "title": "BREAKING: Explosions in Shiraz, Iran! Regime on shaky ground! #Shiraz #Iran",
+    "published": "2026-03-19T07:13:23.461184+00:00"
+  },
+  "ca575f2ce4dabb4f1357789d8ed721953a08961bcaa638168bfbf25d119ab765": {
+    "url": "warmonitors/42558",
+    "title": "Iran's missiles strike Tel Aviv! The enemy is within reach. #military #security",
+    "published": "2026-03-19T07:12:32.992478+00:00"
+  },
+  "a7db567b7cd874e12b2f68e1944f3db75eb27e22e120aa6884da701c29109b4e": {
+    "url": "QudsNen/214709",
+    "title": "DESTRUCTION IN THE WEST BANK! Fragments from intercepted enemy missiles fell in Beita, a village south of Nablus. #WarTactics #EnemyDown",
+    "published": "2026-03-19T07:12:05.563015+00:00"
+  },
+  "d4780fa63dd365f6080a7dc2f7bf9ec10096234f321dc6f8af14ce221aeca143": {
+    "url": "thecradlemedia/54860",
+    "title": "Iran's aggression met with swift action! Israeli forces on high alert as a rogue missile heads their way. #Israel #Iran #MilitaryAction",
+    "published": "2026-03-19T07:11:28.896993+00:00"
+  },
+  "a39a52b9db32f4c88b3befbee0b04650c362dc6021fc39db6440a67c632e47ce": {
+    "url": "thecradlemedia/54861",
+    "title": "DRONES SPOTTED OVER WASHINGTON ARMY BASE! US Officials scrambling to protect senior officials as threat level rises!",
+    "published": "2026-03-19T07:11:27.182768+00:00"
+  },
   "fb5c7c1394d066fbd4f7a46274947e03501b5c6d11cf9af18206185070fb6a9c": {
     "url": "DDGeopolitics/178336",
     "title": "NETANYA UNDER FIRE! Israeli forces take down enemy missiles, protecting their homeland!",
@@ -98,6 +123,11 @@
     "url": "thecradlemedia/54841",
     "title": "US-linked oil assets BURNING. IRGC warns: 'You've been warned.'",
     "published": "2026-03-18T22:46:17.976840+00:00"
+  },
+  "e7c8236702d37f2d5fe82ecaa77a116e71a60cb53d5d9a8b2a58235187cf5a23": {
+    "url": "https://english.almanar.com.lb/article/39232/",
+    "title": "Hezbollah Fighters Repel Israeli Attempts to Advance in South Lebanon Border Towns, Strike Back Gatherings in Zionist Settlements - Al-Manar TV Lebanon",
+    "published": "2026-03-18T22:44:20+00:00"
   },
   "f56f2a7c8a18214ff6d1913837973ddc93d8624e1f375bb8abd7bb234edd11a9": {
     "url": "thecradlemedia/54843",
@@ -239,6 +269,11 @@
     "title": "Iran's intelligence minister Esmail Khatib killed in air strike, Israel says",
     "published": "2026-03-18T17:05:46+00:00"
   },
+  "9e8e2b0a37cb4f926a1260158517fb084148695f467f4e1db8109585fb8d61a1": {
+    "url": "https://en.mehrnews.com/news/242730/Pezehskian-offers-condolences-on-martyrdom-of-Intel-minister",
+    "title": "Pezehskian offers condolences on martyrdom of Intel. minister",
+    "published": "2026-03-18T16:21:28+00:00"
+  },
   "c52c9f3211346b4f873eb1cb02b652a92d6b507f2517f71c67fff9cd7a4c342a": {
     "url": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
     "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
@@ -339,6 +374,11 @@
     "title": "UN revises Kabul rehab strike toll as Pakistan denies targeting civilians",
     "published": "2026-03-18T12:22:14+00:00"
   },
+  "171ffec0e0f64433269576c0cee496af781516f9e60133de43f5a0ecdefdcfb1": {
+    "url": "https://en.mehrnews.com/news/242721/Iran-missiles-forces-Abraham-Lincoln-warship-to-leave-region",
+    "title": "Iran missiles forces Abraham Lincoln warship to leave region",
+    "published": "2026-03-18T11:37:56+00:00"
+  },
   "536424ce878682c141ec6d1de7562af06ff9d53edc2217fc30a58f36a0654a3d": {
     "url": "https://www.aljazeera.com/news/2026/3/18/turkiye-says-nato-bringing-in-more-defences-after-missile-interceptions?traffic_source=rss",
     "title": "Turkiye says NATO bringing in more defences after missile interceptions",
@@ -428,6 +468,11 @@
     "url": "https://english.almanar.com.lb/article/38662/",
     "title": "11 Civil Defense members injured in Israeli strike near their health center in the southern city of Nabatieh - Al-Manar TV Lebanon",
     "published": "2026-03-18T08:10:17+00:00"
+  },
+  "4b253bebff5d19a37c7815a03e07cf4379feee72e2ccc638d1210d30e72342f7": {
+    "url": "https://en.mehrnews.com/news/242715/Iran-response-to-Israel-martyring-of-Larijani-to-be-regretful",
+    "title": "Iran response to Israel martyring of Larijani to be regretful",
+    "published": "2026-03-18T08:06:30+00:00"
   },
   "1eefff1911a02ce45dee3cb21a5b1225597db7f64787e7a6a292ab48e5ae700b": {
     "url": "QudsNen/214522",
@@ -703,50 +748,5 @@
     "url": "https://english.almanar.com.lb/article/38167/",
     "title": "Sheikh Qassem: Resolution lies in the stop of the aggression, withdrawal from the occupied territories, release of prisoners, the return of the displaced people to their villages and cities, and the start of reconstruction - Al-Manar TV Lebanon",
     "published": "2026-03-17T17:20:39+00:00"
-  },
-  "659a70be37df15d3dbf94d77ab91fb7c008b35389b240ed55f2206ec2d8d6550": {
-    "url": "thecradlemedia/54628",
-    "title": "IRAN JUST GOT PUNCHED! US-Israeli forces take out 3 Iranian security scum in daring airstrike!",
-    "published": "2026-03-17T17:17:42.297146+00:00"
-  },
-  "412a51034107f890b044b2f0c9da212d3bccc9618e668a390ef39b4a7900b4e9": {
-    "url": "thecradlemedia/54634",
-    "title": "IRGC STRIKES BACK! US bases and Israeli cities get hammered in 59th wave of Operation True Promise 4",
-    "published": "2026-03-17T17:17:18.648980+00:00"
-  },
-  "5cae2c1ecfb2c96c4fd6c29f79019d6614ef396742ad2609322658d01fe33b20": {
-    "url": "https://english.almanar.com.lb/article/38157/",
-    "title": "Sheikh Qassem to Hezbollah fighters: Our choice of confronting the aggression reflects valor and readiness - Al-Manar TV Lebanon",
-    "published": "2026-03-17T17:16:52+00:00"
-  },
-  "02b5cab646f7034b4cea58d5b65092c83a3996813780d2ed3750d877ff288931": {
-    "url": "thecradlemedia/54637",
-    "title": "Turkey takes the lead! Hosting next Russia-Ukraine talks to secure regional energy and stability. #TurkishDiplomacy #RegionalSecurity",
-    "published": "2026-03-17T17:09:23.658716+00:00"
-  },
-  "002530f4f237e05bfb23fad42b3a0e59f626cd7e67889209d737d4fbb9115dc9": {
-    "url": "thecradlemedia/54642",
-    "title": "BOMBSHELL: Top US intel chief quits, rips apart Israel's nuclear war lies!",
-    "published": "2026-03-17T17:09:22.513506+00:00"
-  },
-  "d41d3bf8bd65c3ecaad5355114b591450d0032dda7db83ef0e1aac5cdcc6c51a": {
-    "url": "thecradlemedia/54643",
-    "title": "25 ROCKETS, 0 SIRENS. Hezbollah's brazen attack on Israel's Kiryat Shmona settlement",
-    "published": "2026-03-17T17:09:21.396851+00:00"
-  },
-  "090b4fbf9d0500f7537802e2d907a845574c80a650fcb8a2aa44db5c3486d656": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/17/video-man-rescued-from-under-rubble-after-attack-in-iran?traffic_source=rss",
-    "title": "Video: Man rescued from under rubble after attack in Iran",
-    "published": "2026-03-17T17:05:28+00:00"
-  },
-  "06a10cf1fff4702867ad3ae72ec0f47ad878b2e563e1d1c5b07f58c36b066933": {
-    "url": "https://english.almanar.com.lb/article/38112/",
-    "title": "Zionist Channel 12: 20 missiles were fired from Lebanon at Galilee, air defenses activated - Al-Manar TV Lebanon",
-    "published": "2026-03-17T16:38:59+00:00"
-  },
-  "f6419e6527e32cc960af7bbbafa1b5c2eb2d426a36779eab2307ff4210dc12a3": {
-    "url": "https://english.almanar.com.lb/article/38102/",
-    "title": "Israeli media: Sirens are blaring from Lebanon border till Tel Aviv - Al-Manar TV Lebanon",
-    "published": "2026-03-17T15:51:08+00:00"
   }
 }

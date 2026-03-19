@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 777,
+  "total_calls": 781,
   "tiers": {
-    "groq": 759,
+    "groq": 763,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-16T22:40:01.195869+00:00",
-      "tier": "groq",
-      "article": "Al-Manar reporter: Missile salvo targets Metula settlement - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-16T22:40:18.225365+00:00",
-      "tier": "groq",
-      "article": "Two India carriers secure safe passage through Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-03-16T22:40:34.174928+00:00",
-      "tier": "groq",
-      "article": "Who is answering Trump\u2019s call for help with Strait of Hormuz?"
-    },
-    {
-      "timestamp": "2026-03-16T22:40:50.351171+00:00",
-      "tier": "groq",
-      "article": "US, Israel now know \u2018what kind of nation they are dealing with\u2019"
-    },
     {
       "timestamp": "2026-03-17T02:29:29.853456+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-19T05:30:23.728602+00:00",
       "tier": "groq",
       "article": "Could oil hit $200 a barrel? Analysts no longer think it is far-fetched"
+    },
+    {
+      "timestamp": "2026-03-19T07:08:27.165343+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Fighters Repel Israeli Attempts to Advance in South Lebanon Border Towns, Strike Back Gatherings in Zionist Settlements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-19T07:08:48.220589+00:00",
+      "tier": "groq",
+      "article": "Iran missiles forces Abraham Lincoln warship to leave region"
+    },
+    {
+      "timestamp": "2026-03-19T07:09:46.235317+00:00",
+      "tier": "groq",
+      "article": "Iran response to Israel martyring of Larijani to be regretful"
+    },
+    {
+      "timestamp": "2026-03-19T07:10:43.461657+00:00",
+      "tier": "groq",
+      "article": "Pezehskian offers condolences on martyrdom of Intel. minister"
     }
   ]
 }
