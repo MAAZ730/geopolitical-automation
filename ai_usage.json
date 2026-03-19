@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 805,
+  "total_calls": 809,
   "tiers": {
-    "groq": 787,
+    "groq": 791,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-17T15:02:54.479159+00:00",
-      "tier": "groq",
-      "article": "Iran Launches 58th Wave of Retaliatory Strikes with Heavy Precision Missiles - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T15:03:13.109364+00:00",
-      "tier": "groq",
-      "article": "What we know about deadly strike on Kabul medical centre"
-    },
-    {
-      "timestamp": "2026-03-17T15:03:29.414747+00:00",
-      "tier": "groq",
-      "article": "Iranian media: Iranian armed forces launch new barrage of missiles towards the Zionist entity - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T15:03:47.055521+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent in south Lebanon: Israeli artillery shells western neighborhood of Khiam border town using white phosphorus munitions, gunfire heard - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-17T17:07:44.124628+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-19T19:10:23.596998+00:00",
       "tier": "groq",
       "article": "Islamic Resistance targeted at 16:45 on Thursday 19/03/2026 a gathering of soldiers of the Israeli enemy army in the Taybeh project area with artillery shells: statement 22 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-19T20:48:06.330342+00:00",
+      "tier": "groq",
+      "article": "US strikes Iranian underground missile storage with 5,000-pound penetrator"
+    },
+    {
+      "timestamp": "2026-03-19T20:48:22.900673+00:00",
+      "tier": "groq",
+      "article": "Smoke rises after Iranian missile attack on Israel oil refinery in Haifa"
+    },
+    {
+      "timestamp": "2026-03-19T20:48:38.982262+00:00",
+      "tier": "groq",
+      "article": "US approves $16.5bn arms deal to Gulf states amid rising Iran tensions"
+    },
+    {
+      "timestamp": "2026-03-19T20:48:55.338371+00:00",
+      "tier": "groq",
+      "article": "European nations, Japan to join \u2018appropriate efforts\u2019 to open Hormuz Strait"
     }
   ]
 }
