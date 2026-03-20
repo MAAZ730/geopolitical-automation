@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 841,
+  "total_calls": 845,
   "tiers": {
-    "groq": 823,
+    "groq": 827,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-18T10:57:34.625043+00:00",
-      "tier": "groq",
-      "article": "Lebanon: Dozens Martyred, Injured as Israeli Enemy Steps Up Attacks on Civilians - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-18T10:57:56.646452+00:00",
-      "tier": "groq",
-      "article": "Israel says it killed Iran intel minister in third assassination in 2 days"
-    },
-    {
-      "timestamp": "2026-03-18T10:58:13.757096+00:00",
-      "tier": "groq",
-      "article": "Iran war: What is happening on day 19 of US-Israel attacks?"
-    },
-    {
-      "timestamp": "2026-03-18T10:58:30.216997+00:00",
-      "tier": "groq",
-      "article": "Qatar can keep goods flowing amid tensions, customs chief says"
-    },
     {
       "timestamp": "2026-03-18T13:22:14.510005+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-20T14:53:16.575886+00:00",
       "tier": "groq",
       "article": "More dangerous than F-35 fighter jet is weapon hunts it"
+    },
+    {
+      "timestamp": "2026-03-20T16:56:34.551910+00:00",
+      "tier": "groq",
+      "article": "Israel strikes Syria after Druze clashes"
+    },
+    {
+      "timestamp": "2026-03-20T16:56:51.056927+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Islamic Resistance fighters targeted an Israeli Merkava in Taybe Lebanese border town with a guided missile, direct hit achieved: Military Media statement - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-20T16:57:07.545106+00:00",
+      "tier": "groq",
+      "article": "Air raid sirens blare during Eid call to prayer in Kuwait"
+    },
+    {
+      "timestamp": "2026-03-20T16:57:23.869751+00:00",
+      "tier": "groq",
+      "article": "Iran developing a \u2018vetting system\u2019 for Strait of Hormuz transit: Report"
     }
   ]
 }
