@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 817,
+  "total_calls": 821,
   "tiers": {
-    "groq": 799,
+    "groq": 803,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-17T20:44:32.423534+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance Launches Operation Khaibar 1 against Israeli Enemy - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T20:44:52.573337+00:00",
-      "tier": "groq",
-      "article": "Zionist media: Hezbollah fires ballistic missiles at settlements in the West Bank - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T20:45:09.240766+00:00",
-      "tier": "groq",
-      "article": "Sheikh Qassem: Resolution lies in the stop of the aggression, withdrawal from the occupied territories, release of prisoners, the return of the displaced people to their villages and cities, and the start of reconstruction - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T20:45:26.446315+00:00",
-      "tier": "groq",
-      "article": "Could the Iran war keep Netanyahu in power for longer?"
-    },
     {
       "timestamp": "2026-03-17T22:39:01.054210+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-20T02:33:39.472777+00:00",
       "tier": "groq",
       "article": "Netanyahu says Iran\u2019s uranium enrichment abilities destroyed"
+    },
+    {
+      "timestamp": "2026-03-20T05:20:23.544441+00:00",
+      "tier": "groq",
+      "article": "Iran conducts 65th wave of Operation True Promise 4"
+    },
+    {
+      "timestamp": "2026-03-20T05:21:21.759726+00:00",
+      "tier": "groq",
+      "article": "Ghalibaf ridicules US army claim on Iran\u2019s missile launchers"
+    },
+    {
+      "timestamp": "2026-03-20T05:22:17.990913+00:00",
+      "tier": "groq",
+      "article": "Central occupied Palestine shattered by Khorramshahr missiles"
+    },
+    {
+      "timestamp": "2026-03-20T05:23:16.122749+00:00",
+      "tier": "groq",
+      "article": "Iran nabs 178 mercenaries linked to American-Zionist enemy"
     }
   ]
 }
