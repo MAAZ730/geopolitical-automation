@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 821,
+  "total_calls": 825,
   "tiers": {
-    "groq": 803,
+    "groq": 807,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-17T22:39:01.054210+00:00",
-      "tier": "groq",
-      "article": "Pakistan denies hospital strike in Afghanistan as death toll hits 400"
-    },
-    {
-      "timestamp": "2026-03-17T22:39:17.367585+00:00",
-      "tier": "groq",
-      "article": "At 23:30 on Tuesday, 17/03/2026, Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers near the settlement of Misgav Am with a drone strike: statement 30 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-17T22:39:34.522273+00:00",
-      "tier": "groq",
-      "article": "Trump says US does not \u2018need\u2019 Strait of Hormuz help, despite appeal"
-    },
-    {
-      "timestamp": "2026-03-17T22:39:50.661121+00:00",
-      "tier": "groq",
-      "article": "Trump says it\u2019s a \u2018good thing\u2019 counterterrorism director resigned over Iran"
-    },
     {
       "timestamp": "2026-03-18T02:34:42.803063+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-20T05:23:16.122749+00:00",
       "tier": "groq",
       "article": "Iran nabs 178 mercenaries linked to American-Zionist enemy"
+    },
+    {
+      "timestamp": "2026-03-20T07:06:40.885860+00:00",
+      "tier": "groq",
+      "article": "Offensive, defensive ops. to go on, Khatam al-Anbiya HQ says"
+    },
+    {
+      "timestamp": "2026-03-20T07:07:37.855055+00:00",
+      "tier": "groq",
+      "article": "Iran: Teenager among first to be executed over anti-government protests"
+    },
+    {
+      "timestamp": "2026-03-20T07:07:54.091282+00:00",
+      "tier": "groq",
+      "article": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks"
+    },
+    {
+      "timestamp": "2026-03-20T07:08:10.188805+00:00",
+      "tier": "groq",
+      "article": "A-10 Warthogs target Iranian fast-attack craft in Strait of Hormuz"
     }
   ]
 }
