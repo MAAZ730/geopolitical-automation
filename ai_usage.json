@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 853,
+  "total_calls": 857,
   "tiers": {
-    "groq": 835,
+    "groq": 839,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-18T17:07:05.912232+00:00",
-      "tier": "groq",
-      "article": "Iran threatens to strike Gulf energy facilities after South Pars attack"
-    },
-    {
-      "timestamp": "2026-03-18T17:07:22.427043+00:00",
-      "tier": "groq",
-      "article": "European groups join aid convoy to Cuba amid crippling oil blockade"
-    },
-    {
-      "timestamp": "2026-03-18T17:07:38.503022+00:00",
-      "tier": "groq",
-      "article": "How Dubai and UAE are being affected by Iran attacks and US-Israeli war"
-    },
-    {
-      "timestamp": "2026-03-18T17:07:54.679175+00:00",
-      "tier": "groq",
-      "article": "Not just energy: How the Iran war could trigger a global food crisis"
-    },
     {
       "timestamp": "2026-03-18T19:07:08.610187+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-20T20:41:18.727178+00:00",
       "tier": "groq",
       "article": "Who are the Gulf\u2019s military allies, and how are they helping in Iran war?"
+    },
+    {
+      "timestamp": "2026-03-20T22:38:35.100366+00:00",
+      "tier": "groq",
+      "article": "Palestinian citizens of Israel demand better protection against missiles"
+    },
+    {
+      "timestamp": "2026-03-20T22:38:51.528817+00:00",
+      "tier": "groq",
+      "article": "US says it struck alleged drug trafficking vessel in Pacific, killing two"
+    },
+    {
+      "timestamp": "2026-03-20T22:39:08.072564+00:00",
+      "tier": "groq",
+      "article": "At 12:00 on Friday, March 20, 2026, the Islamic Resistance fighters targeted the Eilat base northeast of the occupied city of Safed with a missile salvo: statement 40 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-20T22:39:25.542846+00:00",
+      "tier": "groq",
+      "article": "Two suspected Iranian spies reportedly arrested near UK submarine base"
     }
   ]
 }
