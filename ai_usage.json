@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 845,
+  "total_calls": 849,
   "tiers": {
-    "groq": 827,
+    "groq": 831,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-18T13:22:14.510005+00:00",
-      "tier": "groq",
-      "article": "UN revises Kabul rehab strike toll as Pakistan denies targeting civilians"
-    },
-    {
-      "timestamp": "2026-03-18T13:22:30.736025+00:00",
-      "tier": "groq",
-      "article": "Al-Manar reporter says Israeli enemy carried out fresh strike on Suhmor town in Western Bekaa - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-18T13:22:47.720612+00:00",
-      "tier": "groq",
-      "article": "Al-Manar: Veteran anchor and Head of Political Programming Department Hajj Mohammad Sherri martyred along with his wife in Israeli strike on Beirut\u2019s Zqaq Al-Blat - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-18T13:23:04.433404+00:00",
-      "tier": "groq",
-      "article": "How Iran defied Trump threats to emerge as Strait of Hormuz gatekeeper"
-    },
     {
       "timestamp": "2026-03-18T15:08:55.672558+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-20T16:57:23.869751+00:00",
       "tier": "groq",
       "article": "Iran developing a \u2018vetting system\u2019 for Strait of Hormuz transit: Report"
+    },
+    {
+      "timestamp": "2026-03-20T19:01:32.665161+00:00",
+      "tier": "groq",
+      "article": "Explosion hits Jerusalem\u2019s Old City after Iran missile alert"
+    },
+    {
+      "timestamp": "2026-03-20T19:01:48.709675+00:00",
+      "tier": "groq",
+      "article": "Five Iranian missiles hit \u2018Israel\u2019: Zionist media - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-20T19:02:05.573548+00:00",
+      "tier": "groq",
+      "article": "Al-Manar reporter: New missile salvo targets IOF in Khiam town, South Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-20T19:02:22.225900+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Denounces UN Official\u2019s Pro-Israeli Stances on Lebanon - Al-Manar TV Lebanon"
     }
   ]
 }
