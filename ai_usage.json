@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 873,
+  "total_calls": 877,
   "tiers": {
-    "groq": 855,
+    "groq": 859,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-19T05:29:34.871363+00:00",
-      "tier": "groq",
-      "article": "Three Palestinian women killed during Iranian missile attack in West Bank"
-    },
-    {
-      "timestamp": "2026-03-19T05:29:51.186152+00:00",
-      "tier": "groq",
-      "article": "Three women killed in occupied West Bank missile attack"
-    },
-    {
-      "timestamp": "2026-03-19T05:30:07.327158+00:00",
-      "tier": "groq",
-      "article": "Lockheed tests upgraded Precision Strike Missile designed to strike ships"
-    },
-    {
-      "timestamp": "2026-03-19T05:30:23.728602+00:00",
-      "tier": "groq",
-      "article": "Could oil hit $200 a barrel? Analysts no longer think it is far-fetched"
-    },
     {
       "timestamp": "2026-03-19T07:08:27.165343+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-21T08:43:39.441003+00:00",
       "tier": "groq",
       "article": "India cooking gas crisis forces exodus of textile workers"
+    },
+    {
+      "timestamp": "2026-03-21T10:36:51.038270+00:00",
+      "tier": "groq",
+      "article": "Israeli enemy admits that one of its aircraft was targeted by an Iranian surface-to-air missile during raids on Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T10:37:09.831413+00:00",
+      "tier": "groq",
+      "article": "US countered drone threat over \u2018strategic\u2019 installation in early hours of Operation Epic Fury: Guillot"
+    },
+    {
+      "timestamp": "2026-03-21T10:37:26.092545+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent: Enemy warplanes launched an attack targeting Bint Jbeil - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T10:37:43.639860+00:00",
+      "tier": "groq",
+      "article": "\u2018Resistance\u2019 sole way to defeat enemy: spokesman"
     }
   ]
 }
