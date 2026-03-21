@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 865,
+  "total_calls": 869,
   "tiers": {
-    "groq": 847,
+    "groq": 851,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-18T22:42:06.262381+00:00",
-      "tier": "groq",
-      "article": "Leader of Ecuador-based criminal group Los Lobos arrested in Mexico City"
-    },
-    {
-      "timestamp": "2026-03-18T22:42:22.299100+00:00",
-      "tier": "groq",
-      "article": "At 22:00 on Wednesday, 18/03/2026, Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers in the Al-Zaqqaq neighborhood of the border town of Aitaroun with artillery shells: statement 27 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-18T22:42:39.333165+00:00",
-      "tier": "groq",
-      "article": "As part of the warning issued by the Islamic Resistance to a number of settlements in northern occupied Palestine, at 23:00 on Wednesday, March 18, 2026, Islamic Resistance fighters targeted the Dishon settlement with a rocket barrage: statement 30 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-18T22:42:56.455844+00:00",
-      "tier": "groq",
-      "article": "Iranians burn Trump, Netanyahu effigies at warship victim rally"
-    },
     {
       "timestamp": "2026-03-19T02:40:06.460804+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-21T05:14:16.999965+00:00",
       "tier": "groq",
       "article": "US, Israel may drag Caspian region into Iran war: Russia"
+    },
+    {
+      "timestamp": "2026-03-21T06:56:41.781455+00:00",
+      "tier": "groq",
+      "article": "Iraq Resistance launches 27 attacks against enemy positions"
+    },
+    {
+      "timestamp": "2026-03-21T06:57:39.566730+00:00",
+      "tier": "groq",
+      "article": "Iran targets US \u2018Diego Garcia\u2019 base with 2 ballistic missiles"
+    },
+    {
+      "timestamp": "2026-03-21T06:58:37.354147+00:00",
+      "tier": "groq",
+      "article": "VIDEO: US drone downed by Iran Army Navy"
+    },
+    {
+      "timestamp": "2026-03-21T06:59:35.051584+00:00",
+      "tier": "groq",
+      "article": "Iranian general warns enemy leaders under watch"
     }
   ]
 }
