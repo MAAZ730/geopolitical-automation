@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 889,
+  "total_calls": 893,
   "tiers": {
-    "groq": 871,
+    "groq": 875,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-19T13:18:21.525506+00:00",
-      "tier": "groq",
-      "article": "IRGC Strikes 80 Israeli Sites, Four US Bases in Major Operation - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-19T13:18:42.842984+00:00",
-      "tier": "groq",
-      "article": "Why are Iran\u2019s South Pars gasfield, Qatar\u2019s Ras Laffan, so significant?"
-    },
-    {
-      "timestamp": "2026-03-19T13:18:59.675135+00:00",
-      "tier": "groq",
-      "article": "Israeli Aggression Continues: Fresh Raids and Crimes Against Lebanese Civilians - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-19T13:19:18.263017+00:00",
-      "tier": "groq",
-      "article": "US East Asian allies in legal quandary as Trump seeks help in the Middle East"
-    },
     {
       "timestamp": "2026-03-19T14:58:14.433269+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-21T16:41:45.964820+00:00",
       "tier": "groq",
       "article": "Unease in Japan after Trump cites Pearl Harbor to defend Iran war"
+    },
+    {
+      "timestamp": "2026-03-21T18:44:36.214710+00:00",
+      "tier": "groq",
+      "article": "Yedioth Ahronoth reports 34 injuries in Iranian missile attack on Dimona - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T18:44:52.493941+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Iranian missile fire causes a building collapse in Dimona - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T18:45:09.925397+00:00",
+      "tier": "groq",
+      "article": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown"
+    },
+    {
+      "timestamp": "2026-03-21T18:45:25.945564+00:00",
+      "tier": "groq",
+      "article": "As part of the warning issued by the Islamic Resistance to a number of settlements in northern occupied Palestine, at 17:20 on Saturday, March 21, 2026, Islamic Resistance fighters targeted the Avivim settlement with a rocket barrage: statement 32 - Al-Manar TV Lebanon"
     }
   ]
 }
