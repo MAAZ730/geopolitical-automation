@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 893,
+  "total_calls": 897,
   "tiers": {
-    "groq": 875,
+    "groq": 879,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-19T14:58:14.433269+00:00",
-      "tier": "groq",
-      "article": "What did Arab and Muslim ministers discuss in Riyadh meeting on Iran?"
-    },
-    {
-      "timestamp": "2026-03-19T14:58:30.707384+00:00",
-      "tier": "groq",
-      "article": "VIDEO: Shelling Israeli regime site by Iranian missiles"
-    },
-    {
-      "timestamp": "2026-03-19T14:59:28.177091+00:00",
-      "tier": "groq",
-      "article": "IRGC new air defense shoots down, 2 drones, cruise missile"
-    },
-    {
-      "timestamp": "2026-03-19T15:00:25.333686+00:00",
-      "tier": "groq",
-      "article": "EU leaders slam Hungary\u2019s Orban for blocking Ukraine aid package"
-    },
     {
       "timestamp": "2026-03-19T17:07:47.453168+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-21T18:45:25.945564+00:00",
       "tier": "groq",
       "article": "As part of the warning issued by the Islamic Resistance to a number of settlements in northern occupied Palestine, at 17:20 on Saturday, March 21, 2026, Islamic Resistance fighters targeted the Avivim settlement with a rocket barrage: statement 32 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T20:37:44.757920+00:00",
+      "tier": "groq",
+      "article": "Zionist media: The number of wounded in Dimona has reached 22 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T20:38:02.735507+00:00",
+      "tier": "groq",
+      "article": "EU urges members to start storing winter gas as Iran war causes price surge"
+    },
+    {
+      "timestamp": "2026-03-21T20:38:19.305466+00:00",
+      "tier": "groq",
+      "article": "Joe Kent speaks out against Iran war at prayer event after resigning"
+    },
+    {
+      "timestamp": "2026-03-21T20:38:35.572395+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Fighters Fiercely Clash with Occupation Forces in Khiam and Naqoura, Destroying Merkava - Al-Manar TV Lebanon"
     }
   ]
 }
