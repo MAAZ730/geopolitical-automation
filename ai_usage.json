@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 897,
+  "total_calls": 901,
   "tiers": {
-    "groq": 879,
+    "groq": 883,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-19T17:07:47.453168+00:00",
-      "tier": "groq",
-      "article": "As part of the warning that the Islamic resistance directed to a number of settlements in the north of occupied Palestine, the fighters of the Islamic resistance targeted at 14:00 Thursday 03/19/2026 the Shtula settlement with a missile salvo: statement 21 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-19T17:08:04.548193+00:00",
-      "tier": "groq",
-      "article": "Death toll surpasses 1,000 in Lebanon as Israeli bombardment continues"
-    },
-    {
-      "timestamp": "2026-03-19T17:08:20.601857+00:00",
-      "tier": "groq",
-      "article": "Israeli military radio: Iranian missile hits oil refineries in Haifa - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-19T17:08:37.494209+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Denies Kuwaiti Accusations, Reaffirms Keenness on Brotherly People - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-19T19:09:31.720011+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-21T20:38:35.572395+00:00",
       "tier": "groq",
       "article": "Hezbollah Fighters Fiercely Clash with Occupation Forces in Khiam and Naqoura, Destroying Merkava - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T22:35:24.616682+00:00",
+      "tier": "groq",
+      "article": "State of emergency declared as Iranian missile hits Arad in southern Israel"
+    },
+    {
+      "timestamp": "2026-03-21T22:35:40.670867+00:00",
+      "tier": "groq",
+      "article": "At 14:00 on Saturday, 21/03/2026, the Islamic Resistance fighters will target a gathering of soldiers and vehicles of the Israeli enemy army at the occupied Khirbet Yaroun site (a Lebanese army site) in southern Lebanon with a qualitative missile: statement 35 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T22:35:57.446858+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Four buildings collapsed in Arad in the hypersonic missile fire from Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T22:36:15.006943+00:00",
+      "tier": "groq",
+      "article": "At 17:20 on Saturday, 21/03/2026, Islamic Resistance fighters targeted a gathering of vehicles and soldiers of the Israeli enemy army in the Al-Maasara neighborhood of the border town of Maroun Al-Ras with artillery shells: statement 33 - Al-Manar TV Lebanon"
     }
   ]
 }
