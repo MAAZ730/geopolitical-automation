@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 877,
+  "total_calls": 881,
   "tiers": {
-    "groq": 859,
+    "groq": 863,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-19T07:08:27.165343+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Fighters Repel Israeli Attempts to Advance in South Lebanon Border Towns, Strike Back Gatherings in Zionist Settlements - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-19T07:08:48.220589+00:00",
-      "tier": "groq",
-      "article": "Iran missiles forces Abraham Lincoln warship to leave region"
-    },
-    {
-      "timestamp": "2026-03-19T07:09:46.235317+00:00",
-      "tier": "groq",
-      "article": "Iran response to Israel martyring of Larijani to be regretful"
-    },
-    {
-      "timestamp": "2026-03-19T07:10:43.461657+00:00",
-      "tier": "groq",
-      "article": "Pezehskian offers condolences on martyrdom of Intel. minister"
-    },
     {
       "timestamp": "2026-03-19T08:55:35.045208+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-21T10:37:43.639860+00:00",
       "tier": "groq",
       "article": "\u2018Resistance\u2019 sole way to defeat enemy: spokesman"
+    },
+    {
+      "timestamp": "2026-03-21T13:02:22.869732+00:00",
+      "tier": "groq",
+      "article": "US-Israeli strikes target Natanz enrichment facility"
+    },
+    {
+      "timestamp": "2026-03-21T13:03:21.731464+00:00",
+      "tier": "groq",
+      "article": "Drone strike near Iraqi intelligence headquarters in Baghdad kills officer"
+    },
+    {
+      "timestamp": "2026-03-21T13:03:37.793379+00:00",
+      "tier": "groq",
+      "article": "Extensive Damage in Rishon LeZion Caused by Iranian Missile - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T13:03:58.736209+00:00",
+      "tier": "groq",
+      "article": "US judge sides with New York Times against Pentagon journalism policies"
     }
   ]
 }
