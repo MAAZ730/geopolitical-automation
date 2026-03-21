@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 881,
+  "total_calls": 885,
   "tiers": {
-    "groq": 863,
+    "groq": 867,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-19T08:55:35.045208+00:00",
-      "tier": "groq",
-      "article": "Trump attempts to distance US from Israeli strikes on key Iranian gasfield"
-    },
-    {
-      "timestamp": "2026-03-19T08:55:51.519584+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent in south Lebanon reports Israeli strikes on border towns of Bint Jbeil and Khiam - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-19T08:56:08.934471+00:00",
-      "tier": "groq",
-      "article": "Global oil prices rise after Iran's retaliatory attacks"
-    },
-    {
-      "timestamp": "2026-03-19T08:57:07.267759+00:00",
-      "tier": "groq",
-      "article": "US intelligence agencies not expecting China to invade Taiwan in 2027"
-    },
     {
       "timestamp": "2026-03-19T10:50:10.015426+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-21T13:03:58.736209+00:00",
       "tier": "groq",
       "article": "US judge sides with New York Times against Pentagon journalism policies"
+    },
+    {
+      "timestamp": "2026-03-21T14:36:59.959517+00:00",
+      "tier": "groq",
+      "article": "Iran says it will allow Japanese ships to transit the Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-03-21T14:37:16.540699+00:00",
+      "tier": "groq",
+      "article": "The spokesperson for Khatam al-Anbiya Central Headquarters: This war will continue as long as the option of attacking our land remains part of your strategies - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-21T14:37:34.069348+00:00",
+      "tier": "groq",
+      "article": "War spirals as information control tightens"
+    },
+    {
+      "timestamp": "2026-03-21T14:37:50.051130+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent: Two rocket salvos fired towards enemy gatherings inside the border towns in the eastern sector - Al-Manar TV Lebanon"
     }
   ]
 }
