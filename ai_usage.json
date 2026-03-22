@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 925,
+  "total_calls": 929,
   "tiers": {
-    "groq": 907,
+    "groq": 911,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-20T08:53:50.505232+00:00",
-      "tier": "groq",
-      "article": "Nowruz: Iran prepare for Persian new year under the shadow of war"
-    },
-    {
-      "timestamp": "2026-03-20T08:54:06.776744+00:00",
-      "tier": "groq",
-      "article": "Iran war: What is happening on day 21 of US-Israel attacks?"
-    },
-    {
-      "timestamp": "2026-03-20T08:54:22.854681+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s missile production continues during war: IRGC spox"
-    },
-    {
-      "timestamp": "2026-03-20T08:55:20.313771+00:00",
-      "tier": "groq",
-      "article": "IRGC announces 66th wave of Operation True Promise 4: Israeli targets in Tel Aviv and south of occupied Palestine in addition to US bases in the region were struck - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-20T10:47:17.558266+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-22T13:06:14.780131+00:00",
       "tier": "groq",
       "article": "Trump threatens to \u2018obliterate\u2019 Iran power plants unless Hormuz Strait open"
+    },
+    {
+      "timestamp": "2026-03-22T14:37:39.114860+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent: Israeli warplanes unleash carpet of fire over towns in Nabatieh, staging successive strikes on Shoukine, Maifadoun, Zawatr, Kfartibneet and Nabatieh Al-Fawqa - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T14:37:56.014353+00:00",
+      "tier": "groq",
+      "article": "Iran Shows No Sign of Backing down, Vows Response to Trump\u2019s \u201cUltimatum\u201d - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T14:38:16.573478+00:00",
+      "tier": "groq",
+      "article": "Casualties as Iran Missiles Hit Tel Aviv, Surrounding Areas: Videos - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T14:38:36.093943+00:00",
+      "tier": "groq",
+      "article": "Drone footage captures flooding across Oahu, Hawaii"
     }
   ]
 }
