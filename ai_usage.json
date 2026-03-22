@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 917,
+  "total_calls": 921,
   "tiers": {
-    "groq": 899,
+    "groq": 903,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-20T05:20:23.544441+00:00",
-      "tier": "groq",
-      "article": "Iran conducts 65th wave of Operation True Promise 4"
-    },
-    {
-      "timestamp": "2026-03-20T05:21:21.759726+00:00",
-      "tier": "groq",
-      "article": "Ghalibaf ridicules US army claim on Iran\u2019s missile launchers"
-    },
-    {
-      "timestamp": "2026-03-20T05:22:17.990913+00:00",
-      "tier": "groq",
-      "article": "Central occupied Palestine shattered by Khorramshahr missiles"
-    },
-    {
-      "timestamp": "2026-03-20T05:23:16.122749+00:00",
-      "tier": "groq",
-      "article": "Iran nabs 178 mercenaries linked to American-Zionist enemy"
-    },
     {
       "timestamp": "2026-03-20T07:06:40.885860+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-22T08:46:20.141402+00:00",
       "tier": "groq",
       "article": "VIDEO: Iran army drones target Ben Gurion Airport"
+    },
+    {
+      "timestamp": "2026-03-22T10:37:34.567719+00:00",
+      "tier": "groq",
+      "article": "Woman confronts Ben-Gvir at site of Iranian missile strike"
+    },
+    {
+      "timestamp": "2026-03-22T10:37:50.766191+00:00",
+      "tier": "groq",
+      "article": "15 Israelis injured in Tel Aviv Iranian missile cluster bomb attack: Israeli media - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T10:38:07.662819+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Missile Attack Kills Israeli in Misgav Am: Video - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T10:38:28.461115+00:00",
+      "tier": "groq",
+      "article": "Casualties as Israeli settlers set fire to homes and cars in West Bank"
     }
   ]
 }
