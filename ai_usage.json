@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 937,
+  "total_calls": 941,
   "tiers": {
-    "groq": 919,
+    "groq": 923,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-20T14:51:43.363385+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s IRGC says spokesman Ali Mohammad Naini killed in US-Israeli attack"
-    },
-    {
-      "timestamp": "2026-03-20T14:51:59.510672+00:00",
-      "tier": "groq",
-      "article": "Qalibaf: Iran\u2019s Strike on US F-35 Signals \u2018Collapse of an Order\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-20T14:52:18.153507+00:00",
-      "tier": "groq",
-      "article": "Hezbollah continues to target Zionist regime's positions"
-    },
-    {
-      "timestamp": "2026-03-20T14:53:16.575886+00:00",
-      "tier": "groq",
-      "article": "More dangerous than F-35 fighter jet is weapon hunts it"
-    },
     {
       "timestamp": "2026-03-20T16:56:34.551910+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-22T18:48:19.337477+00:00",
       "tier": "groq",
       "article": "Hezbollah attack kills one in north Israel as assault on Lebanon continues"
+    },
+    {
+      "timestamp": "2026-03-22T20:38:44.511176+00:00",
+      "tier": "groq",
+      "article": "Operation Eaten Straw: Hezbollah Demonstrates Advanced Firepower, Tactical Precision - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T20:39:04.484581+00:00",
+      "tier": "groq",
+      "article": "Israeli air strikes on Gaza kill four Palestinians"
+    },
+    {
+      "timestamp": "2026-03-22T20:39:21.273242+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted the Birkat Risha Israeli site opposite the border town of Yaroun with a rocket salvo: Military Media statement 40 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T20:39:39.904224+00:00",
+      "tier": "groq",
+      "article": "Lebanon\u2019s Aoun warns Israeli attack on bridge \u2018prelude to ground invasion\u2019"
     }
   ]
 }
