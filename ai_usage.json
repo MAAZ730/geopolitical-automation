@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 921,
+  "total_calls": 925,
   "tiers": {
-    "groq": 903,
+    "groq": 907,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-20T07:06:40.885860+00:00",
-      "tier": "groq",
-      "article": "Offensive, defensive ops. to go on, Khatam al-Anbiya HQ says"
-    },
-    {
-      "timestamp": "2026-03-20T07:07:37.855055+00:00",
-      "tier": "groq",
-      "article": "Iran: Teenager among first to be executed over anti-government protests"
-    },
-    {
-      "timestamp": "2026-03-20T07:07:54.091282+00:00",
-      "tier": "groq",
-      "article": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks"
-    },
-    {
-      "timestamp": "2026-03-20T07:08:10.188805+00:00",
-      "tier": "groq",
-      "article": "A-10 Warthogs target Iranian fast-attack craft in Strait of Hormuz"
-    },
     {
       "timestamp": "2026-03-20T08:53:50.505232+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-22T10:38:28.461115+00:00",
       "tier": "groq",
       "article": "Casualties as Israeli settlers set fire to homes and cars in West Bank"
+    },
+    {
+      "timestamp": "2026-03-22T13:04:41.256403+00:00",
+      "tier": "groq",
+      "article": "Israeli Escalation Intensifies in Southern Lebanon with Widespread Airstrikes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-22T13:05:01.328765+00:00",
+      "tier": "groq",
+      "article": "Hezbollah unleashes wave of strikes against Israeli positions"
+    },
+    {
+      "timestamp": "2026-03-22T13:05:58.750049+00:00",
+      "tier": "groq",
+      "article": "Moment Iranian strike hits central Tel Aviv"
+    },
+    {
+      "timestamp": "2026-03-22T13:06:14.780131+00:00",
+      "tier": "groq",
+      "article": "Trump threatens to \u2018obliterate\u2019 Iran power plants unless Hormuz Strait open"
     }
   ]
 }
