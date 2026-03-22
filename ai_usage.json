@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 905,
+  "total_calls": 909,
   "tiers": {
-    "groq": 887,
+    "groq": 891,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-19T20:48:06.330342+00:00",
-      "tier": "groq",
-      "article": "US strikes Iranian underground missile storage with 5,000-pound penetrator"
-    },
-    {
-      "timestamp": "2026-03-19T20:48:22.900673+00:00",
-      "tier": "groq",
-      "article": "Smoke rises after Iranian missile attack on Israel oil refinery in Haifa"
-    },
-    {
-      "timestamp": "2026-03-19T20:48:38.982262+00:00",
-      "tier": "groq",
-      "article": "US approves $16.5bn arms deal to Gulf states amid rising Iran tensions"
-    },
-    {
-      "timestamp": "2026-03-19T20:48:55.338371+00:00",
-      "tier": "groq",
-      "article": "European nations, Japan to join \u2018appropriate efforts\u2019 to open Hormuz Strait"
-    },
     {
       "timestamp": "2026-03-19T22:38:29.096150+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-22T02:41:54.433979+00:00",
       "tier": "groq",
       "article": "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report"
+    },
+    {
+      "timestamp": "2026-03-22T05:25:54.872595+00:00",
+      "tier": "groq",
+      "article": "What we know about Iran\u2019s latest attacks on Israel"
+    },
+    {
+      "timestamp": "2026-03-22T05:26:10.848232+00:00",
+      "tier": "groq",
+      "article": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted"
+    },
+    {
+      "timestamp": "2026-03-22T05:26:27.042307+00:00",
+      "tier": "groq",
+      "article": "Iranian Army\u2019s drones target Israeli military sites"
+    },
+    {
+      "timestamp": "2026-03-22T05:27:24.574398+00:00",
+      "tier": "groq",
+      "article": "Iran slams Grossi\u2019s remarks as violation of safeguards deal"
     }
   ]
 }
