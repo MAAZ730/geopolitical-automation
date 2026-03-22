@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 929,
+  "total_calls": 933,
   "tiers": {
-    "groq": 911,
+    "groq": 915,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-20T10:47:17.558266+00:00",
-      "tier": "groq",
-      "article": "IRGC Launches Wave 67 of Operation True Promise 4, Strikes US and Israeli Targets - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-20T10:47:37.431083+00:00",
-      "tier": "groq",
-      "article": "Iran strikes US F-35 stealth fighter jet: Ghalibaf"
-    },
-    {
-      "timestamp": "2026-03-20T10:48:35.049957+00:00",
-      "tier": "groq",
-      "article": "IRGC expounds on US Gerald Ford\u2019s retreat in a statement"
-    },
-    {
-      "timestamp": "2026-03-20T10:49:31.278333+00:00",
-      "tier": "groq",
-      "article": "High-speed combat drone production starts at new US Anduril plant in days"
-    },
     {
       "timestamp": "2026-03-20T13:12:42.688167+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-22T14:38:36.093943+00:00",
       "tier": "groq",
       "article": "Drone footage captures flooding across Oahu, Hawaii"
+    },
+    {
+      "timestamp": "2026-03-22T16:41:20.951588+00:00",
+      "tier": "groq",
+      "article": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations"
+    },
+    {
+      "timestamp": "2026-03-22T16:41:37.053736+00:00",
+      "tier": "groq",
+      "article": "Did Iran launch missiles at US-UK base on Diego Garcia? Here\u2019s what to know"
+    },
+    {
+      "timestamp": "2026-03-22T16:41:53.205967+00:00",
+      "tier": "groq",
+      "article": "Israeli firefighters battle vehicles blaze after missile attack from Lebano"
+    },
+    {
+      "timestamp": "2026-03-22T16:42:09.219138+00:00",
+      "tier": "groq",
+      "article": "Latin American presidents criticise US actions"
     }
   ]
 }
