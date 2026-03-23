@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 957,
+  "total_calls": 961,
   "tiers": {
-    "groq": 939,
+    "groq": 943,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-21T02:27:06.939265+00:00",
-      "tier": "groq",
-      "article": "UK allows US to use bases to strike Iranian sites targeting Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-03-21T02:27:23.074801+00:00",
-      "tier": "groq",
-      "article": "Terror groups under increased scrutiny in DNI\u2019s annual threat report"
-    },
-    {
-      "timestamp": "2026-03-21T02:27:40.100901+00:00",
-      "tier": "groq",
-      "article": "QatarEnergy CEO says warned US, industry officials against attack on energy"
-    },
-    {
-      "timestamp": "2026-03-21T02:27:56.331162+00:00",
-      "tier": "groq",
-      "article": "Iranians celebrate Persian New Year in first wartime Nowruz in decades"
-    },
     {
       "timestamp": "2026-03-21T05:11:23.376801+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-23T07:24:06.017138+00:00",
       "tier": "groq",
       "article": "Iran warns of harsh response if its power plants targeted"
+    },
+    {
+      "timestamp": "2026-03-23T09:07:02.958237+00:00",
+      "tier": "groq",
+      "article": "Iran war: What\u2019s happening on day 24 of US-Israel attacks?"
+    },
+    {
+      "timestamp": "2026-03-23T09:07:19.134806+00:00",
+      "tier": "groq",
+      "article": "\u2018Unprecedented\u2019: Israel, US carry out extensive strikes across Iran"
+    },
+    {
+      "timestamp": "2026-03-23T09:07:34.949729+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Initial reports of missile impact in Ashkelon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-23T09:07:52.809986+00:00",
+      "tier": "groq",
+      "article": "Over 81,000 civilian sites damaged in US-Israel aggression"
     }
   ]
 }
