@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 953,
+  "total_calls": 957,
   "tiers": {
-    "groq": 935,
+    "groq": 939,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-20T22:38:35.100366+00:00",
-      "tier": "groq",
-      "article": "Palestinian citizens of Israel demand better protection against missiles"
-    },
-    {
-      "timestamp": "2026-03-20T22:38:51.528817+00:00",
-      "tier": "groq",
-      "article": "US says it struck alleged drug trafficking vessel in Pacific, killing two"
-    },
-    {
-      "timestamp": "2026-03-20T22:39:08.072564+00:00",
-      "tier": "groq",
-      "article": "At 12:00 on Friday, March 20, 2026, the Islamic Resistance fighters targeted the Eilat base northeast of the occupied city of Safed with a missile salvo: statement 40 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-20T22:39:25.542846+00:00",
-      "tier": "groq",
-      "article": "Two suspected Iranian spies reportedly arrested near UK submarine base"
-    },
     {
       "timestamp": "2026-03-21T02:27:06.939265+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-23T05:49:06.734431+00:00",
       "tier": "groq",
       "article": "Expecting restraint from Iran unrealistic: Baghaei"
+    },
+    {
+      "timestamp": "2026-03-23T07:21:51.248870+00:00",
+      "tier": "groq",
+      "article": "4,564 Zionists injured since war began"
+    },
+    {
+      "timestamp": "2026-03-23T07:22:52.646663+00:00",
+      "tier": "groq",
+      "article": "Immense damage seen in Iran\u2019s streets after air strikes"
+    },
+    {
+      "timestamp": "2026-03-23T07:23:08.836392+00:00",
+      "tier": "groq",
+      "article": "Hormuz Strait remains open to every nation except enemies"
+    },
+    {
+      "timestamp": "2026-03-23T07:24:06.017138+00:00",
+      "tier": "groq",
+      "article": "Iran warns of harsh response if its power plants targeted"
     }
   ]
 }
