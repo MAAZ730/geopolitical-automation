@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 973,
+  "total_calls": 977,
   "tiers": {
-    "groq": 955,
+    "groq": 959,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-21T10:36:51.038270+00:00",
-      "tier": "groq",
-      "article": "Israeli enemy admits that one of its aircraft was targeted by an Iranian surface-to-air missile during raids on Iran - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-21T10:37:09.831413+00:00",
-      "tier": "groq",
-      "article": "US countered drone threat over \u2018strategic\u2019 installation in early hours of Operation Epic Fury: Guillot"
-    },
-    {
-      "timestamp": "2026-03-21T10:37:26.092545+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: Enemy warplanes launched an attack targeting Bint Jbeil - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-21T10:37:43.639860+00:00",
-      "tier": "groq",
-      "article": "\u2018Resistance\u2019 sole way to defeat enemy: spokesman"
-    },
     {
       "timestamp": "2026-03-21T13:02:22.869732+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-23T15:05:49.858521+00:00",
       "tier": "groq",
       "article": "Iran: Trump Backed Down, and We Will Defend Ourselves Until Deterrence Is Achieved - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-23T17:04:34.673801+00:00",
+      "tier": "groq",
+      "article": "Trump signals off-ramp in Iran war despite no \u2018regime change\u2019"
+    },
+    {
+      "timestamp": "2026-03-23T17:04:50.802932+00:00",
+      "tier": "groq",
+      "article": "Energy, water, bonds: What are Iran\u2019s targets if Trump hits power plants?"
+    },
+    {
+      "timestamp": "2026-03-23T17:05:07.268432+00:00",
+      "tier": "groq",
+      "article": "Israeli Military Gatherings across South Lebanon Border Area under Unstoppable Hezbollah Fire - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-23T17:05:28.364233+00:00",
+      "tier": "groq",
+      "article": "Has Iran brought down an \u2018unkillable\u2019 US F-35 jet?"
     }
   ]
 }
