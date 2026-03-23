@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 945,
+  "total_calls": 949,
   "tiers": {
-    "groq": 927,
+    "groq": 931,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-20T19:01:32.665161+00:00",
-      "tier": "groq",
-      "article": "Explosion hits Jerusalem\u2019s Old City after Iran missile alert"
-    },
-    {
-      "timestamp": "2026-03-20T19:01:48.709675+00:00",
-      "tier": "groq",
-      "article": "Five Iranian missiles hit \u2018Israel\u2019: Zionist media - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-20T19:02:05.573548+00:00",
-      "tier": "groq",
-      "article": "Al-Manar reporter: New missile salvo targets IOF in Khiam town, South Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-20T19:02:22.225900+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Denounces UN Official\u2019s Pro-Israeli Stances on Lebanon - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-20T20:40:29.804248+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-22T22:37:05.774465+00:00",
       "tier": "groq",
       "article": "Did Israel miscalculate Iranian military capabilities?"
+    },
+    {
+      "timestamp": "2026-03-23T02:41:24.273297+00:00",
+      "tier": "groq",
+      "article": "Israeli newspaper Yediot Aharonot reports extensive damage in the occupied city of \u201cPetah Tikva,\u201d east of \u201cTel Aviv,\u201d after cluster bomb fragments fell - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-23T02:41:41.214249+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s Zelenskyy urges allies to pressure Russia ahead of US talks"
+    },
+    {
+      "timestamp": "2026-03-23T02:41:57.419128+00:00",
+      "tier": "groq",
+      "article": "The Gaza Tribunal: A question of complicity"
+    },
+    {
+      "timestamp": "2026-03-23T02:42:13.593049+00:00",
+      "tier": "groq",
+      "article": "Trump\u2019s changing messages on Iran war: What does it say about US strategy?"
     }
   ]
 }
