@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1013,
+  "total_calls": 1017,
   "tiers": {
-    "groq": 995,
+    "groq": 999,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-22T08:44:48.781100+00:00",
-      "tier": "groq",
-      "article": "Drone footage shows damage in Arad after overnight Iranian missile attack"
-    },
-    {
-      "timestamp": "2026-03-22T08:45:05.163430+00:00",
-      "tier": "groq",
-      "article": "Israeli media: A Hezbollah anti-tank unit crossed the Israeli army\u2019s forward defense line in southern Lebanon and launched missiles at Misgav Am - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-22T08:45:23.134266+00:00",
-      "tier": "groq",
-      "article": "Iran targets Ben Gurion Airport with advanced Arash 2 drone"
-    },
-    {
-      "timestamp": "2026-03-22T08:46:20.141402+00:00",
-      "tier": "groq",
-      "article": "VIDEO: Iran army drones target Ben Gurion Airport"
-    },
     {
       "timestamp": "2026-03-22T10:37:34.567719+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-24T13:26:43.427710+00:00",
       "tier": "groq",
       "article": "Are Middle East attacks pushing Asia towards an energy crisis?"
+    },
+    {
+      "timestamp": "2026-03-24T15:07:43.759235+00:00",
+      "tier": "groq",
+      "article": "Hezbollah reports 34 precise strikes on Monday, targeting Israeli Merkava tanks, army gatherings, artillery positions, military outposts, and strategic infrastructure with guided missiles, rocket barrages, and attack drones in response to aggression against Lebanese areas: Military media statements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T15:08:01.033417+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in south Lebanon reports rocket barrage targeted Israeli troop concentrations at the border with occupied Palestine - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T15:08:18.443306+00:00",
+      "tier": "groq",
+      "article": "China maps ocean floor as it prepares for submarine warfare with US"
+    },
+    {
+      "timestamp": "2026-03-24T15:08:34.853487+00:00",
+      "tier": "groq",
+      "article": "QatarEnergy declares force majeure on some LNG contracts due to Iran war"
     }
   ]
 }
