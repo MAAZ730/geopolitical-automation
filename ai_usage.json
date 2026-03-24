@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1009,
+  "total_calls": 1013,
   "tiers": {
-    "groq": 991,
+    "groq": 995,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-22T07:02:34.951014+00:00",
-      "tier": "groq",
-      "article": "Iran strikes Israeli F-16 fighter jet"
-    },
-    {
-      "timestamp": "2026-03-22T07:03:32.562419+00:00",
-      "tier": "groq",
-      "article": "Why does Iran\u2019s strike on Dimona matter?"
-    },
-    {
-      "timestamp": "2026-03-22T07:04:29.462028+00:00",
-      "tier": "groq",
-      "article": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran\u2019s power plants"
-    },
-    {
-      "timestamp": "2026-03-22T07:04:45.672869+00:00",
-      "tier": "groq",
-      "article": "Martyr Esmaeil Khatib funeral in Qom"
-    },
     {
       "timestamp": "2026-03-22T08:44:48.781100+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-24T11:01:03.666812+00:00",
       "tier": "groq",
       "article": "Iran, Oman FMs discuss Strait of Hormuz developments"
+    },
+    {
+      "timestamp": "2026-03-24T13:25:11.515372+00:00",
+      "tier": "groq",
+      "article": "Israeli Aggression Against Lebanon Continues: Martyrs in Bshamoun, Tyre District, and East of Sidon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T13:25:30.370658+00:00",
+      "tier": "groq",
+      "article": "\u2019Terrified\u2019 Israeli residents recount Iranian missile attack"
+    },
+    {
+      "timestamp": "2026-03-24T13:25:46.536229+00:00",
+      "tier": "groq",
+      "article": "No need for minelaying in Persian Gulf due to high dominance"
+    },
+    {
+      "timestamp": "2026-03-24T13:26:43.427710+00:00",
+      "tier": "groq",
+      "article": "Are Middle East attacks pushing Asia towards an energy crisis?"
     }
   ]
 }
