@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 989,
+  "total_calls": 993,
   "tiers": {
-    "groq": 971,
+    "groq": 975,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-21T18:44:36.214710+00:00",
-      "tier": "groq",
-      "article": "Yedioth Ahronoth reports 34 injuries in Iranian missile attack on Dimona - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-21T18:44:52.493941+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Iranian missile fire causes a building collapse in Dimona - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-21T18:45:09.925397+00:00",
-      "tier": "groq",
-      "article": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown"
-    },
-    {
-      "timestamp": "2026-03-21T18:45:25.945564+00:00",
-      "tier": "groq",
-      "article": "As part of the warning issued by the Islamic Resistance to a number of settlements in northern occupied Palestine, at 17:20 on Saturday, March 21, 2026, Islamic Resistance fighters targeted the Avivim settlement with a rocket barrage: statement 32 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-21T20:37:44.757920+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-23T22:43:29.967976+00:00",
       "tier": "groq",
       "article": "Have Israel, the US and Iran violated international law?"
+    },
+    {
+      "timestamp": "2026-03-24T02:33:20.815949+00:00",
+      "tier": "groq",
+      "article": "Israeli media: A large Iranian cluster missile directly hits a building in Haifa; ambulance teams rush to the scene - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T02:33:40.011302+00:00",
+      "tier": "groq",
+      "article": "US and UK teaming up to destroy underwater drones"
+    },
+    {
+      "timestamp": "2026-03-24T02:33:56.092574+00:00",
+      "tier": "groq",
+      "article": "Trump says Iran \u2018wants peace\u2019 after US military did \u2018great job\u2019"
+    },
+    {
+      "timestamp": "2026-03-24T02:34:12.159235+00:00",
+      "tier": "groq",
+      "article": "Israeli settlers vandalise school, raise Israeli flag in occupied West Bank"
     }
   ]
 }
