@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1017,
+  "total_calls": 1021,
   "tiers": {
-    "groq": 999,
+    "groq": 1003,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-22T10:37:34.567719+00:00",
-      "tier": "groq",
-      "article": "Woman confronts Ben-Gvir at site of Iranian missile strike"
-    },
-    {
-      "timestamp": "2026-03-22T10:37:50.766191+00:00",
-      "tier": "groq",
-      "article": "15 Israelis injured in Tel Aviv Iranian missile cluster bomb attack: Israeli media - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-22T10:38:07.662819+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Missile Attack Kills Israeli in Misgav Am: Video - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-22T10:38:28.461115+00:00",
-      "tier": "groq",
-      "article": "Casualties as Israeli settlers set fire to homes and cars in West Bank"
-    },
     {
       "timestamp": "2026-03-22T13:04:41.256403+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-24T15:08:34.853487+00:00",
       "tier": "groq",
       "article": "QatarEnergy declares force majeure on some LNG contracts due to Iran war"
+    },
+    {
+      "timestamp": "2026-03-24T17:09:14.829428+00:00",
+      "tier": "groq",
+      "article": "Operation Eaten Straw: Hezbollah Executes Coordinated Hits on Key Israeli Targets - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T17:09:34.461047+00:00",
+      "tier": "groq",
+      "article": "Israeli strike hits Tyre during Al Jazeera report"
+    },
+    {
+      "timestamp": "2026-03-24T17:09:50.921246+00:00",
+      "tier": "groq",
+      "article": "After identifying Israeli soldiers inside a house in Al-Qouzah, Hezbollah fighters struck with a guided missile, achieving a direct hit: Military Media statement 35 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T17:10:09.378534+00:00",
+      "tier": "groq",
+      "article": "The \u2018simple maneuver\u2019 of opening Hormuz strait carries great risks, analysts say"
     }
   ]
 }
