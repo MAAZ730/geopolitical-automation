@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1001,
+  "total_calls": 1005,
   "tiers": {
-    "groq": 983,
+    "groq": 987,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-22T02:40:58.442225+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Hypersonic Missile Kills 6, Injures Dozens in South of \u2018Israel\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-22T02:41:17.197334+00:00",
-      "tier": "groq",
-      "article": "Hamas Praises Iranian Attacks on Arad, Dimona - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-22T02:41:38.051832+00:00",
-      "tier": "groq",
-      "article": "\u2018Very difficult evening\u2019: Israel says over 100 wounded in Iranian attacks"
-    },
-    {
-      "timestamp": "2026-03-22T02:41:54.433979+00:00",
-      "tier": "groq",
-      "article": "ICC Chief Prosecutor Khan cleared of sexual misconduct by judges: Report"
-    },
     {
       "timestamp": "2026-03-22T05:25:54.872595+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-24T07:16:47.418165+00:00",
       "tier": "groq",
       "article": "Iran, Turkey FMs hold phone call on regional security"
+    },
+    {
+      "timestamp": "2026-03-24T09:03:13.069357+00:00",
+      "tier": "groq",
+      "article": "Tel Aviv: Casualties, Extensive Damage in Largest Iranian Missile Attack Since War Outbreak - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T09:03:32.311598+00:00",
+      "tier": "groq",
+      "article": "Israeli Magen David Adom ambulance service reports 6 Israelis injured in Iranian missile attack on Tel Aviv - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T09:03:50.257715+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent reports second Israeli strike on Dallafeh Bridge which links villages in southern Lebanon to Western Bekaa - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T09:04:06.599595+00:00",
+      "tier": "groq",
+      "article": "Iran FM urges Russia, China to block US actions at UNSC"
     }
   ]
 }
