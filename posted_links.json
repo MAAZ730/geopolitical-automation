@@ -1,4 +1,29 @@
 {
+  "89339ff6ee62a4d607a04744b5822ea56fa7035243aede1a7fb759038cacff49": {
+    "url": "warmonitors/42831",
+    "title": "BREAKING: Texas refinery goes up in flames. #RefineryFire #PortArthur",
+    "published": "2026-03-24T07:22:56.948833+00:00"
+  },
+  "0cb5bf69e648a4c06ccc388290285af4766a267c53edfce5e24c8d613e3ad837": {
+    "url": "warmonitors/42835",
+    "title": "BREAKING: Erbil under fire! Stay tuned for updates on this developing situation!",
+    "published": "2026-03-24T07:22:35.241658+00:00"
+  },
+  "3a077ff5750382bf181092dfd1f5f8362cb008a6b6f15718e8ab8ec48ce95e8a": {
+    "url": "QudsNen/215476",
+    "title": "IRAN STRIKES: Sirens blaring in occupied Palestine as Tehran unleashes its fury!",
+    "published": "2026-03-24T07:21:56.500480+00:00"
+  },
+  "15a2c026f1b32d28cdfb691fcc5ae9a0e92fa0cdc1f27b419720bc65463d1485": {
+    "url": "QudsNen/215479",
+    "title": "HEAVY FIRE EXCHANGE IN TEL AVIV - 6 INJURED IN DEADLY MISSILE STRIKE",
+    "published": "2026-03-24T07:21:55.469832+00:00"
+  },
+  "1207accf9def574480a10b5996d0ee59fedb42ecc1441d3e8321ec79a9e32812": {
+    "url": "QudsNen/215488",
+    "title": "BREAKING: US-Israeli Bombs Rip Through Iran! #WarOnTerror #USIsraelStrike",
+    "published": "2026-03-24T07:17:33.593001+00:00"
+  },
   "637498679d4ebcfaa4fa2c7b7627286c520b52717aa6f0caec4df1e2a9eb9d2e": {
     "url": "QudsNen/215466",
     "title": "LEBANON UNDER FIRE: Israeli drones rain down on enemy strongholds, striking fear into the hearts of our enemies!",
@@ -23,6 +48,11 @@
     "url": "Middle_East_Spectator/30108",
     "title": "Israel's Iron Dome takes down Hezbollah drone in daring display of military might!",
     "published": "2026-03-24T05:33:42.049982+00:00"
+  },
+  "465af20af09d60d5648d993aa38c34b1a6053633bdf1ed94193cd2a14fa9f0e0": {
+    "url": "https://en.mehrnews.com/news/242883/Iran-has-not-been-initiator-of-war-in-region",
+    "title": "Iran has not been initiator of war in region",
+    "published": "2026-03-24T05:22:28+00:00"
   },
   "bc7d8c96c3e9ae69344de12c63c25eec98c9c95c182d914e23c17fc37e77cae6": {
     "url": "https://en.mehrnews.com/news/242882/IRGC-launches-78th-wave-of-Operation-True-Promise-4",
@@ -128,6 +158,11 @@
     "url": "thecradlemedia/55368",
     "title": "131 ENEMY DRONES DOWNED! Iran's air defense network is UNSTOPPABLE!",
     "published": "2026-03-23T20:53:31.740132+00:00"
+  },
+  "2332f57cdc59263e370315f6c6894dcb84cd73526cf56fffcdfbf461da794205": {
+    "url": "https://english.almanar.com.lb/article/42467/",
+    "title": "Iran Rejects Trump\u2019s Claim, Confirms No Talks Held with US amid Ongoing War\u00a0 - Al-Manar TV Lebanon",
+    "published": "2026-03-23T20:50:34+00:00"
   },
   "8d3ed043d46cf2551c6d42370f9ebf394176d75403bad785bf933b5c1bd3d153": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/moment-missile-strikes-shortly-after-israeli-presidents-visit?traffic_source=rss",
@@ -274,6 +309,11 @@
     "title": "Iran Army launches drone attack on Israeli, American targets",
     "published": "2026-03-23T15:01:28+00:00"
   },
+  "1e5bf612f48da5ce2fd51c7eda142fbe8f41283d8d022cab4600cce74d345745": {
+    "url": "https://en.mehrnews.com/news/242877/Iran-Turkey-FMs-hold-phone-call-on-regional-security",
+    "title": "Iran, Turkey FMs hold phone call on regional security",
+    "published": "2026-03-23T14:59:29+00:00"
+  },
   "73ebd7e1d4d7b51444899e835e4e26f30bffb398e0739486fbf7674f0ca099db": {
     "url": "https://english.almanar.com.lb/article/42012/",
     "title": "Iran: Trump Backed Down, and We Will Defend Ourselves Until Deterrence Is Achieved - Al-Manar TV Lebanon",
@@ -413,6 +453,11 @@
     "url": "https://www.aljazeera.com/news/2026/3/23/unprecedented-israel-us-carry-out-extensive-strikes-across-iran?traffic_source=rss",
     "title": "\u2018Unprecedented\u2019: Israel, US carry out extensive strikes across Iran",
     "published": "2026-03-23T08:39:14+00:00"
+  },
+  "20a6ecd2b9d70754a43ebedfd3cef7e50337294ce61e62c67a1c3293b2acccc7": {
+    "url": "https://en.mehrnews.com/news/242866/Iranian-armed-forces-pledge-to-defend-Palestine-Muslim-Ummah",
+    "title": "Iranian armed forces pledge to defend Palestine, Muslim Ummah",
+    "published": "2026-03-23T08:10:45+00:00"
   },
   "2c9135b16d0ba450e30830e6dd8774e56b9402fe9425aefd13a543a6533a4326": {
     "url": "https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks?traffic_source=rss",
@@ -703,50 +748,5 @@
     "url": "https://en.mehrnews.com/news/242850/210-children-martyred-by-US-Israel-since-start-of-Iran-war",
     "title": "210 children martyred by US, Israel since start of Iran war",
     "published": "2026-03-22T15:47:35+00:00"
-  },
-  "be0ac0d1ea1fe249d4e8f9fedc0950b4851583e80accbba8aebe4088c147bfa6": {
-    "url": "https://english.almanar.com.lb/article/41142/",
-    "title": "Hezbollah fighters targeted the Birkat Risha Israeli site opposite the border town of Yaroun with a rocket salvo: Military Media statement 40 - Al-Manar TV Lebanon",
-    "published": "2026-03-22T15:45:16+00:00"
-  },
-  "2517a68ca60320515d7e6cc56753acf6267dccdbb626e0dfa444e4ac4604e5fc": {
-    "url": "https://www.aljazeera.com/news/2026/3/22/iranian-authorities-taunt-us-israel-eu-amid-strikes-and-assassinations?traffic_source=rss",
-    "title": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations",
-    "published": "2026-03-22T15:25:01+00:00"
-  },
-  "25b3245077e6588212eb1029145d7da206567f9a83eb82fb90eb5da88710ce3c": {
-    "url": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss",
-    "title": "Trump\u2019s changing messages on Iran war: What does it say about US strategy?",
-    "published": "2026-03-22T14:51:27+00:00"
-  },
-  "f4ac71dc19b89de05c386275514daf7783e67231a33a56efe54f3c798a5d874a": {
-    "url": "thecradlemedia/55224",
-    "title": "Iran vs US: Deadline Looms, War Escalates. 48 hours to open Hormuz or face the fury of the US military.",
-    "published": "2026-03-22T14:40:13.677781+00:00"
-  },
-  "01911f507a7f6c042cfccf499d1a74aa5961761300828c194914f0f102d133a4": {
-    "url": "thecradlemedia/55232",
-    "title": "Israeli airpower strikes again! Watch as Al-Qasmieh Bridge gets reduced to ashes in a matter of seconds.",
-    "published": "2026-03-22T14:40:12.982372+00:00"
-  },
-  "6b511593adcb1ebd7a6f18824ea0fc85b3f16f4ede7e144a2aafc5f5a5809f2b": {
-    "url": "thecradlemedia/55233",
-    "title": "BREAKING: Iran's aggression meets its match! Watch as our forces take down Iranian missile threats in Tel Aviv!",
-    "published": "2026-03-22T14:39:41.537479+00:00"
-  },
-  "fa0abea7caa0b1bb9e4c7128cbdaf49a9e2af45ee025cbfb05b7f616bd92629f": {
-    "url": "thecradlemedia/55234",
-    "title": "ISRAEL STRIKES BACK: Qasmieh Bridge destroyed, Lebanon on lockdown. Civilians trapped, economy crippled.",
-    "published": "2026-03-22T14:39:14.411295+00:00"
-  },
-  "957e22e7165d50946ddabdeb23bdd8c2d5f92556500dc34b4fc6d10aa4d4b886": {
-    "url": "thecradlemedia/55236",
-    "title": "BREAKING: Israeli aggression soars as Jewish settlers unleash terror on Palestinian villages. War on Iran just a cover for homefront brutality.",
-    "published": "2026-03-22T14:38:38.711015+00:00"
-  },
-  "2679b862a94465a13f5651a8f2e23ee61cb173003e410c7503ee9710c58e89c7": {
-    "url": "https://en.mehrnews.com/news/242848/Iran-warns-of-harsh-response-if-its-power-plants-targeted",
-    "title": "Iran warns of harsh response if its power plants targeted",
-    "published": "2026-03-22T14:26:38+00:00"
   }
 }

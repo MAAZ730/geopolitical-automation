@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 997,
+  "total_calls": 1001,
   "tiers": {
-    "groq": 979,
+    "groq": 983,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-21T22:35:24.616682+00:00",
-      "tier": "groq",
-      "article": "State of emergency declared as Iranian missile hits Arad in southern Israel"
-    },
-    {
-      "timestamp": "2026-03-21T22:35:40.670867+00:00",
-      "tier": "groq",
-      "article": "At 14:00 on Saturday, 21/03/2026, the Islamic Resistance fighters will target a gathering of soldiers and vehicles of the Israeli enemy army at the occupied Khirbet Yaroun site (a Lebanese army site) in southern Lebanon with a qualitative missile: statement 35 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-21T22:35:57.446858+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Four buildings collapsed in Arad in the hypersonic missile fire from Iran - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-21T22:36:15.006943+00:00",
-      "tier": "groq",
-      "article": "At 17:20 on Saturday, 21/03/2026, Islamic Resistance fighters targeted a gathering of vehicles and soldiers of the Israeli enemy army in the Al-Maasara neighborhood of the border town of Maroun Al-Ras with artillery shells: statement 33 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-22T02:40:58.442225+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-24T05:32:56.623282+00:00",
       "tier": "groq",
       "article": "Iran Army launches drone attack on Israeli, American targets"
+    },
+    {
+      "timestamp": "2026-03-24T07:14:33.106393+00:00",
+      "tier": "groq",
+      "article": "Iranian armed forces pledge to defend Palestine, Muslim Ummah"
+    },
+    {
+      "timestamp": "2026-03-24T07:15:30.834235+00:00",
+      "tier": "groq",
+      "article": "Iran has not been initiator of war in region"
+    },
+    {
+      "timestamp": "2026-03-24T07:16:27.985796+00:00",
+      "tier": "groq",
+      "article": "Iran Rejects Trump\u2019s Claim, Confirms No Talks Held with US amid Ongoing War\u00a0 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-24T07:16:47.418165+00:00",
+      "tier": "groq",
+      "article": "Iran, Turkey FMs hold phone call on regional security"
     }
   ]
 }
