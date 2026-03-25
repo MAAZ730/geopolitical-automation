@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1069,
+  "total_calls": 1073,
   "tiers": {
-    "groq": 1051,
+    "groq": 1055,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-23T15:05:00.817287+00:00",
-      "tier": "groq",
-      "article": "Trump says Iran, US seeking \u2018deal\u2019 after he pauses strikes on power plants"
-    },
-    {
-      "timestamp": "2026-03-23T15:05:17.208584+00:00",
-      "tier": "groq",
-      "article": "\u2018Substantial evidence\u2019 of double-tap strike in killing of Hind Rajab"
-    },
-    {
-      "timestamp": "2026-03-23T15:05:33.567735+00:00",
-      "tier": "groq",
-      "article": "Israeli settlers rampage through West Bank towns for second night in a row"
-    },
-    {
-      "timestamp": "2026-03-23T15:05:49.858521+00:00",
-      "tier": "groq",
-      "article": "Iran: Trump Backed Down, and We Will Defend Ourselves Until Deterrence Is Achieved - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-23T17:04:34.673801+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-25T19:07:11.088035+00:00",
       "tier": "groq",
       "article": "Pentagon inks deal with BAE, Lockheed to quadruple THAAD seeker production"
+    },
+    {
+      "timestamp": "2026-03-25T20:48:44.602288+00:00",
+      "tier": "groq",
+      "article": "Anthropic\u2019s case against the Pentagon could open space for AI regulation"
+    },
+    {
+      "timestamp": "2026-03-25T20:49:00.905224+00:00",
+      "tier": "groq",
+      "article": "What\u2019s Iran\u2019s war strategy and what risks does it pose?"
+    },
+    {
+      "timestamp": "2026-03-25T20:49:17.083691+00:00",
+      "tier": "groq",
+      "article": "'There's no safety anymore': Palestinians warn of expanding settler violence in West Bank"
+    },
+    {
+      "timestamp": "2026-03-25T20:49:33.422937+00:00",
+      "tier": "groq",
+      "article": "War on Iran: What troops is the US moving to the Gulf?"
     }
   ]
 }
