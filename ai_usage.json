@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1073,
+  "total_calls": 1077,
   "tiers": {
-    "groq": 1055,
+    "groq": 1059,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-23T17:04:34.673801+00:00",
-      "tier": "groq",
-      "article": "Trump signals off-ramp in Iran war despite no \u2018regime change\u2019"
-    },
-    {
-      "timestamp": "2026-03-23T17:04:50.802932+00:00",
-      "tier": "groq",
-      "article": "Energy, water, bonds: What are Iran\u2019s targets if Trump hits power plants?"
-    },
-    {
-      "timestamp": "2026-03-23T17:05:07.268432+00:00",
-      "tier": "groq",
-      "article": "Israeli Military Gatherings across South Lebanon Border Area under Unstoppable Hezbollah Fire - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-23T17:05:28.364233+00:00",
-      "tier": "groq",
-      "article": "Has Iran brought down an \u2018unkillable\u2019 US F-35 jet?"
-    },
     {
       "timestamp": "2026-03-23T19:05:41.033413+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-25T20:49:33.422937+00:00",
       "tier": "groq",
       "article": "War on Iran: What troops is the US moving to the Gulf?"
+    },
+    {
+      "timestamp": "2026-03-25T22:46:23.118898+00:00",
+      "tier": "groq",
+      "article": "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean"
+    },
+    {
+      "timestamp": "2026-03-25T22:46:39.522124+00:00",
+      "tier": "groq",
+      "article": "Explosions and smoke seen as Iranian missiles hit Israel"
+    },
+    {
+      "timestamp": "2026-03-25T22:46:55.795283+00:00",
+      "tier": "groq",
+      "article": "Video shows Israeli strike hitting displacement camp in Gaza"
+    },
+    {
+      "timestamp": "2026-03-25T22:47:12.396913+00:00",
+      "tier": "groq",
+      "article": "Democrat alleges Trump \u2018sold out\u2019 US security in classified documents case"
     }
   ]
 }
