@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1041,
+  "total_calls": 1045,
   "tiers": {
-    "groq": 1023,
+    "groq": 1027,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-22T22:36:11.678894+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters launched an aerial attack using a squadron of strike drones on Israeli soldiers advancing toward Khallat al-Bustan, southeast of the border town of Maroun Al-Ras, achieving confirmed hits: Military Media Statement 60 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-22T22:36:30.845771+00:00",
-      "tier": "groq",
-      "article": "Trump sends US immigration agents to airports as shutdown chaos deepens"
-    },
-    {
-      "timestamp": "2026-03-22T22:36:47.223491+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted enemy artillery positions in Al-Za\u2019oura with a squadron of attack drones: Military Media Statement 62 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-22T22:37:05.774465+00:00",
-      "tier": "groq",
-      "article": "Did Israel miscalculate Iranian military capabilities?"
-    },
     {
       "timestamp": "2026-03-23T02:41:24.273297+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-25T05:30:31.868972+00:00",
       "tier": "groq",
       "article": "What we know about the US\u2019s 15-point plan Iran proposal"
+    },
+    {
+      "timestamp": "2026-03-25T07:14:53.616494+00:00",
+      "tier": "groq",
+      "article": "US-Israel war on Iran: What\u2019s happening on day 26 of attacks?"
+    },
+    {
+      "timestamp": "2026-03-25T07:15:09.785789+00:00",
+      "tier": "groq",
+      "article": "Netherlands plans $1.1 billion rush order for extra Patriot system"
+    },
+    {
+      "timestamp": "2026-03-25T07:15:26.286546+00:00",
+      "tier": "groq",
+      "article": "As Iran war rocks global economy, Global South bears brunt of fallout"
+    },
+    {
+      "timestamp": "2026-03-25T07:15:42.442653+00:00",
+      "tier": "groq",
+      "article": "Iran says \u2018non-hostile\u2019 ships can pass safely through Strait of Hormuz"
     }
   ]
 }
