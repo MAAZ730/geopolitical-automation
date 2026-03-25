@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1045,
+  "total_calls": 1049,
   "tiers": {
-    "groq": 1027,
+    "groq": 1031,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-23T02:41:24.273297+00:00",
-      "tier": "groq",
-      "article": "Israeli newspaper Yediot Aharonot reports extensive damage in the occupied city of \u201cPetah Tikva,\u201d east of \u201cTel Aviv,\u201d after cluster bomb fragments fell - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-23T02:41:41.214249+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s Zelenskyy urges allies to pressure Russia ahead of US talks"
-    },
-    {
-      "timestamp": "2026-03-23T02:41:57.419128+00:00",
-      "tier": "groq",
-      "article": "The Gaza Tribunal: A question of complicity"
-    },
-    {
-      "timestamp": "2026-03-23T02:42:13.593049+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s changing messages on Iran war: What does it say about US strategy?"
-    },
     {
       "timestamp": "2026-03-23T05:46:54.758575+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-25T07:15:42.442653+00:00",
       "tier": "groq",
       "article": "Iran says \u2018non-hostile\u2019 ships can pass safely through Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-03-25T09:06:34.823278+00:00",
+      "tier": "groq",
+      "article": "Iraqi Defense Ministry: 7 of our fighters martyred, 13 others injured in a criminal escalation that requires accountability - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-25T09:06:51.690551+00:00",
+      "tier": "groq",
+      "article": "Israeli newspaper Maariv: Evacuation operations begin in northern settlements after the army pledged not to evacuate them again - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-25T09:07:08.442514+00:00",
+      "tier": "groq",
+      "article": "Is Iran\u2019s negotiating position stronger than when US-Israeli war started?"
+    },
+    {
+      "timestamp": "2026-03-25T09:07:24.442656+00:00",
+      "tier": "groq",
+      "article": "Dreams of survival: How war has restructured Gaza\u2019s job market"
     }
   ]
 }
