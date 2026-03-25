@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1049,
+  "total_calls": 1053,
   "tiers": {
-    "groq": 1031,
+    "groq": 1035,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-23T05:46:54.758575+00:00",
-      "tier": "groq",
-      "article": "210 children martyred by US, Israel since start of Iran war"
-    },
-    {
-      "timestamp": "2026-03-23T05:47:52.971625+00:00",
-      "tier": "groq",
-      "article": "Iran warns enemy against attacks on infrastructures"
-    },
-    {
-      "timestamp": "2026-03-23T05:48:50.543026+00:00",
-      "tier": "groq",
-      "article": "Brothers search rubble for missing sibling under Tehran rubble after strike"
-    },
-    {
-      "timestamp": "2026-03-23T05:49:06.734431+00:00",
-      "tier": "groq",
-      "article": "Expecting restraint from Iran unrealistic: Baghaei"
-    },
     {
       "timestamp": "2026-03-23T07:21:51.248870+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-25T09:07:24.442656+00:00",
       "tier": "groq",
       "article": "Dreams of survival: How war has restructured Gaza\u2019s job market"
+    },
+    {
+      "timestamp": "2026-03-25T10:58:20.533203+00:00",
+      "tier": "groq",
+      "article": "Israeli Aggression Continues: Lebanon\u2019s Health Ministry Condemns Killing of Two Paramedics in Airstrike - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-25T10:58:37.764486+00:00",
+      "tier": "groq",
+      "article": "Haaretz reports sharp uptick in incoming fire toward \u2018Israel, with more Iranian missiles launched over the past seven days than in the previous week, alongside a noticeable escalation in Hezbollah\u2019s rocket and missile barrages - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-25T10:58:54.549215+00:00",
+      "tier": "groq",
+      "article": "Indra teams up with Hanwha for Spain\u2019s $5.3 billion artillery order"
+    },
+    {
+      "timestamp": "2026-03-25T10:59:10.515051+00:00",
+      "tier": "groq",
+      "article": "US Democrats condemn war on Iran as Senate resolution fails"
     }
   ]
 }
