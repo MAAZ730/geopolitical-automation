@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1053,
+  "total_calls": 1057,
   "tiers": {
-    "groq": 1035,
+    "groq": 1039,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-23T07:21:51.248870+00:00",
-      "tier": "groq",
-      "article": "4,564 Zionists injured since war began"
-    },
-    {
-      "timestamp": "2026-03-23T07:22:52.646663+00:00",
-      "tier": "groq",
-      "article": "Immense damage seen in Iran\u2019s streets after air strikes"
-    },
-    {
-      "timestamp": "2026-03-23T07:23:08.836392+00:00",
-      "tier": "groq",
-      "article": "Hormuz Strait remains open to every nation except enemies"
-    },
-    {
-      "timestamp": "2026-03-23T07:24:06.017138+00:00",
-      "tier": "groq",
-      "article": "Iran warns of harsh response if its power plants targeted"
-    },
     {
       "timestamp": "2026-03-23T09:07:02.958237+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-25T10:59:10.515051+00:00",
       "tier": "groq",
       "article": "US Democrats condemn war on Iran as Senate resolution fails"
+    },
+    {
+      "timestamp": "2026-03-25T13:24:34.122280+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Resistance Strikes Israeli Enemy Hard: Epic Clashes and Relentless Rocket Attacks - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-25T13:24:52.833548+00:00",
+      "tier": "groq",
+      "article": "Iran army targets US carrier with Qadir cruise missiles"
+    },
+    {
+      "timestamp": "2026-03-25T13:25:49.759195+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian, Macron discuss de-escalation of tension in region"
+    },
+    {
+      "timestamp": "2026-03-25T13:26:46.617450+00:00",
+      "tier": "groq",
+      "article": "Iranian attacks amount to violation of sovereignty, Gulf states tell UN"
     }
   ]
 }
