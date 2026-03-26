@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1117,
+  "total_calls": 1121,
   "tiers": {
-    "groq": 1099,
+    "groq": 1103,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-24T17:09:14.829428+00:00",
-      "tier": "groq",
-      "article": "Operation Eaten Straw: Hezbollah Executes Coordinated Hits on Key Israeli Targets - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-24T17:09:34.461047+00:00",
-      "tier": "groq",
-      "article": "Israeli strike hits Tyre during Al Jazeera report"
-    },
-    {
-      "timestamp": "2026-03-24T17:09:50.921246+00:00",
-      "tier": "groq",
-      "article": "After identifying Israeli soldiers inside a house in Al-Qouzah, Hezbollah fighters struck with a guided missile, achieving a direct hit: Military Media statement 35 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-24T17:10:09.378534+00:00",
-      "tier": "groq",
-      "article": "The \u2018simple maneuver\u2019 of opening Hormuz strait carries great risks, analysts say"
-    },
     {
       "timestamp": "2026-03-24T19:13:46.765882+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-26T20:44:08.589150+00:00",
       "tier": "groq",
       "article": "Israel sends more troops into southern Lebanon as ground invasion expands"
+    },
+    {
+      "timestamp": "2026-03-26T22:40:11.726672+00:00",
+      "tier": "groq",
+      "article": "Al Jazeera visits Iran\u2019s UNESCO-listed palace damaged by war"
+    },
+    {
+      "timestamp": "2026-03-26T22:40:27.899814+00:00",
+      "tier": "groq",
+      "article": "Trump postpones US strikes on Iranian power grid to April 6 amid talks"
+    },
+    {
+      "timestamp": "2026-03-26T22:40:44.227766+00:00",
+      "tier": "groq",
+      "article": "Iran placing messages on missiles as war of narratives intensifies"
+    },
+    {
+      "timestamp": "2026-03-26T22:41:00.145556+00:00",
+      "tier": "groq",
+      "article": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise"
     }
   ]
 }
