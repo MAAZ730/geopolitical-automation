@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1101,
+  "total_calls": 1105,
   "tiers": {
-    "groq": 1083,
+    "groq": 1087,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-24T09:03:13.069357+00:00",
-      "tier": "groq",
-      "article": "Tel Aviv: Casualties, Extensive Damage in Largest Iranian Missile Attack Since War Outbreak - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-24T09:03:32.311598+00:00",
-      "tier": "groq",
-      "article": "Israeli Magen David Adom ambulance service reports 6 Israelis injured in Iranian missile attack on Tel Aviv - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-24T09:03:50.257715+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent reports second Israeli strike on Dallafeh Bridge which links villages in southern Lebanon to Western Bekaa - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-24T09:04:06.599595+00:00",
-      "tier": "groq",
-      "article": "Iran FM urges Russia, China to block US actions at UNSC"
-    },
     {
       "timestamp": "2026-03-24T11:00:13.657376+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-26T13:29:01.082207+00:00",
       "tier": "groq",
       "article": "Iranian Intelligence arrests 39 mercenaries in Tehran"
+    },
+    {
+      "timestamp": "2026-03-26T15:14:09.068216+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted an Israeli helicopter in the skies over Kfarkela with an air defense missile, forcing it to retreat: Hezbollah Military Media statement no. 40 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T15:14:26.199721+00:00",
+      "tier": "groq",
+      "article": "Israeli media: The latest missile and drone launches by Iran and Hezbollah in Lebanon were carried out simultaneously - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T15:14:43.744945+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Sirens sound in central \u2018Israel\u2019 as a new wave of missiles launched from Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T15:15:00.847724+00:00",
+      "tier": "groq",
+      "article": "Cuban president says Raul Castro involved in US talks amid oil blockade"
     }
   ]
 }
