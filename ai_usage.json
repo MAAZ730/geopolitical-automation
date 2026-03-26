@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1077,
+  "total_calls": 1081,
   "tiers": {
-    "groq": 1059,
+    "groq": 1063,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-23T19:05:41.033413+00:00",
-      "tier": "groq",
-      "article": "How the Iran war is about to hit your wallet"
-    },
-    {
-      "timestamp": "2026-03-23T19:05:57.105615+00:00",
-      "tier": "groq",
-      "article": "UK PM Starmer says no threat from Iran on Britain, calls for de-escalation"
-    },
-    {
-      "timestamp": "2026-03-23T19:06:13.126761+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance: Our fighters targeted the air defense system in the settlement of Ma\u2019alot-Tarshiha with a swarm of attack drones - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-23T19:06:30.515570+00:00",
-      "tier": "groq",
-      "article": "How Israel is reacting to Trump\u2019s  \u2018de-escalation\u2019 with Iran"
-    },
     {
       "timestamp": "2026-03-23T20:50:16.425457+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-25T22:47:12.396913+00:00",
       "tier": "groq",
       "article": "Democrat alleges Trump \u2018sold out\u2019 US security in classified documents case"
+    },
+    {
+      "timestamp": "2026-03-26T02:45:15.433704+00:00",
+      "tier": "groq",
+      "article": "Pentagon announces major surge in missile production "
+    },
+    {
+      "timestamp": "2026-03-26T02:45:31.440569+00:00",
+      "tier": "groq",
+      "article": "Further to the reports of clashes in the town of Taybeh, the height of Al-Muhaysibat, and at the entrance to the town of Qantara, at 22:10 on Wednesday, March 25, 2026, the Islamic Resistance fighters targeted the forces brought in to withdraw the destroyed vehicles and evacuate the wounded with rocket salvos and artillery shells: statement 79 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T02:45:49.034916+00:00",
+      "tier": "groq",
+      "article": "US tells Iran to accept defeat or Trump will \u2018unleash hell\u2019"
+    },
+    {
+      "timestamp": "2026-03-26T02:46:05.088854+00:00",
+      "tier": "groq",
+      "article": "Philippines farmers feeling the pinch of the war on Iran"
     }
   ]
 }
