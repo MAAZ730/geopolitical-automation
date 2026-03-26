@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1093,
+  "total_calls": 1097,
   "tiers": {
-    "groq": 1075,
+    "groq": 1079,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-24T05:30:04.433887+00:00",
-      "tier": "groq",
-      "article": "IRGC launches 78th wave of Operation True Promise 4"
-    },
-    {
-      "timestamp": "2026-03-24T05:31:02.207745+00:00",
-      "tier": "groq",
-      "article": "Disruption in Strait of Hormuz result of US actions: Araghchi"
-    },
-    {
-      "timestamp": "2026-03-24T05:31:59.394222+00:00",
-      "tier": "groq",
-      "article": "Financial institutions funding US military legitimate targets"
-    },
-    {
-      "timestamp": "2026-03-24T05:32:56.623282+00:00",
-      "tier": "groq",
-      "article": "Iran Army launches drone attack on Israeli, American targets"
-    },
     {
       "timestamp": "2026-03-24T07:14:33.106393+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-26T09:08:30.202277+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters launched a squadron of attack drones at Iron Dome systems at the Poriya base, west of Lake Tiberias: Hezbollah Military Media statement no. 26 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T11:32:53.337244+00:00",
+      "tier": "groq",
+      "article": "IRGC Launches 82nd Wave of Strikes on US-Israeli Assets with Drones, Missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T11:33:13.064671+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Islamic Resistance fighters carried out more strikes on Israeli targets including Liman Barracks and Krayot area in Haifa: statements no 30, 31 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T11:33:29.683017+00:00",
+      "tier": "groq",
+      "article": "Iranian naval commander Alireza Tangsiri killed in attack, Israel says"
+    },
+    {
+      "timestamp": "2026-03-26T11:33:45.833092+00:00",
+      "tier": "groq",
+      "article": "Hezbollah leader vows continuation of ops. against enemy"
     }
   ]
 }
