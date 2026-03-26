@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1085,
+  "total_calls": 1089,
   "tiers": {
-    "groq": 1067,
+    "groq": 1071,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-23T22:42:37.638779+00:00",
-      "tier": "groq",
-      "article": "IRGC Announces 77th Wave of True Promise 4, Vows Relentless Strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-23T22:42:57.309289+00:00",
-      "tier": "groq",
-      "article": "Moment missile strikes shortly after Israeli president\u2019s visit"
-    },
-    {
-      "timestamp": "2026-03-23T22:43:13.689654+00:00",
-      "tier": "groq",
-      "article": "The US Army is already ditching its most powerful laser weapon yet"
-    },
-    {
-      "timestamp": "2026-03-23T22:43:29.967976+00:00",
-      "tier": "groq",
-      "article": "Have Israel, the US and Iran violated international law?"
-    },
     {
       "timestamp": "2026-03-24T02:33:20.815949+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-26T05:49:40.622185+00:00",
       "tier": "groq",
       "article": "Iran FM hails German\u2019s president for condemning aggression"
+    },
+    {
+      "timestamp": "2026-03-26T07:20:37.307631+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance strikes the 7th Merkava tank in Qantara town, South Lebanon, with a guided missile: statement 13 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T07:20:54.613895+00:00",
+      "tier": "groq",
+      "article": "UN approves Iran request to investigate Minab school massacre"
+    },
+    {
+      "timestamp": "2026-03-26T07:21:52.544022+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a Merkava tank near the reservoir in the town of Qantara with a guided missile, achieving a confirmed hit. This brings the number of tanks targeted in the town today to 8: statement 16 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T07:22:09.406855+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz not closed: Iran FM Araghchi"
     }
   ]
 }
