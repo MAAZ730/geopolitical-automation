@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1105,
+  "total_calls": 1109,
   "tiers": {
-    "groq": 1087,
+    "groq": 1091,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-24T11:00:13.657376+00:00",
-      "tier": "groq",
-      "article": "Lebanese Ministry of Public Health reports three Lebanese martyred, including a child, and four injured in an Israeli airstrike on the town of Bchamoun in Aley District - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-24T11:00:31.798632+00:00",
-      "tier": "groq",
-      "article": "Where do reported US-Iran \u2018negotiations\u2019 leave Israel?"
-    },
-    {
-      "timestamp": "2026-03-24T11:00:47.747658+00:00",
-      "tier": "groq",
-      "article": "Drone footage shows aftermath of Iranian missile attack in Tel Aviv"
-    },
-    {
-      "timestamp": "2026-03-24T11:01:03.666812+00:00",
-      "tier": "groq",
-      "article": "Iran, Oman FMs discuss Strait of Hormuz developments"
-    },
     {
       "timestamp": "2026-03-24T13:25:11.515372+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-26T15:15:00.847724+00:00",
       "tier": "groq",
       "article": "Cuban president says Raul Castro involved in US talks amid oil blockade"
+    },
+    {
+      "timestamp": "2026-03-26T17:12:34.293101+00:00",
+      "tier": "groq",
+      "article": "Pentagon reportedly weighs diverting Ukraine military aid to Middle East"
+    },
+    {
+      "timestamp": "2026-03-26T17:12:50.547102+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters missile salvos at Nahariya and Ntoa settlements as well as IOF gathering in Debl town, South Lebanon: Military Media statements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-26T17:13:07.685782+00:00",
+      "tier": "groq",
+      "article": "MBDA to double Aster air-defense missile output in 2026"
+    },
+    {
+      "timestamp": "2026-03-26T17:13:23.899267+00:00",
+      "tier": "groq",
+      "article": "France to boost\u00a0munitions\u00a0spending by nearly $10 billion through 2030"
     }
   ]
 }
