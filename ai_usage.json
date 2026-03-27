@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1161,
+  "total_calls": 1165,
   "tiers": {
-    "groq": 1143,
+    "groq": 1147,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-25T17:13:09.091425+00:00",
-      "tier": "groq",
-      "article": "Deadly US attack on Iraqi military base sparks condemnation"
-    },
-    {
-      "timestamp": "2026-03-25T17:13:25.277360+00:00",
-      "tier": "groq",
-      "article": "Is war turning Tehran\u2019s air into a chemical weapon?"
-    },
-    {
-      "timestamp": "2026-03-25T17:13:41.454212+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy soldiers and vehicles in the Taybeh project for the second time with a drone strike: statement 55 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-25T17:13:58.523462+00:00",
-      "tier": "groq",
-      "article": "Estonia, Latvia report drone incursions from Russian airspace"
-    },
     {
       "timestamp": "2026-03-25T19:06:20.458050+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-27T20:49:20.502442+00:00",
       "tier": "groq",
       "article": "Norway to add more than $11bn to defence budget over 10 years"
+    },
+    {
+      "timestamp": "2026-03-27T22:42:37.978242+00:00",
+      "tier": "groq",
+      "article": "Israel launches strikes on nuclear sites as Iran warns of retaliation"
+    },
+    {
+      "timestamp": "2026-03-27T22:42:54.161796+00:00",
+      "tier": "groq",
+      "article": "US Palestinian activist says FBI foiled assassination plot against her"
+    },
+    {
+      "timestamp": "2026-03-27T22:43:10.356925+00:00",
+      "tier": "groq",
+      "article": "Ukraine offers Gulf allies drone defense in bid for scarce Patriot missiles"
+    },
+    {
+      "timestamp": "2026-03-27T22:43:26.548140+00:00",
+      "tier": "groq",
+      "article": "US diplomat Marco Rubio denounces settler violence, tolls in Hormuz strait"
     }
   ]
 }
