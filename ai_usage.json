@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1145,
+  "total_calls": 1149,
   "tiers": {
-    "groq": 1127,
+    "groq": 1131,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-25T09:06:34.823278+00:00",
-      "tier": "groq",
-      "article": "Iraqi Defense Ministry: 7 of our fighters martyred, 13 others injured in a criminal escalation that requires accountability - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-25T09:06:51.690551+00:00",
-      "tier": "groq",
-      "article": "Israeli newspaper Maariv: Evacuation operations begin in northern settlements after the army pledged not to evacuate them again - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-25T09:07:08.442514+00:00",
-      "tier": "groq",
-      "article": "Is Iran\u2019s negotiating position stronger than when US-Israeli war started?"
-    },
-    {
-      "timestamp": "2026-03-25T09:07:24.442656+00:00",
-      "tier": "groq",
-      "article": "Dreams of survival: How war has restructured Gaza\u2019s job market"
-    },
     {
       "timestamp": "2026-03-25T10:58:20.533203+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-27T13:18:39.465819+00:00",
       "tier": "groq",
       "article": "Over a million Iranian troops organized for ground battle"
+    },
+    {
+      "timestamp": "2026-03-27T15:00:11.218965+00:00",
+      "tier": "groq",
+      "article": "UN human rights chief calls on US to conclude probe into Iran school strike"
+    },
+    {
+      "timestamp": "2026-03-27T15:00:27.576323+00:00",
+      "tier": "groq",
+      "article": "Is Trump's pause on attacking Iranian energy for diplomacy or an escalation?"
+    },
+    {
+      "timestamp": "2026-03-27T15:00:43.688251+00:00",
+      "tier": "groq",
+      "article": "Wildlife killed, reefs damaged in \u2018active\u2019 Gulf of Mexico oil spill"
+    },
+    {
+      "timestamp": "2026-03-27T15:00:59.971054+00:00",
+      "tier": "groq",
+      "article": "What is LNG and what is it used for?"
     }
   ]
 }
