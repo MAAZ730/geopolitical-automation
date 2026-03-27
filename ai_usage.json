@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1121,
+  "total_calls": 1125,
   "tiers": {
-    "groq": 1103,
+    "groq": 1107,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-24T19:13:46.765882+00:00",
-      "tier": "groq",
-      "article": "Israeli defences questioned as Iran continues to cause damage"
-    },
-    {
-      "timestamp": "2026-03-24T19:14:03.663246+00:00",
-      "tier": "groq",
-      "article": "Mothers of the Plaza de Mayo reflect on 50th anniversary of Argentina coup"
-    },
-    {
-      "timestamp": "2026-03-24T19:14:20.003334+00:00",
-      "tier": "groq",
-      "article": "UN experts urge Israel to free Gaza doctor amid reports of \u2018severe torture\u2019"
-    },
-    {
-      "timestamp": "2026-03-24T19:14:36.133451+00:00",
-      "tier": "groq",
-      "article": "Why has India arrested US, Ukrainian nationals under \u2018anti-terror\u2019 laws?"
-    },
     {
       "timestamp": "2026-03-24T20:52:00.481405+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-26T22:41:00.145556+00:00",
       "tier": "groq",
       "article": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise"
+    },
+    {
+      "timestamp": "2026-03-27T02:47:33.770315+00:00",
+      "tier": "groq",
+      "article": "At least nine people dead, dozens missing as boat sinks off Djibouti coast"
+    },
+    {
+      "timestamp": "2026-03-27T02:47:50.189228+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted gatherings of soldiers and vehicles of the Israeli enemy army in the town square of Qantara and its surroundings with waves of rocket salvos and artillery shells: statement 87 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-27T02:48:07.812626+00:00",
+      "tier": "groq",
+      "article": "Why Iraq is the most fragile front in the US-Israel war on Iran"
+    },
+    {
+      "timestamp": "2026-03-27T02:48:23.973343+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted Israeli enemy artillery positions in Ma\u2019aliya, west of Ma\u2019alot-Tarshiha settlement, with a swarm of attack drones: statement 86 - Al-Manar TV Lebanon"
     }
   ]
 }
