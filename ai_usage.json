@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1137,
+  "total_calls": 1141,
   "tiers": {
-    "groq": 1119,
+    "groq": 1123,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-25T05:28:19.035850+00:00",
-      "tier": "groq",
-      "article": "Over 5,000 Zionists injured amid Iran war"
-    },
-    {
-      "timestamp": "2026-03-25T05:29:17.173721+00:00",
-      "tier": "groq",
-      "article": "Armed forces to continue to defend nation until full victory"
-    },
-    {
-      "timestamp": "2026-03-25T05:30:15.539292+00:00",
-      "tier": "groq",
-      "article": "Parsi: No deal \u2018\u2019without both sides giving something to the other\u2019"
-    },
-    {
-      "timestamp": "2026-03-25T05:30:31.868972+00:00",
-      "tier": "groq",
-      "article": "What we know about the US\u2019s 15-point plan Iran proposal"
-    },
     {
       "timestamp": "2026-03-25T07:14:53.616494+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-27T09:05:25.948523+00:00",
       "tier": "groq",
       "article": "Iran calls for regional unity against vicious Israeli plots"
+    },
+    {
+      "timestamp": "2026-03-27T10:58:55.699819+00:00",
+      "tier": "groq",
+      "article": "Hezbollah strikes 94 Israeli military positions in one day"
+    },
+    {
+      "timestamp": "2026-03-27T10:59:53.941969+00:00",
+      "tier": "groq",
+      "article": "\u2018Nowhere safe\u2019: Deaths, explosions reported in several areas of Iran"
+    },
+    {
+      "timestamp": "2026-03-27T11:00:10.075515+00:00",
+      "tier": "groq",
+      "article": "IRGC Launches Large-Scale Missile and Drone Strikes on Israeli, US Targets in Region - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-27T11:00:27.859330+00:00",
+      "tier": "groq",
+      "article": "Iran detains 14 operatives linked to US-Zionist enemy"
     }
   ]
 }
