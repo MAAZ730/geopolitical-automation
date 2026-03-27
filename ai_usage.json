@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1149,
+  "total_calls": 1153,
   "tiers": {
-    "groq": 1131,
+    "groq": 1135,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-25T10:58:20.533203+00:00",
-      "tier": "groq",
-      "article": "Israeli Aggression Continues: Lebanon\u2019s Health Ministry Condemns Killing of Two Paramedics in Airstrike - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-25T10:58:37.764486+00:00",
-      "tier": "groq",
-      "article": "Haaretz reports sharp uptick in incoming fire toward \u2018Israel, with more Iranian missiles launched over the past seven days than in the previous week, alongside a noticeable escalation in Hezbollah\u2019s rocket and missile barrages - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-25T10:58:54.549215+00:00",
-      "tier": "groq",
-      "article": "Indra teams up with Hanwha for Spain\u2019s $5.3 billion artillery order"
-    },
-    {
-      "timestamp": "2026-03-25T10:59:10.515051+00:00",
-      "tier": "groq",
-      "article": "US Democrats condemn war on Iran as Senate resolution fails"
-    },
     {
       "timestamp": "2026-03-25T13:24:34.122280+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-27T15:00:59.971054+00:00",
       "tier": "groq",
       "article": "What is LNG and what is it used for?"
+    },
+    {
+      "timestamp": "2026-03-27T17:05:03.124623+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted a gathering of Israeli soldiers east of the Sa\u2019sa\u2019 settlement with a drone strike, another in Al-Bayyada with a rocket barrage: Military Media Statements 27, 28 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-27T17:05:22.759462+00:00",
+      "tier": "groq",
+      "article": "Japan sprinkles fresh missiles across its islands to fend off would-be attackers"
+    },
+    {
+      "timestamp": "2026-03-27T17:05:39.250290+00:00",
+      "tier": "groq",
+      "article": "US uses hundreds of Tomahawk missiles on Iran, alarming some at Pentagon"
+    },
+    {
+      "timestamp": "2026-03-27T17:05:55.363616+00:00",
+      "tier": "groq",
+      "article": "Iran expert says US ground invasion could cause a global economic meltdown"
     }
   ]
 }
