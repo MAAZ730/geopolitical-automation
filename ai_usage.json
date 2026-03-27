@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1129,
+  "total_calls": 1133,
   "tiers": {
-    "groq": 1111,
+    "groq": 1115,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-24T22:42:00.423817+00:00",
-      "tier": "groq",
-      "article": "Iraq to summon US, Iran envoys over deadly attacks: PM\u2019s office"
-    },
-    {
-      "timestamp": "2026-03-24T22:42:16.875730+00:00",
-      "tier": "groq",
-      "article": "Deadly Iran school strike casts shadow over Pentagon\u2019s AI targeting push"
-    },
-    {
-      "timestamp": "2026-03-24T22:42:33.256866+00:00",
-      "tier": "groq",
-      "article": "Building collapses after Iranian missile strike on Israel"
-    },
-    {
-      "timestamp": "2026-03-24T22:42:49.525650+00:00",
-      "tier": "groq",
-      "article": "Chinese corvette recently trained its weapons on Philippine frigate, officials confirm"
-    },
     {
       "timestamp": "2026-03-25T02:38:10.014736+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-27T05:50:09.340395+00:00",
       "tier": "groq",
       "article": "Iran committed to abiding by UN Charter, Intl. obligations"
+    },
+    {
+      "timestamp": "2026-03-27T07:16:46.289157+00:00",
+      "tier": "groq",
+      "article": "UNSC to hold meeting on attacks on Iran civilian sites"
+    },
+    {
+      "timestamp": "2026-03-27T07:17:42.874781+00:00",
+      "tier": "groq",
+      "article": "Iran asks regional states to report whereabouts of US troops"
+    },
+    {
+      "timestamp": "2026-03-27T07:18:40.728850+00:00",
+      "tier": "groq",
+      "article": "Playing with fire in the Persian Gulf: Bahrain must beware"
+    },
+    {
+      "timestamp": "2026-03-27T07:19:37.969130+00:00",
+      "tier": "groq",
+      "article": "US-Israel war on Iran: What\u2019s happening on day 28 of attacks?"
     }
   ]
 }
