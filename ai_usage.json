@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1141,
+  "total_calls": 1145,
   "tiers": {
-    "groq": 1123,
+    "groq": 1127,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-25T07:14:53.616494+00:00",
-      "tier": "groq",
-      "article": "US-Israel war on Iran: What\u2019s happening on day 26 of attacks?"
-    },
-    {
-      "timestamp": "2026-03-25T07:15:09.785789+00:00",
-      "tier": "groq",
-      "article": "Netherlands plans $1.1 billion rush order for extra Patriot system"
-    },
-    {
-      "timestamp": "2026-03-25T07:15:26.286546+00:00",
-      "tier": "groq",
-      "article": "As Iran war rocks global economy, Global South bears brunt of fallout"
-    },
-    {
-      "timestamp": "2026-03-25T07:15:42.442653+00:00",
-      "tier": "groq",
-      "article": "Iran says \u2018non-hostile\u2019 ships can pass safely through Strait of Hormuz"
-    },
     {
       "timestamp": "2026-03-25T09:06:34.823278+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-27T11:00:27.859330+00:00",
       "tier": "groq",
       "article": "Iran detains 14 operatives linked to US-Zionist enemy"
+    },
+    {
+      "timestamp": "2026-03-27T13:17:42.938953+00:00",
+      "tier": "groq",
+      "article": "Israeli Aggression Strikes Near Beirut Airport, Residential Building Damaged - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-27T13:18:02.215015+00:00",
+      "tier": "groq",
+      "article": "Palestinian man killed as death toll from West Bank settler violence climbs"
+    },
+    {
+      "timestamp": "2026-03-27T13:18:18.425295+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Fighters Engage Israeli Forces, Hunt Down Tanks Amid Continued Rocket Barrages - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-27T13:18:39.465819+00:00",
+      "tier": "groq",
+      "article": "Over a million Iranian troops organized for ground battle"
     }
   ]
 }
