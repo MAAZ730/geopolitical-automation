@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1169,
+  "total_calls": 1173,
   "tiers": {
-    "groq": 1151,
+    "groq": 1155,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-25T20:48:44.602288+00:00",
-      "tier": "groq",
-      "article": "Anthropic\u2019s case against the Pentagon could open space for AI regulation"
-    },
-    {
-      "timestamp": "2026-03-25T20:49:00.905224+00:00",
-      "tier": "groq",
-      "article": "What\u2019s Iran\u2019s war strategy and what risks does it pose?"
-    },
-    {
-      "timestamp": "2026-03-25T20:49:17.083691+00:00",
-      "tier": "groq",
-      "article": "'There's no safety anymore': Palestinians warn of expanding settler violence in West Bank"
-    },
-    {
-      "timestamp": "2026-03-25T20:49:33.422937+00:00",
-      "tier": "groq",
-      "article": "War on Iran: What troops is the US moving to the Gulf?"
-    },
     {
       "timestamp": "2026-03-25T22:46:23.118898+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-28T02:38:22.634510+00:00",
       "tier": "groq",
       "article": "US Space Command provides update on phased headquarters relocation to Alabama"
+    },
+    {
+      "timestamp": "2026-03-28T05:28:05.830036+00:00",
+      "tier": "groq",
+      "article": "How mothers raise newborn babies during Israel\u2019s offensive in Lebanon"
+    },
+    {
+      "timestamp": "2026-03-28T05:28:22.118649+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes gathering of American terrorists in Kuwait"
+    },
+    {
+      "timestamp": "2026-03-28T05:29:20.033868+00:00",
+      "tier": "groq",
+      "article": "Enemy\u2019s warplanes attack nuclear sites in Yazd, Arak"
+    },
+    {
+      "timestamp": "2026-03-28T05:30:19.625023+00:00",
+      "tier": "groq",
+      "article": "Iran launches 83rd wave of Operation True Promise 4"
     }
   ]
 }
