@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1205,
+  "total_calls": 1209,
   "tiers": {
-    "groq": 1187,
+    "groq": 1191,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-26T17:12:34.293101+00:00",
-      "tier": "groq",
-      "article": "Pentagon reportedly weighs diverting Ukraine military aid to Middle East"
-    },
-    {
-      "timestamp": "2026-03-26T17:12:50.547102+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters missile salvos at Nahariya and Ntoa settlements as well as IOF gathering in Debl town, South Lebanon: Military Media statements - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-26T17:13:07.685782+00:00",
-      "tier": "groq",
-      "article": "MBDA to double Aster air-defense missile output in 2026"
-    },
-    {
-      "timestamp": "2026-03-26T17:13:23.899267+00:00",
-      "tier": "groq",
-      "article": "France to boost\u00a0munitions\u00a0spending by nearly $10 billion through 2030"
-    },
     {
       "timestamp": "2026-03-26T19:18:31.814813+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-28T20:40:08.497610+00:00",
       "tier": "groq",
       "article": "Hezbollah fighters struck an Israeli occupation army force in a house in Al-Bayyada with an attack drone, scoring a direct hit, and followed up by targeting the arriving evacuation team with rockets and artillery: Military Media Statement 18 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-28T22:37:17.440852+00:00",
+      "tier": "groq",
+      "article": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike"
+    },
+    {
+      "timestamp": "2026-03-28T22:37:33.448402+00:00",
+      "tier": "groq",
+      "article": "Kuwait airport hit by Iranian drone strikes"
+    },
+    {
+      "timestamp": "2026-03-28T22:37:49.803747+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters struck an Israeli army force inside two houses in the southern town of Al-Qantara southern with guided missiles, scoring direct hits: Military Media Statement 27 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-28T22:38:07.963989+00:00",
+      "tier": "groq",
+      "article": "Palestine Action supporters arrested as London\u2019s Met Police reverse policy"
     }
   ]
 }
