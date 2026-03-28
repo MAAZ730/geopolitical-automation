@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1173,
+  "total_calls": 1177,
   "tiers": {
-    "groq": 1155,
+    "groq": 1159,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-25T22:46:23.118898+00:00",
-      "tier": "groq",
-      "article": "Four killed in latest US attack on alleged drug-smuggling boat in Caribbean"
-    },
-    {
-      "timestamp": "2026-03-25T22:46:39.522124+00:00",
-      "tier": "groq",
-      "article": "Explosions and smoke seen as Iranian missiles hit Israel"
-    },
-    {
-      "timestamp": "2026-03-25T22:46:55.795283+00:00",
-      "tier": "groq",
-      "article": "Video shows Israeli strike hitting displacement camp in Gaza"
-    },
-    {
-      "timestamp": "2026-03-25T22:47:12.396913+00:00",
-      "tier": "groq",
-      "article": "Democrat alleges Trump \u2018sold out\u2019 US security in classified documents case"
-    },
     {
       "timestamp": "2026-03-26T02:45:15.433704+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-28T05:30:19.625023+00:00",
       "tier": "groq",
       "article": "Iran launches 83rd wave of Operation True Promise 4"
+    },
+    {
+      "timestamp": "2026-03-28T07:08:48.882668+00:00",
+      "tier": "groq",
+      "article": "Yemen reportedly launches missiles toward occupied Palestine"
+    },
+    {
+      "timestamp": "2026-03-28T07:09:48.572481+00:00",
+      "tier": "groq",
+      "article": "Uproar in Bahrain after detainee dies in police custody"
+    },
+    {
+      "timestamp": "2026-03-28T07:10:04.932963+00:00",
+      "tier": "groq",
+      "article": "Intense bombing in Tehran, Isfahan"
+    },
+    {
+      "timestamp": "2026-03-28T07:10:20.996183+00:00",
+      "tier": "groq",
+      "article": "Sailing to and from enemy's allies ports at Hormuz banned"
     }
   ]
 }
