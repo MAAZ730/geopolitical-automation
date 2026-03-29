@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1229,
+  "total_calls": 1233,
   "tiers": {
-    "groq": 1211,
+    "groq": 1215,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-27T07:16:46.289157+00:00",
-      "tier": "groq",
-      "article": "UNSC to hold meeting on attacks on Iran civilian sites"
-    },
-    {
-      "timestamp": "2026-03-27T07:17:42.874781+00:00",
-      "tier": "groq",
-      "article": "Iran asks regional states to report whereabouts of US troops"
-    },
-    {
-      "timestamp": "2026-03-27T07:18:40.728850+00:00",
-      "tier": "groq",
-      "article": "Playing with fire in the Persian Gulf: Bahrain must beware"
-    },
-    {
-      "timestamp": "2026-03-27T07:19:37.969130+00:00",
-      "tier": "groq",
-      "article": "US-Israel war on Iran: What\u2019s happening on day 28 of attacks?"
-    },
     {
       "timestamp": "2026-03-27T09:03:53.122365+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-29T10:42:18.608618+00:00",
       "tier": "groq",
       "article": "Analyst says that Iran\u2019s interest is in an extended war"
+    },
+    {
+      "timestamp": "2026-03-29T13:09:18.087990+00:00",
+      "tier": "groq",
+      "article": "Targeting the Lifeline in Lebanon: Israeli Escalation Mounts as Strikes Hit Paramedics in South - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-29T13:09:37.645561+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Islamic Resistance fighters shell Israeli concentrations along border, pound settlements in 15 operations carried out so far on Sunday, Military Media statements indicate - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-29T13:09:54.548280+00:00",
+      "tier": "groq",
+      "article": "Pope Leo XIV at Palm Sunday Service: \u201cGod rejects prayers of leaders who start wars\u201d - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-29T13:10:12.095701+00:00",
+      "tier": "groq",
+      "article": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy"
     }
   ]
 }
