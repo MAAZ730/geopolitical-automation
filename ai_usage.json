@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1213,
+  "total_calls": 1217,
   "tiers": {
-    "groq": 1195,
+    "groq": 1199,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-26T20:43:18.487180+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 16:30 on Thursday, 26-03-2026, three (3) Merkava tanks and a D9 bulldozer in Al-Qantara town with guided missiles, achieving confirmed hits: statement 65 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-26T20:43:36.071231+00:00",
-      "tier": "groq",
-      "article": "Tehran\u2019s \u2018toll booth\u2019: How Iran picks who to let through Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-03-26T20:43:52.415864+00:00",
-      "tier": "groq",
-      "article": "Pentagon boss claims Iran now has \u2018no navy, no navy leader\u2019"
-    },
-    {
-      "timestamp": "2026-03-26T20:44:08.589150+00:00",
-      "tier": "groq",
-      "article": "Israel sends more troops into southern Lebanon as ground invasion expands"
-    },
     {
       "timestamp": "2026-03-26T22:40:11.726672+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-29T02:50:06.772316+00:00",
       "tier": "groq",
       "article": "Hezbollah fighters targeted the Nasharim base southeast of Haifa with a swarm of attack drones: Military Media Statement 30 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-29T05:48:07.679135+00:00",
+      "tier": "groq",
+      "article": "Shops and restaurants in Egypt told to close early as energy"
+    },
+    {
+      "timestamp": "2026-03-29T05:48:23.809264+00:00",
+      "tier": "groq",
+      "article": "Iran-backed Houthis join war with attack against Israel"
+    },
+    {
+      "timestamp": "2026-03-29T05:48:39.687034+00:00",
+      "tier": "groq",
+      "article": "What happens in the occupied West Bank under the shadow of the Iran war"
+    },
+    {
+      "timestamp": "2026-03-29T05:48:55.925308+00:00",
+      "tier": "groq",
+      "article": "Reza Pahlavi pledges to \u2018make Iran great again\u2019 at 2026 CPAC conference"
     }
   ]
 }
