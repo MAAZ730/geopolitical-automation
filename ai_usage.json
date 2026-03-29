@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1217,
+  "total_calls": 1221,
   "tiers": {
-    "groq": 1199,
+    "groq": 1203,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-26T22:40:11.726672+00:00",
-      "tier": "groq",
-      "article": "Al Jazeera visits Iran\u2019s UNESCO-listed palace damaged by war"
-    },
-    {
-      "timestamp": "2026-03-26T22:40:27.899814+00:00",
-      "tier": "groq",
-      "article": "Trump postpones US strikes on Iranian power grid to April 6 amid talks"
-    },
-    {
-      "timestamp": "2026-03-26T22:40:44.227766+00:00",
-      "tier": "groq",
-      "article": "Iran placing messages on missiles as war of narratives intensifies"
-    },
-    {
-      "timestamp": "2026-03-26T22:41:00.145556+00:00",
-      "tier": "groq",
-      "article": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise"
-    },
     {
       "timestamp": "2026-03-27T02:47:33.770315+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-29T05:48:55.925308+00:00",
       "tier": "groq",
       "article": "Reza Pahlavi pledges to \u2018make Iran great again\u2019 at 2026 CPAC conference"
+    },
+    {
+      "timestamp": "2026-03-29T07:12:33.607120+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters directly hit a newly established IOF artillery post in the town of Arab Al-Luwayza, near Ghajar, with a barrage of rockets and artillery shells: Military Media Statement 29 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-29T07:12:50.719598+00:00",
+      "tier": "groq",
+      "article": "Could Ukraine\u2019s drone expertise serve Gulf countries?"
+    },
+    {
+      "timestamp": "2026-03-29T07:13:06.888002+00:00",
+      "tier": "groq",
+      "article": "One month in, disapproval high but US lawmakers take no action on Iran war"
+    },
+    {
+      "timestamp": "2026-03-29T07:13:22.857478+00:00",
+      "tier": "groq",
+      "article": "Aircraft carrier USS Gerald R. Ford arrives in Croatia for repairs"
     }
   ]
 }
