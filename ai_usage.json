@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1262,
+  "total_calls": 1263,
   "tiers": {
-    "groq": 1244,
+    "groq": 1245,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-27T22:42:54.161796+00:00",
-      "tier": "groq",
-      "article": "US Palestinian activist says FBI foiled assassination plot against her"
-    },
     {
       "timestamp": "2026-03-27T22:43:10.356925+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-03-30T08:01:45.562788+00:00",
       "tier": "groq",
       "article": "\u2018We\u2019re killing them, bro\u2019: Israelis correct Iranian online streamer"
+    },
+    {
+      "timestamp": "2026-03-30T09:29:32.822546+00:00",
+      "tier": "groq",
+      "article": "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies"
     }
   ]
 }
