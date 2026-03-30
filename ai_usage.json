@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1275,
+  "total_calls": 1279,
   "tiers": {
-    "groq": 1257,
+    "groq": 1261,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T07:10:04.932963+00:00",
-      "tier": "groq",
-      "article": "Intense bombing in Tehran, Isfahan"
-    },
-    {
-      "timestamp": "2026-03-28T07:10:20.996183+00:00",
-      "tier": "groq",
-      "article": "Sailing to and from enemy's allies ports at Hormuz banned"
-    },
-    {
-      "timestamp": "2026-03-28T08:47:43.538785+00:00",
-      "tier": "groq",
-      "article": "Yemen\u2019s Houthis launch missile attack on Israel as war on Iran intensifies"
-    },
-    {
-      "timestamp": "2026-03-28T08:47:59.579968+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Bushehr NPP comes under attack for 3rd time: AEOI"
-    },
     {
       "timestamp": "2026-03-28T08:48:56.163878+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T15:13:25.449000+00:00",
       "tier": "groq",
       "article": "Russia\u2019s FSB orders British diplomat\u2019s expulsion, UK rejects \u2018intimidation\u2019"
+    },
+    {
+      "timestamp": "2026-03-30T17:06:06.068678+00:00",
+      "tier": "groq",
+      "article": "Fire contained after missile attack on oil refinery in Israel\u2019s Haifa"
+    },
+    {
+      "timestamp": "2026-03-30T17:06:22.617443+00:00",
+      "tier": "groq",
+      "article": "Missile-wielding Airbus interceptor engages one-way attack drone in test"
+    },
+    {
+      "timestamp": "2026-03-30T17:06:39.326343+00:00",
+      "tier": "groq",
+      "article": "Japanese destroyer can now fire Tomahawk missiles, extending nation\u2019s combat punch"
+    },
+    {
+      "timestamp": "2026-03-30T17:06:55.352564+00:00",
+      "tier": "groq",
+      "article": "Ayatollah Khamenei Honors IRGC Navy Chief, Calls His Martyrdom A Source of Pride - Al-Manar TV Lebanon"
     }
   ]
 }
