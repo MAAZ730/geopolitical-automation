@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1259,
+  "total_calls": 1262,
   "tiers": {
-    "groq": 1241,
+    "groq": 1244,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-27T20:49:04.424735+00:00",
-      "tier": "groq",
-      "article": "Drone reveals extent of Iranian missile damage in Israeli city of Arad"
-    },
-    {
-      "timestamp": "2026-03-27T20:49:20.502442+00:00",
-      "tier": "groq",
-      "article": "Norway to add more than $11bn to defence budget over 10 years"
-    },
-    {
-      "timestamp": "2026-03-27T22:42:37.978242+00:00",
-      "tier": "groq",
-      "article": "Israel launches strikes on nuclear sites as Iran warns of retaliation"
-    },
     {
       "timestamp": "2026-03-27T22:42:54.161796+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-03-30T06:07:00.759723+00:00",
       "tier": "groq",
       "article": "Iranian academic describes US-Israeli attacks on Iran\u2019s universities"
+    },
+    {
+      "timestamp": "2026-03-30T08:01:10.893999+00:00",
+      "tier": "groq",
+      "article": "Land Day: What happened in Palestine on March 30, 1976?"
+    },
+    {
+      "timestamp": "2026-03-30T08:01:27.536160+00:00",
+      "tier": "groq",
+      "article": "Israeli enemy warplanes strike Beirut\u2019s southern suburb (Dahiyeh) - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T08:01:45.562788+00:00",
+      "tier": "groq",
+      "article": "\u2018We\u2019re killing them, bro\u2019: Israelis correct Iranian online streamer"
     }
   ]
 }
