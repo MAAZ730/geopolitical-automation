@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1271,
+  "total_calls": 1275,
   "tiers": {
-    "groq": 1253,
+    "groq": 1257,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T05:29:20.033868+00:00",
-      "tier": "groq",
-      "article": "Enemy\u2019s warplanes attack nuclear sites in Yazd, Arak"
-    },
-    {
-      "timestamp": "2026-03-28T05:30:19.625023+00:00",
-      "tier": "groq",
-      "article": "Iran launches 83rd wave of Operation True Promise 4"
-    },
-    {
-      "timestamp": "2026-03-28T07:08:48.882668+00:00",
-      "tier": "groq",
-      "article": "Yemen reportedly launches missiles toward occupied Palestine"
-    },
-    {
-      "timestamp": "2026-03-28T07:09:48.572481+00:00",
-      "tier": "groq",
-      "article": "Uproar in Bahrain after detainee dies in police custody"
-    },
     {
       "timestamp": "2026-03-28T07:10:04.932963+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T13:34:54.364395+00:00",
       "tier": "groq",
       "article": "Syria\u2019s al-Sharaa visits Germany to talk reconstruction, return of refugees"
+    },
+    {
+      "timestamp": "2026-03-30T15:12:32.289010+00:00",
+      "tier": "groq",
+      "article": "Hezbollah reports 27 precise strikes so far on Monday, targeting Israeli occupation army gatherings of vehicles and soldiers and strategic infrastructure with guided missiles, rocket barrages, and attack drones in response to aggression against Lebanese areas: Military media statements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T15:12:52.195224+00:00",
+      "tier": "groq",
+      "article": "An Israeli airstrike targets the vicinity of the Islamic Health Organization center in Al-Mansouri - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T15:13:09.120074+00:00",
+      "tier": "groq",
+      "article": "Beirut apartment damaged in Israeli strike"
+    },
+    {
+      "timestamp": "2026-03-30T15:13:25.449000+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s FSB orders British diplomat\u2019s expulsion, UK rejects \u2018intimidation\u2019"
     }
   ]
 }
