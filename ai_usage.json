@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1255,
+  "total_calls": 1259,
   "tiers": {
-    "groq": 1237,
+    "groq": 1241,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-27T19:06:53.748434+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters intercepted a warplane in the skies over Beirut with a surface-to-air missile: statement 36 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-27T19:07:10.372450+00:00",
-      "tier": "groq",
-      "article": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?"
-    },
-    {
-      "timestamp": "2026-03-27T20:48:31.954939+00:00",
-      "tier": "groq",
-      "article": "Smoke rises over Beirut suburbs after massive Israeli airstrike"
-    },
-    {
-      "timestamp": "2026-03-27T20:48:48.391267+00:00",
-      "tier": "groq",
-      "article": "Israel attacks major industrial and nuclear sites in Iran"
-    },
     {
       "timestamp": "2026-03-27T20:49:04.424735+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T02:54:45.687625+00:00",
       "tier": "groq",
       "article": "Republican US lawmaker demands Congress vote on any Iran troop deployment"
+    },
+    {
+      "timestamp": "2026-03-30T06:06:12.107879+00:00",
+      "tier": "groq",
+      "article": "Iran accuses US of plotting ground attack, as Israel steps up bombardment"
+    },
+    {
+      "timestamp": "2026-03-30T06:06:28.490067+00:00",
+      "tier": "groq",
+      "article": "Trump says Iran\u2019s \u2018had regime change\u2019 as he describes \u2018boatloads of oil\u2019"
+    },
+    {
+      "timestamp": "2026-03-30T06:06:44.470645+00:00",
+      "tier": "groq",
+      "article": "Amnesty warns of human rights risks at 2026 World Cup"
+    },
+    {
+      "timestamp": "2026-03-30T06:07:00.759723+00:00",
+      "tier": "groq",
+      "article": "Iranian academic describes US-Israeli attacks on Iran\u2019s universities"
     }
   ]
 }
