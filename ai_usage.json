@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1283,
+  "total_calls": 1287,
   "tiers": {
-    "groq": 1265,
+    "groq": 1269,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T10:42:36.473008+00:00",
-      "tier": "groq",
-      "article": "Iran FM slams Israeli assassination of diplomats in Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T10:43:35.085675+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 20:55 on Friday, 27-03-2026, a gathering of Israeli enemy soldiers near the water tank in Deir Seryan town with a rocket barrage: statement 56 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T13:06:12.828393+00:00",
-      "tier": "groq",
-      "article": "Yemen Officially Enters the Fight: Ballistic Missiles Strike Israeli Targets - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T13:06:35.172422+00:00",
-      "tier": "groq",
-      "article": "Russian strikes on Ukraine kill 4 as deal to end war dims"
-    },
     {
       "timestamp": "2026-03-28T13:06:51.612778+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T19:11:26.699770+00:00",
       "tier": "groq",
       "article": "Ukraine\u2019s drone masters eye Iran war to kickstart export ambitions"
+    },
+    {
+      "timestamp": "2026-03-30T20:54:49.060252+00:00",
+      "tier": "groq",
+      "article": "After monitoring a force of \u201cIsraeli\u201d enemy soldiers inside a house in the town of Ainatha, the fighters of the Islamic Resistance targeted it at 07:45 PM on Monday, March 30, 2026, with a high-grade missile, achieving confirmed hits: statement 39 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T20:55:07.100715+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance targeted a Merkava tank in Al-Sidr area in the town of Ainatha at 04:00 PM on Monday, March 30, 2026, with a guided missile, achieving a direct hit: statement 38 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T20:55:23.737505+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance targeted a Merkava tank in the town of Al-Qouzah at 08:00 PM on Monday, March 30, 2026, with a guided missile, achieving a direct hit: statement 37 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T20:55:40.146388+00:00",
+      "tier": "groq",
+      "article": "Kharg Island: How the US could seize Iran's key oil terminal"
     }
   ]
 }
