@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1279,
+  "total_calls": 1283,
   "tiers": {
-    "groq": 1261,
+    "groq": 1265,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T08:48:56.163878+00:00",
-      "tier": "groq",
-      "article": "Attack on Minab School blatant violation of international law"
-    },
-    {
-      "timestamp": "2026-03-28T08:49:52.778233+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 23:00 on Friday, 27-03-2026 Ramot Naftali barracks with a squadron of assault drones: statement 54 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T10:42:03.858380+00:00",
-      "tier": "groq",
-      "article": "Philippine transport strikers say Marcos Jr failing to control oil prices"
-    },
-    {
-      "timestamp": "2026-03-28T10:42:20.254393+00:00",
-      "tier": "groq",
-      "article": "Nepal\u2019s ex-PM Oli detained over alleged role in deadly protest crackdown"
-    },
     {
       "timestamp": "2026-03-28T10:42:36.473008+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T17:06:55.352564+00:00",
       "tier": "groq",
       "article": "Ayatollah Khamenei Honors IRGC Navy Chief, Calls His Martyrdom A Source of Pride - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T19:10:30.794274+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers near the port of Naqoura with a drone strike and achieved direct hits. The enemy worked to evacuate the casualties under heavy smoke cover: statement 34 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T19:10:48.004711+00:00",
+      "tier": "groq",
+      "article": "Lebanese Health Ministry reports 1,247 martyred and 3,680 wounded since the onset of the Israeli aggression - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T19:11:05.350079+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Deals More Painful Blows to Israeli Occupation Forces, Tanks, Sites, and Bases - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T19:11:26.699770+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s drone masters eye Iran war to kickstart export ambitions"
     }
   ]
 }
