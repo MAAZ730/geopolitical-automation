@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1267,
+  "total_calls": 1271,
   "tiers": {
-    "groq": 1249,
+    "groq": 1253,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T02:38:05.140084+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance targeted, at 18:30 on Friday, 27-03-2026, the Stella Maris base (a strategic base for maritime surveillance and monitoring along the northern coast) with a precision missile: statement 55 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T02:38:22.634510+00:00",
-      "tier": "groq",
-      "article": "US Space Command provides update on phased headquarters relocation to Alabama"
-    },
-    {
-      "timestamp": "2026-03-28T05:28:05.830036+00:00",
-      "tier": "groq",
-      "article": "How mothers raise newborn babies during Israel\u2019s offensive in Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T05:28:22.118649+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes gathering of American terrorists in Kuwait"
-    },
     {
       "timestamp": "2026-03-28T05:29:20.033868+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T11:12:31.422994+00:00",
       "tier": "groq",
       "article": "Al-Manar correspondent: Enemy forces directly targeted a UNIFIL patrol in Bani Hayyan, amid reports of casualties among its ranks - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T13:34:02.154499+00:00",
+      "tier": "groq",
+      "article": "Israeli Aggression Targets Beirut Suburbs and South Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T13:34:21.888911+00:00",
+      "tier": "groq",
+      "article": "Smoke rise from Beirut suburbs following Israeli attack"
+    },
+    {
+      "timestamp": "2026-03-30T13:34:38.160080+00:00",
+      "tier": "groq",
+      "article": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry"
+    },
+    {
+      "timestamp": "2026-03-30T13:34:54.364395+00:00",
+      "tier": "groq",
+      "article": "Syria\u2019s al-Sharaa visits Germany to talk reconstruction, return of refugees"
     }
   ]
 }
