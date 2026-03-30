@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1263,
+  "total_calls": 1267,
   "tiers": {
-    "groq": 1245,
+    "groq": 1249,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-27T22:43:10.356925+00:00",
-      "tier": "groq",
-      "article": "Ukraine offers Gulf allies drone defense in bid for scarce Patriot missiles"
-    },
-    {
-      "timestamp": "2026-03-27T22:43:26.548140+00:00",
-      "tier": "groq",
-      "article": "US diplomat Marco Rubio denounces settler violence, tolls in Hormuz strait"
-    },
-    {
-      "timestamp": "2026-03-28T02:37:31.361282+00:00",
-      "tier": "groq",
-      "article": "Rescue workers rush to save lives after south Tehran missile strike"
-    },
-    {
-      "timestamp": "2026-03-28T02:37:47.810181+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters early Saturday killed a large number of Israeli soldiers in a firm ambush in Taybeh area: Military Media statement 1 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-28T02:38:05.140084+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T09:29:32.822546+00:00",
       "tier": "groq",
       "article": "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies"
+    },
+    {
+      "timestamp": "2026-03-30T11:11:39.536525+00:00",
+      "tier": "groq",
+      "article": "An Israeli enemy soldier killed and an officer seriously wounded in an anti-tank missile attack by the resistance in southern Lebanon, according to the Israeli military - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T11:11:57.154711+00:00",
+      "tier": "groq",
+      "article": "Explosions in Haifa in occupied Palestine following successful retaliatory missile strikes from Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-30T11:12:15.442759+00:00",
+      "tier": "groq",
+      "article": "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations"
+    },
+    {
+      "timestamp": "2026-03-30T11:12:31.422994+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent: Enemy forces directly targeted a UNIFIL patrol in Bani Hayyan, amid reports of casualties among its ranks - Al-Manar TV Lebanon"
     }
   ]
 }
