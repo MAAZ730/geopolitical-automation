@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1295,
+  "total_calls": 1299,
   "tiers": {
-    "groq": 1277,
+    "groq": 1281,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T16:42:59.201442+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s Zelenskyy agrees to defense cooperation with UAE, Qatar"
-    },
-    {
-      "timestamp": "2026-03-28T16:43:15.351688+00:00",
-      "tier": "groq",
-      "article": "Enemy media: Sirens sound in Ramot Naftali due to fears of drone infiltration - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T18:52:53.101746+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Military Media Honors Martyred Journalists, Affirms Their Legacy Immortal - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T18:53:12.811232+00:00",
-      "tier": "groq",
-      "article": "At least 22 migrants die off Greece after 6 days at sea"
-    },
     {
       "timestamp": "2026-03-28T18:53:29.354579+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-31T02:47:57.267492+00:00",
       "tier": "groq",
       "article": "French police make two more arrests over foiled attack on Bank of America"
+    },
+    {
+      "timestamp": "2026-03-31T06:01:18.299711+00:00",
+      "tier": "groq",
+      "article": "Enemy media: The army used air power, tanks, and artillery to target militants who attacked the Israeli force - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T06:01:37.608045+00:00",
+      "tier": "groq",
+      "article": "Merz: Most Syrian refugees in Germany expected to return home in three years"
+    },
+    {
+      "timestamp": "2026-03-31T06:01:53.903367+00:00",
+      "tier": "groq",
+      "article": "Pentagon denies that Hegseth\u2019s broker sought investment before Iran war"
+    },
+    {
+      "timestamp": "2026-03-31T06:02:09.750234+00:00",
+      "tier": "groq",
+      "article": "Spain closes airspace to US warplanes involved in war on Iran"
     }
   ]
 }
