@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1303,
+  "total_calls": 1307,
   "tiers": {
-    "groq": 1285,
+    "groq": 1289,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T20:39:52.519642+00:00",
-      "tier": "groq",
-      "article": "Protests in Yemen against US-Israeli attacks as Houthis warn of action"
-    },
-    {
-      "timestamp": "2026-03-28T20:40:08.497610+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters struck an Israeli occupation army force in a house in Al-Bayyada with an attack drone, scoring a direct hit, and followed up by targeting the arriving evacuation team with rockets and artillery: Military Media Statement 18 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T22:37:17.440852+00:00",
-      "tier": "groq",
-      "article": "Tears and defiance as Lebanese family bury child, 11, killed in Israeli strike"
-    },
-    {
-      "timestamp": "2026-03-28T22:37:33.448402+00:00",
-      "tier": "groq",
-      "article": "Kuwait airport hit by Iranian drone strikes"
-    },
     {
       "timestamp": "2026-03-28T22:37:49.803747+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-31T07:25:49.040121+00:00",
       "tier": "groq",
       "article": "\u2018Dangerous escalation\u2019: World reacts to Israel passing death penalty law"
+    },
+    {
+      "timestamp": "2026-03-31T09:11:24.780676+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Since the onset of war until Monday night, Iran has launched 570 ballistic missiles towards \u201cIsrael\u201d - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T09:11:43.554933+00:00",
+      "tier": "groq",
+      "article": "Iranian media: A new wave of Iranian missiles launched towards occupied territories - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T09:12:01.561003+00:00",
+      "tier": "groq",
+      "article": "Opertion True Promise 4, Wave 88: IRGC Navy Says It Launched \u2018Heavy\u2019 Attacks on US-Israeli Targets - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T09:12:20.927458+00:00",
+      "tier": "groq",
+      "article": "Limited missions, big risks: What a US ground fight in Iran could become"
     }
   ]
 }
