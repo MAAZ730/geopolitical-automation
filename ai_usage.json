@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1331,
+  "total_calls": 1335,
   "tiers": {
-    "groq": 1313,
+    "groq": 1317,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-29T13:09:54.548280+00:00",
-      "tier": "groq",
-      "article": "Pope Leo XIV at Palm Sunday Service: \u201cGod rejects prayers of leaders who start wars\u201d - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-29T13:10:12.095701+00:00",
-      "tier": "groq",
-      "article": "Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy"
-    },
-    {
-      "timestamp": "2026-03-29T14:42:22.566174+00:00",
-      "tier": "groq",
-      "article": "Iran \u2018hits\u2019 US AWACS, air tankers: What else has it targeted in past month?"
-    },
-    {
-      "timestamp": "2026-03-29T14:42:38.504086+00:00",
-      "tier": "groq",
-      "article": "\u2018Trump has to open the Strait of Hormuz\u2019 with ground forces"
-    },
     {
       "timestamp": "2026-03-29T16:43:04.633518+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-31T20:56:04.813410+00:00",
       "tier": "groq",
       "article": "Why Iran believes it can outlast the US"
+    },
+    {
+      "timestamp": "2026-03-31T22:41:30.883511+00:00",
+      "tier": "groq",
+      "article": "Peacekeepers killed by roadside explosion in Lebanon, initial report finds"
+    },
+    {
+      "timestamp": "2026-03-31T22:42:17.992039+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s FM confirms contact with US envoy Witkoff, denies talks under way"
+    },
+    {
+      "timestamp": "2026-03-31T22:42:34.242030+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted the Ras al-Naqoura naval site with a swarm of attack drones: statement 45 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T22:43:11.676309+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted it at 20:25 on Tuesday, March 31, 2026, with a swarm of attack drones: statement 43 - Al-Manar TV Lebanon"
     }
   ]
 }
