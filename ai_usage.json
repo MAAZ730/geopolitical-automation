@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1299,
+  "total_calls": 1303,
   "tiers": {
-    "groq": 1281,
+    "groq": 1285,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T18:53:29.354579+00:00",
-      "tier": "groq",
-      "article": "As war rages, Iranian politicians push for exit from nuclear weapons treaty"
-    },
-    {
-      "timestamp": "2026-03-28T18:53:45.617973+00:00",
-      "tier": "groq",
-      "article": "Israeli forces intensify attacks on Beirut"
-    },
-    {
-      "timestamp": "2026-03-28T20:39:20.507472+00:00",
-      "tier": "groq",
-      "article": "Missiles hit southern Israeli city of Eilat"
-    },
-    {
-      "timestamp": "2026-03-28T20:39:36.404740+00:00",
-      "tier": "groq",
-      "article": "\u2018Far right won\u2019t take over our streets\u2019: Huge crowds march through London"
-    },
     {
       "timestamp": "2026-03-28T20:39:52.519642+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-31T06:02:09.750234+00:00",
       "tier": "groq",
       "article": "Spain closes airspace to US warplanes involved in war on Iran"
+    },
+    {
+      "timestamp": "2026-03-31T07:24:52.003787+00:00",
+      "tier": "groq",
+      "article": "Khatam Al-Anbiya: Sustained Missile and Drone Strikes Continue, Targeting American Bases and Key Facilities in Tel Aviv - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T07:25:10.475576+00:00",
+      "tier": "groq",
+      "article": "Qalibaf Rejects Trump\u2019s Reckless Ultimatums, Says Any Strike on Iran Will Trigger Decisive Retaliation - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T07:25:29.632888+00:00",
+      "tier": "groq",
+      "article": "Iraqi Resistance: Five Strikes on US Bases in 24 Hours Amid Expanding Confrontation - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T07:25:49.040121+00:00",
+      "tier": "groq",
+      "article": "\u2018Dangerous escalation\u2019: World reacts to Israel passing death penalty law"
     }
   ]
 }
