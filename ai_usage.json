@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1291,
+  "total_calls": 1295,
   "tiers": {
-    "groq": 1273,
+    "groq": 1277,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-28T14:42:03.178518+00:00",
-      "tier": "groq",
-      "article": "Resistance Media Icon Ali Shoaib Martyred in Israeli Aggression on Journalist Vehicle - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T14:42:21.162270+00:00",
-      "tier": "groq",
-      "article": "Presidents Aoun and Salam condemn the targeting of journalists: a blatant crime and a violation of international law - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T16:42:24.943392+00:00",
-      "tier": "groq",
-      "article": "Three journalists killed in Israeli strike on marked press car in Lebanon"
-    },
-    {
-      "timestamp": "2026-03-28T16:42:41.598186+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted Merkava tanks in northern occupied Palestine, striking one near the reservoir in Qantara with a guided missile, another in the town of Al-Bayyada with a loitering munition, scoring direct hits: Military Media Statements 19, 20 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-28T16:42:59.201442+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-03-30T22:46:48.050753+00:00",
       "tier": "groq",
       "article": "The US Navy wants you ... to make \u2018Drone Killer\u2019 ammunition"
+    },
+    {
+      "timestamp": "2026-03-31T02:47:07.050003+00:00",
+      "tier": "groq",
+      "article": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says"
+    },
+    {
+      "timestamp": "2026-03-31T02:47:23.382561+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a Merkava tank on the road between the towns of Qantara and Al-Taybeh in southern Lebanon with a guided missile, and it was seen burning; this prompted the arrival of a force to evacuate the casualties and remove the tank: Military Media statement 1 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-03-31T02:47:40.955756+00:00",
+      "tier": "groq",
+      "article": "ICE announces death of another Mexican detainee in US immigration custody"
+    },
+    {
+      "timestamp": "2026-03-31T02:47:57.267492+00:00",
+      "tier": "groq",
+      "article": "French police make two more arrests over foiled attack on Bank of America"
     }
   ]
 }
