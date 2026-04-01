@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1367,
+  "total_calls": 1371,
   "tiers": {
-    "groq": 1349,
+    "groq": 1353,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-30T13:34:02.154499+00:00",
-      "tier": "groq",
-      "article": "Israeli Aggression Targets Beirut Suburbs and South Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-30T13:34:21.888911+00:00",
-      "tier": "groq",
-      "article": "Smoke rise from Beirut suburbs following Israeli attack"
-    },
-    {
-      "timestamp": "2026-03-30T13:34:38.160080+00:00",
-      "tier": "groq",
-      "article": "Latin Patriarch will have access to Jerusalem holy site after police stopped entry"
-    },
-    {
-      "timestamp": "2026-03-30T13:34:54.364395+00:00",
-      "tier": "groq",
-      "article": "Syria\u2019s al-Sharaa visits Germany to talk reconstruction, return of refugees"
-    },
     {
       "timestamp": "2026-03-30T15:12:32.289010+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T17:49:04.533832+00:00",
       "tier": "groq",
       "article": "Lebanon faces growing displacement crisis"
+    },
+    {
+      "timestamp": "2026-04-01T19:12:58.984898+00:00",
+      "tier": "groq",
+      "article": "Iranian strikes target the infrastructure behind US airpower"
+    },
+    {
+      "timestamp": "2026-04-01T19:13:43.492980+00:00",
+      "tier": "groq",
+      "article": "UK to host meeting of 35 countries on reopening Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-04-01T19:13:59.792386+00:00",
+      "tier": "groq",
+      "article": "Iran War: What a Marine Expeditionary Unit is \u2013 and other US military terms"
+    },
+    {
+      "timestamp": "2026-04-01T19:14:16.107653+00:00",
+      "tier": "groq",
+      "article": "\u2018Infrastructure is the weapon\u2019: Inside the race to build portable interceptor factories"
     }
   ]
 }
