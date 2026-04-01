@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1347,
+  "total_calls": 1351,
   "tiers": {
-    "groq": 1329,
+    "groq": 1333,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-29T22:41:03.857272+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted the Giv\u2019at Yo\u2019af drone control base east of the occupied city of Safed with a missile salvo: statement 65 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-29T22:41:22.030216+00:00",
-      "tier": "groq",
-      "article": "Cuba is not alone, deputy FM says as US threats grow"
-    },
-    {
-      "timestamp": "2026-03-29T22:41:38.117263+00:00",
-      "tier": "groq",
-      "article": "Houthis open new front against Israel, is Red Sea shipping at risk?"
-    },
-    {
-      "timestamp": "2026-03-29T22:41:54.142019+00:00",
-      "tier": "groq",
-      "article": "Israeli police bar priest from Jerusalem\u2019s Holy Sepulchre on Palm Sunday"
-    },
     {
       "timestamp": "2026-03-30T02:53:57.140118+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T07:53:16.109633+00:00",
       "tier": "groq",
       "article": "After Strait of Hormuz opens, turmoil would still last months, analysts say"
+    },
+    {
+      "timestamp": "2026-04-01T09:16:34.608339+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent says four people martyred, seven others injured in four Israeli strikes on Suhmor town in Western Bekaa at dawn on Wednesday - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T09:16:51.628822+00:00",
+      "tier": "groq",
+      "article": "Lebanese Health Ministry says 7 people martyred, 21 others injured in Israeli strikes on Beirut\u2019s Jnah, Khalde - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T09:17:07.361458+00:00",
+      "tier": "groq",
+      "article": "Israeli police inspect damage on the road after missile impact"
+    },
+    {
+      "timestamp": "2026-04-01T09:17:23.369011+00:00",
+      "tier": "groq",
+      "article": "Judge temporarily halts Trump\u2019s $400m White House ballroom project"
     }
   ]
 }
