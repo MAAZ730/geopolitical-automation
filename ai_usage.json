@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1371,
+  "total_calls": 1375,
   "tiers": {
-    "groq": 1353,
+    "groq": 1357,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-30T15:12:32.289010+00:00",
-      "tier": "groq",
-      "article": "Hezbollah reports 27 precise strikes so far on Monday, targeting Israeli occupation army gatherings of vehicles and soldiers and strategic infrastructure with guided missiles, rocket barrages, and attack drones in response to aggression against Lebanese areas: Military media statements - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-30T15:12:52.195224+00:00",
-      "tier": "groq",
-      "article": "An Israeli airstrike targets the vicinity of the Islamic Health Organization center in Al-Mansouri - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-30T15:13:09.120074+00:00",
-      "tier": "groq",
-      "article": "Beirut apartment damaged in Israeli strike"
-    },
-    {
-      "timestamp": "2026-03-30T15:13:25.449000+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s FSB orders British diplomat\u2019s expulsion, UK rejects \u2018intimidation\u2019"
-    },
     {
       "timestamp": "2026-03-30T17:06:06.068678+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T19:14:16.107653+00:00",
       "tier": "groq",
       "article": "\u2018Infrastructure is the weapon\u2019: Inside the race to build portable interceptor factories"
+    },
+    {
+      "timestamp": "2026-04-01T20:53:37.488261+00:00",
+      "tier": "groq",
+      "article": "Central Israel hit by one of Iran\u2019s largest missile barrages in weeks"
+    },
+    {
+      "timestamp": "2026-04-01T20:54:14.891552+00:00",
+      "tier": "groq",
+      "article": "Palestinians in West Bank protest, strike against Israeli death penalty law"
+    },
+    {
+      "timestamp": "2026-04-01T20:55:08.209128+00:00",
+      "tier": "groq",
+      "article": "Is the US running out of Tomahawk missiles? Here\u2019s what the experts say"
+    },
+    {
+      "timestamp": "2026-04-01T20:56:01.130439+00:00",
+      "tier": "groq",
+      "article": "\u2018This is an apartheid regime\u2019: Critics decry Israel\u2019s new death penalty law"
     }
   ]
 }
