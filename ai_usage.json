@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1355,
+  "total_calls": 1359,
   "tiers": {
-    "groq": 1337,
+    "groq": 1341,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-30T06:06:12.107879+00:00",
-      "tier": "groq",
-      "article": "Iran accuses US of plotting ground attack, as Israel steps up bombardment"
-    },
-    {
-      "timestamp": "2026-03-30T06:06:28.490067+00:00",
-      "tier": "groq",
-      "article": "Trump says Iran\u2019s \u2018had regime change\u2019 as he describes \u2018boatloads of oil\u2019"
-    },
-    {
-      "timestamp": "2026-03-30T06:06:44.470645+00:00",
-      "tier": "groq",
-      "article": "Amnesty warns of human rights risks at 2026 World Cup"
-    },
-    {
-      "timestamp": "2026-03-30T06:07:00.759723+00:00",
-      "tier": "groq",
-      "article": "Iranian academic describes US-Israeli attacks on Iran\u2019s universities"
-    },
     {
       "timestamp": "2026-03-30T08:01:10.893999+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T11:06:14.302293+00:00",
       "tier": "groq",
       "article": "Residents inspect drone damage near Erbil airport"
+    },
+    {
+      "timestamp": "2026-04-01T13:47:30.857737+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters engaged an Israeli warplane in southern Lebanon with a surface-to-air missile: Military Media Statement 20 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T13:48:02.616515+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted the Kiryat Shmona Israeli settlement for the fourth time on Wednesday with a barrage of precision missiles: Military Media Statement 21 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T13:48:48.417077+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance: Kiryat Shmona settlement targeted for fourth time with precision missile barrage - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T13:49:05.578095+00:00",
+      "tier": "groq",
+      "article": "UK finds pro-Palestine protest organisers guilty of breaching police rules"
     }
   ]
 }
