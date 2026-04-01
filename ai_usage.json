@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1351,
+  "total_calls": 1355,
   "tiers": {
-    "groq": 1333,
+    "groq": 1337,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-30T02:53:57.140118+00:00",
-      "tier": "groq",
-      "article": "How will the Houthis\u2019 involvement shape the war?"
-    },
-    {
-      "timestamp": "2026-03-30T02:54:13.560852+00:00",
-      "tier": "groq",
-      "article": "Iranian attack damages Kuwait power and desalination plant, kills worker"
-    },
-    {
-      "timestamp": "2026-03-30T02:54:29.706753+00:00",
-      "tier": "groq",
-      "article": "Oil tops $116 a barrel as Iran accuses US of preparing invasion"
-    },
-    {
-      "timestamp": "2026-03-30T02:54:45.687625+00:00",
-      "tier": "groq",
-      "article": "Republican US lawmaker demands Congress vote on any Iran troop deployment"
-    },
     {
       "timestamp": "2026-03-30T06:06:12.107879+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T09:17:23.369011+00:00",
       "tier": "groq",
       "article": "Judge temporarily halts Trump\u2019s $400m White House ballroom project"
+    },
+    {
+      "timestamp": "2026-04-01T11:04:43.015808+00:00",
+      "tier": "groq",
+      "article": "Iranian Missile Barrage Wounds 14, Damages 17 Sites in Tel Aviv - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T11:05:21.513502+00:00",
+      "tier": "groq",
+      "article": "Israeli Enemy Expands Strikes Across Lebanon, Hits Beirut Anew as Aggression Enters Second Month - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T11:05:39.102226+00:00",
+      "tier": "groq",
+      "article": "Houthis claim joint missile attack on Israel with Iran and Hezbollah"
+    },
+    {
+      "timestamp": "2026-04-01T11:06:14.302293+00:00",
+      "tier": "groq",
+      "article": "Residents inspect drone damage near Erbil airport"
     }
   ]
 }
