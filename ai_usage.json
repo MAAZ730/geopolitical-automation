@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1375,
+  "total_calls": 1379,
   "tiers": {
-    "groq": 1357,
+    "groq": 1361,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-30T17:06:06.068678+00:00",
-      "tier": "groq",
-      "article": "Fire contained after missile attack on oil refinery in Israel\u2019s Haifa"
-    },
-    {
-      "timestamp": "2026-03-30T17:06:22.617443+00:00",
-      "tier": "groq",
-      "article": "Missile-wielding Airbus interceptor engages one-way attack drone in test"
-    },
-    {
-      "timestamp": "2026-03-30T17:06:39.326343+00:00",
-      "tier": "groq",
-      "article": "Japanese destroyer can now fire Tomahawk missiles, extending nation\u2019s combat punch"
-    },
-    {
-      "timestamp": "2026-03-30T17:06:55.352564+00:00",
-      "tier": "groq",
-      "article": "Ayatollah Khamenei Honors IRGC Navy Chief, Calls His Martyrdom A Source of Pride - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-30T19:10:30.794274+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T20:56:01.130439+00:00",
       "tier": "groq",
       "article": "\u2018This is an apartheid regime\u2019: Critics decry Israel\u2019s new death penalty law"
+    },
+    {
+      "timestamp": "2026-04-01T22:47:05.002898+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a Merkava tank at the Jenejel height in the town of Qantara with a guided missile, and it was seen burning: statement 58 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T22:47:37.231675+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a Merkava tank near the Qantara school with a guided missile, and it was seen burning: statement 57 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T22:47:53.761601+00:00",
+      "tier": "groq",
+      "article": "SpaceX files to go public, paving way to make Elon Musk first trillionaire"
+    },
+    {
+      "timestamp": "2026-04-01T22:48:43.130679+00:00",
+      "tier": "groq",
+      "article": "\u2018Ukrainian housewives\u2019 and Skyranger delays \u2013 German defense poster child Rheinmetall is in hot water"
     }
   ]
 }
