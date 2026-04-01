@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1363,
+  "total_calls": 1367,
   "tiers": {
-    "groq": 1345,
+    "groq": 1349,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-30T11:11:39.536525+00:00",
-      "tier": "groq",
-      "article": "An Israeli enemy soldier killed and an officer seriously wounded in an anti-tank missile attack by the resistance in southern Lebanon, according to the Israeli military - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-30T11:11:57.154711+00:00",
-      "tier": "groq",
-      "article": "Explosions in Haifa in occupied Palestine following successful retaliatory missile strikes from Iran - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-30T11:12:15.442759+00:00",
-      "tier": "groq",
-      "article": "Iraq risks Arab ties as Iran-aligned groups strike Gulf nations"
-    },
-    {
-      "timestamp": "2026-03-30T11:12:31.422994+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: Enemy forces directly targeted a UNIFIL patrol in Bani Hayyan, amid reports of casualties among its ranks - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-30T13:34:02.154499+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T15:12:59.351291+00:00",
       "tier": "groq",
       "article": "Can Russia help fill the global energy gap?"
+    },
+    {
+      "timestamp": "2026-04-01T17:47:26.214161+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Surface-to-Air Missiles Challenge Israeli Superiority, Heavy Rocket Salvos Strike Enemy - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T17:47:46.417414+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers in the Deir Siryan school playground with a drone strike: statement 45 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T17:48:19.003841+00:00",
+      "tier": "groq",
+      "article": "Iran denies Trump\u2019s claim Iranian president requested ceasefire"
+    },
+    {
+      "timestamp": "2026-04-01T17:49:04.533832+00:00",
+      "tier": "groq",
+      "article": "Lebanon faces growing displacement crisis"
     }
   ]
 }
