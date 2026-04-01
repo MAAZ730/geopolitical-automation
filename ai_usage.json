@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1359,
+  "total_calls": 1363,
   "tiers": {
-    "groq": 1341,
+    "groq": 1345,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-30T08:01:10.893999+00:00",
-      "tier": "groq",
-      "article": "Land Day: What happened in Palestine on March 30, 1976?"
-    },
-    {
-      "timestamp": "2026-03-30T08:01:27.536160+00:00",
-      "tier": "groq",
-      "article": "Israeli enemy warplanes strike Beirut\u2019s southern suburb (Dahiyeh) - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-30T08:01:45.562788+00:00",
-      "tier": "groq",
-      "article": "\u2018We\u2019re killing them, bro\u2019: Israelis correct Iranian online streamer"
-    },
-    {
-      "timestamp": "2026-03-30T09:29:32.822546+00:00",
-      "tier": "groq",
-      "article": "UN peacekeeper killed in southern Lebanon as Israeli invasion intensifies"
-    },
     {
       "timestamp": "2026-03-30T11:11:39.536525+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-01T13:49:05.578095+00:00",
       "tier": "groq",
       "article": "UK finds pro-Palestine protest organisers guilty of breaching police rules"
+    },
+    {
+      "timestamp": "2026-04-01T15:11:22.777373+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters confronted at 15:00 on Wednesday 01-04-2026 an \u201cIsraeli\u201d enemy warplane in the airspace of Jwayya town with a surface-to-air missile: statement 29 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T15:11:56.223233+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters shot down an Israeli enemy army drone of the \u201cHermes 450 \u2013 Zik\u201d type in the skies of the town of Ainata with a surface-to-air missile: statement 35 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T15:12:41.786893+00:00",
+      "tier": "groq",
+      "article": "Israeli Channel 14: Massive Iranian missile salvo targets Tel Aviv - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-01T15:12:59.351291+00:00",
+      "tier": "groq",
+      "article": "Can Russia help fill the global energy gap?"
     }
   ]
 }
