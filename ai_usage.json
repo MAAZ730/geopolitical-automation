@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1419,
+  "total_calls": 1423,
   "tiers": {
-    "groq": 1401,
+    "groq": 1405,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-31T17:05:23.328218+00:00",
-      "tier": "groq",
-      "article": "What\u2019s Israel\u2019s death penalty law that only applies to Palestinians?"
-    },
-    {
-      "timestamp": "2026-03-31T17:06:10.119056+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Attacks Turn South Lebanon to Graveyard for Israeli Soldiers, Katz\u2019s \u201cBuffer Zone\u201d to a Hell - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T17:06:30.466803+00:00",
-      "tier": "groq",
-      "article": "Italy turns away Middle East-bound US military aircraft from Sicily stopover"
-    },
-    {
-      "timestamp": "2026-03-31T17:07:13.055842+00:00",
-      "tier": "groq",
-      "article": "UN aid chief warns of new Israeli occupation in southern Lebanon"
-    },
     {
       "timestamp": "2026-03-31T19:10:22.012444+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-02T20:44:28.107110+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted at 15:00 on Thursday, 02-04-2026, a gathering of \u201cIsraeli\u201d enemy army soldiers and vehicles at Ghadmatha Hill and Friz Hill in Ainatha town with artillery shells: statement 43 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T22:38:41.315478+00:00",
+      "tier": "groq",
+      "article": "IRGC Launches Massive Strikes on Tel Aviv, Haifa in Wave 91 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T22:39:16.712199+00:00",
+      "tier": "groq",
+      "article": "9-year-old boy recounts airstrike in Lebanon that killed whole family"
+    },
+    {
+      "timestamp": "2026-04-02T22:39:32.688815+00:00",
+      "tier": "groq",
+      "article": "At least 43 people killed in ADF attack in northeast DR Congo, army says"
+    },
+    {
+      "timestamp": "2026-04-02T22:40:19.729949+00:00",
+      "tier": "groq",
+      "article": "US Homeland Security shutdown to stretch on, despite Senate passing funding"
     }
   ]
 }
