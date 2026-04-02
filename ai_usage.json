@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1403,
+  "total_calls": 1407,
   "tiers": {
-    "groq": 1385,
+    "groq": 1389,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-31T09:11:24.780676+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Since the onset of war until Monday night, Iran has launched 570 ballistic missiles towards \u201cIsrael\u201d - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T09:11:43.554933+00:00",
-      "tier": "groq",
-      "article": "Iranian media: A new wave of Iranian missiles launched towards occupied territories - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T09:12:01.561003+00:00",
-      "tier": "groq",
-      "article": "Opertion True Promise 4, Wave 88: IRGC Navy Says It Launched \u2018Heavy\u2019 Attacks on US-Israeli Targets - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T09:12:20.927458+00:00",
-      "tier": "groq",
-      "article": "Limited missions, big risks: What a US ground fight in Iran could become"
-    },
     {
       "timestamp": "2026-03-31T11:02:51.384000+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-02T13:28:10.835595+00:00",
       "tier": "groq",
       "article": "Mandelson tried to get Epstein\u2019s \u2018goddaughter\u2019 access to 10 Downing Street"
+    },
+    {
+      "timestamp": "2026-04-02T15:05:54.645164+00:00",
+      "tier": "groq",
+      "article": "Operation Eaten Straw: Hezbollah Assails Northern Israeli Settlements, Key Military Infrastructure - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T15:06:13.739765+00:00",
+      "tier": "groq",
+      "article": "CENTCOM releases video of air strikes in fifth week of war on Iran"
+    },
+    {
+      "timestamp": "2026-04-02T15:06:41.033939+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted Israeli occupation army soldiers stationed inside a house in the town of Al-Bayyada with a drone strike, achieving direct hits: Military Media Statement 29 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T15:06:58.663198+00:00",
+      "tier": "groq",
+      "article": "Eight countries condemn Israel\u2019s one-sided death penalty for Palestinians"
     }
   ]
 }
