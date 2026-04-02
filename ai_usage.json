@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1411,
+  "total_calls": 1415,
   "tiers": {
-    "groq": 1393,
+    "groq": 1397,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-31T13:31:09.881558+00:00",
-      "tier": "groq",
-      "article": "Iran using children in security roles in war, reports and witnesses say"
-    },
-    {
-      "timestamp": "2026-03-31T13:31:25.906186+00:00",
-      "tier": "groq",
-      "article": "IRGC: We targeted with heavy and advanced missiles the meeting place of the Zionist Home Front commanders in \u201cBnei Brak, Tel Aviv, Beersheba, the Galilee, the Negev, Tel Nof Air Base, Arad, and the southern Dead Sea\u201d - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T13:31:44.483199+00:00",
-      "tier": "groq",
-      "article": "Drones strike Russia\u2019s Ust-Luga port again as EU officials visit Ukraine"
-    },
-    {
-      "timestamp": "2026-03-31T13:32:00.713654+00:00",
-      "tier": "groq",
-      "article": "Iranian Red Crescent: US-Israeli aggression targeted 113,570 civilian sites, including 90,063 homes, 307 medical facilities, and 760 schools - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-03-31T15:11:49.455771+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-02T17:06:48.328243+00:00",
       "tier": "groq",
       "article": "Iran's focus on survival means same regime still firmly in place"
+    },
+    {
+      "timestamp": "2026-04-02T19:05:27.404797+00:00",
+      "tier": "groq",
+      "article": "Videos capture projectile falling in central Israel after Iran strike"
+    },
+    {
+      "timestamp": "2026-04-02T19:05:43.725326+00:00",
+      "tier": "groq",
+      "article": "Argentina expels Iranian diplomat amid rift over blacklisting IRGC"
+    },
+    {
+      "timestamp": "2026-04-02T19:05:59.675592+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Missiles have been fired from Yemen - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T19:06:16.601226+00:00",
+      "tier": "groq",
+      "article": "Can Starmer\u2019s 40-nation coalition open the Strait of Hormuz?"
     }
   ]
 }
