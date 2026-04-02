@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1407,
+  "total_calls": 1411,
   "tiers": {
-    "groq": 1389,
+    "groq": 1393,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-31T11:02:51.384000+00:00",
-      "tier": "groq",
-      "article": "Iranian Missiles Strike \u201cBnei Brak,\u201d Expose Vulnerability of Israeli Defenses - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T11:03:12.275641+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: Israeli occupation warplanes attacked the Lebanese southern town of Al-Mansouri - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T11:03:29.862211+00:00",
-      "tier": "groq",
-      "article": "Israel says four soldiers killed as army pushes deeper into south Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T11:03:46.153186+00:00",
-      "tier": "groq",
-      "article": "\u2018Iranians don\u2019t consider Trump\u2019s 15-point plan as beginning of diplomacy\u2019"
-    },
     {
       "timestamp": "2026-03-31T13:31:09.881558+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-02T15:06:58.663198+00:00",
       "tier": "groq",
       "article": "Eight countries condemn Israel\u2019s one-sided death penalty for Palestinians"
+    },
+    {
+      "timestamp": "2026-04-02T17:04:54.272128+00:00",
+      "tier": "groq",
+      "article": "'I haven't slept for days': Iranians describe mounting desperation after one month of war"
+    },
+    {
+      "timestamp": "2026-04-02T17:05:40.171858+00:00",
+      "tier": "groq",
+      "article": "Iran's two largest steel plants shut down due to strikes, companies say"
+    },
+    {
+      "timestamp": "2026-04-02T17:06:32.208244+00:00",
+      "tier": "groq",
+      "article": "Burkina Faso military, allies committing \u2018horrific\u2019 civilian abuses: HRW"
+    },
+    {
+      "timestamp": "2026-04-02T17:06:48.328243+00:00",
+      "tier": "groq",
+      "article": "Iran's focus on survival means same regime still firmly in place"
     }
   ]
 }
