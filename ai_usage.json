@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1391,
+  "total_calls": 1395,
   "tiers": {
-    "groq": 1373,
+    "groq": 1377,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-31T02:47:07.050003+00:00",
-      "tier": "groq",
-      "article": "At least 70 killed, 30 wounded in Haiti gang attack, rights group says"
-    },
-    {
-      "timestamp": "2026-03-31T02:47:23.382561+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a Merkava tank on the road between the towns of Qantara and Al-Taybeh in southern Lebanon with a guided missile, and it was seen burning; this prompted the arrival of a force to evacuate the casualties and remove the tank: Military Media statement 1 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T02:47:40.955756+00:00",
-      "tier": "groq",
-      "article": "ICE announces death of another Mexican detainee in US immigration custody"
-    },
-    {
-      "timestamp": "2026-03-31T02:47:57.267492+00:00",
-      "tier": "groq",
-      "article": "French police make two more arrests over foiled attack on Bank of America"
-    },
     {
       "timestamp": "2026-03-31T06:01:18.299711+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-02T07:23:33.740911+00:00",
       "tier": "groq",
       "article": "NASA moon mission a \u2018contrast\u2019 to US war on Iran, says US senator"
+    },
+    {
+      "timestamp": "2026-04-02T09:08:28.918461+00:00",
+      "tier": "groq",
+      "article": "Iran Attack Leaves Casualties, Damage in Tel Aviv, Occupied Palestine - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T09:09:03.813003+00:00",
+      "tier": "groq",
+      "article": "Al-Manar Correspondent: Occupation Artillery and Warplanes Strike Dbin in Two Waves; Three Raids on Khiam, One on Rashaya al-Fakhar - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T09:09:19.740616+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s ex-foreign minister Kharazi \u2018gravely wounded\u2019 in attack on his home"
+    },
+    {
+      "timestamp": "2026-04-02T09:09:35.688567+00:00",
+      "tier": "groq",
+      "article": "Trump\u2019s national address on Iran \u2019embarrassing, incoherent\u2019"
     }
   ]
 }
