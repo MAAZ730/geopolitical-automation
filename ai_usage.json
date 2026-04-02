@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1399,
+  "total_calls": 1403,
   "tiers": {
-    "groq": 1381,
+    "groq": 1385,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-03-31T07:24:52.003787+00:00",
-      "tier": "groq",
-      "article": "Khatam Al-Anbiya: Sustained Missile and Drone Strikes Continue, Targeting American Bases and Key Facilities in Tel Aviv - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T07:25:10.475576+00:00",
-      "tier": "groq",
-      "article": "Qalibaf Rejects Trump\u2019s Reckless Ultimatums, Says Any Strike on Iran Will Trigger Decisive Retaliation - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T07:25:29.632888+00:00",
-      "tier": "groq",
-      "article": "Iraqi Resistance: Five Strikes on US Bases in 24 Hours Amid Expanding Confrontation - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-03-31T07:25:49.040121+00:00",
-      "tier": "groq",
-      "article": "\u2018Dangerous escalation\u2019: World reacts to Israel passing death penalty law"
-    },
     {
       "timestamp": "2026-03-31T09:11:24.780676+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-02T11:02:09.726760+00:00",
       "tier": "groq",
       "article": "Enemy Police: Shrapnel hits multiple sites in Upper Galilee after rocket attack from Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T13:25:44.307100+00:00",
+      "tier": "groq",
+      "article": "Hezbollah reports 26 precise strikes so far on Monday, targeting Israeli occupation army gatherings of vehicles and soldiers and key sites, settlements with guided missiles, rocket barrages, and attack drones in response to aggression against Lebanese areas: Military media statements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T13:26:23.784473+00:00",
+      "tier": "groq",
+      "article": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops"
+    },
+    {
+      "timestamp": "2026-04-02T13:27:16.969192+00:00",
+      "tier": "groq",
+      "article": "Trump\u2019s War Rhetoric Faces Mounting Scrutiny as Contradictions, Casualty Questions Deepen - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-02T13:28:10.835595+00:00",
+      "tier": "groq",
+      "article": "Mandelson tried to get Epstein\u2019s \u2018goddaughter\u2019 access to 10 Downing Street"
     }
   ]
 }
