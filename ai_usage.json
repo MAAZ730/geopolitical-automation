@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1451,
+  "total_calls": 1455,
   "tiers": {
-    "groq": 1433,
+    "groq": 1437,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-01T11:04:43.015808+00:00",
-      "tier": "groq",
-      "article": "Iranian Missile Barrage Wounds 14, Damages 17 Sites in Tel Aviv - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-01T11:05:21.513502+00:00",
-      "tier": "groq",
-      "article": "Israeli Enemy Expands Strikes Across Lebanon, Hits Beirut Anew as Aggression Enters Second Month - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-01T11:05:39.102226+00:00",
-      "tier": "groq",
-      "article": "Houthis claim joint missile attack on Israel with Iran and Hezbollah"
-    },
-    {
-      "timestamp": "2026-04-01T11:06:14.302293+00:00",
-      "tier": "groq",
-      "article": "Residents inspect drone damage near Erbil airport"
-    },
     {
       "timestamp": "2026-04-01T13:47:30.857737+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-03T14:53:26.092062+00:00",
       "tier": "groq",
       "article": "Iran war: International law experts allege violations in Iran war"
+    },
+    {
+      "timestamp": "2026-04-03T16:51:34.964410+00:00",
+      "tier": "groq",
+      "article": "Red Crescent supply warehouse attacked in southwest Iran"
+    },
+    {
+      "timestamp": "2026-04-03T16:51:51.336187+00:00",
+      "tier": "groq",
+      "article": "Israel threatens to destroy more Lebanon bridges as crisis mounts"
+    },
+    {
+      "timestamp": "2026-04-03T16:52:07.661316+00:00",
+      "tier": "groq",
+      "article": "Drone footage shows a factory in Israel damaged by Iranian missile debris"
+    },
+    {
+      "timestamp": "2026-04-03T16:52:26.183970+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in south Lebanon reports clashes between Hezbollah resistance fighters and Israeli occupation forces in the border town of Shamaa - Al-Manar TV Lebanon"
     }
   ]
 }
