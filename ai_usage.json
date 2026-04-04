@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1477,
+  "total_calls": 1481,
   "tiers": {
-    "groq": 1459,
+    "groq": 1463,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-01T22:47:53.761601+00:00",
-      "tier": "groq",
-      "article": "SpaceX files to go public, paving way to make Elon Musk first trillionaire"
-    },
-    {
-      "timestamp": "2026-04-01T22:48:43.130679+00:00",
-      "tier": "groq",
-      "article": "\u2018Ukrainian housewives\u2019 and Skyranger delays \u2013 German defense poster child Rheinmetall is in hot water"
-    },
-    {
-      "timestamp": "2026-04-02T02:43:12.696211+00:00",
-      "tier": "groq",
-      "article": "Zionist media: New Iranian missile strike targets central \u2018Israel\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T02:43:44.858911+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted the headquarters of the 146th Division in Ja\u2019atun with a rocket barrage: statement 60 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-02T02:44:02.467227+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-04T07:12:02.666196+00:00",
       "tier": "groq",
       "article": "Palestinian Christians in Gaza mark Good Friday"
+    },
+    {
+      "timestamp": "2026-04-04T08:52:35.381519+00:00",
+      "tier": "groq",
+      "article": "Citizen martyred, 6 other wounded in Israeli strike on Al-Qatrani town in Western Bekaa: Al-Manar correspondent - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T08:53:07.794702+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in south Lebanon reports Israeli strikes on Shehabieyh, Jwayya, Kawnin, Shaqra, Srifa, Beit Yahoun, Haris and Tyre in the early hours of Saturday - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T08:53:24.666947+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted overnight gatherings of Israeli soldiers across southern Lebanese border, Israeli Merkava with rocket barrages and guided missile: Hezbollah Military Media statements no. 1, 2, 3 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T08:54:01.010021+00:00",
+      "tier": "groq",
+      "article": "Israeli drones spotted flying at low-altitude over Beirut\u2019s Dahiyeh and Mount Lebanon: Al-Manar correspondent in south Lebanon - Al-Manar TV Lebanon"
     }
   ]
 }
