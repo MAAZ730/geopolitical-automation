@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1497,
+  "total_calls": 1501,
   "tiers": {
-    "groq": 1479,
+    "groq": 1483,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-02T11:01:26.902940+00:00",
-      "tier": "groq",
-      "article": "Iran war: What is happening on day 34 of US-Israel attacks?"
-    },
-    {
-      "timestamp": "2026-04-02T11:02:09.726760+00:00",
-      "tier": "groq",
-      "article": "Enemy Police: Shrapnel hits multiple sites in Upper Galilee after rocket attack from Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T13:25:44.307100+00:00",
-      "tier": "groq",
-      "article": "Hezbollah reports 26 precise strikes so far on Monday, targeting Israeli occupation army gatherings of vehicles and soldiers and key sites, settlements with guided missiles, rocket barrages, and attack drones in response to aggression against Lebanese areas: Military media statements - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T13:26:23.784473+00:00",
-      "tier": "groq",
-      "article": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops"
-    },
     {
       "timestamp": "2026-04-02T13:27:16.969192+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-04T16:45:03.223061+00:00",
       "tier": "groq",
       "article": "Iran reports new attacks on Bushehr nuclear plant, sparking IAEA warning"
+    },
+    {
+      "timestamp": "2026-04-04T18:53:01.197396+00:00",
+      "tier": "groq",
+      "article": "Operation Eaten Straw: Hezbollah Fighters Relentlessly Hit Key Israeli Sites, Army Gatherings - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T18:53:19.823286+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted a gathering of Israeli occupation army soldiers in the town of Al-Bayyada with a drone strike, achieving a direct hit: Military Media Statement 26 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T18:53:47.513372+00:00",
+      "tier": "groq",
+      "article": "New video reveals moment US-Israeli munitions impact Iranian bridge"
+    },
+    {
+      "timestamp": "2026-04-04T18:54:03.562612+00:00",
+      "tier": "groq",
+      "article": "Top diplomat Marco Rubio strips Qassem Soleimani\u2019s niece of US residency"
     }
   ]
 }
