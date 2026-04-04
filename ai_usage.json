@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1501,
+  "total_calls": 1505,
   "tiers": {
-    "groq": 1483,
+    "groq": 1487,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-02T13:27:16.969192+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s War Rhetoric Faces Mounting Scrutiny as Contradictions, Casualty Questions Deepen - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T13:28:10.835595+00:00",
-      "tier": "groq",
-      "article": "Mandelson tried to get Epstein\u2019s \u2018goddaughter\u2019 access to 10 Downing Street"
-    },
-    {
-      "timestamp": "2026-04-02T15:05:54.645164+00:00",
-      "tier": "groq",
-      "article": "Operation Eaten Straw: Hezbollah Assails Northern Israeli Settlements, Key Military Infrastructure - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T15:06:13.739765+00:00",
-      "tier": "groq",
-      "article": "CENTCOM releases video of air strikes in fifth week of war on Iran"
-    },
     {
       "timestamp": "2026-04-02T15:06:41.033939+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-04T18:54:03.562612+00:00",
       "tier": "groq",
       "article": "Top diplomat Marco Rubio strips Qassem Soleimani\u2019s niece of US residency"
+    },
+    {
+      "timestamp": "2026-04-04T20:42:29.918542+00:00",
+      "tier": "groq",
+      "article": "Universities hit as US, Israel ramp up attacks on Iran\u2019s infrastructure"
+    },
+    {
+      "timestamp": "2026-04-04T20:43:08.429266+00:00",
+      "tier": "groq",
+      "article": "Tehran psychiatric hospital not usable after US-Israeli strike"
+    },
+    {
+      "timestamp": "2026-04-04T20:43:24.664938+00:00",
+      "tier": "groq",
+      "article": "Vehicle engulfed in flames after Israeli drone strike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-04T20:43:40.930256+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Khatam Al-Anbiya HQ: Iraq Exempt from Strait of Hormuz Restrictions - Al-Manar TV Lebanon"
     }
   ]
 }
