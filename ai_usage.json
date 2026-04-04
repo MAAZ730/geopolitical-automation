@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1467,
+  "total_calls": 1471,
   "tiers": {
-    "groq": 1449,
+    "groq": 1453,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-01T19:12:58.984898+00:00",
-      "tier": "groq",
-      "article": "Iranian strikes target the infrastructure behind US airpower"
-    },
-    {
-      "timestamp": "2026-04-01T19:13:43.492980+00:00",
-      "tier": "groq",
-      "article": "UK to host meeting of 35 countries on reopening Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-04-01T19:13:59.792386+00:00",
-      "tier": "groq",
-      "article": "Iran War: What a Marine Expeditionary Unit is \u2013 and other US military terms"
-    },
-    {
-      "timestamp": "2026-04-01T19:14:16.107653+00:00",
-      "tier": "groq",
-      "article": "\u2018Infrastructure is the weapon\u2019: Inside the race to build portable interceptor factories"
-    },
     {
       "timestamp": "2026-04-01T20:53:37.488261+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-03T22:42:08.853927+00:00",
       "tier": "groq",
       "article": "A-10 Warthog crashes near Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-04-04T02:36:22.445570+00:00",
+      "tier": "groq",
+      "article": "Video shows the moment a Russian drone hit an apartment in Ukraine"
+    },
+    {
+      "timestamp": "2026-04-04T02:36:55.538327+00:00",
+      "tier": "groq",
+      "article": "Will force be used to reopen Strait of Hormuz?"
+    },
+    {
+      "timestamp": "2026-04-04T02:37:47.776157+00:00",
+      "tier": "groq",
+      "article": "US unemployment rate drops despite economic uncertainty and Iran war"
+    },
+    {
+      "timestamp": "2026-04-04T02:38:03.842036+00:00",
+      "tier": "groq",
+      "article": "Omani, French and Japanese vessels transit the Strait of Hormuz"
     }
   ]
 }
