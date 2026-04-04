@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1493,
+  "total_calls": 1497,
   "tiers": {
-    "groq": 1475,
+    "groq": 1479,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-02T09:09:19.740616+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s ex-foreign minister Kharazi \u2018gravely wounded\u2019 in attack on his home"
-    },
-    {
-      "timestamp": "2026-04-02T09:09:35.688567+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s national address on Iran \u2019embarrassing, incoherent\u2019"
-    },
-    {
-      "timestamp": "2026-04-02T11:00:25.493000+00:00",
-      "tier": "groq",
-      "article": "Nearly 1,200 children killed or injured in Yemen despite truce: NGO"
-    },
-    {
-      "timestamp": "2026-04-02T11:01:10.763224+00:00",
-      "tier": "groq",
-      "article": "\u2018Orban constantly vetoes\u2019: Europe braces for Hungary election"
-    },
     {
       "timestamp": "2026-04-02T11:01:26.902940+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-04T14:41:14.282329+00:00",
       "tier": "groq",
       "article": "Projectile hits near Iran\u2019s Bushehr nuclear plant, killing one: IAEA"
+    },
+    {
+      "timestamp": "2026-04-04T16:43:54.790976+00:00",
+      "tier": "groq",
+      "article": "Vehicles burn in Israel after being hit with Iranian projectile debris"
+    },
+    {
+      "timestamp": "2026-04-04T16:44:26.991908+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted the Shraga base (the administrative headquarters of the Golani Brigade Command) north of the occupied city of Acre with a squadron of attack drones: Military Media Statement 20 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T16:44:45.465670+00:00",
+      "tier": "groq",
+      "article": "Israeli media report approximately 82,000 sirens have been recorded so far in occupied Palestine since the onset of war - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T16:45:03.223061+00:00",
+      "tier": "groq",
+      "article": "Iran reports new attacks on Bushehr nuclear plant, sparking IAEA warning"
     }
   ]
 }
