@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1505,
+  "total_calls": 1509,
   "tiers": {
-    "groq": 1487,
+    "groq": 1491,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-02T15:06:41.033939+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted Israeli occupation army soldiers stationed inside a house in the town of Al-Bayyada with a drone strike, achieving direct hits: Military Media Statement 29 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T15:06:58.663198+00:00",
-      "tier": "groq",
-      "article": "Eight countries condemn Israel\u2019s one-sided death penalty for Palestinians"
-    },
-    {
-      "timestamp": "2026-04-02T17:04:54.272128+00:00",
-      "tier": "groq",
-      "article": "'I haven't slept for days': Iranians describe mounting desperation after one month of war"
-    },
-    {
-      "timestamp": "2026-04-02T17:05:40.171858+00:00",
-      "tier": "groq",
-      "article": "Iran's two largest steel plants shut down due to strikes, companies say"
-    },
     {
       "timestamp": "2026-04-02T17:06:32.208244+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-04T20:43:40.930256+00:00",
       "tier": "groq",
       "article": "Iran\u2019s Khatam Al-Anbiya HQ: Iraq Exempt from Strait of Hormuz Restrictions - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T22:39:55.513075+00:00",
+      "tier": "groq",
+      "article": "Indonesia receives bodies of peacekeepers killed in southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T22:40:38.894673+00:00",
+      "tier": "groq",
+      "article": "Trump says Iran has 48 hours to make deal as search for US pilot continues"
+    },
+    {
+      "timestamp": "2026-04-04T22:40:55.235553+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted Israeli occupation army military vehicles in the Jneijel Heights area of \u200b\u200bAl-Qantara, another one in the Sidr area of \u200b\u200bAinata with artillery fire: Military Media Statements 29, 30 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-04T22:41:13.852010+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted the newly established headquarters of the artillery battalion command of the 146th Division, south of the settlement of Kabri, with a squadron of attack drones: Military Media Statement 32 - Al-Manar TV Lebanon"
     }
   ]
 }
