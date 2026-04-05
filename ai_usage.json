@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1513,
+  "total_calls": 1516,
   "tiers": {
-    "groq": 1495,
+    "groq": 1498,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-02T19:05:59.675592+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Missiles have been fired from Yemen - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T19:06:16.601226+00:00",
-      "tier": "groq",
-      "article": "Can Starmer\u2019s 40-nation coalition open the Strait of Hormuz?"
-    },
-    {
-      "timestamp": "2026-04-02T20:42:48.758236+00:00",
-      "tier": "groq",
-      "article": "Yemeni Ballistic Missiles Hit Tel Aviv, Armed Forces Consider Updating Strikes - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-02T20:43:24.324825+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-04-05T02:56:02.509293+00:00",
       "tier": "groq",
       "article": "Israeli police arrest antiwar protesters in Tel Aviv"
+    },
+    {
+      "timestamp": "2026-04-05T05:49:22.837287+00:00",
+      "tier": "groq",
+      "article": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up"
+    },
+    {
+      "timestamp": "2026-04-05T05:49:38.830005+00:00",
+      "tier": "groq",
+      "article": "Trump\u2019s unpopular war on Iran"
+    },
+    {
+      "timestamp": "2026-04-05T05:50:09.863142+00:00",
+      "tier": "groq",
+      "article": "Italy\u2019s Meloni meets Qatar emir to discuss energy issues amid Iran war"
     }
   ]
 }
