@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1531,
+  "total_calls": 1535,
   "tiers": {
-    "groq": 1513,
+    "groq": 1517,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-03T07:20:35.489040+00:00",
-      "tier": "groq",
-      "article": "Russia sending second ship with oil to Cuba amid US blockade"
-    },
-    {
-      "timestamp": "2026-04-03T07:20:51.576776+00:00",
-      "tier": "groq",
-      "article": "How China\u2019s \u2018teapot\u2019 refineries are cushioning it from Iran war oil crisis"
-    },
-    {
-      "timestamp": "2026-04-03T07:21:26.695316+00:00",
-      "tier": "groq",
-      "article": "Oil shock triggers global price spikes as Iran war drags on"
-    },
-    {
-      "timestamp": "2026-04-03T07:22:19.802433+00:00",
-      "tier": "groq",
-      "article": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war"
-    },
     {
       "timestamp": "2026-04-03T09:02:43.324108+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-05T13:09:32.496855+00:00",
       "tier": "groq",
       "article": "Kuwait\u2019s power, water plants damaged as Iran keeps attacking Gulf states"
+    },
+    {
+      "timestamp": "2026-04-05T14:43:32.262825+00:00",
+      "tier": "groq",
+      "article": "Lebanese health ministry reports 4 martyrs and 39 injuries in Israeli air strike on Jenah area, Beirut - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T14:44:09.209343+00:00",
+      "tier": "groq",
+      "article": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says"
+    },
+    {
+      "timestamp": "2026-04-05T14:44:57.247777+00:00",
+      "tier": "groq",
+      "article": "US So-Called Rescue Mission Ended in Complete Failure: Khatam al-Anbiya - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T14:45:16.929835+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust"
     }
   ]
 }
