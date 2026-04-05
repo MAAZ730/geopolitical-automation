@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1527,
+  "total_calls": 1531,
   "tiers": {
-    "groq": 1509,
+    "groq": 1513,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-03T05:46:48.600480+00:00",
-      "tier": "groq",
-      "article": "Bipartisan group of senators vow to keep US in NATO despite Trump threats"
-    },
-    {
-      "timestamp": "2026-04-03T05:47:29.760207+00:00",
-      "tier": "groq",
-      "article": "Hegseth asks Army\u2019s top general to retire, fires two others as Iran war rages"
-    },
-    {
-      "timestamp": "2026-04-03T05:47:45.802031+00:00",
-      "tier": "groq",
-      "article": "US defense stocks see no Iran war lift after early surge "
-    },
-    {
-      "timestamp": "2026-04-03T05:48:31.937209+00:00",
-      "tier": "groq",
-      "article": "US War Secretary Orders Army Chief of Staff to Step Down - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-03T07:20:35.489040+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-05T10:45:44.355474+00:00",
       "tier": "groq",
       "article": "Humiliating Defeat : Iran Shoots Down Multiple US Warplanes in Failed Pilot Rescue Mission - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T13:08:43.553634+00:00",
+      "tier": "groq",
+      "article": "Israeli warplanes carry out two airstrikes targeting the Al\u2011Qasmiyeh \u2013 Burj Rahhal Bridge in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T13:09:00.457186+00:00",
+      "tier": "groq",
+      "article": "\u2018We got him!\u2019: How the US rescued downed airman in Iran"
+    },
+    {
+      "timestamp": "2026-04-05T13:09:16.398899+00:00",
+      "tier": "groq",
+      "article": "\u201cWe blame Trump\u201d: Drivers line up for free gas as prices surge in the US"
+    },
+    {
+      "timestamp": "2026-04-05T13:09:32.496855+00:00",
+      "tier": "groq",
+      "article": "Kuwait\u2019s power, water plants damaged as Iran keeps attacking Gulf states"
     }
   ]
 }
