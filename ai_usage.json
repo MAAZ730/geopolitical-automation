@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1516,
+  "total_calls": 1519,
   "tiers": {
-    "groq": 1498,
+    "groq": 1501,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-02T20:43:24.324825+00:00",
-      "tier": "groq",
-      "article": "Golden Dome, ships and missiles top Trump\u2019s $1.5 trillion defense wish list"
-    },
-    {
-      "timestamp": "2026-04-02T20:44:10.422731+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 09:15 on Thursday, 02-04-2026, a D9 bulldozer at the Tahrir Triangle [Liberation Triangle] with a direct missile, achieving a confirmed hit: statement 42 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-02T20:44:28.107110+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 15:00 on Thursday, 02-04-2026, a gathering of \u201cIsraeli\u201d enemy army soldiers and vehicles at Ghadmatha Hill and Friz Hill in Ainatha town with artillery shells: statement 43 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-02T22:38:41.315478+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-04-05T05:50:09.863142+00:00",
       "tier": "groq",
       "article": "Italy\u2019s Meloni meets Qatar emir to discuss energy issues amid Iran war"
+    },
+    {
+      "timestamp": "2026-04-05T07:18:18.673822+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent: Enemy warplanes launched airstrikes targeting the towns of Shaqra, Beit Yahoun, Al-Tayri, and Kawnin - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T07:18:57.891107+00:00",
+      "tier": "groq",
+      "article": "What we know so far about rescue of US air force officer in Iran"
+    },
+    {
+      "timestamp": "2026-04-05T07:19:43.907414+00:00",
+      "tier": "groq",
+      "article": "Khatam al-Anbiya Central Headquarters: Enemy aircraft penetrating south of Isfahan were targeted, including two Black Hawk helicopters and a C-130 military transport plane - Al-Manar TV Lebanon"
     }
   ]
 }
