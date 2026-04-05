@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1539,
+  "total_calls": 1543,
   "tiers": {
-    "groq": 1521,
+    "groq": 1525,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-03T10:52:43.524279+00:00",
-      "tier": "groq",
-      "article": "Iran Strikes US Military Sites in Gulf with Missiles and Drones - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-03T10:53:24.259540+00:00",
-      "tier": "groq",
-      "article": "Kuwait desalination plant, oil refinery hit by missile and drone strikes"
-    },
-    {
-      "timestamp": "2026-04-03T10:54:16.361231+00:00",
-      "tier": "groq",
-      "article": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge"
-    },
-    {
-      "timestamp": "2026-04-03T10:54:32.542858+00:00",
-      "tier": "groq",
-      "article": "Cuba to pardon more than 2,000 prisoners amid US pressure"
-    },
     {
       "timestamp": "2026-04-03T13:17:26.520719+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-05T16:46:09.025728+00:00",
       "tier": "groq",
       "article": "Italian PM says the Gulf is \u2018fundamental\u2019 for Europe\u2019s security"
+    },
+    {
+      "timestamp": "2026-04-05T18:54:17.049694+00:00",
+      "tier": "groq",
+      "article": "Iranian missile strikes industrial area in southern Israel"
+    },
+    {
+      "timestamp": "2026-04-05T18:54:47.892091+00:00",
+      "tier": "groq",
+      "article": "Israeli air strikes, shelling across Lebanon add to rising death toll"
+    },
+    {
+      "timestamp": "2026-04-05T18:55:32.867375+00:00",
+      "tier": "groq",
+      "article": "Video captures Iranian missile striking residential building in Haifa"
+    },
+    {
+      "timestamp": "2026-04-05T18:55:50.934207+00:00",
+      "tier": "groq",
+      "article": "US special forces rescue second F-15 airman from Iran"
     }
   ]
 }
