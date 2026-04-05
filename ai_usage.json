@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1535,
+  "total_calls": 1539,
   "tiers": {
-    "groq": 1517,
+    "groq": 1521,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-03T09:02:43.324108+00:00",
-      "tier": "groq",
-      "article": "Iran condemns US-Israeli \u2018moral collapse\u2019 after attacks on civilian sites"
-    },
-    {
-      "timestamp": "2026-04-03T09:03:29.276300+00:00",
-      "tier": "groq",
-      "article": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-04-03T09:03:45.410412+00:00",
-      "tier": "groq",
-      "article": "Israeli Channel 12 cites Israeli army: Disarming Hezbollah is not a war objective at this stage - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-03T09:04:02.433782+00:00",
-      "tier": "groq",
-      "article": "The Israeli army acknowledges that statements about disarming Hezbollah as a war objective were overly ambitious: Hebrew media - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-03T10:52:43.524279+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-05T14:45:16.929835+00:00",
       "tier": "groq",
       "article": "Iran\u2019s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust"
+    },
+    {
+      "timestamp": "2026-04-05T16:44:19.260734+00:00",
+      "tier": "groq",
+      "article": "At least 14 people killed in Israeli strikes across Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T16:45:02.422407+00:00",
+      "tier": "groq",
+      "article": "Trump threatens \u2018hell\u2019 for Iran over Hormuz Strait as deadline approaches"
+    },
+    {
+      "timestamp": "2026-04-05T16:45:49.516538+00:00",
+      "tier": "groq",
+      "article": "Zionist Enemy Escalates War on Lebanon: Air Raids on South, Dahieh Leave Massacres and Massive Destruction - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T16:46:09.025728+00:00",
+      "tier": "groq",
+      "article": "Italian PM says the Gulf is \u2018fundamental\u2019 for Europe\u2019s security"
     }
   ]
 }
