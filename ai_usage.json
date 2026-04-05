@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1547,
+  "total_calls": 1551,
   "tiers": {
-    "groq": 1529,
+    "groq": 1533,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-03T14:51:36.706385+00:00",
-      "tier": "groq",
-      "article": "France orders its fifth and final FDI frigate from Naval Group, completing fleet plan"
-    },
-    {
-      "timestamp": "2026-04-03T14:52:16.323269+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Islamic Resistance fighters fired barrages of rockets targeting Israeli settlements of Kiryat Shmona, Metula and Kfar Yuval as part of earlier warning to evacuate northern Israeli settlements: Military Media statement no. 19 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-03T14:53:09.557173+00:00",
-      "tier": "groq",
-      "article": "How the US and Israel are waging war on Iran\u2019s medicines, vaccines"
-    },
-    {
-      "timestamp": "2026-04-03T14:53:26.092062+00:00",
-      "tier": "groq",
-      "article": "Iran war: International law experts allege violations in Iran war"
-    },
     {
       "timestamp": "2026-04-03T16:51:34.964410+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-05T20:43:24.481565+00:00",
       "tier": "groq",
       "article": "Hezbollah Deals Decisive Blows to Israeli Power, Arrogant Enemy Being Gradually Contained by Mighty Fighters - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-05T22:41:34.989165+00:00",
+      "tier": "groq",
+      "article": "UK police arrest seven protesters near RAF base used by US"
+    },
+    {
+      "timestamp": "2026-04-05T22:42:14.402428+00:00",
+      "tier": "groq",
+      "article": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks"
+    },
+    {
+      "timestamp": "2026-04-05T22:43:01.662572+00:00",
+      "tier": "groq",
+      "article": "Has the humanitarian crisis in Gaza been ignored?"
+    },
+    {
+      "timestamp": "2026-04-05T22:43:17.803595+00:00",
+      "tier": "groq",
+      "article": "Is war more profitable than peace? David Keen explains"
     }
   ]
 }
