@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1563,
+  "total_calls": 1567,
   "tiers": {
-    "groq": 1545,
+    "groq": 1549,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-03T22:41:00.967749+00:00",
-      "tier": "groq",
-      "article": "Survivors of Iran bridge attack recall terror of US-Israeli strike"
-    },
-    {
-      "timestamp": "2026-04-03T22:41:36.248961+00:00",
-      "tier": "groq",
-      "article": "US warns its citizens to leave Lebanon citing escalating security risks"
-    },
-    {
-      "timestamp": "2026-04-03T22:41:52.523097+00:00",
-      "tier": "groq",
-      "article": "Trump says with more time, US can \u2018take the oil\u2019 in Iran"
-    },
-    {
-      "timestamp": "2026-04-03T22:42:08.853927+00:00",
-      "tier": "groq",
-      "article": "A-10 Warthog crashes near Strait of Hormuz"
-    },
     {
       "timestamp": "2026-04-04T02:36:22.445570+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-06T09:20:22.089334+00:00",
       "tier": "groq",
       "article": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-04-06T11:06:54.469381+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Military Media statement 7 details seven rocket strikes by Islamic Resistance fighters against gatherings of Israeli soldiers and vehicles in the Lebanese border towns of Aynata and Maroun Al-Ras - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-06T11:07:26.463587+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent reports Israeli strike on Beirut\u2019s Dahiyeh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-06T11:07:43.533494+00:00",
+      "tier": "groq",
+      "article": "Israeli enemy army renews threat to strike Beiurt\u2019s southern auburb (Dahiyeh) - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-06T11:08:01.118541+00:00",
+      "tier": "groq",
+      "article": "Trump declares victory after pilot rescue, but threats to US aircraft and personnel remain in Iran"
     }
   ]
 }
