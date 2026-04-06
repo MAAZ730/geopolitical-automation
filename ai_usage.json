@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1579,
+  "total_calls": 1583,
   "tiers": {
-    "groq": 1561,
+    "groq": 1565,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-04T08:53:24.666947+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted overnight gatherings of Israeli soldiers across southern Lebanese border, Israeli Merkava with rocket barrages and guided missile: Hezbollah Military Media statements no. 1, 2, 3 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-04T08:54:01.010021+00:00",
-      "tier": "groq",
-      "article": "Israeli drones spotted flying at low-altitude over Beirut\u2019s Dahiyeh and Mount Lebanon: Al-Manar correspondent in south Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-04T10:43:31.138217+00:00",
-      "tier": "groq",
-      "article": "Iran executes two convicted members of banned opposition group"
-    },
-    {
-      "timestamp": "2026-04-04T10:43:47.474827+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s IRGC: We have no connection to the attack on the US embassy in Riyadh, our targets are defined according to our prior warnings - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-04T10:44:05.436470+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-06T17:02:44.312264+00:00",
       "tier": "groq",
       "article": "Trump says US armed Iranian dissidents via Kurds weeks before launching war"
+    },
+    {
+      "timestamp": "2026-04-06T19:09:38.140465+00:00",
+      "tier": "groq",
+      "article": "Hegseth says strikes on Iran increasing as Hormuz deadline looms"
+    },
+    {
+      "timestamp": "2026-04-06T19:10:13.312891+00:00",
+      "tier": "groq",
+      "article": "US-Israeli attacks target 360 heath infrastructures\u00a0"
+    },
+    {
+      "timestamp": "2026-04-06T19:11:11.570755+00:00",
+      "tier": "groq",
+      "article": "Trump warns deadline \u2018final\u2019 as Iran pushes proposal to end war"
+    },
+    {
+      "timestamp": "2026-04-06T19:12:00.800651+00:00",
+      "tier": "groq",
+      "article": "Trump\u2019s \u2018Bridge Day\u2019 threat: Can a last-ditch ceasefire plan work?"
     }
   ]
 }
