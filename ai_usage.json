@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1619,
+  "total_calls": 1623,
   "tiers": {
-    "groq": 1601,
+    "groq": 1605,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-05T08:55:33.733634+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance Strikes Israeli Warship Off Lebanese Coast - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T08:55:53.812945+00:00",
-      "tier": "groq",
-      "article": "Yemen\u2019s Houthis claim cluster missile attack on Israel\u2019s Ben Gurion airport"
-    },
-    {
-      "timestamp": "2026-04-05T08:56:09.905175+00:00",
-      "tier": "groq",
-      "article": "The commander of the Nahal Brigade in the enemy army, regarding the Beit Lev ambush last week: Hezbollah operatives opened fire on the force at point-blank range, and within a short time, four Israeli soldiers were killed - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T08:56:25.854968+00:00",
-      "tier": "groq",
-      "article": "Trump seeks to end the war without it becoming \u2018an abject failure\u2019"
-    },
     {
       "timestamp": "2026-04-05T10:44:13.293428+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-07T15:21:09.481756+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted infrastructure belonging to the Israeli enemy army in the occupied city of Safed and in the settlement of Rosh Pina with rocket salvos: statement 37 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-07T17:09:44.140645+00:00",
+      "tier": "groq",
+      "article": "Fire erupts near industrial site in Saudi Arabia after Iranian strikes"
+    },
+    {
+      "timestamp": "2026-04-07T17:10:22.640386+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s other would-be WMD program lies in ruins following strikes by Israel and the US"
+    },
+    {
+      "timestamp": "2026-04-07T17:10:39.026915+00:00",
+      "tier": "groq",
+      "article": "Russia confirms 16 Cameroonian soldiers killed in Ukraine war"
+    },
+    {
+      "timestamp": "2026-04-07T17:11:26.852729+00:00",
+      "tier": "groq",
+      "article": "How rescue of US airman in remote part of Iran unfolded"
     }
   ]
 }
