@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1607,
+  "total_calls": 1611,
   "tiers": {
-    "groq": 1589,
+    "groq": 1593,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-04T22:40:55.235553+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted Israeli occupation army military vehicles in the Jneijel Heights area of \u200b\u200bAl-Qantara, another one in the Sidr area of \u200b\u200bAinata with artillery fire: Military Media Statements 29, 30 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-04T22:41:13.852010+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted the newly established headquarters of the artillery battalion command of the 146th Division, south of the settlement of Kabri, with a squadron of attack drones: Military Media Statement 32 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T02:54:17.306406+00:00",
-      "tier": "groq",
-      "article": "Israeli measures tighten grip on Hebron\u2019s Ibrahimi Mosque"
-    },
-    {
-      "timestamp": "2026-04-05T02:54:56.945894+00:00",
-      "tier": "groq",
-      "article": "How will Pakistan deal with the fallout from Iran war?"
-    },
     {
       "timestamp": "2026-04-05T02:55:46.278513+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-07T09:12:38.691448+00:00",
       "tier": "groq",
       "article": "Academics Protest Over Attacks on Universities and Hospitals"
+    },
+    {
+      "timestamp": "2026-04-07T11:05:33.377382+00:00",
+      "tier": "groq",
+      "article": "Palestine weekly wrap: Protests sweep West Bank after death penalty law"
+    },
+    {
+      "timestamp": "2026-04-07T11:06:15.505009+00:00",
+      "tier": "groq",
+      "article": "Synagogue in Tehran \u2018completely destroyed\u2019 in US-Israeli attack"
+    },
+    {
+      "timestamp": "2026-04-07T11:07:01.632407+00:00",
+      "tier": "groq",
+      "article": "US-Israeli strikes destroy buildings in northern Iran"
+    },
+    {
+      "timestamp": "2026-04-07T11:07:17.988775+00:00",
+      "tier": "groq",
+      "article": "Iran releases on bail Japan national jailed amid antigovernment protests"
     }
   ]
 }
