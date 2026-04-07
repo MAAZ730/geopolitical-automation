@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1599,
+  "total_calls": 1603,
   "tiers": {
-    "groq": 1581,
+    "groq": 1585,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-04T18:53:47.513372+00:00",
-      "tier": "groq",
-      "article": "New video reveals moment US-Israeli munitions impact Iranian bridge"
-    },
-    {
-      "timestamp": "2026-04-04T18:54:03.562612+00:00",
-      "tier": "groq",
-      "article": "Top diplomat Marco Rubio strips Qassem Soleimani\u2019s niece of US residency"
-    },
-    {
-      "timestamp": "2026-04-04T20:42:29.918542+00:00",
-      "tier": "groq",
-      "article": "Universities hit as US, Israel ramp up attacks on Iran\u2019s infrastructure"
-    },
-    {
-      "timestamp": "2026-04-04T20:43:08.429266+00:00",
-      "tier": "groq",
-      "article": "Tehran psychiatric hospital not usable after US-Israeli strike"
-    },
     {
       "timestamp": "2026-04-04T20:43:24.664938+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-07T05:56:09.379627+00:00",
       "tier": "groq",
       "article": "Trade minister announces round-the-clock management to supply goods, control market"
+    },
+    {
+      "timestamp": "2026-04-07T07:26:49.459280+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Iranian missile makes impact in Ramat Hasharon, Tel Aviv - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-07T07:27:07.245761+00:00",
+      "tier": "groq",
+      "article": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough"
+    },
+    {
+      "timestamp": "2026-04-07T07:27:42.288458+00:00",
+      "tier": "groq",
+      "article": "Trump threatens to take out Iran in 'one night' if no deal before deadline"
+    },
+    {
+      "timestamp": "2026-04-07T07:28:28.411613+00:00",
+      "tier": "groq",
+      "article": "US-Israeli bombs will not halt Iran\u2019s nuclear technology in service of humanity: AEOI - Al-Manar TV Lebanon"
     }
   ]
 }
