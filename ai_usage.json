@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1623,
+  "total_calls": 1627,
   "tiers": {
-    "groq": 1605,
+    "groq": 1609,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-05T10:44:13.293428+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: A drone strike targeted a motorcycle on the road to Rashidieh camp - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T10:44:44.515762+00:00",
-      "tier": "groq",
-      "article": "Israeli missile sirens sound in Safad and Katzrin, Upper Galilee and occupied Golan Heights - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T10:45:01.718165+00:00",
-      "tier": "groq",
-      "article": "Ukraine hits port in Russia\u2019s Primorsk, oil refinery in Nizhny Novgorod"
-    },
-    {
-      "timestamp": "2026-04-05T10:45:44.355474+00:00",
-      "tier": "groq",
-      "article": "Humiliating Defeat : Iran Shoots Down Multiple US Warplanes in Failed Pilot Rescue Mission - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-05T13:08:43.553634+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-07T17:11:26.852729+00:00",
       "tier": "groq",
       "article": "How rescue of US airman in remote part of Iran unfolded"
+    },
+    {
+      "timestamp": "2026-04-07T19:15:40.908095+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance targeted, at 14:00 on Tuesday, 07-04-2026, a Merkava tank on the eastern outskirts of the city of Bint Jbeil for the second time with a direct missile strike, achieving a confirmed hit: statement 42 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-07T19:15:59.110048+00:00",
+      "tier": "groq",
+      "article": "Tehran synagogue destroyed as US-Israeli strikes kill over a dozen"
+    },
+    {
+      "timestamp": "2026-04-07T19:16:15.456794+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 15:00 on Tuesday 07-04-2026 a Merkava tank on the eastern outskirts of Bint Jbeil city for the third time with a direct missile, achieving a confirmed hit: statement 43 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-07T19:16:33.256420+00:00",
+      "tier": "groq",
+      "article": "Russia, China Block Bahrain-sponsored UN Resolution on Strait of Hormuz - Al-Manar TV Lebanon"
     }
   ]
 }
