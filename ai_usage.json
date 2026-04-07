@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1615,
+  "total_calls": 1619,
   "tiers": {
-    "groq": 1597,
+    "groq": 1601,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-05T05:50:09.863142+00:00",
-      "tier": "groq",
-      "article": "Italy\u2019s Meloni meets Qatar emir to discuss energy issues amid Iran war"
-    },
-    {
-      "timestamp": "2026-04-05T07:18:18.673822+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: Enemy warplanes launched airstrikes targeting the towns of Shaqra, Beit Yahoun, Al-Tayri, and Kawnin - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T07:18:57.891107+00:00",
-      "tier": "groq",
-      "article": "What we know so far about rescue of US air force officer in Iran"
-    },
-    {
-      "timestamp": "2026-04-05T07:19:43.907414+00:00",
-      "tier": "groq",
-      "article": "Khatam al-Anbiya Central Headquarters: Enemy aircraft penetrating south of Isfahan were targeted, including two Black Hawk helicopters and a C-130 military transport plane - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-05T08:55:33.733634+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-07T13:51:09.263221+00:00",
       "tier": "groq",
       "article": "Taiwanese opposition leader to meet China\u2019s Xi in a test of diplomatic skill"
+    },
+    {
+      "timestamp": "2026-04-07T15:18:51.490782+00:00",
+      "tier": "groq",
+      "article": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul "
+    },
+    {
+      "timestamp": "2026-04-07T15:19:31.686320+00:00",
+      "tier": "groq",
+      "article": "Ukraine, Russia kill several civilians in tit-for-tat attacks"
+    },
+    {
+      "timestamp": "2026-04-07T15:20:23.121639+00:00",
+      "tier": "groq",
+      "article": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops"
+    },
+    {
+      "timestamp": "2026-04-07T15:21:09.481756+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted infrastructure belonging to the Israeli enemy army in the occupied city of Safed and in the settlement of Rosh Pina with rocket salvos: statement 37 - Al-Manar TV Lebanon"
     }
   ]
 }
