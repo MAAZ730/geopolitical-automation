@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1591,
+  "total_calls": 1595,
   "tiers": {
-    "groq": 1573,
+    "groq": 1577,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-04T14:40:53.991894+00:00",
-      "tier": "groq",
-      "article": "Widening Israeli Aggression on Lebanon Leaves Casualties, Trail of Damage - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-04T14:41:14.282329+00:00",
-      "tier": "groq",
-      "article": "Projectile hits near Iran\u2019s Bushehr nuclear plant, killing one: IAEA"
-    },
-    {
-      "timestamp": "2026-04-04T16:43:54.790976+00:00",
-      "tier": "groq",
-      "article": "Vehicles burn in Israel after being hit with Iranian projectile debris"
-    },
-    {
-      "timestamp": "2026-04-04T16:44:26.991908+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted the Shraga base (the administrative headquarters of the Golani Brigade Command) north of the occupied city of Acre with a squadron of attack drones: Military Media Statement 20 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-04T16:44:45.465670+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-06T22:50:26.652054+00:00",
       "tier": "groq",
       "article": "US Army wants new grenade launcher, ammunition to be able to destroy drones "
+    },
+    {
+      "timestamp": "2026-04-07T02:48:17.477334+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 17:50 on Monday 06-04-2026 a gathering of \u201cIsraeli\u201d enemy soldiers in Al-Malkiya site with a loitering drone, achieving a direct hit: statement 31 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-07T02:48:34.185295+00:00",
+      "tier": "groq",
+      "article": "Trump says US could charge for Strait of Hormuz passage amid Iran war"
+    },
+    {
+      "timestamp": "2026-04-07T02:49:01.518612+00:00",
+      "tier": "groq",
+      "article": "Protesters swarm US embassy in Tel Aviv, demanding end of wars"
+    },
+    {
+      "timestamp": "2026-04-07T02:49:17.389996+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 17:50 on Monday 06-04-2026 a gathering of \u201cIsraeli\u201d enemy soldiers in Margaliot settlement with a swarm of loitering drones: statement 32 - Al-Manar TV Lebanon"
     }
   ]
 }
