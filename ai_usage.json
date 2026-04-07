@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1631,
+  "total_calls": 1635,
   "tiers": {
-    "groq": 1613,
+    "groq": 1617,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-05T14:43:32.262825+00:00",
-      "tier": "groq",
-      "article": "Lebanese health ministry reports 4 martyrs and 39 injuries in Israeli air strike on Jenah area, Beirut - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T14:44:09.209343+00:00",
-      "tier": "groq",
-      "article": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says"
-    },
-    {
-      "timestamp": "2026-04-05T14:44:57.247777+00:00",
-      "tier": "groq",
-      "article": "US So-Called Rescue Mission Ended in Complete Failure: Khatam al-Anbiya - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-05T14:45:16.929835+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s ex-FM Zarif proposes peace roadmap; Gulf points at erosion of trust"
-    },
     {
       "timestamp": "2026-04-05T16:44:19.260734+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-07T20:58:33.628001+00:00",
       "tier": "groq",
       "article": "Shelly Kittleson: US journalist to be released after kidnap in Iraq, militia says"
+    },
+    {
+      "timestamp": "2026-04-07T22:47:08.694902+00:00",
+      "tier": "groq",
+      "article": "Iranians brace for possible devastation as Trump\u2019s deadline looms"
+    },
+    {
+      "timestamp": "2026-04-07T22:47:24.877178+00:00",
+      "tier": "groq",
+      "article": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says"
+    },
+    {
+      "timestamp": "2026-04-07T22:48:00.330378+00:00",
+      "tier": "groq",
+      "article": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack"
+    },
+    {
+      "timestamp": "2026-04-07T22:48:16.431832+00:00",
+      "tier": "groq",
+      "article": "French couple leave Iran after more than three years in jail"
     }
   ]
 }
