@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1611,
+  "total_calls": 1615,
   "tiers": {
-    "groq": 1593,
+    "groq": 1597,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-05T02:55:46.278513+00:00",
-      "tier": "groq",
-      "article": "US satellite firm Planet Labs announces blackout on war on Iran images"
-    },
-    {
-      "timestamp": "2026-04-05T02:56:02.509293+00:00",
-      "tier": "groq",
-      "article": "Israeli police arrest antiwar protesters in Tel Aviv"
-    },
-    {
-      "timestamp": "2026-04-05T05:49:22.837287+00:00",
-      "tier": "groq",
-      "article": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up"
-    },
-    {
-      "timestamp": "2026-04-05T05:49:38.830005+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s unpopular war on Iran"
-    },
     {
       "timestamp": "2026-04-05T05:50:09.863142+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-07T11:07:17.988775+00:00",
       "tier": "groq",
       "article": "Iran releases on bail Japan national jailed amid antigovernment protests"
+    },
+    {
+      "timestamp": "2026-04-07T13:49:36.443526+00:00",
+      "tier": "groq",
+      "article": "IRGC Launches Pink Missile on Tel Aviv in Response to Young Girl\u2019s Call - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-07T13:50:10.175646+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters have been engaged in ongoing, intense clashes with an Israeli force on the eastern outskirts of Bint Jbeil since Tuesday noon, using light and medium weapons while also launching rockets and artillery, including a direct missile strike that successfully hit a Merkava tank: Military Media Statement 26 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-07T13:50:27.094645+00:00",
+      "tier": "groq",
+      "article": "Iranian missile strike damages cars and street in Israel"
+    },
+    {
+      "timestamp": "2026-04-07T13:51:09.263221+00:00",
+      "tier": "groq",
+      "article": "Taiwanese opposition leader to meet China\u2019s Xi in a test of diplomatic skill"
     }
   ]
 }
