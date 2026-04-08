@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1655,
+  "total_calls": 1659,
   "tiers": {
-    "groq": 1637,
+    "groq": 1641,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-06T06:06:25.584509+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy soldiers and vehicles at the Friz hill in the town of Ainatha with a barrage of rockets and artillery shells: statement 27 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-06T06:06:57.369271+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a newly established command headquarters of the Israeli enemy army in the town of Taybeh with a squadron of attack drones: statement 30 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-06T06:07:43.664366+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a gathering of vehicles and soldiers of the Israeli enemy army in the vicinity of the Marj site opposite the border town of Markaba with a squadron of attack drones: statement 29 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-06T06:07:59.894650+00:00",
-      "tier": "groq",
-      "article": "Hamas armed wing rejects disarmament while Israel continues attacks"
-    },
     {
       "timestamp": "2026-04-06T09:18:46.751169+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-08T11:05:48.685509+00:00",
       "tier": "groq",
       "article": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East"
+    },
+    {
+      "timestamp": "2026-04-08T13:32:12.133779+00:00",
+      "tier": "groq",
+      "article": "Hundreds of Martyrs & Injuries in Dozens of Israeli Airstrikes across Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-08T13:32:46.398559+00:00",
+      "tier": "groq",
+      "article": "Israeli enemy launches a series of powerful air strikes targeting several areas across Lebanon including southern Lebanon, Beirut, Sidon, Dahiyeh, Mount Lebanon and Bekaa - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-08T13:33:03.588813+00:00",
+      "tier": "groq",
+      "article": "US politicians react to Trump\u2019s Iran ceasefire with caution, relief"
+    },
+    {
+      "timestamp": "2026-04-08T13:33:53.722955+00:00",
+      "tier": "groq",
+      "article": "US-Iran ceasefire deal: What are the terms, and what\u2019s next?"
     }
   ]
 }
