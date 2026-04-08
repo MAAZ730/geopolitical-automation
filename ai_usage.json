@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1651,
+  "total_calls": 1655,
   "tiers": {
-    "groq": 1633,
+    "groq": 1637,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-06T02:55:04.218786+00:00",
-      "tier": "groq",
-      "article": "How rescue of US airman in remote part of Iran unfolded"
-    },
-    {
-      "timestamp": "2026-04-06T02:55:51.420945+00:00",
-      "tier": "groq",
-      "article": "Vietnam\u2019s gig workers slammed by rising fuel costs amid fallout of Iran war"
-    },
-    {
-      "timestamp": "2026-04-06T02:56:44.596884+00:00",
-      "tier": "groq",
-      "article": "Frustration grows as Iran\u2019s wartime internet shutdown breaks grim record"
-    },
-    {
-      "timestamp": "2026-04-06T02:57:29.559326+00:00",
-      "tier": "groq",
-      "article": "Pope warns world is becoming \u2018indifferent\u2019 to violence"
-    },
     {
       "timestamp": "2026-04-06T06:06:25.584509+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-08T09:12:56.142342+00:00",
       "tier": "groq",
       "article": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins"
+    },
+    {
+      "timestamp": "2026-04-08T11:04:32.757491+00:00",
+      "tier": "groq",
+      "article": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire"
+    },
+    {
+      "timestamp": "2026-04-08T11:05:15.609320+00:00",
+      "tier": "groq",
+      "article": "Israeli military strikes southern Lebanon after US-Iran ceasefire"
+    },
+    {
+      "timestamp": "2026-04-08T11:05:32.289755+00:00",
+      "tier": "groq",
+      "article": "Lebanon excluded from ceasefire as Israeli strikes continue"
+    },
+    {
+      "timestamp": "2026-04-08T11:05:48.685509+00:00",
+      "tier": "groq",
+      "article": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East"
     }
   ]
 }
