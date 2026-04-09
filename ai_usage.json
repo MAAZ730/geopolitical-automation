@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1687,
+  "total_calls": 1691,
   "tiers": {
-    "groq": 1669,
+    "groq": 1673,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-06T22:48:08.467391+00:00",
-      "tier": "groq",
-      "article": "Lebanon\u2019s Hezbollah and Yemen\u2019s Houthis join Iran in strike on Israel"
-    },
-    {
-      "timestamp": "2026-04-06T22:48:48.188862+00:00",
-      "tier": "groq",
-      "article": "Israeli air strike kills at least 10 Palestinians near Gaza school"
-    },
-    {
-      "timestamp": "2026-04-06T22:49:34.774018+00:00",
-      "tier": "groq",
-      "article": "Why is Iran\u2019s Bushehr nuclear power plant being attacked?"
-    },
-    {
-      "timestamp": "2026-04-06T22:50:26.652054+00:00",
-      "tier": "groq",
-      "article": "US Army wants new grenade launcher, ammunition to be able to destroy drones "
-    },
     {
       "timestamp": "2026-04-07T02:48:17.477334+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-09T05:57:17.220667+00:00",
       "tier": "groq",
       "article": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled"
+    },
+    {
+      "timestamp": "2026-04-09T07:46:01.989376+00:00",
+      "tier": "groq",
+      "article": "Iran war day 41: What\u2019s happening in Lebanon, Middle East and beyond?"
+    },
+    {
+      "timestamp": "2026-04-09T07:46:41.239602+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent reports Israeli strikes on a number of southern Lebanese towns including Qlaileh, Harouf and Kawnin - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-09T07:47:35.078570+00:00",
+      "tier": "groq",
+      "article": "Three life terms for Kashmir\u2019s Aasiya Andrabi fit India\u2019s \u2018broader pattern\u2019"
+    },
+    {
+      "timestamp": "2026-04-09T07:47:51.567500+00:00",
+      "tier": "groq",
+      "article": "Negotiators face huge task to close gaps in rival Iran peace proposals"
     }
   ]
 }
