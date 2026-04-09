@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1679,
+  "total_calls": 1683,
   "tiers": {
-    "groq": 1661,
+    "groq": 1665,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-06T19:09:38.140465+00:00",
-      "tier": "groq",
-      "article": "Hegseth says strikes on Iran increasing as Hormuz deadline looms"
-    },
-    {
-      "timestamp": "2026-04-06T19:10:13.312891+00:00",
-      "tier": "groq",
-      "article": "US-Israeli attacks target 360 heath infrastructures\u00a0"
-    },
-    {
-      "timestamp": "2026-04-06T19:11:11.570755+00:00",
-      "tier": "groq",
-      "article": "Trump warns deadline \u2018final\u2019 as Iran pushes proposal to end war"
-    },
-    {
-      "timestamp": "2026-04-06T19:12:00.800651+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s \u2018Bridge Day\u2019 threat: Can a last-ditch ceasefire plan work?"
-    },
     {
       "timestamp": "2026-04-06T20:48:21.377056+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-08T22:50:03.601699+00:00",
       "tier": "groq",
       "article": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments"
+    },
+    {
+      "timestamp": "2026-04-09T02:41:26.826759+00:00",
+      "tier": "groq",
+      "article": "Protesters outside Israeli embassy in London condemn assault on Lebanon"
+    },
+    {
+      "timestamp": "2026-04-09T02:42:06.393130+00:00",
+      "tier": "groq",
+      "article": "World reacts to \u2018brutal\u2019 Israeli attacks on Lebanon after US-Iran truce"
+    },
+    {
+      "timestamp": "2026-04-09T02:42:52.481680+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Fierce clashes between Hezbollah and the Israeli army in the Khiam plain after the latter attempted to advance - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-09T02:43:09.934477+00:00",
+      "tier": "groq",
+      "article": "Trump administration signals it is mulling NATO withdrawal after Iran war"
     }
   ]
 }
