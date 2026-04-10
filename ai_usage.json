@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1743,
+  "total_calls": 1747,
   "tiers": {
-    "groq": 1725,
+    "groq": 1729,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-08T07:58:26.921783+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent in south Lebanon reports strikes on towns of Al-Mansouri, Jmeijmeh and Khirbet Selm - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-08T07:58:58.485602+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters will target gatherings of Israeli enemy army soldiers at the Ramot Naftali barracks with a rocket salvo: statement 47 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-08T07:59:14.872928+00:00",
-      "tier": "groq",
-      "article": "Iran ceasefire deal gives Trump a way out of war - but at a high cost"
-    },
-    {
-      "timestamp": "2026-04-08T08:00:05.883973+00:00",
-      "tier": "groq",
-      "article": "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz"
-    },
     {
       "timestamp": "2026-04-08T09:11:43.787584+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-10T11:09:01.149281+00:00",
       "tier": "groq",
       "article": "Trump weighs pulling some US troops from Europe amid NATO strains, official says"
+    },
+    {
+      "timestamp": "2026-04-10T13:25:02.617949+00:00",
+      "tier": "groq",
+      "article": "\u2018How can I do this?\u2019: Gaza families unable to bury dead months into truce"
+    },
+    {
+      "timestamp": "2026-04-10T13:25:40.379380+00:00",
+      "tier": "groq",
+      "article": "Video shows explosion over Erbil in suspected drone interception"
+    },
+    {
+      "timestamp": "2026-04-10T13:26:26.007983+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance launched a squadron of attack drones towards Kiryat Shmona barracks: Hezbollah Military Media statement 20 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T13:26:43.120976+00:00",
+      "tier": "groq",
+      "article": "\u2018Closer to a break than ever\u2019: Can NATO survive if Trump pulls the US out?"
     }
   ]
 }
