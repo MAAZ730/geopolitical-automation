@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1735,
+  "total_calls": 1739,
   "tiers": {
-    "groq": 1717,
+    "groq": 1721,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-08T02:49:20.321550+00:00",
-      "tier": "groq",
-      "article": "White House confirms two-week suspension of strikes on Iran"
-    },
-    {
-      "timestamp": "2026-04-08T02:49:58.560060+00:00",
-      "tier": "groq",
-      "article": "Pakistan appeals to Trump to extend deadline, Iran to reopen Hormuz Strait"
-    },
-    {
-      "timestamp": "2026-04-08T02:50:46.974926+00:00",
-      "tier": "groq",
-      "article": "Soldiers Were Crawling and Unable to Raise Heads: Israeli Channel 12 Discloses More Details of Hezbollah\u2019s Litani River Ambush - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-08T02:51:07.231860+00:00",
-      "tier": "groq",
-      "article": "How is the US-Israel war on Iran affecting Russian-Iranian relations?"
-    },
     {
       "timestamp": "2026-04-08T05:54:46.538907+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-10T08:02:30.851758+00:00",
       "tier": "groq",
       "article": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure"
+    },
+    {
+      "timestamp": "2026-04-10T09:20:16.165469+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Military Media has issued since midnight 15 statements detailing strikes on Israeli targets across border and in occupied Palestinian territories - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T09:20:51.738000+00:00",
+      "tier": "groq",
+      "article": "Police in Venezuela block protesters calling for higher wages, pensions"
+    },
+    {
+      "timestamp": "2026-04-10T09:21:08.135515+00:00",
+      "tier": "groq",
+      "article": "Iran to US: Talks on Ending War Hinge on Lebanon Ceasefire - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T09:21:55.391210+00:00",
+      "tier": "groq",
+      "article": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire"
     }
   ]
 }
