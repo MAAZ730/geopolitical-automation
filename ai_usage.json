@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1747,
+  "total_calls": 1751,
   "tiers": {
-    "groq": 1729,
+    "groq": 1733,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-08T09:11:43.787584+00:00",
-      "tier": "groq",
-      "article": "Maariv Hebrew newspaper says 5,000 structures destroyed as a result of Iranian missiles - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-08T09:12:23.173999+00:00",
-      "tier": "groq",
-      "article": "Trump says he has agreed to two-week ceasefire with Iran"
-    },
-    {
-      "timestamp": "2026-04-08T09:12:39.664315+00:00",
-      "tier": "groq",
-      "article": "Gulf, Middle East nations react to Iran-US ceasefire announcement"
-    },
-    {
-      "timestamp": "2026-04-08T09:12:56.142342+00:00",
-      "tier": "groq",
-      "article": "Iraqis celebrates US-Iran ceasefire as two-week halt in war begins"
-    },
     {
       "timestamp": "2026-04-08T11:04:32.757491+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-10T13:26:43.120976+00:00",
       "tier": "groq",
       "article": "\u2018Closer to a break than ever\u2019: Can NATO survive if Trump pulls the US out?"
+    },
+    {
+      "timestamp": "2026-04-10T15:01:09.247697+00:00",
+      "tier": "groq",
+      "article": "Gaza father searches for his children\u2019s remains in the rubble for years"
+    },
+    {
+      "timestamp": "2026-04-10T15:01:42.123966+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 01:00 on Friday 10-04-2026 the military naval base at Ashdod port with qualitative missiles: statement 22 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T15:01:59.557161+00:00",
+      "tier": "groq",
+      "article": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'"
+    },
+    {
+      "timestamp": "2026-04-10T15:02:15.862379+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 13:50 on Friday 10-04-2026 an \u201cIsraeli\u201d enemy artillery bunker in Ne\u2019ot Mordechai settlement with a swarm of loitering drones: statement 23 - Al-Manar TV Lebanon"
     }
   ]
 }
