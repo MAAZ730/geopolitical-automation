@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1739,
+  "total_calls": 1743,
   "tiers": {
-    "groq": 1721,
+    "groq": 1725,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-08T05:54:46.538907+00:00",
-      "tier": "groq",
-      "article": "Iranians commemorate victims of Minab school strike"
-    },
-    {
-      "timestamp": "2026-04-08T05:55:18.767338+00:00",
-      "tier": "groq",
-      "article": "White House spokesperson: President Trump has been briefed on Pakistan\u2019s proposal for a two-week ceasefire, and a response will be forthcoming - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-08T05:55:35.602105+00:00",
-      "tier": "groq",
-      "article": "Djibouti and the Horn of Africa: new front in the war on Iran"
-    },
-    {
-      "timestamp": "2026-04-08T05:56:18.754925+00:00",
-      "tier": "groq",
-      "article": "Outpaced by the US, China\u2019s military places selective bets on artificial intelligence"
-    },
     {
       "timestamp": "2026-04-08T07:58:26.921783+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-10T09:21:55.391210+00:00",
       "tier": "groq",
       "article": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire"
+    },
+    {
+      "timestamp": "2026-04-10T11:07:26.474887+00:00",
+      "tier": "groq",
+      "article": "Hezbollah MP Raad: Israeli Strikes Attempt to Compensate for Battlefield Failure - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T11:08:26.184744+00:00",
+      "tier": "groq",
+      "article": "Israel strikes residential areas, destroys homes in southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T11:08:42.334924+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers east of the Khiam detention center with a high-quality missile: Hezbollah Military Media statement 17 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T11:09:01.149281+00:00",
+      "tier": "groq",
+      "article": "Trump weighs pulling some US troops from Europe amid NATO strains, official says"
     }
   ]
 }
