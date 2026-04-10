@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1731,
+  "total_calls": 1735,
   "tiers": {
-    "groq": 1713,
+    "groq": 1717,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-07T22:47:08.694902+00:00",
-      "tier": "groq",
-      "article": "Iranians brace for possible devastation as Trump\u2019s deadline looms"
-    },
-    {
-      "timestamp": "2026-04-07T22:47:24.877178+00:00",
-      "tier": "groq",
-      "article": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says"
-    },
-    {
-      "timestamp": "2026-04-07T22:48:00.330378+00:00",
-      "tier": "groq",
-      "article": "Protesters in Iraq swarm Kuwaiti consulate after deadly rocket attack"
-    },
-    {
-      "timestamp": "2026-04-07T22:48:16.431832+00:00",
-      "tier": "groq",
-      "article": "French couple leave Iran after more than three years in jail"
-    },
     {
       "timestamp": "2026-04-08T02:49:20.321550+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-10T06:07:21.324374+00:00",
       "tier": "groq",
       "article": "Khamenei says Tehran \u2018astonished the world\u2019 during US-Israeli war on Iran"
+    },
+    {
+      "timestamp": "2026-04-10T08:01:12.309340+00:00",
+      "tier": "groq",
+      "article": "Trump again chides NATO for failing to back US operations in Iran"
+    },
+    {
+      "timestamp": "2026-04-10T08:01:57.775346+00:00",
+      "tier": "groq",
+      "article": "Iran war: Ceasefire talks to Lebanon, what\u2019s happening on day 42?"
+    },
+    {
+      "timestamp": "2026-04-10T08:02:13.786444+00:00",
+      "tier": "groq",
+      "article": "Israeli Ministry of Health reports 7,993 casualties since the war on Iran and Lebanon started - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T08:02:30.851758+00:00",
+      "tier": "groq",
+      "article": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure"
     }
   ]
 }
