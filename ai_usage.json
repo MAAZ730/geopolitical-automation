@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1751,
+  "total_calls": 1755,
   "tiers": {
-    "groq": 1733,
+    "groq": 1737,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-08T11:04:32.757491+00:00",
-      "tier": "groq",
-      "article": "UAE, Kuwait, Bahrain report attacks despite Iran-US ceasefire"
-    },
-    {
-      "timestamp": "2026-04-08T11:05:15.609320+00:00",
-      "tier": "groq",
-      "article": "Israeli military strikes southern Lebanon after US-Iran ceasefire"
-    },
-    {
-      "timestamp": "2026-04-08T11:05:32.289755+00:00",
-      "tier": "groq",
-      "article": "Lebanon excluded from ceasefire as Israeli strikes continue"
-    },
-    {
-      "timestamp": "2026-04-08T11:05:48.685509+00:00",
-      "tier": "groq",
-      "article": "World welcomes US-Iran ceasefire, urges lasting peace in the Middle East"
-    },
     {
       "timestamp": "2026-04-08T13:32:12.133779+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-10T15:02:15.862379+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted at 13:50 on Friday 10-04-2026 an \u201cIsraeli\u201d enemy artillery bunker in Ne\u2019ot Mordechai settlement with a swarm of loitering drones: statement 23 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T17:16:58.660659+00:00",
+      "tier": "groq",
+      "article": "Palestinian shot dead during Israeli settler attack on occupied West Bank village"
+    },
+    {
+      "timestamp": "2026-04-10T17:17:39.580719+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy soldiers at Al-Awida Hill in the border town of Al-Adaisseh with a drone strike, achieving a direct hit: statement 43 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-10T17:18:28.747827+00:00",
+      "tier": "groq",
+      "article": "Cuban president will not \u2018step down\u2019 despite Trump pressure to resign"
+    },
+    {
+      "timestamp": "2026-04-10T17:18:44.961810+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted the Kiryat Shmona barracks and the Beit Hillel base with swarms of attack drones: statement 41 - Al-Manar TV Lebanon"
     }
   ]
 }
