@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1767,
+  "total_calls": 1771,
   "tiers": {
-    "groq": 1749,
+    "groq": 1753,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-08T19:27:33.854504+00:00",
-      "tier": "groq",
-      "article": "Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza"
-    },
-    {
-      "timestamp": "2026-04-08T19:27:50.193256+00:00",
-      "tier": "groq",
-      "article": "Hezbollah on Israeli Massacres against Innocent Civilians in Lebanon: Martyrs Blood Won\u2019t Be in Vain - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-08T19:28:26.742535+00:00",
-      "tier": "groq",
-      "article": "Iran Plans Military Response to Israeli Attacks on Lebanon, Considers even Exiting Ceasefire Agreement - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-08T19:29:20.145218+00:00",
-      "tier": "groq",
-      "article": "Jeremy Bowen: Ceasefire means respite for civilians, but it might not last long"
-    },
     {
       "timestamp": "2026-04-08T20:55:41.332571+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-10T22:48:12.930146+00:00",
       "tier": "groq",
       "article": "Lebanon and Israel officials to meet in US on Tuesday"
+    },
+    {
+      "timestamp": "2026-04-11T02:39:57.712934+00:00",
+      "tier": "groq",
+      "article": "Israeli strike on government building kills Lebanese officers"
+    },
+    {
+      "timestamp": "2026-04-11T02:40:34.204674+00:00",
+      "tier": "groq",
+      "article": "US federal court hears new case against Trump tariffs"
+    },
+    {
+      "timestamp": "2026-04-11T02:40:50.444227+00:00",
+      "tier": "groq",
+      "article": "The president who threatened to end a civilization is supposed to guarantee Ukraine\u2019s survival"
+    },
+    {
+      "timestamp": "2026-04-11T02:41:41.235794+00:00",
+      "tier": "groq",
+      "article": "Brazil announces US partnership to intercept weapons, drug trafficking"
     }
   ]
 }
