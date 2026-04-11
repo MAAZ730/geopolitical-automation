@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1785,
+  "total_calls": 1789,
   "tiers": {
-    "groq": 1767,
+    "groq": 1771,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-09T05:57:01.051320+00:00",
-      "tier": "groq",
-      "article": "\u2018Israel must be restrained for US-Iran ceasefire to hold\u2019"
-    },
-    {
-      "timestamp": "2026-04-09T05:57:17.220667+00:00",
-      "tier": "groq",
-      "article": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled"
-    },
-    {
-      "timestamp": "2026-04-09T07:46:01.989376+00:00",
-      "tier": "groq",
-      "article": "Iran war day 41: What\u2019s happening in Lebanon, Middle East and beyond?"
-    },
-    {
-      "timestamp": "2026-04-09T07:46:41.239602+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent reports Israeli strikes on a number of southern Lebanese towns including Qlaileh, Harouf and Kawnin - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-09T07:47:35.078570+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-11T10:45:35.536970+00:00",
       "tier": "groq",
       "article": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week"
+    },
+    {
+      "timestamp": "2026-04-11T13:11:24.798610+00:00",
+      "tier": "groq",
+      "article": "Lebanese Health Ministry says 2 paramedics among 7 martyrs in Israeli strikes on Zefta and Kfar Seer in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T13:11:56.103378+00:00",
+      "tier": "groq",
+      "article": "Israeli enemy army spokesperson says two paratroopers wounded during clashes in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T13:12:41.906148+00:00",
+      "tier": "groq",
+      "article": "Direct hit scored as Islamic Resistance fighters targeted a Merkava tank in Saf Al-Hawa area of \u200b\u200bBint Jbeil with an attack drone: Hezbollah Military Media statement 10 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T13:13:01.078288+00:00",
+      "tier": "groq",
+      "article": "Hezbollah\u2019s Fadlallah: Autonomy-Lacking Gov\u2019t Prolonging Israeli Aggression at Expense of Civilian Lives - Al-Manar TV Lebanon"
     }
   ]
 }
