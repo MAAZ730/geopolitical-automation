@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1777,
+  "total_calls": 1781,
   "tiers": {
-    "groq": 1759,
+    "groq": 1763,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-08T22:49:47.288676+00:00",
-      "tier": "groq",
-      "article": "Devastation in Beirut after Israeli strikes reduce homes to rubble"
-    },
-    {
-      "timestamp": "2026-04-08T22:50:03.601699+00:00",
-      "tier": "groq",
-      "article": "Ecuador recalls its ambassador from Colombia over Jorge Glas comments"
-    },
-    {
-      "timestamp": "2026-04-09T02:41:26.826759+00:00",
-      "tier": "groq",
-      "article": "Protesters outside Israeli embassy in London condemn assault on Lebanon"
-    },
-    {
-      "timestamp": "2026-04-09T02:42:06.393130+00:00",
-      "tier": "groq",
-      "article": "World reacts to \u2018brutal\u2019 Israeli attacks on Lebanon after US-Iran truce"
-    },
     {
       "timestamp": "2026-04-09T02:42:52.481680+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-11T07:11:28.453804+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted gatherings of Israeli enemy soldiers and vehicles in the towns of Al-Bayada and Shama with rocket barrages and artillery shells: statement 55 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T08:56:11.685566+00:00",
+      "tier": "groq",
+      "article": "At least seven Palestinians killed in Israeli attacks on Gaza"
+    },
+    {
+      "timestamp": "2026-04-11T08:56:55.271099+00:00",
+      "tier": "groq",
+      "article": "Dozens Martyred as Israeli Airstrikes Intensify Across Southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T08:57:41.516821+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondents in south Lebanon reports Israeli strikes on towns of Tebnine, Khima, Yuhmor Al-Shaqeef, Al-Qantara - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T08:57:58.111533+00:00",
+      "tier": "groq",
+      "article": "Tasnim Iranian news agency: The release of Iranian assets and a ceasefire in Lebanon are among the preconditions for starting negotiations with Washington - Al-Manar TV Lebanon"
     }
   ]
 }
