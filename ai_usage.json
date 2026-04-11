@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1793,
+  "total_calls": 1797,
   "tiers": {
-    "groq": 1775,
+    "groq": 1779,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-09T09:20:15.059824+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s veterans\u2019 theatre turns war wounds into catharsis"
-    },
-    {
-      "timestamp": "2026-04-09T09:20:31.310657+00:00",
-      "tier": "groq",
-      "article": "For Gulf states, Hormuz uncertainty casts shadow over US-Iran ceasefire"
-    },
-    {
-      "timestamp": "2026-04-09T11:08:13.498276+00:00",
-      "tier": "groq",
-      "article": "Watch: Hezbollah Hits Israeli Warship in Bold Coastal Strike - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-09T11:08:48.434719+00:00",
-      "tier": "groq",
-      "article": "Lebanese Army Command mourns four soldiers martyred Wednesday in Israeli strikes in Sidon, Shamshtar and Hermel - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-09T11:09:06.245950+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-11T14:45:38.512990+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters fired successive barrages of rockets and artillery shells targeting gatherings of Israeli soldiers and vehicles in Bint Jbeil and Maroun Al-Ras border towns: Hezbollah Military Media statement 12 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T16:44:17.218123+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 13:45 on Friday 10-04-2026 a Merkava tank in the vicinity of Al-Ishraq School in Bint Jbeil city with a guided missile, achieving a confirmed hit, and the tank was seen burning: statement 27 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T16:44:34.038195+00:00",
+      "tier": "groq",
+      "article": "Al Jazeera\u2019s Diplomatic Editor outlines key issues in US-Iran talks"
+    },
+    {
+      "timestamp": "2026-04-11T16:44:58.135846+00:00",
+      "tier": "groq",
+      "article": "US military begins clearing Strait of Hormuz, Trump says"
+    },
+    {
+      "timestamp": "2026-04-11T16:45:14.333283+00:00",
+      "tier": "groq",
+      "article": "Hezbollah, Amal Movement Call on Resistance Supporters to Shun Protests during Critical Conditions - Al-Manar TV Lebanon"
     }
   ]
 }
