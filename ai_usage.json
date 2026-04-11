@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1797,
+  "total_calls": 1801,
   "tiers": {
-    "groq": 1779,
+    "groq": 1783,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-09T11:09:06.245950+00:00",
-      "tier": "groq",
-      "article": "Several people reported killed in fresh Israeli attacks on Lebanon"
-    },
-    {
-      "timestamp": "2026-04-09T11:09:47.676544+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Islamic Resistance fighters fired a barrage of rockets targeting the Israeli settlement of Kiryat Shmona in retaliation to the enemy\u2019s violation of the ceasefire agreement: statement 4 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-09T13:54:59.894822+00:00",
-      "tier": "groq",
-      "article": "Israeli Enemy Pounds Lebanon Amid National Mourning: Dozens Martyred, Injured in Fresh Strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-09T13:55:41.917518+00:00",
-      "tier": "groq",
-      "article": "Funeral held for Al Jazeera\u2019s Wishah killed in Israeli strike in Gaza"
-    },
     {
       "timestamp": "2026-04-09T13:56:28.123982+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-11T16:45:14.333283+00:00",
       "tier": "groq",
       "article": "Hezbollah, Amal Movement Call on Resistance Supporters to Shun Protests during Critical Conditions - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T18:55:07.940021+00:00",
+      "tier": "groq",
+      "article": "Gaza families mourn loved ones killed in overnight Israeli air strikes"
+    },
+    {
+      "timestamp": "2026-04-11T18:55:24.175056+00:00",
+      "tier": "groq",
+      "article": "Iranian rabbi describes Israel\u2019s destruction of a Tehran synagogue"
+    },
+    {
+      "timestamp": "2026-04-11T18:55:46.321009+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted infrastructure belonging to the Israeli enemy army in the occupied city of Safed with a missile barrage: statement 28 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-11T18:56:02.999030+00:00",
+      "tier": "groq",
+      "article": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal"
     }
   ]
 }
