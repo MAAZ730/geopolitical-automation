@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1816,
+  "total_calls": 1817,
   "tiers": {
-    "groq": 1798,
+    "groq": 1799,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-09T21:44:11.398732+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted infrastructure belonging to the Israeli enemy army in the occupied city of Haifa with a barrage of sophisticated missiles: 39 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-09T21:44:37.689115+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-04-12T06:03:30.665406+00:00",
       "tier": "groq",
       "article": "Iran war: We spoke to the man making Lego-style AI videos that experts say are powerful propaganda"
+    },
+    {
+      "timestamp": "2026-04-12T07:25:55.222285+00:00",
+      "tier": "groq",
+      "article": "Hungarians vote as PM Orban faces toughest election challenge in years"
     }
   ]
 }
