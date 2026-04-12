@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1827,
+  "total_calls": 1831,
   "tiers": {
-    "groq": 1809,
+    "groq": 1813,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-10T06:05:40.581643+00:00",
-      "tier": "groq",
-      "article": "Kuwait blames Iran for drone strike, Iran denies responsibility"
-    },
-    {
-      "timestamp": "2026-04-10T06:06:12.172507+00:00",
-      "tier": "groq",
-      "article": "Netanyahu: \u2018No ceasefire in Lebanon\u2019, Israel open to peace talks"
-    },
-    {
-      "timestamp": "2026-04-10T06:07:04.754824+00:00",
-      "tier": "groq",
-      "article": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done"
-    },
-    {
-      "timestamp": "2026-04-10T06:07:21.324374+00:00",
-      "tier": "groq",
-      "article": "Khamenei says Tehran \u2018astonished the world\u2019 during US-Israeli war on Iran"
-    },
     {
       "timestamp": "2026-04-10T08:01:12.309340+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-12T13:12:55.705505+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted at 11:10 on Sunday 12-04-2026 Kiryat Shmona barracks with a swarm of loitering drones - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-12T14:48:07.350182+00:00",
+      "tier": "groq",
+      "article": "Israeli army raids across the occupied West Bank overnight"
+    },
+    {
+      "timestamp": "2026-04-12T14:48:47.359579+00:00",
+      "tier": "groq",
+      "article": "Ukraine and Russia accuse each other of breaching Easter ceasefire"
+    },
+    {
+      "timestamp": "2026-04-12T14:49:03.847903+00:00",
+      "tier": "groq",
+      "article": "Palestinians condemn storming of Al-Aqsa Mosque by Israel\u2019s Ben-Gvir"
+    },
+    {
+      "timestamp": "2026-04-12T14:49:20.459490+00:00",
+      "tier": "groq",
+      "article": "US-Iran ceasefire talks: What are the key sticking points?"
     }
   ]
 }
