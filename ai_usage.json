@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1813,
+  "total_calls": 1816,
   "tiers": {
-    "groq": 1795,
+    "groq": 1798,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-09T19:19:51.561000+00:00",
-      "tier": "groq",
-      "article": "Israeli media: Hezbollah is expected to fire missiles at Tel Aviv in the coming hours - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-09T19:20:43.266754+00:00",
-      "tier": "groq",
-      "article": "India\u2019s Assam and Kerala states hold legislative assembly elections"
-    },
-    {
-      "timestamp": "2026-04-09T21:43:54.854653+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 18:00 on Thursday 09-04-2026 an \u201cIsraeli\u201d enemy military bulldozer of type D9 in Rashaf town with a guided missile, achieving a direct hit: statement 34 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-09T21:44:11.398732+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-04-12T03:00:47.683218+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted a Merkava tank on Al-Awida hill in the border town of Al-Adaisseh with a loitering glider and achieved a confirmed hit: statement 34 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-12T06:02:05.825138+00:00",
+      "tier": "groq",
+      "article": "Israeli Channel 12: Border settlements were ordered to raise alert due to expected escalation by Hezbollah in coming 48 hours - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-12T06:02:37.416385+00:00",
+      "tier": "groq",
+      "article": "Pakistan urges US and Iran to uphold ceasefire after talks end"
+    },
+    {
+      "timestamp": "2026-04-12T06:03:30.665406+00:00",
+      "tier": "groq",
+      "article": "Iran war: We spoke to the man making Lego-style AI videos that experts say are powerful propaganda"
     }
   ]
 }
