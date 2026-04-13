@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1841,
+  "total_calls": 1845,
   "tiers": {
-    "groq": 1823,
+    "groq": 1827,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-10T11:08:42.334924+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers east of the Khiam detention center with a high-quality missile: Hezbollah Military Media statement 17 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-10T11:09:01.149281+00:00",
-      "tier": "groq",
-      "article": "Trump weighs pulling some US troops from Europe amid NATO strains, official says"
-    },
-    {
-      "timestamp": "2026-04-10T13:25:02.617949+00:00",
-      "tier": "groq",
-      "article": "\u2018How can I do this?\u2019: Gaza families unable to bury dead months into truce"
-    },
-    {
-      "timestamp": "2026-04-10T13:25:40.379380+00:00",
-      "tier": "groq",
-      "article": "Video shows explosion over Erbil in suspected drone interception"
-    },
     {
       "timestamp": "2026-04-10T13:26:26.007983+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-13T06:23:47.007041+00:00",
       "tier": "groq",
       "article": "\u2018Terrible for foreign policy\u2019: Trump attacks Pope Leo after peace appeal"
+    },
+    {
+      "timestamp": "2026-04-13T10:05:40.273829+00:00",
+      "tier": "groq",
+      "article": "Geography as strategy: How geography became Iran\u2019s most enduring weapon"
+    },
+    {
+      "timestamp": "2026-04-13T10:06:11.925215+00:00",
+      "tier": "groq",
+      "article": "Iran will defend its rights from authority in Hormuz to compensation for US-Israeli war: Aref"
+    },
+    {
+      "timestamp": "2026-04-13T10:06:29.452987+00:00",
+      "tier": "groq",
+      "article": "Civilian Areas Ravaged as Relentless Israeli Strikes Rock Southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-13T10:06:49.392226+00:00",
+      "tier": "groq",
+      "article": "Iranian armed forces fully prepared amid diplomatic efforts: Government spox"
     }
   ]
 }
