@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1840,
+  "total_calls": 1841,
   "tiers": {
-    "groq": 1822,
+    "groq": 1823,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-10T11:08:26.184744+00:00",
-      "tier": "groq",
-      "article": "Israel strikes residential areas, destroys homes in southern Lebanon"
-    },
     {
       "timestamp": "2026-04-10T11:08:42.334924+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-04-13T03:04:24.748269+00:00",
       "tier": "groq",
       "article": "US military threatens to blockade all Iranian ports starting on Monday"
+    },
+    {
+      "timestamp": "2026-04-13T06:23:47.007041+00:00",
+      "tier": "groq",
+      "article": "\u2018Terrible for foreign policy\u2019: Trump attacks Pope Leo after peace appeal"
     }
   ]
 }
