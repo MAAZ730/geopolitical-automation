@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1853,
+  "total_calls": 1857,
   "tiers": {
-    "groq": 1835,
+    "groq": 1839,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-10T17:18:28.747827+00:00",
-      "tier": "groq",
-      "article": "Cuban president will not \u2018step down\u2019 despite Trump pressure to resign"
-    },
-    {
-      "timestamp": "2026-04-10T17:18:44.961810+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted the Kiryat Shmona barracks and the Beit Hillel base with swarms of attack drones: statement 41 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-10T19:05:09.116019+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Continues Bombarding \u2018Israel\u2019, Confronting Occupation Army Advance in Bint Jbeil, South Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-10T19:05:56.840982+00:00",
-      "tier": "groq",
-      "article": "Russia suffers \u2018record\u2019 soldier casualties as Ukraine ups drone production"
-    },
     {
       "timestamp": "2026-04-10T19:06:12.742939+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-13T13:54:36.369814+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted at 16:00 on Monday 13-04-2026 Shraga base (the administrative headquarters of the Golani Brigade command) north of the occupied city of Acre with a swarm of loitering drones: statement 29 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-13T15:24:47.271850+00:00",
+      "tier": "groq",
+      "article": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom"
+    },
+    {
+      "timestamp": "2026-04-13T15:25:26.512092+00:00",
+      "tier": "groq",
+      "article": "Israeli media: Two Israeli soldiers were wounded in an airstrike carried out by Hezbollah with a drone - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-13T15:25:43.932905+00:00",
+      "tier": "groq",
+      "article": "Israeli army: Eight soldiers were injured in a drone attack in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-13T15:26:02.018099+00:00",
+      "tier": "groq",
+      "article": "Security in Persian Gulf, Sea of Oman must be for all or none: IRGC"
     }
   ]
 }
