@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1869,
+  "total_calls": 1873,
   "tiers": {
-    "groq": 1851,
+    "groq": 1855,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-11T02:40:50.444227+00:00",
-      "tier": "groq",
-      "article": "The president who threatened to end a civilization is supposed to guarantee Ukraine\u2019s survival"
-    },
-    {
-      "timestamp": "2026-04-11T02:41:41.235794+00:00",
-      "tier": "groq",
-      "article": "Brazil announces US partnership to intercept weapons, drug trafficking"
-    },
-    {
-      "timestamp": "2026-04-11T05:31:43.089365+00:00",
-      "tier": "groq",
-      "article": "Pentagon, Lockheed Martin agree to $4.7 billion PAC-3 interceptor deal"
-    },
-    {
-      "timestamp": "2026-04-11T05:32:23.548008+00:00",
-      "tier": "groq",
-      "article": "Trump says Strait of Hormuz to reopen \u2018soon\u2019 as US, Iran head to talks"
-    },
     {
       "timestamp": "2026-04-11T05:33:12.898591+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-13T21:05:24.161796+00:00",
       "tier": "groq",
       "article": "What do we know about sea mines in and around the Strait of Hormuz?"
+    },
+    {
+      "timestamp": "2026-04-13T22:56:00.228518+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-13T22:56:33.964504+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-13T22:56:50.528599+00:00",
+      "tier": "groq",
+      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
+    },
+    {
+      "timestamp": "2026-04-13T22:57:27.918987+00:00",
+      "tier": "groq",
+      "article": "Sheikh Qassem: Your Excellency, they are pressuring you to confront your people, and they will not be satisfied until everything collapses in favor of \u201cIsrael\u201d - Al-Manar TV Lebanon"
     }
   ]
 }
