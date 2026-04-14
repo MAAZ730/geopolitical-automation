@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1893,
+  "total_calls": 1897,
   "tiers": {
-    "groq": 1875,
+    "groq": 1879,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-11T16:44:17.218123+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 13:45 on Friday 10-04-2026 a Merkava tank in the vicinity of Al-Ishraq School in Bint Jbeil city with a guided missile, achieving a confirmed hit, and the tank was seen burning: statement 27 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T16:44:34.038195+00:00",
-      "tier": "groq",
-      "article": "Al Jazeera\u2019s Diplomatic Editor outlines key issues in US-Iran talks"
-    },
-    {
-      "timestamp": "2026-04-11T16:44:58.135846+00:00",
-      "tier": "groq",
-      "article": "US military begins clearing Strait of Hormuz, Trump says"
-    },
-    {
-      "timestamp": "2026-04-11T16:45:14.333283+00:00",
-      "tier": "groq",
-      "article": "Hezbollah, Amal Movement Call on Resistance Supporters to Shun Protests during Critical Conditions - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-11T18:55:07.940021+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-14T15:23:06.940147+00:00",
       "tier": "groq",
       "article": "Iran condemns desecration of Al-Aqsa Mosque"
+    },
+    {
+      "timestamp": "2026-04-14T17:19:12.831384+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T17:19:29.174095+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes drone production, military support deal with Germany"
+    },
+    {
+      "timestamp": "2026-04-14T17:19:59.236726+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T17:20:15.971752+00:00",
+      "tier": "groq",
+      "article": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?"
     }
   ]
 }
