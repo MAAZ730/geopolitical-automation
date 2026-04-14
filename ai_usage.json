@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1885,
+  "total_calls": 1889,
   "tiers": {
-    "groq": 1867,
+    "groq": 1871,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-11T13:11:24.798610+00:00",
-      "tier": "groq",
-      "article": "Lebanese Health Ministry says 2 paramedics among 7 martyrs in Israeli strikes on Zefta and Kfar Seer in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T13:11:56.103378+00:00",
-      "tier": "groq",
-      "article": "Israeli enemy army spokesperson says two paratroopers wounded during clashes in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T13:12:41.906148+00:00",
-      "tier": "groq",
-      "article": "Direct hit scored as Islamic Resistance fighters targeted a Merkava tank in Saf Al-Hawa area of \u200b\u200bBint Jbeil with an attack drone: Hezbollah Military Media statement 10 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T13:13:01.078288+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Fadlallah: Autonomy-Lacking Gov\u2019t Prolonging Israeli Aggression at Expense of Civilian Lives - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-11T14:44:42.608308+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-14T11:15:30.256547+00:00",
       "tier": "groq",
       "article": "US Navy should rely on allies to boost maritime industrial base, report says"
+    },
+    {
+      "timestamp": "2026-04-14T13:57:36.561570+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T13:58:09.258931+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T13:58:25.863580+00:00",
+      "tier": "groq",
+      "article": "How many ships have passed the Strait of Hormuz and how many were attacked?"
+    },
+    {
+      "timestamp": "2026-04-14T13:58:42.108994+00:00",
+      "tier": "groq",
+      "article": "Sanctioned tankers transit Strait of Hormuz amid US blockade"
     }
   ]
 }
