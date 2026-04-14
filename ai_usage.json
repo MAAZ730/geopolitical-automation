@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1905,
+  "total_calls": 1909,
   "tiers": {
-    "groq": 1887,
+    "groq": 1891,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-11T22:41:46.151644+00:00",
-      "tier": "groq",
-      "article": "Lebanese government rejection of ceasefire helped Israeli enemy to commit Wednesday\u2019s massacres: Hezbollah lawmaker Hussein Al-Hajj Hasan - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T22:42:17.305335+00:00",
-      "tier": "groq",
-      "article": "Pope Leo urges world leaders to reject war and negotiate peace"
-    },
-    {
-      "timestamp": "2026-04-11T22:42:33.389374+00:00",
-      "tier": "groq",
-      "article": "Russia-Ukraine Orthodox Easter ceasefire begins"
-    },
-    {
-      "timestamp": "2026-04-11T22:42:49.499997+00:00",
-      "tier": "groq",
-      "article": "Iran Denies CENTCOM\u2019s Claim, Reiterates Full Control over Strait of Hormuz - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-12T02:59:29.324025+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-14T21:05:27.392090+00:00",
       "tier": "groq",
       "article": "Islamic Resistance fighters targeted at 18:15 on Tuesday 14-04-2026 gatherings of \u201cIsraeli\u201d enemy army soldiers and vehicles south of Al-Khiam city with rocket barrages and artillery shells: statement 29 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T22:57:33.877824+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T22:57:50.089807+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T22:58:06.322856+00:00",
+      "tier": "groq",
+      "article": "Australia touts first GMLRS artillery rocket assembled Down Under"
+    },
+    {
+      "timestamp": "2026-04-14T22:58:25.782648+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian thanks 6 countries for stances against Zionist crimes"
     }
   ]
 }
