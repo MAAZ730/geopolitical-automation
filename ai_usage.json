@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1901,
+  "total_calls": 1905,
   "tiers": {
-    "groq": 1883,
+    "groq": 1887,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-11T20:41:47.708669+00:00",
-      "tier": "groq",
-      "article": "Regardless of Ceasefire Reports, Hezbollah Ramps Up Strikes on Israeli Occupation Forces in South Lebanon, Settlements  in Northern Palestine - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T20:42:07.562068+00:00",
-      "tier": "groq",
-      "article": "Hundreds arrested at UK protest against Palestine Action ban"
-    },
-    {
-      "timestamp": "2026-04-11T20:42:39.664325+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s deputy FM says Tehran has \u2018upper hand\u2019 in talks with US"
-    },
-    {
-      "timestamp": "2026-04-11T20:42:55.559823+00:00",
-      "tier": "groq",
-      "article": "Israeli media: While Netanyahu was telling Zionists about war achievements, Hezbollah was firing combat drones at \u2018Israel\u2019 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-11T22:41:46.151644+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-14T19:31:14.171445+00:00",
       "tier": "groq",
       "article": "Why are the US, Iran arguing over duration of uranium enrichment ban?"
+    },
+    {
+      "timestamp": "2026-04-14T21:03:52.332907+00:00",
+      "tier": "groq",
+      "article": "Israeli strike on Gaza police car kills child"
+    },
+    {
+      "timestamp": "2026-04-14T21:04:24.887994+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T21:05:11.192104+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T21:05:27.392090+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 18:15 on Tuesday 14-04-2026 gatherings of \u201cIsraeli\u201d enemy army soldiers and vehicles south of Al-Khiam city with rocket barrages and artillery shells: statement 29 - Al-Manar TV Lebanon"
     }
   ]
 }
