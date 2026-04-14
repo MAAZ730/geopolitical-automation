@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1897,
+  "total_calls": 1901,
   "tiers": {
-    "groq": 1879,
+    "groq": 1883,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-11T18:55:07.940021+00:00",
-      "tier": "groq",
-      "article": "Gaza families mourn loved ones killed in overnight Israeli air strikes"
-    },
-    {
-      "timestamp": "2026-04-11T18:55:24.175056+00:00",
-      "tier": "groq",
-      "article": "Iranian rabbi describes Israel\u2019s destruction of a Tehran synagogue"
-    },
-    {
-      "timestamp": "2026-04-11T18:55:46.321009+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted infrastructure belonging to the Israeli enemy army in the occupied city of Safed with a missile barrage: statement 28 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T18:56:02.999030+00:00",
-      "tier": "groq",
-      "article": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal"
-    },
     {
       "timestamp": "2026-04-11T20:41:47.708669+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-14T17:20:15.971752+00:00",
       "tier": "groq",
       "article": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?"
+    },
+    {
+      "timestamp": "2026-04-14T19:28:53.565651+00:00",
+      "tier": "groq",
+      "article": "Drones, Iran war escalating horror as Sudan war enters fourth year"
+    },
+    {
+      "timestamp": "2026-04-14T19:29:34.413626+00:00",
+      "tier": "groq",
+      "article": "Somalia reports hit on al-Shabab with \u2018international support\u2019"
+    },
+    {
+      "timestamp": "2026-04-14T19:30:20.998677+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T19:31:14.171445+00:00",
+      "tier": "groq",
+      "article": "Why are the US, Iran arguing over duration of uranium enrichment ban?"
     }
   ]
 }
