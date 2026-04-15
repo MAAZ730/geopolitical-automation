@@ -2895,8 +2895,8 @@ def main() -> None:
         successful_post_counter, image_count, tg_video_count, tg_image_count = run_telegram_hunter(
             posted, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_upload_queue
         )
-    except Exception as e:
-        log.error(f"[PHASE 2] Telegram video engine failed: {e}")
+    except Exception:
+        log.exception("[PHASE 2] Telegram video engine failed")
 
     # --------------------------------------------------
     # PHASE 3: YouTube Fallback (Fill remaining video quota)
@@ -2909,8 +2909,8 @@ def main() -> None:
             successful_post_counter, tg_video_count = run_youtube_hunter(
                 posted, successful_post_counter, tg_video_count, drive_upload_queue
             )
-        except Exception as e:
-            log.error(f"[PHASE 3] YouTube fallback engine failed: {e}")
+        except Exception:
+            log.exception("[PHASE 3] YouTube fallback engine failed")
     else:
         log.info("\n[PHASE 3] Video quota met. Skipping YouTube hunter.")
 
