@@ -82,7 +82,7 @@ os.makedirs(RUN_DIR, exist_ok=True)
 os.makedirs(BASE_DIR / "videos", exist_ok=True)
 
 successful_post_counter = 1
-run_count = 1  # Default value; overwritten at the start of main() with the persisted sequence number
+run_count = 1  # Module-level default (= first run value); overwritten at the start of main()
 
 OUTPUT_DIR = RUN_DIR
 VIDEO_DIR = RUN_DIR
@@ -2767,16 +2767,42 @@ def rewrite_caption_ai(original_caption: str) -> dict | None:
     return None
 
 
-def _load_run_tracker() -> dict:
-    """Load run_tracker.json, returning an empty dict on any read/parse failure."""
+def _load_run_tracker(path: Path = None) -> dict:
+    """Load a run-tracker JSON file, returning an empty dict on read/parse failure.
+
+    Args:
+        path: Path to the tracker file.  Defaults to the module-level ``tracker_file``.
+    """
+    if path is None:
+        path = tracker_file
     try:
-        with open(tracker_file, "r") as _tf:
+        with open(path, "r") as _tf:
             return json.load(_tf)
     except FileNotFoundError:
         return {}
     except json.JSONDecodeError as exc:
-        log.warning(f"  [TRACKER] run_tracker.json is corrupt ({exc}); starting fresh.")
+        log.warning(f"  [TRACKER] {path.name} is corrupt ({exc}); starting fresh.")
         return {}
+
+
+def _save_run_tracker(data: dict, path: Path = None) -> None:
+    """Persist *data* back to the run-tracker JSON file.
+
+    Args:
+        data: Mapping to serialise.
+        path: Path to the tracker file.  Defaults to the module-level ``tracker_file``.
+    """
+    if path is None:
+        path = tracker_file
+    try:
+        with open(path, "w") as _tf:
+            json.dump(data, _tf, indent=2)
+        log.info(f"  [TRACKER] Saved to {path.name}: {data}")
+    except OSError as exc:
+        log.error(
+            f"  [TRACKER] Failed to persist tracker data to {path}: {exc}. "
+            "The same run_count may be reused on the next execution."
+        )
 
 
 def main() -> None:
@@ -2967,13 +2993,7 @@ def main() -> None:
     # Directive 4: persist run_count so the next run auto-increments
     _tracker = _load_run_tracker()
     _tracker["run_count"] = run_count
-    try:
-        with open(tracker_file, "w") as _tf:
-            json.dump(_tracker, _tf, indent=2)
-        log.info(f"  [TRACKER] Saved run_count={run_count} to run_tracker.json")
-    except OSError as exc:
-        log.error(f"  [TRACKER] Failed to persist run_count={run_count}: {exc}. "
-                  "The same run number may be reused on the next execution.")
+    _save_run_tracker(_tracker)
 
 
 if __name__ == "__main__":
