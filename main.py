@@ -82,6 +82,7 @@ os.makedirs(RUN_DIR, exist_ok=True)
 os.makedirs(BASE_DIR / "videos", exist_ok=True)
 
 successful_post_counter = 1
+run_count = 1  # Module-level default (= first run value); overwritten at the start of main()
 
 OUTPUT_DIR = RUN_DIR
 VIDEO_DIR = RUN_DIR
@@ -2341,15 +2342,15 @@ def upload_to_drive(service, filepath, parent_id):
 # V15.3: Video-Only Drive Routing
 VIDEO_DRIVE_FOLDER_ID = os.environ.get("VIDEO_DRIVE_FOLDER_ID", "")
 
-def upload_files_to_drive(file_paths: list[Path]):
+def upload_files_to_drive(file_paths: list[Path], run_count: int = 1):
     svc = get_drive_service()
     if not svc:
         return
     try:
         ROOT_ID = os.getenv("DRIVE_ROOT_ID", "1AVFFrHH89quUE8wMO_C5XHu7T62RuBNZ")
-        
-        # User requested new folder structure: DD_FN----Date_FolderNumber-1,2,3
-        target_folder_id = find_or_create_folder(svc, folder_name, ROOT_ID)
+
+        # Directive 2: folder name is simply the run_count integer as a string
+        target_folder_id = find_or_create_folder(svc, str(run_count), ROOT_ID)
         
         for p in file_paths:
             if p and p.exists():
@@ -2364,7 +2365,7 @@ def upload_files_to_drive(file_paths: list[Path]):
 # ===========================================================================
 
 
-def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_queue):
+def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_queue, run_count):
     """V19.1: Telethon native Telegram video hunter with BS4 fallback."""
     print("  [SYSTEM] Engaging Telegram Video Hunter (Target: 5 Videos)...")
 
@@ -2440,8 +2441,8 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
 
                         clean_caption = re.sub(r'[\*"]', '', rewritten_caption).strip()
 
-                        final_file_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Video.mp4"
-                        caption_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
+                        final_file_path = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.mp4"
+                        caption_path = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.txt"
 
                         # FFmpeg 9:16 processing
                         print("  [TG] Applying FFmpeg vertical processing...")
@@ -2542,8 +2543,8 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
 
                     clean_caption = re.sub(r'[\*"]', '', rewritten_caption).strip()
 
-                    final_file_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Video.mp4"
-                    caption_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
+                    final_file_path = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.mp4"
+                    caption_path = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.txt"
 
                     media_resp = requests.get(media_url, stream=True, timeout=30)
                     media_resp.raise_for_status()
@@ -2587,7 +2588,7 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
     return successful_post_counter, image_count, tg_video_count, tg_image_count
 
 
-def run_youtube_hunter(posted_links, successful_post_counter, tg_video_count, drive_queue):
+def run_youtube_hunter(posted_links, successful_post_counter, tg_video_count, drive_queue, run_count):
     """V19.1: YouTube Data API v3 + yt-dlp fallback video hunter."""
     yt_api_key = os.environ.get("YOUTUBE_API_KEY", "")
     if not yt_api_key:
@@ -2684,8 +2685,8 @@ def run_youtube_hunter(posted_links, successful_post_counter, tg_video_count, dr
 
                 clean_caption = re.sub(r'[\*"]', '', rewritten_caption).strip()
 
-                final_file_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Video.mp4"
-                caption_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
+                final_file_path = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.mp4"
+                caption_path = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.txt"
 
                 # Build parsed_json for format_vertical_video
                 parsed_json = {
@@ -2766,6 +2767,44 @@ def rewrite_caption_ai(original_caption: str) -> dict | None:
     return None
 
 
+def _load_run_tracker(path: Path = None) -> dict:
+    """Load a run-tracker JSON file, returning an empty dict on read/parse failure.
+
+    Args:
+        path: Path to the tracker file.  Defaults to the module-level ``tracker_file``.
+    """
+    if path is None:
+        path = tracker_file
+    try:
+        with open(path, "r") as _tf:
+            return json.load(_tf)
+    except FileNotFoundError:
+        return {}
+    except json.JSONDecodeError as exc:
+        log.warning(f"  [TRACKER] {path.name} is corrupt ({exc}); starting fresh.")
+        return {}
+
+
+def _save_run_tracker(data: dict, path: Path = None) -> None:
+    """Persist *data* back to the run-tracker JSON file.
+
+    Args:
+        data: Mapping to serialise.
+        path: Path to the tracker file.  Defaults to the module-level ``tracker_file``.
+    """
+    if path is None:
+        path = tracker_file
+    try:
+        with open(path, "w") as _tf:
+            json.dump(data, _tf, indent=2)
+        log.info(f"  [TRACKER] Saved to {path.name}: {data}")
+    except OSError as exc:
+        log.error(
+            f"  [TRACKER] Failed to persist tracker data to {path}: {exc}. "
+            "The same run_count may be reused on the next execution."
+        )
+
+
 def main() -> None:
     log.info("=" * 60)
     log.info("Geopolitical Breaking News v19.1 — Global OSINT Syndicate")
@@ -2773,6 +2812,11 @@ def main() -> None:
 
     # V19.0: Load brain weights from reinforcement learning loop
     load_brain_weights()
+
+    # Directive 1: load sequential run_count from run_tracker.json
+    global run_count
+    run_count = _load_run_tracker().get("run_count", 0) + 1
+    log.info(f"  [TRACKER] This is run #{run_count}")
 
     # V19.0: Midnight Run gate — if triggered by midnight cron, run analysis and exit
     run_mode = os.environ.get("RUN_MODE", "normal")
@@ -2847,8 +2891,8 @@ def main() -> None:
             # IMAGE mode: standard card generation
             log.info("  Generating static card")
             
-            png = OUTPUT_DIR / f"{successful_post_counter:02d}_Image.png"
-            txt = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
+            png = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.png"
+            txt = OUTPUT_DIR / f"{run_count}_{successful_post_counter}.txt"
 
             threat_level = int(article.get("threat_level", 8))
             generate_card(article, png, threat_level=threat_level)
@@ -2893,7 +2937,7 @@ def main() -> None:
     log.info("=" * 60)
     try:
         successful_post_counter, image_count, tg_video_count, tg_image_count = run_telegram_hunter(
-            posted, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_upload_queue
+            posted, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_upload_queue, run_count
         )
     except Exception as e:
         log.exception("[PHASE 2] Telegram video engine failed")
@@ -2907,7 +2951,7 @@ def main() -> None:
         log.info("=" * 60)
         try:
             successful_post_counter, tg_video_count = run_youtube_hunter(
-                posted, successful_post_counter, tg_video_count, drive_upload_queue
+                posted, successful_post_counter, tg_video_count, drive_upload_queue, run_count
             )
         except Exception as e:
             log.exception("[PHASE 3] YouTube fallback engine failed")
@@ -2924,7 +2968,7 @@ def main() -> None:
     log.info("=" * 60)
 
     if carousel_caption:
-        combo_txt = Path(RUN_DIR) / f"{FN}_Carousel_Combined.txt"
+        combo_txt = Path(RUN_DIR) / f"{run_count}_Carousel_Combined.txt"
         combo_txt.write_text(carousel_caption, encoding="utf-8")
         drive_upload_queue.append(combo_txt)
         log.info(f"  Carousel Combined caption saved: {combo_txt.name}")
@@ -2940,11 +2984,16 @@ def main() -> None:
         
         # Strict alphanumeric sort before sequential Google Drive loop
         all_ups = sorted(all_ups, key=lambda x: x.name)
-        upload_files_to_drive(all_ups)
+        upload_files_to_drive(all_ups, run_count)
 
     log.info("\n" + "=" * 60)
     log.info(f"V19.1 Run complete. {processed_count} cards + {tg_video_count} videos. {failed_count} failed.")
     log.info("=" * 60)
+
+    # Directive 4: persist run_count so the next run auto-increments
+    _tracker = _load_run_tracker()
+    _tracker["run_count"] = run_count
+    _save_run_tracker(_tracker)
 
 
 if __name__ == "__main__":
