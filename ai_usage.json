@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1925,
+  "total_calls": 1929,
   "tiers": {
-    "groq": 1907,
+    "groq": 1911,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-12T13:12:39.485047+00:00",
-      "tier": "groq",
-      "article": "Who is running US foreign policy? Varsha Gandikota and Jeremy Scahill"
-    },
-    {
-      "timestamp": "2026-04-12T13:12:55.705505+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 11:10 on Sunday 12-04-2026 Kiryat Shmona barracks with a swarm of loitering drones - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-12T14:48:07.350182+00:00",
-      "tier": "groq",
-      "article": "Israeli army raids across the occupied West Bank overnight"
-    },
-    {
-      "timestamp": "2026-04-12T14:48:47.359579+00:00",
-      "tier": "groq",
-      "article": "Ukraine and Russia accuse each other of breaching Easter ceasefire"
-    },
     {
       "timestamp": "2026-04-12T14:49:03.847903+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-15T09:35:36.406987+00:00",
       "tier": "groq",
       "article": "The Israeli town on the frontline with Hezbollah"
+    },
+    {
+      "timestamp": "2026-04-15T11:15:17.010312+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance Responds to Ceasefire Violations and Targets Occupation Settlements in Northern Palestine - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-15T11:15:36.220419+00:00",
+      "tier": "groq",
+      "article": "Trump hints Iran talks could resume this week as US port blockade continues"
+    },
+    {
+      "timestamp": "2026-04-15T11:15:52.671100+00:00",
+      "tier": "groq",
+      "article": "Iran says $270bn war loss must be compensated, as fresh talks with US loom"
+    },
+    {
+      "timestamp": "2026-04-15T11:16:08.837497+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 10:55 on Wednesday Metat barracks with a swarm of loitering drones: Hezbollah Military Media statement 7 - Al-Manar TV Lebanon"
     }
   ]
 }
