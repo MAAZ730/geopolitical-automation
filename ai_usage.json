@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1913,
+  "total_calls": 1917,
   "tiers": {
-    "groq": 1895,
+    "groq": 1899,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-12T06:02:05.825138+00:00",
-      "tier": "groq",
-      "article": "Israeli Channel 12: Border settlements were ordered to raise alert due to expected escalation by Hezbollah in coming 48 hours - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-12T06:02:37.416385+00:00",
-      "tier": "groq",
-      "article": "Pakistan urges US and Iran to uphold ceasefire after talks end"
-    },
-    {
-      "timestamp": "2026-04-12T06:03:30.665406+00:00",
-      "tier": "groq",
-      "article": "Iran war: We spoke to the man making Lego-style AI videos that experts say are powerful propaganda"
-    },
-    {
-      "timestamp": "2026-04-12T07:25:55.222285+00:00",
-      "tier": "groq",
-      "article": "Hungarians vote as PM Orban faces toughest election challenge in years"
-    },
     {
       "timestamp": "2026-04-12T09:00:07.769043+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-15T02:57:01.389837+00:00",
       "tier": "groq",
       "article": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah"
+    },
+    {
+      "timestamp": "2026-04-15T06:06:58.118999+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-15T06:07:14.669677+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-15T06:07:39.007920+00:00",
+      "tier": "groq",
+      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
+    },
+    {
+      "timestamp": "2026-04-15T06:08:25.108271+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers in the vicinity of the border town of Naqoura with bombs dropped from a helicopter, hitting them directly: statement 33 - Al-Manar TV Lebanon"
     }
   ]
 }
