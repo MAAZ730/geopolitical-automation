@@ -82,7 +82,7 @@ os.makedirs(RUN_DIR, exist_ok=True)
 os.makedirs(BASE_DIR / "videos", exist_ok=True)
 
 successful_post_counter = 1
-run_count = 1  # Determined at the start of main(); placeholder keeps module importable
+run_count = 1  # Default value; overwritten at the start of main() with the persisted sequence number
 
 OUTPUT_DIR = RUN_DIR
 VIDEO_DIR = RUN_DIR
@@ -2767,6 +2767,18 @@ def rewrite_caption_ai(original_caption: str) -> dict | None:
     return None
 
 
+def _load_run_tracker() -> dict:
+    """Load run_tracker.json, returning an empty dict on any read/parse failure."""
+    try:
+        with open(tracker_file, "r") as _tf:
+            return json.load(_tf)
+    except FileNotFoundError:
+        return {}
+    except json.JSONDecodeError as exc:
+        log.warning(f"  [TRACKER] run_tracker.json is corrupt ({exc}); starting fresh.")
+        return {}
+
+
 def main() -> None:
     log.info("=" * 60)
     log.info("Geopolitical Breaking News v19.1 — Global OSINT Syndicate")
@@ -2777,12 +2789,7 @@ def main() -> None:
 
     # Directive 1: load sequential run_count from run_tracker.json
     global run_count
-    try:
-        with open(tracker_file, "r") as _tf:
-            _tracker = json.load(_tf)
-    except Exception:
-        _tracker = {}
-    run_count = _tracker.get("run_count", 0) + 1
+    run_count = _load_run_tracker().get("run_count", 0) + 1
     log.info(f"  [TRACKER] This is run #{run_count}")
 
     # V19.0: Midnight Run gate — if triggered by midnight cron, run analysis and exit
@@ -2958,15 +2965,15 @@ def main() -> None:
     log.info("=" * 60)
 
     # Directive 4: persist run_count so the next run auto-increments
-    try:
-        with open(tracker_file, "r") as _tf:
-            _tracker = json.load(_tf)
-    except Exception:
-        _tracker = {}
+    _tracker = _load_run_tracker()
     _tracker["run_count"] = run_count
-    with open(tracker_file, "w") as _tf:
-        json.dump(_tracker, _tf, indent=2)
-    log.info(f"  [TRACKER] Saved run_count={run_count} to run_tracker.json")
+    try:
+        with open(tracker_file, "w") as _tf:
+            json.dump(_tracker, _tf, indent=2)
+        log.info(f"  [TRACKER] Saved run_count={run_count} to run_tracker.json")
+    except OSError as exc:
+        log.error(f"  [TRACKER] Failed to persist run_count={run_count}: {exc}. "
+                  "The same run number may be reused on the next execution.")
 
 
 if __name__ == "__main__":
