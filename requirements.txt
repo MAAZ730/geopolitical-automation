@@ -19,7 +19,6 @@ google-genai>=1.0.0
 openai
 trafilatura
 yt-dlp==2026.3.3
-apify-client>=1.6.1
 wikipedia>=1.4.0
 # V19.1: Global OSINT Syndicate — new dependencies
 newsapi-python>=0.2.7

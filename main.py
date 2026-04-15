@@ -54,13 +54,6 @@ try:
 except ImportError:
     NEWSAPI_AVAILABLE = False
 
-# V17.0: Apify Instagram Scraping
-try:
-    from apify_client import ApifyClient
-    APIFY_AVAILABLE = True
-except ImportError:
-    APIFY_AVAILABLE = False
-
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
