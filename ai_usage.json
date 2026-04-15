@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1909,
+  "total_calls": 1913,
   "tiers": {
-    "groq": 1891,
+    "groq": 1895,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-12T02:59:29.324025+00:00",
-      "tier": "groq",
-      "article": "Concerns after satellite provider restricts Iran images following US pressure"
-    },
-    {
-      "timestamp": "2026-04-12T03:00:15.596037+00:00",
-      "tier": "groq",
-      "article": "US says two naval ships \u2018transited\u2019 Strait of Hormuz for mine-clearing"
-    },
-    {
-      "timestamp": "2026-04-12T03:00:31.586653+00:00",
-      "tier": "groq",
-      "article": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire"
-    },
-    {
-      "timestamp": "2026-04-12T03:00:47.683218+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a Merkava tank on Al-Awida hill in the border town of Al-Adaisseh with a loitering glider and achieved a confirmed hit: statement 34 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-12T06:02:05.825138+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-14T22:58:25.782648+00:00",
       "tier": "groq",
       "article": "Pezeshkian thanks 6 countries for stances against Zionist crimes"
+    },
+    {
+      "timestamp": "2026-04-15T02:55:52.820782+00:00",
+      "tier": "groq",
+      "article": "Israeli attacks kill 11, including two children, in day of strikes on Gaza"
+    },
+    {
+      "timestamp": "2026-04-15T02:56:29.109428+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-15T02:56:45.246350+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-15T02:57:01.389837+00:00",
+      "tier": "groq",
+      "article": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah"
     }
   ]
 }
