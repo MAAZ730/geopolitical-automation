@@ -2,192 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 1877,
+  "total_calls": 1913,
   "tiers": {
-    "groq": 1859,
+    "groq": 1895,
     "gemini": 18
   },
   "log": [
-    {
-      "timestamp": "2026-04-11T08:56:11.685566+00:00",
-      "tier": "groq",
-      "article": "At least seven Palestinians killed in Israeli attacks on Gaza"
-    },
-    {
-      "timestamp": "2026-04-11T08:56:55.271099+00:00",
-      "tier": "groq",
-      "article": "Dozens Martyred as Israeli Airstrikes Intensify Across Southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T08:57:41.516821+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondents in south Lebanon reports Israeli strikes on towns of Tebnine, Khima, Yuhmor Al-Shaqeef, Al-Qantara - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T08:57:58.111533+00:00",
-      "tier": "groq",
-      "article": "Tasnim Iranian news agency: The release of Iranian assets and a ceasefire in Lebanon are among the preconditions for starting negotiations with Washington - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T10:44:29.452270+00:00",
-      "tier": "groq",
-      "article": "Israeli drone attack kills Palestinians near Gaza mosque"
-    },
-    {
-      "timestamp": "2026-04-11T10:45:00.863179+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Islamic Resistance fighters have carried out 9 operations against Israeli targets along the border and in northern Israeli settlements since midnight: Military Media statements - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T10:45:19.508303+00:00",
-      "tier": "groq",
-      "article": "Video: Vance arrives in Pakistan for talks with Iran"
-    },
-    {
-      "timestamp": "2026-04-11T10:45:35.536970+00:00",
-      "tier": "groq",
-      "article": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week"
-    },
-    {
-      "timestamp": "2026-04-11T13:11:24.798610+00:00",
-      "tier": "groq",
-      "article": "Lebanese Health Ministry says 2 paramedics among 7 martyrs in Israeli strikes on Zefta and Kfar Seer in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T13:11:56.103378+00:00",
-      "tier": "groq",
-      "article": "Israeli enemy army spokesperson says two paratroopers wounded during clashes in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T13:12:41.906148+00:00",
-      "tier": "groq",
-      "article": "Direct hit scored as Islamic Resistance fighters targeted a Merkava tank in Saf Al-Hawa area of \u200b\u200bBint Jbeil with an attack drone: Hezbollah Military Media statement 10 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T13:13:01.078288+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Fadlallah: Autonomy-Lacking Gov\u2019t Prolonging Israeli Aggression at Expense of Civilian Lives - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T14:44:42.608308+00:00",
-      "tier": "groq",
-      "article": "Lebanon mourns security forces killed in Israeli strike"
-    },
-    {
-      "timestamp": "2026-04-11T14:44:59.023998+00:00",
-      "tier": "groq",
-      "article": "Libya approves first unified budget in more than a decade"
-    },
-    {
-      "timestamp": "2026-04-11T14:45:16.182345+00:00",
-      "tier": "groq",
-      "article": "US-Iran talks on ending war begin in Pakistan"
-    },
-    {
-      "timestamp": "2026-04-11T14:45:38.512990+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters fired successive barrages of rockets and artillery shells targeting gatherings of Israeli soldiers and vehicles in Bint Jbeil and Maroun Al-Ras border towns: Hezbollah Military Media statement 12 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T16:44:17.218123+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted at 13:45 on Friday 10-04-2026 a Merkava tank in the vicinity of Al-Ishraq School in Bint Jbeil city with a guided missile, achieving a confirmed hit, and the tank was seen burning: statement 27 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T16:44:34.038195+00:00",
-      "tier": "groq",
-      "article": "Al Jazeera\u2019s Diplomatic Editor outlines key issues in US-Iran talks"
-    },
-    {
-      "timestamp": "2026-04-11T16:44:58.135846+00:00",
-      "tier": "groq",
-      "article": "US military begins clearing Strait of Hormuz, Trump says"
-    },
-    {
-      "timestamp": "2026-04-11T16:45:14.333283+00:00",
-      "tier": "groq",
-      "article": "Hezbollah, Amal Movement Call on Resistance Supporters to Shun Protests during Critical Conditions - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T18:55:07.940021+00:00",
-      "tier": "groq",
-      "article": "Gaza families mourn loved ones killed in overnight Israeli air strikes"
-    },
-    {
-      "timestamp": "2026-04-11T18:55:24.175056+00:00",
-      "tier": "groq",
-      "article": "Iranian rabbi describes Israel\u2019s destruction of a Tehran synagogue"
-    },
-    {
-      "timestamp": "2026-04-11T18:55:46.321009+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted infrastructure belonging to the Israeli enemy army in the occupied city of Safed with a missile barrage: statement 28 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T18:56:02.999030+00:00",
-      "tier": "groq",
-      "article": "US-Iran ceasefire: Can pressure, incentives, and risks deliver a final deal"
-    },
-    {
-      "timestamp": "2026-04-11T20:41:47.708669+00:00",
-      "tier": "groq",
-      "article": "Regardless of Ceasefire Reports, Hezbollah Ramps Up Strikes on Israeli Occupation Forces in South Lebanon, Settlements  in Northern Palestine - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T20:42:07.562068+00:00",
-      "tier": "groq",
-      "article": "Hundreds arrested at UK protest against Palestine Action ban"
-    },
-    {
-      "timestamp": "2026-04-11T20:42:39.664325+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s deputy FM says Tehran has \u2018upper hand\u2019 in talks with US"
-    },
-    {
-      "timestamp": "2026-04-11T20:42:55.559823+00:00",
-      "tier": "groq",
-      "article": "Israeli media: While Netanyahu was telling Zionists about war achievements, Hezbollah was firing combat drones at \u2018Israel\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T22:41:46.151644+00:00",
-      "tier": "groq",
-      "article": "Lebanese government rejection of ceasefire helped Israeli enemy to commit Wednesday\u2019s massacres: Hezbollah lawmaker Hussein Al-Hajj Hasan - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-11T22:42:17.305335+00:00",
-      "tier": "groq",
-      "article": "Pope Leo urges world leaders to reject war and negotiate peace"
-    },
-    {
-      "timestamp": "2026-04-11T22:42:33.389374+00:00",
-      "tier": "groq",
-      "article": "Russia-Ukraine Orthodox Easter ceasefire begins"
-    },
-    {
-      "timestamp": "2026-04-11T22:42:49.499997+00:00",
-      "tier": "groq",
-      "article": "Iran Denies CENTCOM\u2019s Claim, Reiterates Full Control over Strait of Hormuz - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-12T02:59:29.324025+00:00",
-      "tier": "groq",
-      "article": "Concerns after satellite provider restricts Iran images following US pressure"
-    },
-    {
-      "timestamp": "2026-04-12T03:00:15.596037+00:00",
-      "tier": "groq",
-      "article": "US says two naval ships \u2018transited\u2019 Strait of Hormuz for mine-clearing"
-    },
-    {
-      "timestamp": "2026-04-12T03:00:31.586653+00:00",
-      "tier": "groq",
-      "article": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire"
-    },
-    {
-      "timestamp": "2026-04-12T03:00:47.683218+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a Merkava tank on Al-Awida hill in the border town of Al-Adaisseh with a loitering glider and achieved a confirmed hit: statement 34 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-12T06:02:05.825138+00:00",
       "tier": "groq",
@@ -507,6 +327,186 @@
       "timestamp": "2026-04-14T02:57:09.662179+00:00",
       "tier": "groq",
       "article": "Sheikh Qassem: The only path that achieves sovereignty and saves Lebanon is the implementation of the agreement\u2019s terms, and first and foremost, the aggression must be completely stopped - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T09:29:50.834570+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T09:30:24.422042+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T09:31:12.806806+00:00",
+      "tier": "groq",
+      "article": "US military kills two men in new strike on vessel in eastern Pacific"
+    },
+    {
+      "timestamp": "2026-04-14T09:31:28.910229+00:00",
+      "tier": "groq",
+      "article": "Starmer says UK will not join Trump's blockade of Iran's ports in the Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-04-14T11:13:54.049003+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T11:14:27.762880+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T11:15:13.247886+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondents across southern Lebanon report strikes by Israeli warplanes on Shebaa and Qlaileh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T11:15:30.256547+00:00",
+      "tier": "groq",
+      "article": "US Navy should rely on allies to boost maritime industrial base, report says"
+    },
+    {
+      "timestamp": "2026-04-14T13:57:36.561570+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T13:58:09.258931+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T13:58:25.863580+00:00",
+      "tier": "groq",
+      "article": "How many ships have passed the Strait of Hormuz and how many were attacked?"
+    },
+    {
+      "timestamp": "2026-04-14T13:58:42.108994+00:00",
+      "tier": "groq",
+      "article": "Sanctioned tankers transit Strait of Hormuz amid US blockade"
+    },
+    {
+      "timestamp": "2026-04-14T15:21:28.038124+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Fighters Valiantly Defend Lebanese Territory, Israeli Soldiers Killed and Wounded in Close-Range Clashes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T15:22:08.905763+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T15:22:25.085962+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T15:23:06.940147+00:00",
+      "tier": "groq",
+      "article": "Iran condemns desecration of Al-Aqsa Mosque"
+    },
+    {
+      "timestamp": "2026-04-14T17:19:12.831384+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T17:19:29.174095+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes drone production, military support deal with Germany"
+    },
+    {
+      "timestamp": "2026-04-14T17:19:59.236726+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T17:20:15.971752+00:00",
+      "tier": "groq",
+      "article": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?"
+    },
+    {
+      "timestamp": "2026-04-14T19:28:53.565651+00:00",
+      "tier": "groq",
+      "article": "Drones, Iran war escalating horror as Sudan war enters fourth year"
+    },
+    {
+      "timestamp": "2026-04-14T19:29:34.413626+00:00",
+      "tier": "groq",
+      "article": "Somalia reports hit on al-Shabab with \u2018international support\u2019"
+    },
+    {
+      "timestamp": "2026-04-14T19:30:20.998677+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T19:31:14.171445+00:00",
+      "tier": "groq",
+      "article": "Why are the US, Iran arguing over duration of uranium enrichment ban?"
+    },
+    {
+      "timestamp": "2026-04-14T21:03:52.332907+00:00",
+      "tier": "groq",
+      "article": "Israeli strike on Gaza police car kills child"
+    },
+    {
+      "timestamp": "2026-04-14T21:04:24.887994+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T21:05:11.192104+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T21:05:27.392090+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters targeted at 18:15 on Tuesday 14-04-2026 gatherings of \u201cIsraeli\u201d enemy army soldiers and vehicles south of Al-Khiam city with rocket barrages and artillery shells: statement 29 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T22:57:33.877824+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-14T22:57:50.089807+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-14T22:58:06.322856+00:00",
+      "tier": "groq",
+      "article": "Australia touts first GMLRS artillery rocket assembled Down Under"
+    },
+    {
+      "timestamp": "2026-04-14T22:58:25.782648+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian thanks 6 countries for stances against Zionist crimes"
+    },
+    {
+      "timestamp": "2026-04-15T02:55:52.820782+00:00",
+      "tier": "groq",
+      "article": "Israeli attacks kill 11, including two children, in day of strikes on Gaza"
+    },
+    {
+      "timestamp": "2026-04-15T02:56:29.109428+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-15T02:56:45.246350+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-15T02:57:01.389837+00:00",
+      "tier": "groq",
+      "article": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah"
     }
   ]
 }
