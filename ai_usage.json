@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2019,
+  "total_calls": 2023,
   "tiers": {
-    "groq": 2000,
+    "groq": 2004,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-15T08:36:28.374636+00:00",
-      "tier": "groq",
-      "article": "Hezbollah\u2019s Military Media statements 4, 5 on Wednesday set out two earlier rocket strikes targeting Israeli gatherings in the northern outskirts of Bint Jbeil town - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-15T08:36:46.100431+00:00",
-      "tier": "groq",
-      "article": "US blockade of Iran ports 'irresponsible and dangerous', China says"
-    },
-    {
-      "timestamp": "2026-04-15T09:34:45.469839+00:00",
-      "tier": "groq",
-      "article": "Israeli Aggression Claims Four Martyrs from One Family as Aid Vehicle Targeted in Saadiyat - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-15T09:35:03.693694+00:00",
-      "tier": "groq",
-      "article": "MP Hassan Fadlallah: The resistance fighters are surprising the enemy with their strikes from inside and outside the city of Bint Jbeil - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-15T09:35:20.552703+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-17T11:06:47.497101+00:00",
       "tier": "groq",
       "article": "Could the US withdraw from NATO?"
+    },
+    {
+      "timestamp": "2026-04-17T13:33:36.684494+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-17T13:33:53.636566+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-17T13:34:09.848128+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-17T13:34:26.279310+00:00",
+      "tier": "groq",
+      "article": "Israel-Lebanon ceasefire: What we know about the deal"
     }
   ]
 }
