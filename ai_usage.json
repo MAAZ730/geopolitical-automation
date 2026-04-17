@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2035,
+  "total_calls": 2039,
   "tiers": {
-    "groq": 2016,
+    "groq": 2020,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-15T15:17:58.595791+00:00",
-      "tier": "groq",
-      "article": "Watch |Hezbollah Fighters Challenge Netanyahu, Strike Kiryat Shmona in Defiant Message - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-15T15:18:15.977477+00:00",
-      "tier": "groq",
-      "article": "Every 27 minutes, someone is killed in Sudan\u2019s war"
-    },
-    {
-      "timestamp": "2026-04-15T15:18:32.471033+00:00",
-      "tier": "groq",
-      "article": "Hezbollah rockets prompt Israeli strikes near Beirut amid market certainty - Crypto Briefing"
-    },
-    {
-      "timestamp": "2026-04-15T15:18:52.472532+00:00",
-      "tier": "groq",
-      "article": "Iran citizen held in France over pro-Palestine comments returns home"
-    },
     {
       "timestamp": "2026-04-15T17:20:09.337603+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-17T19:14:08.921321+00:00",
       "tier": "groq",
       "article": "Army, IRGC have \u2018finger on trigger\u2019 for \u2018powerful\u2019 response to any aggression: IRGC"
+    },
+    {
+      "timestamp": "2026-04-17T20:58:02.731238+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-17T20:58:36.146698+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-17T20:58:51.907837+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-17T20:59:28.845246+00:00",
+      "tier": "groq",
+      "article": "Lebanon President Joseph Aoun: Our position is to solidify the ceasefire, ensure the withdrawal of the Israeli army, secure the release of prisoners, and resolve border disputes - Al-Manar TV Lebanon"
     }
   ]
 }
