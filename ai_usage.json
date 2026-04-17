@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2031,
+  "total_calls": 2035,
   "tiers": {
-    "groq": 2012,
+    "groq": 2016,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-15T13:56:19.492699+00:00",
-      "tier": "groq",
-      "article": "Watch |Hezbollah Fighters Challenge Netanyahu, Strike Kiryat Shmona in Defiant Message - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-15T13:56:34.308541+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters engaged an Israeli military drone, identified as a Hermes 450 \u201cZik,\u201d over the airspace of Qabrikha southern Lebanese town, using a surface-to-air missile: Hezbollah Military Media statement 11 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-15T13:56:55.133344+00:00",
-      "tier": "groq",
-      "article": "Iran citizen held in France over pro-Palestine comments returns home"
-    },
-    {
-      "timestamp": "2026-04-15T13:57:18.954170+00:00",
-      "tier": "groq",
-      "article": "Israelis war-weary but most oppose Iran ceasefire, poll suggests"
-    },
     {
       "timestamp": "2026-04-15T15:17:58.595791+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-17T17:03:09.958135+00:00",
       "tier": "groq",
       "article": "Ghalibaf: Lebanon ceasefire achieved through Hezbollah resistance, unity"
+    },
+    {
+      "timestamp": "2026-04-17T19:12:43.010105+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-17T19:13:15.645406+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-17T19:13:31.757067+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-17T19:14:08.921321+00:00",
+      "tier": "groq",
+      "article": "Army, IRGC have \u2018finger on trigger\u2019 for \u2018powerful\u2019 response to any aggression: IRGC"
     }
   ]
 }
