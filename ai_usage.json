@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2011,
+  "total_calls": 2015,
   "tiers": {
-    "groq": 1992,
+    "groq": 1996,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-15T02:56:45.246350+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-15T02:57:01.389837+00:00",
-      "tier": "groq",
-      "article": "Israeli ambassador: Lebanon wants to be liberated from Hezbollah"
-    },
-    {
-      "timestamp": "2026-04-15T06:06:58.118999+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-15T06:07:14.669677+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
     {
       "timestamp": "2026-04-15T06:07:39.007920+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-17T07:35:01.021598+00:00",
       "tier": "groq",
       "article": "Celebrations on the road as people begin returning to southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-17T09:27:01.206533+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-17T09:27:33.338708+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-17T09:28:20.238276+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-17T09:28:36.378351+00:00",
+      "tier": "groq",
+      "article": "Financial Times, quoting a European government official: Expectations are very low for today\u2019s European summit on the Strait of Hormuz - Al-Manar TV Lebanon"
     }
   ]
 }
