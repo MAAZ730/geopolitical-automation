@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2015,
+  "total_calls": 2019,
   "tiers": {
-    "groq": 1996,
+    "groq": 2000,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-15T06:07:39.007920+00:00",
-      "tier": "groq",
-      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
-    },
-    {
-      "timestamp": "2026-04-15T06:08:25.108271+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted a gathering of Israeli enemy army soldiers in the vicinity of the border town of Naqoura with bombs dropped from a helicopter, hitting them directly: statement 33 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-15T08:35:54.728926+00:00",
-      "tier": "groq",
-      "article": "File photos: A look at Kamal Kharrazi\u2019s career in Islamic Republic"
-    },
-    {
-      "timestamp": "2026-04-15T08:36:12.118501+00:00",
-      "tier": "groq",
-      "article": "US forces kill 4 people in latest strike on vessels in eastern Pacific"
-    },
     {
       "timestamp": "2026-04-15T08:36:28.374636+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-17T09:28:36.378351+00:00",
       "tier": "groq",
       "article": "Financial Times, quoting a European government official: Expectations are very low for today\u2019s European summit on the Strait of Hormuz - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-17T11:05:58.643861+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-17T11:06:15.202466+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-17T11:06:31.347779+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-17T11:06:47.497101+00:00",
+      "tier": "groq",
+      "article": "Could the US withdraw from NATO?"
     }
   ]
 }
