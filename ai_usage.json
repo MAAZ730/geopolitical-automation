@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2079,
+  "total_calls": 2083,
   "tiers": {
-    "groq": 2060,
+    "groq": 2064,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-16T17:29:27.972519+00:00",
-      "tier": "groq",
-      "article": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US"
-    },
-    {
-      "timestamp": "2026-04-16T17:29:50.438984+00:00",
-      "tier": "groq",
-      "article": "Israeli strike destroys last working bridge over Lebanon\u2019s Litani River"
-    },
-    {
-      "timestamp": "2026-04-16T17:30:08.151023+00:00",
-      "tier": "groq",
-      "article": "NASA\u2019s X-59 completes first wheels-up supersonic test flights - Aerospace Testing International"
-    },
-    {
-      "timestamp": "2026-04-16T17:30:29.321230+00:00",
-      "tier": "groq",
-      "article": "After three years of war, Sudan army and RSF locked in military impasse"
-    },
     {
       "timestamp": "2026-04-16T18:06:11.883960+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-18T19:00:41.543144+00:00",
       "tier": "groq",
       "article": "Majority of Zionists oppose re-election of Netanyahu as PM"
+    },
+    {
+      "timestamp": "2026-04-18T20:46:22.061362+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-18T20:46:55.636614+00:00",
+      "tier": "groq",
+      "article": "IRGC says 8 terrorists killed or wounded in op. in Iraqi Kurd"
+    },
+    {
+      "timestamp": "2026-04-18T20:47:12.672906+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-18T20:47:28.689958+00:00",
+      "tier": "groq",
+      "article": "Iran, Turkey to expand agricultural, border coop.: minister"
     }
   ]
 }
