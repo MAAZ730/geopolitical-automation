@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2051,
+  "total_calls": 2055,
   "tiers": {
-    "groq": 2032,
+    "groq": 2036,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-15T22:57:17.022496+00:00",
-      "tier": "groq",
-      "article": "Attacks on heritage sites a crime against future: Iranian artist"
-    },
-    {
-      "timestamp": "2026-04-15T22:57:38.954369+00:00",
-      "tier": "groq",
-      "article": "Israel and Hezbollah continue attacks after Israel-Lebanon talks in US"
-    },
-    {
-      "timestamp": "2026-04-15T22:58:11.872458+00:00",
-      "tier": "gemini",
-      "article": "Lebanon seeks ceasefire in rare talks as Hezbollah rockets strike Israel - T\u00fcrkiye Today"
-    },
-    {
-      "timestamp": "2026-04-15T22:58:13.910962+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted newly established enemy artillery positions in the town of Al-Bayyada with a rocket barrage: statement 24 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-16T03:05:18.170227+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-18T05:51:25.104194+00:00",
       "tier": "groq",
       "article": "Lebanese Ministry of Health: One martyr and two wounded as a result of an Israeli enemy raid on a bicycle and a motorcycle in the town of Kunine, Bint Jbeil district - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-18T07:20:55.474755+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-18T07:21:27.707663+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-18T07:22:14.557959+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-18T07:23:04.956909+00:00",
+      "tier": "groq",
+      "article": "US Marine Corps releases video showcasing new Medium Landing Ship design"
     }
   ]
 }
