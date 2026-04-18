@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2055,
+  "total_calls": 2059,
   "tiers": {
-    "groq": 2036,
+    "groq": 2040,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-16T03:05:18.170227+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Fighters Fiercely Clash with Israeli Occupation Soldiers in Bint Jbeil & Border Towns, Prevent Enemy Advance - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-16T03:05:32.850080+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted newly established enemy artillery positions in the town of Al-Bayyada with a rocket barrage: statement 24 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-16T03:05:57.455763+00:00",
-      "tier": "groq",
-      "article": "White House offers no hint of Iran war cost as it seeks military funding surge"
-    },
-    {
-      "timestamp": "2026-04-16T03:06:15.468463+00:00",
-      "tier": "groq",
-      "article": "Iran UN envoy criticizes US counterpart\u2019s statement for misrepresenting official UN document"
-    },
     {
       "timestamp": "2026-04-16T06:13:22.410007+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-18T07:23:04.956909+00:00",
       "tier": "groq",
       "article": "US Marine Corps releases video showcasing new Medium Landing Ship design"
+    },
+    {
+      "timestamp": "2026-04-18T09:02:52.505662+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-18T09:03:25.265329+00:00",
+      "tier": "groq",
+      "article": "Defiant Return: Displaced Families Head Back to Beirut\u2019s Southern Suburbs Despite Widespread Destruction - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-18T09:04:11.805255+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-18T09:04:27.887819+00:00",
+      "tier": "groq",
+      "article": "Aoun Says Lebanon Enters \u2018New Stage\u2019 after Ceasefire - Al-Manar TV Lebanon"
     }
   ]
 }
