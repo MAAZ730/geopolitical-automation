@@ -2199,12 +2199,12 @@ def fetch_ig_scrape_creators() -> list[dict]:
     return posts
 
 def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_queue):
-    print("  [SYSTEM] Engaging Telegram Quota Hunter (Target: 2 Images, 3 Videos)...")
+    print("  [SYSTEM] Engaging Telegram Quota Hunter (Target: 2 Images, 4 Videos)...")
     
     TG_CHANNELS = ['thecradlemedia', 'middle_east_spectator', 'ResistanceTrench', 'RNN_webed', 'PalestineResist', 'QudsNen', 'DDGeopolitics', 'warmonitors', 'BellumActaNews', 'militarywave', 'presstv', 'CensoredMen', 'intelslava', 'milinfolive', 'boris_rozhin', 'Slavyangrad', 'RVvoenkor', 'infantmilitario', 'mod_russia_en', 'CyberspecNews', 'Fighter_bomber', 'voin_dv', 'grey_zone']
     
     for channel in TG_CHANNELS:
-        if tg_image_count >= 2 and tg_video_count >= 3:
+        if tg_image_count >= 2 and tg_video_count >= 4:
             print("  [TG] Quotas fully met! Exiting Telegram engine.")
             break
             
@@ -2215,7 +2215,7 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
             messages = soup.find_all('div', class_='tgme_widget_message')
             
             for msg in reversed(messages):
-                if tg_image_count >= 2 and tg_video_count >= 3:
+                if tg_image_count >= 2 and tg_video_count >= 4:
                     break
                     
                 msg_link = msg.get('data-post')
@@ -2235,7 +2235,7 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
                 is_video = False
                 
                 if video_tag and video_tag.get('src'):
-                    if tg_video_count >= 3:
+                    if tg_video_count >= 4:
                         continue
                     media_url = video_tag['src']
                     is_video = True
@@ -2488,14 +2488,14 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
     return ig_count, image_count
 
 def run_reddit_fallback(posted_links, successful_post_counter, tg_video_count, drive_queue):
-    if tg_video_count >= 3:
+    if tg_video_count >= 4:
         return successful_post_counter, tg_video_count
         
-    print(f"  [SYSTEM] Engaging Stealth Reddit Fallback (Need {3 - tg_video_count} more videos)...")
+    print(f"  [SYSTEM] Engaging Stealth Reddit Fallback (Need {4 - tg_video_count} more videos)...")
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123.0.0.0 Safari/537.36'}
     
     for sub in ['CombatFootage', 'DroneCombat', 'UkraineWarVideoReport']:
-        if tg_video_count >= 3:
+        if tg_video_count >= 4:
             break
         try:
             resp = requests.get(f"https://www.reddit.com/r/{sub}/new.json?limit=15", headers=headers, timeout=15)
@@ -2504,7 +2504,7 @@ def run_reddit_fallback(posted_links, successful_post_counter, tg_video_count, d
             
             data = resp.json()
             for post in data.get('data', {}).get('children', []):
-                if tg_video_count >= 3:
+                if tg_video_count >= 4:
                     break
                     
                 post_data = post.get('data', {})
