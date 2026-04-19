@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2123,
+  "total_calls": 2127,
   "tiers": {
-    "groq": 2104,
+    "groq": 2108,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-17T15:06:08.867021+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-17T15:06:41.279088+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-17T15:07:27.868330+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-17T15:07:44.252167+00:00",
-      "tier": "groq",
-      "article": "Hezbollah: Islamic Resistance fighters will keep their hands on the trigger, maintaining constant readiness to respond to any treachery aggression or breach by the enemy - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-17T17:02:01.383489+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-19T13:12:55.122235+00:00",
       "tier": "groq",
       "article": "Pezeshkian: Trump has no right to deny a people their rights and to say that Iran cannot benefit from its nuclear rights - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-19T14:48:53.260337+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-19T14:49:26.726356+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-19T14:50:12.781107+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-19T14:51:05.064662+00:00",
+      "tier": "groq",
+      "article": "Iran, US still \u2018far\u2019 from breakthrough amid Strait of Hormuz impasse"
     }
   ]
 }
