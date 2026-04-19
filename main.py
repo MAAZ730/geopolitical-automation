@@ -2156,7 +2156,7 @@ def fetch_ig_scrape_creators() -> list[dict]:
             log.info(f"  [IG-PRIMARY] Scrape Creators API response: {response.text[:500]}...")
             
             if response.status_code == 404:
-                log.warning("  [IG-PRIMARY] Scrape Creators API endpoint deprecated (404) — skipping entirely.")
+                log.warning(f"  [IG-PRIMARY] Scrape Creators API endpoint deprecated (404) for {source} — skipping.")
                 break
             
             if response.status_code == 200:
@@ -2267,69 +2267,72 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
                     caption_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
                     
                     try:
+                        # STRICT 45-SECOND TIMEOUT ON DOWNLOAD
                         media_resp = requests.get(media_url, stream=True, timeout=45)
                         media_resp.raise_for_status()
-                    except requests.exceptions.Timeout:
-                        log.warning(f"  [TG] Media download timed out for {media_url} — skipping.")
+                        
+                        if is_video:
+                            temp_video_path = os.path.join("videos", f"temp_tg_raw_{successful_post_counter:02d}.mp4")
+                            with open(temp_video_path, 'wb') as f:
+                                for chunk in media_resp.iter_content(chunk_size=8192):
+                                    f.write(chunk)
+                                    
+                            print("  [TG] Applying FFmpeg processing to Telegram Video...")
+                            ffmpeg_cmd = [
+                                'ffmpeg', '-y', '-i', temp_video_path,
+                                '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
+                                '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
+                                str(final_file_path)
+                            ]
+                            
+                            # STRICT 90-SECOND TIMEOUT ON FFMPEG
+                            try:
+                                res = subprocess.run(ffmpeg_cmd, capture_output=True, timeout=90)
+                                if res.returncode != 0:
+                                    log.error(f"  [TG] FFmpeg failed: {res.stderr.decode('utf-8')}")
+                                    continue
+                            except subprocess.TimeoutExpired:
+                                log.warning("  [TG] FFmpeg timed out after 90 seconds. Skipping video.")
+                                continue
+                                
+                            hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
+                            with open(caption_path, "w", encoding="utf-8") as f:
+                                f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
+                                
+                            drive_queue.extend([Path(final_file_path), Path(caption_path)])
+                            tg_video_count += 1
+                            successful_post_counter += 1
+                            mark_posted(msg_link, None, posted_links, title=image_hook)
+                        else:
+                            temp_img_path = os.path.join("videos", f"temp_tg_raw_{successful_post_counter:02d}.jpg")
+                            with open(temp_img_path, 'wb') as f:
+                                for chunk in media_resp.iter_content(chunk_size=8192):
+                                    f.write(chunk)
+                                    
+                            tg_article = {
+                                "title": image_hook,
+                                "image_hook": image_hook,
+                                "instagram_caption": clean_caption,
+                                "source": channel,
+                                "real_url": msg_link,
+                                "link": msg_link,
+                                "image_url": temp_img_path,
+                                "threat_level": 8,
+                                "video_overlays": [],
+                                "countries": [],
+                            }
+                            
+                            generate_card(tg_article, final_file_path, threat_level=8)
+                            generate_caption(tg_article, caption_path)
+                            
+                            drive_queue.extend([Path(final_file_path), Path(caption_path)])
+                            image_count += 1
+                            tg_image_count += 1
+                            successful_post_counter += 1
+                            mark_posted(msg_link, None, posted_links, title=image_hook)
+                    except Exception as e:
+                        log.warning(f"  [TG] Media download failed or timed out: {e}")
                         continue
-                    
-                    if is_video:
-                        temp_video_path = os.path.join("videos", f"temp_tg_raw_{successful_post_counter:02d}.mp4")
-                        with open(temp_video_path, 'wb') as f:
-                            for chunk in media_resp.iter_content(chunk_size=8192):
-                                f.write(chunk)
-                                
-                        print("  [TG] Applying FFmpeg processing to Telegram Video...")
-                        ffmpeg_cmd = [
-                            'ffmpeg', '-y', '-i', temp_video_path,
-                            '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
-                            '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
-                            str(final_file_path)
-                        ]
-                        try:
-                            res = subprocess.run(ffmpeg_cmd, capture_output=True, timeout=90)
-                        except subprocess.TimeoutExpired:
-                            log.warning(f"  [TG] FFmpeg timed out processing {temp_video_path} — skipping.")
-                            continue
-                        if res.returncode != 0:
-                            log.error(f"  [TG] FFmpeg failed: {res.stderr.decode('utf-8')}")
-                            continue
-                            
-                        hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
-                        with open(caption_path, "w", encoding="utf-8") as f:
-                            f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
-                            
-                        drive_queue.extend([Path(final_file_path), Path(caption_path)])
-                        tg_video_count += 1
-                        successful_post_counter += 1
-                        mark_posted(msg_link, None, posted_links, title=image_hook)
-                    else:
-                        temp_img_path = os.path.join("videos", f"temp_tg_raw_{successful_post_counter:02d}.jpg")
-                        with open(temp_img_path, 'wb') as f:
-                            for chunk in media_resp.iter_content(chunk_size=8192):
-                                f.write(chunk)
-                                
-                        tg_article = {
-                            "title": image_hook,
-                            "image_hook": image_hook,
-                            "instagram_caption": clean_caption,
-                            "source": channel,
-                            "real_url": msg_link,
-                            "link": msg_link,
-                            "image_url": temp_img_path,
-                            "threat_level": 8,
-                            "video_overlays": [],
-                            "countries": [],
-                        }
-                        
-                        generate_card(tg_article, final_file_path, threat_level=8)
-                        generate_caption(tg_article, caption_path)
-                        
-                        drive_queue.extend([Path(final_file_path), Path(caption_path)])
-                        image_count += 1
-                        tg_image_count += 1
-                        successful_post_counter += 1
-                        mark_posted(msg_link, None, posted_links, title=image_hook)
                     
         except Exception as e:
             print(f"  [ERROR] Telegram scraping failed for {channel}: {e}")
