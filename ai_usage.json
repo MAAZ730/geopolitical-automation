@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2139,
+  "total_calls": 2143,
   "tiers": {
-    "groq": 2120,
+    "groq": 2124,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-17T22:50:07.652684+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-17T22:50:23.851450+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-17T22:50:47.046293+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-17T22:51:03.168943+00:00",
-      "tier": "groq",
-      "article": "Iran Announces Reopening of Strait of Hormuz as Ceasefire in Lebanon Has Taken Effect - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-18T02:49:09.346250+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-19T20:49:03.949406+00:00",
       "tier": "groq",
       "article": "Iranian diplomat rejects Trump's claims on enriched uranium"
+    },
+    {
+      "timestamp": "2026-04-19T22:42:53.662200+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-19T22:43:10.093584+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-19T22:43:33.172545+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-19T22:43:49.662440+00:00",
+      "tier": "groq",
+      "article": "Trump to send US delegation to Pakistan for possible Iran talks"
     }
   ]
 }
