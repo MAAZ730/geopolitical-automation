@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2087,
+  "total_calls": 2091,
   "tiers": {
-    "groq": 2068,
+    "groq": 2072,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-16T19:32:37.370274+00:00",
-      "tier": "groq",
-      "article": "\u2018Whose is he?\u2019: A Gaza father\u2019s fight for a child who might not be his"
-    },
-    {
-      "timestamp": "2026-04-16T19:33:00.357573+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters shot down at 17:50 on Thursday 16-04-2026 an \u201cIsraeli\u201d enemy army drone of the type \u201cHermes 450 \u2013 Zik\u201d opposite the town of Adloun in southern Lebanon with a surface-to-air missile, and it was seen falling into the sea: statement 38 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-16T19:33:20.923447+00:00",
-      "tier": "groq",
-      "article": "Ursa Major Achieves 10 Successful Hadley Engine Flights, Demonstrating Reusable Hypersonic Capability - PR Newswire"
-    },
-    {
-      "timestamp": "2026-04-16T19:33:38.074544+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters targeted newly established enemy artillery positions in the town of Al-Adaisseh and the settlement of Kfar Giladi with swarms of attack drones: statement 41 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-16T21:08:06.575161+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-18T22:43:40.020343+00:00",
       "tier": "groq",
       "article": "Displaced Lebanese return as Israeli shelling violates ceasefire in south"
+    },
+    {
+      "timestamp": "2026-04-19T03:19:56.904733+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-19T03:20:29.408464+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-19T03:20:45.482465+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-19T03:21:01.545804+00:00",
+      "tier": "groq",
+      "article": "More enemy mercenary cells dismantled in several Iranian provinces"
     }
   ]
 }
