@@ -2201,11 +2201,7 @@ def fetch_ig_scrape_creators() -> list[dict]:
 def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_queue):
     print("  [SYSTEM] Engaging Telegram Quota Hunter (Target: 2 Images, 3 Videos)...")
     
-    TG_CHANNELS = [
-        'thecradlemedia', 'middle_east_spectator', 'ResistanceTrench', 
-        'RNN_webed', 'PalestineResist', 'QudsNen', 'DDGeopolitics', 
-        'warmonitors', 'BellumActaNews', 'militarywave', 'presstv', 'CensoredMen'
-    ]
+    TG_CHANNELS = ['thecradlemedia', 'middle_east_spectator', 'ResistanceTrench', 'RNN_webed', 'PalestineResist', 'QudsNen', 'DDGeopolitics', 'warmonitors', 'BellumActaNews', 'militarywave', 'presstv', 'CensoredMen', 'intelslava', 'milinfolive', 'boris_rozhin', 'Slavyangrad', 'RVvoenkor', 'infantmilitario', 'mod_russia_en', 'CyberspecNews', 'Fighter_bomber', 'voin_dv', 'grey_zone']
     
     for channel in TG_CHANNELS:
         if tg_image_count >= 2 and tg_video_count >= 3:
@@ -2491,6 +2487,92 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
     log.info(f"  [IG] Instagram batch complete: {ig_count} total image posts processed.")
     return ig_count, image_count
 
+def run_reddit_fallback(posted_links, successful_post_counter, tg_video_count, drive_queue):
+    if tg_video_count >= 3:
+        return successful_post_counter, tg_video_count
+        
+    print(f"  [SYSTEM] Engaging Stealth Reddit Fallback (Need {3 - tg_video_count} more videos)...")
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/123.0.0.0 Safari/537.36'}
+    
+    for sub in ['CombatFootage', 'DroneCombat', 'UkraineWarVideoReport']:
+        if tg_video_count >= 3:
+            break
+        try:
+            resp = requests.get(f"https://www.reddit.com/r/{sub}/new.json?limit=15", headers=headers, timeout=15)
+            if resp.status_code != 200:
+                continue
+            
+            data = resp.json()
+            for post in data.get('data', {}).get('children', []):
+                if tg_video_count >= 3:
+                    break
+                    
+                post_data = post.get('data', {})
+                post_url = "https://reddit.com" + post_data.get('permalink', '')
+                title = post_data.get('title', '')
+                
+                if is_posted(post_url, posted_links) or not post_data.get('is_video'):
+                    continue
+                if not is_combat_relevant(title):
+                    continue
+                    
+                video_url = post_data.get('secure_media', {}).get('reddit_video', {}).get('fallback_url')
+                if not video_url:
+                    continue
+                    
+                print(f"  [REDDIT] Found valid video: {title[:50]}...")
+                
+                rewrite_result = rewrite_caption_ai(title)
+                if not rewrite_result:
+                    rewritten_caption = title[:200]
+                    image_hook = rewritten_caption[:80]
+                else:
+                    rewritten_caption = rewrite_result.get("rewritten_caption", "News update.")
+                    image_hook = rewrite_result.get("image_hook", rewritten_caption[:80])
+                    
+                clean_caption = re.sub(r'[\*"]', '', rewritten_caption).strip()
+                final_file_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Video.mp4"
+                caption_path = OUTPUT_DIR / f"{successful_post_counter:02d}_Caption.txt"
+                
+                try:
+                    media_resp = requests.get(video_url, stream=True, timeout=45)
+                    media_resp.raise_for_status()
+                    
+                    temp_video_path = os.path.join("videos", f"temp_reddit_{successful_post_counter:02d}.mp4")
+                    with open(temp_video_path, 'wb') as f:
+                        for chunk in media_resp.iter_content(chunk_size=8192):
+                            f.write(chunk)
+                            
+                    print("  [REDDIT] Applying FFmpeg processing...")
+                    ffmpeg_cmd = [
+                        'ffmpeg', '-y', '-i', temp_video_path,
+                        '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
+                        '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
+                        str(final_file_path)
+                    ]
+                    
+                    res = subprocess.run(ffmpeg_cmd, capture_output=True, timeout=90)
+                    if res.returncode != 0:
+                        log.error(f"  [REDDIT] FFmpeg failed: {res.stderr.decode('utf-8')}")
+                        continue
+                        
+                    hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
+                    with open(caption_path, "w", encoding="utf-8") as f:
+                        f.write(f"\U0001f6a8 BREAKING:\n\n{clean_caption}{hashtags}\n")
+                        
+                    drive_queue.extend([Path(final_file_path), Path(caption_path)])
+                    tg_video_count += 1
+                    successful_post_counter += 1
+                    mark_posted(post_url, None, posted_links, title=image_hook)
+                except Exception as e:
+                    log.warning(f"  [REDDIT] Download/FFmpeg failed: {e}")
+                    continue
+        except Exception as e:
+            print(f"  [REDDIT] Error fetching {sub}: {e}")
+            
+    return successful_post_counter, tg_video_count
+
+
 def main() -> None:
     log.info("=" * 60)
     log.info("Geopolitical Breaking News v17.0 — IG Clone + Omni-Channel Engine")
@@ -2620,6 +2702,11 @@ def main() -> None:
     # Engine 2: Telegram Hunter
     successful_post_counter, image_count, tg_video_count, tg_image_count = run_telegram_hunter(
         posted, successful_post_counter, image_count, tg_video_count, tg_image_count, drive_upload_queue
+    )
+    
+    # Engine 3: Stealth Reddit Video Fallback
+    successful_post_counter, tg_video_count = run_reddit_fallback(
+        posted, successful_post_counter, tg_video_count, drive_upload_queue
     )
     
     # Emergency Fallback: Apify
