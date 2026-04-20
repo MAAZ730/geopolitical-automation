@@ -2308,20 +2308,20 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
                                     
                             print("  [TG] Applying FFmpeg processing to Telegram Video...")
                             ffmpeg_cmd = [
-                                'ffmpeg', '-y', '-i', temp_video_path,
-                                '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
-                                '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
+                                'ffmpeg', '-y', '-i', temp_video_path, '-t', '60',
+                                '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=15:15[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
+                                '-c:v', 'libx264', '-crf', '28', '-preset', 'ultrafast', '-c:a', 'aac', '-b:a', '128k',
                                 str(final_file_path)
                             ]
                             
-                            # STRICT 90-SECOND TIMEOUT ON FFMPEG
+                            # V17.8: 180-SECOND TIMEOUT ON FFMPEG (ultrafast preset)
                             try:
-                                res = subprocess.run(ffmpeg_cmd, capture_output=True, timeout=90)
+                                res = subprocess.run(ffmpeg_cmd, capture_output=True, timeout=180)
                                 if res.returncode != 0:
                                     log.error(f"  [TG] FFmpeg failed: {res.stderr.decode('utf-8')}")
                                     continue
                             except subprocess.TimeoutExpired:
-                                log.warning("  [TG] FFmpeg timed out after 90 seconds. Skipping video.")
+                                log.warning("  [TG] FFmpeg timed out after 180 seconds. Skipping video.")
                                 continue
                                 
                             hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
@@ -2578,13 +2578,13 @@ def run_reddit_fallback(posted_links, successful_post_counter, tg_video_count, d
                             
                     print("  [REDDIT] Applying FFmpeg processing...")
                     ffmpeg_cmd = [
-                        'ffmpeg', '-y', '-i', temp_video_path,
-                        '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:20[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
-                        '-c:v', 'libx264', '-crf', '23', '-preset', 'fast', '-c:a', 'aac', '-b:a', '128k',
+                        'ffmpeg', '-y', '-i', temp_video_path, '-t', '60',
+                        '-vf', 'split[original][copy];[copy]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=15:15[blurred];[original]scale=1080:1920:force_original_aspect_ratio=decrease[scaled];[blurred][scaled]overlay=(main_w-overlay_w)/2:(main_h-overlay_h)/2',
+                        '-c:v', 'libx264', '-crf', '28', '-preset', 'ultrafast', '-c:a', 'aac', '-b:a', '128k',
                         str(final_file_path)
                     ]
                     
-                    res = subprocess.run(ffmpeg_cmd, capture_output=True, timeout=90)
+                    res = subprocess.run(ffmpeg_cmd, capture_output=True, timeout=180)
                     if res.returncode != 0:
                         log.error(f"  [REDDIT] FFmpeg failed: {res.stderr.decode('utf-8')}")
                         continue
