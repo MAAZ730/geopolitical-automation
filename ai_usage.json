@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2151,
+  "total_calls": 2155,
   "tiers": {
-    "groq": 2132,
+    "groq": 2136,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-18T07:20:55.474755+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-18T07:21:27.707663+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-18T07:22:14.557959+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-18T07:23:04.956909+00:00",
-      "tier": "groq",
-      "article": "US Marine Corps releases video showcasing new Medium Landing Ship design"
-    },
     {
       "timestamp": "2026-04-18T09:02:52.505662+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-20T06:25:24.214444+00:00",
       "tier": "groq",
       "article": "Hezbollah: We reiterate what we have repeatedly stated\u2014there is no presence of ours inside Syrian territory, and we have no activity there of any kind or form - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-20T07:24:16.992092+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-20T07:24:49.351066+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s military deliver drone strikes on US warships in response to its vessel\u2019s seizure"
+    },
+    {
+      "timestamp": "2026-04-20T07:25:06.694404+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-20T07:25:46.806178+00:00",
+      "tier": "groq",
+      "article": "Slovakia\u2019s Fico vows to attend Moscow Victory Day despite Baltic states closing airspace to his plane"
     }
   ]
 }

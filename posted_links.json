@@ -1,4 +1,34 @@
 {
+  "6f12cec6d4a2fc22f8971fb780c07d91a53f7c610fe6ab301981230bffe6f728": {
+    "url": "IntelRepublic/51420",
+    "title": "Iran Fires Missile Barrage Amid Tensions with Washington",
+    "published": "2026-04-20T07:49:45.217148+00:00"
+  },
+  "ae62de189ba58a5ce94ebd210a9705b4161277bae160e9ca0dfba4d6bb7c727b": {
+    "url": "OSINT_defender/278",
+    "title": "Massive Fire Engulfs Valero Oil Refinery in Port Arthur, Texas",
+    "published": "2026-04-20T07:45:28.813300+00:00"
+  },
+  "ba90e488f6a174311285116253a350b7bb00c55f1e32595445a1452a7dcd96ac": {
+    "url": "CyberspecNews/105554",
+    "title": "Tuapse Oil Depot Fire After Drone Attacks",
+    "published": "2026-04-20T07:41:55.921774+00:00"
+  },
+  "69996302a9963b85d5f45159aed29e101bfb802c63f9ecc91f5a986f067a880e": {
+    "url": "mod_russia_en/26517",
+    "title": "Russian Forces Claim Successful Strike Against Enemy Deployment in Krasny Liman",
+    "published": "2026-04-20T07:41:12.716112+00:00"
+  },
+  "19422529ae6487dd472f028754239b131e1c20c2e2075c55ce3e0d5b2264e20a": {
+    "url": "DDGeopolitics/182397",
+    "title": "Russia Designates Ukrainian Actions as Genocide Amid US-Iran Tensions Escalate",
+    "published": "2026-04-20T07:30:33.065305+00:00"
+  },
+  "6e8c96d23a9026e38ec8410ba1478834507d6d8749bac041969ce2d3a3275453": {
+    "url": "QudsNen/219788",
+    "title": "Israeli Forces Raid Palestinian Home in Anabta, West Bank",
+    "published": "2026-04-20T07:30:30.997434+00:00"
+  },
   "1ab17fa9023dfc1a49f9d8e289798dbe822db0a99941c0f77d89875f6b969f41": {
     "url": "CyberspecNews/105558",
     "title": "DRONE DOWN! Russian forces dealt another blow in Ukraine - a Jet Geran drone bites the dust!",
@@ -38,6 +68,11 @@
     "url": "QudsNen/219773",
     "title": "Gaza on fire! Israeli artillery takes out Hamas strongholds in Khan Younis!",
     "published": "2026-04-20T03:29:30.899131+00:00"
+  },
+  "ffbcaa6fc5b1042afff3787e2991c51bc1e328963c958d057c93fd9ed43339b3": {
+    "url": "https://tass.com/world/2119379",
+    "title": "Iran\u2019s military deliver drone strikes on US warships in response to its vessel\u2019s seizure",
+    "published": "2026-04-19T23:24:01+00:00"
   },
   "f12acd9e4d4a6064d41c0fe267112b3e245cd521be1aa073330aaa245151fa82": {
     "url": "QudsNen/219753",
@@ -153,6 +188,11 @@
     "url": "https://english.almanar.com.lb/article/60267/",
     "title": "Third Day of Lebanon Ceasefire: People Inspect Houses Amid Continued Israeli Violations - Al-Manar TV Lebanon",
     "published": "2026-04-19T11:47:10+00:00"
+  },
+  "4ba2e9dda7b26a6b0417ceb404f6bb182199542d01c9d7c3f01171d4ad6e88b4": {
+    "url": "https://www.rt.com/news/638701-baltic-states-deny-airspace-slovakia-fico/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Slovakia\u2019s Fico vows to attend Moscow Victory Day despite Baltic states closing airspace to his plane",
+    "published": "2026-04-19T11:38:51+00:00"
   },
   "abb4bfcd70baaadaeb45a6f431baf3b47c8fb65d63d99a72ab211ce54acf6005": {
     "url": "Slavyangrad/162117",
@@ -708,45 +748,5 @@
     "url": "https://www.defensenews.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/",
     "title": "Air Force unit executes test of Anduril\u2019s semiautonomous combat drone",
     "published": "2026-04-17T19:44:55+00:00"
-  },
-  "9088cf9cba3105a8486ce142fa13bcbfa73baa5e08f2e18902875a740666a853": {
-    "url": "presstv/185982",
-    "title": "US-LED AGGRESSION HITS OIL OUTPUT: Iran's oil production crippled by US-Israeli aggression",
-    "published": "2026-04-17T19:24:26.308071+00:00"
-  },
-  "44a2b24c5b9cb080fe728510697a2ae47df5d4c276dcb74161b69be8ae97ce57": {
-    "url": "militarywave/23487",
-    "title": "VICTORY FOR YUJI! Baby monkey finds love in Mexico after brutal abandonment. #JusticeForYuji #MonkeyRescue",
-    "published": "2026-04-17T19:20:56.360689+00:00"
-  },
-  "2ff90f4c056d297892559ced60af6295a146f71b3842e15eb625923f519765d8": {
-    "url": "QudsNen/219487",
-    "title": "3 CIVILIANS KILLED IN ISRAELI AIRSTRIKES. Gaza's streets run red. #GazaUnderAttack",
-    "published": "2026-04-17T19:19:33.768043+00:00"
-  },
-  "1c8f60502bd181efe3414f8c015f6ab7a2acca03172a232f3290824850b078a3": {
-    "url": "Middle_East_Spectator/31109",
-    "title": "BREAKING: IRAN'S NUCLEAR NIGHTMARE ENDS SOON! US and Israel on verge of historic deal that will leave Iran's nukes in shambles!",
-    "published": "2026-04-17T19:19:30.860123+00:00"
-  },
-  "06bb32e31e9e442ced54f3e393f98b75c79bbfdc16eb7dbdee4db63d115bc147": {
-    "url": "Middle_East_Spectator/31113",
-    "title": "Iran refuses ceasefire extension, demands permanent peace and rights!",
-    "published": "2026-04-17T19:19:29.705220+00:00"
-  },
-  "f1c28799da2eddf0f77684a10fb5833bb7732ea7e9818f1536284d5528f7f023": {
-    "url": "https://english.almanar.com.lb/article/59762/",
-    "title": "Aoun Says Lebanon Enters \u2018New Stage\u2019 after Ceasefire - Al-Manar TV Lebanon",
-    "published": "2026-04-17T19:09:14+00:00"
-  },
-  "4b7ad4b33dea211616bf4aa658630e9d0a09157eb1882e3cbfa38aa44127e0ec": {
-    "url": "https://www.defensenews.com/news/your-military/2026/04/17/us-marine-corps-releases-video-showcasing-new-medium-landing-ship-design/",
-    "title": "US Marine Corps releases video showcasing new Medium Landing Ship design",
-    "published": "2026-04-17T19:03:05+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel vs Lebanon: Bridge of War. Divide and Conquer",
-    "published": "2026-04-17T17:07:34.316492+00:00"
   }
 }
