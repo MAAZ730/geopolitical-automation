@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2155,
+  "total_calls": 2159,
   "tiers": {
-    "groq": 2136,
+    "groq": 2140,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-18T09:02:52.505662+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-18T09:03:25.265329+00:00",
-      "tier": "groq",
-      "article": "Defiant Return: Displaced Families Head Back to Beirut\u2019s Southern Suburbs Despite Widespread Destruction - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-18T09:04:11.805255+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-18T09:04:27.887819+00:00",
-      "tier": "groq",
-      "article": "Aoun Says Lebanon Enters \u2018New Stage\u2019 after Ceasefire - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-18T10:49:55.618661+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-20T07:25:46.806178+00:00",
       "tier": "groq",
       "article": "Slovakia\u2019s Fico vows to attend Moscow Victory Day despite Baltic states closing airspace to his plane"
+    },
+    {
+      "timestamp": "2026-04-20T08:15:22.285224+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-20T08:15:55.231781+00:00",
+      "tier": "groq",
+      "article": "Israel delivers 17 strikes on Beirut\u2019s southern suburbs \u2014 TV"
+    },
+    {
+      "timestamp": "2026-04-20T08:16:13.020980+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-04-20T08:16:32.011759+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
