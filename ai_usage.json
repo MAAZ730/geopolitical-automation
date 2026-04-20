@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2167,
+  "total_calls": 2171,
   "tiers": {
-    "groq": 2148,
+    "groq": 2152,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-18T14:50:07.914190+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-18T14:50:40.906180+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-18T14:50:57.286388+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-18T14:51:34.849488+00:00",
-      "tier": "groq",
-      "article": "Khatam al-Anbiya Headquarters: Based on previous agreements in the negotiations and in good faith, approval has been granted for the passage of a limited number of commercial vessels - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-04-18T16:51:58.777284+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-20T13:56:21.964532+00:00",
       "tier": "groq",
       "article": "Iranian negotiators defending national interests: VP"
+    },
+    {
+      "timestamp": "2026-04-20T15:20:58.613907+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-20T15:21:30.959162+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-20T15:22:17.460562+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-20T15:22:33.572240+00:00",
+      "tier": "groq",
+      "article": "Families of Minab school martyrs urge Pope to be voice of their voiceless children"
     }
   ]
 }
