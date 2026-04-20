@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2163,
+  "total_calls": 2167,
   "tiers": {
-    "groq": 2144,
+    "groq": 2148,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-18T13:14:23.624584+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-18T13:14:40.556874+00:00",
-      "tier": "groq",
-      "article": "Ambulance crew in south Lebanon describes Israel\u2019s \u2018triple-tap\u2019 attack"
-    },
-    {
-      "timestamp": "2026-04-18T13:15:03.233600+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-18T13:15:19.930653+00:00",
-      "tier": "groq",
-      "article": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving"
-    },
     {
       "timestamp": "2026-04-18T14:50:07.914190+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-20T10:08:52.850834+00:00",
       "tier": "groq",
       "article": "Houthis threaten to block Bab el-Mandeb Strait if US hinders peace"
+    },
+    {
+      "timestamp": "2026-04-20T13:55:16.643404+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-20T13:55:49.081770+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-20T13:56:05.438217+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-20T13:56:21.964532+00:00",
+      "tier": "groq",
+      "article": "Iranian negotiators defending national interests: VP"
     }
   ]
 }
