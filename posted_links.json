@@ -1,4 +1,34 @@
 {
+  "d7044e6ab850a2d0b35b85f7f2449ba037fb65a85242480797fe885a261ca8bc": {
+    "url": "BellumActaNews/171412",
+    "title": "Rocket Fire by Hezbollah Forces Displaces Lebanese Civilians in Southern Lebanon",
+    "published": "2026-04-21T19:27:26.981980+00:00"
+  },
+  "820342b2a35a2785e5ac945d8a225eee6aaa7d35e3a5e1b91548eb96934c3bb8": {
+    "url": "BellumActaNews/171415",
+    "title": "Mass Displacement in Southern Lebanon Amid Hezbollah Rocket Fire",
+    "published": "2026-04-21T19:26:55.478643+00:00"
+  },
+  "27b9bfb0810a5e5465d11ba21002cbd8b90ca9a5bddc2a1996043351795bbc2b": {
+    "url": "DDGeopolitics/182546",
+    "title": "Iran Displays Missile in Tehran Amid Ongoing Diplomatic Tensions",
+    "published": "2026-04-21T19:26:27.574290+00:00"
+  },
+  "316adb979ba03a93256953ee9a17bbfbc40e6d7e26c009f6697611e906a7d06e": {
+    "url": "DDGeopolitics/182550",
+    "title": "IRGC Commander Issues Threat to Regional Oil Producers",
+    "published": "2026-04-21T19:25:46.684734+00:00"
+  },
+  "c66520d41bbe8a9cb8a754fa2c0fefee6e68970434be58f72c9ec264dd393352": {
+    "url": "thecradlemedia/58047",
+    "title": "Ansarallah Chief Warns of Escalation in US-Israeli War on Iran",
+    "published": "2026-04-21T19:25:11.925758+00:00"
+  },
+  "f0841fafafca59d7794627e814a085a3545b6505a66253928605e79a19e1d59b": {
+    "url": "thecradlemedia/58049",
+    "title": "Iran Accuses Parties of Ceasefire Violation, Threatens Retaliation",
+    "published": "2026-04-21T19:25:06.530209+00:00"
+  },
   "494ff5c9a7a0de0b330c4e111c3d17572f8721b7aa464e781943aaaed2a6cee0": {
     "url": "BellumActaNews/171394",
     "title": "Trump Asserts He Would Have Won Vietnam War",
@@ -243,6 +273,11 @@
     "url": "Middle_East_Spectator/31257",
     "title": "Iran Rejects US Negotiations Under Threat of Siege",
     "published": "2026-04-20T22:57:09.088848+00:00"
+  },
+  "694ab6cb79e8ce67f8011869f38fd5f64dad86364188d18df420edb1829ccbd2": {
+    "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+    "title": "Donald Trump: US will not lift Hormuz blockade until deal made with Iran",
+    "published": "2026-04-20T21:52:12+00:00"
   },
   "7d25df00e658cb2146124d791e5730d96161fac1dea78b4b9bab66580b06a9b9": {
     "url": "Slavyangrad/162285",
@@ -713,40 +748,5 @@
     "url": "DDGeopolitics/182339",
     "title": "Trump's Iran War Plan Blows Up! US President's fear and inexperience led to a disastrous war strategy #IranWar #TrumpFailed",
     "published": "2026-04-19T10:48:52.211136+00:00"
-  },
-  "fbf19a83b11612ea5c1f5297570f81e7fd1f48ba216c02adbc629234d63fe45c": {
-    "url": "thecradlemedia/57878",
-    "title": "Iran stands strong against US aggression, defending the entire region. No talks without a clear plan!",
-    "published": "2026-04-19T10:48:48.053857+00:00"
-  },
-  "5cc7945a27a0b14b126e5c523dff4ab6aec9fa00ef45af68593364a1ebf99758": {
-    "url": "thecradlemedia/57883",
-    "title": "DEADLY BOMBS DESTROYED! Lebanese army takes down Israeli leftovers in #HaretHreik",
-    "published": "2026-04-19T10:47:17.082923+00:00"
-  },
-  "2201ce83b46af2a921b503f9f09f7e2ce7c32dfcf25d442bdebb0ba862d45b6d": {
-    "url": "mod_russia_en/26493",
-    "title": "RUSSIAN FORCES TAKE DOWN ENEMY DRONES IN SUMY REGION! \ud83d\ude80\ud83d\udca5",
-    "published": "2026-04-19T09:14:47.225745+00:00"
-  },
-  "eef13562993b898cf542961c036a06a3d859dbfbbfc9c0b520eb85f408b24699": {
-    "url": "Slavyangrad/162108",
-    "title": "SUMY SMASHED! Our precision strikes left a trail of destruction in enemy territory, crippling their ability to wage war!",
-    "published": "2026-04-19T09:13:42.167914+00:00"
-  },
-  "5ac0d5568c8dc397b459c279480512571f792b851645064b9d4394b05003989b": {
-    "url": "presstv/186193",
-    "title": "Iran takes down $618 million US drone in Persian Gulf! America's advanced tech can be taken down!",
-    "published": "2026-04-19T09:08:07.333708+00:00"
-  },
-  "48fd75b3cfaaaa6e85c5282cd988c946ef36bfe09a0b65f8960f40be0e7dea6c": {
-    "url": "BellumActaNews/171254",
-    "title": "Iran's Kharg Island: No US boots on the ground!",
-    "published": "2026-04-19T09:08:04.662415+00:00"
-  },
-  "1c7ade5d8e429eba4dbcff0846d7bc4f0430cbca68077df77b18b7264e8b30ab": {
-    "url": "QudsNen/219657",
-    "title": "Israeli aggression met with Palestinian resistance! #FreePalestine #Resistance",
-    "published": "2026-04-19T09:06:28.965269+00:00"
   }
 }

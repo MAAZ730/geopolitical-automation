@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2215,
+  "total_calls": 2219,
   "tiers": {
-    "groq": 2196,
+    "groq": 2200,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-19T10:45:44.992188+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-19T10:46:17.495951+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-19T10:46:33.541889+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-19T10:47:13.679381+00:00",
-      "tier": "groq",
-      "article": "Bulgarians head to polls for eighth time in five years"
-    },
     {
       "timestamp": "2026-04-19T13:11:59.576607+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-21T17:13:58.189450+00:00",
       "tier": "groq",
       "article": "Prof. Schlevogt\u2019s Compass No. 55: Fortification via the V-Strategy \u2013 the Poisoned Chalice Equation"
+    },
+    {
+      "timestamp": "2026-04-21T19:23:22.399910+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-21T19:23:55.410676+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-21T19:24:11.768862+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-21T19:24:55.572770+00:00",
+      "tier": "groq",
+      "article": "Donald Trump: US will not lift Hormuz blockade until deal made with Iran"
     }
   ]
 }
