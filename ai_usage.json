@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2223,
+  "total_calls": 2227,
   "tiers": {
-    "groq": 2204,
+    "groq": 2208,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-19T14:48:53.260337+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-19T14:49:26.726356+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-19T14:50:12.781107+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-19T14:51:05.064662+00:00",
-      "tier": "groq",
-      "article": "Iran, US still \u2018far\u2019 from breakthrough amid Strait of Hormuz impasse"
-    },
     {
       "timestamp": "2026-04-19T16:51:53.485547+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-21T21:04:43.391447+00:00",
       "tier": "groq",
       "article": "Increased military use puts strain on key NATO jet fuel pipeline"
+    },
+    {
+      "timestamp": "2026-04-21T22:44:02.673558+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-21T22:44:35.380465+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-21T22:44:51.591793+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Strikes Military Target in Galilee in Response to Israeli Violations - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-21T22:45:29.998223+00:00",
+      "tier": "groq",
+      "article": "Iran denounces Israeli violation of Somalia\u2019s sovereignty"
     }
   ]
 }
