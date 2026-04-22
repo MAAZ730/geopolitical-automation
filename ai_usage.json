@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2251,
+  "total_calls": 2255,
   "tiers": {
-    "groq": 2232,
+    "groq": 2236,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-20T07:24:16.992092+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-20T07:24:49.351066+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s military deliver drone strikes on US warships in response to its vessel\u2019s seizure"
-    },
-    {
-      "timestamp": "2026-04-20T07:25:06.694404+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-20T07:25:46.806178+00:00",
-      "tier": "groq",
-      "article": "Slovakia\u2019s Fico vows to attend Moscow Victory Day despite Baltic states closing airspace to his plane"
-    },
     {
       "timestamp": "2026-04-20T08:15:22.285224+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-22T15:24:52.498724+00:00",
       "tier": "groq",
       "article": "3 EU states push for Israel pact suspension"
+    },
+    {
+      "timestamp": "2026-04-22T17:09:21.094249+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-22T17:09:54.888443+00:00",
+      "tier": "groq",
+      "article": "Injured big cats at Vasilievsky animal center recovering after Ukrainian strikes"
+    },
+    {
+      "timestamp": "2026-04-22T17:10:41.222403+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-22T17:10:57.592157+00:00",
+      "tier": "groq",
+      "article": "Israeli army blows up school in s. Lebanon in breach of truce"
     }
   ]
 }
