@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2299,
+  "total_calls": 2303,
   "tiers": {
-    "groq": 2280,
+    "groq": 2284,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-21T11:16:57.604561+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-21T11:17:29.747759+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-21T11:17:45.521233+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-21T11:18:01.559130+00:00",
-      "tier": "groq",
-      "article": "Trump blockade of Iran hampering efforts to resume talks"
-    },
     {
       "timestamp": "2026-04-21T13:55:27.229888+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-23T21:03:27.248959+00:00",
       "tier": "groq",
       "article": "US Navy secretary exits administration effective immediately"
+    },
+    {
+      "timestamp": "2026-04-23T22:57:07.955883+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-23T22:57:41.357033+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-23T22:58:27.619079+00:00",
+      "tier": "groq",
+      "article": "At least 10 people injured in shooting in Louisiana, US"
+    },
+    {
+      "timestamp": "2026-04-23T22:59:21.313560+00:00",
+      "tier": "groq",
+      "article": "Iran says Strait of Hormuz cannot be re-opened due to ceasefire breaches"
     }
   ]
 }
