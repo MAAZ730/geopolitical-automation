@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2283,
+  "total_calls": 2287,
   "tiers": {
-    "groq": 2264,
+    "groq": 2268,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-20T22:55:32.780175+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-04-20T22:56:05.985819+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-20T22:56:22.708704+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-04-20T22:57:02.314460+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-04-21T02:58:08.111999+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-04-23T11:20:00.913270+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-04-23T13:57:45.978761+00:00",
+      "tier": "groq",
+      "article": "Hezbollah MPs Condemn Deadly Israeli Strike on Journalists, Urge End to Lebanon\u2013Israeli Enemy Talks - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-04-23T13:58:25.976106+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-04-23T13:59:11.190618+00:00",
+      "tier": "groq",
+      "article": "Israeli strike near mosque kills five in Gaza, including three children"
+    },
+    {
+      "timestamp": "2026-04-23T13:59:27.458559+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
