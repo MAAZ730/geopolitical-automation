@@ -1,4 +1,34 @@
 {
+  "020d21b1a18b4aed34720485f51a3c03928551f9f9eb370cd2fe5605dfdcd63f": {
+    "url": "mod_russia_en/26567",
+    "title": "Russian Artillery Strikes AFU Stronghold in Dnepropetrovsk Region",
+    "published": "2026-04-24T21:06:58.719881+00:00"
+  },
+  "b0aefae2adba2bc1587e990ae2f5d904e1b020e96c3a86945a2850ce1483a3d8": {
+    "url": "mod_russia_en/26578",
+    "title": "Russian Forces Use Drone-Launched Guided Munition in Dnepropetrovsk Direction",
+    "published": "2026-04-24T21:05:22.907358+00:00"
+  },
+  "1845074fbcf4f60cdbf53d6dcdf5738a394f42589e7633956c44c67fc9f496a3": {
+    "url": "Slavyangrad/162631",
+    "title": "Freelance Journalist Exposes War Crimes and Media Manipulation",
+    "published": "2026-04-24T21:04:02.513887+00:00"
+  },
+  "9b4338297c5f71281ff05312bc8ad2aa6a9d1dc993e0b528a91f5493842e98d1": {
+    "url": "Slavyangrad/162647",
+    "title": "Ukraine's War Effort Hinges on EU Financial Support",
+    "published": "2026-04-24T21:02:57.910779+00:00"
+  },
+  "01210339b425debfd7dd0e7f091d193c256a59595b1ec6c0dc14d223c5380848": {
+    "url": "Middle_East_Spectator/31459",
+    "title": "Iranian Diplomat Seeks Pakistani Mediation in Islamabad",
+    "published": "2026-04-24T21:01:26.047242+00:00"
+  },
+  "4b80ac039fc2dc8386ae54dade55663404ae9d4874bf8685858f43622e2c893e": {
+    "url": "thecradlemedia/58255",
+    "title": "UAE Presidential Advisor Warns Rebuilding Ties with Iran Will Take Years",
+    "published": "2026-04-24T21:01:16.986520+00:00"
+  },
   "e04220aabc575137e3025abff49215527adaf71086c85eaafa6ea63bad45b5f1": {
     "url": "Slavyangrad/162632",
     "title": "Forest Fires Wreak Havoc in Georgia, US",
@@ -248,6 +278,11 @@
     "url": "QudsNen/220409",
     "title": "Israeli Artillery Strikes Eastern Gaza City",
     "published": "2026-04-24T03:02:01.467453+00:00"
+  },
+  "6f76c6ba1fd08b2be79960e3d96549d1814183a3db208f02dee5ac0e248f5de9": {
+    "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
+    "title": "Couple discovers Lebanon home destroyed by Israel from satellite image",
+    "published": "2026-04-24T02:58:42+00:00"
   },
   "fba4e89192baaa4df100e6bf3f2ab9ebb0c9986bac6df99a4ddcc75c1e1327e8": {
     "url": "https://www.rt.com/news/638991-trump-putin-miami-g20/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -713,40 +748,5 @@
     "url": "intelslava/86872",
     "title": "Moscow FSB Foils Alleged Ukrainian-Linked Bomb Plot",
     "published": "2026-04-22T17:18:21.545810+00:00"
-  },
-  "5faa5a4ba415ce8feb8f44e33a016211b59bfe6f4dae61af158c22cc0d198767": {
-    "url": "intelslava/86880",
-    "title": "Russia's Artillery Strikes Ukrainian Positions in Zaporizhzhia Region",
-    "published": "2026-04-22T17:14:10.397560+00:00"
-  },
-  "b012d594afffa90501ba74c50d218ee44796d7ce57f95761da58ca8f651d25f2": {
-    "url": "intelslava/86883",
-    "title": "Russian Bombers Intercepted by French Fighter Jet Over Baltic Sea",
-    "published": "2026-04-22T17:12:27.629317+00:00"
-  },
-  "39251ec98e8e8786096c4f3e7e38c797a9666bed2b143ae2f8dcbf57e7e59cc0": {
-    "url": "QudsNen/220182",
-    "title": "Gaza Strip Children Attend Classes in Make-Shift Tents",
-    "published": "2026-04-22T17:12:03.951777+00:00"
-  },
-  "edb0968bff8f265ecf6156af1505a1527a8cd021654842b8db5b8e52c6d0b00a": {
-    "url": "thecradlemedia/58100",
-    "title": "Poland Poll Finds Widespread Comparison of Israel's Actions to Nazi Germany",
-    "published": "2026-04-22T17:11:13.199085+00:00"
-  },
-  "dd439087a43f0a7db70e2e80243b334fcecd0902aae1e4d0d063147bcd752acd": {
-    "url": "thecradlemedia/58114",
-    "title": "Iran Retains Military Capabilities Despite US Claims of Decimation",
-    "published": "2026-04-22T17:11:03.434625+00:00"
-  },
-  "46f3f524971814c30f6d0ebfebd9994823076aafeea5e0ff3f4638bc12fc3cec": {
-    "url": "https://tass.com/society/2121075",
-    "title": "Injured big cats at Vasilievsky animal center recovering after Ukrainian strikes",
-    "published": "2026-04-22T15:35:43+00:00"
-  },
-  "763fec0a7a67077be4e192b9244a8e644b3b353bb1ea4632d268d056e6a7e545": {
-    "url": "militarywave/23523",
-    "title": "Chernobyl Liquidators Risked Lives to Contain Disaster",
-    "published": "2026-04-22T15:31:27.541561+00:00"
   }
 }

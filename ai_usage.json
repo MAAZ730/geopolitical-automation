@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2335,
+  "total_calls": 2339,
   "tiers": {
-    "groq": 2316,
+    "groq": 2320,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-22T09:30:16.900944+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-22T09:30:33.689497+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Armed Forces \u2018Have Hands on Trigger\u2019 to Respond to Any Attack - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-22T09:30:59.934416+00:00",
-      "tier": "groq",
-      "article": "Iran's Armed Forces hands on trigger to respond to any attack"
-    },
-    {
-      "timestamp": "2026-04-22T09:31:17.399413+00:00",
-      "tier": "groq",
-      "article": "Popemobile child clinic yet to reach Gaza one year after Francis's death"
-    },
     {
       "timestamp": "2026-04-22T11:12:32.490173+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-24T19:06:30.668992+00:00",
       "tier": "groq",
       "article": "Trump says Putin at Miami G20 would be \u2018helpful\u2019"
+    },
+    {
+      "timestamp": "2026-04-24T20:59:32.365783+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-24T21:00:06.373418+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-24T21:00:22.630555+00:00",
+      "tier": "groq",
+      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
+    },
+    {
+      "timestamp": "2026-04-24T21:01:07.030670+00:00",
+      "tier": "groq",
+      "article": "Couple discovers Lebanon home destroyed by Israel from satellite image"
     }
   ]
 }
