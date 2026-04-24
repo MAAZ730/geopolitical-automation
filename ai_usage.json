@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2311,
+  "total_calls": 2315,
   "tiers": {
-    "groq": 2292,
+    "groq": 2296,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-21T17:13:06.004028+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-21T17:13:22.211295+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-21T17:13:37.970350+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-21T17:13:58.189450+00:00",
-      "tier": "groq",
-      "article": "Prof. Schlevogt\u2019s Compass No. 55: Fortification via the V-Strategy \u2013 the Poisoned Chalice Equation"
-    },
     {
       "timestamp": "2026-04-21T19:23:22.399910+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-24T06:16:52.952711+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-04-24T09:50:47.549539+00:00",
+      "tier": "groq",
+      "article": "Israel delivers 17 strikes on Beirut\u2019s southern suburbs \u2014 TV"
+    },
+    {
+      "timestamp": "2026-04-24T09:51:21.285501+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-04-24T09:51:39.631336+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-24T09:52:16.037866+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
