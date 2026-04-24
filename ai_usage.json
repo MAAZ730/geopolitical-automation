@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2327,
+  "total_calls": 2331,
   "tiers": {
-    "groq": 2308,
+    "groq": 2312,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-22T02:57:02.094837+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-22T02:57:34.781982+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-22T02:57:50.692988+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-22T02:58:06.695259+00:00",
-      "tier": "groq",
-      "article": "Russia lifts flight restrictions over Iranian airspace"
-    },
     {
       "timestamp": "2026-04-22T06:07:54.427652+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-24T15:18:24.416854+00:00",
       "tier": "groq",
       "article": "As Iran saps US focus, the troop math for monitoring a Ukraine peace deal looks grim"
+    },
+    {
+      "timestamp": "2026-04-24T17:04:42.785640+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-24T17:05:15.747045+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-24T17:06:06.545033+00:00",
+      "tier": "groq",
+      "article": "Trump rules out nuking Iran after threats to destroy civilization"
+    },
+    {
+      "timestamp": "2026-04-24T17:06:55.126367+00:00",
+      "tier": "groq",
+      "article": "Iran's nuclear bomb narrative \u2018a fabrication\u2019: FM spox"
     }
   ]
 }
