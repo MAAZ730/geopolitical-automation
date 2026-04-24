@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2339,
+  "total_calls": 2343,
   "tiers": {
-    "groq": 2320,
+    "groq": 2324,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-22T11:12:32.490173+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-22T11:13:04.740494+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-22T11:13:20.662658+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-22T11:13:36.770317+00:00",
-      "tier": "groq",
-      "article": "\u2018Petro-Yuan\u2019: A silent earthquake in global economy"
-    },
     {
       "timestamp": "2026-04-22T13:55:40.977682+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-24T21:01:07.030670+00:00",
       "tier": "groq",
       "article": "Couple discovers Lebanon home destroyed by Israel from satellite image"
+    },
+    {
+      "timestamp": "2026-04-24T22:45:08.523791+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-24T22:45:41.719721+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-24T22:45:57.859788+00:00",
+      "tier": "groq",
+      "article": "US deploys some 15,000 troops in Mideast with three aircraft carrier strike groups"
+    },
+    {
+      "timestamp": "2026-04-24T22:46:16.589225+00:00",
+      "tier": "groq",
+      "article": "US special forces soldier charged over $400,000 bet on Maduro raid"
     }
   ]
 }

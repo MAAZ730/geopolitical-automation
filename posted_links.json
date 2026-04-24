@@ -1,4 +1,39 @@
 {
+  "3fb4207b023e7e425d0e178102b247c020db0c3a8fe42955f82d627756856c72": {
+    "url": "OSINT_defender/276",
+    "title": "US A-10 Fighter Refuels Over CENTCOM Area of Responsibility",
+    "published": "2026-04-24T22:52:02.407487+00:00"
+  },
+  "ae62de189ba58a5ce94ebd210a9705b4161277bae160e9ca0dfba4d6bb7c727b": {
+    "url": "OSINT_defender/278",
+    "title": "Massive Fire Engulfs Valero Oil Refinery in Port Arthur, Texas",
+    "published": "2026-04-24T22:50:31.405155+00:00"
+  },
+  "7c8139d49e0083784d89963905419071e986009977504c3de31a1a60fac3cdb4": {
+    "url": "OSINT_defender/279",
+    "title": "Iranian Ballistic Missiles Strike Tel Aviv, Central Israel",
+    "published": "2026-04-24T22:50:14.527504+00:00"
+  },
+  "4f6afea61b140c86fdd9510b6f389605e63bb71c3add997439dec7d8de83e379": {
+    "url": "DDGeopolitics/182747",
+    "title": "Dnepropetrovsk Fire Following Russian Drone Strike",
+    "published": "2026-04-24T22:47:44.859574+00:00"
+  },
+  "a004f814b2928630ad1fd67c2a5e1cf3202e9609736528c932ee6a8b1871f4e0": {
+    "url": "QudsNen/220516",
+    "title": "Israel Asserts Control Over 5% of Lebanon's Territory Amid Ongoing Invasion",
+    "published": "2026-04-24T22:46:25.560473+00:00"
+  },
+  "0adc8a3e786fbc4ff447451d19929052381a4b385db671e9b9666932780485ee": {
+    "url": "QudsNen/220517",
+    "title": "Hezbollah Responds to Israeli Ceasefire Violations with Five Military Operations",
+    "published": "2026-04-24T22:46:24.317909+00:00"
+  },
+  "e0d3808cbd5c62bd27e7bc5eee1f7120ffc0799ca5f1db80b1b6e04a50e690ee": {
+    "url": "https://tass.com/world/2122341",
+    "title": "US deploys some 15,000 troops in Mideast with three aircraft carrier strike groups",
+    "published": "2026-04-24T21:50:30+00:00"
+  },
   "020d21b1a18b4aed34720485f51a3c03928551f9f9eb370cd2fe5605dfdcd63f": {
     "url": "mod_russia_en/26567",
     "title": "Russian Artillery Strikes AFU Stronghold in Dnepropetrovsk Region",
@@ -248,6 +283,11 @@
     "url": "QudsNen/220420",
     "title": "Israeli Forces Bomb Target in Touline, Southern Lebanon",
     "published": "2026-04-24T06:17:00.159636+00:00"
+  },
+  "2a9ade120800094eb865ff79b2f9de54613a453d39a288c74b03b4f0357f2bc8": {
+    "url": "https://www.rt.com/news/638994-us-soldier-arrested-war-bets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US special forces soldier charged over $400,000 bet on Maduro raid",
+    "published": "2026-04-24T04:15:00+00:00"
   },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
@@ -708,45 +748,5 @@
     "url": "https://en.mehrnews.com/news/243892/Ceasefire-vIolations-blockade-threats-barriers-to-talks",
     "title": "Ceasefire vIolations, blockade, threats barriers to talks",
     "published": "2026-04-22T19:36:25+00:00"
-  },
-  "7d53aa46f8fe8eb3aac8df82354994ac100fe308534540c8b6c02a10c775d767": {
-    "url": "mod_russia_en/26535",
-    "title": "Russian Forces Conduct Aerial Strikes in Zaporozhye and Kharkov Regions",
-    "published": "2026-04-22T19:32:06.907461+00:00"
-  },
-  "08cceba7b2b2bbbcf35c2299416e30e6eda2c539f8da7abf7a2a86dc2a344950": {
-    "url": "mod_russia_en/26542",
-    "title": "Ukrainian Forces Liberate Grishino, Improve Tactical Situation",
-    "published": "2026-04-22T19:30:59.816524+00:00"
-  },
-  "ead1fa5fe89e0e206507ce26c169c1f8e9b693b7a982b1c394c854bbec2932a8": {
-    "url": "mod_russia_en/26549",
-    "title": "Russian Forces Destroy Ukrainian Fortifications in Krasny Liman",
-    "published": "2026-04-22T19:29:25.194503+00:00"
-  },
-  "5b3d3a262fe45fdd62dab0f259e6abc304242840b653f38f4a7395ec3434a5ff": {
-    "url": "mod_russia_en/26552",
-    "title": "Russian Forces Capture Strategic Stronghold in Ukraine's Zaporozhye Region",
-    "published": "2026-04-22T19:27:56.174492+00:00"
-  },
-  "491bef2d7d2946c8bb39ad1618e221c22d9102ce9ae4d855128d9e97025bd500": {
-    "url": "Middle_East_Spectator/31370",
-    "title": "Hezbollah Claims Responsibility for Drone Attack on Israeli Forces in Southern Lebanon",
-    "published": "2026-04-22T19:26:22.949978+00:00"
-  },
-  "bf0b43fd57d10294ec4de06e6e796f04641434596cd01d2da07768a43d0cd058": {
-    "url": "thecradlemedia/58118",
-    "title": "Israeli Military Strikes in Southern Lebanon Raise Concerns Over Rescue Efforts",
-    "published": "2026-04-22T19:26:20.711447+00:00"
-  },
-  "28403b463d3ab806f8af566c1fd99b183f99cb4db2fc74825a1f6bd89fdadcbd": {
-    "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded?traffic_source=rss",
-    "title": "At least four killed in Israeli attacks on Lebanon, journalists wounded",
-    "published": "2026-04-22T18:10:52+00:00"
-  },
-  "9d6e8d160796d2f047157c0c97251aa912dfae02f8b6642cde2a6db002b98465": {
-    "url": "intelslava/86872",
-    "title": "Moscow FSB Foils Alleged Ukrainian-Linked Bomb Plot",
-    "published": "2026-04-22T17:18:21.545810+00:00"
   }
 }
