@@ -1,4 +1,34 @@
 {
+  "9aa27510cf6299247dedaeb694c889b3ada48e5db791744fb5fbb5042f583277": {
+    "url": "intelslava/87016",
+    "title": "Dnipropetrovsk Hit by Drone Strike",
+    "published": "2026-04-25T06:03:27.537583+00:00"
+  },
+  "a5185e9cfeb5e9c4da65dabc7370bf6bf470c12465683300b20ccf155cc7434b": {
+    "url": "presstv/187029",
+    "title": "Hezbollah Drone Strike Hits Israeli Military Vehicle in Quneitra",
+    "published": "2026-04-25T06:02:41.298333+00:00"
+  },
+  "2c67a74c6de150bb130a08da851dbe501f0e5cd7f1abf3ccba7841c3be425aaf": {
+    "url": "presstv/187032",
+    "title": "Iran Official Rejects Limitations on Ballistic Missile Program",
+    "published": "2026-04-25T05:59:39.623453+00:00"
+  },
+  "194c2e6aa6c1542761cd2c526ce9dc1609622e8f252b9fbb8b65606628f64d1c": {
+    "url": "QudsNen/220534",
+    "title": "Israeli Air Strike Kills Lebanese Journalist, Wounds Colleague",
+    "published": "2026-04-25T05:56:39.367425+00:00"
+  },
+  "a75db379edd5de2ef92c2ccc16aa93a18e04fb32bc433f5f4f00ca14ef0e4913": {
+    "url": "QudsNen/220536",
+    "title": "Israeli Artillery Strikes Eastern Gaza Strip",
+    "published": "2026-04-25T05:56:37.793750+00:00"
+  },
+  "e951e6b0ec74e9082e56c560f72e85811fbe22e5b8701b49a9cc5b6ce37cc356": {
+    "url": "QudsNen/220549",
+    "title": "US Airlift Continues to Transport Munitions to Middle East",
+    "published": "2026-04-25T05:56:36.124630+00:00"
+  },
   "9e79d9abc0aabbfd1ad490454b7cf322310316cea46031f561fb44ef11a59a21": {
     "url": "CyberspecNews/105939",
     "title": "UK to Designate Iran's IRGC as Terrorist Organization",
@@ -718,35 +748,5 @@
     "url": "QudsNen/220223",
     "title": "Israeli Artillery Strikes Eastern Gaza Strip",
     "published": "2026-04-22T23:05:28.355964+00:00"
-  },
-  "65ea7d4150fa1a5021a71b0693c6e049eb53f6539d8bfd2488d8658e94a8ee7a": {
-    "url": "QudsNen/220227",
-    "title": "Israeli Airstrike Kills Civilians in Beit Lahia, Gaza Strip",
-    "published": "2026-04-22T23:05:27.280298+00:00"
-  },
-  "bf65d59a88d8914ed7cabced6f6b698a7a18837c2100f65083b0301ff3a87c5d": {
-    "url": "thecradlemedia/58122",
-    "title": "US Security Presence in Gulf Faces Regional Challenge",
-    "published": "2026-04-22T23:04:37.034206+00:00"
-  },
-  "4f26de4d0fadefff9ecb0013c569cf05638bc73af843f8da9f5fddc587486f19": {
-    "url": "thecradlemedia/58124",
-    "title": "Israeli Military Operation Claims Lives in Gaza's Beit Lahia",
-    "published": "2026-04-22T23:04:35.822681+00:00"
-  },
-  "9a4673f246bfb080ebc14fe71197376d100e4964ae0fd685b540228d0841c1b4": {
-    "url": "thecradlemedia/58128",
-    "title": "IRGC Seizes Non-Compliant Ships in Strait of Hormuz",
-    "published": "2026-04-22T23:03:48.856985+00:00"
-  },
-  "361521374c1fa52e60d93f28a796e303e3beb003cc29f6d8cb8139095a5e5768": {
-    "url": "https://www.rt.com/news/638947-us-navy-secretary-steps-down/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US Navy secretary exits administration effective immediately",
-    "published": "2026-04-22T22:09:16+00:00"
-  },
-  "4a4be827fa2848c54a01a14b2241d2451ad10f17403dd9a8f97b9a161a8e594c": {
-    "url": "QudsNen/220219",
-    "title": "Israeli Drone Strike Kills Five Civilians in Gaza's Beit Lahia",
-    "published": "2026-04-22T21:11:27.400794+00:00"
   }
 }
