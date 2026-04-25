@@ -1,4 +1,39 @@
 {
+  "9e79d9abc0aabbfd1ad490454b7cf322310316cea46031f561fb44ef11a59a21": {
+    "url": "CyberspecNews/105939",
+    "title": "UK to Designate Iran's IRGC as Terrorist Organization",
+    "published": "2026-04-25T02:53:40.901953+00:00"
+  },
+  "5b92ca77f18eb95f38c8294888460e2ad18a3f44fa9fe793ebd7e6656de03667": {
+    "url": "boris_rozhin/208171",
+    "title": "Ukraine Deploys Drone-Hunting Drones from Modified Polish Aircraft",
+    "published": "2026-04-25T02:52:35.367313+00:00"
+  },
+  "fd4c67a10e922c46a5aef78a0fb85ef431288b72cb44d92d9baa300c2dd5119b": {
+    "url": "BellumActaNews/171630",
+    "title": "Hamas Militants Clash with Civilians in Gaza City",
+    "published": "2026-04-25T02:50:02.984289+00:00"
+  },
+  "fc26bec401e8b07182c19a1dd6a13ba128aa5edf5d9cc5599d79aa199aa8b0a2": {
+    "url": "DDGeopolitics/182752",
+    "title": "Explosions Rock Dnepropetrovsk, Ukraine",
+    "published": "2026-04-25T02:49:35.309447+00:00"
+  },
+  "d1a2440c0f8ca1a61f0fa832cd391beed437eaf933e0cc14ba49a556030abd57": {
+    "url": "QudsNen/220537",
+    "title": "Israeli Troops Accused of Looting in Southern Lebanon",
+    "published": "2026-04-25T02:49:07.925452+00:00"
+  },
+  "cf0d982a95fa5fb263cda4953b71778f2e3061035eb9c519d5c8698bff7c8a4f": {
+    "url": "thecradlemedia/58280",
+    "title": "Hezbollah's Precision Strike Exposes Israeli Tank Vulnerabilities",
+    "published": "2026-04-25T02:49:04.451965+00:00"
+  },
+  "1381b86d09a2e10d27dbb6d9cd775b348468d0647fcf79ccb85ea120a02d1d71": {
+    "url": "https://tass.com/world/2122355",
+    "title": "At least six Lebanese people killed by Israeli strikes in past day \u2014 ministry",
+    "published": "2026-04-25T00:17:26+00:00"
+  },
   "3fb4207b023e7e425d0e178102b247c020db0c3a8fe42955f82d627756856c72": {
     "url": "OSINT_defender/276",
     "title": "US A-10 Fighter Refuels Over CENTCOM Area of Responsibility",
@@ -283,6 +318,11 @@
     "url": "QudsNen/220420",
     "title": "Israeli Forces Bomb Target in Touline, Southern Lebanon",
     "published": "2026-04-24T06:17:00.159636+00:00"
+  },
+  "d5e3851d1133e04787b8e177267143b5ab8b06b9a1767daf7349287a1cf28dd0": {
+    "url": "https://en.mehrnews.com/news/243915/Significant-unity-among-Iranians-shatters-enemy-ranks-Leader",
+    "title": "Significant unity among Iranians shatters enemy ranks: Leader",
+    "published": "2026-04-24T05:03:26+00:00"
   },
   "2a9ade120800094eb865ff79b2f9de54613a453d39a288c74b03b4f0357f2bc8": {
     "url": "https://www.rt.com/news/638994-us-soldier-arrested-war-bets/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -708,45 +748,5 @@
     "url": "QudsNen/220219",
     "title": "Israeli Drone Strike Kills Five Civilians in Gaza's Beit Lahia",
     "published": "2026-04-22T21:11:27.400794+00:00"
-  },
-  "3fd9991501f8fcc259666570c66964cdca259215bd2d9643b6fa83c82985d703": {
-    "url": "QudsNen/220224",
-    "title": "Iran Seizes Vessel in Strait of Hormuz",
-    "published": "2026-04-22T21:10:03.146101+00:00"
-  },
-  "e817a4bccfa06ea3a67239f567686f136453046990bd6a90357a56881f99d643": {
-    "url": "Middle_East_Spectator/31363",
-    "title": "Iranian Missile Crews Refine Underground Fueling Technique Amid Ongoing Conflict",
-    "published": "2026-04-22T21:07:36.383145+00:00"
-  },
-  "684589eee0e76f75cfc0c45cd4bef9735ff50564087696e207d9ab7a4dbef00a": {
-    "url": "Middle_East_Spectator/31369",
-    "title": "Hezbollah Drone Strike Hits Israeli Vehicle in Southern Lebanon",
-    "published": "2026-04-22T21:07:34.648098+00:00"
-  },
-  "75f125e946fa38cc4fcfc28dec82d5f3c06a975f6ae36722ab6c6b432abe1bbd": {
-    "url": "Middle_East_Spectator/31378",
-    "title": "Drone Attack Hits Erbil, Iraqi Kurdistan",
-    "published": "2026-04-22T21:07:32.661404+00:00"
-  },
-  "44731c3ae2f3765a8ccbb9ce6a0cfd43cbb8d43081466efcdcf9e7b7a6484fd4": {
-    "url": "Middle_East_Spectator/31379",
-    "title": "IRGC Navy Seizes Container Ships in Strait of Hormuz",
-    "published": "2026-04-22T21:07:02.847811+00:00"
-  },
-  "2d03166c4a100dd1fb1b23859811b31a939162122def86602704ac253a71da7f": {
-    "url": "https://tass.com/world/2121211",
-    "title": "IDF says it attacked Hezbollah site in southern Lebanon",
-    "published": "2026-04-22T21:05:00+00:00"
-  },
-  "b78fbceda75eb0ea77fe1e64097f515c0607f694456b848fe2f4f68f054944c1": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/04/22/us-army-seeks-last-mile-robot-for-medevac-and-resupply/",
-    "title": "US Army seeks \u2018last mile\u2019 robot for medevac and resupply",
-    "published": "2026-04-22T20:25:11+00:00"
-  },
-  "a474eac83ef48fc10d5beb4a849d2f6d27699a7fdd15db63a3c589c6dec0bf6c": {
-    "url": "https://en.mehrnews.com/news/243892/Ceasefire-vIolations-blockade-threats-barriers-to-talks",
-    "title": "Ceasefire vIolations, blockade, threats barriers to talks",
-    "published": "2026-04-22T19:36:25+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2343,
+  "total_calls": 2347,
   "tiers": {
-    "groq": 2324,
+    "groq": 2328,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-22T13:55:40.977682+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-22T13:56:13.024874+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-22T13:56:59.484570+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-22T13:57:15.851573+00:00",
-      "tier": "groq",
-      "article": "Iran condemns US seizure of Touska vessel as \u201ca terrorist act\u201d"
-    },
     {
       "timestamp": "2026-04-22T15:23:21.788758+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-24T22:46:16.589225+00:00",
       "tier": "groq",
       "article": "US special forces soldier charged over $400,000 bet on Maduro raid"
+    },
+    {
+      "timestamp": "2026-04-25T02:47:31.911886+00:00",
+      "tier": "groq",
+      "article": "At least six Lebanese people killed by Israeli strikes in past day \u2014 ministry"
+    },
+    {
+      "timestamp": "2026-04-25T02:48:05.276455+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-25T02:48:21.329009+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-25T02:49:00.374446+00:00",
+      "tier": "groq",
+      "article": "Significant unity among Iranians shatters enemy ranks: Leader"
     }
   ]
 }
