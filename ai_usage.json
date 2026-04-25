@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2363,
+  "total_calls": 2367,
   "tiers": {
-    "groq": 2344,
+    "groq": 2348,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-22T22:59:49.540373+00:00",
-      "tier": "groq",
-      "article": "IDF says it attacked Hezbollah site in southern Lebanon"
-    },
-    {
-      "timestamp": "2026-04-22T23:00:22.518548+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-04-22T23:01:08.672510+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-04-22T23:01:25.005067+00:00",
-      "tier": "groq",
-      "article": "UN chief welcomes US ceasefire extension with Iran"
-    },
     {
       "timestamp": "2026-04-23T02:59:41.573374+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-25T10:55:53.751345+00:00",
       "tier": "groq",
       "article": "IRGC Navy seizes Epaminondas container ship in Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-04-25T13:17:39.405789+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-25T13:18:16.311622+00:00",
+      "tier": "groq",
+      "article": "Hamas, Resistance groups decry Israeli attack on Gaza"
+    },
+    {
+      "timestamp": "2026-04-25T13:19:02.886576+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-25T13:19:19.090462+00:00",
+      "tier": "groq",
+      "article": "Discounts on Russian oil to keep narrowing even if Strait of Hormuz opens \u2014 analyst"
     }
   ]
 }

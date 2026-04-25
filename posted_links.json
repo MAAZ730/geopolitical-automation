@@ -1,4 +1,34 @@
 {
+  "1cc75cab692e2dda5dc9439f7fd45809d1c0e83c59deaeb649be5549b3ddad2b": {
+    "url": "BellumActaNews/171649",
+    "title": "Malian Forces Engage Al-Qaeda Affiliate, Separatists in Kidal",
+    "published": "2026-04-25T13:24:45.293451+00:00"
+  },
+  "f8b17206d8f4fbe9eb09a4df63e00f9c6b9e175568d742066bfff78584586ad2": {
+    "url": "BellumActaNews/171654",
+    "title": "Tuareg Separatists Seize Military Base in Kidal, Mali",
+    "published": "2026-04-25T13:23:32.218530+00:00"
+  },
+  "182103a64e1eed330649ee0acba54a411271d32b5f0858b63d62e2bdd96065d4": {
+    "url": "QudsNen/220591",
+    "title": "Israeli Forces Detonate Explosive in Al-Khiam, Lebanon",
+    "published": "2026-04-25T13:22:09.935684+00:00"
+  },
+  "1eb4eb0abf0994b2abde804bf89851591107c69cffe3f27985a05dfc6ad6fd6f": {
+    "url": "QudsNen/220595",
+    "title": "Israeli Artillery Shelling Hits Qabtara in Southern Lebanon",
+    "published": "2026-04-25T13:20:11.709847+00:00"
+  },
+  "f7a54b70109ea509af11d99bf7022a4d26249b0bf3faf221378a9aa41a2bc99e": {
+    "url": "thecradlemedia/58307",
+    "title": "Venice Biennale Jury Excludes Artists from Countries with ICC-Charged Leaders",
+    "published": "2026-04-25T13:19:27.517393+00:00"
+  },
+  "fa633462c61668237aa0b34e9571467206959625ef8589c49b13288268a45d80": {
+    "url": "thecradlemedia/58308",
+    "title": "IRGC Seizes Liberian-Flagged Vessel in Strait of Hormuz Over Alleged US Military Cooperation",
+    "published": "2026-04-25T13:19:26.030480+00:00"
+  },
   "e879c211e22728a4a10fd70c227f27ccce611c3700c2da5bbfbf83bed13390d3": {
     "url": "IntelRepublic/51419",
     "title": "Hezbollah Strike Sets Israeli Military Vehicles Ablaze Near Misgav Am",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/58297",
     "title": "Iran's Leadership Structure Remains Cohesive Amid Claims of Internal Divisions",
     "published": "2026-04-25T10:55:58.657450+00:00"
+  },
+  "85d852b962c3339ca1ab45a6459448093b830c1146ffe1de0ba839c484c4223d": {
+    "url": "https://en.mehrnews.com/news/243962/Hamas-Resistance-group-decry-Israeli-attack-on-Gaza",
+    "title": "Hamas, Resistance groups decry Israeli attack on Gaza",
+    "published": "2026-04-25T10:45:06+00:00"
   },
   "4275c533f0608df8be897e2f981e410a652d835ca02053452100c28013aaad55": {
     "url": "CyberspecNews/105943",
@@ -353,6 +388,11 @@
     "url": "thecradlemedia/58249",
     "title": "US Soldier Arrested Over Maduro Abduction Plot",
     "published": "2026-04-24T13:48:53.703304+00:00"
+  },
+  "774152c69d097722657890d285e4268b7008942f9bd354595081514a3ef132f2": {
+    "url": "https://tass.com/economy/2122157",
+    "title": "Discounts on Russian oil to keep narrowing even if Strait of Hormuz opens \u2014 analyst",
+    "published": "2026-04-24T13:44:04+00:00"
   },
   "f5cf5bf56b52700dd26e69a595379a94aaf38b8050351827cc54faf79171cf1c": {
     "url": "https://en.mehrnews.com/news/243938/IRGC-Navy-seizes-Epaminondas-container-ship-in-Hormuz-Strait",
@@ -708,45 +748,5 @@
     "url": "https://en.mehrnews.com/news/243909/Iran-slams-use-of-neighbors-soil-by-enemy-for-attacks",
     "title": "Iran slams use of neighbors' soil by enemy for attacks",
     "published": "2026-04-23T11:46:32+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
-    "published": "2026-04-23T11:30:16.851562+00:00"
-  },
-  "35ceea51d182bcbdf9f7ef2e62e5eb48e66a7c80e1f695111ec894529f1469cd": {
-    "url": "presstv/186781",
-    "title": "Iranians Overwhelmingly Back Leadership Amid Regional Tensions",
-    "published": "2026-04-23T11:26:55.111616+00:00"
-  },
-  "f5e757ba928c0df186324be8fccb670fc716f6904bab108986a963bc0e846cc6": {
-    "url": "DDGeopolitics/182641",
-    "title": "Iranian Gen Z Team Challenges Western Stereotypes with Viral Lego Animations",
-    "published": "2026-04-23T11:24:17.869799+00:00"
-  },
-  "c38c003bc6e6e8a8057a6ceb7de9c6b97793507db7c800c8ed0e9c9b8a20edd0": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israeli-strike-near-mosque-kills-five-in-gaza-including-three-children?traffic_source=rss",
-    "title": "Israeli strike near mosque kills five in Gaza, including three children",
-    "published": "2026-04-23T11:22:49+00:00"
-  },
-  "134fe391e70fa03cb5f32e6eab1766c527805d69fd93ef0e70356e9345d30151": {
-    "url": "Middle_East_Spectator/31393",
-    "title": "Belgian Protesters Target Iranian Royal Figure with Sauce",
-    "published": "2026-04-23T11:21:14.434018+00:00"
-  },
-  "9f6025947b78e13c2ab1b4400daa56e72822687221b0128a5ef79cd454357fa2": {
-    "url": "thecradlemedia/58152",
-    "title": "Iranian Oil Flows Persist Through Hormuz Strait Amid US Naval Blockade",
-    "published": "2026-04-23T11:20:08.912659+00:00"
-  },
-  "3b07ae765d7f5db0a7d1d38c5427b26cc2196aa6d7b72be1c91af00c43007c29": {
-    "url": "thecradlemedia/58153",
-    "title": "Italy Faces Economic Strains Amid West Asia Conflict",
-    "published": "2026-04-23T11:20:05.818074+00:00"
-  },
-  "bf1c54870cf1cac344107f721a84a75642f5272cd8d3f20f5ed89b6e11ddd137": {
-    "url": "https://www.aljazeera.com/news/2026/4/23/what-we-know-about-israel-killing-lebanese-journalist-amal-khalil?traffic_source=rss",
-    "title": "What we know about Israel killing Lebanese journalist Amal Khalil",
-    "published": "2026-04-23T10:02:58+00:00"
   }
 }
