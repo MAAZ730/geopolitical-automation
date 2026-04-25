@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2383,
+  "total_calls": 2387,
   "tiers": {
-    "groq": 2364,
+    "groq": 2368,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-04-23T13:57:45.978761+00:00",
-      "tier": "groq",
-      "article": "Hezbollah MPs Condemn Deadly Israeli Strike on Journalists, Urge End to Lebanon\u2013Israeli Enemy Talks - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-04-23T13:58:25.976106+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-04-23T13:59:11.190618+00:00",
-      "tier": "groq",
-      "article": "Israeli strike near mosque kills five in Gaza, including three children"
-    },
-    {
-      "timestamp": "2026-04-23T13:59:27.458559+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-04-23T17:44:16.111190+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-04-25T20:49:03.605505+00:00",
       "tier": "groq",
       "article": "Fragments of downed drone damage three apartment buildings in Kaluga"
+    },
+    {
+      "timestamp": "2026-04-25T22:48:11.004343+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-04-25T22:48:43.448442+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-04-25T22:48:59.481981+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-04-25T22:49:44.681628+00:00",
+      "tier": "groq",
+      "article": "Galaxy Gas: The legal high ruining American children\u2019s lives"
     }
   ]
 }
