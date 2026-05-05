@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2719,
+  "total_calls": 2723,
   "tiers": {
-    "groq": 2700,
+    "groq": 2704,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-02T16:56:59.905791+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-02T16:57:32.163555+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-02T16:57:48.136247+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-02T16:58:31.296020+00:00",
-      "tier": "groq",
-      "article": "Ukrainian neo-Nazi enrolled in Yale\u2019s \u2018leadership program\u2019"
-    },
     {
       "timestamp": "2026-05-02T19:10:48.504585+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-05T10:15:05.252083+00:00",
       "tier": "groq",
       "article": "Second Iranian super tanker reaches Far East"
+    },
+    {
+      "timestamp": "2026-05-05T17:40:39.502909+00:00",
+      "tier": "groq",
+      "article": "UAE comes under Iranian attacks for second consecutive day"
+    },
+    {
+      "timestamp": "2026-05-05T17:41:19.236717+00:00",
+      "tier": "groq",
+      "article": "Over 30 Russians, including two children, killed in Ukrainian strikes over week \u2014 envoy"
+    },
+    {
+      "timestamp": "2026-05-05T17:41:38.592730+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-05T17:41:55.230647+00:00",
+      "tier": "groq",
+      "article": "Career submariner selected to perform duties of under secretary of the Navy"
     }
   ]
 }
