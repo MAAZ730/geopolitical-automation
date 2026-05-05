@@ -1,4 +1,34 @@
 {
+  "d19127661440488b26b1a8464301c0740c16e53f960ae0b0c1bde5ddfe138e8d": {
+    "url": "presstv/188564",
+    "title": "Israeli Airstrike Hits Southern Lebanon Town of Harouf",
+    "published": "2026-05-05T21:31:10.153878+00:00"
+  },
+  "b1e971abf575b3a1030275304dd675c5db5417c2400f8e15de4dc01e5b1895de": {
+    "url": "presstv/188568",
+    "title": "Iranians Rally for 66th Consecutive Night Amid US-Israeli Threats",
+    "published": "2026-05-05T21:28:59.098187+00:00"
+  },
+  "21ea489ca7f3854b433f1329773499e1a75321e92137d490cc25aa4912df0798": {
+    "url": "militarywave/23636",
+    "title": "Russian Divers Pay Tribute to WWII Veterans in Underwater 'Immortal Regiment' March",
+    "published": "2026-05-05T21:28:00.282205+00:00"
+  },
+  "f0888f1317b66356e4d76a4e854f2ff227363e97c296f6136dcf5ad232ec4049": {
+    "url": "militarywave/23637",
+    "title": "US Pediatricians' Prescription Practices for Depression Raise Concerns",
+    "published": "2026-05-05T21:27:30.200352+00:00"
+  },
+  "683c87d7d5e90b7d0f11ca3d3e1caeda4d37e028d0afddb498294fe93f895c1c": {
+    "url": "thecradlemedia/58957",
+    "title": "Lebanese Man's Daily Vigil Against Israeli Bombardment Ends in Death",
+    "published": "2026-05-05T21:15:57.997793+00:00"
+  },
+  "492a41c72bf8ac7596091e86af403a3b45e65792fb2fd14981d1db86c637fe76": {
+    "url": "thecradlemedia/58959",
+    "title": "US-Israeli Strikes Leave Trail of Destruction at Iran's Isfahan University of Technology",
+    "published": "2026-05-05T21:15:54.696276+00:00"
+  },
   "0c52fca6c62ae489d8c578782249cb24fed1f8c148994b91098506fc0613f2c7": {
     "url": "QudsNen/222040",
     "title": "Hezbollah Deploys FPV Drones in Southern Lebanon",
@@ -108,6 +138,11 @@
     "url": "https://thecradle.co/articles-id/37505",
     "title": "Iranian FM warns US, UAE of \u2018quagmire\u2019 after strikes on Fujairah oil site",
     "published": "2026-05-05T09:31:59+00:00"
+  },
+  "b86568c4b42e2a775b7e026863a6714a3bdff249e5963379df350db07fc67e34": {
+    "url": "https://en.mehrnews.com/news/244227/US-attacks-civilian-boats-heading-to-Iranian-shores-5-killed",
+    "title": "US attacks civilian boats heading to Iranian shores, 5 killed",
+    "published": "2026-05-05T08:02:22+00:00"
   },
   "9190962b1f29055d79e81684709fc8ec736c7c5eb1f4c661c64dc8089186b581": {
     "url": "https://warontherocks.com/practice-makes-deterrence-indias-next-nuclear-challenge-at-sea/",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/58805",
     "title": "Hezbollah Leader Rejects Lebanon-Israel Negotiations",
     "published": "2026-05-03T11:04:06.662361+00:00"
-  },
-  "c950bd38bc7726ba2080617c03654c38b6e2e733db7a110c1932798808caae0b": {
-    "url": "thecradlemedia/58809",
-    "title": "Iran Sets One-Month Deadline for End to US-Israeli War and Blockade",
-    "published": "2026-05-03T11:04:05.944990+00:00"
-  },
-  "b35ccfe7551c851b14cfb48f58b260b1e970305df2f62c520a31cceaa1bcf09a": {
-    "url": "presstv/188215",
-    "title": "IRGC Quds Force Chief Condemns Israel's Interception of Gaza Flotilla",
-    "published": "2026-05-03T09:40:13.953990+00:00"
-  },
-  "2b255eb6323817e3bcb2c1f62d12027606131a617d6cbf5f538df965e4fc8259": {
-    "url": "presstv/188216",
-    "title": "Tokyo Peace March Draws Thousands in Anti-War Protest",
-    "published": "2026-05-03T09:37:43.039497+00:00"
-  },
-  "4e0b22ae4700b76e67710273118cefaf03d90caa44f5c8de2bc1682f566f2d7a": {
-    "url": "presstv/188219",
-    "title": "IRGC Strategist's Asymmetric Warfare Legacy",
-    "published": "2026-05-03T09:36:23.626020+00:00"
-  },
-  "95b2297e86084c43cbe42df5c3c200353712b4be2d2c576b9483ecc87741f8fd": {
-    "url": "militarywave/23618",
-    "title": "Videographer Captured in Frame in SMO Conflict Zone",
-    "published": "2026-05-03T09:33:25.475784+00:00"
-  },
-  "4c6d4356626f025bd723896d9b30e30342f42b364d2ab319a2bcf99e29fcb0d4": {
-    "url": "thecradlemedia/58799",
-    "title": "Damascus Suburbs: Hand Grenade Explosion Rocks Sayyeda Zainab Area",
-    "published": "2026-05-03T09:28:58.950145+00:00"
-  },
-  "c745c55ba794e6d707408863e2694ab94eeefbd05f8c006769428a54bd4775e5": {
-    "url": "thecradlemedia/58803",
-    "title": "Iran Sets One-Month Deadline for US Deal on Hormuz Blockade",
-    "published": "2026-05-03T09:28:53.054371+00:00"
   }
 }
