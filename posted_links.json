@@ -1,4 +1,34 @@
 {
+  "63ec7936ba333c983e823620c23aba9c0e7e1769cd67ed27c2e6fc315da3229d": {
+    "url": "Slavyangrad/163517",
+    "title": "Kazakhstan Zinc Plant Explosion Claims Lives",
+    "published": "2026-05-05T23:21:00.424331+00:00"
+  },
+  "22c9bec308910f202b576514e3feb3b0af87e068420da6f49a72f20e05ef5ca9": {
+    "url": "intelslava/87494",
+    "title": "Ukraine Launches Cruise Missiles on Russian Target",
+    "published": "2026-05-05T23:20:27.903100+00:00"
+  },
+  "95b2297e86084c43cbe42df5c3c200353712b4be2d2c576b9483ecc87741f8fd": {
+    "url": "militarywave/23618",
+    "title": "Videographer Caught on Camera in Conflict Zone",
+    "published": "2026-05-05T23:15:53.410649+00:00"
+  },
+  "52236141a6a4c9183919c7b62567d57dc94aa0c86991c4247174d5fd7413dd41": {
+    "url": "Middle_East_Spectator/31796",
+    "title": "Iranian Drones Strike Komala Party Headquarters in Iraqi Kurdistan",
+    "published": "2026-05-05T23:08:38.605407+00:00"
+  },
+  "ec02fd0ef2cefea57e8fce183311e7428710474f56a37a56d58e668e3392b3ef": {
+    "url": "thecradlemedia/58951",
+    "title": "Israeli Warplanes Strike Targets in South Lebanon",
+    "published": "2026-05-05T23:08:08.173643+00:00"
+  },
+  "01627a75f6201752a47eb144d8b7c8b262e32e3a890c3f8c7cf1052d80943c50": {
+    "url": "thecradlemedia/58953",
+    "title": "Dubai Tourism Industry Hit by US-Israeli War on Iran",
+    "published": "2026-05-05T23:08:06.998978+00:00"
+  },
   "d19127661440488b26b1a8464301c0740c16e53f960ae0b0c1bde5ddfe138e8d": {
     "url": "presstv/188564",
     "title": "Israeli Airstrike Hits Southern Lebanon Town of Harouf",
@@ -18,6 +48,11 @@
     "url": "militarywave/23637",
     "title": "US Pediatricians' Prescription Practices for Depression Raise Concerns",
     "published": "2026-05-05T21:27:30.200352+00:00"
+  },
+  "a310d1c2216da8b30a464fdb09777fe4f3904174a029d1b7a47a7afee32b65ef": {
+    "url": "https://tass.com/politics/2126977",
+    "title": "Five people killed in drone strike on Dzhankoi in Crimea",
+    "published": "2026-05-05T21:25:01+00:00"
   },
   "683c87d7d5e90b7d0f11ca3d3e1caeda4d37e028d0afddb498294fe93f895c1c": {
     "url": "thecradlemedia/58957",
@@ -138,6 +173,11 @@
     "url": "https://thecradle.co/articles-id/37505",
     "title": "Iranian FM warns US, UAE of \u2018quagmire\u2019 after strikes on Fujairah oil site",
     "published": "2026-05-05T09:31:59+00:00"
+  },
+  "099df495d5e00542bd089ca7d24ec6eedb8f9fc98887cd83ff0929b25a481230": {
+    "url": "https://en.mehrnews.com/news/244228/Shielding-perpetrators-not-to-absolve-intl-obligation-envoy",
+    "title": "Shielding perpetrators not to absolve intl. obligation: envoy",
+    "published": "2026-05-05T08:15:46+00:00"
   },
   "b86568c4b42e2a775b7e026863a6714a3bdff249e5963379df350db07fc67e34": {
     "url": "https://en.mehrnews.com/news/244227/US-attacks-civilian-boats-heading-to-Iranian-shores-5-killed",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/183372",
     "title": "Zelensky's Armenia Visit Sparks Anti-Russian Sentiment",
     "published": "2026-05-03T13:30:16.124493+00:00"
-  },
-  "6a50153a518993d5469f5032f94c362d40ed7e52d135c7d64337e2483e859602": {
-    "url": "thecradlemedia/58813",
-    "title": "Escalation in South Lebanon: Israel Issues Displacement Orders Amid Hezbollah Clashes",
-    "published": "2026-05-03T13:25:22.382047+00:00"
-  },
-  "a19f4747cdc00ffa9f94f8d1e3b195156ff85ef62966985d579d2aedef1cde90": {
-    "url": "thecradlemedia/58814",
-    "title": "OPEC+ Agrees to Modest Output Increase Amid Iran Conflict",
-    "published": "2026-05-03T13:25:21.717609+00:00"
-  },
-  "ab4843317030ac7adbc130be12fc533c57707f69c8625812c6f2bd4c780d92d4": {
-    "url": "https://www.rt.com/news/639386-ben-gvir-birthday-noose-cake/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Israel\u2019s Ben Gvir celebrates birthday with \u2018noose cakes\u2019",
-    "published": "2026-05-03T11:11:58+00:00"
-  },
-  "e879c211e22728a4a10fd70c227f27ccce611c3700c2da5bbfbf83bed13390d3": {
-    "url": "IntelRepublic/51419",
-    "title": "Hezbollah Strike Hits Israeli Military Vehicles near Misgav Am",
-    "published": "2026-05-03T11:11:44.749320+00:00"
-  },
-  "6f12cec6d4a2fc22f8971fb780c07d91a53f7c610fe6ab301981230bffe6f728": {
-    "url": "IntelRepublic/51420",
-    "title": "Iran Fires Missile Barrage Amid Tensions with U.S.",
-    "published": "2026-05-03T11:11:17.078396+00:00"
-  },
-  "4d29f26ed1e8069252bcbcccd8de56082c4b243ffaf8e8b57d5a98850000c3fb": {
-    "url": "CyberspecNews/106567",
-    "title": "US Tests Aero Sky Unmanned Aircraft for FPV Drone Deployment",
-    "published": "2026-05-03T11:10:25.745837+00:00"
-  },
-  "5c547171dcf960440789114937d84e433ae004b2838aaef4b1329d43db69a39e": {
-    "url": "CyberspecNews/106568",
-    "title": "Russian-Malian Forces Repel JNIM Attack in Mali",
-    "published": "2026-05-03T11:08:55.503344+00:00"
-  },
-  "f4c765bf3b1e1fec1fbf9e290dddbeaabfc6cebf190d98db854287ba2885aeb2": {
-    "url": "thecradlemedia/58805",
-    "title": "Hezbollah Leader Rejects Lebanon-Israel Negotiations",
-    "published": "2026-05-03T11:04:06.662361+00:00"
   }
 }

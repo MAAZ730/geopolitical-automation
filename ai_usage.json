@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2731,
+  "total_calls": 2735,
   "tiers": {
-    "groq": 2712,
+    "groq": 2716,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-02T22:53:37.270867+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-02T22:54:09.449640+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-02T22:54:55.503940+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-02T22:55:11.787761+00:00",
-      "tier": "groq",
-      "article": "US President Donald Trump threatens to withdraw troops from Spain and Italy"
-    },
     {
       "timestamp": "2026-05-03T03:37:41.889549+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-05T21:15:49.461457+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-05T23:07:11.323860+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-05T23:07:27.405369+00:00",
+      "tier": "groq",
+      "article": "Five people killed in drone strike on Dzhankoi in Crimea"
+    },
+    {
+      "timestamp": "2026-05-05T23:07:45.842340+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-05T23:08:01.896618+00:00",
+      "tier": "groq",
+      "article": "Shielding perpetrators not to absolve intl. obligation: envoy"
     }
   ]
 }
