@@ -1,4 +1,34 @@
 {
+  "0c52fca6c62ae489d8c578782249cb24fed1f8c148994b91098506fc0613f2c7": {
+    "url": "QudsNen/222040",
+    "title": "Hezbollah Deploys FPV Drones in Southern Lebanon",
+    "published": "2026-05-05T19:42:28.640256+00:00"
+  },
+  "2587957a0de8b3b1e92f668f68448b096aa3152894a45b09777d5aef8acfb5d3": {
+    "url": "QudsNen/222043",
+    "title": "Israeli Forces Detain Activists in Gaza Border Raid",
+    "published": "2026-05-05T19:41:11.323674+00:00"
+  },
+  "aeb793b273b45e18c19543337d4e7515e0bccc49593459e68e71b2cb63725402": {
+    "url": "Middle_East_Spectator/31782",
+    "title": "US Vessels Navigate Hormuz Strait Amid Ongoing Tensions",
+    "published": "2026-05-05T19:38:58.732631+00:00"
+  },
+  "025925cc026333016596205e2b9206a5fb825264c90e08e1eb9425832c02041b": {
+    "url": "Middle_East_Spectator/31783",
+    "title": "US Deploys Maritime Security Assets in Strait of Hormuz",
+    "published": "2026-05-05T19:37:18.683666+00:00"
+  },
+  "557e51d7039a2ec90757871ae1469a0cb4af8504bfd79f06af3fc3ba8dbb9254": {
+    "url": "thecradlemedia/58961",
+    "title": "Aselsan Boosts Steel Dome Deliveries by 50%",
+    "published": "2026-05-05T19:36:07.155940+00:00"
+  },
+  "05b1352fa7f8d4072c2d1f41eb09c45f16edbcaf9a235fd5180770a47a4d4d74": {
+    "url": "thecradlemedia/58968",
+    "title": "OPCW Reopens Douma Chemical Attack Investigation",
+    "published": "2026-05-05T19:36:06.107326+00:00"
+  },
   "8be8289bf7df81908dba7a68abecaaf3ccdd94d859d16e82e6260fa67bf8c620": {
     "url": "Middle_East_Spectator/31791",
     "title": "Iran's Military Capabilities Severely Impacted: Trump",
@@ -33,6 +63,11 @@
     "url": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
     "title": "UAE comes under Iranian attacks for second consecutive day",
     "published": "2026-05-05T16:50:48+00:00"
+  },
+  "8111faa3161d4ac0f1a2a25c165b61cc7dcccf05b6024553f62ebd53b40e8eb2": {
+    "url": "https://thecradle.co/articles-id/37507",
+    "title": "Cyber attack hit UAE&#039;s Fujairah Port &#039;minutes before&#039; IRGC missile strike",
+    "published": "2026-05-05T11:14:00+00:00"
   },
   "302f9c46179a97ae94fad0ad075aa12c2d06167d1f43f9bb36aa7a6ea932fe1d": {
     "url": "https://tass.com/politics/2126623",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/58803",
     "title": "Iran Sets One-Month Deadline for US Deal on Hormuz Blockade",
     "published": "2026-05-03T09:28:53.054371+00:00"
-  },
-  "aa0a95d79a6287b695ebffe9d8c70fe38695704a715e9ea34080d63fde51acab": {
-    "url": "https://tass.com/defense/2125679",
-    "title": "Over 130 Ukrainian drones shot down over Russia\u2019s Kursk Region in past day",
-    "published": "2026-05-03T09:09:56+00:00"
-  },
-  "b99e944b9c2fdf335b1bc762b25cc5e0dc4323daa8d4b96ab085cdff43e80738": {
-    "url": "https://en.mehrnews.com/news/244172/Iran-Japan-FMs-discuss-latest-regional-intl-developments",
-    "title": "Iran, Japan FMs discuss latest regional, intl. developments",
-    "published": "2026-05-03T08:21:55+00:00"
-  },
-  "13d4a3cb4975460db6fb84b78d061eb19992f7811b6170304f65fb400b165eb5": {
-    "url": "mod_russia_en/26696",
-    "title": "Russian Snipers Clear Path for Assault Groups in Zaporozhye Region",
-    "published": "2026-05-03T06:47:46.288319+00:00"
-  },
-  "cec3ae011fca62fe797b30533bf747b02e42eed2078382a045eef5795d145404": {
-    "url": "Slavyangrad/163299",
-    "title": "EU to Tighten Age Verification for Online Content",
-    "published": "2026-05-03T06:46:09.754012+00:00"
-  },
-  "e3744ad48dcfd6fa0065161afa4fa21df8d09147b549835ff2a551bebc9073fa": {
-    "url": "DDGeopolitics/183357",
-    "title": "Trump Vows to Neutralize Iran's Missile Capabilities",
-    "published": "2026-05-03T06:43:06.644537+00:00"
-  },
-  "8cdfea7ce6580ec04a9a3b7563fd20f4997e7c4f8ac42dd9fcd96da307dba5bd": {
-    "url": "QudsNen/221653",
-    "title": "Israeli Forces Detain Palestinian Journalist in West Bank Raid",
-    "published": "2026-05-03T06:42:12.174584+00:00"
-  },
-  "fc065d051f2fcb66023c839ed839ac16c66dd6f11b25f57213432eae73877e9d": {
-    "url": "QudsNen/221657",
-    "title": "Israeli Warplanes Strike Zawtar Al-Sharqiya in Southern Lebanon",
-    "published": "2026-05-03T06:42:00.777613+00:00"
   }
 }
