@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2759,
+  "total_calls": 2763,
   "tiers": {
-    "groq": 2740,
+    "groq": 2744,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-03T17:01:25.184887+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-03T17:01:42.040311+00:00",
-      "tier": "groq",
-      "article": "Teenager injured after Ukrainian drone attack on village in Bryansk Region"
-    },
-    {
-      "timestamp": "2026-05-03T17:02:01.718679+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-03T17:02:18.039125+00:00",
-      "tier": "groq",
-      "article": "Expert sees link between US move to pull troops from Germany and Russia\u2019s list of targets"
-    },
     {
       "timestamp": "2026-05-03T19:10:08.065178+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-06T19:58:33.431040+00:00",
       "tier": "groq",
       "article": "How 10 minutes of bombing by Israel tore through Lebanon"
+    },
+    {
+      "timestamp": "2026-05-06T21:19:12.349269+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-06T21:19:44.680748+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-06T21:20:36.070789+00:00",
+      "tier": "groq",
+      "article": "Russian Foreign Ministry calls on foreign states to evacuate their diplomats from Kiev"
+    },
+    {
+      "timestamp": "2026-05-06T21:21:23.571621+00:00",
+      "tier": "groq",
+      "article": "US lawmakers demand Trump break silence on Israel\u2019s nuclear arsenal"
     }
   ]
 }
