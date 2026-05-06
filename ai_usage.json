@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2751,
+  "total_calls": 2755,
   "tiers": {
-    "groq": 2732,
+    "groq": 2736,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-03T13:23:49.491966+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-03T13:24:21.923971+00:00",
-      "tier": "groq",
-      "article": "Over 130 Ukrainian drones shot down over Russia\u2019s Kursk Region in past day"
-    },
-    {
-      "timestamp": "2026-05-03T13:24:40.364834+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-03T13:25:17.359610+00:00",
-      "tier": "groq",
-      "article": "Drone downed over industrial site in northwest Russia\u2019s Vologda region \u2014 governor"
-    },
     {
       "timestamp": "2026-05-03T14:57:47.034459+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-06T14:29:43.670374+00:00",
       "tier": "groq",
       "article": "NATO nations size up an interceptor-drone bazaar where low price is everything"
+    },
+    {
+      "timestamp": "2026-05-06T17:47:06.973194+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-06T17:47:41.137073+00:00",
+      "tier": "groq",
+      "article": "TASS photojournalist hit by Ukraine\u2019s drone strike in Zaporozhye Region"
+    },
+    {
+      "timestamp": "2026-05-06T17:48:00.011131+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-06T17:48:16.382726+00:00",
+      "tier": "groq",
+      "article": "Policies needed to share AI-generated intel across NATO countries, official says"
     }
   ]
 }
