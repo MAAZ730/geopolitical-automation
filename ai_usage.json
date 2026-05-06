@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2747,
+  "total_calls": 2751,
   "tiers": {
-    "groq": 2728,
+    "groq": 2732,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-03T11:02:23.925570+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-03T11:02:57.189475+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-03T11:03:43.377108+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-03T11:04:01.763196+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-03T13:23:49.491966+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-06T10:28:43.282594+00:00",
       "tier": "groq",
       "article": "Lindsey Graham urges Trump to flood Iran with guns"
+    },
+    {
+      "timestamp": "2026-05-06T14:28:09.586603+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-06T14:28:44.933786+00:00",
+      "tier": "groq",
+      "article": "Witness injured in Kiev strike on Krasnoarmeysk says attack orchestrated for publicity"
+    },
+    {
+      "timestamp": "2026-05-06T14:29:03.612905+00:00",
+      "tier": "groq",
+      "article": "Iranian army denies attacking UAE as Trump suspends &#039;Project Freedom&#039;"
+    },
+    {
+      "timestamp": "2026-05-06T14:29:43.670374+00:00",
+      "tier": "groq",
+      "article": "NATO nations size up an interceptor-drone bazaar where low price is everything"
     }
   ]
 }
