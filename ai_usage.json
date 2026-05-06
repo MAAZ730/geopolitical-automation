@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2755,
+  "total_calls": 2759,
   "tiers": {
-    "groq": 2736,
+    "groq": 2740,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-03T14:57:47.034459+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-03T14:58:20.348333+00:00",
-      "tier": "groq",
-      "article": "US to drop plans to deploy long-range Tomahawk missiles to Germany \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-05-03T14:59:06.983640+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-03T14:59:53.145812+00:00",
-      "tier": "groq",
-      "article": "No legal limits on level of uranium enrichment: UN mission"
-    },
     {
       "timestamp": "2026-05-03T17:01:25.184887+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-06T17:48:16.382726+00:00",
       "tier": "groq",
       "article": "Policies needed to share AI-generated intel across NATO countries, official says"
+    },
+    {
+      "timestamp": "2026-05-06T19:56:56.853598+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-06T19:57:29.211435+00:00",
+      "tier": "groq",
+      "article": "Israeli Enemy Launches New US-approved Attack on Beirut\u2019s Dahieh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-06T19:58:15.671175+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent: An Israeli airstrike targeted a building in Haret Hreik in Beirut\u2019s southern suburbs with several missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-06T19:58:33.431040+00:00",
+      "tier": "groq",
+      "article": "How 10 minutes of bombing by Israel tore through Lebanon"
     }
   ]
 }
