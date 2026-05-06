@@ -1,4 +1,34 @@
 {
+  "ea789cba18d65003a907fcd4f926f725abfb628d7d0972b418002db4e65d3343": {
+    "url": "DDGeopolitics/183540",
+    "title": "FSB Destroys Ukrainian Saboteur Groups in Konstantinovka",
+    "published": "2026-05-06T10:33:47.525689+00:00"
+  },
+  "67bed003e9365538f69c133325d475b6d3faf3f145679f7fdf9d4532b4e4e1f4": {
+    "url": "QudsNen/222112",
+    "title": "Israeli Troops Detain Palestinian in Bani Na'im Raid",
+    "published": "2026-05-06T10:31:25.594758+00:00"
+  },
+  "629c1a0838f29d755c5d450d76f55cbde90e3a0edd96c4e144fefd8ddaa197eb": {
+    "url": "thecradlemedia/58974",
+    "title": "China Condemns US-Israeli War on Iran, Urges Ceasefire and Talks",
+    "published": "2026-05-06T10:30:56.151362+00:00"
+  },
+  "a2633df43fe1e8d65555f86603fbd1a53d33b5780954a6e4edc6828fd1b397c1": {
+    "url": "thecradlemedia/58976",
+    "title": "Israeli Airstrikes Escalate in Southern Lebanon",
+    "published": "2026-05-06T10:29:15.275832+00:00"
+  },
+  "3138bb7c4c3979f7037a5a5a03a7c79ef11d282ba516a7c44e769faf6db2ad92": {
+    "url": "thecradlemedia/58987",
+    "title": "Netanyahu Appoints Settler to Lead Israel Land Authority Amid Palestinian Dispossession Concerns",
+    "published": "2026-05-06T10:28:50.414128+00:00"
+  },
+  "361accc108f920a89a695390fc7718a8107e34cde624ff9323e2276e2553515a": {
+    "url": "thecradlemedia/58988",
+    "title": "Hezbollah Drone Attack Injures Israeli Soldiers in Southern Lebanon",
+    "published": "2026-05-06T10:28:48.168919+00:00"
+  },
   "35bf85038b5a67df3b1f11c6c3113c03abc29afd7d7ded6b20e8a1663f3f562b": {
     "url": "Slavyangrad/163536",
     "title": "Drone Attack Hits Infrastructure in Krivoy Rog",
@@ -188,6 +218,11 @@
     "url": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
     "title": "UAE comes under Iranian attacks for second consecutive day",
     "published": "2026-05-05T16:50:48+00:00"
+  },
+  "1967ca875d2c68d2dc1870e7cb16d63fff9993f535190d885357a56eb959e75e": {
+    "url": "https://www.rt.com/news/639467-graham-flood-iran-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Lindsey Graham urges Trump to flood Iran with guns",
+    "published": "2026-05-05T11:32:04+00:00"
   },
   "8111faa3161d4ac0f1a2a25c165b61cc7dcccf05b6024553f62ebd53b40e8eb2": {
     "url": "https://thecradle.co/articles-id/37507",
@@ -713,40 +748,5 @@
     "url": "Middle_East_Spectator/31691",
     "title": "IRGC Navy Orders Vessels to Leave Ras Al-Khaimah Anchorages",
     "published": "2026-05-03T19:11:39.487173+00:00"
-  },
-  "3a03316299c0d3bfb37d59bc3cb32c47b4ddca98e5c345c725aff06d31c617af": {
-    "url": "presstv/188276",
-    "title": "Iran's IRGC Warns of Limited US Options Amid Ongoing Tensions",
-    "published": "2026-05-03T17:10:26.180946+00:00"
-  },
-  "b03f7914601408423f1059ac07573a9de795804fc5065498cc7ef09f05047c24": {
-    "url": "DDGeopolitics/183376",
-    "title": "US Navy Dolphin Program Contradicts Claims of Iranian Dolphin Suicide Bombers",
-    "published": "2026-05-03T17:07:49.574925+00:00"
-  },
-  "f6152a71371f1c51c01466a27aeafd5342926a03b08c00831dc8260d0e28bea5": {
-    "url": "QudsNen/221742",
-    "title": "Israel Extends Detention of Activists Arrested from Gaza-Bound Flotilla",
-    "published": "2026-05-03T17:05:21.591063+00:00"
-  },
-  "2fb21bf0a2180f5b54a04b83f8bb6f6c1816d7c5203c01e073509483e471651f": {
-    "url": "QudsNen/221743",
-    "title": "Hezbollah Drone Strike Hits Israeli APC in Southern Lebanon",
-    "published": "2026-05-03T17:04:06.032405+00:00"
-  },
-  "c0cb0fc3c826722d2a0a224bc20a5ecefc1d5f3d568831b0352a705ae3e654ca": {
-    "url": "Middle_East_Spectator/31688",
-    "title": "IRGC Navy Orders Oil Tankers to Relocate from UAE Anchorage",
-    "published": "2026-05-03T17:02:32.107983+00:00"
-  },
-  "4a287bc334d73a782f2d3cdb69fab5df91324cd705a8d8b2407f2060bfeb3f70": {
-    "url": "thecradlemedia/58825",
-    "title": "Hamas Condemns Israeli Targeting of Palestinian Journalists",
-    "published": "2026-05-03T17:02:26.117796+00:00"
-  },
-  "b3bbc6e6eb78069774cbe8da09b4ac7028e98c9191fb6c358da12e310155bdcf": {
-    "url": "https://tass.com/emergencies/2125759",
-    "title": "Teenager injured after Ukrainian drone attack on village in Bryansk Region",
-    "published": "2026-05-03T15:22:21+00:00"
   }
 }
