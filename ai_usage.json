@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2795,
+  "total_calls": 2799,
   "tiers": {
-    "groq": 2776,
+    "groq": 2780,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-04T19:52:29.445556+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-04T19:53:03.854355+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s Lis interceptors help preserve expensive air defense missiles \u2014 fighter"
-    },
-    {
-      "timestamp": "2026-05-04T19:53:56.758378+00:00",
-      "tier": "groq",
-      "article": "UAE reports missile and drone strikes incoming from Iran"
-    },
-    {
-      "timestamp": "2026-05-04T19:54:13.375584+00:00",
-      "tier": "groq",
-      "article": "Russian army destroyed Ukraine\u2019s nine strongholds built according to NATO standards"
-    },
     {
       "timestamp": "2026-05-04T21:19:09.101518+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-07T21:14:38.104925+00:00",
       "tier": "groq",
       "article": "Orthodox temple in Syria reopens after restoration (VIDEO)"
+    },
+    {
+      "timestamp": "2026-05-07T23:09:50.406126+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-07T23:10:28.837502+00:00",
+      "tier": "groq",
+      "article": "The Pentagon Needs a Playbook for Munitions Surge Production"
+    },
+    {
+      "timestamp": "2026-05-07T23:10:45.129903+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-07T23:11:01.390851+00:00",
+      "tier": "groq",
+      "article": "US calls \u2018wealthy NATO allies\u2019 an \u2018incubator of terror threats\u2019"
     }
   ]
 }
