@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2779,
+  "total_calls": 2783,
   "tiers": {
-    "groq": 2760,
+    "groq": 2764,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-04T06:46:50.364767+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-04T06:47:06.632743+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-04T06:47:29.993659+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-04T06:47:46.171408+00:00",
-      "tier": "groq",
-      "article": "Iran, Japan FMs discuss latest regional, intl. developments"
-    },
     {
       "timestamp": "2026-05-04T10:22:12.353524+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-07T10:51:59.610144+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-07T14:30:31.777469+00:00",
+      "tier": "groq",
+      "article": "Israeli Aggression Continues on South Lebanon: Ambulance Crews Targeted, Multiple Martyrs - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-07T14:31:10.738378+00:00",
+      "tier": "groq",
+      "article": "Islamic Jihad Condemns Israeli Strikes in Gaza - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-07T14:31:30.642066+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-07T14:32:02.767966+00:00",
+      "tier": "groq",
+      "article": "Iran seeks honorable regional peace through diplomacy: Government spox"
     }
   ]
 }
