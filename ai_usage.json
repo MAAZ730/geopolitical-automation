@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2771,
+  "total_calls": 2775,
   "tiers": {
-    "groq": 2752,
+    "groq": 2756,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-03T22:53:58.854918+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-03T22:54:15.151809+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-03T22:54:38.109609+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-03T22:54:54.306444+00:00",
-      "tier": "groq",
-      "article": "Fifty-one drones shot down in Leningrad Region"
-    },
     {
       "timestamp": "2026-05-04T03:38:00.772006+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-07T03:34:43.678322+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-07T06:42:18.478643+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-07T06:42:50.971018+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-07T06:43:06.920664+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance targeted military vehicles belonging to the Israeli enemy army as they were moving from the east of the town of Al-Bayyada towards the town of Shamaa with a missile salvo: statement 17 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-07T06:43:24.602278+00:00",
+      "tier": "groq",
+      "article": "Russian, Qatari top diplomats discuss Hormuz Strait situation"
     }
   ]
 }
