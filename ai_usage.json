@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2767,
+  "total_calls": 2771,
   "tiers": {
-    "groq": 2748,
+    "groq": 2752,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-03T20:55:13.117643+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-03T20:55:45.435082+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-03T20:56:01.610260+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-03T20:56:41.757337+00:00",
-      "tier": "groq",
-      "article": "The talks on a naval drone deal between Greece and Ukraine reportedly stalled due to Kiev\u2019s demands"
-    },
     {
       "timestamp": "2026-05-03T22:53:58.854918+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-06T23:02:20.321717+00:00",
       "tier": "groq",
       "article": "What is Trump's 'Project Freedom' in the Strait of Hormuz?"
+    },
+    {
+      "timestamp": "2026-05-07T03:33:07.719190+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-07T03:33:40.291960+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-07T03:34:27.122127+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-07T03:34:43.678322+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
