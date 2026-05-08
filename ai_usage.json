@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2819,
+  "total_calls": 2823,
   "tiers": {
-    "groq": 2800,
+    "groq": 2804,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-05T17:40:39.502909+00:00",
-      "tier": "groq",
-      "article": "UAE comes under Iranian attacks for second consecutive day"
-    },
-    {
-      "timestamp": "2026-05-05T17:41:19.236717+00:00",
-      "tier": "groq",
-      "article": "Over 30 Russians, including two children, killed in Ukrainian strikes over week \u2014 envoy"
-    },
-    {
-      "timestamp": "2026-05-05T17:41:38.592730+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-05T17:41:55.230647+00:00",
-      "tier": "groq",
-      "article": "Career submariner selected to perform duties of under secretary of the Navy"
-    },
     {
       "timestamp": "2026-05-05T19:33:55.942872+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-08T11:27:43.707994+00:00",
       "tier": "groq",
       "article": "Iran, Pakistan discuss strengthening rail cooperation"
+    },
+    {
+      "timestamp": "2026-05-08T14:01:14.159172+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-08T14:01:46.962187+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-08T14:02:32.192499+00:00",
+      "tier": "groq",
+      "article": "Iran declares \u2018significant damage\u2019 caused on US warships after Washington violates ceasefire"
+    },
+    {
+      "timestamp": "2026-05-08T14:03:20.325454+00:00",
+      "tier": "groq",
+      "article": "Iran to celebrate victory soon: VP Aref"
     }
   ]
 }

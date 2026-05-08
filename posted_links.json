@@ -1,4 +1,39 @@
 {
+  "9ba5cba886aff34f938dbf128e0110dab63d8b5416889dfa4826c92c857339f1": {
+    "url": "QudsNen/222459",
+    "title": "Israeli Airstrike Damages Residential Building in Al-Abbasiyah, Lebanon",
+    "published": "2026-05-08T14:08:48.656400+00:00"
+  },
+  "2fc8a7975a81a20e25121009c69fa838ff225c4af62cecfccaceee76d5bddcd1": {
+    "url": "QudsNen/222461",
+    "title": "Israeli Airstrike Targets Southern Lebanon",
+    "published": "2026-05-08T14:08:13.956471+00:00"
+  },
+  "e4665799279c274a21af3cb0f89201a615b90301feea95a73be1c28b428fc0d2": {
+    "url": "QudsNen/222463",
+    "title": "Israeli Airstrike Targets Toura in Southern Lebanon",
+    "published": "2026-05-08T14:07:32.036408+00:00"
+  },
+  "29f584b170ccd9de925ee0f80204c424140df36e90da9cff605184a6f4fc1ccc": {
+    "url": "Middle_East_Spectator/31890",
+    "title": "Dubai Airport Hit by Drone Strike Amid Tensions with Iran",
+    "published": "2026-05-08T14:03:56.759802+00:00"
+  },
+  "d44dae8ec403349e833c32b6bbdbbc2f2f67222b9b52de715364089d1e741d33": {
+    "url": "thecradlemedia/59214",
+    "title": "US-Iran Diplomatic Tensions Escalate Amid Maritime Paralysis",
+    "published": "2026-05-08T14:03:33.559276+00:00"
+  },
+  "c12b20992b8d917eb54d8ba8237f6b3d7fd227ccdd7839054eb70b4e30894e6f": {
+    "url": "thecradlemedia/59215",
+    "title": "US Forces Block Iranian Oil Tankers Amid Escalating Tensions",
+    "published": "2026-05-08T14:03:31.716180+00:00"
+  },
+  "d25741477f610f506dc75262d766146095c270aba4122b09682184cb042b5122": {
+    "url": "https://thecradle.co/articles-id/37575",
+    "title": "Iran declares \u2018significant damage\u2019 caused on US warships after Washington violates ceasefire",
+    "published": "2026-05-08T12:13:46+00:00"
+  },
   "a8bd3093d8edce34e32bc17d76f1d2bc5b744af0b14bb5623991e27d5645582e": {
     "url": "DDGeopolitics/183680",
     "title": "Soviet Union Celebrates End of World War II",
@@ -293,6 +328,11 @@
     "url": "thecradlemedia/59138",
     "title": "Rubio Presents Crystal Football to Pope Leo XIV Amid Tensions",
     "published": "2026-05-07T17:56:17.214986+00:00"
+  },
+  "5aeb56980dddfd68d9e43bbb7645cc9ae1bf684a2c6727e02bb8115b99c836cf": {
+    "url": "https://en.mehrnews.com/news/244293/Iran-to-celebrate-victory-soon-VP-Aref",
+    "title": "Iran to celebrate victory soon: VP Aref",
+    "published": "2026-05-07T15:17:30+00:00"
   },
   "ca1ff6925696455764a56472bbf6c6cad561a0bd9fcf384b0b513d9cad4c7acc": {
     "url": "https://tass.com/world/2128005",
@@ -708,45 +748,5 @@
     "url": "CensoredMen/203",
     "title": "Israel-Hezbollah Conflict Escalates Amid Ceasefire Agreement",
     "published": "2026-05-06T06:48:30.513704+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Demolish Final Bridge Linking North and South of Litani River in Lebanon",
-    "published": "2026-05-06T06:45:57.773066+00:00"
-  },
-  "a0a7a872dc6beeda175f89e00b296c0ed43a95617b1bd8d591c98c5104815c33": {
-    "url": "militarywave/23621",
-    "title": "Ukrainian Forces Accused of Torture in Mariupol",
-    "published": "2026-05-06T06:45:37.752738+00:00"
-  },
-  "1b52a0b9bdd0cb4963da0a24cee82d16f7314781bfdc903015b61b3053315fe0": {
-    "url": "QudsNen/222083",
-    "title": "US Democrats Demand Transparency on Israel's Nuclear Arsenal",
-    "published": "2026-05-06T06:43:02.941741+00:00"
-  },
-  "939168a9f3bd5df5143f16eb57d508e83324a6f20b0e780539ca9179b2386b57": {
-    "url": "QudsNen/222095",
-    "title": "Israel Mulls Renewed Military Action Against Iran",
-    "published": "2026-05-06T06:43:01.516388+00:00"
-  },
-  "c5d5f58df41cdfedc8a5a1325a1eeb6d0fd7d430cd763c2a31ddb3e021b9c3ba": {
-    "url": "boris_rozhin/209566",
-    "title": "Ukrainian Forces Repel Infiltration Attempt in Kharkiv Region",
-    "published": "2026-05-06T03:44:36.957391+00:00"
-  },
-  "891886f1373bd753871a1f8d3f71c2ba8633bf8549916704406f4d17b5d8db8d": {
-    "url": "boris_rozhin/209571",
-    "title": "US Army Unveils Common Artillery Multidomain Launcher (CAML)",
-    "published": "2026-05-06T03:43:21.122428+00:00"
-  },
-  "f6504f6a44ab49371cd21196cdb8a47237a7453fe1c6fdc1c2e71adce56fd3db": {
-    "url": "presstv/188576",
-    "title": "Brazil School Shooting Leaves Two Dead, Two Injured",
-    "published": "2026-05-06T03:40:40.163968+00:00"
-  },
-  "9adb02c59220228d4336730887226901f139d5fa0b04775a9d3b82f3dbcdd8aa": {
-    "url": "presstv/188587",
-    "title": "Clashes Erupt in Syria's Idlib Province",
-    "published": "2026-05-06T03:40:06.240857+00:00"
   }
 }
