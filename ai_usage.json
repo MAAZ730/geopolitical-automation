@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2815,
+  "total_calls": 2819,
   "tiers": {
-    "groq": 2796,
+    "groq": 2800,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-05T10:13:34.026472+00:00",
-      "tier": "groq",
-      "article": "Iranian FM warns US, UAE of \u2018quagmire\u2019 after strikes on Fujairah oil site"
-    },
-    {
-      "timestamp": "2026-05-05T10:14:12.353859+00:00",
-      "tier": "groq",
-      "article": "Practice Makes Deterrence: India\u2019s Next Nuclear Challenge at Sea"
-    },
-    {
-      "timestamp": "2026-05-05T10:14:28.828759+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-05T10:15:05.252083+00:00",
-      "tier": "groq",
-      "article": "Second Iranian super tanker reaches Far East"
-    },
     {
       "timestamp": "2026-05-05T17:40:39.502909+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-08T09:36:34.738743+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-08T11:26:15.419454+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-08T11:26:48.574371+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-08T11:27:04.542651+00:00",
+      "tier": "groq",
+      "article": "Kiev has stepped up attacks on Russia, no signs of observing the 'ceasefire' \u2014 envoy"
+    },
+    {
+      "timestamp": "2026-05-08T11:27:43.707994+00:00",
+      "tier": "groq",
+      "article": "Iran, Pakistan discuss strengthening rail cooperation"
     }
   ]
 }
