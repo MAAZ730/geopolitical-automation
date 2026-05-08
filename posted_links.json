@@ -1,4 +1,34 @@
 {
+  "6f12cec6d4a2fc22f8971fb780c07d91a53f7c610fe6ab301981230bffe6f728": {
+    "url": "IntelRepublic/51420",
+    "title": "Iran Launches Missile Barrage Amid Tensions with US",
+    "published": "2026-05-08T23:16:38.525194+00:00"
+  },
+  "bdb4110ae276dab492ab8b25ce0a31cde8798788b5cf3059aab94d42c34cab12": {
+    "url": "CyberspecNews/106946",
+    "title": "Hezbollah Drone Strike Hits Israeli Armored Personnel Carrier in Bint Jbeil",
+    "published": "2026-05-08T23:15:42.069700+00:00"
+  },
+  "b20574561ad5a68903582b3346116341a8c04587fc4d2347835ab212fa7cabf3": {
+    "url": "intelslava/87642",
+    "title": "US Strikes Iranian Tankers in Blockade Breach",
+    "published": "2026-05-08T23:13:40.535818+00:00"
+  },
+  "9ebdc46e8d7ef59604dc92cfe3b50b4a2689ac5377fb5eacf5f080c07a354e8d": {
+    "url": "QudsNen/222530",
+    "title": "Israeli Tanks Open Fire on Al-Bureij Refugee Camp in Gaza",
+    "published": "2026-05-08T23:06:07.275621+00:00"
+  },
+  "5b70ee3f52e53e7d92614ea7e53f4a92f466980f73a7e96767d6bb42f0b96eb1": {
+    "url": "QudsNen/222532",
+    "title": "Iran Probes Missile Strike on School",
+    "published": "2026-05-08T23:06:05.954982+00:00"
+  },
+  "cc88f1102a6b84db6dc20ee37dd2c07270869de7df25faa7f0a076449b1df4eb": {
+    "url": "Middle_East_Spectator/31908",
+    "title": "Iran Denies Reports of U.S. Warship Strike Amid Ongoing Tensions",
+    "published": "2026-05-08T23:04:59.756744+00:00"
+  },
   "248e6b84dc50d750471118344df36fa09bd5a755516016682230d2cf9f5a1084": {
     "url": "CyberspecNews/106947",
     "title": "Russian UAV Spotted Filming Ukrainian Parliament",
@@ -288,6 +318,11 @@
     "url": "QudsNen/222399",
     "title": "Israeli Airstrike Hits Lebanese Civil Defense in Kafr Shouba",
     "published": "2026-05-08T06:09:44.340299+00:00"
+  },
+  "f4242fa09c318991cef017256bedde90cc05e6b6730590535519b882ed3ac672": {
+    "url": "https://www.rt.com/news/639611-defeat-of-nazi-germany-celebrated-worldwide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Victory Day parades and celebrations roll across Russia (PHOTOS, VIDEOS)",
+    "published": "2026-05-08T05:36:20+00:00"
   },
   "96cd85b5a67bf64e878c626b9faf61edff28da232445654a56d9770377887bb6": {
     "url": "https://tass.com/emergencies/2128237",
@@ -713,40 +748,5 @@
     "url": "Middle_East_Spectator/31828",
     "title": "China Presses Iran to Reopen Strait of Hormuz Amid Economic Concerns",
     "published": "2026-05-06T21:24:32.560397+00:00"
-  },
-  "a8ba39a215aa21add61d57b7cad03e21c45a84c414f921578b56c6333ea4d1d3": {
-    "url": "intelslava/87537",
-    "title": "US MQ-9 Reaper UAV Downed in Strait of Hormuz, Iran Claims",
-    "published": "2026-05-06T20:06:29.527395+00:00"
-  },
-  "b398489b7571028df20f16d447c147295081981e29d206604cbe110156072ae3": {
-    "url": "BellumActaNews/172286",
-    "title": "Israeli Airstrikes Hit Southern Beirut",
-    "published": "2026-05-06T20:03:28.297499+00:00"
-  },
-  "3203477548545bef1204928dd438582ed7ed6bd190fc43f5ffd917fd41499f6f": {
-    "url": "warmonitors/44009",
-    "title": "Israeli Airstrike Hits Haret Hreik Suburb in Beirut",
-    "published": "2026-05-06T20:03:10.987713+00:00"
-  },
-  "fd39dc3d5c9dc7b89027664080ff28dbfef0cf8e4d62473d9e2932894a739627": {
-    "url": "DDGeopolitics/183585",
-    "title": "Israeli Airstrike Targets Hezbollah Commander in Beirut Suburbs",
-    "published": "2026-05-06T19:59:10.165964+00:00"
-  },
-  "40456b8116e5ef37af34ea0ec4b32d3240bb45ecfac88250ca8fdc4c1bae345f": {
-    "url": "thecradlemedia/59049",
-    "title": "Iranian Strikes Cause Widespread Damage to US Bases in West Asia",
-    "published": "2026-05-06T19:58:48.990760+00:00"
-  },
-  "4be91b4af77cccfa01e169d2639e9eced01787f1338429e1ffa3716594b9921f": {
-    "url": "thecradlemedia/59051",
-    "title": "US Fighter Jet Disables Iranian Tanker in Gulf of Oman",
-    "published": "2026-05-06T19:58:40.738241+00:00"
-  },
-  "415caf8e83f71c1fa79cf6321fc0fa466ef232ac30f9cad80efb402684ff4e3a": {
-    "url": "https://tass.com/politics/2127489",
-    "title": "Russian Foreign Ministry calls on foreign states to evacuate their diplomats from Kiev",
-    "published": "2026-05-06T19:36:04+00:00"
   }
 }
