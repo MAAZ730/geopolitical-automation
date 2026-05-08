@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2807,
+  "total_calls": 2811,
   "tiers": {
-    "groq": 2788,
+    "groq": 2792,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-05T03:25:37.544791+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-05T03:26:10.151624+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-05T03:26:26.234359+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-05T03:27:05.321464+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-05T06:27:26.349825+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-08T06:06:36.263843+00:00",
       "tier": "groq",
       "article": "Iran\u2019s Ghalibaf mocks Trump after US pauses Hormuz mission"
+    },
+    {
+      "timestamp": "2026-05-08T07:58:16.121646+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-08T07:58:48.317057+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-08T07:59:04.410871+00:00",
+      "tier": "groq",
+      "article": "Could Russia Follow the \u201cHormuz Playbook\u201d in the Baltic and Black Seas?"
+    },
+    {
+      "timestamp": "2026-05-08T07:59:20.414303+00:00",
+      "tier": "groq",
+      "article": "Any talk on reopening of Hormuz relies on lifting of blockade"
     }
   ]
 }
