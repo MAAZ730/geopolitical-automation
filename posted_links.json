@@ -1,4 +1,34 @@
 {
+  "b073c6503eccccdbf13bab8e2ad69025a8bfacacf5b7cc44457bf2c2c7d9eaca": {
+    "url": "intelslava/87621",
+    "title": "Ukraine Claims Drone Strike on Russian Military Unit in Chechnya",
+    "published": "2026-05-08T06:17:54.795410+00:00"
+  },
+  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
+    "url": "CensoredMen/189",
+    "title": "Iranian Missiles Strike Israeli Territory",
+    "published": "2026-05-08T06:16:49.072048+00:00"
+  },
+  "6606698e2f09cf27941d3edb3fdfc8ab003496eb4b66f218a736bf37b5fb5dac": {
+    "url": "presstv/188926",
+    "title": "Israeli Airstrikes Hit Southern Lebanon Town of al-Duwayr",
+    "published": "2026-05-08T06:13:58.270028+00:00"
+  },
+  "6ef3cb05ef418b686d6e2e713fedd167b52ff1d9382f1535f536d5f9dd3f6cec": {
+    "url": "BellumActaNews/172404",
+    "title": "IRGC Drone Strike Targets Iranian Kurdish Opposition in Iraq",
+    "published": "2026-05-08T06:13:24.609169+00:00"
+  },
+  "5f837a2db9f379b2b176782ac5feda9a38de1f8aad9ee08b208b7f3c23f846dc": {
+    "url": "QudsNen/222398",
+    "title": "Activist's Health Deteriorates in Israeli Prison After Hunger Strike Escalation",
+    "published": "2026-05-08T06:09:45.415347+00:00"
+  },
+  "976077ca04fff22de89a90224cedde2bd7bfd5ffe8dc35ec90ce9f41b93b793e": {
+    "url": "QudsNen/222399",
+    "title": "Israeli Airstrike Hits Lebanese Civil Defense in Kafr Shouba",
+    "published": "2026-05-08T06:09:44.340299+00:00"
+  },
   "462102f54358bf1731df761712f9c8ab4c64058390af49abb1c00af94fdd69a5": {
     "url": "BellumActaNews/172409",
     "title": "US-Iran Tensions Escalate After Strait of Hormuz Clash",
@@ -64,6 +94,11 @@
     "title": "US Justifies Strikes on Iran as Self-Defense After Oil Tanker Attack",
     "published": "2026-05-07T23:11:04.679969+00:00"
   },
+  "6df83228d7a8ba0450c559696b71f948ffaffeffe526e0ffeaccb2e5c7f5fa05": {
+    "url": "https://tass.com/world/2128173",
+    "title": "Iran says it attacked three US destroyers \u2014 news agency",
+    "published": "2026-05-07T21:30:40+00:00"
+  },
   "818f37b567cdd33db0e3c0c8b11c26fc83a27a84e1208fc099fcefd4cd52bf16": {
     "url": "QudsNen/222348",
     "title": "Tehran Air Defense Activity Escalates",
@@ -93,6 +128,11 @@
     "url": "thecradlemedia/59151",
     "title": "Iran Accuses US of Ceasefire Violation in Strait of Hormuz",
     "published": "2026-05-07T21:14:43.241094+00:00"
+  },
+  "c6f455a3fe427447633d0750c0f33098b2275d338611522d1c938eb5c9c4b888": {
+    "url": "https://tass.com/world/2128165",
+    "title": "US does not consider latest strikes on Iran resumption of war \u2014 Fox News",
+    "published": "2026-05-07T21:14:10+00:00"
   },
   "c7c9de8b196ae79992bd357e394e48a7e0a0d0e91ccdcee40879af2d45f7508b": {
     "url": "BellumActaNews/172356",
@@ -243,6 +283,11 @@
     "url": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
     "title": "The Pentagon Needs a Playbook for Munitions Surge Production",
     "published": "2026-05-07T08:00:13+00:00"
+  },
+  "afefe9d380dfbbed020e9e388aaeb570e454ae968f285991f57bd9f68ff31bdc": {
+    "url": "https://www.rt.com/news/639556-iran-trolls-trump-hormuz-escort/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran\u2019s Ghalibaf mocks Trump after US pauses Hormuz mission",
+    "published": "2026-05-07T08:00:11+00:00"
   },
   "7f0a31db6a94aab57e909bbd475cbf4b5a00935df48f9b7a09ad5aef8de104c1": {
     "url": "Slavyangrad/163590",
@@ -703,50 +748,5 @@
     "url": "Middle_East_Spectator/31783",
     "title": "US Deploys Maritime Security Assets in Strait of Hormuz",
     "published": "2026-05-05T19:37:18.683666+00:00"
-  },
-  "557e51d7039a2ec90757871ae1469a0cb4af8504bfd79f06af3fc3ba8dbb9254": {
-    "url": "thecradlemedia/58961",
-    "title": "Aselsan Boosts Steel Dome Deliveries by 50%",
-    "published": "2026-05-05T19:36:07.155940+00:00"
-  },
-  "05b1352fa7f8d4072c2d1f41eb09c45f16edbcaf9a235fd5180770a47a4d4d74": {
-    "url": "thecradlemedia/58968",
-    "title": "OPCW Reopens Douma Chemical Attack Investigation",
-    "published": "2026-05-05T19:36:06.107326+00:00"
-  },
-  "68852bf56958ca121d3eec6786e39f17e05d7734fd8fa3268896f7696e245258": {
-    "url": "https://www.defensenews.com/global/europe/2026/05/05/policies-needed-to-share-ai-generated-intel-across-nato-countries-official-says/",
-    "title": "Policies needed to share AI-generated intel across NATO countries, official says",
-    "published": "2026-05-05T18:20:22+00:00"
-  },
-  "8be8289bf7df81908dba7a68abecaaf3ccdd94d859d16e82e6260fa67bf8c620": {
-    "url": "Middle_East_Spectator/31791",
-    "title": "Iran's Military Capabilities Severely Impacted: Trump",
-    "published": "2026-05-05T17:47:42.097652+00:00"
-  },
-  "ff3e2c5fa71376972a0dcb18feeb3d51fbd004c312492e37f54a8512cf0ea893": {
-    "url": "thecradlemedia/58950",
-    "title": "Israeli Warplanes Strike Area Between Kounine and Beit Yahoun in Southern Lebanon",
-    "published": "2026-05-05T17:45:43.608661+00:00"
-  },
-  "8ee0c30aa8b76fc851cff4dd09019141eed34cc608cdd2d75d54a33b00e861b9": {
-    "url": "thecradlemedia/58958",
-    "title": "Israeli Airstrike Targets Southern Lebanon, Resident Survives",
-    "published": "2026-05-05T17:45:26.568922+00:00"
-  },
-  "30f480e23a57924cefcc7c307e5f8b599cb75b1212b13144dfc4a4fdbe7b35dc": {
-    "url": "thecradlemedia/58962",
-    "title": "Zelensky Offers Drone Cooperation Deal to Bahrain Amid Regional Security Concerns",
-    "published": "2026-05-05T17:43:26.093757+00:00"
-  },
-  "634f43285a2c1169bec2904cfcfec806b7b0f30b79008243cff5bea6a0e0ea87": {
-    "url": "thecradlemedia/58963",
-    "title": "UK Judge Convicts Palestine Action Activists Over Israeli Arms Raid",
-    "published": "2026-05-05T17:41:59.341005+00:00"
-  },
-  "34000b45f890ccd635ba02944c30f0696bd3e51e2c2a3a05580ace14e27c8aaa": {
-    "url": "thecradlemedia/58964",
-    "title": "Iran Warns Vessels Transiting Strait of Hormuz to Use Designated Route",
-    "published": "2026-05-05T17:41:57.934652+00:00"
   }
 }

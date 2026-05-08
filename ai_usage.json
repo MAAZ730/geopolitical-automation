@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2803,
+  "total_calls": 2807,
   "tiers": {
-    "groq": 2784,
+    "groq": 2788,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-04T23:05:18.578414+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-04T23:05:51.216387+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-04T23:06:37.910719+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-04T23:06:54.194501+00:00",
-      "tier": "groq",
-      "article": "Strait of Hormuz fully controlled by US \u2014 treasury secretary"
-    },
     {
       "timestamp": "2026-05-05T03:25:37.544791+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-08T03:33:21.866662+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-08T06:05:30.944286+00:00",
+      "tier": "groq",
+      "article": "US does not consider latest strikes on Iran resumption of war \u2014 Fox News"
+    },
+    {
+      "timestamp": "2026-05-08T06:06:03.290438+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-08T06:06:19.654790+00:00",
+      "tier": "groq",
+      "article": "Iran says it attacked three US destroyers \u2014 news agency"
+    },
+    {
+      "timestamp": "2026-05-08T06:06:36.263843+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Ghalibaf mocks Trump after US pauses Hormuz mission"
     }
   ]
 }
