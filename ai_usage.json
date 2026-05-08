@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2823,
+  "total_calls": 2827,
   "tiers": {
-    "groq": 2804,
+    "groq": 2808,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-05T19:33:55.942872+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-05T19:34:26.623543+00:00",
-      "tier": "groq",
-      "article": "Cyber attack hit UAE&#039;s Fujairah Port &#039;minutes before&#039; IRGC missile strike"
-    },
-    {
-      "timestamp": "2026-05-05T19:35:13.778784+00:00",
-      "tier": "groq",
-      "article": "Israel delivers 17 strikes on Beirut\u2019s southern suburbs \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-05T19:36:01.268803+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-05T21:14:44.660976+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-08T14:03:20.325454+00:00",
       "tier": "groq",
       "article": "Iran to celebrate victory soon: VP Aref"
+    },
+    {
+      "timestamp": "2026-05-08T15:47:36.068056+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-08T15:48:08.744239+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-08T15:49:02.215403+00:00",
+      "tier": "groq",
+      "article": "US launches new strikes on Iran: As it happened"
+    },
+    {
+      "timestamp": "2026-05-08T15:49:55.583494+00:00",
+      "tier": "groq",
+      "article": "Tehran calls on UN to reject US-Bahrain res. on Hormuz Strait"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "9a73a95fc68d79d7c62485a1cdccf98deed42b52c774e5de210dabed9e3538ff": {
+    "url": "BellumActaNews/172419",
+    "title": "US Navy F/A-18s Disable Iranian Tankers in Gulf of Oman",
+    "published": "2026-05-08T15:56:21.045775+00:00"
+  },
+  "695284e1371574ce93566c78bdcc162792dba94bb08d4bf4874f17adb5a4b5c8": {
+    "url": "DDGeopolitics/183698",
+    "title": "Drone Strikes Erupt Near Dubai International Airport",
+    "published": "2026-05-08T15:54:59.716003+00:00"
+  },
+  "2d2cb5d789af4f5d6d6915870c6bb5087bb0394ba8e8775a641ada795de020f6": {
+    "url": "QudsNen/222467",
+    "title": "Israeli Airstrikes Hit Southern Lebanon",
+    "published": "2026-05-08T15:54:39.210066+00:00"
+  },
+  "a24dd8b056137a7fe095ae72101be344b907fd5fd51e8123528e76fffb0ce340": {
+    "url": "thecradlemedia/59226",
+    "title": "Israeli Police Raid on Palestinian Prosecutor Sparks Outrage",
+    "published": "2026-05-08T15:51:06.162123+00:00"
+  },
+  "5bc98668ca7f8b426dec07ada2b4eda307a1c7b9c87f451bbf7d035edbabb7f9": {
+    "url": "thecradlemedia/59227",
+    "title": "Israeli Forces Conduct Demolitions in Beit Furik, West Bank",
+    "published": "2026-05-08T15:51:04.325293+00:00"
+  },
+  "61f1c92565b2149583d75e43f223f3a95520ad11663f906f6bd854fbb13e708c": {
+    "url": "thecradlemedia/59228",
+    "title": "Hezbollah Rockets Strike Haifa Amid Israeli Airstrikes in South Lebanon",
+    "published": "2026-05-08T15:50:04.269380+00:00"
+  },
   "9ba5cba886aff34f938dbf128e0110dab63d8b5416889dfa4826c92c857339f1": {
     "url": "QudsNen/222459",
     "title": "Israeli Airstrike Damages Residential Building in Al-Abbasiyah, Lebanon",
@@ -164,6 +194,11 @@
     "title": "Israeli Airstrike Hits Lebanese Civil Defense in Kafr Shouba",
     "published": "2026-05-08T06:09:44.340299+00:00"
   },
+  "95adf212805b219373ea549be434c9feb33b7f9530fe93ce0f19ed66d08bc885": {
+    "url": "https://en.mehrnews.com/news/244297/Lifting-naval-blockade-only-viable-solution-in-Hormuz-Strait",
+    "title": "Tehran calls on UN to reject US-Bahrain res. on Hormuz Strait",
+    "published": "2026-05-08T05:28:12+00:00"
+  },
   "462102f54358bf1731df761712f9c8ab4c64058390af49abb1c00af94fdd69a5": {
     "url": "BellumActaNews/172409",
     "title": "US-Iran Tensions Escalate After Strait of Hormuz Clash",
@@ -268,6 +303,11 @@
     "url": "https://tass.com/world/2128165",
     "title": "US does not consider latest strikes on Iran resumption of war \u2014 Fox News",
     "published": "2026-05-07T21:14:10+00:00"
+  },
+  "4279c575aec42f507550ae7602343c5dc15d62ba2f81fc63f6a2c3adfcdc985e": {
+    "url": "https://www.rt.com/news/639591-us-iran-port-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US launches new strikes on Iran: As it happened",
+    "published": "2026-05-07T21:11:23+00:00"
   },
   "c7c9de8b196ae79992bd357e394e48a7e0a0d0e91ccdcee40879af2d45f7508b": {
     "url": "BellumActaNews/172356",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/183540",
     "title": "FSB Destroys Ukrainian Saboteur Groups in Konstantinovka",
     "published": "2026-05-06T10:33:47.525689+00:00"
-  },
-  "67bed003e9365538f69c133325d475b6d3faf3f145679f7fdf9d4532b4e4e1f4": {
-    "url": "QudsNen/222112",
-    "title": "Israeli Troops Detain Palestinian in Bani Na'im Raid",
-    "published": "2026-05-06T10:31:25.594758+00:00"
-  },
-  "629c1a0838f29d755c5d450d76f55cbde90e3a0edd96c4e144fefd8ddaa197eb": {
-    "url": "thecradlemedia/58974",
-    "title": "China Condemns US-Israeli War on Iran, Urges Ceasefire and Talks",
-    "published": "2026-05-06T10:30:56.151362+00:00"
-  },
-  "a2633df43fe1e8d65555f86603fbd1a53d33b5780954a6e4edc6828fd1b397c1": {
-    "url": "thecradlemedia/58976",
-    "title": "Israeli Airstrikes Escalate in Southern Lebanon",
-    "published": "2026-05-06T10:29:15.275832+00:00"
-  },
-  "3138bb7c4c3979f7037a5a5a03a7c79ef11d282ba516a7c44e769faf6db2ad92": {
-    "url": "thecradlemedia/58987",
-    "title": "Netanyahu Appoints Settler to Lead Israel Land Authority Amid Palestinian Dispossession Concerns",
-    "published": "2026-05-06T10:28:50.414128+00:00"
-  },
-  "361accc108f920a89a695390fc7718a8107e34cde624ff9323e2276e2553515a": {
-    "url": "thecradlemedia/58988",
-    "title": "Hezbollah Drone Attack Injures Israeli Soldiers in Southern Lebanon",
-    "published": "2026-05-06T10:28:48.168919+00:00"
-  },
-  "17c69c1d70c69076cda68da63e19068607f7dbd9df94ec5d9180a046a82890c9": {
-    "url": "https://en.mehrnews.com/news/244252/Russian-Qatari-top-diplomats-discuss-Hormuz-Strait-situation",
-    "title": "Russian, Qatari top diplomats discuss Hormuz Strait situation",
-    "published": "2026-05-06T06:59:48+00:00"
-  },
-  "35bf85038b5a67df3b1f11c6c3113c03abc29afd7d7ded6b20e8a1663f3f562b": {
-    "url": "Slavyangrad/163536",
-    "title": "Drone Attack Hits Infrastructure in Krivoy Rog",
-    "published": "2026-05-06T06:49:03.037890+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel-Hezbollah Conflict Escalates Amid Ceasefire Agreement",
-    "published": "2026-05-06T06:48:30.513704+00:00"
   }
 }
