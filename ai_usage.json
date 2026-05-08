@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2799,
+  "total_calls": 2803,
   "tiers": {
-    "groq": 2780,
+    "groq": 2784,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-04T21:19:09.101518+00:00",
-      "tier": "groq",
-      "article": "UAE air defense forces intercept 12 ballistic missiles, three cruise missiles from Iran"
-    },
-    {
-      "timestamp": "2026-05-04T21:19:41.501209+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-04T21:20:31.846145+00:00",
-      "tier": "groq",
-      "article": "Two killed, nine injured in Ukrainian attacks on Belgorod Region over past day"
-    },
-    {
-      "timestamp": "2026-05-04T21:20:50.328283+00:00",
-      "tier": "groq",
-      "article": "Israeli sinister plots against Lebanon to never materialize"
-    },
     {
       "timestamp": "2026-05-04T23:05:18.578414+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-07T23:11:01.390851+00:00",
       "tier": "groq",
       "article": "US calls \u2018wealthy NATO allies\u2019 an \u2018incubator of terror threats\u2019"
+    },
+    {
+      "timestamp": "2026-05-08T03:31:44.353313+00:00",
+      "tier": "groq",
+      "article": "US and Iran exchange fire as Trump says war will \u2018be over quickly\u2019"
+    },
+    {
+      "timestamp": "2026-05-08T03:32:19.565466+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-08T03:33:05.674540+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-08T03:33:21.866662+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }

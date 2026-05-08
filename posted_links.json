@@ -1,4 +1,39 @@
 {
+  "462102f54358bf1731df761712f9c8ab4c64058390af49abb1c00af94fdd69a5": {
+    "url": "BellumActaNews/172409",
+    "title": "US-Iran Tensions Escalate After Strait of Hormuz Clash",
+    "published": "2026-05-08T03:47:01.871939+00:00"
+  },
+  "7ebad98306ac68778aff92b59769284f602f6dd86231d89722e0cb98f609ba0b": {
+    "url": "BellumActaNews/172410",
+    "title": "US Navy Confronts Iran's Revolutionary Guard Corps in Strait of Hormuz",
+    "published": "2026-05-08T03:45:52.844482+00:00"
+  },
+  "67ba5e2ca12faedfbe64a52ad734898cdd1280af241f0da9b63add461a1afff2": {
+    "url": "DDGeopolitics/183647",
+    "title": "Iranian Air Defenses on High Alert in Tehran",
+    "published": "2026-05-08T03:42:54.004122+00:00"
+  },
+  "ee2d5cc34d9c9e8f1d6a2174b15ebb6fc1c789f49da141b752c00c3e0d668389": {
+    "url": "QudsNen/222389",
+    "title": "IRGC Launches Missiles, Drones at U.S. Warships in Strait of Hormuz",
+    "published": "2026-05-08T03:39:11.671918+00:00"
+  },
+  "219a4fef9a6db586dd812ec60c5fb512a2c8e1bf96cff660abd467cf9908d9e8": {
+    "url": "Middle_East_Spectator/31872",
+    "title": "US Forces Counter Iranian Aggression in Strait of Hormuz",
+    "published": "2026-05-08T03:36:29.797164+00:00"
+  },
+  "199de92a7a56c50d701e9696276c0dbe7719e4019f2647e291125d05529d2b15": {
+    "url": "Middle_East_Spectator/31884",
+    "title": "UAE on High Alert as Missile and Drone Threats Emerge",
+    "published": "2026-05-08T03:33:26.721520+00:00"
+  },
+  "646977ebd79bcb4a3d2fde248ca3cb4b3ec2656733870198451e9d4a02d18eeb": {
+    "url": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/",
+    "title": "US and Iran exchange fire as Trump says war will \u2018be over quickly\u2019",
+    "published": "2026-05-07T23:49:00+00:00"
+  },
   "52c1f669232347221a583ce994768264ca79b6b78733dadfa5f976b95a7bde41": {
     "url": "QudsNen/222361",
     "title": "US Launches Airstrikes on Iranian Targets Amid Ceasefire Violation",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/58964",
     "title": "Iran Warns Vessels Transiting Strait of Hormuz to Use Designated Route",
     "published": "2026-05-05T17:41:57.934652+00:00"
-  },
-  "f1c44e7f02d58e6ea949d80528909b616c5c514fcba05042abe6be2dce8c0b77": {
-    "url": "https://www.aljazeera.com/news/2026/5/5/uae-intercepts-missiles-and-drones-for-second-day?traffic_source=rss",
-    "title": "UAE comes under Iranian attacks for second consecutive day",
-    "published": "2026-05-05T16:50:48+00:00"
-  },
-  "75270056f2f688cf27698722eff81802d6b9c24fdd1e1ebc47924789cd842169": {
-    "url": "https://www.defensenews.com/global/europe/2026/05/05/nato-nations-size-up-an-interceptor-drone-bazaar-where-low-price-is-everything/",
-    "title": "NATO nations size up an interceptor-drone bazaar where low price is everything",
-    "published": "2026-05-05T15:56:16+00:00"
-  },
-  "1967ca875d2c68d2dc1870e7cb16d63fff9993f535190d885357a56eb959e75e": {
-    "url": "https://www.rt.com/news/639467-graham-flood-iran-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Lindsey Graham urges Trump to flood Iran with guns",
-    "published": "2026-05-05T11:32:04+00:00"
-  },
-  "8111faa3161d4ac0f1a2a25c165b61cc7dcccf05b6024553f62ebd53b40e8eb2": {
-    "url": "https://thecradle.co/articles-id/37507",
-    "title": "Cyber attack hit UAE&#039;s Fujairah Port &#039;minutes before&#039; IRGC missile strike",
-    "published": "2026-05-05T11:14:00+00:00"
-  },
-  "302f9c46179a97ae94fad0ad075aa12c2d06167d1f43f9bb36aa7a6ea932fe1d": {
-    "url": "https://tass.com/politics/2126623",
-    "title": "Over 30 Russians, including two children, killed in Ukrainian strikes over week \u2014 envoy",
-    "published": "2026-05-05T10:47:11+00:00"
-  },
-  "89394f7c545f3e6c0f4d863cf3482e4a6021d05ed2304dc6d3ca927f0641a06b": {
-    "url": "intelslava/87490",
-    "title": "Cheboksary Under Drone Attack",
-    "published": "2026-05-05T10:24:58.492703+00:00"
-  },
-  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
-    "url": "CensoredMen/189",
-    "title": "Iranian Missiles Strike Israeli Targets",
-    "published": "2026-05-05T10:24:00.317860+00:00"
   }
 }
