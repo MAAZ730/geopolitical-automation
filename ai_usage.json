@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2875,
+  "total_calls": 2879,
   "tiers": {
-    "groq": 2856,
+    "groq": 2860,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-07T10:50:52.202426+00:00",
-      "tier": "groq",
-      "article": "One killed in Israeli strikes on Lebanon\u2019s Nabatieh"
-    },
-    {
-      "timestamp": "2026-05-07T10:51:25.031908+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-07T10:51:43.419719+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-07T10:51:59.610144+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-07T14:30:31.777469+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T19:11:41.517126+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-09T20:53:33.907467+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T20:54:11.701696+00:00",
+      "tier": "groq",
+      "article": "Lebanon says Israeli strikes killed 39"
+    },
+    {
+      "timestamp": "2026-05-09T20:54:28.110742+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T20:54:44.197826+00:00",
+      "tier": "groq",
+      "article": "Ukraine ramps up ground robot production to spare soldiers, haul ammo \u2014 and rescue grandma "
     }
   ]
 }
