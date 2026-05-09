@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2843,
+  "total_calls": 2847,
   "tiers": {
-    "groq": 2824,
+    "groq": 2828,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-06T10:27:38.681119+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-06T10:28:11.153635+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-06T10:28:27.083995+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-06T10:28:43.282594+00:00",
-      "tier": "groq",
-      "article": "Lindsey Graham urges Trump to flood Iran with guns"
-    },
     {
       "timestamp": "2026-05-06T14:28:09.586603+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-08T23:04:53.913326+00:00",
       "tier": "groq",
       "article": "Victory Day parades and celebrations roll across Russia (PHOTOS, VIDEOS)"
+    },
+    {
+      "timestamp": "2026-05-09T03:28:06.990816+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T03:28:23.340626+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T03:28:47.497452+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-09T03:29:32.843743+00:00",
+      "tier": "groq",
+      "article": "US violates ceasefire by targeting Iranian oil tanker: Iran"
     }
   ]
 }

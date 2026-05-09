@@ -1,4 +1,34 @@
 {
+  "8ed972a4744b01bd4fb9318bc0edd2a2acd1d123e0876e7598ea849271734077": {
+    "url": "Slavyangrad/163798",
+    "title": "NATO Forces Face Intense Resistance in Ongoing Conflict",
+    "published": "2026-05-09T03:41:25.386001+00:00"
+  },
+  "b8945794d5ab82603f3c16a10b539f58d59d671804cf69479e43a365e755d26a": {
+    "url": "presstv/189048",
+    "title": "Chalmette Refinery Explosion Rocks Louisiana",
+    "published": "2026-05-09T03:37:17.611324+00:00"
+  },
+  "454640ee906211b3e7a9687f82a0385a503955b31e59a7d7083b815c4baf1a53": {
+    "url": "BellumActaNews/172432",
+    "title": "Iranian Drones Strike KDPI Camp in Iraqi Kurdistan",
+    "published": "2026-05-09T03:36:17.510934+00:00"
+  },
+  "232ec62be1ac11aa032c5d0d531292dcbecf685a91b7caf89b372d96a9ce2143": {
+    "url": "DDGeopolitics/183731",
+    "title": "Russian Troops Raise Victory Banner in Eastern Ukraine's Donetsk Region",
+    "published": "2026-05-09T03:35:27.570164+00:00"
+  },
+  "3d2ec424dcf5026df4a0f6446246b9b3578cff7df633a947e820a7cfd30918e6": {
+    "url": "QudsNen/222537",
+    "title": "Israeli Artillery Shells Eastern Gaza City",
+    "published": "2026-05-09T03:32:43.653321+00:00"
+  },
+  "3c5cf99d2543b4396ee8256773daedc65f5b565fb2c9470c5055b93743ba3cd8": {
+    "url": "Middle_East_Spectator/31916",
+    "title": "IRGC Navy Speedboats Mass in Persian Gulf",
+    "published": "2026-05-09T03:29:36.918554+00:00"
+  },
   "6f12cec6d4a2fc22f8971fb780c07d91a53f7c610fe6ab301981230bffe6f728": {
     "url": "IntelRepublic/51420",
     "title": "Iran Launches Missile Barrage Amid Tensions with US",
@@ -318,6 +348,11 @@
     "url": "QudsNen/222399",
     "title": "Israeli Airstrike Hits Lebanese Civil Defense in Kafr Shouba",
     "published": "2026-05-08T06:09:44.340299+00:00"
+  },
+  "4080339088dea8f6d89df47f5479b29d5a57f7816f61cd1d0d30ebcad2352b5c": {
+    "url": "https://en.irna.ir/news/86148542/US-violates-ceasefire-by-targeting-Iranian-oil-tanker-Iran",
+    "title": "US violates ceasefire by targeting Iranian oil tanker: Iran",
+    "published": "2026-05-08T05:54:03+00:00"
   },
   "f4242fa09c318991cef017256bedde90cc05e6b6730590535519b882ed3ac672": {
     "url": "https://www.rt.com/news/639611-defeat-of-nazi-germany-celebrated-worldwide/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -713,40 +748,5 @@
     "url": "Middle_East_Spectator/31820",
     "title": "Iran Denies Nuclear Talks, Proposes Strait of Hormuz Reopening",
     "published": "2026-05-06T23:05:27.124893+00:00"
-  },
-  "bf7651a1e4c973dfb435d881ac190970d3500f25d126633b314f813f96be51d3": {
-    "url": "https://www.rt.com/news/639534-syria-orthodox-cathedral-restoration/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Orthodox temple in Syria reopens after restoration (VIDEO)",
-    "published": "2026-05-06T21:37:26+00:00"
-  },
-  "c51eae75d1ece7541a26de66534f80fdd1fca1db9efe4f90145d095322d3d848": {
-    "url": "presstv/188711",
-    "title": "Drone Attack Targets Kurdish Rebel HQ in Koya, Iraq",
-    "published": "2026-05-06T21:30:53.312577+00:00"
-  },
-  "fd0d2677db99875f4f4adf0e5761642190b656b1300d88f2f9193e846e5d406b": {
-    "url": "presstv/188712",
-    "title": "Drone Attack Hits Kurdish Group HQ in Koya, Iraq",
-    "published": "2026-05-06T21:30:37.346224+00:00"
-  },
-  "5c20c034053cadd13b843145bc57c762cb81b42f869340b698161b855e1527d0": {
-    "url": "warmonitors/44010",
-    "title": "Suicide Drones Target Kurdish Opposition Headquarters in Erbil",
-    "published": "2026-05-06T21:30:08.190097+00:00"
-  },
-  "fcf9352e11531682b8580131f9b72c7b169c27b984889d46c6f5c4f7fb3c9771": {
-    "url": "QudsNen/222218",
-    "title": "Israeli Airstrike Kills Three Civilians, including a Child, in Zeitoun Neighborhood, Gaza",
-    "published": "2026-05-06T21:26:37.919361+00:00"
-  },
-  "706a040bcb0ccaecb015224cabbfe06f2aa01f6587c0e9ffe0601841e0b0b0d1": {
-    "url": "Middle_East_Spectator/31827",
-    "title": "Zionist Individual Posts Humorous Content Online",
-    "published": "2026-05-06T21:24:33.390117+00:00"
-  },
-  "559fa8899d1c0e051286622bf04b5ccbe39b86fce96e68d082946045329971c9": {
-    "url": "Middle_East_Spectator/31828",
-    "title": "China Presses Iran to Reopen Strait of Hormuz Amid Economic Concerns",
-    "published": "2026-05-06T21:24:32.560397+00:00"
   }
 }
