@@ -1,4 +1,34 @@
 {
+  "df9cb7e710cb922d36c7d38474774e8e2f7b6da15f927a434e683f5cd672d058": {
+    "url": "intelslava/87659",
+    "title": "Ryazan Cadets March Across Red Square Amid Ongoing Military Operation",
+    "published": "2026-05-09T11:21:35.818547+00:00"
+  },
+  "3500124eec658d6827a8321353a0a40cd03767ca2d5ec3fedcbe71c12f224733": {
+    "url": "intelslava/87662",
+    "title": "Russia Celebrates 81st Anniversary of World War II Victory on Red Square",
+    "published": "2026-05-09T11:20:14.144563+00:00"
+  },
+  "2f91ed5e8bffb75d31912504d7f717ce9c85f218ac3451b109dda808bec53270": {
+    "url": "presstv/189084",
+    "title": "Israeli Airstrikes Escalate Tensions in Southern Lebanon",
+    "published": "2026-05-09T11:12:17.159410+00:00"
+  },
+  "e1f89289c0990c05d7fcdf1ad52156b4c1daf45b0a6b71fd087f28862b48e16a": {
+    "url": "presstv/189091",
+    "title": "US Provocations in Persian Gulf Weaken Diplomatic Process: Iran",
+    "published": "2026-05-09T11:09:46.678384+00:00"
+  },
+  "e096d833faf8d46fe36a918e32562531bf27c9cd27d79e0593879c123a1bca2d": {
+    "url": "thecradlemedia/59245",
+    "title": "Israeli Airstrikes Hit Southern Lebanon Villages",
+    "published": "2026-05-09T11:07:21.509555+00:00"
+  },
+  "ec1fbc0ddaa55e630f486d879a15e39ea270be3f4e5ff2acb0f05fd9f28c14cf": {
+    "url": "thecradlemedia/59246",
+    "title": "Israel's Netanyahu Nominates Gaza Assault Commander as Military Secretary",
+    "published": "2026-05-09T11:07:16.060392+00:00"
+  },
   "f519fe7e95fd93f579cfdcc8c24f6d45c6936fd4b8ac10b323674a9373a4e22c": {
     "url": "presstv/189069",
     "title": "Pakistani Coast Guard Personnel Killed in Armed Attack in Balochistan",
@@ -278,6 +308,11 @@
     "url": "thecradlemedia/59215",
     "title": "US Forces Block Iranian Oil Tankers Amid Escalating Tensions",
     "published": "2026-05-08T14:03:31.716180+00:00"
+  },
+  "557b20cc89c2199c1952dc437358f7df022e18e3605ed7e18943a0aa1d35ee9e": {
+    "url": "https://www.rt.com/news/639650-germany-eu-veto-reform/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Germany\u2019s Wadephul backs efforts to weaken EU dissenters",
+    "published": "2026-05-08T12:45:20+00:00"
   },
   "d25741477f610f506dc75262d766146095c270aba4122b09682184cb042b5122": {
     "url": "https://thecradle.co/articles-id/37575",
@@ -713,40 +748,5 @@
     "url": "https://en.mehrnews.com/news/244286/Any-talk-on-reopening-of-Hormuz-relies-on-lifting-of-blockade",
     "title": "Any talk on reopening of Hormuz relies on lifting of blockade",
     "published": "2026-05-07T09:27:15+00:00"
-  },
-  "43c952a4b6b0dad66b1674f8fb5eea5cbdc56f55953376cbeda15c12d8fab7af": {
-    "url": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
-    "title": "The Pentagon Needs a Playbook for Munitions Surge Production",
-    "published": "2026-05-07T08:00:13+00:00"
-  },
-  "afefe9d380dfbbed020e9e388aaeb570e454ae968f285991f57bd9f68ff31bdc": {
-    "url": "https://www.rt.com/news/639556-iran-trolls-trump-hormuz-escort/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran\u2019s Ghalibaf mocks Trump after US pauses Hormuz mission",
-    "published": "2026-05-07T08:00:11+00:00"
-  },
-  "7f0a31db6a94aab57e909bbd475cbf4b5a00935df48f9b7a09ad5aef8de104c1": {
-    "url": "Slavyangrad/163590",
-    "title": "Poland Seeks Enhanced US Military Presence Amid Russia Tensions",
-    "published": "2026-05-07T06:58:55.104952+00:00"
-  },
-  "ca02d2ab56e7f51df75aa85bf9f3793a2d05deccc1777556f1de4754049e919e": {
-    "url": "presstv/188757",
-    "title": "Man Unfurls Protest Banner on Frederick Douglass Memorial Bridge in Washington, D.C.",
-    "published": "2026-05-07T06:56:29.843688+00:00"
-  },
-  "5e98bf0d1da07b453dfb9d33a2a114baa7b61d0b6754ca836704a9d4a04d7c5f": {
-    "url": "presstv/188758",
-    "title": "IRGC Launches Ballistic Missiles from Exposed Site Amid Threats",
-    "published": "2026-05-07T06:54:29.635398+00:00"
-  },
-  "a081655709c957a30192952b0827befb1982090f38e5a9b7eaa48c5bf754a9a1": {
-    "url": "presstv/188762",
-    "title": "Iran Seeks Diplomatic Path to End Conflict Amid Ongoing Tensions",
-    "published": "2026-05-07T06:52:45.330119+00:00"
-  },
-  "f461df0a9a84413c7421a68661a308796f5e0e98376f14c11959950126b102c7": {
-    "url": "QudsNen/222240",
-    "title": "Iranian Strikes Inflict Widespread Damage on U.S. Bases in the Middle East",
-    "published": "2026-05-07T06:46:38.911565+00:00"
   }
 }

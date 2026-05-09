@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2855,
+  "total_calls": 2859,
   "tiers": {
-    "groq": 2836,
+    "groq": 2840,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-06T19:56:56.853598+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-06T19:57:29.211435+00:00",
-      "tier": "groq",
-      "article": "Israeli Enemy Launches New US-approved Attack on Beirut\u2019s Dahieh - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-06T19:58:15.671175+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: An Israeli airstrike targeted a building in Haret Hreik in Beirut\u2019s southern suburbs with several missiles - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-06T19:58:33.431040+00:00",
-      "tier": "groq",
-      "article": "How 10 minutes of bombing by Israel tore through Lebanon"
-    },
     {
       "timestamp": "2026-05-06T21:19:12.349269+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T09:29:50.702003+00:00",
       "tier": "groq",
       "article": "Britain\u2019s population replacement has passed the point of no return"
+    },
+    {
+      "timestamp": "2026-05-09T11:05:37.323220+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T11:06:09.710067+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T11:06:26.082799+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-09T11:07:09.269549+00:00",
+      "tier": "groq",
+      "article": "Germany\u2019s Wadephul backs efforts to weaken EU dissenters"
     }
   ]
 }
