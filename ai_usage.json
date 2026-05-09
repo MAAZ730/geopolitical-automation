@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2867,
+  "total_calls": 2871,
   "tiers": {
-    "groq": 2848,
+    "groq": 2852,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-07T03:33:07.719190+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-07T03:33:40.291960+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-07T03:34:27.122127+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-07T03:34:43.678322+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-07T06:42:18.478643+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T14:59:32.332305+00:00",
       "tier": "groq",
       "article": "Greece recovers Ukrainian naval kamikaze drone \u2013 Reuters"
+    },
+    {
+      "timestamp": "2026-05-09T17:05:45.726775+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T17:06:18.485573+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T17:07:11.833909+00:00",
+      "tier": "groq",
+      "article": "Russian troops continue strictly observing Victory Day ceasefire \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-05-09T17:07:31.412314+00:00",
+      "tier": "groq",
+      "article": "Air traffic in southern Russia will be restored within 2-3 days \u2014 deputy prime minister"
     }
   ]
 }
