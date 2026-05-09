@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2859,
+  "total_calls": 2863,
   "tiers": {
-    "groq": 2840,
+    "groq": 2844,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-06T21:19:12.349269+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-06T21:19:44.680748+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-06T21:20:36.070789+00:00",
-      "tier": "groq",
-      "article": "Russian Foreign Ministry calls on foreign states to evacuate their diplomats from Kiev"
-    },
-    {
-      "timestamp": "2026-05-06T21:21:23.571621+00:00",
-      "tier": "groq",
-      "article": "US lawmakers demand Trump break silence on Israel\u2019s nuclear arsenal"
-    },
     {
       "timestamp": "2026-05-06T23:01:12.580684+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T11:07:09.269549+00:00",
       "tier": "groq",
       "article": "Germany\u2019s Wadephul backs efforts to weaken EU dissenters"
+    },
+    {
+      "timestamp": "2026-05-09T13:27:16.793089+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T13:27:33.535033+00:00",
+      "tier": "groq",
+      "article": "VIDEO: 26 female teachers killed in US attack on Minab School"
+    },
+    {
+      "timestamp": "2026-05-09T13:27:55.606107+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T13:28:11.743209+00:00",
+      "tier": "groq",
+      "article": "Rubio\u2019s role in US administration diminishing, despite his broad powers \u2014 former diplomat"
     }
   ]
 }
