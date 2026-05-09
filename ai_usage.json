@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2851,
+  "total_calls": 2855,
   "tiers": {
-    "groq": 2832,
+    "groq": 2836,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-06T17:47:06.973194+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-06T17:47:41.137073+00:00",
-      "tier": "groq",
-      "article": "TASS photojournalist hit by Ukraine\u2019s drone strike in Zaporozhye Region"
-    },
-    {
-      "timestamp": "2026-05-06T17:48:00.011131+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-06T17:48:16.382726+00:00",
-      "tier": "groq",
-      "article": "Policies needed to share AI-generated intel across NATO countries, official says"
-    },
     {
       "timestamp": "2026-05-06T19:56:56.853598+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T06:26:45.250370+00:00",
       "tier": "groq",
       "article": "Traitors to be prosecuted, punished under law: Judiciary head"
+    },
+    {
+      "timestamp": "2026-05-09T09:28:20.348511+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T09:28:53.113137+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T09:29:09.256741+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-09T09:29:50.702003+00:00",
+      "tier": "groq",
+      "article": "Britain\u2019s population replacement has passed the point of no return"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "f519fe7e95fd93f579cfdcc8c24f6d45c6936fd4b8ac10b323674a9373a4e22c": {
+    "url": "presstv/189069",
+    "title": "Pakistani Coast Guard Personnel Killed in Armed Attack in Balochistan",
+    "published": "2026-05-09T09:43:27.857511+00:00"
+  },
+  "ce971a45aaaa32161076ad3e734244c2499bf18c71723989de451e3f2bfe3e42": {
+    "url": "presstv/189072",
+    "title": "Israeli Airstrikes Leave Devastation in Al-Shati' Refugee Camp, Gaza City",
+    "published": "2026-05-09T09:41:48.713871+00:00"
+  },
+  "eb64124d1eb195c181c03ab09523722581db06d0d6c8cf8a208ab5e819670f33": {
+    "url": "BellumActaNews/172485",
+    "title": "Strait of Hormuz Conflict Disrupts Maritime Traffic",
+    "published": "2026-05-09T09:32:40.937510+00:00"
+  },
+  "16782ddc20616b91d4cb4cf71c02cba2629af881f767eac589e044278c73eaeb": {
+    "url": "DDGeopolitics/183785",
+    "title": "Putin Defends World War II Memory at Kremlin Victory Day Reception",
+    "published": "2026-05-09T09:31:14.783870+00:00"
+  },
+  "d738b7a053b59dbc76a18ea30ba0deddd885b9779c123c429a5b21ceb76d43a1": {
+    "url": "thecradlemedia/59240",
+    "title": "US Sanctions Chinese Satellite Firms Over Alleged Iran Intelligence Support",
+    "published": "2026-05-09T09:29:59.573105+00:00"
+  },
+  "6cb626e97e0c9a9418fd4ada5579fdd597b25a6fe32c7d1aec8bebc596b6325a": {
+    "url": "thecradlemedia/59242",
+    "title": "US Christian Leaders Condemn Israeli Military Funding Amid Palestinian Killings",
+    "published": "2026-05-09T09:29:56.452606+00:00"
+  },
   "b2c570fbe57ce4d6db33ea60198578ee15f51004c610bf53c54e6d078634eb0c": {
     "url": "DDGeopolitics/183749",
     "title": "Jordanian Singer Emilia Performs 'Dark Night' for Russian Media Outlet",
@@ -283,6 +313,11 @@
     "url": "thecradlemedia/59191",
     "title": "UAE Air Defenses Engage Alleged Iranian Missiles and Drones",
     "published": "2026-05-08T11:27:57.168656+00:00"
+  },
+  "c69b5eff1c3adc857c370179a71c5cc72ad311bba39557f6a9803d1a5eec403e": {
+    "url": "https://www.rt.com/news/639646-britain-population-replacement-no-return/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Britain\u2019s population replacement has passed the point of no return",
+    "published": "2026-05-08T11:22:21+00:00"
   },
   "7b45dfd333c81e56250bd4698aee6b6a6579ca47029b5c671a7cdb6756226733": {
     "url": "https://tass.com/politics/2128379",
@@ -713,40 +748,5 @@
     "url": "QudsNen/222240",
     "title": "Iranian Strikes Inflict Widespread Damage on U.S. Bases in the Middle East",
     "published": "2026-05-07T06:46:38.911565+00:00"
-  },
-  "fced00e4a3d54a4aa100d02515ec13334d3d776dbdd017363d5a58dc4eb04a46": {
-    "url": "QudsNen/222241",
-    "title": "Iranian Strikes Cause Widespread Destruction at U.S. Military Bases",
-    "published": "2026-05-07T06:46:37.159951+00:00"
-  },
-  "73c1eb7b2f93d0ecd869968e019147a0868937c516f3a28954a2aceb5a5442b2": {
-    "url": "Slavyangrad/163591",
-    "title": "Sikorski Offers Conditional Forgiveness for Fico's Moscow Visit",
-    "published": "2026-05-07T03:46:04.453240+00:00"
-  },
-  "ea1b08dd322c3507338a92c21fac39631b7e1cf8071da46cc5a96f16803f06af": {
-    "url": "Slavyangrad/163592",
-    "title": "Ukrainian Ammunition Depot Destroyed in Kharkov Oblast Missile Strike",
-    "published": "2026-05-07T03:43:22.763265+00:00"
-  },
-  "45e243011f0d02dd70fdbf9a13c811c7a16ca76cedf24efca0ab3c3a6ff22f5d": {
-    "url": "intelslava/87561",
-    "title": "IRGC Aerospace Force Conducts Exposed Ballistic Missile Launches in Iran",
-    "published": "2026-05-07T03:41:14.755099+00:00"
-  },
-  "dd8af6bf310b2e6ddd62ef83331ab217dd376c31549b76cb7a36608980d4a45f": {
-    "url": "QudsNen/222243",
-    "title": "Iranian Strikes Leave Trail of Destruction in Bahrain and Kuwait",
-    "published": "2026-05-07T03:39:24.053628+00:00"
-  },
-  "c8fab06c51e5bafae8d409bb7abdad897b2c1a527a523cdd6ba70f4cc372db62": {
-    "url": "QudsNen/222245",
-    "title": "Israeli Drone Strike in Gaza City's Zeitoun Neighborhood",
-    "published": "2026-05-07T03:39:22.280304+00:00"
-  },
-  "f94b914d92aa326a3c1c770e5d2cc7c3a86267a513e15419bacb984250cb3460": {
-    "url": "QudsNen/222246",
-    "title": "US Envoy Meets Hamas Leaders in Cairo Amid Gaza Tensions",
-    "published": "2026-05-07T03:37:56.496733+00:00"
   }
 }
