@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2871,
+  "total_calls": 2875,
   "tiers": {
-    "groq": 2852,
+    "groq": 2856,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-07T06:42:18.478643+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-07T06:42:50.971018+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-07T06:43:06.920664+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance targeted military vehicles belonging to the Israeli enemy army as they were moving from the east of the town of Al-Bayyada towards the town of Shamaa with a missile salvo: statement 17 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-07T06:43:24.602278+00:00",
-      "tier": "groq",
-      "article": "Russian, Qatari top diplomats discuss Hormuz Strait situation"
-    },
     {
       "timestamp": "2026-05-07T10:50:52.202426+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T17:07:31.412314+00:00",
       "tier": "groq",
       "article": "Air traffic in southern Russia will be restored within 2-3 days \u2014 deputy prime minister"
+    },
+    {
+      "timestamp": "2026-05-09T19:10:42.829932+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-09T19:11:01.318637+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T19:11:22.540583+00:00",
+      "tier": "groq",
+      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
+    },
+    {
+      "timestamp": "2026-05-09T19:11:41.517126+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }
