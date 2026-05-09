@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2863,
+  "total_calls": 2867,
   "tiers": {
-    "groq": 2844,
+    "groq": 2848,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-06T23:01:12.580684+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-06T23:01:45.549827+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-06T23:02:01.648312+00:00",
-      "tier": "groq",
-      "article": "At least 228 US military facilities in Middle East damaged by Iran \u2014 WP"
-    },
-    {
-      "timestamp": "2026-05-06T23:02:20.321717+00:00",
-      "tier": "groq",
-      "article": "What is Trump's 'Project Freedom' in the Strait of Hormuz?"
-    },
     {
       "timestamp": "2026-05-07T03:33:07.719190+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T13:28:11.743209+00:00",
       "tier": "groq",
       "article": "Rubio\u2019s role in US administration diminishing, despite his broad powers \u2014 former diplomat"
+    },
+    {
+      "timestamp": "2026-05-09T14:58:26.346922+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T14:58:59.363735+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T14:59:15.129913+00:00",
+      "tier": "groq",
+      "article": "In photos: Memorial held for Martyr Ali Larijani"
+    },
+    {
+      "timestamp": "2026-05-09T14:59:32.332305+00:00",
+      "tier": "groq",
+      "article": "Greece recovers Ukrainian naval kamikaze drone \u2013 Reuters"
     }
   ]
 }
