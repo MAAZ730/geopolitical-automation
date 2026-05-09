@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2847,
+  "total_calls": 2851,
   "tiers": {
-    "groq": 2828,
+    "groq": 2832,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-06T14:28:09.586603+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-06T14:28:44.933786+00:00",
-      "tier": "groq",
-      "article": "Witness injured in Kiev strike on Krasnoarmeysk says attack orchestrated for publicity"
-    },
-    {
-      "timestamp": "2026-05-06T14:29:03.612905+00:00",
-      "tier": "groq",
-      "article": "Iranian army denies attacking UAE as Trump suspends &#039;Project Freedom&#039;"
-    },
-    {
-      "timestamp": "2026-05-06T14:29:43.670374+00:00",
-      "tier": "groq",
-      "article": "NATO nations size up an interceptor-drone bazaar where low price is everything"
-    },
     {
       "timestamp": "2026-05-06T17:47:06.973194+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-09T03:29:32.843743+00:00",
       "tier": "groq",
       "article": "US violates ceasefire by targeting Iranian oil tanker: Iran"
+    },
+    {
+      "timestamp": "2026-05-09T06:25:08.674617+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-09T06:25:42.380428+00:00",
+      "tier": "groq",
+      "article": "Attack on Minab school could be deliberate strike"
+    },
+    {
+      "timestamp": "2026-05-09T06:26:28.975484+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-09T06:26:45.250370+00:00",
+      "tier": "groq",
+      "article": "Traitors to be prosecuted, punished under law: Judiciary head"
     }
   ]
 }
