@@ -1,4 +1,34 @@
 {
+  "470a288e5ba9dfe64a5f46dc5041051ada2c878503c888718dbe2ba8d4fd556d": {
+    "url": "two_majors/74946",
+    "title": "Kharkiv Region: Ukrainian Forces Destroy Enemy UGV",
+    "published": "2026-05-10T15:11:03.132548+00:00"
+  },
+  "621a4d7e8ac3ca2dd2e7f69d72c3b8392c60a66dfcd747a499c3d2fc48fc0f5e": {
+    "url": "IntelRepublic/51403",
+    "title": "Hezbollah Rocket Lands in Israeli City of Nahariyya",
+    "published": "2026-05-10T15:10:06.362484+00:00"
+  },
+  "d33732e82778c7475ca209161e9f8fce5988a0710290306a24eb1fc533fa5e37": {
+    "url": "IntelRepublic/51404",
+    "title": "Hezbollah Rockets Strike Northern Israel, Sparking Multiple Fires",
+    "published": "2026-05-10T15:09:42.314715+00:00"
+  },
+  "f14c446f4e30ecee8fca23fb686e896fbf87af77d4de4a79c94557f638bccbd3": {
+    "url": "BellumActaNews/172544",
+    "title": "Netanyahu Calls for Removal of Highly Enriched Uranium from Iran",
+    "published": "2026-05-10T15:06:16.085018+00:00"
+  },
+  "7f2962c89abf18953f4e07fea8492426c9b2f035e87577cd336e8d4411686c73": {
+    "url": "thecradlemedia/59311",
+    "title": "Israeli Army Chief Seeks Additional Troops Amid 'Multi-Front War'",
+    "published": "2026-05-10T15:03:14.976039+00:00"
+  },
+  "4251969389ad1b710b99d051b94f91afce266196f15cebe735219898148f88d4": {
+    "url": "thecradlemedia/59312",
+    "title": "Saudi Prince Warns of Israeli Plan to Spark War with Iran",
+    "published": "2026-05-10T15:03:12.264124+00:00"
+  },
   "a5195156ee6a23cd955fcc3e78e1d7e51d8f968a0a45ec0ad520721da15090ff": {
     "url": "mod_russia_en/26934",
     "title": "Russian Troops Honour Military Heritage in Liberated Volnovakha",
@@ -58,6 +88,11 @@
     "url": "thecradlemedia/59298",
     "title": "Iran Lawmaker Threatens Strikes on US Bases Amid Ongoing Tensions",
     "published": "2026-05-10T11:06:26.772987+00:00"
+  },
+  "ebee5d0cf6ad3ec5f047177048caccf808efef52bf745a7ad2617f6723f820bf": {
+    "url": "https://thecradle.co/articles-id/37607",
+    "title": "\u2018Restraint is over\u2019: Senior Iranian lawmaker threatens strikes on US bases, ships if violations persist",
+    "published": "2026-05-10T10:24:54+00:00"
   },
   "73168ac0f2ccad9acaf98dd3abb63d8f348d470b6f18859d864e09e8c18bf158": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
@@ -183,6 +218,11 @@
     "url": "intelslava/87673",
     "title": "Hormuz Shipping Halted Amid Iran Conflict",
     "published": "2026-05-09T23:04:45.475720+00:00"
+  },
+  "724eebfed045ed77d4de29b76a3abe88d9218f53590dcabd70f6f27ff5e238d8": {
+    "url": "https://tass.com/politics/2129195",
+    "title": "Kiev troops bombard Donetsk People\u2019s Republic seven times over past day",
+    "published": "2026-05-09T23:02:01+00:00"
   },
   "1fbd72b468f81739c7b7ca60b45eabe74a80847649b015959362591759d72bd5": {
     "url": "BellumActaNews/172519",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/59214",
     "title": "US-Iran Diplomatic Tensions Escalate Amid Maritime Paralysis",
     "published": "2026-05-08T14:03:33.559276+00:00"
-  },
-  "c12b20992b8d917eb54d8ba8237f6b3d7fd227ccdd7839054eb70b4e30894e6f": {
-    "url": "thecradlemedia/59215",
-    "title": "US Forces Block Iranian Oil Tankers Amid Escalating Tensions",
-    "published": "2026-05-08T14:03:31.716180+00:00"
-  },
-  "f52e7a4a01a6b3ed5da8277b0cbb97349155038ee472f1d578eed6620aab8965": {
-    "url": "https://tass.com/world/2128537",
-    "title": "Rubio\u2019s role in US administration diminishing, despite his broad powers \u2014 former diplomat",
-    "published": "2026-05-08T13:49:28+00:00"
-  },
-  "557b20cc89c2199c1952dc437358f7df022e18e3605ed7e18943a0aa1d35ee9e": {
-    "url": "https://www.rt.com/news/639650-germany-eu-veto-reform/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Germany\u2019s Wadephul backs efforts to weaken EU dissenters",
-    "published": "2026-05-08T12:45:20+00:00"
-  },
-  "d25741477f610f506dc75262d766146095c270aba4122b09682184cb042b5122": {
-    "url": "https://thecradle.co/articles-id/37575",
-    "title": "Iran declares \u2018significant damage\u2019 caused on US warships after Washington violates ceasefire",
-    "published": "2026-05-08T12:13:46+00:00"
-  },
-  "a8bd3093d8edce34e32bc17d76f1d2bc5b744af0b14bb5623991e27d5645582e": {
-    "url": "DDGeopolitics/183680",
-    "title": "Soviet Union Celebrates End of World War II",
-    "published": "2026-05-08T11:34:43.156002+00:00"
-  },
-  "9522582f65bd8243628118d3dc8771c88ec4e9b27a26bf1460f2a3f53f96643d": {
-    "url": "thecradlemedia/59181",
-    "title": "Israeli Settlers Vandalize Property in Abu Falah Raid",
-    "published": "2026-05-08T11:29:09.329587+00:00"
-  },
-  "4c0259fc31fded9664f775b15b00dac35aed09806bc8cedef20896a55ba1a3ff": {
-    "url": "thecradlemedia/59187",
-    "title": "Israeli Forces Raid Palestinian Village in Masafer Yatta",
-    "published": "2026-05-08T11:28:54.717100+00:00"
-  },
-  "ddd3ec8b9f59ebbd8d97548a7ef28fd05b6b28c1ff8fa7d0af2b723390129d67": {
-    "url": "thecradlemedia/59189",
-    "title": "Rocket Sirens Sound in Western Galilee and Haifa Bay",
-    "published": "2026-05-08T11:28:14.841509+00:00"
   }
 }

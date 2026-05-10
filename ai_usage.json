@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2903,
+  "total_calls": 2907,
   "tiers": {
-    "groq": 2884,
+    "groq": 2888,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-08T06:05:30.944286+00:00",
-      "tier": "groq",
-      "article": "US does not consider latest strikes on Iran resumption of war \u2014 Fox News"
-    },
-    {
-      "timestamp": "2026-05-08T06:06:03.290438+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-08T06:06:19.654790+00:00",
-      "tier": "groq",
-      "article": "Iran says it attacked three US destroyers \u2014 news agency"
-    },
-    {
-      "timestamp": "2026-05-08T06:06:36.263843+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Ghalibaf mocks Trump after US pauses Hormuz mission"
-    },
     {
       "timestamp": "2026-05-08T07:58:16.121646+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-10T13:30:06.032530+00:00",
       "tier": "groq",
       "article": "Kremlin aide believes Trump\u2019s hopes for longer ceasefire with Kiev are unfounded"
+    },
+    {
+      "timestamp": "2026-05-10T15:02:01.313793+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-10T15:02:33.563766+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-10T15:02:50.375234+00:00",
+      "tier": "groq",
+      "article": "\u2018Restraint is over\u2019: Senior Iranian lawmaker threatens strikes on US bases, ships if violations persist"
+    },
+    {
+      "timestamp": "2026-05-10T15:03:08.148398+00:00",
+      "tier": "groq",
+      "article": "Kiev troops bombard Donetsk People\u2019s Republic seven times over past day"
     }
   ]
 }
