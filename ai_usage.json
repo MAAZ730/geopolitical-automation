@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2899,
+  "total_calls": 2903,
   "tiers": {
-    "groq": 2880,
+    "groq": 2884,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-08T03:31:44.353313+00:00",
-      "tier": "groq",
-      "article": "US and Iran exchange fire as Trump says war will \u2018be over quickly\u2019"
-    },
-    {
-      "timestamp": "2026-05-08T03:32:19.565466+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-08T03:33:05.674540+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-08T03:33:21.866662+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-08T06:05:30.944286+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-10T11:06:20.327793+00:00",
       "tier": "groq",
       "article": "Putin says EU, NATO imposing confrontational policy"
+    },
+    {
+      "timestamp": "2026-05-10T13:28:59.684998+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-10T13:29:32.505328+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-10T13:29:49.622433+00:00",
+      "tier": "groq",
+      "article": "Iran military warns of \u2018surprising\u2019 methods of warfare if attacked again"
+    },
+    {
+      "timestamp": "2026-05-10T13:30:06.032530+00:00",
+      "tier": "groq",
+      "article": "Kremlin aide believes Trump\u2019s hopes for longer ceasefire with Kiev are unfounded"
     }
   ]
 }
