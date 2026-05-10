@@ -1,4 +1,34 @@
 {
+  "61efb4c47fa558f09e3d525a57ca22a7ad8ce32f983f6b8b4a4d16b9da436e6a": {
+    "url": "presstv/189276",
+    "title": "Iran's Supreme Leader Praises Armed Forces for Bravery and Strength",
+    "published": "2026-05-10T17:14:36.189860+00:00"
+  },
+  "014c9dc3b8728e1c03c6c8e6ec2730c26a7bad2476c81ae3b1ffa50e945a008b": {
+    "url": "presstv/189282",
+    "title": "Hezbollah Drone Targets Israeli Soldier in Tense Border Incident",
+    "published": "2026-05-10T17:11:53.079593+00:00"
+  },
+  "2de0832e595ec025a87308eb4630b61caf6dba0e05e1e02024e610313e62f9a0": {
+    "url": "warmonitors/44047",
+    "title": "Hezbollah Drone Strike Hits Israeli Soldiers Near Lebanon Border",
+    "published": "2026-05-10T17:10:26.621091+00:00"
+  },
+  "1003424aca2066dbf9d6a7c34f1753a562b83ae1f1f6e5c4bd2dee80071555b1": {
+    "url": "QudsNen/222727",
+    "title": "Israeli Airstrikes Hit Saray Neighbourhood in Southern Lebanon",
+    "published": "2026-05-10T17:09:04.298232+00:00"
+  },
+  "a43c88490d1e340e9ec90b918d2ed3f482408e099e505d830314da96a67ca313": {
+    "url": "thecradlemedia/59300",
+    "title": "Israel-Iraq Base Exposed Amid Airstrikes",
+    "published": "2026-05-10T17:06:51.931634+00:00"
+  },
+  "4aa48d2207344ff30922771c52fed37f924a6b8f4d2ffe4c3b9deed4cbf645b4": {
+    "url": "thecradlemedia/59301",
+    "title": "Iran's Supreme Leader Issues New Military Directives Amid Ongoing Security Operations",
+    "published": "2026-05-10T17:06:47.144262+00:00"
+  },
   "470a288e5ba9dfe64a5f46dc5041051ada2c878503c888718dbe2ba8d4fd556d": {
     "url": "two_majors/74946",
     "title": "Kharkiv Region: Ukrainian Forces Destroy Enemy UGV",
@@ -718,35 +748,5 @@
     "url": "thecradlemedia/59227",
     "title": "Israeli Forces Conduct Demolitions in Beit Furik, West Bank",
     "published": "2026-05-08T15:51:04.325293+00:00"
-  },
-  "61f1c92565b2149583d75e43f223f3a95520ad11663f906f6bd854fbb13e708c": {
-    "url": "thecradlemedia/59228",
-    "title": "Hezbollah Rockets Strike Haifa Amid Israeli Airstrikes in South Lebanon",
-    "published": "2026-05-08T15:50:04.269380+00:00"
-  },
-  "9ba5cba886aff34f938dbf128e0110dab63d8b5416889dfa4826c92c857339f1": {
-    "url": "QudsNen/222459",
-    "title": "Israeli Airstrike Damages Residential Building in Al-Abbasiyah, Lebanon",
-    "published": "2026-05-08T14:08:48.656400+00:00"
-  },
-  "2fc8a7975a81a20e25121009c69fa838ff225c4af62cecfccaceee76d5bddcd1": {
-    "url": "QudsNen/222461",
-    "title": "Israeli Airstrike Targets Southern Lebanon",
-    "published": "2026-05-08T14:08:13.956471+00:00"
-  },
-  "e4665799279c274a21af3cb0f89201a615b90301feea95a73be1c28b428fc0d2": {
-    "url": "QudsNen/222463",
-    "title": "Israeli Airstrike Targets Toura in Southern Lebanon",
-    "published": "2026-05-08T14:07:32.036408+00:00"
-  },
-  "29f584b170ccd9de925ee0f80204c424140df36e90da9cff605184a6f4fc1ccc": {
-    "url": "Middle_East_Spectator/31890",
-    "title": "Dubai Airport Hit by Drone Strike Amid Tensions with Iran",
-    "published": "2026-05-08T14:03:56.759802+00:00"
-  },
-  "d44dae8ec403349e833c32b6bbdbbc2f2f67222b9b52de715364089d1e741d33": {
-    "url": "thecradlemedia/59214",
-    "title": "US-Iran Diplomatic Tensions Escalate Amid Maritime Paralysis",
-    "published": "2026-05-08T14:03:33.559276+00:00"
   }
 }
