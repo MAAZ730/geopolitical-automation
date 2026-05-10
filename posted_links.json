@@ -1,4 +1,34 @@
 {
+  "ab01e72ad2aa91fc1a1f9ea71f3c5fb553941cf5cb1919da4af7dd655b59c868": {
+    "url": "CyberspecNews/107106",
+    "title": "Russia Unveils Automated Anti-Drone System with Quad-Drones",
+    "published": "2026-05-10T21:08:29.552362+00:00"
+  },
+  "55186901fe322708c9c32d84184a483b7dcd792059c70aaf34d7fef5330ab2ee": {
+    "url": "presstv/189303",
+    "title": "Suicide Car-Bomb Attack Kills Police Officers in Pakistan's Khyber Pakhtunkhwa",
+    "published": "2026-05-10T21:05:04.788855+00:00"
+  },
+  "7198e9ef626a181a2a4c7f3631994d8ce74d46b4f2a98a673283f10905e1a9b2": {
+    "url": "BellumActaNews/172551",
+    "title": "Lebanon Journalists Spark Outrage Over Saint Charbel Mockery",
+    "published": "2026-05-10T21:03:10.648631+00:00"
+  },
+  "bf5ebadcf94c182c57146abff706cf3a68d57ee0863f4071fecfe73ca756c80a": {
+    "url": "QudsNen/222749",
+    "title": "Channel 4 News Wins BAFTA for US-Israeli Conflict Coverage",
+    "published": "2026-05-10T21:01:46.331172+00:00"
+  },
+  "e3914b3235b46848017ec30d56bfb553a251d1f57e1bf05599e40fe071ca9401": {
+    "url": "Middle_East_Spectator/31929",
+    "title": "Hezbollah Drone Strikes Israeli Iron Dome Battery on Lebanese Border",
+    "published": "2026-05-10T20:59:06.082449+00:00"
+  },
+  "82038d338370b97c0d04fecfb14051244750d7f93c834675ef09513866eb1d74": {
+    "url": "Middle_East_Spectator/31935",
+    "title": "Hezbollah Prepares to Release New Video",
+    "published": "2026-05-10T20:59:04.778501+00:00"
+  },
   "3a71fc4846419bb2afc89f9f4bcc1b88dae36d9cc7b93a2d5344ef023ec1d9f5": {
     "url": "CyberspecNews/107099",
     "title": "Hezbollah Drone Attack on IDF Base in Northern Israel",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/59313",
     "title": "Trump Expresses Frustration with Iran's Response to US Peace Proposal",
     "published": "2026-05-10T19:17:02.118963+00:00"
+  },
+  "4f027e67a9f087d258285c307bd741e45301ddde5b5d11e04209ce0b21a3c463": {
+    "url": "https://english.almanar.com.lb/article/69757/",
+    "title": "Hezbollah fighters targeted a Merkava tank at the Jall Al-Alam site and a gathering of IOF soldiers in Al-Bayyada with several drone strikes, and targeted another Merkava tank in Al-Bayyada, scoring confirmed hits: Military Media Statements 17 to 19 - Al-Manar TV Lebanon",
+    "published": "2026-05-10T18:50:28+00:00"
   },
   "61efb4c47fa558f09e3d525a57ca22a7ad8ce32f983f6b8b4a4d16b9da436e6a": {
     "url": "presstv/189276",
@@ -168,6 +203,11 @@
     "url": "IntelRepublic/51411",
     "title": "Hezbollah Missiles Hit Northern Israeli Settlement of Kiryat Shmona",
     "published": "2026-05-10T09:55:50.615878+00:00"
+  },
+  "8fece604a3a8428cb0233167653a6c9f4cadfcb56b655651689235333a921167": {
+    "url": "https://en.mehrnews.com/news/244382/Iran-s-rights-body-denounces-Bahrain-s-citizenship-annulment",
+    "title": "Iran\u2019s rights body denounces Bahrain\u2019s citizenship annulment",
+    "published": "2026-05-10T09:54:15+00:00"
   },
   "478c46dcd21b3eabd3a6d0e509725c5f5aca3260e20d077bb09ccb93504a5a37": {
     "url": "mod_russia_en/26928",
@@ -708,45 +748,5 @@
     "url": "QudsNen/222494",
     "title": "Israeli Artillery Strikes Southern Lebanon",
     "published": "2026-05-08T19:28:13.191647+00:00"
-  },
-  "c7171e80044d2ac138bf7732bda2884bb1db09f4c563958b4a0f2b19d466839f": {
-    "url": "QudsNen/222500",
-    "title": "Israeli Artillery Strikes Southern Lebanon",
-    "published": "2026-05-08T19:27:37.891700+00:00"
-  },
-  "4c595102617cef825425581eebdd05973f56bbe20db2939e5176840b45d3cc12": {
-    "url": "Middle_East_Spectator/31898",
-    "title": "US-Iran Clashes Erupt in Strait of Hormuz",
-    "published": "2026-05-08T19:27:34.893961+00:00"
-  },
-  "afe4431214b8d04491dbb4631f81b4e655c71a2fadf096248e086559dba47ff7": {
-    "url": "https://tass.com/economy/2128653",
-    "title": "Air traffic in southern Russia will be restored within 2-3 days \u2014 deputy prime minister",
-    "published": "2026-05-08T17:57:24+00:00"
-  },
-  "981298696a62ba9123fa4968d465b9047843ec7b1f57a26b9dd049b4e4d18933": {
-    "url": "intelslava/87630",
-    "title": "Dubai International Airport Hit in Iranian Missile and Drone Attack",
-    "published": "2026-05-08T17:31:22.606626+00:00"
-  },
-  "fde07b9c4341acefcd9283071af2f32b12853d6b81b57cad712b6b473994c67a": {
-    "url": "intelslava/87633",
-    "title": "US Strikes Iranian Tankers in Defiance of Naval Blockade",
-    "published": "2026-05-08T17:31:11.774299+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel Intensifies Strikes on Lebanon Amid Ceasefire Talks",
-    "published": "2026-05-08T17:30:29.464922+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
-    "published": "2026-05-08T17:27:58.534269+00:00"
-  },
-  "0f313175735ffd60fe9c2fa538afb37a5ae9b103c7457c9d439983e4862d0eda": {
-    "url": "thecradlemedia/59216",
-    "title": "Bahrain Expels Lawmakers Amid Crackdown on Dissent",
-    "published": "2026-05-08T17:27:34.463231+00:00"
   }
 }
