@@ -1,4 +1,34 @@
 {
+  "3a71fc4846419bb2afc89f9f4bcc1b88dae36d9cc7b93a2d5344ef023ec1d9f5": {
+    "url": "CyberspecNews/107099",
+    "title": "Hezbollah Drone Attack on IDF Base in Northern Israel",
+    "published": "2026-05-10T19:25:13.193281+00:00"
+  },
+  "737f94bbbe6d71f5faf82ad70c75e95d3bd1e9141594684671feb0ba7089741b": {
+    "url": "mod_russia_en/26940",
+    "title": "Donetsk People's Republic Honours Distinguished Servicemen",
+    "published": "2026-05-10T19:22:45.284818+00:00"
+  },
+  "0d9d4cddf3c844311a03366b8d57f3ca5ac2cd730e1c011083a7977cd594e846": {
+    "url": "intelslava/87707",
+    "title": "Russian Drone Strike Hits Enemy Target on Ukrainian Frontlines",
+    "published": "2026-05-10T19:22:01.510991+00:00"
+  },
+  "e0a413dfea65c75cb3310fec07549722d1ac4456f360fca79f6a7eae317d5c2a": {
+    "url": "presstv/189292",
+    "title": "Hezbollah Drone Strike Targets Israeli Iron Dome Platforms",
+    "published": "2026-05-10T19:19:46.610949+00:00"
+  },
+  "7245eed386518728f019d095932d160f81bc82873eea5461cf1ef3ec4b576774": {
+    "url": "Middle_East_Spectator/31936",
+    "title": "US President Accuses Iran of Exploiting Weakness in Past Diplomatic Deals",
+    "published": "2026-05-10T19:17:04.585846+00:00"
+  },
+  "dcebdbc8b0efe4650570b25caf752a7c4ff833e25f4ec5b4645108072ed275e9": {
+    "url": "thecradlemedia/59313",
+    "title": "Trump Expresses Frustration with Iran's Response to US Peace Proposal",
+    "published": "2026-05-10T19:17:02.118963+00:00"
+  },
   "61efb4c47fa558f09e3d525a57ca22a7ad8ce32f983f6b8b4a4d16b9da436e6a": {
     "url": "presstv/189276",
     "title": "Iran's Supreme Leader Praises Armed Forces for Bravery and Strength",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/59301",
     "title": "Iran's Supreme Leader Issues New Military Directives Amid Ongoing Security Operations",
     "published": "2026-05-10T17:06:47.144262+00:00"
+  },
+  "ea7be22bcd8c3eed61a0fd640d1efdc5fa38564295b8c678c336a377ba545b5d": {
+    "url": "https://en.irna.ir/news/86150765/World-s-strongest-junior-weightlifter-dedicates-3-gold-medals",
+    "title": "World\u2019s strongest junior weightlifter dedicates 3 gold medals to martyred Minab students",
+    "published": "2026-05-10T15:13:22+00:00"
   },
   "470a288e5ba9dfe64a5f46dc5041051ada2c878503c888718dbe2ba8d4fd556d": {
     "url": "two_majors/74946",
@@ -158,6 +193,11 @@
     "url": "thecradlemedia/59289",
     "title": "Iran Deploys Submarines in Strait of Hormuz",
     "published": "2026-05-10T09:47:41.897826+00:00"
+  },
+  "65fc28d3bbda7dc8a80b2b313a316a9ad66ce82f0bf4a0dc506208c4c93e2187": {
+    "url": "https://en.mehrnews.com/news/244381/Iran-s-Intel-Min-dismantles-2-Mossad-linked-terrorist-cells",
+    "title": "Iran\u2019s Intel. Min. dismantles 2 Mossad-linked terrorist cells",
+    "published": "2026-05-10T09:38:25+00:00"
   },
   "edbb2d7130c59d843c7c83729a10357757c36f6816953d15ed5013d89eaabc2b": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/59216",
     "title": "Bahrain Expels Lawmakers Amid Crackdown on Dissent",
     "published": "2026-05-08T17:27:34.463231+00:00"
-  },
-  "118ddcf1c7ab1f4d6a54f9587c0b46f53611710aa9a79109f32e44515bcce4ca": {
-    "url": "thecradlemedia/59224",
-    "title": "Explosion Rocks Bint Jbeil in Southern Lebanon",
-    "published": "2026-05-08T17:27:33.523879+00:00"
-  },
-  "c3894a84e52cc6f463faecca21e0c9c8abbe2024c6d9e4929f37f7e48affd4d7": {
-    "url": "https://www.rt.com/news/639678-ukrainian-drone-greece-island/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Greece recovers Ukrainian naval kamikaze drone \u2013 Reuters",
-    "published": "2026-05-08T16:26:05+00:00"
-  },
-  "6d1ce1c8f9bd1e5ce6bd95739e2c94a9f9bcd2f6294353cd0501c1e93980531c": {
-    "url": "https://en.irna.ir/news/86148922/IRCS-conducts-6-000-rescue-operations-during-US-Israeli-invasion",
-    "title": "IRCS conducts 6,000 rescue operations during US-Israeli invasion of Iran",
-    "published": "2026-05-08T16:24:59+00:00"
-  },
-  "9a73a95fc68d79d7c62485a1cdccf98deed42b52c774e5de210dabed9e3538ff": {
-    "url": "BellumActaNews/172419",
-    "title": "US Navy F/A-18s Disable Iranian Tankers in Gulf of Oman",
-    "published": "2026-05-08T15:56:21.045775+00:00"
-  },
-  "695284e1371574ce93566c78bdcc162792dba94bb08d4bf4874f17adb5a4b5c8": {
-    "url": "DDGeopolitics/183698",
-    "title": "Drone Strikes Erupt Near Dubai International Airport",
-    "published": "2026-05-08T15:54:59.716003+00:00"
-  },
-  "2d2cb5d789af4f5d6d6915870c6bb5087bb0394ba8e8775a641ada795de020f6": {
-    "url": "QudsNen/222467",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-05-08T15:54:39.210066+00:00"
-  },
-  "a24dd8b056137a7fe095ae72101be344b907fd5fd51e8123528e76fffb0ce340": {
-    "url": "thecradlemedia/59226",
-    "title": "Israeli Police Raid on Palestinian Prosecutor Sparks Outrage",
-    "published": "2026-05-08T15:51:06.162123+00:00"
-  },
-  "5bc98668ca7f8b426dec07ada2b4eda307a1c7b9c87f451bbf7d035edbabb7f9": {
-    "url": "thecradlemedia/59227",
-    "title": "Israeli Forces Conduct Demolitions in Beit Furik, West Bank",
-    "published": "2026-05-08T15:51:04.325293+00:00"
   }
 }

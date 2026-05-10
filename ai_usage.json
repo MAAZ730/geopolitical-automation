@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2911,
+  "total_calls": 2915,
   "tiers": {
-    "groq": 2892,
+    "groq": 2896,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-08T09:34:57.713323+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-08T09:35:30.181293+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-08T09:36:16.312247+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-08T09:36:34.738743+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-08T11:26:15.419454+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-10T17:06:41.694587+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-10T19:15:22.127047+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-10T19:15:54.623795+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-10T19:16:11.058511+00:00",
+      "tier": "groq",
+      "article": "World\u2019s strongest junior weightlifter dedicates 3 gold medals to martyred Minab students"
+    },
+    {
+      "timestamp": "2026-05-10T19:16:47.736288+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Intel. Min. dismantles 2 Mossad-linked terrorist cells"
     }
   ]
 }
