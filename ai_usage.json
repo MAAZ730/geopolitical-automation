@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2935,
+  "total_calls": 2939,
   "tiers": {
-    "groq": 2916,
+    "groq": 2920,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-08T21:11:05.974698+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-08T21:11:22.179877+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-08T21:11:46.833757+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-08T21:12:33.909533+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-08T23:03:48.504475+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-11T11:31:52.294297+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-11T15:22:48.694529+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-11T15:23:21.159047+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-11T15:23:38.141999+00:00",
+      "tier": "groq",
+      "article": "Israeli warplane strikes area between Al-Sharqiyeh and Al-Nmeiriyeh in Nabatieh district: Al-Manar correspondent in south Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-11T15:24:17.642655+00:00",
+      "tier": "groq",
+      "article": "Pavel Durov accuses France of hypocrisy over Elon Musk X investigation"
     }
   ]
 }
