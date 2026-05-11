@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2927,
+  "total_calls": 2931,
   "tiers": {
-    "groq": 2908,
+    "groq": 2912,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-08T17:26:03.262986+00:00",
-      "tier": "groq",
-      "article": "IRCS conducts 6,000 rescue operations during US-Israeli invasion of Iran"
-    },
-    {
-      "timestamp": "2026-05-08T17:26:34.844317+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-08T17:26:50.990410+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-08T17:27:28.039700+00:00",
-      "tier": "groq",
-      "article": "Death toll in China fireworks factory explosion rises to 37"
-    },
     {
       "timestamp": "2026-05-08T19:26:22.468630+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-11T03:56:47.263012+00:00",
       "tier": "groq",
       "article": "Victory Day celebrations in Europe marred by pro-Ukraine provocations (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-05-11T07:53:31.092284+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-11T07:54:03.408765+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-11T07:54:49.469905+00:00",
+      "tier": "groq",
+      "article": "IDF strikes 40 targets in Lebanon, kills 10 Hezbollah militants over weekend"
+    },
+    {
+      "timestamp": "2026-05-11T07:55:09.684699+00:00",
+      "tier": "groq",
+      "article": "Global oil inventories drain at record pace amid Hormuz disruption \u2013 Bloomberg"
     }
   ]
 }
