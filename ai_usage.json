@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2939,
+  "total_calls": 2943,
   "tiers": {
-    "groq": 2920,
+    "groq": 2924,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-08T23:03:48.504475+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-08T23:04:21.495362+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-08T23:04:37.640235+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-08T23:04:53.913326+00:00",
-      "tier": "groq",
-      "article": "Victory Day parades and celebrations roll across Russia (PHOTOS, VIDEOS)"
-    },
     {
       "timestamp": "2026-05-09T03:28:06.990816+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-11T15:24:17.642655+00:00",
       "tier": "groq",
       "article": "Pavel Durov accuses France of hypocrisy over Elon Musk X investigation"
+    },
+    {
+      "timestamp": "2026-05-11T18:02:50.410491+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-11T18:03:07.144474+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-11T18:03:23.058792+00:00",
+      "tier": "groq",
+      "article": "Israeli army probes Hezbollah strike on Iron Dome battery, crew"
+    },
+    {
+      "timestamp": "2026-05-11T18:03:42.693992+00:00",
+      "tier": "groq",
+      "article": "His father had just been buried. Then West Bank settlers forced him to dig up the body"
     }
   ]
 }
