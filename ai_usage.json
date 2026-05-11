@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2951,
+  "total_calls": 2955,
   "tiers": {
-    "groq": 2932,
+    "groq": 2936,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-09T09:28:20.348511+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-09T09:28:53.113137+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-09T09:29:09.256741+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-09T09:29:50.702003+00:00",
-      "tier": "groq",
-      "article": "Britain\u2019s population replacement has passed the point of no return"
-    },
     {
       "timestamp": "2026-05-09T11:05:37.323220+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-11T21:31:39.283019+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-11T23:04:05.832979+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-11T23:04:39.211269+00:00",
+      "tier": "groq",
+      "article": "UAE may have carried out strikes on Iranian territory \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-05-11T23:04:58.768001+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-11T23:05:33.955224+00:00",
+      "tier": "groq",
+      "article": "Israel will not cease fighting Hezbollah for a peace deal with Iran \u2014 Netanyahu"
     }
   ]
 }

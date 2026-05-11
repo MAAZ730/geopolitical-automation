@@ -1,4 +1,39 @@
 {
+  "88867e8d01ac702ea377ce135ab194618178cdd1ed1742e7b08b24e0b7519cf7": {
+    "url": "wargonzo/34108",
+    "title": "Donbass Half-Marathon Honors Victory Day and Republic Day",
+    "published": "2026-05-11T23:15:29.422925+00:00"
+  },
+  "004d3f815d33bd6ca5fea04ceecfdde68bf110f7b66629007b36334d15e0f1a2": {
+    "url": "two_majors/75043",
+    "title": "France Delivers CAESAR Self-Propelled Guns to Armenia Amid Strategic Partnership",
+    "published": "2026-05-11T23:14:53.029511+00:00"
+  },
+  "6f12cec6d4a2fc22f8971fb780c07d91a53f7c610fe6ab301981230bffe6f728": {
+    "url": "IntelRepublic/51420",
+    "title": "Iran Fires Missile Barrage Amid Trump-Era Retort",
+    "published": "2026-05-11T23:11:05.669915+00:00"
+  },
+  "bc9d56e1156c1212e92df1e30d7a38f23a0aa8bb72a883c754338788509f2227": {
+    "url": "CyberspecNews/107143",
+    "title": "Hezbollah UAVs Strike Israeli Armor in Lebanon",
+    "published": "2026-05-11T23:10:08.630936+00:00"
+  },
+  "3d3e0066559192ef71f454c586c15962b6bcb1519dfbbb2ff8e4d761623e07b8": {
+    "url": "QudsNen/222925",
+    "title": "Iran Parliament Speaker Warns of Consequences of Rejecting 14-Point Proposal",
+    "published": "2026-05-11T23:05:43.949258+00:00"
+  },
+  "f4810a02da821b8b9f98e88027495fa8488ebd57f14f003bca43f296acef9cf8": {
+    "url": "QudsNen/222933",
+    "title": "EU Imposes Sanctions on Israeli Settlers, Hamas",
+    "published": "2026-05-11T23:05:42.629464+00:00"
+  },
+  "7e10a0d9c572bfc0d7d4f3fa1afa503e9360b779d401a7978e35000ee035bd7e": {
+    "url": "https://tass.com/world/2129497",
+    "title": "UAE may have carried out strikes on Iranian territory \u2014 newspaper",
+    "published": "2026-05-11T22:33:59+00:00"
+  },
   "35fb32d0a4d44fb8b159c872655ac397399add129abd09329b6566712c7cfdd6": {
     "url": "CyberspecNews/107147",
     "title": "Hezbollah Drone Enters Israeli Command Vehicle in Southern Lebanon",
@@ -218,6 +253,11 @@
     "url": "QudsNen/222774",
     "title": "Israeli Artillery Strikes Gaza City",
     "published": "2026-05-11T03:56:56.246839+00:00"
+  },
+  "48afe9d25fc461888bcca1b62a70c7830ac32b97a32175dd9d2becaf346e0e0b": {
+    "url": "https://tass.com/world/2129371",
+    "title": "Israel will not cease fighting Hezbollah for a peace deal with Iran \u2014 Netanyahu",
+    "published": "2026-05-11T02:46:21+00:00"
   },
   "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
     "url": "CensoredMen/203",
@@ -708,45 +748,5 @@
     "url": "Middle_East_Spectator/31918",
     "title": "Hezbollah Releases Drone Footage of Israeli Soldier Engagements",
     "published": "2026-05-09T17:10:22.534520+00:00"
-  },
-  "92406c05043c86f4324648cb730f724f9b0c1680fcb582507c110a4cb8cdb6a1": {
-    "url": "Middle_East_Spectator/31920",
-    "title": "Hezbollah Deploys FPV Drones in Northern Israel",
-    "published": "2026-05-09T17:08:50.332933+00:00"
-  },
-  "945bdb01bc0eca3dcd10232745a5806bde2664dd7630a5e35ef44a35ac7c234f": {
-    "url": "thecradlemedia/59269",
-    "title": "Iran Warns Governments Over Strait of Hormuz Security",
-    "published": "2026-05-09T17:07:39.776628+00:00"
-  },
-  "affe57274515ed013604082f48b14897bda7e4d23c8d15407886ac7de7f92d49": {
-    "url": "thecradlemedia/59270",
-    "title": "Saudi Arabia Backs Bahrain's Security Measures Amid IRGC Ties",
-    "published": "2026-05-09T17:07:38.116973+00:00"
-  },
-  "116824006eb5d6ad62952c44fd6e6e354c24ae1a33292814111ad9bcfe2c9c3e": {
-    "url": "https://tass.com/politics/2129023",
-    "title": "Kremlin aide believes Trump\u2019s hopes for longer ceasefire with Kiev are unfounded",
-    "published": "2026-05-09T15:17:41+00:00"
-  },
-  "cb1b67760589d6e8ff8eb1917505391ab6aa74119f1fd403b9a1ea996b4a59e7": {
-    "url": "DDGeopolitics/183795",
-    "title": "US and Soviet Forces Commemorate Elbe River Link-up at WWII Memorial",
-    "published": "2026-05-09T15:03:50.859730+00:00"
-  },
-  "9829c9776f03b7f32808fd9a9d668b38066b47583b7b66cd4e36c94d56e8cbff": {
-    "url": "QudsNen/222615",
-    "title": "Israeli Airstrike Kills Displaced Civilians in Lebanon's Saksakiyah",
-    "published": "2026-05-09T15:02:22.623513+00:00"
-  },
-  "ad33eb751f41d3231efd21cf5e0131f077605e1030d70af0134103382d70a484": {
-    "url": "QudsNen/222616",
-    "title": "Drones Strike Near Israeli Settlement in Occupied Palestine",
-    "published": "2026-05-09T15:01:22.324512+00:00"
-  },
-  "e9e5af6ed6151f15d1537cd934ba4c6198363116d426d87877181a6653553e64": {
-    "url": "thecradlemedia/59268",
-    "title": "Hezbollah Drone Spotted Over Upper Galilee",
-    "published": "2026-05-09T15:00:29.131133+00:00"
   }
 }
