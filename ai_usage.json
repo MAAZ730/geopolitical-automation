@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2923,
+  "total_calls": 2927,
   "tiers": {
-    "groq": 2904,
+    "groq": 2908,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-08T15:47:36.068056+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-08T15:48:08.744239+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-08T15:49:02.215403+00:00",
-      "tier": "groq",
-      "article": "US launches new strikes on Iran: As it happened"
-    },
-    {
-      "timestamp": "2026-05-08T15:49:55.583494+00:00",
-      "tier": "groq",
-      "article": "Tehran calls on UN to reject US-Bahrain res. on Hormuz Strait"
-    },
     {
       "timestamp": "2026-05-08T17:26:03.262986+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-10T22:56:43.226043+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-11T03:54:38.660633+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-11T03:55:11.382246+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-11T03:55:57.651229+00:00",
+      "tier": "groq",
+      "article": "Hezbollah fighters targeted a gathering of Israeli occupation army soldiers in Deir Siryan, Jall Al-Alam site, Khallat Raj in Deir Siryan with several drone strikes: Military Media Statements 14 to 16 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-11T03:56:47.263012+00:00",
+      "tier": "groq",
+      "article": "Victory Day celebrations in Europe marred by pro-Ukraine provocations (VIDEOS)"
     }
   ]
 }
