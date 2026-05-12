@@ -1,4 +1,34 @@
 {
+  "06b8a3c2f7a5ad6c8b15123f5721913b8045c85d177cbeae2e752b5b5254fcb6": {
+    "url": "presstv/189482",
+    "title": "US-Iran Conflict Complicates Regional Dynamics",
+    "published": "2026-05-12T06:54:08.304865+00:00"
+  },
+  "88f32d7886eda9fb4b7eecd4e52dbdd2a903c7edcb835dd58dbfaf0297f353f3": {
+    "url": "presstv/189483",
+    "title": "Israeli Warplanes Strike Building in Southern Lebanon, Wounding Paramedics",
+    "published": "2026-05-12T06:52:54.935132+00:00"
+  },
+  "f5cb512683e78e9d47fa57da2eca2b5efe151dc56306caf7fcb2c07022bbe0aa": {
+    "url": "DDGeopolitics/183937",
+    "title": "Trump Jokes About Bird Being Mistaken for Drone",
+    "published": "2026-05-12T06:49:50.595431+00:00"
+  },
+  "da05a7ad365d571c7e40d0aaec0769b8c2a78824fa04780be02463b58f6eebf4": {
+    "url": "QudsNen/222951",
+    "title": "Israeli Airstrike Causes Widespread Destruction in Sohmor, Lebanon",
+    "published": "2026-05-12T06:49:11.946338+00:00"
+  },
+  "58b6215178e9e16cad1fb442cc52105e6f16b7f4908680f8da4e680b0348ac8a": {
+    "url": "thecradlemedia/59388",
+    "title": "UAE Secretly Participates in US-Israeli Attacks on Iran's Lavan Island Refinery",
+    "published": "2026-05-12T06:48:24.733849+00:00"
+  },
+  "0948ea3f24e43b5ee15d7ce24e111365a3878dd32da064afe27b755b3d9b1d5b": {
+    "url": "thecradlemedia/59389",
+    "title": "US Releases 53.3 Million Barrels from Strategic Reserve Amid Rising Oil Prices",
+    "published": "2026-05-12T06:48:23.629766+00:00"
+  },
   "8b42747e632285e1c8eb5dc3f3b8f0f56e04f11cf238fe43973bdec8ac011e15": {
     "url": "wargonzo/34094",
     "title": "Ukrainian Drone Pilot Targets Zaporizhzhia Region in Retaliation",
@@ -228,6 +258,11 @@
     "url": "https://en.mehrnews.com/news/244414/EU-backs-political-diplomatic-solution-btw-Iran-US-Kallas",
     "title": "EU backs political-diplomatic solution btw Iran, US: Kallas",
     "published": "2026-05-11T09:25:31+00:00"
+  },
+  "d33b11ba50edd7e0566b8005a0074b1ceb6e3ad26bc3e5135bf16d23ed1000ae": {
+    "url": "https://tass.com/world/2129393",
+    "title": "Stubb agrees EU must start dialogue with Russia, but mediator still unknown",
+    "published": "2026-05-11T08:23:04+00:00"
   },
   "b287f65d5c8158c7543f892efc57d940c3ad93b1061d8402f9083570883f191b": {
     "url": "BellumActaNews/172569",
@@ -713,40 +748,5 @@
     "url": "presstv/189136",
     "title": "India Tests Advanced Angi Missile with MIRV Capability",
     "published": "2026-05-09T21:03:34.711287+00:00"
-  },
-  "6f9d0a5e9a9ee39fb8b19e8a3bf9db8bbca8661ebe912d0dbcb3a31f86225e39": {
-    "url": "presstv/189149",
-    "title": "Palestine Marathon Returns After Gaza Conflict",
-    "published": "2026-05-09T21:01:01.626585+00:00"
-  },
-  "f2aca090ffd8e1c19904369bfdf1ad798dc42f65ff8c93ba8426cc4ea155a625": {
-    "url": "Middle_East_Spectator/31924",
-    "title": "Putin Predicts End to Ukraine Conflict",
-    "published": "2026-05-09T20:55:22.702858+00:00"
-  },
-  "38cedebea0ae6a5137d8cfd37d7b656d0264634c19b802188c679d4cb61a7378": {
-    "url": "thecradlemedia/59260",
-    "title": "Israeli Drone Strike Hits Commercial District in Tyre, Lebanon",
-    "published": "2026-05-09T20:54:50.635734+00:00"
-  },
-  "6701382dbaf7c51c28de488e2aea80732776adcb9dc287a82e491b9443ef1127": {
-    "url": "thecradlemedia/59261",
-    "title": "Israeli Aerial Attacks in Southern Lebanon Leave Multiple Dead",
-    "published": "2026-05-09T20:54:48.818307+00:00"
-  },
-  "43bd1659a572690177e31149f7e01e429cbe90edff28bc9644ce3ac60d2f8a8c": {
-    "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-    "title": "Lebanon says Israeli strikes killed 39",
-    "published": "2026-05-09T19:49:49+00:00"
-  },
-  "c811855a4e3ae3490c3045946789eb729709a6dcf81e303a3107403bc7314708": {
-    "url": "presstv/189140",
-    "title": "Israeli Airstrike Devastates Bedyas in Southern Lebanon",
-    "published": "2026-05-09T19:20:17.039582+00:00"
-  },
-  "982701913ec0dc79dfa2dccd78f0752c510510f655f225d191be0af1eee81688": {
-    "url": "presstv/189143",
-    "title": "Hezbollah Drone Targets Israeli Soldiers",
-    "published": "2026-05-09T19:19:51.394965+00:00"
   }
 }

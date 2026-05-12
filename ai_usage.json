@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2959,
+  "total_calls": 2963,
   "tiers": {
-    "groq": 2940,
+    "groq": 2944,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-09T13:27:16.793089+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-09T13:27:33.535033+00:00",
-      "tier": "groq",
-      "article": "VIDEO: 26 female teachers killed in US attack on Minab School"
-    },
-    {
-      "timestamp": "2026-05-09T13:27:55.606107+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-09T13:28:11.743209+00:00",
-      "tier": "groq",
-      "article": "Rubio\u2019s role in US administration diminishing, despite his broad powers \u2014 former diplomat"
-    },
     {
       "timestamp": "2026-05-09T14:58:26.346922+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-12T03:43:08.552437+00:00",
       "tier": "groq",
       "article": "EU backs political-diplomatic solution btw Iran, US: Kallas"
+    },
+    {
+      "timestamp": "2026-05-12T06:46:09.049032+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-12T06:46:41.967440+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-12T06:47:28.310166+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-12T06:48:16.703335+00:00",
+      "tier": "groq",
+      "article": "Stubb agrees EU must start dialogue with Russia, but mediator still unknown"
     }
   ]
 }
