@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2963,
+  "total_calls": 2967,
   "tiers": {
-    "groq": 2944,
+    "groq": 2948,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-09T14:58:26.346922+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-09T14:58:59.363735+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-09T14:59:15.129913+00:00",
-      "tier": "groq",
-      "article": "In photos: Memorial held for Martyr Ali Larijani"
-    },
-    {
-      "timestamp": "2026-05-09T14:59:32.332305+00:00",
-      "tier": "groq",
-      "article": "Greece recovers Ukrainian naval kamikaze drone \u2013 Reuters"
-    },
     {
       "timestamp": "2026-05-09T17:05:45.726775+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-12T06:48:16.703335+00:00",
       "tier": "groq",
       "article": "Stubb agrees EU must start dialogue with Russia, but mediator still unknown"
+    },
+    {
+      "timestamp": "2026-05-12T10:38:57.970895+00:00",
+      "tier": "groq",
+      "article": "Two civilians killed, eight injured in Ukraine strikes on Belgorod Region in past 24 hours"
+    },
+    {
+      "timestamp": "2026-05-12T10:39:34.277416+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-12T10:39:50.736647+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-12T10:40:31.392534+00:00",
+      "tier": "groq",
+      "article": "New support programs for damaged industries, low-income households on agenda"
     }
   ]
 }
