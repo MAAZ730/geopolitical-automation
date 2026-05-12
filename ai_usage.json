@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2955,
+  "total_calls": 2959,
   "tiers": {
-    "groq": 2936,
+    "groq": 2940,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-09T11:05:37.323220+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-09T11:06:09.710067+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-09T11:06:26.082799+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-09T11:07:09.269549+00:00",
-      "tier": "groq",
-      "article": "Germany\u2019s Wadephul backs efforts to weaken EU dissenters"
-    },
     {
       "timestamp": "2026-05-09T13:27:16.793089+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-11T23:05:33.955224+00:00",
       "tier": "groq",
       "article": "Israel will not cease fighting Hezbollah for a peace deal with Iran \u2014 Netanyahu"
+    },
+    {
+      "timestamp": "2026-05-12T03:42:12.981302+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-12T03:42:29.322268+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-12T03:42:52.344253+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-12T03:43:08.552437+00:00",
+      "tier": "groq",
+      "article": "EU backs political-diplomatic solution btw Iran, US: Kallas"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "8b42747e632285e1c8eb5dc3f3b8f0f56e04f11cf238fe43973bdec8ac011e15": {
+    "url": "wargonzo/34094",
+    "title": "Ukrainian Drone Pilot Targets Zaporizhzhia Region in Retaliation",
+    "published": "2026-05-12T03:52:04.708442+00:00"
+  },
+  "e58aa18d07f014ab85f4dc5fda128ab8d95bf5d2664137479dd93186305e52c8": {
+    "url": "Slavyangrad/163967",
+    "title": "Ukrainian Businessman Charged with Animal Abuse in Hawaii",
+    "published": "2026-05-12T03:46:32.098802+00:00"
+  },
+  "e042025a748310d971c117e4fdf3ab0eef6dc4f27d4db2d748afe69f6efdb15b": {
+    "url": "Slavyangrad/163970",
+    "title": "Iran's Missile Basing Strategy: A Difficult Target for Adversaries",
+    "published": "2026-05-12T03:45:49.263489+00:00"
+  },
+  "4e129d3e2bb89f65da307580063547ad73abdd07e7a3c63709c7037ed8984d06": {
+    "url": "DDGeopolitics/183934",
+    "title": "Zelensky's Peace Deal Sparks Fears of Domestic Backlash",
+    "published": "2026-05-12T03:44:49.410429+00:00"
+  },
+  "34a4bd9a6765c0294fcbcfe28cddf4a9f1d0b0117febeb2a7c8c0a565434afdf": {
+    "url": "QudsNen/222949",
+    "title": "US, Iran Remain Locked in Tense Standoff Over Nuclear Program, Strait of Hormuz",
+    "published": "2026-05-12T03:43:16.516100+00:00"
+  },
+  "4f42049628b77bf97179af7a98edf6f66147e28cc9abf77f72638adc84cca04a": {
+    "url": "Middle_East_Spectator/31973",
+    "title": "Trump Weighs Resumption of Combat Operations Against Iran Amid Stalled Nuclear Talks",
+    "published": "2026-05-12T03:43:13.370430+00:00"
+  },
   "88867e8d01ac702ea377ce135ab194618178cdd1ed1742e7b08b24e0b7519cf7": {
     "url": "wargonzo/34108",
     "title": "Donbass Half-Marathon Honors Victory Day and Republic Day",
@@ -193,6 +223,11 @@
     "url": "https://thecradle.co/articles-id/37620",
     "title": "Israeli army probes Hezbollah strike on Iron Dome battery, crew",
     "published": "2026-05-11T09:28:44+00:00"
+  },
+  "7bf8ae7be90f94544722a1c1b666e736ef76c185db685549355fa655aa0887cb": {
+    "url": "https://en.mehrnews.com/news/244414/EU-backs-political-diplomatic-solution-btw-Iran-US-Kallas",
+    "title": "EU backs political-diplomatic solution btw Iran, US: Kallas",
+    "published": "2026-05-11T09:25:31+00:00"
   },
   "b287f65d5c8158c7543f892efc57d940c3ad93b1061d8402f9083570883f191b": {
     "url": "BellumActaNews/172569",
@@ -713,40 +748,5 @@
     "url": "presstv/189143",
     "title": "Hezbollah Drone Targets Israeli Soldiers",
     "published": "2026-05-09T19:19:51.394965+00:00"
-  },
-  "a30b3c95d9edad6432a9b7f62e499e32d99608ec406babffffcb33379ec5b73a": {
-    "url": "presstv/189144",
-    "title": "Iranian Girl Participates in Nationwide Rallies in Support of Armed Forces",
-    "published": "2026-05-09T19:17:20.246508+00:00"
-  },
-  "294f2de1158b09658760ad61a119d8fa128be80f925b6ddd86668eae28ec6fde": {
-    "url": "DDGeopolitics/183819",
-    "title": "Russia Deploys Drone to Deliver Flowers to Kherson Memorial",
-    "published": "2026-05-09T19:16:38.231438+00:00"
-  },
-  "375d5e51189ea3a87cfe97678970529f9f1cbfd932c95b674c49d29fb18f33d5": {
-    "url": "thecradlemedia/59263",
-    "title": "Sirens Sound in Arab al-Aramshe Amid Reports of Possible Drone Infiltration from Lebanon",
-    "published": "2026-05-09T19:11:48.524210+00:00"
-  },
-  "1989be1e4c14afa7f638172bf05c568b6aea39d0f67465286322bfb493d43501": {
-    "url": "thecradlemedia/59278",
-    "title": "Hezbollah's Unconventional War in Southern Lebanon",
-    "published": "2026-05-09T19:11:46.616278+00:00"
-  },
-  "dc1268025c1acab05454eb539bd670308231f5ee8c024201483afbe78211e665": {
-    "url": "DDGeopolitics/183822",
-    "title": "Moldovan Veteran Completes Victory March in Chisinau",
-    "published": "2026-05-09T17:12:22.561752+00:00"
-  },
-  "affa043a737590bf1201c1fe6b73648a1a0287336455b80a058632b139f24eb8": {
-    "url": "QudsNen/222638",
-    "title": "Israeli Airstrike Hits House in Southern Lebanon",
-    "published": "2026-05-09T17:11:23.709557+00:00"
-  },
-  "68bd456f25721c3e41e013e7258b386268d2a6fd665a10ee63dde349f4f011f8": {
-    "url": "Middle_East_Spectator/31918",
-    "title": "Hezbollah Releases Drone Footage of Israeli Soldier Engagements",
-    "published": "2026-05-09T17:10:22.534520+00:00"
   }
 }
