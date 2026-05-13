@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3007,
+  "total_calls": 3011,
   "tiers": {
-    "groq": 2988,
+    "groq": 2992,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-10T17:05:05.293894+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-10T17:05:38.316705+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-10T17:06:25.105563+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-10T17:06:41.694587+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-10T19:15:22.127047+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-13T21:35:12.076382+00:00",
       "tier": "groq",
       "article": "Tehran, Minsk eye expanding scientific cooperation"
+    },
+    {
+      "timestamp": "2026-05-13T23:11:07.086404+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-13T23:11:38.434510+00:00",
+      "tier": "groq",
+      "article": "Saudi Arabia launched \u2018tit-for-tat\u2019 strikes on Iran during US-Israeli war: Report"
+    },
+    {
+      "timestamp": "2026-05-13T23:11:55.419574+00:00",
+      "tier": "groq",
+      "article": "Saudi Arabia conducted covert strikes on Iran during Middle East war \u2013 Reuters"
+    },
+    {
+      "timestamp": "2026-05-13T23:12:38.706910+00:00",
+      "tier": "groq",
+      "article": "No US weapons to transit Hormuz Strait into reg. bases"
     }
   ]
 }
