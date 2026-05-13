@@ -1,4 +1,39 @@
 {
+  "a3ff4299329d416a04b222e51d5b9d573cb097d01dde458204eadd31263cf1ca": {
+    "url": "mod_russia_en/26963",
+    "title": "Russian Forces Disrupt Enemy Supply Lines in Zaporozhye Region",
+    "published": "2026-05-13T04:00:30.724243+00:00"
+  },
+  "b08e438f45ccd8ce4fc682d1f8910cc2bcd8f52e2513c1308ffc237881ef9a6b": {
+    "url": "RVvoenkor/114964",
+    "title": "Ukraine Expands Partnership with US AI Firm Palantir for War Against Russia",
+    "published": "2026-05-13T03:58:13.145018+00:00"
+  },
+  "d2f67e9ebc4bb19894e17d4d7b1906b28c491c02f46ed55738ac6a523effce2b": {
+    "url": "intelslava/87750",
+    "title": "US Official Mistakes Bird for Drone in Iraq",
+    "published": "2026-05-13T03:57:23.755968+00:00"
+  },
+  "9aeaa3a08cbb5834a6b527df5d29f343df0a3a82076c24d9910f1b3df7801649": {
+    "url": "presstv/189601",
+    "title": "Iranian Driver Displays Miniature Missile Replicas on Vehicle",
+    "published": "2026-05-13T03:53:40.059015+00:00"
+  },
+  "b39f85a52243c65470c0656241137f4e7d8d405ec66c69a10d1b5bd366e7a1e0": {
+    "url": "Middle_East_Spectator/32025",
+    "title": "Iranian Air Force Assets Relocated to Karachi Airport to Avoid Destruction",
+    "published": "2026-05-13T03:49:17.004584+00:00"
+  },
+  "66c10adc35627498234cd29ceda67efbc19104aad5d1dea979e10b488bd8aada": {
+    "url": "Middle_East_Spectator/32028",
+    "title": "US Firm's Yoga Pants Delivery Sparks Anti-Israeli Backlash in Israel",
+    "published": "2026-05-13T03:49:16.111535+00:00"
+  },
+  "fde7c18e21b8401f38e05653428cae2d714a8056021515862bc04bd060e33dfe": {
+    "url": "https://tass.com/world/2130075",
+    "title": "At least 13 people killed in Israeli airstrikes in southern Lebanon \u2014 health ministry",
+    "published": "2026-05-12T23:28:01+00:00"
+  },
   "ac60b4da78e5936a255b8359b62123e0fc60d3645dc4714cb76a9ac6a69b2a14": {
     "url": "presstv/189578",
     "title": "Protester Disrupts Reza Pahlavi's Speech in Iran",
@@ -158,6 +193,11 @@
     "url": "thecradlemedia/59420",
     "title": "Iranian Hackers Send Warning to Israeli Settlers Ahead of Potential Retaliation",
     "published": "2026-05-12T10:40:41.427117+00:00"
+  },
+  "3c87df24a6d2fe058cb01244039e69f9f797c40e81aea9ca5c7ffb8628fe51e6": {
+    "url": "https://en.mehrnews.com/news/244452/Resistance-costs-less-than-surrender-Hezbollah-chief",
+    "title": "Resistance costs less than surrender: Hezbollah chief",
+    "published": "2026-05-12T10:34:00+00:00"
   },
   "94e3cc0591bd72a0604ffd0bdd181f0b7837f2fd75e5c10dc5685c793393b3a1": {
     "url": "https://tass.com/politics/2129591",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/59302",
     "title": "Hezbollah Targets Israeli Merkava Tank in Southern Lebanon",
     "published": "2026-05-10T13:31:45.033010+00:00"
-  },
-  "abc8558e3ff5bd88973fd98a9139a769c36c1ca5b686d655757d1ea41c92282e": {
-    "url": "thecradlemedia/59303",
-    "title": "Israeli Airstrikes Hit Medical Facilities in Lebanon",
-    "published": "2026-05-10T13:30:12.970530+00:00"
-  },
-  "251ea1ed3501c164761eec5e7a8cbe0840b0321f926e9394f97f46f68e77f290": {
-    "url": "thecradlemedia/59305",
-    "title": "Iran Submits Response to US Proposal for Conflict Resolution",
-    "published": "2026-05-10T13:30:11.908785+00:00"
-  },
-  "bf3e5a60658b5c85326048033c1b9754a0f2584a906c81a2eb5abcfc3a926602": {
-    "url": "https://www.rt.com/news/639829-world-oil-reserves-draining/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Global oil inventories drain at record pace amid Hormuz disruption \u2013 Bloomberg",
-    "published": "2026-05-10T11:27:39+00:00"
-  },
-  "0c8a46a15abf07144743fee5440ebaaa5a14fd775cbb295ecbff743efcb0fdc4": {
-    "url": "https://www.rt.com/news/639822-victory-day-poland-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Victory Day celebrations in Europe marred by pro-Ukraine provocations (VIDEOS)",
-    "published": "2026-05-10T11:21:04+00:00"
-  },
-  "93d02500d6cb7bdf95df45d29177d4238ff812d29b837c73061dc95b5644c787": {
-    "url": "IntelRepublic/51409",
-    "title": "Iranian Missile Hits Israeli Train Station in Holon",
-    "published": "2026-05-10T11:15:52.751074+00:00"
-  },
-  "3838d706f55a4757e2a7369470ecc55b54560c0c30b5c898efbfc880540df877": {
-    "url": "intelslava/87692",
-    "title": "IRGC Targets Khalifan Area in Iraq",
-    "published": "2026-05-10T11:11:21.837053+00:00"
-  },
-  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
-    "url": "CensoredMen/189",
-    "title": "Iran Fires Missiles into Israeli Territory",
-    "published": "2026-05-10T11:10:55.934762+00:00"
-  },
-  "13c388c281cde08e6f1bbf4eace1cfd77260daeaf0637320482e4d7cf14bb685": {
-    "url": "QudsNen/222701",
-    "title": "Israeli Airstrike Kills Palestinian in Khan Younis",
-    "published": "2026-05-10T11:08:01.042311+00:00"
   }
 }

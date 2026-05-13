@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2983,
+  "total_calls": 2987,
   "tiers": {
-    "groq": 2964,
+    "groq": 2968,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-10T03:40:16.905604+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-10T03:40:53.896900+00:00",
-      "tier": "groq",
-      "article": "Israel built secret base in Iraq to bomb Iran \u2013 WSJ"
-    },
-    {
-      "timestamp": "2026-05-10T03:41:40.311536+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-10T03:41:56.354152+00:00",
-      "tier": "groq",
-      "article": "Europe has become tired of Zelensky's lectures, his harsh tone \u2014 Politico"
-    },
     {
       "timestamp": "2026-05-10T06:39:44.166665+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-12T23:12:26.857263+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-13T03:47:43.051614+00:00",
+      "tier": "groq",
+      "article": "At least 13 people killed in Israeli airstrikes in southern Lebanon \u2014 health ministry"
+    },
+    {
+      "timestamp": "2026-05-13T03:48:15.624344+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-13T03:48:31.717260+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-13T03:49:10.849019+00:00",
+      "tier": "groq",
+      "article": "Resistance costs less than surrender: Hezbollah chief"
     }
   ]
 }
