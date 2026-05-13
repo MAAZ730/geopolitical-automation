@@ -1,4 +1,39 @@
 {
+  "7f699d3c00a26c1ff7814d31fef91a0596612a4d94215494a3476716c6959017": {
+    "url": "militarywave/23725",
+    "title": "Russia's SMO Veterans Rebuild Lives Amid Adversity",
+    "published": "2026-05-13T21:39:53.944939+00:00"
+  },
+  "b87490ab74c908fd82541846dd4a85446165d5e3e297b6ea50d01180620c4628": {
+    "url": "militarywave/23727",
+    "title": "Jewelry Store Robbery Foiled in Bradford",
+    "published": "2026-05-13T21:39:00.850860+00:00"
+  },
+  "0584911822c60e49eef3c7efae8520f0e8dfed19ab50240559d9d5513c60aaad": {
+    "url": "DDGeopolitics/184022",
+    "title": "Uzhgorod Hit by Drone Strike for First Time Since War Began",
+    "published": "2026-05-13T21:38:01.690924+00:00"
+  },
+  "30d0bf912814141fd1ab623f322ea033e9068fe81c0939ee57a64d23e1aa3937": {
+    "url": "DDGeopolitics/184026",
+    "title": "Shooting Incident Rocks Philippine Senate Amid ICC Warrant for Senator",
+    "published": "2026-05-13T21:36:16.366257+00:00"
+  },
+  "dcc10ed18cda5d63cd2cdcfb197aeea4cef1e2eac95346c653c6c74ef0d95151": {
+    "url": "thecradlemedia/59528",
+    "title": "Israel Organ Theft Scandal Exposes Desecration Concerns",
+    "published": "2026-05-13T21:35:26.032880+00:00"
+  },
+  "679fe3586ce6ace9daf8f324086211e5d949a4e3324f13f00a71b7a76f80c52f": {
+    "url": "thecradlemedia/59533",
+    "title": "Israeli Warplane Targets Residential Building in Lebanon, Killing Family Members",
+    "published": "2026-05-13T21:35:22.715142+00:00"
+  },
+  "97e198ca76ee710e74a9a3941782387c53af7112837f2ca931e95d970642518d": {
+    "url": "https://english.almanar.com.lb/article/71947/",
+    "title": "Israeli Enemy Commits Massacre against Civilians in Arab Salim Town, South Lebanon - Al-Manar TV Lebanon",
+    "published": "2026-05-13T18:47:14+00:00"
+  },
   "4c1a1b27619aac173d8975bcacf09cad37e66f0ef16b9f384af2d594b13af808": {
     "url": "DDGeopolitics/184028",
     "title": "Slovakia Closes Border Checkpoints with Ukraine Amid Drone Attacks",
@@ -38,6 +73,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/church-leaders-killed-in-latest-ethnic-violence-in-indias-manipur?traffic_source=rss",
     "title": "Church leaders killed in latest ethnic violence in India\u2019s Manipur",
     "published": "2026-05-13T17:08:23+00:00"
+  },
+  "849dcad43715cd1fc9a020675c6bfc1b802fbd3124ed5a447003f790ce00bc08": {
+    "url": "https://tass.com/world/2130449",
+    "title": "US attack would cause humanitarian catastrophe, Cuban foreign minister warns",
+    "published": "2026-05-13T15:03:22+00:00"
   },
   "869ec2adb542e811bcc4e6f18aef32b295cacfebbf11f7b919495a38a662b4f9": {
     "url": "thecradlemedia/59494",
@@ -108,6 +148,11 @@
     "url": "thecradlemedia/59483",
     "title": "Israel's Lebanon Campaign Falters as Hezbollah Drone Capabilities Prove Elusive",
     "published": "2026-05-13T10:37:06.346936+00:00"
+  },
+  "7cbaed06117d95905e358b4eff870e5bc0ea694a6a1c5cdd227d58f07f5221c0": {
+    "url": "https://en.mehrnews.com/news/244485/Tehran-Minsk-eye-expanding-scientific-cooperation",
+    "title": "Tehran, Minsk eye expanding scientific cooperation",
+    "published": "2026-05-13T10:13:09+00:00"
   },
   "a84856896789a5a37b1c5ae3d7ac3fe06e5241826aa8694471d2f97c75cf608a": {
     "url": "Slavyangrad/164051",
@@ -703,50 +748,5 @@
     "url": "QudsNen/222773",
     "title": "Netanyahu Blames Foreign Influence for Waning US Support for Israel",
     "published": "2026-05-11T03:59:56.554697+00:00"
-  },
-  "84b66a09deae2e94f6bb5691812672e9b101f7eafd8b9dc4388aa90d9cbbda8d": {
-    "url": "QudsNen/222774",
-    "title": "Israeli Artillery Strikes Gaza City",
-    "published": "2026-05-11T03:56:56.246839+00:00"
-  },
-  "48afe9d25fc461888bcca1b62a70c7830ac32b97a32175dd9d2becaf346e0e0b": {
-    "url": "https://tass.com/world/2129371",
-    "title": "Israel will not cease fighting Hezbollah for a peace deal with Iran \u2014 Netanyahu",
-    "published": "2026-05-11T02:46:21+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel Steps Up Strikes on Lebanon Amid Iran Ceasefire",
-    "published": "2026-05-10T23:09:31.080708+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
-    "published": "2026-05-10T23:06:55.653399+00:00"
-  },
-  "2c6216a69345cb92a1ceab7800e6de3c213105d4867002742b92c6986d3709f1": {
-    "url": "presstv/189299",
-    "title": "Iran Rebuilds Infrastructure Damaged in US-Israeli Conflict",
-    "published": "2026-05-10T23:06:36.885439+00:00"
-  },
-  "3f8e125aa29d30ba1e17f8f81a9e98c65598607ba1b0a83890604b30ca63fffd": {
-    "url": "QudsNen/222768",
-    "title": "Iranian Air Defenses Down Hostile Drone Over Southwestern Iran",
-    "published": "2026-05-10T22:57:29.164419+00:00"
-  },
-  "8b56b2613661b2429413eef8d56c7b8e209847903783a5daf4e3fb0bf7da3fc5": {
-    "url": "QudsNen/222770",
-    "title": "Iran Rejects US Proposal, Demands Sanctions Relief and War Reparations",
-    "published": "2026-05-10T22:56:51.267011+00:00"
-  },
-  "0db201fc4559edfb0b6e60213979c6808392cc6fdcf7f33696b41590ed270179": {
-    "url": "thecradlemedia/59316",
-    "title": "Hezbollah, Israel Refine Military Strategies Amid Ongoing Tensions",
-    "published": "2026-05-10T22:56:47.727812+00:00"
-  },
-  "ab01e72ad2aa91fc1a1f9ea71f3c5fb553941cf5cb1919da4af7dd655b59c868": {
-    "url": "CyberspecNews/107106",
-    "title": "Russia Unveils Automated Anti-Drone System with Quad-Drones",
-    "published": "2026-05-10T21:08:29.552362+00:00"
   }
 }
