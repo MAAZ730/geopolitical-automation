@@ -1,4 +1,39 @@
 {
+  "a84856896789a5a37b1c5ae3d7ac3fe06e5241826aa8694471d2f97c75cf608a": {
+    "url": "Slavyangrad/164051",
+    "title": "Russian Hackers Compromise Ukrainian Shopping Center Security Cameras",
+    "published": "2026-05-13T07:08:03.596146+00:00"
+  },
+  "2828d9c1a1d9f6a2014269f2ec5b7e2d6ade23c7151f837157307220e2e05ac4": {
+    "url": "boris_rozhin/210443",
+    "title": "Russian Drone Operators Target Ukrainian Logistics Groups",
+    "published": "2026-05-13T07:05:23.199872+00:00"
+  },
+  "3f27bf0fab881a8e44474adf7b058bcd82eaba6a8fe910ba8ae6267ef8ed08a0": {
+    "url": "QudsNen/223097",
+    "title": "Israeli Forces Detain Palestinian Youth in Dura Raid",
+    "published": "2026-05-13T06:59:37.833517+00:00"
+  },
+  "45107e143ab7acccc9f800b790535f6f85564779ad75332302c4d4981ad6106f": {
+    "url": "QudsNen/223098",
+    "title": "Israeli Settlers Raid Palestinian Home in Sinjil, Confiscate Livestock",
+    "published": "2026-05-13T06:59:03.315360+00:00"
+  },
+  "3ab819d4e07602d864df07c89ca78932ed8154e3121329e2e06727b885aecddd": {
+    "url": "Middle_East_Spectator/32020",
+    "title": "Iran Maintains Control Over Strategic Missile Sites Along Strait of Hormuz",
+    "published": "2026-05-13T06:58:28.089053+00:00"
+  },
+  "c3618708014d3fbb50c17baa8c892546a1d95c983dc14c2c1996a15be71cbb28": {
+    "url": "Middle_East_Spectator/32023",
+    "title": "Iranian C-130s Spotted in Pakistan Amid Regional Tensions",
+    "published": "2026-05-13T06:58:26.950715+00:00"
+  },
+  "61e3eaa2b231f3fca805cc5cf53f874331b393d1bef23047b3b3c75790a8e350": {
+    "url": "https://en.mehrnews.com/news/244474/13-Lebanese-killed-in-fresh-Israeli-strikes",
+    "title": "13 Lebanese killed in fresh Israeli strikes",
+    "published": "2026-05-13T05:13:17+00:00"
+  },
   "a3ff4299329d416a04b222e51d5b9d573cb097d01dde458204eadd31263cf1ca": {
     "url": "mod_russia_en/26963",
     "title": "Russian Forces Disrupt Enemy Supply Lines in Zaporozhye Region",
@@ -93,6 +128,11 @@
     "url": "thecradlemedia/59449",
     "title": "UAE-Syria Trade Surges as Investment Ties Deepen",
     "published": "2026-05-12T21:27:57.994995+00:00"
+  },
+  "6fd93176b351a912d6441eeb78e114980f21d78e33a47258bc305b300283280c": {
+    "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+    "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+    "published": "2026-05-12T20:00:05+00:00"
   },
   "c77f3f63b79fbdf31d9afb6b2955ee89a5f08379ce86fd510fe18033131e7888": {
     "url": "QudsNen/223046",
@@ -708,45 +748,5 @@
     "url": "IntelRepublic/51403",
     "title": "Hezbollah Rocket Lands in Israeli City of Nahariyya",
     "published": "2026-05-10T15:10:06.362484+00:00"
-  },
-  "d33732e82778c7475ca209161e9f8fce5988a0710290306a24eb1fc533fa5e37": {
-    "url": "IntelRepublic/51404",
-    "title": "Hezbollah Rockets Strike Northern Israel, Sparking Multiple Fires",
-    "published": "2026-05-10T15:09:42.314715+00:00"
-  },
-  "f14c446f4e30ecee8fca23fb686e896fbf87af77d4de4a79c94557f638bccbd3": {
-    "url": "BellumActaNews/172544",
-    "title": "Netanyahu Calls for Removal of Highly Enriched Uranium from Iran",
-    "published": "2026-05-10T15:06:16.085018+00:00"
-  },
-  "7f2962c89abf18953f4e07fea8492426c9b2f035e87577cd336e8d4411686c73": {
-    "url": "thecradlemedia/59311",
-    "title": "Israeli Army Chief Seeks Additional Troops Amid 'Multi-Front War'",
-    "published": "2026-05-10T15:03:14.976039+00:00"
-  },
-  "4251969389ad1b710b99d051b94f91afce266196f15cebe735219898148f88d4": {
-    "url": "thecradlemedia/59312",
-    "title": "Saudi Prince Warns of Israeli Plan to Spark War with Iran",
-    "published": "2026-05-10T15:03:12.264124+00:00"
-  },
-  "a5195156ee6a23cd955fcc3e78e1d7e51d8f968a0a45ec0ad520721da15090ff": {
-    "url": "mod_russia_en/26934",
-    "title": "Russian Troops Honour Military Heritage in Liberated Volnovakha",
-    "published": "2026-05-10T13:38:26.924012+00:00"
-  },
-  "d455bfdbcc354655ec4a736b7f33514c68cb0da07e72e685415ac5cee7847b0b": {
-    "url": "presstv/189256",
-    "title": "Iran Warns of Strait of Hormuz Risks for US-Sanctioning Nations",
-    "published": "2026-05-10T13:36:28.861421+00:00"
-  },
-  "bfb0fd03268885c59fc3f484a0db5eab671cfa9138d49ed6223aa3e8395daaf6": {
-    "url": "QudsNen/222713",
-    "title": "Israeli Forces Storm Palestinian Town of Doha",
-    "published": "2026-05-10T13:33:42.620930+00:00"
-  },
-  "b7bb1737598e31ed535a1561b15a4beb605aacf931738407e746c31574d8ddd7": {
-    "url": "thecradlemedia/59302",
-    "title": "Hezbollah Targets Israeli Merkava Tank in Southern Lebanon",
-    "published": "2026-05-10T13:31:45.033010+00:00"
   }
 }

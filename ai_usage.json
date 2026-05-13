@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 2987,
+  "total_calls": 2991,
   "tiers": {
-    "groq": 2968,
+    "groq": 2972,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-10T06:39:44.166665+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-10T06:40:16.846618+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-10T06:40:33.014623+00:00",
-      "tier": "groq",
-      "article": "Police neutralize 185 missiles during US-Israeli imposed war"
-    },
-    {
-      "timestamp": "2026-05-10T06:41:13.772222+00:00",
-      "tier": "groq",
-      "article": "Russia holds Victory Day parade on Moscow\u2019s Red Square"
-    },
     {
       "timestamp": "2026-05-10T09:46:08.260598+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-13T03:49:10.849019+00:00",
       "tier": "groq",
       "article": "Resistance costs less than surrender: Hezbollah chief"
+    },
+    {
+      "timestamp": "2026-05-13T06:57:19.520228+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-13T06:57:35.765409+00:00",
+      "tier": "groq",
+      "article": "Lebanon says two paramedics among 13 killed in Israeli strikes"
+    },
+    {
+      "timestamp": "2026-05-13T06:58:03.973442+00:00",
+      "tier": "groq",
+      "article": "13 Lebanese killed in fresh Israeli strikes"
+    },
+    {
+      "timestamp": "2026-05-13T06:58:21.830224+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
