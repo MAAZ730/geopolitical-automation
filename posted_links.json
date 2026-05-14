@@ -1,4 +1,44 @@
 {
+  "1066892f0eea5adeecdac47874aec1e5b1ae6a80e443e5594c163c6a64c30e87": {
+    "url": "BellumActaNews/172710",
+    "title": "US Tech Executives Meet with Chinese Leader in Beijing",
+    "published": "2026-05-14T14:36:24.100050+00:00"
+  },
+  "e9b37cb9a1d127b1da75abab1317fdea041b7af3f080d6afa074f5c05efafd5f": {
+    "url": "DDGeopolitics/184091",
+    "title": "Russian 'Gerbera' Drone Conducts Evasive Maneuvers off Odessa Coast",
+    "published": "2026-05-14T14:34:14.607299+00:00"
+  },
+  "23788bde85c1dfd7c82014a2a3f8b9ed8982a5ebe95319e82e57ac6b9f529569": {
+    "url": "QudsNen/223335",
+    "title": "Israeli Airstrike Devastates Residential Building in Kfar Melki, Lebanon",
+    "published": "2026-05-14T14:33:49.763445+00:00"
+  },
+  "30d246faa916e9bf37810f33304efbb4eacd36e4294c7050000a8a8f7b9010d8": {
+    "url": "QudsNen/223348",
+    "title": "Israeli Settlers Storm Al-Aqsa Mosque Compound Amid Heavy Security Presence",
+    "published": "2026-05-14T14:32:43.538451+00:00"
+  },
+  "5603994b306c52825edcf014b937d0a462856db9bb40762e216639786b506069": {
+    "url": "thecradlemedia/59582",
+    "title": "Iraq Turns to IMF as US-Israeli Pressure Campaign Against Iran Hits Energy Exports",
+    "published": "2026-05-14T14:31:48.892902+00:00"
+  },
+  "9ef118acc95bf7688680aaeab76a709c21c0709dba4c52fa13f729c025abc2f3": {
+    "url": "thecradlemedia/59596",
+    "title": "Iran Holds World Cup Send-Off Rally in Tehran",
+    "published": "2026-05-14T14:31:40.762468+00:00"
+  },
+  "19575fd739d000baf11b4daab6fb5a368ba4565881e86eb866bde8e436c3df6b": {
+    "url": "https://tass.com/politics/2130915",
+    "title": "Russian troops liberate Nikolayevka community in Donetsk region over past day \u2014 top brass",
+    "published": "2026-05-14T12:42:25+00:00"
+  },
+  "b712245748abb243f59f384baefa3335ba5959b807fcfa72640bc3e7f1fee7ff": {
+    "url": "https://english.almanar.com.lb/article/72412/",
+    "title": "Israel Enemy Expands Strikes Across South Lebanon and Western Bekaa in Ongoing Aggression - Al-Manar TV Lebanon",
+    "published": "2026-05-14T12:26:48+00:00"
+  },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
     "title": "Iran Fires Missiles into Israel Amid Heightened Tensions",
@@ -208,6 +248,11 @@
     "url": "https://www.rt.com/news/639942-saudi-covert-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Saudi Arabia conducted covert strikes on Iran during Middle East war \u2013 Reuters",
     "published": "2026-05-13T16:00:00+00:00"
+  },
+  "a5cd8f253771194d65d380a22a780adef2a21d2920620916f476eb3e759dd82b": {
+    "url": "https://en.irna.ir/news/86153807/Hezbollah-chief-hails-Iran-support-for-resistance-vows-not-to",
+    "title": "Hezbollah chief hails Iran support for resistance, vows not to surrender to Israel",
+    "published": "2026-05-13T15:49:37+00:00"
   },
   "849dcad43715cd1fc9a020675c6bfc1b802fbd3124ed5a447003f790ce00bc08": {
     "url": "https://tass.com/world/2130449",
@@ -703,50 +748,5 @@
     "url": "mod_russia_en/26949",
     "title": "Russian Forces Conduct Drone-Based Leaflet Drop in Zaporozhye Region",
     "published": "2026-05-11T20:12:09.445942+00:00"
-  },
-  "dc89828ab71e27c586f5e4660ce6f6599222f79642eaef2141fd35bba1f8c296": {
-    "url": "mod_russia_en/26950",
-    "title": "Russian Troops Evacuate Civilians from Settlement Near Contact Line",
-    "published": "2026-05-11T20:11:35.041256+00:00"
-  },
-  "eace8240088afa36b9aa7ac9c5dc6008b8bdbf360c6ba4eff24b694a7f07f048": {
-    "url": "militarywave/23716",
-    "title": "Rescue Mission Saves Entangled Seal in Baltic Sea",
-    "published": "2026-05-11T20:08:52.832867+00:00"
-  },
-  "615ead82f072b1cceae0fbd49a7aa93d0381270f7202f595b92b46a994980a1a": {
-    "url": "QudsNen/222904",
-    "title": "Israeli Settlers Expand Outpost on AlShararba Mountain in Nablus",
-    "published": "2026-05-11T20:05:06.095319+00:00"
-  },
-  "9b5bfeb3eee4fac7e21cff24205803fbf268a1e632852b1b9625d46b2c495f4c": {
-    "url": "thecradlemedia/59369",
-    "title": "EU Reinstates Trade Agreement with Syria Amid Ongoing Economic Crisis",
-    "published": "2026-05-11T20:04:41.133907+00:00"
-  },
-  "95ee340f0ba6e71316c0f002d721cb3582d9771f8101fa6b0cc9a96f69018410": {
-    "url": "thecradlemedia/59370",
-    "title": "Israeli Forces Conduct Raid in Jenin, Occupied West Bank",
-    "published": "2026-05-11T20:04:38.825511+00:00"
-  },
-  "bf9ec41c9b0017534c90010a198b033ddf453d5034df4b532f8a3b7e2c446e8c": {
-    "url": "Slavyangrad/163936",
-    "title": "Gaza Film Wins Bafta Award Amid Criticism of BBC's Initial Decision",
-    "published": "2026-05-11T18:11:35.597075+00:00"
-  },
-  "0ae1a31350ed935d96072c3d86c52a26a9e0df28d973c568eafe4ddaa2dad37f": {
-    "url": "intelslava/87725",
-    "title": "Russian Forces Intercept Ukrainian Kamikaze Drone",
-    "published": "2026-05-11T18:10:15.098988+00:00"
-  },
-  "de5a0786900dfa2ccd6e4ab689c53294431b5ede0b751cde8ebf1613ba06476a": {
-    "url": "presstv/189404",
-    "title": "Israeli Airstrike Hits Kafr Fila, Southern Lebanon",
-    "published": "2026-05-11T18:08:11.235442+00:00"
-  },
-  "9c84a5af9ad622dca28346efcc561ae3766e080c2fd959fa9838925c1cdc8d38": {
-    "url": "militarywave/23699",
-    "title": "Florida Wildfire Engulfs Over 20,000 Square Kilometers",
-    "published": "2026-05-11T18:07:38.614539+00:00"
   }
 }
