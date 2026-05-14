@@ -1,4 +1,34 @@
 {
+  "6efc5f7b8150924bf73c2813d7fda6b73c69c67af62ce5ed10f687cb678574e2": {
+    "url": "BellumActaNews/172677",
+    "title": "Trump Motorcade Clears Beijing Streets Ahead of Unknown Destination",
+    "published": "2026-05-14T03:52:47.531372+00:00"
+  },
+  "333edcb737f3b061af23018141e586ca5e50bdcde76354c71d353f171f5b6f56": {
+    "url": "DDGeopolitics/184048",
+    "title": "Missile Strikes Hit Kiev Amid Ongoing Conflict",
+    "published": "2026-05-14T03:51:42.591436+00:00"
+  },
+  "18fad448fa4b8fa4dde7eb831abba736f95f7248779f134f08dddba05c3bae6e": {
+    "url": "DDGeopolitics/184049",
+    "title": "US Journalist Covers China Amid Rising Diplomatic Tensions",
+    "published": "2026-05-14T03:51:25.887226+00:00"
+  },
+  "405e99712bea63d445d0d29069725ee2cb8277b31b2f2fb0dca17964c2b2fad3": {
+    "url": "DDGeopolitics/184052",
+    "title": "Missile Strike Rocks Kiev Amid Ongoing Conflict",
+    "published": "2026-05-14T03:49:28.097302+00:00"
+  },
+  "480ac00c86803dec6779bf7fa104766da7dadfbcc67c1347f208d7e487681ae9": {
+    "url": "thecradlemedia/59519",
+    "title": "WFP Cuts Food Aid in Syria Amid Funding Shortfall",
+    "published": "2026-05-14T03:48:12.744697+00:00"
+  },
+  "eb789d4387e05624dbc47bc618d0c56deb375b4a0532f4f91acd8da360cd2863": {
+    "url": "thecradlemedia/59521",
+    "title": "UK Court Designates Palestine Action Activists as Terrorists",
+    "published": "2026-05-14T03:48:11.565921+00:00"
+  },
   "f36475fa5b8bf563af7ab40e880f04e3425b2e77d6bc9254171ab1b3be1efcd1": {
     "url": "intelslava/87802",
     "title": "Ukraine Oil Depot Hit by Drone Strike in Zvyagel",
@@ -143,6 +173,11 @@
     "url": "thecradlemedia/59512",
     "title": "OPEC Cuts 2026 Oil Demand Forecast Amid US-Israeli Conflict Impact",
     "published": "2026-05-13T14:50:49.292024+00:00"
+  },
+  "3aca613f74fe3956c0b33eeea89e75e289a5d0eba51a62e130b00370c12eebd9": {
+    "url": "https://www.rt.com/news/639934-kuwait-iran-infiltration/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Kuwait accuses Iran of infiltration attempt on Bubiyan Island",
+    "published": "2026-05-13T11:55:29+00:00"
   },
   "959374102868ac4b0818e6ea7443e5fa35db52991829254803c2f9e1a751175f": {
     "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/59349",
     "title": "US Blockade Forces Iran to Rely on Caspian Sea for Supplies",
     "published": "2026-05-11T11:31:59.408729+00:00"
-  },
-  "0eedd1faa7e3688cb60d25e1f370fe36dd360891e2e020eccdea2e53506a6cf1": {
-    "url": "thecradlemedia/59352",
-    "title": "Turkish FM Heads to Qatar for Talks on Iran Conflict",
-    "published": "2026-05-11T11:31:57.009376+00:00"
-  },
-  "429fc9017ef97e689fbc1b8030e87713d802d12fefca9d260f837059e1fc1a90": {
-    "url": "https://www.tehrantimes.com/news/526301/New-support-programs-for-damaged-industries-low-income-households",
-    "title": "New support programs for damaged industries, low-income households on agenda",
-    "published": "2026-05-11T11:04:13+00:00"
-  },
-  "fe4347953486a3b4302972c2468f2884adac4d89ccc1e2ea4271e2a00e0d43e4": {
-    "url": "https://thecradle.co/articles-id/37620",
-    "title": "Israeli army probes Hezbollah strike on Iron Dome battery, crew",
-    "published": "2026-05-11T09:28:44+00:00"
-  },
-  "7bf8ae7be90f94544722a1c1b666e736ef76c185db685549355fa655aa0887cb": {
-    "url": "https://en.mehrnews.com/news/244414/EU-backs-political-diplomatic-solution-btw-Iran-US-Kallas",
-    "title": "EU backs political-diplomatic solution btw Iran, US: Kallas",
-    "published": "2026-05-11T09:25:31+00:00"
-  },
-  "d33b11ba50edd7e0566b8005a0074b1ceb6e3ad26bc3e5135bf16d23ed1000ae": {
-    "url": "https://tass.com/world/2129393",
-    "title": "Stubb agrees EU must start dialogue with Russia, but mediator still unknown",
-    "published": "2026-05-11T08:23:04+00:00"
-  },
-  "b287f65d5c8158c7543f892efc57d940c3ad93b1061d8402f9083570883f191b": {
-    "url": "BellumActaNews/172569",
-    "title": "Netanyahu Shifts Military Stance After Hamas Attack",
-    "published": "2026-05-11T08:06:20.091394+00:00"
-  },
-  "b5b45ffa88075e8095af7b76fdffee306261bd5acf4380980fb1bdaa668ad514": {
-    "url": "BellumActaNews/172570",
-    "title": "Netanyahu Warns of Regional Consequences of Iranian Regime Collapse",
-    "published": "2026-05-11T08:03:55.638806+00:00"
   }
 }

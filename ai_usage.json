@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3011,
+  "total_calls": 3015,
   "tiers": {
-    "groq": 2992,
+    "groq": 2996,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-10T19:15:22.127047+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-10T19:15:54.623795+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-10T19:16:11.058511+00:00",
-      "tier": "groq",
-      "article": "World\u2019s strongest junior weightlifter dedicates 3 gold medals to martyred Minab students"
-    },
-    {
-      "timestamp": "2026-05-10T19:16:47.736288+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Intel. Min. dismantles 2 Mossad-linked terrorist cells"
-    },
     {
       "timestamp": "2026-05-10T20:56:40.473590+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-13T23:12:38.706910+00:00",
       "tier": "groq",
       "article": "No US weapons to transit Hormuz Strait into reg. bases"
+    },
+    {
+      "timestamp": "2026-05-14T03:46:36.441707+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-14T03:46:52.527816+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-14T03:47:15.428002+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-14T03:48:05.663529+00:00",
+      "tier": "groq",
+      "article": "Kuwait accuses Iran of infiltration attempt on Bubiyan Island"
     }
   ]
 }
