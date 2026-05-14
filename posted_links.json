@@ -1,4 +1,34 @@
 {
+  "cdfaeaa9b4b4a850fc469bd563e7dbb8e9852209d236f6afba65edee4afb8898": {
+    "url": "militarywave/23733",
+    "title": "Syrian Soldier Finds Comfort in Toy Amid War-Time Losses",
+    "published": "2026-05-14T20:07:11.623568+00:00"
+  },
+  "f01668ca31987f1144515ddc49e30ee9a0948ceab2c47dea75f84a44635bf282": {
+    "url": "DDGeopolitics/184100",
+    "title": "Lebanon's Hezbollah Claims 33rd Israeli Tank Hit by Drone Strikes",
+    "published": "2026-05-14T20:06:19.706135+00:00"
+  },
+  "cf15b15d35727cd8e52090310f1133ef48031904c55fb712533c1b0186414d1e": {
+    "url": "DDGeopolitics/184108",
+    "title": "US Admiral Defends Military Campaign in Iran Amid Concerns Over Civilian Casualties",
+    "published": "2026-05-14T20:04:27.980437+00:00"
+  },
+  "08e7840fc413cbcaf92cb77e4e48df01c3300cbbd543278f6b3865bb6695a81c": {
+    "url": "QudsNen/223411",
+    "title": "Israeli Artillery Strikes Jabal Ali al-Taher with White Phosphorus",
+    "published": "2026-05-14T20:01:27.231252+00:00"
+  },
+  "c57bfff0b8fe42e3c9ca2a1161bd7b3c29d89f0bdb9e7164607187838998c478": {
+    "url": "thecradlemedia/59607",
+    "title": "US and Israeli Intelligence Assets Infiltrate Arab Central Banks",
+    "published": "2026-05-14T20:00:59.457416+00:00"
+  },
+  "d58911597fd0a9c955cb6070e6c738d881e63ad0d8583ce4afee2b809561fe1c": {
+    "url": "thecradlemedia/59609",
+    "title": "Saudi Arabia Seeks Non-Aggression Pact with Iran Amid Regional Tensions",
+    "published": "2026-05-14T20:00:57.453977+00:00"
+  },
   "45fc2b8bdad3ab812cf92be6d4d89388fb1266fd328b7be3466188b6b76acc2f": {
     "url": "DDGeopolitics/184105",
     "title": "Odessa Brawl Erupts Between Military Recruiters, Police, and Civilians",
@@ -198,6 +228,11 @@
     "url": "thecradlemedia/59523",
     "title": "Israeli Warplanes Strike Southern Lebanese Town of Nmairiyeh",
     "published": "2026-05-13T23:12:56.961914+00:00"
+  },
+  "dba37abf7653490ba64d9a795bcd80557d25643bde20a5cee43d96da090145eb": {
+    "url": "https://www.defensenews.com/news/your-military/2026/05/13/no-indo-pacific-peace-without-industry-surge-and-burden-sharing-us-general-says/",
+    "title": "No Indo-Pacific peace without industry surge and burden sharing, US general says",
+    "published": "2026-05-13T23:07:44+00:00"
   },
   "7f699d3c00a26c1ff7814d31fef91a0596612a4d94215494a3476716c6959017": {
     "url": "militarywave/23725",
@@ -713,40 +748,5 @@
     "url": "wargonzo/34108",
     "title": "Donbass Half-Marathon Honors Victory Day and Republic Day",
     "published": "2026-05-11T23:15:29.422925+00:00"
-  },
-  "004d3f815d33bd6ca5fea04ceecfdde68bf110f7b66629007b36334d15e0f1a2": {
-    "url": "two_majors/75043",
-    "title": "France Delivers CAESAR Self-Propelled Guns to Armenia Amid Strategic Partnership",
-    "published": "2026-05-11T23:14:53.029511+00:00"
-  },
-  "6f12cec6d4a2fc22f8971fb780c07d91a53f7c610fe6ab301981230bffe6f728": {
-    "url": "IntelRepublic/51420",
-    "title": "Iran Fires Missile Barrage Amid Trump-Era Retort",
-    "published": "2026-05-11T23:11:05.669915+00:00"
-  },
-  "bc9d56e1156c1212e92df1e30d7a38f23a0aa8bb72a883c754338788509f2227": {
-    "url": "CyberspecNews/107143",
-    "title": "Hezbollah UAVs Strike Israeli Armor in Lebanon",
-    "published": "2026-05-11T23:10:08.630936+00:00"
-  },
-  "3d3e0066559192ef71f454c586c15962b6bcb1519dfbbb2ff8e4d761623e07b8": {
-    "url": "QudsNen/222925",
-    "title": "Iran Parliament Speaker Warns of Consequences of Rejecting 14-Point Proposal",
-    "published": "2026-05-11T23:05:43.949258+00:00"
-  },
-  "f4810a02da821b8b9f98e88027495fa8488ebd57f14f003bca43f296acef9cf8": {
-    "url": "QudsNen/222933",
-    "title": "EU Imposes Sanctions on Israeli Settlers, Hamas",
-    "published": "2026-05-11T23:05:42.629464+00:00"
-  },
-  "7e10a0d9c572bfc0d7d4f3fa1afa503e9360b779d401a7978e35000ee035bd7e": {
-    "url": "https://tass.com/world/2129497",
-    "title": "UAE may have carried out strikes on Iranian territory \u2014 newspaper",
-    "published": "2026-05-11T22:33:59+00:00"
-  },
-  "35fb32d0a4d44fb8b159c872655ac397399add129abd09329b6566712c7cfdd6": {
-    "url": "CyberspecNews/107147",
-    "title": "Hezbollah Drone Enters Israeli Command Vehicle in Southern Lebanon",
-    "published": "2026-05-11T21:42:22.879638+00:00"
   }
 }
