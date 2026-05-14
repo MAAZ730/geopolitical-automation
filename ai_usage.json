@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3015,
+  "total_calls": 3019,
   "tiers": {
-    "groq": 2996,
+    "groq": 3000,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-10T20:56:40.473590+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-10T20:57:13.371694+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-10T20:58:00.065232+00:00",
-      "tier": "groq",
-      "article": "Hezbollah fighters targeted a Merkava tank at the Jall Al-Alam site and a gathering of IOF soldiers in Al-Bayyada with several drone strikes, and targeted another Merkava tank in Al-Bayyada, scoring confirmed hits: Military Media Statements 17 to 19 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-10T20:58:49.724918+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s rights body denounces Bahrain\u2019s citizenship annulment"
-    },
     {
       "timestamp": "2026-05-10T22:55:36.144259+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-14T03:48:05.663529+00:00",
       "tier": "groq",
       "article": "Kuwait accuses Iran of infiltration attempt on Bubiyan Island"
+    },
+    {
+      "timestamp": "2026-05-14T06:54:04.689644+00:00",
+      "tier": "groq",
+      "article": "Kyiv building collapses after Russian strike, reportedly trapping residents"
+    },
+    {
+      "timestamp": "2026-05-14T06:54:36.208792+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-14T06:55:22.483858+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-14T06:55:39.282229+00:00",
+      "tier": "groq",
+      "article": "Russia develops Svarog 1.0 drone carrier boat with operational range of up to 500 km"
     }
   ]
 }
