@@ -1,4 +1,34 @@
 {
+  "45fc2b8bdad3ab812cf92be6d4d89388fb1266fd328b7be3466188b6b76acc2f": {
+    "url": "DDGeopolitics/184105",
+    "title": "Odessa Brawl Erupts Between Military Recruiters, Police, and Civilians",
+    "published": "2026-05-14T18:08:57.149158+00:00"
+  },
+  "57b18a83cd600866bb15a6559a8c6940de161e6eebc164152b7f58bdc6b676de": {
+    "url": "DDGeopolitics/184110",
+    "title": "Trump Announces 200 Boeing Aircraft Deal with China Amid Airbus Dominance",
+    "published": "2026-05-14T18:04:19.807044+00:00"
+  },
+  "a679ad7e2b718373e9e723418b06ad185e64796e63f3c0c41df1e1c2f88f7ded": {
+    "url": "QudsNen/223371",
+    "title": "Israeli Settlers Detain Activists in Ramallah",
+    "published": "2026-05-14T18:02:25.432516+00:00"
+  },
+  "c75b9725977c28faf5d3f6d899b4f0036ad6bc0b3f3cbfc6b9cc6e1650d3269b": {
+    "url": "Middle_East_Spectator/32066",
+    "title": "Hezbollah Releases Drone Footage of Alleged Strikes on Israeli Targets",
+    "published": "2026-05-14T18:01:15.122096+00:00"
+  },
+  "9657aa5ffa20a79913deb86cf6e75e968f154863ee07c1218a8865d3240d589e": {
+    "url": "thecradlemedia/59610",
+    "title": "China-Linked Vessels Cross Hormuz Under Iranian Supervision",
+    "published": "2026-05-14T18:00:12.194144+00:00"
+  },
+  "f6144d69343abb9ceed5e0039ccb58b83b81925c725745ad9bd76bc561b995e0": {
+    "url": "thecradlemedia/59611",
+    "title": "China's Counter-Sanctions Shield: A Petroyuan Test in the Wake of the Iran War",
+    "published": "2026-05-14T18:00:11.110022+00:00"
+  },
   "1066892f0eea5adeecdac47874aec1e5b1ae6a80e443e5594c163c6a64c30e87": {
     "url": "BellumActaNews/172710",
     "title": "US Tech Executives Meet with Chinese Leader in Beijing",
@@ -718,35 +748,5 @@
     "url": "CyberspecNews/107147",
     "title": "Hezbollah Drone Enters Israeli Command Vehicle in Southern Lebanon",
     "published": "2026-05-11T21:42:22.879638+00:00"
-  },
-  "b7cc1e569e4000686bee34ec8c273843cee04f5d21a8207186e16c2c30807679": {
-    "url": "CyberspecNews/107157",
-    "title": "Russian Artillery Strike Hits Enemy Positions Near Kostiantynivka",
-    "published": "2026-05-11T21:40:25.440409+00:00"
-  },
-  "f1890a9b6b4dac7b67d84cbee6c21d426922200bea802bf91744f3c3bb08a618": {
-    "url": "mod_russia_en/26945",
-    "title": "Russian Troops Refine Assault Tactics in Special Military Operation Zone",
-    "published": "2026-05-11T21:39:31.239833+00:00"
-  },
-  "84bd1af57d00b566f0372e8877ab7a69f2e362665dbf489489ac2911005ff82f": {
-    "url": "Slavyangrad/163960",
-    "title": "Ukraine's Frontline Advances Amid Ongoing Technological Rivalry",
-    "published": "2026-05-11T21:37:39.929427+00:00"
-  },
-  "5ffb2e4609778573b46a1ce9070a60d0f3a93b277f223f7b3f46f2acfada0888": {
-    "url": "QudsNen/222928",
-    "title": "Israeli Naval Forces Open Fire on Western Gaza City",
-    "published": "2026-05-11T21:31:50.180655+00:00"
-  },
-  "8d54f0a2b0733cb818bbc30c025f6c3c28580415e45d4ce1f63f698fe73e7410": {
-    "url": "Middle_East_Spectator/31969",
-    "title": "Iran Considers Charging Fees to Subsea Internet Cable Operators",
-    "published": "2026-05-11T21:31:45.918636+00:00"
-  },
-  "b5d1225f9e08f641475d57594a31d8c35c06f56e65fbf71f32c5b5d71275d331": {
-    "url": "mod_russia_en/26949",
-    "title": "Russian Forces Conduct Drone-Based Leaflet Drop in Zaporozhye Region",
-    "published": "2026-05-11T20:12:09.445942+00:00"
   }
 }
