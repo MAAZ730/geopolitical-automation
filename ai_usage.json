@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3039,
+  "total_calls": 3043,
   "tiers": {
-    "groq": 3020,
+    "groq": 3024,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-11T18:02:50.410491+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-11T18:03:07.144474+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-11T18:03:23.058792+00:00",
-      "tier": "groq",
-      "article": "Israeli army probes Hezbollah strike on Iron Dome battery, crew"
-    },
-    {
-      "timestamp": "2026-05-11T18:03:42.693992+00:00",
-      "tier": "groq",
-      "article": "His father had just been buried. Then West Bank settlers forced him to dig up the body"
-    },
     {
       "timestamp": "2026-05-11T20:03:42.566449+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-14T21:18:11.934006+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-14T23:05:05.257805+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-14T23:05:38.448285+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-14T23:06:24.962145+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-14T23:07:16.279941+00:00",
+      "tier": "groq",
+      "article": "US Army recovers remains of second soldier reported missing during Moroccan exercise"
     }
   ]
 }

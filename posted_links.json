@@ -1,4 +1,34 @@
 {
+  "371d5a5ee3a1984193d0ac0acf449c7bcae3f5be2c4d29ae043cc70b712f8a45": {
+    "url": "mod_russia_en/26989",
+    "title": "Ukrainian Forces Launch Artillery Strikes on Enemy Positions in Eastern Ukraine",
+    "published": "2026-05-14T23:14:59.873792+00:00"
+  },
+  "a87e9b39249196c8f80c66b8fca0edf0c20582dec0e28fe3f8b8bf4929d8f57a": {
+    "url": "Slavyangrad/164199",
+    "title": "Hungary Demands Ceasefire from Russia over Zakarpattia Drone Attack",
+    "published": "2026-05-14T23:13:57.317534+00:00"
+  },
+  "f7a6e0609d893562dde1940aeb3684fc9379379125f4405584390d894005ac7c": {
+    "url": "Slavyangrad/164204",
+    "title": "Russian Jet Drone Spotted Engaging in Low-Altitude Maneuvers off Odessa Coast",
+    "published": "2026-05-14T23:11:58.598403+00:00"
+  },
+  "24a6a51a96245b2181fb8930b33eb69c03d924b92bdda45360c6f63cf1318cb3": {
+    "url": "presstv/189890",
+    "title": "US House Rejects War Powers Resolution on Iran",
+    "published": "2026-05-14T23:08:25.053667+00:00"
+  },
+  "d50d065309f6654d07ed26972d1d7890fda46fa59f2754c9e329415b0f5d3370": {
+    "url": "thecradlemedia/59600",
+    "title": "US Troop Deployment to Poland Canceled Amid NATO Tensions",
+    "published": "2026-05-14T23:07:29.472557+00:00"
+  },
+  "a82a512afc2e33ae42d43192666a47c2be7d896ee6371184e3d216f6a251879b": {
+    "url": "thecradlemedia/59602",
+    "title": "Lebanon, Israel Resume Direct Talks in Washington Amid Calls for Ceasefire",
+    "published": "2026-05-14T23:07:27.517546+00:00"
+  },
   "0bc1dece3611dda282bfc3b5129fe30cdf3f6dc6d532398be71763754623a98b": {
     "url": "Slavyangrad/164203",
     "title": "Ukrainian Journalist Warns of Corruption and Emigration",
@@ -228,6 +258,11 @@
     "url": "thecradlemedia/59521",
     "title": "UK Court Designates Palestine Action Activists as Terrorists",
     "published": "2026-05-14T03:48:11.565921+00:00"
+  },
+  "7e188e9c1e418410849ba3df762edd55906023b97d9deac23d6e6b157a842145": {
+    "url": "https://www.defensenews.com/news/your-military/2026/05/14/us-army-recovers-remains-of-second-soldier-reported-missing-during-moroccan-exercise/",
+    "title": "US Army recovers remains of second soldier reported missing during Moroccan exercise",
+    "published": "2026-05-14T00:38:08+00:00"
   },
   "f36475fa5b8bf563af7ab40e880f04e3425b2e77d6bc9254171ab1b3be1efcd1": {
     "url": "intelslava/87802",
@@ -713,40 +748,5 @@
     "url": "presstv/189482",
     "title": "US-Iran Conflict Complicates Regional Dynamics",
     "published": "2026-05-12T06:54:08.304865+00:00"
-  },
-  "88f32d7886eda9fb4b7eecd4e52dbdd2a903c7edcb835dd58dbfaf0297f353f3": {
-    "url": "presstv/189483",
-    "title": "Israeli Warplanes Strike Building in Southern Lebanon, Wounding Paramedics",
-    "published": "2026-05-12T06:52:54.935132+00:00"
-  },
-  "f5cb512683e78e9d47fa57da2eca2b5efe151dc56306caf7fcb2c07022bbe0aa": {
-    "url": "DDGeopolitics/183937",
-    "title": "Trump Jokes About Bird Being Mistaken for Drone",
-    "published": "2026-05-12T06:49:50.595431+00:00"
-  },
-  "da05a7ad365d571c7e40d0aaec0769b8c2a78824fa04780be02463b58f6eebf4": {
-    "url": "QudsNen/222951",
-    "title": "Israeli Airstrike Causes Widespread Destruction in Sohmor, Lebanon",
-    "published": "2026-05-12T06:49:11.946338+00:00"
-  },
-  "58b6215178e9e16cad1fb442cc52105e6f16b7f4908680f8da4e680b0348ac8a": {
-    "url": "thecradlemedia/59388",
-    "title": "UAE Secretly Participates in US-Israeli Attacks on Iran's Lavan Island Refinery",
-    "published": "2026-05-12T06:48:24.733849+00:00"
-  },
-  "0948ea3f24e43b5ee15d7ce24e111365a3878dd32da064afe27b755b3d9b1d5b": {
-    "url": "thecradlemedia/59389",
-    "title": "US Releases 53.3 Million Barrels from Strategic Reserve Amid Rising Oil Prices",
-    "published": "2026-05-12T06:48:23.629766+00:00"
-  },
-  "e0a082bfdfb6cbcc71fe238f8e00c1ff8a9fd7fc41efe34386c421a6cfce97f7": {
-    "url": "https://en.mehrnews.com/news/244442/SpaceX-launches-satellites-into-orbit-for-US-Intel-purposes",
-    "title": "SpaceX launches satellites into orbit for US Intel. purposes",
-    "published": "2026-05-12T04:15:33+00:00"
-  },
-  "8b42747e632285e1c8eb5dc3f3b8f0f56e04f11cf238fe43973bdec8ac011e15": {
-    "url": "wargonzo/34094",
-    "title": "Ukrainian Drone Pilot Targets Zaporizhzhia Region in Retaliation",
-    "published": "2026-05-12T03:52:04.708442+00:00"
   }
 }
