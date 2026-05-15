@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3071,
+  "total_calls": 3075,
   "tiers": {
-    "groq": 3052,
+    "groq": 3056,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-12T18:08:36.006943+00:00",
-      "tier": "groq",
-      "article": "New Israeli \u2018double tap\u2019 strike kills Lebanese paramedics amid attempts to expand occupation"
-    },
-    {
-      "timestamp": "2026-05-12T18:09:07.322751+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-12T18:09:23.666646+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-12T18:10:00.844397+00:00",
-      "tier": "groq",
-      "article": "SpaceX launches satellites into orbit for US Intel. purposes"
-    },
     {
       "timestamp": "2026-05-12T21:25:50.451792+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-15T21:14:37.441982+00:00",
       "tier": "groq",
       "article": "Trump in Beijing: America's weakest hand in century"
+    },
+    {
+      "timestamp": "2026-05-15T23:05:28.840008+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-15T23:06:04.012863+00:00",
+      "tier": "groq",
+      "article": "Zelenskyy vows response after Russian strike kills 24 in Kyiv"
+    },
+    {
+      "timestamp": "2026-05-15T23:06:50.413347+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-15T23:07:06.435432+00:00",
+      "tier": "groq",
+      "article": "Near Russian border, NATO grapples with ground robots in combat"
     }
   ]
 }
