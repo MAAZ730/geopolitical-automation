@@ -1,4 +1,34 @@
 {
+  "a5c0cc5be580b4961b0cfa67d3f0d05862fb10663bad5ee8a7a0f971fec07e4e": {
+    "url": "mod_russia_en/26973",
+    "title": "Russian Forces Disrupt AFU Reconnaissance Capabilities in Zaporozhye Region",
+    "published": "2026-05-15T03:58:02.777675+00:00"
+  },
+  "3722bd08c91f0d2165d5ebc03e7ef4c23f5a82f2dbb74edc3287b312cecccf17": {
+    "url": "mod_russia_en/26980",
+    "title": "Russian Forces Target Enemy Positions in Zaporozhye Region",
+    "published": "2026-05-15T03:56:45.727467+00:00"
+  },
+  "aba57ab34b94f69b4d8339a3df00feb2c7bafbb033e89a35edd66935433ec553": {
+    "url": "Slavyangrad/164211",
+    "title": "Skyeton Drone Facility Damaged in Kiev",
+    "published": "2026-05-15T03:55:26.050084+00:00"
+  },
+  "736a880ab037a573d964cb54ed53c057bb6699ed2cb490275e211f1e5860cbaf": {
+    "url": "Middle_East_Spectator/32081",
+    "title": "IDF Deploys Anti-Drone Netting at Bases in Israel and Lebanon",
+    "published": "2026-05-15T03:55:01.055230+00:00"
+  },
+  "d81576572f23785af5f5689c64be2a9f0b776e0bf81dbd8f76cb1dd128e9c7df": {
+    "url": "Middle_East_Spectator/32090",
+    "title": "Trump Warns Iran's Missile Capabilities Will Be Neutralized",
+    "published": "2026-05-15T03:54:58.922427+00:00"
+  },
+  "e804eab2cccdb912d868997eec94fc57bed6407b659c9f200077dec071e8b93f": {
+    "url": "thecradlemedia/59599",
+    "title": "UAE-Iran Tensions Escalate Amid BRICS Summit",
+    "published": "2026-05-15T03:53:05.819337+00:00"
+  },
   "371d5a5ee3a1984193d0ac0acf449c7bcae3f5be2c4d29ae043cc70b712f8a45": {
     "url": "mod_russia_en/26989",
     "title": "Ukrainian Forces Launch Artillery Strikes on Enemy Positions in Eastern Ukraine",
@@ -188,6 +218,11 @@
     "url": "thecradlemedia/59564",
     "title": "Israeli Airstrikes Hit Risala Medical Center in Southern Lebanon",
     "published": "2026-05-14T10:30:34.113637+00:00"
+  },
+  "736c246d82aeb95f8998987626e723d457cc2409cb56cfdd3c98336b49152e31": {
+    "url": "https://en.mehrnews.com/news/244516/Unimpeded-maritime-flows-vital-for-intl-economic-well-being",
+    "title": "Unimpeded maritime flows vital for intl. economic well-being",
+    "published": "2026-05-14T09:49:16+00:00"
   },
   "50e3c775f409a1d609fc197915166662e78f13dee2747f5b846b94f95c1e55ee": {
     "url": "https://warontherocks.com/cogs-of-war/the-new-era-of-air-and-missile-defense/",
@@ -713,40 +748,5 @@
     "url": "QudsNen/222970",
     "title": "Israeli Airstrikes Devastate Residential Buildings in Jibchit, Lebanon",
     "published": "2026-05-12T10:41:32.361765+00:00"
-  },
-  "a70aa2fd1fad915707e7b35f389ec92e1eabc9a96bbcac53215867b25f5ac6a8": {
-    "url": "thecradlemedia/59401",
-    "title": "Israeli Airstrike Devastates Jebchit, Southern Lebanon",
-    "published": "2026-05-12T10:41:06.736697+00:00"
-  },
-  "e480dcd6c6129e459ac3ccdac335c9053d3f8ffa9a359a196b734137bd425f18": {
-    "url": "thecradlemedia/59418",
-    "title": "Israel Deploys Iron Dome Systems to UAE Amid Iran Tensions",
-    "published": "2026-05-12T10:40:43.000288+00:00"
-  },
-  "29c37dc898d7098f1f2d816194b4d3b26bc3b0dcd97258c2df7a4a591f071445": {
-    "url": "thecradlemedia/59420",
-    "title": "Iranian Hackers Send Warning to Israeli Settlers Ahead of Potential Retaliation",
-    "published": "2026-05-12T10:40:41.427117+00:00"
-  },
-  "3c87df24a6d2fe058cb01244039e69f9f797c40e81aea9ca5c7ffb8628fe51e6": {
-    "url": "https://en.mehrnews.com/news/244452/Resistance-costs-less-than-surrender-Hezbollah-chief",
-    "title": "Resistance costs less than surrender: Hezbollah chief",
-    "published": "2026-05-12T10:34:00+00:00"
-  },
-  "94e3cc0591bd72a0604ffd0bdd181f0b7837f2fd75e5c10dc5685c793393b3a1": {
-    "url": "https://tass.com/politics/2129591",
-    "title": "Two civilians killed, eight injured in Ukraine strikes on Belgorod Region in past 24 hours",
-    "published": "2026-05-12T08:28:32+00:00"
-  },
-  "03cfba4d8e6b6b6336f926113d09476ed19744e9c765987e574def932fd09c23": {
-    "url": "https://en.irna.ir/news/86152266/Minab-school-massacre-is-global-symbol-of-condemnation-against",
-    "title": "Minab school massacre is global symbol of condemnation against Israeli crimes on children: Iranian minister",
-    "published": "2026-05-12T08:04:53+00:00"
-  },
-  "06b8a3c2f7a5ad6c8b15123f5721913b8045c85d177cbeae2e752b5b5254fcb6": {
-    "url": "presstv/189482",
-    "title": "US-Iran Conflict Complicates Regional Dynamics",
-    "published": "2026-05-12T06:54:08.304865+00:00"
   }
 }
