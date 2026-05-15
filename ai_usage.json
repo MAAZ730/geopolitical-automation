@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3051,
+  "total_calls": 3055,
   "tiers": {
-    "groq": 3032,
+    "groq": 3036,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-11T23:04:05.832979+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-11T23:04:39.211269+00:00",
-      "tier": "groq",
-      "article": "UAE may have carried out strikes on Iranian territory \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-05-11T23:04:58.768001+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-11T23:05:33.955224+00:00",
-      "tier": "groq",
-      "article": "Israel will not cease fighting Hezbollah for a peace deal with Iran \u2014 Netanyahu"
-    },
     {
       "timestamp": "2026-05-12T03:42:12.981302+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-15T07:04:53.662827+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-15T10:41:41.413583+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-15T10:41:57.702339+00:00",
+      "tier": "groq",
+      "article": "Sixth Soldier Down: Israeli Enemy Admits Mortar Strike in South Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-15T10:42:17.026632+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks killed 25 Russians during Zelensky\u2019s 'pseudo-ceasefire' \u2014 Russian MFA"
+    },
+    {
+      "timestamp": "2026-05-15T10:42:34.933363+00:00",
+      "tier": "groq",
+      "article": "How much money does Rutte want NATO to give Ukraine?"
     }
   ]
 }
