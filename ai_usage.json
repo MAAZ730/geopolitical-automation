@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3055,
+  "total_calls": 3059,
   "tiers": {
-    "groq": 3036,
+    "groq": 3040,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-12T03:42:12.981302+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-12T03:42:29.322268+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-12T03:42:52.344253+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-12T03:43:08.552437+00:00",
-      "tier": "groq",
-      "article": "EU backs political-diplomatic solution btw Iran, US: Kallas"
-    },
     {
       "timestamp": "2026-05-12T06:46:09.049032+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-15T10:42:34.933363+00:00",
       "tier": "groq",
       "article": "How much money does Rutte want NATO to give Ukraine?"
+    },
+    {
+      "timestamp": "2026-05-15T14:18:45.234906+00:00",
+      "tier": "groq",
+      "article": "Israeli Circles Voice Concern as Hezbollah Intensifies Attacks, Displacement Grows - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-15T14:19:03.366693+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-15T14:19:27.540321+00:00",
+      "tier": "groq",
+      "article": "Israel delivers 17 strikes on Beirut\u2019s southern suburbs \u2014 TV"
+    },
+    {
+      "timestamp": "2026-05-15T14:19:45.130726+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
