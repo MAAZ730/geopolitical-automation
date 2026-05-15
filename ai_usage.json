@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3067,
+  "total_calls": 3071,
   "tiers": {
-    "groq": 3048,
+    "groq": 3052,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-12T14:38:18.560083+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-12T14:38:35.132526+00:00",
-      "tier": "groq",
-      "article": "Israeli strikes kill scores across southern Lebanon \u2013 officials"
-    },
-    {
-      "timestamp": "2026-05-12T14:39:01.589104+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-12T14:39:51.588404+00:00",
-      "tier": "groq",
-      "article": "Ukraine and Russia fight on despite US-mediated ceasefire"
-    },
     {
       "timestamp": "2026-05-12T18:08:36.006943+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-15T19:47:44.242419+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-15T21:12:54.510191+00:00",
+      "tier": "groq",
+      "article": "Hamas military wing commander killed in Israel\u2019 strike on Gaza City \u2014 minister"
+    },
+    {
+      "timestamp": "2026-05-15T21:13:28.657436+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-15T21:14:21.140021+00:00",
+      "tier": "groq",
+      "article": "Israel says it has killed Hamas commander in Gaza air strike"
+    },
+    {
+      "timestamp": "2026-05-15T21:14:37.441982+00:00",
+      "tier": "groq",
+      "article": "Trump in Beijing: America's weakest hand in century"
     }
   ]
 }

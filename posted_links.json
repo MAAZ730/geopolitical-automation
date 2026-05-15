@@ -1,4 +1,34 @@
 {
+  "c5fceff532ec0acdeee20a50b7c1d82dce5ba448713c829e25a4311d3ddcf299": {
+    "url": "presstv/190021",
+    "title": "Israeli Airstrike Hits Residential Building in Tyre, Lebanon",
+    "published": "2026-05-15T21:22:00.255237+00:00"
+  },
+  "084e7d48033da22a802aafb63c80843db97533d7c6541bd0de57a4f6373278f7": {
+    "url": "presstv/190031",
+    "title": "Bees Swarm White House Grounds",
+    "published": "2026-05-15T21:20:44.625515+00:00"
+  },
+  "2417bf99bb26c1ee83482e94786dbc3b27110dca51a11761742025ebc1e244fd": {
+    "url": "militarywave/23760",
+    "title": "Okinawa Protests Against US Military Presence",
+    "published": "2026-05-15T21:20:08.928672+00:00"
+  },
+  "251e3b13ac67581d3e9413d4ed839e644c6242967c0621756b2cda6dc9512584": {
+    "url": "BellumActaNews/172793",
+    "title": "Israeli Airstrike Targets Tyre, Lebanon",
+    "published": "2026-05-15T21:19:17.535177+00:00"
+  },
+  "dfed031c8fb600192cf48e9d714390af7cad7d109cea89154c718b724f806bb3": {
+    "url": "thecradlemedia/59702",
+    "title": "Iraq's New PM Vows to Bring Resistance Arms Under State Control",
+    "published": "2026-05-15T21:14:58.699646+00:00"
+  },
+  "d195064d1e9a57a74b1d15b4382d34b4749bc708384b845dec78ac2c3b104e4c": {
+    "url": "thecradlemedia/59714",
+    "title": "Gulf States Refuse UAE Call for Joint Military Action Against Iran",
+    "published": "2026-05-15T21:14:48.837353+00:00"
+  },
   "cc109c6bd4a18cba90e1558657802d3b3975172441e82f46523df1ab8d7ce376": {
     "url": "BellumActaNews/172778",
     "title": "Haitian Gangs Wreak Havoc in Artibonite Region, Village Homes Burned Down",
@@ -28,6 +58,16 @@
     "url": "thecradlemedia/59709",
     "title": "Israel Claims Assassination of Hamas Military Chief Izz al-Din al-Haddad",
     "published": "2026-05-15T19:47:50.123857+00:00"
+  },
+  "0ef65d31d958b5b15e6129c310ca67458462c9a34aef1133a6f6064a3d05dd6b": {
+    "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+    "title": "Israel says it has killed Hamas commander in Gaza air strike",
+    "published": "2026-05-15T19:38:38+00:00"
+  },
+  "44b95077dfe38e47700d17d5bd36c70ad9ebc1ca30a688912b607f90bc2782e2": {
+    "url": "https://tass.com/world/2131651",
+    "title": "Hamas military wing commander killed in Israel\u2019 strike on Gaza City \u2014 minister",
+    "published": "2026-05-15T17:51:24+00:00"
   },
   "14170cd663964d698dbecc50615227cbf941dbf5ce43c8c324d9e3c683adefbd": {
     "url": "QudsNen/223547",
@@ -163,6 +203,11 @@
     "url": "Middle_East_Spectator/32077",
     "title": "Iran's Parliament Speaker Criticizes US Fox News Personality",
     "published": "2026-05-15T07:04:58.605337+00:00"
+  },
+  "e9241860540622c8de40aeb1f3bf5305587827927dce0896be7cf81f0e71dedc": {
+    "url": "https://en.mehrnews.com/news/244529/Trump-in-Beijing-America-s-weakest-hand-in-a-century",
+    "title": "Trump in Beijing: America's weakest hand in century",
+    "published": "2026-05-15T07:04:50+00:00"
   },
   "a5c0cc5be580b4961b0cfa67d3f0d05862fb10663bad5ee8a7a0f971fec07e4e": {
     "url": "mod_russia_en/26973",
@@ -703,50 +748,5 @@
     "url": "QudsNen/223097",
     "title": "Israeli Forces Detain Palestinian Youth in Dura Raid",
     "published": "2026-05-13T06:59:37.833517+00:00"
-  },
-  "45107e143ab7acccc9f800b790535f6f85564779ad75332302c4d4981ad6106f": {
-    "url": "QudsNen/223098",
-    "title": "Israeli Settlers Raid Palestinian Home in Sinjil, Confiscate Livestock",
-    "published": "2026-05-13T06:59:03.315360+00:00"
-  },
-  "3ab819d4e07602d864df07c89ca78932ed8154e3121329e2e06727b885aecddd": {
-    "url": "Middle_East_Spectator/32020",
-    "title": "Iran Maintains Control Over Strategic Missile Sites Along Strait of Hormuz",
-    "published": "2026-05-13T06:58:28.089053+00:00"
-  },
-  "c3618708014d3fbb50c17baa8c892546a1d95c983dc14c2c1996a15be71cbb28": {
-    "url": "Middle_East_Spectator/32023",
-    "title": "Iranian C-130s Spotted in Pakistan Amid Regional Tensions",
-    "published": "2026-05-13T06:58:26.950715+00:00"
-  },
-  "61e3eaa2b231f3fca805cc5cf53f874331b393d1bef23047b3b3c75790a8e350": {
-    "url": "https://en.mehrnews.com/news/244474/13-Lebanese-killed-in-fresh-Israeli-strikes",
-    "title": "13 Lebanese killed in fresh Israeli strikes",
-    "published": "2026-05-13T05:13:17+00:00"
-  },
-  "a3ff4299329d416a04b222e51d5b9d573cb097d01dde458204eadd31263cf1ca": {
-    "url": "mod_russia_en/26963",
-    "title": "Russian Forces Disrupt Enemy Supply Lines in Zaporozhye Region",
-    "published": "2026-05-13T04:00:30.724243+00:00"
-  },
-  "b08e438f45ccd8ce4fc682d1f8910cc2bcd8f52e2513c1308ffc237881ef9a6b": {
-    "url": "RVvoenkor/114964",
-    "title": "Ukraine Expands Partnership with US AI Firm Palantir for War Against Russia",
-    "published": "2026-05-13T03:58:13.145018+00:00"
-  },
-  "d2f67e9ebc4bb19894e17d4d7b1906b28c491c02f46ed55738ac6a523effce2b": {
-    "url": "intelslava/87750",
-    "title": "US Official Mistakes Bird for Drone in Iraq",
-    "published": "2026-05-13T03:57:23.755968+00:00"
-  },
-  "9aeaa3a08cbb5834a6b527df5d29f343df0a3a82076c24d9910f1b3df7801649": {
-    "url": "presstv/189601",
-    "title": "Iranian Driver Displays Miniature Missile Replicas on Vehicle",
-    "published": "2026-05-13T03:53:40.059015+00:00"
-  },
-  "b39f85a52243c65470c0656241137f4e7d8d405ec66c69a10d1b5bd366e7a1e0": {
-    "url": "Middle_East_Spectator/32025",
-    "title": "Iranian Air Force Assets Relocated to Karachi Airport to Avoid Destruction",
-    "published": "2026-05-13T03:49:17.004584+00:00"
   }
 }
