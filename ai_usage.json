@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3095,
+  "total_calls": 3099,
   "tiers": {
-    "groq": 3076,
+    "groq": 3080,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-13T14:48:29.892837+00:00",
-      "tier": "groq",
-      "article": "US intel agencies say Iran retains &#039;majority&#039; of pre-war missile stock: Report"
-    },
-    {
-      "timestamp": "2026-05-13T14:49:01.174656+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-13T14:49:51.555267+00:00",
-      "tier": "groq",
-      "article": "UN urges independent probes into deadly Nigeria, Chad air attacks"
-    },
-    {
-      "timestamp": "2026-05-13T14:50:41.018801+00:00",
-      "tier": "groq",
-      "article": "German chancellor booed over welfare cut plans"
-    },
     {
       "timestamp": "2026-05-13T18:09:54.337039+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-16T13:45:55.647858+00:00",
       "tier": "groq",
       "article": "Everything you need to know about Tommy Robinson\u2019s \u2018Unite the Kingdom\u2019 rally"
+    },
+    {
+      "timestamp": "2026-05-16T15:02:57.002494+00:00",
+      "tier": "groq",
+      "article": "VIDEO: Funeral held for Hamas top commander killed by Israel"
+    },
+    {
+      "timestamp": "2026-05-16T15:03:28.299442+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-16T15:03:44.402590+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-16T15:04:00.657108+00:00",
+      "tier": "groq",
+      "article": "Discussions on denuclearization with Russia and China, Iran operation: Trump\u2019s statements"
     }
   ]
 }

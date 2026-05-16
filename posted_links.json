@@ -1,4 +1,39 @@
 {
+  "cc7846cff8753f50987a8c02a520c08dd6a3681b6fc27e95d6de2c93e6461748": {
+    "url": "presstv/190100",
+    "title": "Israeli Airstrikes Hit Haouch in Southern Lebanon",
+    "published": "2026-05-16T15:11:05.724429+00:00"
+  },
+  "4a438d06d43d65313826c2f438c21d33adf3a0c5b83a33a21281f33ce2c82484": {
+    "url": "militarywave/23768",
+    "title": "Ebola Outbreak Worsens in Democratic Republic of Congo",
+    "published": "2026-05-16T15:07:13.443169+00:00"
+  },
+  "babc004542e5ad476955e546221e3c689a144a059501bfacbbf05457f52b25c6": {
+    "url": "DDGeopolitics/184212",
+    "title": "US-Taiwan Relations Tense Amid Ongoing Developments",
+    "published": "2026-05-16T15:05:37.096480+00:00"
+  },
+  "bc7d65317434d12c72b2cb3164aab7a4621d991f659347feccefff1970da1dd4": {
+    "url": "QudsNen/223670",
+    "title": "Israeli Airstrikes Hit Residential Area in Tyre, Lebanon",
+    "published": "2026-05-16T15:04:30.845405+00:00"
+  },
+  "b49abba392ef7618a8d6ca0eb30abd7b3ec271a5a6c99a729cafba2077944029": {
+    "url": "thecradlemedia/59751",
+    "title": "Israeli Airstrike Targets Residential Area in Burj al-Shamali, Lebanon",
+    "published": "2026-05-16T15:04:06.995067+00:00"
+  },
+  "fa98851bcaebfd6acf2046ed2f77496f4cbd999573530f6d56a8bcda33f227c1": {
+    "url": "thecradlemedia/59757",
+    "title": "US Considers Redirecting Palestinian Tax Funds for Gaza Initiative",
+    "published": "2026-05-16T15:04:04.858073+00:00"
+  },
+  "02bfc7ee6a19b9bf477f2bdd6fbb8481eb30345d0ce235d46d928f4d4e6be883": {
+    "url": "https://en.mehrnews.com/news/244562/VIDEO-Funeral-held-for-Hamas-top-commander-killed-by-Israel",
+    "title": "VIDEO: Funeral held for Hamas top commander killed by Israel",
+    "published": "2026-05-16T14:20:19+00:00"
+  },
   "69aaa4496b4db5d9ebf89a3d921f96d388679b6eb8045ad0d0cc2e4383642b9b": {
     "url": "DDGeopolitics/184215",
     "title": "London Police Deploy Thousands Amid Mass Migration and Palestine Protests",
@@ -288,6 +323,11 @@
     "url": "thecradlemedia/59704",
     "title": "Iran Declines US Diplomatic Efforts, Opens Strait of Hormuz to Global Shipping",
     "published": "2026-05-15T17:48:54.061666+00:00"
+  },
+  "85bbfdbb0577074567bcd94ac6a6e7702b45822d8049f2bac1f4f09b355c69ca": {
+    "url": "https://tass.com/world/2131593",
+    "title": "Discussions on denuclearization with Russia and China, Iran operation: Trump\u2019s statements",
+    "published": "2026-05-15T15:05:09+00:00"
   },
   "3502a9a8a687b2767c1064568f50d0e28c9900d65556fe9f0355310b89e380e6": {
     "url": "QudsNen/223506",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/184052",
     "title": "Missile Strike Rocks Kiev Amid Ongoing Conflict",
     "published": "2026-05-14T03:49:28.097302+00:00"
-  },
-  "480ac00c86803dec6779bf7fa104766da7dadfbcc67c1347f208d7e487681ae9": {
-    "url": "thecradlemedia/59519",
-    "title": "WFP Cuts Food Aid in Syria Amid Funding Shortfall",
-    "published": "2026-05-14T03:48:12.744697+00:00"
-  },
-  "eb789d4387e05624dbc47bc618d0c56deb375b4a0532f4f91acd8da360cd2863": {
-    "url": "thecradlemedia/59521",
-    "title": "UK Court Designates Palestine Action Activists as Terrorists",
-    "published": "2026-05-14T03:48:11.565921+00:00"
-  },
-  "7e188e9c1e418410849ba3df762edd55906023b97d9deac23d6e6b157a842145": {
-    "url": "https://www.defensenews.com/news/your-military/2026/05/14/us-army-recovers-remains-of-second-soldier-reported-missing-during-moroccan-exercise/",
-    "title": "US Army recovers remains of second soldier reported missing during Moroccan exercise",
-    "published": "2026-05-14T00:38:08+00:00"
-  },
-  "f36475fa5b8bf563af7ab40e880f04e3425b2e77d6bc9254171ab1b3be1efcd1": {
-    "url": "intelslava/87802",
-    "title": "Ukraine Oil Depot Hit by Drone Strike in Zvyagel",
-    "published": "2026-05-13T23:22:34.347106+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel Intensifies Strikes on Lebanon Amid Ceasefire Dispute",
-    "published": "2026-05-13T23:18:45.983948+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
-    "published": "2026-05-13T23:16:02.091117+00:00"
-  },
-  "54550113ede841271796dad70ffc0eb6f9198dbd721749f572baeb3cb0ed29de": {
-    "url": "presstv/189717",
-    "title": "Turkish Technician Donates to Iran's Missile Programme",
-    "published": "2026-05-13T23:15:42.109026+00:00"
-  },
-  "7bfd8fd696e79b3a567faf9396a15d04eca0efa8b23f3fd649b00365c335d2bd": {
-    "url": "thecradlemedia/59522",
-    "title": "Israel Condemned for New Military Tribunal by UN Rights Chief",
-    "published": "2026-05-13T23:12:58.028171+00:00"
   }
 }
