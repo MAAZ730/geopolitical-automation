@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3075,
+  "total_calls": 3079,
   "tiers": {
-    "groq": 3056,
+    "groq": 3060,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-12T21:25:50.451792+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-12T21:26:22.773721+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-12T21:27:08.945150+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-12T21:27:54.602786+00:00",
-      "tier": "groq",
-      "article": "Minab school massacre is global symbol of condemnation against Israeli crimes on children: Iranian minister"
-    },
     {
       "timestamp": "2026-05-12T23:10:48.933758+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-15T23:07:06.435432+00:00",
       "tier": "groq",
       "article": "Near Russian border, NATO grapples with ground robots in combat"
+    },
+    {
+      "timestamp": "2026-05-16T03:35:15.085141+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-16T03:35:53.034127+00:00",
+      "tier": "groq",
+      "article": "Lebanon says six killed in Israeli strike as US announces ceasefire extension"
+    },
+    {
+      "timestamp": "2026-05-16T03:36:09.302280+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-16T03:36:47.970495+00:00",
+      "tier": "groq",
+      "article": "Russia's SVR uncovers wily Kiev scheme to spread disinformation on Telegram"
     }
   ]
 }

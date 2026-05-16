@@ -1,4 +1,39 @@
 {
+  "fef41f0071fd94782ef6a7641c722b3d2e68ad17b56fb094c3a3360e132d799d": {
+    "url": "mod_russia_en/27005",
+    "title": "Russian Forces Disrupt Ukrainian Unit Rotation in Eastern Ukraine",
+    "published": "2026-05-16T03:48:16.516619+00:00"
+  },
+  "430b45a1b3c23de7f9840316db05423d141863fc565e7559a55ab1217f5de766": {
+    "url": "Slavyangrad/164292",
+    "title": "FBI Offers $200,000 Reward for Capture of Accused Iranian Spy",
+    "published": "2026-05-16T03:43:36.982073+00:00"
+  },
+  "1b58de385766a39c1a07556ecaca9a6372b4568fe4a9f4da84663233817b14e9": {
+    "url": "Slavyangrad/164294",
+    "title": "FBI Offers $200,000 Reward for Former US Counterintelligence Agent Accused of Spying for Iran",
+    "published": "2026-05-16T03:41:05.648621+00:00"
+  },
+  "86aeaa6e5bc175ab45b85c54ee10a5ef802c9e94546686e0bb141c653788c554": {
+    "url": "presstv/190045",
+    "title": "Palestinian Flag Unfurled on Eiffel Tower in Show of Support",
+    "published": "2026-05-16T03:38:31.667224+00:00"
+  },
+  "6e9837811f8a5a5467de5d5ca74d86296065be11ee28cea70c7f764242d1fd62": {
+    "url": "thecradlemedia/59696",
+    "title": "Israeli Warplanes Strike Arab Salim in Southern Lebanon",
+    "published": "2026-05-16T03:36:56.181814+00:00"
+  },
+  "bbda1cd4859adcecb45974f721e8fd29671229591eae47ab9e9e546d7e9177c3": {
+    "url": "thecradlemedia/59697",
+    "title": "Israeli Drone Targets Mosque Minaret in Gaza Strip",
+    "published": "2026-05-16T03:36:54.160307+00:00"
+  },
+  "e1ce155f887309a30e8ca1ee4ba311bdef8b5110f375df34f67b78992d7651db": {
+    "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+    "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+    "published": "2026-05-15T23:59:07+00:00"
+  },
   "96d872c37e800fe199e3b817111429dd8ccfec1c491f83ccd768f1623793ce98": {
     "url": "intelslava/87842",
     "title": "Israel Airstrike Kills Senior Hamas Commander in Gaza City",
@@ -168,6 +203,11 @@
     "url": "https://english.almanar.com.lb/article/72832/",
     "title": "Israeli Circles Voice Concern as Hezbollah Intensifies Attacks, Displacement Grows - Al-Manar TV Lebanon",
     "published": "2026-05-15T12:16:44+00:00"
+  },
+  "1af30cc37defcd796364c540119ff5ec549886a7d56096396bd0c8cb9e06a749": {
+    "url": "https://tass.com/politics/2131481",
+    "title": "Russia's SVR uncovers wily Kiev scheme to spread disinformation on Telegram",
+    "published": "2026-05-15T12:10:52+00:00"
   },
   "885134c6868b2317f555c5925b808d65b601487a48936b11dd19a824091a2421": {
     "url": "QudsNen/223479",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/59512",
     "title": "OPEC Cuts 2026 Oil Demand Forecast Amid US-Israeli Conflict Impact",
     "published": "2026-05-13T14:50:49.292024+00:00"
-  },
-  "b5d916a359a6155a182a19e6a045545c3b40b2d3336da0881edc55e4659e5674": {
-    "url": "https://tass.com/defense/2130347",
-    "title": "Russia develops Svarog 1.0 drone carrier boat with operational range of up to 500 km",
-    "published": "2026-05-13T12:30:13+00:00"
-  },
-  "3aca613f74fe3956c0b33eeea89e75e289a5d0eba51a62e130b00370c12eebd9": {
-    "url": "https://www.rt.com/news/639934-kuwait-iran-infiltration/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Kuwait accuses Iran of infiltration attempt on Bubiyan Island",
-    "published": "2026-05-13T11:55:29+00:00"
-  },
-  "959374102868ac4b0818e6ea7443e5fa35db52991829254803c2f9e1a751175f": {
-    "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
-    "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
-    "published": "2026-05-13T11:40:12+00:00"
-  },
-  "7e14b9c5d875b6adde2562b46b0b04246ce223da7f0e5b29e6e169eb45eebea2": {
-    "url": "https://thecradle.co/articles-id/37666",
-    "title": "US intel agencies say Iran retains &#039;majority&#039; of pre-war missile stock: Report",
-    "published": "2026-05-13T11:11:43+00:00"
-  },
-  "94f1c35da0cbebae3e594275de9381cc42a81602d55eb242ba1ca28ef4049b8f": {
-    "url": "https://en.mehrnews.com/news/244487/No-US-weapons-to-transit-Hormuz-Strait-into-reg-bases",
-    "title": "No US weapons to transit Hormuz Strait into reg. bases",
-    "published": "2026-05-13T10:50:48+00:00"
-  },
-  "189e0e45984a906a8c7ab24516b4801827f56b56ed84a6be106eef6f48f220e9": {
-    "url": "QudsNen/223134",
-    "title": "Israeli Airstrike Targets Vehicle in Eastern Lebanon",
-    "published": "2026-05-13T10:41:43.384756+00:00"
-  },
-  "3a8d834cbe7c421b2f8689dc220c8f93c7c256260b4cbbc74fc348a849dc568e": {
-    "url": "thecradlemedia/59464",
-    "title": "Druze Protests Erupt in Israeli-Occupied Golan Heights Over Wind Farm Project",
-    "published": "2026-05-13T10:40:33.532280+00:00"
-  },
-  "82056f270346b171fb83e3d5bec346097c0d4bbf9e52136e77aac90eccffa786": {
-    "url": "thecradlemedia/59478",
-    "title": "Australia Joins UK-France Mission to Secure Strait of Hormuz",
-    "published": "2026-05-13T10:40:03.654430+00:00"
   }
 }
