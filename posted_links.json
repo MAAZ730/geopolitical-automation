@@ -1,4 +1,34 @@
 {
+  "3c22b51ad6e6cbd3c118aa04618f3cab21d6540d5b9fecc2c8792ff4b95cda4f": {
+    "url": "Slavyangrad/164305",
+    "title": "Russia-Ukraine Conflict: Aerial Strikes in Eastern Ukraine",
+    "published": "2026-05-16T09:55:03.212292+00:00"
+  },
+  "627dd952f526f76165e9fce22823759f02df050163cba9da2833546a84075147": {
+    "url": "Slavyangrad/164308",
+    "title": "Trump Hints at Caution on Taiwan Arms Package Amid China Tensions",
+    "published": "2026-05-16T09:54:04.073539+00:00"
+  },
+  "7a4fa699a21e79d03a553425ddc1135514572dc911e96e8aa14c835494b99ab1": {
+    "url": "intelslava/87858",
+    "title": "Trump Discusses Ukraine Conflict with Xi Jinping in China",
+    "published": "2026-05-16T09:52:47.319315+00:00"
+  },
+  "ca17d726ddc09b5e452c2710efd0f37a97c84e7febb2e4a12aec1583729614f7": {
+    "url": "thecradlemedia/59715",
+    "title": "Palestinian Dog Fatally Attacked by Jewish Settler in West Bank",
+    "published": "2026-05-16T09:51:34.505381+00:00"
+  },
+  "5db4dedc72dbfadd7a8c53d63da6c95fa5142b3e277ad37427d3c98b43ece1ed": {
+    "url": "thecradlemedia/59724",
+    "title": "Israeli Airstrikes Hit Southern Lebanon",
+    "published": "2026-05-16T09:50:48.156642+00:00"
+  },
+  "2f3ec72ee7768085307a6341de6769384b73542a2705b3a3ab102bea0a6389be": {
+    "url": "thecradlemedia/59728",
+    "title": "Iraq's Oil Exports Plummet Through Strait of Hormuz",
+    "published": "2026-05-16T09:50:46.308019+00:00"
+  },
   "1b0bb1793b99786ed8040e703a94a7c3f55889e0f6219b215df324f2b5f092d2": {
     "url": "CyberspecNews/107515",
     "title": "EDGE Unveils Containerized Shadow 25 Suicide Drone",
@@ -228,6 +258,11 @@
     "url": "thecradlemedia/59683",
     "title": "Netanyahu Confirms Israeli Control Over 60% of Gaza Strip",
     "published": "2026-05-15T14:19:49.928079+00:00"
+  },
+  "84aa153244503339a534ac6bda67a05d1d4e4c293d86db9ff855d3052112777d": {
+    "url": "https://tass.com/politics/2131529",
+    "title": "Russia ready to help Cuba lift US blockade \u2014 Foreign Ministry",
+    "published": "2026-05-15T13:03:16+00:00"
   },
   "23186f6771088744304c3c7fc1fce52f27daf762dbe1253c5c69e5ec3bfc3b16": {
     "url": "https://english.almanar.com.lb/article/72832/",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/59516",
     "title": "Israeli Warplanes Strike Southern Lebanon",
     "published": "2026-05-13T18:12:13.033776+00:00"
-  },
-  "73c2981aef33e433d2981b81b3d058b341d47e46e696574b629f78a5707ec927": {
-    "url": "thecradlemedia/59530",
-    "title": "Kuwait-Iran Tensions Escalate Over Detained Nationals",
-    "published": "2026-05-13T18:11:43.803529+00:00"
-  },
-  "1f6901e96a0970549fe805d7d39a04f0c50a3b9ed2082c5f735da307501f1dff": {
-    "url": "thecradlemedia/59532",
-    "title": "Saudi Defense Pact Expansion",
-    "published": "2026-05-13T18:11:41.021070+00:00"
-  },
-  "c4720e065401b78f7a5fda4df3519f2992a35175b2ff88d93463efb3a1e4fe74": {
-    "url": "https://www.rt.com/news/639952-german-soldiers-attack-nato-haters/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "German soldiers injured in attack in the Netherlands",
-    "published": "2026-05-13T18:00:40+00:00"
-  },
-  "760c72a2989b17ac32a052e7d1905bbc6ac2ff1c26477da7b754b24b4d1a3d49": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/church-leaders-killed-in-latest-ethnic-violence-in-indias-manipur?traffic_source=rss",
-    "title": "Church leaders killed in latest ethnic violence in India\u2019s Manipur",
-    "published": "2026-05-13T17:08:23+00:00"
-  },
-  "760e16b2c93ce24a2813724a688be8d3021ba9f7e3daafeb3ae9f4af791c2bce": {
-    "url": "https://www.rt.com/news/639942-saudi-covert-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Saudi Arabia conducted covert strikes on Iran during Middle East war \u2013 Reuters",
-    "published": "2026-05-13T16:00:00+00:00"
-  },
-  "a5cd8f253771194d65d380a22a780adef2a21d2920620916f476eb3e759dd82b": {
-    "url": "https://en.irna.ir/news/86153807/Hezbollah-chief-hails-Iran-support-for-resistance-vows-not-to",
-    "title": "Hezbollah chief hails Iran support for resistance, vows not to surrender to Israel",
-    "published": "2026-05-13T15:49:37+00:00"
-  },
-  "849dcad43715cd1fc9a020675c6bfc1b802fbd3124ed5a447003f790ce00bc08": {
-    "url": "https://tass.com/world/2130449",
-    "title": "US attack would cause humanitarian catastrophe, Cuban foreign minister warns",
-    "published": "2026-05-13T15:03:22+00:00"
   }
 }
