@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3111,
+  "total_calls": 3115,
   "tiers": {
-    "groq": 3092,
+    "groq": 3096,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-14T03:46:36.441707+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-14T03:46:52.527816+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-14T03:47:15.428002+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-14T03:48:05.663529+00:00",
-      "tier": "groq",
-      "article": "Kuwait accuses Iran of infiltration attempt on Bubiyan Island"
-    },
     {
       "timestamp": "2026-05-14T06:54:04.689644+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-16T21:00:24.006353+00:00",
       "tier": "groq",
       "article": "Twenty years enough for Iran nuclear suspension, says Trump"
+    },
+    {
+      "timestamp": "2026-05-16T22:56:52.671847+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks kill child, leave another ten civilians injured in DPR"
+    },
+    {
+      "timestamp": "2026-05-16T22:57:12.365780+00:00",
+      "tier": "groq",
+      "article": "Israeli media- Kan Channel: The explosion in Beit Shemesh occurred inside the Tomer company, which develops defensive and offensive missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-16T22:57:29.477732+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-16T22:57:46.177681+00:00",
+      "tier": "groq",
+      "article": "Tehran demands that US establish peace in Lebanon \u2014 Iranian ambassador to Belarus"
     }
   ]
 }
