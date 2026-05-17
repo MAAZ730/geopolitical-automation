@@ -1,4 +1,39 @@
 {
+  "d1093ccc15b5be66a19b7ef650857634c56f5325267427e5b5bfb4613f4dc59f": {
+    "url": "presstv/190285",
+    "title": "Hezbollah Targets Israeli Troop Carrier in Southern Lebanon",
+    "published": "2026-05-17T19:23:57.006292+00:00"
+  },
+  "31f2789b593fe030f20bbb5793630a267d129fc9da2a104a756a47778119f840": {
+    "url": "presstv/190287",
+    "title": "US Vessel Damaged in Alleged Iranian Missile Strike Amid Strait of Hormuz Tensions",
+    "published": "2026-05-17T19:22:36.784720+00:00"
+  },
+  "350aad61ecf7a8931bfeb6163e92caa95d5cde026f223ee6619605786d4f58c9": {
+    "url": "QudsNen/223833",
+    "title": "Israeli Airstrike Hits Residential Building in Tebnine, Lebanon",
+    "published": "2026-05-17T19:21:00.046182+00:00"
+  },
+  "144f6cb70088e78574d0959cd89f82eb3f0fe96cfab78a4f8870585d55a9da28": {
+    "url": "QudsNen/223838",
+    "title": "Israeli Airstrike Hits Residential Building in Jouaya, Lebanon",
+    "published": "2026-05-17T19:20:34.868704+00:00"
+  },
+  "9a8f22dcdfbc874b60c85eef561d39672512d0d0b2d090cebc83c09dbfc7e72d": {
+    "url": "Middle_East_Spectator/32157",
+    "title": "Cuba Deploys Iranian-Russian Drones Amid US Tensions",
+    "published": "2026-05-17T19:19:13.513334+00:00"
+  },
+  "368f00ef66f47aea858296126cb2424a738a9d249074c65bf804bc2b14337962": {
+    "url": "thecradlemedia/59806",
+    "title": "UAE Mulls Seizing Iranian Island Amid Escalating Regional Tensions",
+    "published": "2026-05-17T19:19:11.735454+00:00"
+  },
+  "964639b1c06e39e4f76d43621404ede0f007bc7d8f47d02b25ab074c86eed162": {
+    "url": "https://english.almanar.com.lb/article/74067/",
+    "title": "Hezbollah Delivers Meticulous Response to Israeli Aggression, Highlights Expanding Drone Capabilities - Al-Manar TV Lebanon",
+    "published": "2026-05-17T18:55:21+00:00"
+  },
   "86efd59ebe66e5c19d6f3a4245b5181ceb3e265aba661a150f6b6a009f633639": {
     "url": "milinfolive/172464",
     "title": "Russia Displays Iranian-Made Drones as Ukrainian Seizures",
@@ -159,6 +194,11 @@
     "title": "Israeli Airstrike Kills Hamas Military Chief in Gaza City",
     "published": "2026-05-17T09:56:45.521888+00:00"
   },
+  "2a2ebec3f47baec239343b1e14d329ee15f49e53a75d4a56916cc39032108c74": {
+    "url": "https://en.mehrnews.com/news/244584/Any-repeated-US-folly-to-bring-harder-blows-for-Washington",
+    "title": "Any repeated US folly to bring harder blows for Washington",
+    "published": "2026-05-17T08:59:01+00:00"
+  },
   "8a039cb3eb8f02b0848d61e19917df9edb6dd397cdda4092cd0e256a72c02797": {
     "url": "intelslava/87871",
     "title": "Explosion of Unexploded Ordnance in Beit Shemesh, Israel",
@@ -258,6 +298,11 @@
     "url": "Middle_East_Spectator/32141",
     "title": "Explosion Rocks Beit Shemesh, Israel",
     "published": "2026-05-16T22:57:54.145873+00:00"
+  },
+  "4d7b57e092f03d29a225a97c022b6bb1556ed6d1374ad8ff0d468ee50813ff1a": {
+    "url": "https://www.rt.com/news/640081-pentagon-cancels-troop-deployment-poland-media/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US cancels troop deployment to Poland",
+    "published": "2026-05-16T22:57:18+00:00"
   },
   "b3eea74a12e02d8386682d77b5cadaa441df05aeac25b9005b41532a28e0ee93": {
     "url": "https://tass.com/politics/2131875",
@@ -703,50 +748,5 @@
     "url": "QudsNen/223549",
     "title": "Israeli Airstrikes Hit Residential Building in Gaza City",
     "published": "2026-05-15T17:50:16.196965+00:00"
-  },
-  "bb6e3fbc4fbb7e1d073c4c9e8c61c9d564a8ed7962597abaa2997bc9e3975367": {
-    "url": "Middle_East_Spectator/32111",
-    "title": "IDF Targets Hamas Commander in Gaza",
-    "published": "2026-05-15T17:49:22.271059+00:00"
-  },
-  "01d658b3e6afd50961f5dd87c8bfc9cf88ec2d9f08c4be1001b9531a3b93ae40": {
-    "url": "thecradlemedia/59703",
-    "title": "Saudi Arabia Considers Non-Aggression Pact with Iran Amid Regional Tensions",
-    "published": "2026-05-15T17:48:55.361155+00:00"
-  },
-  "a65a63982891fdb74b23801f4c0ff1016c712875bdd22ea44a50f2395e2970e8": {
-    "url": "thecradlemedia/59704",
-    "title": "Iran Declines US Diplomatic Efforts, Opens Strait of Hormuz to Global Shipping",
-    "published": "2026-05-15T17:48:54.061666+00:00"
-  },
-  "85bbfdbb0577074567bcd94ac6a6e7702b45822d8049f2bac1f4f09b355c69ca": {
-    "url": "https://tass.com/world/2131593",
-    "title": "Discussions on denuclearization with Russia and China, Iran operation: Trump\u2019s statements",
-    "published": "2026-05-15T15:05:09+00:00"
-  },
-  "3502a9a8a687b2767c1064568f50d0e28c9900d65556fe9f0355310b89e380e6": {
-    "url": "QudsNen/223506",
-    "title": "Israeli Airstrikes Hit Residential Building in Southern Lebanon",
-    "published": "2026-05-15T14:24:15.012473+00:00"
-  },
-  "352106728e1fffd50065979bc70f7e661340bed520729c1f7ebef8f4791630e6": {
-    "url": "QudsNen/223513",
-    "title": "Israeli Forces Restrict Journalist Access in East Jerusalem",
-    "published": "2026-05-15T14:23:10.646196+00:00"
-  },
-  "44158f3d0d8dd10b91a476cb5bb9ab05d385afe41eac8245fc5f49e8d84ac4f3": {
-    "url": "QudsNen/223515",
-    "title": "Gaza City Residents Defy Destruction with Friday Prayers",
-    "published": "2026-05-15T14:21:40.372164+00:00"
-  },
-  "3078b3cbccff515d1c43fe2fd9a603a0a63d9420f1ad54a0eb77732e372518ab": {
-    "url": "QudsNen/223521",
-    "title": "Israeli Airstrikes Damage Residential Building in Southern Lebanon",
-    "published": "2026-05-15T14:20:32.009218+00:00"
-  },
-  "8fb893ddd3907b947026e132c0792b0f28b4a6fe6334c3b1c3d11de541467009": {
-    "url": "thecradlemedia/59682",
-    "title": "Dutch Politician Faces Backlash for Advocating Lethal Force Against Palestinian Refugees",
-    "published": "2026-05-15T14:19:59.147993+00:00"
   }
 }

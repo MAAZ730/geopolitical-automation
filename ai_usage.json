@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3143,
+  "total_calls": 3147,
   "tiers": {
-    "groq": 3124,
+    "groq": 3128,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-15T03:51:24.004187+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-15T03:51:56.500216+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-15T03:52:12.582445+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-15T03:52:52.068036+00:00",
-      "tier": "groq",
-      "article": "Unimpeded maritime flows vital for intl. economic well-being"
-    },
     {
       "timestamp": "2026-05-15T07:03:45.314717+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-17T17:08:06.143391+00:00",
       "tier": "groq",
       "article": "Russian embassy calls on Moldova to resume constructive dialogue on Transnistria"
+    },
+    {
+      "timestamp": "2026-05-17T19:17:34.123908+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Delivers Meticulous Response to Israeli Aggression, Highlights Expanding Drone Capabilities - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-17T19:18:11.888658+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-17T19:18:28.179603+00:00",
+      "tier": "groq",
+      "article": "Any repeated US folly to bring harder blows for Washington"
+    },
+    {
+      "timestamp": "2026-05-17T19:19:08.344208+00:00",
+      "tier": "groq",
+      "article": "US cancels troop deployment to Poland"
     }
   ]
 }
