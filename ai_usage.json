@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3115,
+  "total_calls": 3119,
   "tiers": {
-    "groq": 3096,
+    "groq": 3100,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-14T06:54:04.689644+00:00",
-      "tier": "groq",
-      "article": "Kyiv building collapses after Russian strike, reportedly trapping residents"
-    },
-    {
-      "timestamp": "2026-05-14T06:54:36.208792+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-14T06:55:22.483858+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-14T06:55:39.282229+00:00",
-      "tier": "groq",
-      "article": "Russia develops Svarog 1.0 drone carrier boat with operational range of up to 500 km"
-    },
     {
       "timestamp": "2026-05-14T10:27:38.071868+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-16T22:57:46.177681+00:00",
       "tier": "groq",
       "article": "Tehran demands that US establish peace in Lebanon \u2014 Iranian ambassador to Belarus"
+    },
+    {
+      "timestamp": "2026-05-17T03:50:15.228773+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-17T03:50:48.941127+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-17T03:51:42.111352+00:00",
+      "tier": "groq",
+      "article": "FPV drone strikes show Hezbollah's changing tactics against Israel"
+    },
+    {
+      "timestamp": "2026-05-17T03:51:58.583357+00:00",
+      "tier": "groq",
+      "article": "\u2018Surrender not an option\u2019 for Palestine, Iranian envoy tells UN on Nakba Day"
     }
   ]
 }

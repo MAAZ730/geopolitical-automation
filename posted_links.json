@@ -1,4 +1,39 @@
 {
+  "a7a8c5ef9178b57ce39620f0ecc85823e50e66d0a0feafc161cec1e2071f0505": {
+    "url": "intelslava/87883",
+    "title": "Ukrainian UAVs Strike Oil Facility in Russia's Moscow Region",
+    "published": "2026-05-17T04:01:04.690604+00:00"
+  },
+  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
+    "url": "CensoredMen/203",
+    "title": "Israel Escalates Strikes in Lebanon Amid Iran Ceasefire Dispute",
+    "published": "2026-05-17T03:57:31.476522+00:00"
+  },
+  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
+    "url": "CensoredMen/205",
+    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
+    "published": "2026-05-17T03:54:46.890885+00:00"
+  },
+  "7ecb937f02c7c33784ba24314a251eddee637e1f4929a694bdc0926dd8d6de16": {
+    "url": "BellumActaNews/172845",
+    "title": "Bolivia's Aymara Militia Leader Demands End to 'White Rule'",
+    "published": "2026-05-17T03:54:26.038522+00:00"
+  },
+  "5917e8c5cd76335fb1f4042c3f317e82deffcf5efef85c09edf4fd02bc3f3447": {
+    "url": "Middle_East_Spectator/32145",
+    "title": "Controlled Explosion Rocks Israeli Military Site",
+    "published": "2026-05-17T03:52:07.702137+00:00"
+  },
+  "c2d4dfccbc50293beb4f1b2dd2f6bb4ec9f8b8605b91fc90f54c536774dc77ee": {
+    "url": "Middle_East_Spectator/32146",
+    "title": "Explosion Rocks Sdot Micha Airbase, Israel",
+    "published": "2026-05-17T03:52:03.599233+00:00"
+  },
+  "0ae8c7e76390eac64bea3952e611e6b6e65b16dffb92c27b2a29a5befe675803": {
+    "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+    "title": "FPV drone strikes show Hezbollah's changing tactics against Israel",
+    "published": "2026-05-16T23:10:19+00:00"
+  },
   "6ab996b4b489f71abfbd786ed61a98071266a9dff2c70e2a725a74e25ddff110": {
     "url": "presstv/190145",
     "title": "Explosion Rocks Beit Shemesh in Israeli-Occupied West Bank",
@@ -288,6 +323,11 @@
     "url": "thecradlemedia/59695",
     "title": "Israel on High Alert as Drone Sighting Triggers Sirens in Western Galilee",
     "published": "2026-05-16T06:29:15.916497+00:00"
+  },
+  "dcaaacf000614deee778050404811c1e5025149ad475975debefd9645c6ab9cd": {
+    "url": "https://www.rt.com/news/640061-palestinians-nakba-active-approach/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "\u2018Surrender not an option\u2019 for Palestine, Iranian envoy tells UN on Nakba Day",
+    "published": "2026-05-16T04:54:48+00:00"
   },
   "fef41f0071fd94782ef6a7641c722b3d2e68ad17b56fb094c3a3360e132d799d": {
     "url": "mod_russia_en/27005",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/184100",
     "title": "Lebanon's Hezbollah Claims 33rd Israeli Tank Hit by Drone Strikes",
     "published": "2026-05-14T20:06:19.706135+00:00"
-  },
-  "cf15b15d35727cd8e52090310f1133ef48031904c55fb712533c1b0186414d1e": {
-    "url": "DDGeopolitics/184108",
-    "title": "US Admiral Defends Military Campaign in Iran Amid Concerns Over Civilian Casualties",
-    "published": "2026-05-14T20:04:27.980437+00:00"
-  },
-  "08e7840fc413cbcaf92cb77e4e48df01c3300cbbd543278f6b3865bb6695a81c": {
-    "url": "QudsNen/223411",
-    "title": "Israeli Artillery Strikes Jabal Ali al-Taher with White Phosphorus",
-    "published": "2026-05-14T20:01:27.231252+00:00"
-  },
-  "c57bfff0b8fe42e3c9ca2a1161bd7b3c29d89f0bdb9e7164607187838998c478": {
-    "url": "thecradlemedia/59607",
-    "title": "US and Israeli Intelligence Assets Infiltrate Arab Central Banks",
-    "published": "2026-05-14T20:00:59.457416+00:00"
-  },
-  "d58911597fd0a9c955cb6070e6c738d881e63ad0d8583ce4afee2b809561fe1c": {
-    "url": "thecradlemedia/59609",
-    "title": "Saudi Arabia Seeks Non-Aggression Pact with Iran Amid Regional Tensions",
-    "published": "2026-05-14T20:00:57.453977+00:00"
-  },
-  "45fc2b8bdad3ab812cf92be6d4d89388fb1266fd328b7be3466188b6b76acc2f": {
-    "url": "DDGeopolitics/184105",
-    "title": "Odessa Brawl Erupts Between Military Recruiters, Police, and Civilians",
-    "published": "2026-05-14T18:08:57.149158+00:00"
-  },
-  "57b18a83cd600866bb15a6559a8c6940de161e6eebc164152b7f58bdc6b676de": {
-    "url": "DDGeopolitics/184110",
-    "title": "Trump Announces 200 Boeing Aircraft Deal with China Amid Airbus Dominance",
-    "published": "2026-05-14T18:04:19.807044+00:00"
-  },
-  "a679ad7e2b718373e9e723418b06ad185e64796e63f3c0c41df1e1c2f88f7ded": {
-    "url": "QudsNen/223371",
-    "title": "Israeli Settlers Detain Activists in Ramallah",
-    "published": "2026-05-14T18:02:25.432516+00:00"
-  },
-  "c75b9725977c28faf5d3f6d899b4f0036ad6bc0b3f3cbfc6b9cc6e1650d3269b": {
-    "url": "Middle_East_Spectator/32066",
-    "title": "Hezbollah Releases Drone Footage of Alleged Strikes on Israeli Targets",
-    "published": "2026-05-14T18:01:15.122096+00:00"
   }
 }
