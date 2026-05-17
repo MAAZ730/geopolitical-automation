@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3139,
+  "total_calls": 3143,
   "tiers": {
-    "groq": 3120,
+    "groq": 3124,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-14T23:05:05.257805+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-14T23:05:38.448285+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-14T23:06:24.962145+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-14T23:07:16.279941+00:00",
-      "tier": "groq",
-      "article": "US Army recovers remains of second soldier reported missing during Moroccan exercise"
-    },
     {
       "timestamp": "2026-05-15T03:51:24.004187+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-17T15:05:55.738018+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-17T17:05:56.214898+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-17T17:06:29.871589+00:00",
+      "tier": "groq",
+      "article": "UAE defense ministry investigating drone attack on generator near Barakah NPP"
+    },
+    {
+      "timestamp": "2026-05-17T17:07:16.027849+00:00",
+      "tier": "groq",
+      "article": "Israeli warplanes launched a series of airstrikes targeting the towns of Khirbet Selm, Tebnin, Deir Antar, and Al-Babliyeh, with additional raids reported on Al-Marwaniyeh and the area between Jibchit, Adchit, and Aabba: Al-Manar correspondent in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-17T17:08:06.143391+00:00",
+      "tier": "groq",
+      "article": "Russian embassy calls on Moldova to resume constructive dialogue on Transnistria"
     }
   ]
 }
