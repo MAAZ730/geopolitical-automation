@@ -1,4 +1,34 @@
 {
+  "007e3f76af3d9cb9427e0893ecce904748edfd0caee7ddde24c8ecfa970a49a1": {
+    "url": "militarywave/23779",
+    "title": "Spanish Official Warns of Rising Global Tensions Amid Historical Precedents",
+    "published": "2026-05-17T10:00:38.212510+00:00"
+  },
+  "292ff3016529c76ab9db11d5b122de5cb8cea9e879426082e2fe9449c66ec075": {
+    "url": "warmonitors/44120",
+    "title": "Ukraine Launches Drone Strike on Russian Territory",
+    "published": "2026-05-17T09:58:19.994469+00:00"
+  },
+  "05d07acc7cb418ffb7e93001290cb0edefad56db6e913db2813dfbe3b8ee19eb": {
+    "url": "thecradlemedia/59773",
+    "title": "USS Gerald R. Ford Returns to Naval Station Norfolk After Record Deployment",
+    "published": "2026-05-17T09:57:46.370744+00:00"
+  },
+  "a3b1c4126595e89e4f2d165e0fda73bf485386d449392a4e4253c671bc965a4e": {
+    "url": "thecradlemedia/59777",
+    "title": "Settlers Clash with Palestinians in West Bank",
+    "published": "2026-05-17T09:57:14.426878+00:00"
+  },
+  "9d8a7f33e267a3f70073447ce9deab156a9a1bca00881cd5a244aa35672463d3": {
+    "url": "thecradlemedia/59778",
+    "title": "Israel's Military Leadership Accused of Concealing Army's Failures",
+    "published": "2026-05-17T09:56:46.805565+00:00"
+  },
+  "be16ad3c1e942a1631a9a2598362f691468b99b4c9560841689d0dc851dfd7fb": {
+    "url": "thecradlemedia/59779",
+    "title": "Israeli Airstrike Kills Hamas Military Chief in Gaza City",
+    "published": "2026-05-17T09:56:45.521888+00:00"
+  },
   "8a039cb3eb8f02b0848d61e19917df9edb6dd397cdda4092cd0e256a72c02797": {
     "url": "intelslava/87871",
     "title": "Explosion of Unexploded Ordnance in Beit Shemesh, Israel",
@@ -718,35 +748,5 @@
     "url": "Slavyangrad/164199",
     "title": "Hungary Demands Ceasefire from Russia over Zakarpattia Drone Attack",
     "published": "2026-05-14T23:13:57.317534+00:00"
-  },
-  "f7a6e0609d893562dde1940aeb3684fc9379379125f4405584390d894005ac7c": {
-    "url": "Slavyangrad/164204",
-    "title": "Russian Jet Drone Spotted Engaging in Low-Altitude Maneuvers off Odessa Coast",
-    "published": "2026-05-14T23:11:58.598403+00:00"
-  },
-  "24a6a51a96245b2181fb8930b33eb69c03d924b92bdda45360c6f63cf1318cb3": {
-    "url": "presstv/189890",
-    "title": "US House Rejects War Powers Resolution on Iran",
-    "published": "2026-05-14T23:08:25.053667+00:00"
-  },
-  "d50d065309f6654d07ed26972d1d7890fda46fa59f2754c9e329415b0f5d3370": {
-    "url": "thecradlemedia/59600",
-    "title": "US Troop Deployment to Poland Canceled Amid NATO Tensions",
-    "published": "2026-05-14T23:07:29.472557+00:00"
-  },
-  "a82a512afc2e33ae42d43192666a47c2be7d896ee6371184e3d216f6a251879b": {
-    "url": "thecradlemedia/59602",
-    "title": "Lebanon, Israel Resume Direct Talks in Washington Amid Calls for Ceasefire",
-    "published": "2026-05-14T23:07:27.517546+00:00"
-  },
-  "0bc1dece3611dda282bfc3b5129fe30cdf3f6dc6d532398be71763754623a98b": {
-    "url": "Slavyangrad/164203",
-    "title": "Ukrainian Journalist Warns of Corruption and Emigration",
-    "published": "2026-05-14T21:28:23.488817+00:00"
-  },
-  "94020cd28e902d673f1251b7cf673192f24da88f18b5242bd4c1c95e849a9db6": {
-    "url": "intelslava/87820",
-    "title": "Russia-Ukraine Conflict: Ukrainian Drone Intercepted by Russian Anti-Aircraft Drones",
-    "published": "2026-05-14T21:26:50.415525+00:00"
   }
 }
