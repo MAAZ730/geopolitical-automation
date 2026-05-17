@@ -1,4 +1,34 @@
 {
+  "65d9a84f608b0c368a37f79b024de9e77af9ef2138013567acefeee66aec17e0": {
+    "url": "intelslava/87870",
+    "title": "Ukrainian USV Equipped with Flamethrowers and Drones Sighted near Kinburn Spit",
+    "published": "2026-05-17T11:25:29.949853+00:00"
+  },
+  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
+    "url": "CensoredMen/189",
+    "title": "Iranian Missiles Strike Israeli Territory",
+    "published": "2026-05-17T11:24:54.649406+00:00"
+  },
+  "950f6478ffed4f130b3d2be4c2c93b7518eb4952278d35d8111de2476e45e310": {
+    "url": "presstv/190225",
+    "title": "Coal-Fired Power Plants Surge in Asia Amid Iran Conflict",
+    "published": "2026-05-17T11:22:03.669030+00:00"
+  },
+  "4175a5f53f218db787c149c5d4c5e1bbc462d30afd663a298470ba32143ee7eb": {
+    "url": "presstv/190233",
+    "title": "Iran's President Ebrahim Raeisi Pursues Regional Partnerships Amid Sanctions",
+    "published": "2026-05-17T11:20:25.504118+00:00"
+  },
+  "1b324e5158935ef894f033c2b12d919ea93ba66d404661510714c801efc75e2b": {
+    "url": "thecradlemedia/59785",
+    "title": "Drone Strike Sparks Fire Near Abu Dhabi Nuclear Plant",
+    "published": "2026-05-17T11:17:47.468121+00:00"
+  },
+  "a7c8c61a2ef177aa92dba146f37df544b7cfd7e21b4b683ae185a95fbd7a2434": {
+    "url": "thecradlemedia/59787",
+    "title": "Israeli Forces Utilize Protective Canopy in South Lebanon Amid Drone Threats",
+    "published": "2026-05-17T11:17:45.829021+00:00"
+  },
   "007e3f76af3d9cb9427e0893ecce904748edfd0caee7ddde24c8ecfa970a49a1": {
     "url": "militarywave/23779",
     "title": "Spanish Official Warns of Rising Global Tensions Amid Historical Precedents",
@@ -58,6 +88,11 @@
     "url": "QudsNen/223745",
     "title": "Khan Younis Drone Strike Claims Palestinian Youth's Life",
     "published": "2026-05-17T06:54:41.703227+00:00"
+  },
+  "82a4c1f720fd09ab875b697b1f4dc90a7326e9dbfc5bfc9648a8edf9f3b8a5bb": {
+    "url": "https://tass.com/politics/2131947",
+    "title": "IN BRIEF: Drone attack on Moscow, surrounding region kills three people, leaves 18 injured",
+    "published": "2026-05-17T04:15:08+00:00"
   },
   "a7a8c5ef9178b57ce39620f0ecc85823e50e66d0a0feafc161cec1e2071f0505": {
     "url": "intelslava/87883",
@@ -293,6 +328,11 @@
     "url": "thecradlemedia/59747",
     "title": "Israel Launches Airstrikes on South Lebanon",
     "published": "2026-05-16T13:46:45.895219+00:00"
+  },
+  "ed5a14a4d965997d9949e2de568329d6f52d107041b7521816a4c82782421197": {
+    "url": "https://www.rt.com/news/640072-merz-warns-children-against-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Friedrich Merz says US no longer \u2018Land of Opportunity\u2019 for young people",
+    "published": "2026-05-16T11:46:11+00:00"
   },
   "a59a7c94a572d7d0c93616f3d8f1a3f629da77391c348dae7318aaab92b6167b": {
     "url": "DDGeopolitics/184200",
@@ -708,45 +748,5 @@
     "url": "https://en.mehrnews.com/news/244529/Trump-in-Beijing-America-s-weakest-hand-in-a-century",
     "title": "Trump in Beijing: America's weakest hand in century",
     "published": "2026-05-15T07:04:50+00:00"
-  },
-  "a5c0cc5be580b4961b0cfa67d3f0d05862fb10663bad5ee8a7a0f971fec07e4e": {
-    "url": "mod_russia_en/26973",
-    "title": "Russian Forces Disrupt AFU Reconnaissance Capabilities in Zaporozhye Region",
-    "published": "2026-05-15T03:58:02.777675+00:00"
-  },
-  "3722bd08c91f0d2165d5ebc03e7ef4c23f5a82f2dbb74edc3287b312cecccf17": {
-    "url": "mod_russia_en/26980",
-    "title": "Russian Forces Target Enemy Positions in Zaporozhye Region",
-    "published": "2026-05-15T03:56:45.727467+00:00"
-  },
-  "aba57ab34b94f69b4d8339a3df00feb2c7bafbb033e89a35edd66935433ec553": {
-    "url": "Slavyangrad/164211",
-    "title": "Skyeton Drone Facility Damaged in Kiev",
-    "published": "2026-05-15T03:55:26.050084+00:00"
-  },
-  "736a880ab037a573d964cb54ed53c057bb6699ed2cb490275e211f1e5860cbaf": {
-    "url": "Middle_East_Spectator/32081",
-    "title": "IDF Deploys Anti-Drone Netting at Bases in Israel and Lebanon",
-    "published": "2026-05-15T03:55:01.055230+00:00"
-  },
-  "d81576572f23785af5f5689c64be2a9f0b776e0bf81dbd8f76cb1dd128e9c7df": {
-    "url": "Middle_East_Spectator/32090",
-    "title": "Trump Warns Iran's Missile Capabilities Will Be Neutralized",
-    "published": "2026-05-15T03:54:58.922427+00:00"
-  },
-  "e804eab2cccdb912d868997eec94fc57bed6407b659c9f200077dec071e8b93f": {
-    "url": "thecradlemedia/59599",
-    "title": "UAE-Iran Tensions Escalate Amid BRICS Summit",
-    "published": "2026-05-15T03:53:05.819337+00:00"
-  },
-  "371d5a5ee3a1984193d0ac0acf449c7bcae3f5be2c4d29ae043cc70b712f8a45": {
-    "url": "mod_russia_en/26989",
-    "title": "Ukrainian Forces Launch Artillery Strikes on Enemy Positions in Eastern Ukraine",
-    "published": "2026-05-14T23:14:59.873792+00:00"
-  },
-  "a87e9b39249196c8f80c66b8fca0edf0c20582dec0e28fe3f8b8bf4929d8f57a": {
-    "url": "Slavyangrad/164199",
-    "title": "Hungary Demands Ceasefire from Russia over Zakarpattia Drone Attack",
-    "published": "2026-05-14T23:13:57.317534+00:00"
   }
 }
