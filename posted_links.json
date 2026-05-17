@@ -1,4 +1,39 @@
 {
+  "66fc3deeb730a431b41482e0987cd1e85a244896aaf3a1186393eeb950d9beeb": {
+    "url": "Slavyangrad/164406",
+    "title": "Unidentified Drone Enters Latvia's Airspace, Triggers Air Threat Alert",
+    "published": "2026-05-17T21:07:50.784495+00:00"
+  },
+  "eb018f599f3972e33ce6d878f467c3862134d7344b3eb4f490ab93393fe08b7e": {
+    "url": "presstv/190289",
+    "title": "Ukraine Launches Major Drone Strike on Moscow and Russian Regions",
+    "published": "2026-05-17T21:07:06.650806+00:00"
+  },
+  "d647d241ee5304a903eaca7c68ea4b20f992521efac21cca88427ec1687d7670": {
+    "url": "presstv/190290",
+    "title": "US Navy Vessel Damaged in Alleged Iranian Missile Strike During Strait of Hormuz Ceasefire",
+    "published": "2026-05-17T21:06:07.560974+00:00"
+  },
+  "13fa640f49faff06725f4d8104f1bab66cbed7550e09c6acdf03bd18bbe14cc8": {
+    "url": "presstv/190293",
+    "title": "Yemeni Forces Down US Drone in Marib",
+    "published": "2026-05-17T21:04:49.016388+00:00"
+  },
+  "3b1c3966bdfdd4977c2703d614c24c725b8043f2b367fa3b5a5fe7c6bee7e019": {
+    "url": "Middle_East_Spectator/32154",
+    "title": "UAE Confirms Drone Attack on Barakah Nuclear Power Plant",
+    "published": "2026-05-17T21:04:10.458174+00:00"
+  },
+  "dbc94619e78caf60c7a91ddb780c86200b0808310ae63dbf433a47ff5d95a27b": {
+    "url": "Middle_East_Spectator/32162",
+    "title": "Yemeni Forces Down US MQ-9 Reaper Drone in Marib Governorate",
+    "published": "2026-05-17T21:04:09.361642+00:00"
+  },
+  "8203de0fa322dcc0e86c20c90a930c9875db2a2312faa5a294dc96018efe5823": {
+    "url": "https://tass.com/world/2132063",
+    "title": "Trump warns Iran of harder strikes than before if there is no deal",
+    "published": "2026-05-17T19:34:49+00:00"
+  },
   "d1093ccc15b5be66a19b7ef650857634c56f5325267427e5b5bfb4613f4dc59f": {
     "url": "presstv/190285",
     "title": "Hezbollah Targets Israeli Troop Carrier in Southern Lebanon",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/59806",
     "title": "UAE Mulls Seizing Iranian Island Amid Escalating Regional Tensions",
     "published": "2026-05-17T19:19:11.735454+00:00"
+  },
+  "44ae2a965ff34ac52f988e4e32fa267ebcf725f4542781e1cb29d82072cf2df4": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
+    "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
+    "published": "2026-05-17T19:15:21+00:00"
   },
   "964639b1c06e39e4f76d43621404ede0f007bc7d8f47d02b25ab074c86eed162": {
     "url": "https://english.almanar.com.lb/article/74067/",
@@ -263,6 +303,11 @@
     "url": "Middle_East_Spectator/32146",
     "title": "Explosion Rocks Sdot Micha Airbase, Israel",
     "published": "2026-05-17T03:52:03.599233+00:00"
+  },
+  "8b9ef86c672cab197bf838bc6882c6478e3d22f55c5d8f4318750091ccdfed94": {
+    "url": "https://tass.com/world/2131913",
+    "title": "Hezbollah says 19 operations against Israeli forces took place in Lebanon in past 24 hours",
+    "published": "2026-05-17T01:48:05+00:00"
   },
   "0ae8c7e76390eac64bea3952e611e6b6e65b16dffb92c27b2a29a5befe675803": {
     "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
@@ -703,50 +748,5 @@
     "url": "DDGeopolitics/184167",
     "title": "Malian Forces Target Militant Training Camp in Kombakala",
     "published": "2026-05-15T19:50:42.754518+00:00"
-  },
-  "d8a86ba5bfcc7738375b192bdca7f2637a3aa1672aca1f06adfd7728d103f1ba": {
-    "url": "QudsNen/223558",
-    "title": "Israeli Airstrike Targets Vehicle in Gaza City",
-    "published": "2026-05-15T19:49:20.299358+00:00"
-  },
-  "6a27e89eb5744bb0f433faed8eff4f6675c517663bd36ce4eeafd18a9d74b565": {
-    "url": "thecradlemedia/59708",
-    "title": "Israeli Airstrike Targets Gaza City Residential Building",
-    "published": "2026-05-15T19:47:51.067301+00:00"
-  },
-  "67f57bc3571861514fddec4443e4c246bdcaf0d4d44079bfd5b28dd418919abe": {
-    "url": "thecradlemedia/59709",
-    "title": "Israel Claims Assassination of Hamas Military Chief Izz al-Din al-Haddad",
-    "published": "2026-05-15T19:47:50.123857+00:00"
-  },
-  "0ef65d31d958b5b15e6129c310ca67458462c9a34aef1133a6f6064a3d05dd6b": {
-    "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-    "title": "Israel says it has killed Hamas commander in Gaza air strike",
-    "published": "2026-05-15T19:38:38+00:00"
-  },
-  "d109832b841471f8fe1183d9b6d3b97364eeb8a5c429d18d7b3b2495c98e5ace": {
-    "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
-    "title": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
-    "published": "2026-05-15T18:08:51+00:00"
-  },
-  "44b95077dfe38e47700d17d5bd36c70ad9ebc1ca30a688912b607f90bc2782e2": {
-    "url": "https://tass.com/world/2131651",
-    "title": "Hamas military wing commander killed in Israel\u2019 strike on Gaza City \u2014 minister",
-    "published": "2026-05-15T17:51:24+00:00"
-  },
-  "14170cd663964d698dbecc50615227cbf941dbf5ce43c8c324d9e3c683adefbd": {
-    "url": "QudsNen/223547",
-    "title": "Israeli Airstrikes Hit Residential Building in Gaza's Al-Rimal Neighborhood",
-    "published": "2026-05-15T17:51:06.217559+00:00"
-  },
-  "8684e9949bc6c1a065b800813ffe160b0acc86d8ea7891d54333d8ef5034c727": {
-    "url": "QudsNen/223548",
-    "title": "Israeli Forces Bombard Residential Building in Tyre, Lebanon, Rescue Efforts Underway",
-    "published": "2026-05-15T17:50:39.965194+00:00"
-  },
-  "bb4cdb72da6e61f1be7c3ccdef8d0f63441ba00fe05faeaabf6aac126a84ae59": {
-    "url": "QudsNen/223549",
-    "title": "Israeli Airstrikes Hit Residential Building in Gaza City",
-    "published": "2026-05-15T17:50:16.196965+00:00"
   }
 }

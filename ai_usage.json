@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3147,
+  "total_calls": 3151,
   "tiers": {
-    "groq": 3128,
+    "groq": 3132,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-15T07:03:45.314717+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-15T07:04:18.758529+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-15T07:04:34.917998+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-15T07:04:53.662827+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-15T10:41:41.413583+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-17T19:19:08.344208+00:00",
       "tier": "groq",
       "article": "US cancels troop deployment to Poland"
+    },
+    {
+      "timestamp": "2026-05-17T21:03:04.953834+00:00",
+      "tier": "groq",
+      "article": "Israel kills three Palestinians in strike on an aid kitchen in Gaza"
+    },
+    {
+      "timestamp": "2026-05-17T21:03:21.883482+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-17T21:03:47.019170+00:00",
+      "tier": "groq",
+      "article": "Trump warns Iran of harder strikes than before if there is no deal"
+    },
+    {
+      "timestamp": "2026-05-17T21:04:04.353089+00:00",
+      "tier": "groq",
+      "article": "Hezbollah says 19 operations against Israeli forces took place in Lebanon in past 24 hours"
     }
   ]
 }
