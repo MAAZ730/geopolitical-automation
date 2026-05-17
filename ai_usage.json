@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3151,
+  "total_calls": 3155,
   "tiers": {
-    "groq": 3132,
+    "groq": 3136,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-15T10:41:41.413583+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-15T10:41:57.702339+00:00",
-      "tier": "groq",
-      "article": "Sixth Soldier Down: Israeli Enemy Admits Mortar Strike in South Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-15T10:42:17.026632+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks killed 25 Russians during Zelensky\u2019s 'pseudo-ceasefire' \u2014 Russian MFA"
-    },
-    {
-      "timestamp": "2026-05-15T10:42:34.933363+00:00",
-      "tier": "groq",
-      "article": "How much money does Rutte want NATO to give Ukraine?"
-    },
     {
       "timestamp": "2026-05-15T14:18:45.234906+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-17T21:04:04.353089+00:00",
       "tier": "groq",
       "article": "Hezbollah says 19 operations against Israeli forces took place in Lebanon in past 24 hours"
+    },
+    {
+      "timestamp": "2026-05-17T23:01:31.028674+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-17T23:01:47.404644+00:00",
+      "tier": "groq",
+      "article": "Fire breaks out near Barakah NPP in UAE as result of drone strike \u2014 authorities"
+    },
+    {
+      "timestamp": "2026-05-17T23:02:10.748603+00:00",
+      "tier": "groq",
+      "article": "Zaporozhye NPP\u2019s Raduga substation attacked by Ukrainian drone"
+    },
+    {
+      "timestamp": "2026-05-17T23:02:29.043703+00:00",
+      "tier": "groq",
+      "article": "Naval blockade unlikely to undermine Iran\u2019s economy, envoy says"
     }
   ]
 }
