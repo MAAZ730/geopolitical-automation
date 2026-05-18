@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3167,
+  "total_calls": 3171,
   "tiers": {
-    "groq": 3148,
+    "groq": 3152,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-15T21:12:54.510191+00:00",
-      "tier": "groq",
-      "article": "Hamas military wing commander killed in Israel\u2019 strike on Gaza City \u2014 minister"
-    },
-    {
-      "timestamp": "2026-05-15T21:13:28.657436+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-15T21:14:21.140021+00:00",
-      "tier": "groq",
-      "article": "Israel says it has killed Hamas commander in Gaza air strike"
-    },
-    {
-      "timestamp": "2026-05-15T21:14:37.441982+00:00",
-      "tier": "groq",
-      "article": "Trump in Beijing: America's weakest hand in century"
-    },
     {
       "timestamp": "2026-05-15T23:05:28.840008+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-18T13:57:24.501245+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-18T16:52:32.646173+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-18T16:52:52.884002+00:00",
+      "tier": "groq",
+      "article": "Russian drone hits Chinese ship off Ukraine before Putin meets Xi Jinping"
+    },
+    {
+      "timestamp": "2026-05-18T16:53:16.927838+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-18T16:54:04.565596+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }

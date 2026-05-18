@@ -1,4 +1,34 @@
 {
+  "cfbb5f4c458c814f5186765b07348c2e91cca7905ece637e94ded79b1332d324": {
+    "url": "presstv/190381",
+    "title": "IRGC Disrupts US-Israel Linked Terror Groups in Western Iran",
+    "published": "2026-05-18T17:01:56.654091+00:00"
+  },
+  "b027ef9c37354b0b6607dd39d87d41d0b489d76110e1a24043cce8f9b719e5be": {
+    "url": "presstv/190389",
+    "title": "Gates Dismisses Netanyahu's Iran War Prediction",
+    "published": "2026-05-18T17:00:03.391738+00:00"
+  },
+  "45f51944da0a22bfabcd7bfcb4317b05f591e8888a985f44bd704dddace4effc": {
+    "url": "presstv/190394",
+    "title": "Hezbollah Launches Drone Attack on Israeli Military Vehicle in Southern Lebanon",
+    "published": "2026-05-18T16:57:32.585328+00:00"
+  },
+  "877e75811299b4049b0b8f5633e9246905a09e1bc94e4bf5c17652837cc60d7d": {
+    "url": "QudsNen/223907",
+    "title": "Israeli Airstrike Targets Residential Building in Nabatieh al-Fawqa, Lebanon",
+    "published": "2026-05-18T16:55:40.103392+00:00"
+  },
+  "c042431aa715573afdf31bc06e25d946fa377f5e5bc5ebe0fef1b03e9704bf70": {
+    "url": "thecradlemedia/59855",
+    "title": "Israeli Airstrike Hits Froun in Lebanon's Bint Jbeil District",
+    "published": "2026-05-18T16:54:24.305400+00:00"
+  },
+  "20ca4649cb43539eee034faae6ebc358a6d01484d5ff3b3f8484ca07c260616b": {
+    "url": "thecradlemedia/59861",
+    "title": "Saudi Arabia Intercepts Drones, Iraq Denies Involvement",
+    "published": "2026-05-18T16:54:16.254446+00:00"
+  },
   "bb5c3cfbcd14dc129bd2886bbebe909ec78da0c4a98686c85d2dfe4c9f1d54b4": {
     "url": "QudsNen/223887",
     "title": "Israeli Police Open Fire on Palestinian Vehicle in Ni'lin",
@@ -33,6 +63,11 @@
     "url": "https://english.almanar.com.lb/article/74532/",
     "title": "\u201cDoomsday\u201d Scenario: Officials Warn Missile Barrages Could Plunge \u2018Israel\u2019 into Darkness - Al-Manar TV Lebanon",
     "published": "2026-05-18T13:10:20+00:00"
+  },
+  "74e03afedcf4ff9457c835eace3f8095f468bf5bbc1352bee2bff7be5778e99b": {
+    "url": "https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss",
+    "title": "Russian drone hits Chinese ship off Ukraine before Putin meets Xi Jinping",
+    "published": "2026-05-18T10:52:23+00:00"
   },
   "df67b382bd89ac7062293ed2a517dd96a7ba5fd2882b662e7dc3ac4fecbc1ce0": {
     "url": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/59735",
     "title": "Iran FM Warns US Citizens Will Pay Economic Price for 'War of Choice'",
     "published": "2026-05-16T11:11:43.835959+00:00"
-  },
-  "3c22b51ad6e6cbd3c118aa04618f3cab21d6540d5b9fecc2c8792ff4b95cda4f": {
-    "url": "Slavyangrad/164305",
-    "title": "Russia-Ukraine Conflict: Aerial Strikes in Eastern Ukraine",
-    "published": "2026-05-16T09:55:03.212292+00:00"
-  },
-  "627dd952f526f76165e9fce22823759f02df050163cba9da2833546a84075147": {
-    "url": "Slavyangrad/164308",
-    "title": "Trump Hints at Caution on Taiwan Arms Package Amid China Tensions",
-    "published": "2026-05-16T09:54:04.073539+00:00"
-  },
-  "7a4fa699a21e79d03a553425ddc1135514572dc911e96e8aa14c835494b99ab1": {
-    "url": "intelslava/87858",
-    "title": "Trump Discusses Ukraine Conflict with Xi Jinping in China",
-    "published": "2026-05-16T09:52:47.319315+00:00"
-  },
-  "ca17d726ddc09b5e452c2710efd0f37a97c84e7febb2e4a12aec1583729614f7": {
-    "url": "thecradlemedia/59715",
-    "title": "Palestinian Dog Fatally Attacked by Jewish Settler in West Bank",
-    "published": "2026-05-16T09:51:34.505381+00:00"
-  },
-  "5db4dedc72dbfadd7a8c53d63da6c95fa5142b3e277ad37427d3c98b43ece1ed": {
-    "url": "thecradlemedia/59724",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-05-16T09:50:48.156642+00:00"
-  },
-  "2f3ec72ee7768085307a6341de6769384b73542a2705b3a3ab102bea0a6389be": {
-    "url": "thecradlemedia/59728",
-    "title": "Iraq's Oil Exports Plummet Through Strait of Hormuz",
-    "published": "2026-05-16T09:50:46.308019+00:00"
-  },
-  "1b0bb1793b99786ed8040e703a94a7c3f55889e0f6219b215df324f2b5f092d2": {
-    "url": "CyberspecNews/107515",
-    "title": "EDGE Unveils Containerized Shadow 25 Suicide Drone",
-    "published": "2026-05-16T06:37:30.295224+00:00"
   }
 }
