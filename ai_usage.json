@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3171,
+  "total_calls": 3175,
   "tiers": {
-    "groq": 3152,
+    "groq": 3156,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-15T23:05:28.840008+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-15T23:06:04.012863+00:00",
-      "tier": "groq",
-      "article": "Zelenskyy vows response after Russian strike kills 24 in Kyiv"
-    },
-    {
-      "timestamp": "2026-05-15T23:06:50.413347+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-15T23:07:06.435432+00:00",
-      "tier": "groq",
-      "article": "Near Russian border, NATO grapples with ground robots in combat"
-    },
     {
       "timestamp": "2026-05-16T03:35:15.085141+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-18T16:54:04.565596+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-18T19:51:29.321854+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-18T19:52:09.313150+00:00",
+      "tier": "groq",
+      "article": "'This may be the last time you hear my voice': Political executions surge in Iran "
+    },
+    {
+      "timestamp": "2026-05-18T19:52:26.263124+00:00",
+      "tier": "groq",
+      "article": "Russian troops deliver massive overnight strike on Ukrainian military-industrial sites"
+    },
+    {
+      "timestamp": "2026-05-18T19:52:44.389569+00:00",
+      "tier": "groq",
+      "article": "Iranian diplomat calls on Middle East countries to learn from recent events"
     }
   ]
 }
