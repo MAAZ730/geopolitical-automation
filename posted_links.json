@@ -1,4 +1,34 @@
 {
+  "90a202c92d8cf3883cb908bedefff5122c7acd6b66a72de0d1d51a5cc0f1dbe9": {
+    "url": "BellumActaNews/172888",
+    "title": "Verified News Source Offers In-Depth Coverage of Global Events",
+    "published": "2026-05-18T23:15:29.360793+00:00"
+  },
+  "1cd14b3d691aa54fd95ecdf89220702a1992faa72c6fe4d72e92c6bf7819dbba": {
+    "url": "BellumActaNews/172889",
+    "title": "Israeli Navy Intercepts Global Sumud Flotilla in Mediterranean",
+    "published": "2026-05-18T23:14:39.136945+00:00"
+  },
+  "7fc4a0bd0ee20116fb26c79e32da5c634c94ea9ef5f835cfa8feffc5c1d22703": {
+    "url": "DDGeopolitics/184366",
+    "title": "Trump Hints at Possible Iran Deal Without Military Action",
+    "published": "2026-05-18T23:13:59.442241+00:00"
+  },
+  "ece9f7a19a7c7b2fb6cf302938813d951e7ec84cdc2d74b878526151372b1462": {
+    "url": "QudsNen/223976",
+    "title": "Israeli Military Threatens Aerial Strike on Residential Building in Tyre, Lebanon",
+    "published": "2026-05-18T23:10:29.594046+00:00"
+  },
+  "3a63cf3ba0f1244e216e32901dd78e3d127cac51492af66ffeefa5a78daa61ea": {
+    "url": "thecradlemedia/59854",
+    "title": "Pakistan Deploys Troops and Jets to Saudi Arabia Amid Regional Tensions",
+    "published": "2026-05-18T23:09:49.119267+00:00"
+  },
+  "12c6c8b0fb946927b9a83accc22514410ce11cf6ff1ff9f3a67d75686c3170f7": {
+    "url": "thecradlemedia/59863",
+    "title": "IRGC Foils US Arms Shipments to Militant Groups in Iraqi Kurdistan",
+    "published": "2026-05-18T23:09:47.826719+00:00"
+  },
   "8391a2db71cf9d1f003e4bedfec4169eb3b6fed10bf1c342aa08c31960bbcd4d": {
     "url": "intelslava/87893",
     "title": "Russia Targets JNIM Camp in Mali's Koulikoro Region",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/59871",
     "title": "US Warns Pakistan of Deteriorating Relations Over Drone Base Dispute",
     "published": "2026-05-18T21:22:28.288263+00:00"
+  },
+  "70651a41fd0004e19515802a49c7e87c8b533973565fc5736dc273ea8e198880": {
+    "url": "https://tass.com/world/2132647",
+    "title": "US military intelligence believes Ukraine is delivering chaotic strikes on Russia",
+    "published": "2026-05-18T20:49:42+00:00"
   },
   "929960f1899d3bc26609fa96c062da8755275585b2e48f739c7fb903c1f4691d": {
     "url": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests?traffic_source=rss",
@@ -139,10 +174,20 @@
     "title": "Russian troops deliver massive overnight strike on Ukrainian military-industrial sites",
     "published": "2026-05-18T12:02:12+00:00"
   },
+  "61493c051a809f6f2c0d4418643435c509a51a42ea4a9632410b105a87d5566c": {
+    "url": "https://tass.com/defense/2132349",
+    "title": "Kalashnikov completes import substitution for all required ERP systems \u2014 CEO",
+    "published": "2026-05-18T11:28:20+00:00"
+  },
   "74e03afedcf4ff9457c835eace3f8095f468bf5bbc1352bee2bff7be5778e99b": {
     "url": "https://www.aljazeera.com/news/2026/5/18/russian-drone-hits-chinese-ship-off-ukraine-before-putin-visits-xi-jinping?traffic_source=rss",
     "title": "Russian drone hits Chinese ship off Ukraine before Putin meets Xi Jinping",
     "published": "2026-05-18T10:52:23+00:00"
+  },
+  "e3e5bb856bf2067999bee6bd8d01b80f0583135442ebb605568f399beaf9fa2a": {
+    "url": "https://tass.com/emergencies/2132285",
+    "title": "Ukrainian attack on Belgorod Region leaves two dead, two wounded",
+    "published": "2026-05-18T10:35:29+00:00"
   },
   "7a9b4a428f7599e374b351c3bbc3abfdbb3bfda88983eb0ec8635a23f1923010": {
     "url": "https://en.mehrnews.com/news/244611/Iran-s-right-to-uranium-enrichment-non-negotiable-under-NPT",
@@ -703,50 +748,5 @@
     "url": "https://tass.com/politics/2131859",
     "title": "Russian embassy calls on Moldova to resume constructive dialogue on Transnistria",
     "published": "2026-05-16T19:08:08+00:00"
-  },
-  "8f15b4fcb102d72bd294a3dc4d43a67220b4d7bf19ed0effd01e89613f840712": {
-    "url": "https://en.mehrnews.com/news/244568/Hamas-confirms-top-commander-assassinated-in-strike",
-    "title": "Hamas confirms top commander assassinated in strike",
-    "published": "2026-05-16T18:32:22+00:00"
-  },
-  "cd14c93bc16e2bb37c6dbcc4c26b118c7029f9a1cb2d8c18436668c788e65462": {
-    "url": "QudsNen/223677",
-    "title": "Gaza Strip: Daughter of Slain Journalist Pays Tribute to Her Father",
-    "published": "2026-05-16T17:10:19.994484+00:00"
-  },
-  "eba07d5530e3bfb04116ab64ca47efab1e6a33c408eef8160fcfd9fe738239bd": {
-    "url": "QudsNen/223680",
-    "title": "Israeli Airstrike Hits Residential Building in Burj al-Shamali Refugee Camp",
-    "published": "2026-05-16T17:07:51.894509+00:00"
-  },
-  "28777971eb41a01767c373285adec4215d6913cd7b27759cfba412aa94eae36b": {
-    "url": "QudsNen/223681",
-    "title": "Israeli Airstrikes Hit Medical Facility in Southern Lebanon",
-    "published": "2026-05-16T17:07:37.385217+00:00"
-  },
-  "14aa096f4b97b259805c92a1f21d30ea6b5d0b6caa8433dc0db7da487b79253d": {
-    "url": "QudsNen/223683",
-    "title": "Israeli Airstrikes Hit Residential Building in Southern Lebanon",
-    "published": "2026-05-16T17:06:41.658068+00:00"
-  },
-  "4d6a7c5b34332555f63359b25ff64dd5403e3b2ea3a34b05723777ee97a35c96": {
-    "url": "thecradlemedia/59750",
-    "title": "Israeli Warplanes Strike Tyre's Maachouk Neighborhood",
-    "published": "2026-05-16T17:06:07.341301+00:00"
-  },
-  "bc03995fbd194520c39da6c159f27254fb1048369e09c2b6a915e1d17637b408": {
-    "url": "thecradlemedia/59764",
-    "title": "Hamas Military Chief Killed in Israeli Strike in Gaza",
-    "published": "2026-05-16T17:06:05.701771+00:00"
-  },
-  "cc7846cff8753f50987a8c02a520c08dd6a3681b6fc27e95d6de2c93e6461748": {
-    "url": "presstv/190100",
-    "title": "Israeli Airstrikes Hit Haouch in Southern Lebanon",
-    "published": "2026-05-16T15:11:05.724429+00:00"
-  },
-  "4a438d06d43d65313826c2f438c21d33adf3a0c5b83a33a21281f33ce2c82484": {
-    "url": "militarywave/23768",
-    "title": "Ebola Outbreak Worsens in Democratic Republic of Congo",
-    "published": "2026-05-16T15:07:13.443169+00:00"
   }
 }

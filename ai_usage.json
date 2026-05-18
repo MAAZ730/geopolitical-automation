@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3179,
+  "total_calls": 3183,
   "tiers": {
-    "groq": 3160,
+    "groq": 3164,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-16T06:27:31.497689+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-16T06:28:03.980560+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-16T06:28:50.546304+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-16T06:29:09.323732+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-16T09:49:34.479347+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-18T21:22:24.722881+00:00",
       "tier": "groq",
       "article": "Iran\u2019s right to uranium enrichment non-negotiable under NPT"
+    },
+    {
+      "timestamp": "2026-05-18T23:08:04.835948+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-18T23:08:37.962767+00:00",
+      "tier": "groq",
+      "article": "US military intelligence believes Ukraine is delivering chaotic strikes on Russia"
+    },
+    {
+      "timestamp": "2026-05-18T23:09:24.541460+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attack on Belgorod Region leaves two dead, two wounded"
+    },
+    {
+      "timestamp": "2026-05-18T23:09:43.441014+00:00",
+      "tier": "groq",
+      "article": "Kalashnikov completes import substitution for all required ERP systems \u2014 CEO"
     }
   ]
 }
