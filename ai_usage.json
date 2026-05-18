@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3155,
+  "total_calls": 3159,
   "tiers": {
-    "groq": 3136,
+    "groq": 3140,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-15T14:18:45.234906+00:00",
-      "tier": "groq",
-      "article": "Israeli Circles Voice Concern as Hezbollah Intensifies Attacks, Displacement Grows - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-15T14:19:03.366693+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-15T14:19:27.540321+00:00",
-      "tier": "groq",
-      "article": "Israel delivers 17 strikes on Beirut\u2019s southern suburbs \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-15T14:19:45.130726+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-15T17:47:41.714669+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-17T23:02:29.043703+00:00",
       "tier": "groq",
       "article": "Naval blockade unlikely to undermine Iran\u2019s economy, envoy says"
+    },
+    {
+      "timestamp": "2026-05-18T04:01:45.973004+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-18T04:02:19.799942+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-18T04:03:07.086904+00:00",
+      "tier": "groq",
+      "article": "Trump says urged Putin against responding to Ukraine's recent strikes on Russia"
+    },
+    {
+      "timestamp": "2026-05-18T04:03:26.157745+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
