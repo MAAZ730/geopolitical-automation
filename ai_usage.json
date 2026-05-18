@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3163,
+  "total_calls": 3167,
   "tiers": {
-    "groq": 3144,
+    "groq": 3148,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-15T19:46:05.224588+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-15T19:46:38.280416+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-15T19:47:24.904081+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-15T19:47:44.242419+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-15T21:12:54.510191+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-18T08:20:05.999892+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-18T13:55:49.293891+00:00",
+      "tier": "groq",
+      "article": "\u201cDoomsday\u201d Scenario: Officials Warn Missile Barrages Could Plunge \u2018Israel\u2019 into Darkness - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-18T13:56:29.503722+00:00",
+      "tier": "groq",
+      "article": "US military carries out more strikes against ISIL fighters in Nigeria"
+    },
+    {
+      "timestamp": "2026-05-18T13:56:46.048507+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-18T13:57:24.501245+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }
