@@ -1,4 +1,34 @@
 {
+  "75848511b862701709e4e6ed28a545c1c55473788d8fab25374778f97deac815": {
+    "url": "intelslava/87945",
+    "title": "Ukrainian Forces Employ Swedish-Supplied Artillery in Highway Deployment",
+    "published": "2026-05-19T23:21:28.386564+00:00"
+  },
+  "f75952358bc6e44847a26460a61ab2be1d282636e5de38d4007db946e8a8a89e": {
+    "url": "BellumActaNews/172931",
+    "title": "US Senate Advances Measure Requiring Congressional Approval for Iran Strikes",
+    "published": "2026-05-19T23:17:46.049243+00:00"
+  },
+  "292ff3016529c76ab9db11d5b122de5cb8cea9e879426082e2fe9449c66ec075": {
+    "url": "warmonitors/44120",
+    "title": "Ukrainian Drone Strike Kills Four in Russia",
+    "published": "2026-05-19T23:15:27.933277+00:00"
+  },
+  "4c2b4f82990a4b8c44c0576ab2c5cecb01dbe3831c3770ad940bc74c20e3fdbd": {
+    "url": "QudsNen/224122",
+    "title": "Israeli Drones Strike Police Point in Southern Gaza Strip",
+    "published": "2026-05-19T23:11:54.902215+00:00"
+  },
+  "b1a321e08c7b33790c5503dbb113512db837d881ccf3ac4ec85ad56c9ef8ceb1": {
+    "url": "Middle_East_Spectator/32210",
+    "title": "Iran Restores Abyek Underground Missile Facility",
+    "published": "2026-05-19T23:11:38.277340+00:00"
+  },
+  "1d2a11fa9093f18edd061441d7c5402dd48397aaa9a58bd6a93ef468f909d3a5": {
+    "url": "Middle_East_Spectator/32216",
+    "title": "US Senate Advances War Powers Resolution Limiting Military Activities in Iran",
+    "published": "2026-05-19T23:11:37.273639+00:00"
+  },
   "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
     "url": "CensoredMen/203",
     "title": "Israel Escalates Strikes in Lebanon Amid Ceasefire Dispute",
@@ -718,35 +748,5 @@
     "url": "intelslava/87870",
     "title": "Ukrainian USV Equipped with Flamethrowers and Drones Sighted near Kinburn Spit",
     "published": "2026-05-17T11:25:29.949853+00:00"
-  },
-  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
-    "url": "CensoredMen/189",
-    "title": "Iranian Missiles Strike Israeli Territory",
-    "published": "2026-05-17T11:24:54.649406+00:00"
-  },
-  "950f6478ffed4f130b3d2be4c2c93b7518eb4952278d35d8111de2476e45e310": {
-    "url": "presstv/190225",
-    "title": "Coal-Fired Power Plants Surge in Asia Amid Iran Conflict",
-    "published": "2026-05-17T11:22:03.669030+00:00"
-  },
-  "4175a5f53f218db787c149c5d4c5e1bbc462d30afd663a298470ba32143ee7eb": {
-    "url": "presstv/190233",
-    "title": "Iran's President Ebrahim Raeisi Pursues Regional Partnerships Amid Sanctions",
-    "published": "2026-05-17T11:20:25.504118+00:00"
-  },
-  "1b324e5158935ef894f033c2b12d919ea93ba66d404661510714c801efc75e2b": {
-    "url": "thecradlemedia/59785",
-    "title": "Drone Strike Sparks Fire Near Abu Dhabi Nuclear Plant",
-    "published": "2026-05-17T11:17:47.468121+00:00"
-  },
-  "a7c8c61a2ef177aa92dba146f37df544b7cfd7e21b4b683ae185a95fbd7a2434": {
-    "url": "thecradlemedia/59787",
-    "title": "Israeli Forces Utilize Protective Canopy in South Lebanon Amid Drone Threats",
-    "published": "2026-05-17T11:17:45.829021+00:00"
-  },
-  "007e3f76af3d9cb9427e0893ecce904748edfd0caee7ddde24c8ecfa970a49a1": {
-    "url": "militarywave/23779",
-    "title": "Spanish Official Warns of Rising Global Tensions Amid Historical Precedents",
-    "published": "2026-05-17T10:00:38.212510+00:00"
   }
 }
