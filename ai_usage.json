@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3199,
+  "total_calls": 3203,
   "tiers": {
-    "groq": 3180,
+    "groq": 3184,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-16T17:04:23.242942+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-16T17:04:56.523274+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-16T17:05:42.667446+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-16T17:06:01.817131+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-16T19:12:53.546810+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-19T15:38:37.116593+00:00",
       "tier": "groq",
       "article": "Iran, Oman crafting new transit mechanism for Hormuz"
+    },
+    {
+      "timestamp": "2026-05-19T18:12:22.006778+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-19T18:12:54.497395+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-19T18:13:44.493137+00:00",
+      "tier": "groq",
+      "article": "Lithuania urges NATO to attack Russia\u2019s Kaliningrad Region"
+    },
+    {
+      "timestamp": "2026-05-19T18:14:03.872026+00:00",
+      "tier": "groq",
+      "article": "Iran ready to hand over highly enriched uranium to Russia \u2013 media"
     }
   ]
 }
