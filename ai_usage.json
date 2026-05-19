@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3195,
+  "total_calls": 3199,
   "tiers": {
-    "groq": 3176,
+    "groq": 3180,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-16T15:02:57.002494+00:00",
-      "tier": "groq",
-      "article": "VIDEO: Funeral held for Hamas top commander killed by Israel"
-    },
-    {
-      "timestamp": "2026-05-16T15:03:28.299442+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-16T15:03:44.402590+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-16T15:04:00.657108+00:00",
-      "tier": "groq",
-      "article": "Discussions on denuclearization with Russia and China, Iran operation: Trump\u2019s statements"
-    },
     {
       "timestamp": "2026-05-16T17:04:23.242942+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-19T11:29:33.113132+00:00",
       "tier": "groq",
       "article": "Military decoupling between the US and Europe is gathering pace"
+    },
+    {
+      "timestamp": "2026-05-19T15:36:56.028198+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-19T15:37:28.753743+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-19T15:38:17.912043+00:00",
+      "tier": "groq",
+      "article": "Russia develops Odyssey repeater to increase UAV strike range"
+    },
+    {
+      "timestamp": "2026-05-19T15:38:37.116593+00:00",
+      "tier": "groq",
+      "article": "Iran, Oman crafting new transit mechanism for Hormuz"
     }
   ]
 }
