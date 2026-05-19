@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3187,
+  "total_calls": 3191,
   "tiers": {
-    "groq": 3168,
+    "groq": 3172,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-16T11:10:45.276187+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-16T11:11:03.975788+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-16T11:11:20.868838+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-16T11:11:39.310845+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-16T13:44:20.850928+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-19T03:59:16.800583+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-19T07:54:57.847280+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-19T07:55:14.638063+00:00",
+      "tier": "groq",
+      "article": "Ukrainian forces attack DPR territory 11 times over past day, one person killed"
+    },
+    {
+      "timestamp": "2026-05-19T07:55:33.041601+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-19T07:55:49.123106+00:00",
+      "tier": "groq",
+      "article": "India to keep buying Russian oil, 'waiver or no waiver' from US \u2014 Indian ministry"
     }
   ]
 }
