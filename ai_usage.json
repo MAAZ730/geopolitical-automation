@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3223,
+  "total_calls": 3227,
   "tiers": {
-    "groq": 3204,
+    "groq": 3208,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-17T09:55:03.520769+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-17T09:55:36.433379+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-17T09:56:22.974074+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-17T09:56:39.309884+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-17T11:16:00.294468+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-20T11:02:35.018812+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-20T15:34:21.883033+00:00",
+      "tier": "groq",
+      "article": "Seven people killed in Israeli strikes on southern Lebanon \u2014 news agency"
+    },
+    {
+      "timestamp": "2026-05-20T15:35:02.569295+00:00",
+      "tier": "groq",
+      "article": "Pentagon refuses to admit responsibility for deadly Iran school strike"
+    },
+    {
+      "timestamp": "2026-05-20T15:35:21.136474+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-20T15:35:59.497564+00:00",
+      "tier": "groq",
+      "article": "Croatian president rejects Israeli ambassador over government policies"
     }
   ]
 }
