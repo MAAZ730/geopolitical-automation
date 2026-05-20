@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3235,
+  "total_calls": 3239,
   "tiers": {
-    "groq": 3216,
+    "groq": 3220,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-17T15:05:01.686444+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-17T15:05:20.981107+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-17T15:05:39.404558+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-17T15:05:55.738018+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-17T17:05:56.214898+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-20T22:05:00.796755+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-20T23:27:32.100314+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-20T23:28:05.559225+00:00",
+      "tier": "groq",
+      "article": "IRGC warns war will expand beyond region if Iran hit again"
+    },
+    {
+      "timestamp": "2026-05-20T23:28:54.011385+00:00",
+      "tier": "groq",
+      "article": "US conducts test launch of Minuteman III ICBM \u2014 Vandenberg Space Force Base"
+    },
+    {
+      "timestamp": "2026-05-20T23:29:12.875209+00:00",
+      "tier": "groq",
+      "article": "Putin and Xi launch Beijing summit with new Russia-China agreements"
     }
   ]
 }
