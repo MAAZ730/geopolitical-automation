@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3215,
+  "total_calls": 3219,
   "tiers": {
-    "groq": 3196,
+    "groq": 3200,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-17T03:50:15.228773+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-17T03:50:48.941127+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-17T03:51:42.111352+00:00",
-      "tier": "groq",
-      "article": "FPV drone strikes show Hezbollah's changing tactics against Israel"
-    },
-    {
-      "timestamp": "2026-05-17T03:51:58.583357+00:00",
-      "tier": "groq",
-      "article": "\u2018Surrender not an option\u2019 for Palestine, Iranian envoy tells UN on Nakba Day"
-    },
     {
       "timestamp": "2026-05-17T06:52:59.040350+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-20T04:00:24.295386+00:00",
       "tier": "groq",
       "article": "Iran slams German chancellor\u2019s \u2018baseless and selective\u2019 accusations"
+    },
+    {
+      "timestamp": "2026-05-20T07:53:05.812361+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-20T07:53:41.749991+00:00",
+      "tier": "groq",
+      "article": "Lebanon says 19 killed in Israeli air strikes"
+    },
+    {
+      "timestamp": "2026-05-20T07:54:28.051938+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-20T07:55:16.616163+00:00",
+      "tier": "groq",
+      "article": "New fronts to be opened if enemy commits another folly"
     }
   ]
 }
