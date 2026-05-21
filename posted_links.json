@@ -1,4 +1,34 @@
 {
+  "96d3079244e100ab216b660e9cd18b91da89b81db6f8abd37308f307c2854415": {
+    "url": "intelslava/87999",
+    "title": "Turkish-Made Drones Used in Mali Airstrikes Against Militant Groups",
+    "published": "2026-05-21T20:20:25.461088+00:00"
+  },
+  "cf908909b1ea7fe2b971ac74f13d2fd455325a58bb9fd34b80a0a590e3533eaf": {
+    "url": "militarywave/23832",
+    "title": "Russia Conducts Large-Scale Nuclear Forces Drills",
+    "published": "2026-05-21T20:14:01.570541+00:00"
+  },
+  "79d67052173f2029b4d5abc37904d1ef076a2f0ca365950c6caa78ad06b58f06": {
+    "url": "QudsNen/224404",
+    "title": "Israeli Airstrike Kills 11 in Lebanon's Deir Qanoun Al-Nahr",
+    "published": "2026-05-21T20:09:16.932769+00:00"
+  },
+  "eca06ce6b41ff09a77cf3926c226c634861759ac511a569b014604c06551c343": {
+    "url": "QudsNen/224417",
+    "title": "Rubio Threatens Cuba with Escalating US Pressure",
+    "published": "2026-05-21T20:07:49.093899+00:00"
+  },
+  "6de5eb4d833ab7cc32e1d18aca38b35b90e91a80d0888781509c949fd03623f8": {
+    "url": "thecradlemedia/60073",
+    "title": "Lebanon's Fragile Stability Tested by Direct Talks with Israel",
+    "published": "2026-05-21T20:04:50.604167+00:00"
+  },
+  "e12d999172d71025be062d51405c1346a55d2666848292ba7f877e60e9ba5a49": {
+    "url": "thecradlemedia/60075",
+    "title": "US Imposes Sanctions on Lebanese Officials, Iranian Envoy",
+    "published": "2026-05-21T20:04:49.336857+00:00"
+  },
   "0ef41d92d895bc85dc91bfba811917ea509ab0be747ff1198c6b893ef95d10a2": {
     "url": "DDGeopolitics/184639",
     "title": "Russia Enhances Nuclear Force Readiness Amid Tensions",
@@ -33,6 +63,11 @@
     "url": "https://english.almanar.com.lb/article/76622/",
     "title": "Zionist media: Hezbollah attacked the sensors installed by \u201cIsrael\u201d on the border with Lebanon with precision missiles - Al-Manar TV Lebanon",
     "published": "2026-05-21T16:42:40+00:00"
+  },
+  "1cf7fc9e6d4415f3bb0f5b01e6098f12ced5f5ade041555cae956efe3282d61d": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/lingering-shock-from-tragedy-weeks-after-minab-school-bombing?traffic_source=rss",
+    "title": "\u2018Lingering shock from tragedy\u2019 weeks after Minab school bombing",
+    "published": "2026-05-21T16:38:32+00:00"
   },
   "286c5b1a083e2c7014c07355d92ba7a8d6fe7193f2876848b0b46bf4a076f659": {
     "url": "QudsNen/224354",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/59871",
     "title": "US Warns Pakistan of Deteriorating Relations Over Drone Base Dispute",
     "published": "2026-05-18T21:22:28.288263+00:00"
-  },
-  "70651a41fd0004e19515802a49c7e87c8b533973565fc5736dc273ea8e198880": {
-    "url": "https://tass.com/world/2132647",
-    "title": "US military intelligence believes Ukraine is delivering chaotic strikes on Russia",
-    "published": "2026-05-18T20:49:42+00:00"
-  },
-  "929960f1899d3bc26609fa96c062da8755275585b2e48f739c7fb903c1f4691d": {
-    "url": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests?traffic_source=rss",
-    "title": "Four reported killed, 30 injured, in Kenyan fuel price protests",
-    "published": "2026-05-18T20:12:06+00:00"
-  },
-  "dbe1c55a3f47898af3d4841b6ea9a95f2776a301bc390911f791383a3d51be4e": {
-    "url": "intelslava/87904",
-    "title": "Russian-Backed Africa Corps Expands Strike Capabilities in Central Mali",
-    "published": "2026-05-18T20:05:28.584533+00:00"
-  },
-  "7904ab1e86c1c336ff9de0c4ce492ba1483bf9b1635b88afc8baa69615f05b0c": {
-    "url": "presstv/190398",
-    "title": "Israel Targets Gaza-Bound Aid Flotilla, Igniting Global Outrage",
-    "published": "2026-05-18T20:02:46.550216+00:00"
-  },
-  "b68a35daf9b6e913c1c30e9f9db4892a1bb4191c2863acb92e01435ac3f7245a": {
-    "url": "https://en.mehrnews.com/news/244620/Iran-Oman-crafting-new-transit-mechanism-for-Hormuz",
-    "title": "Iran, Oman crafting new transit mechanism for Hormuz",
-    "published": "2026-05-18T20:01:48+00:00"
-  },
-  "329128181d17598ed217c1e66bc99bebb422988ff4931df4d56afa257dc25672": {
-    "url": "DDGeopolitics/184350",
-    "title": "Iran Honors 'Self-Sacrificing Couples' Amid Tensions with US",
-    "published": "2026-05-18T19:57:10.392807+00:00"
-  },
-  "63f9eb90e85b04455658a7ace166c33ccfd36b8a7090dd3c4f5f61f8da2a813a": {
-    "url": "QudsNen/223947",
-    "title": "Israeli Airstrikes in Gaza's al-Faluja Area",
-    "published": "2026-05-18T19:54:42.288894+00:00"
   }
 }
