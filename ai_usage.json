@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3263,
+  "total_calls": 3267,
   "tiers": {
-    "groq": 3244,
+    "groq": 3248,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-18T13:55:49.293891+00:00",
-      "tier": "groq",
-      "article": "\u201cDoomsday\u201d Scenario: Officials Warn Missile Barrages Could Plunge \u2018Israel\u2019 into Darkness - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-18T13:56:29.503722+00:00",
-      "tier": "groq",
-      "article": "US military carries out more strikes against ISIL fighters in Nigeria"
-    },
-    {
-      "timestamp": "2026-05-18T13:56:46.048507+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-18T13:57:24.501245+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-18T16:52:32.646173+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-21T21:48:06.294107+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-21T23:11:01.410806+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-21T23:11:41.159727+00:00",
+      "tier": "groq",
+      "article": "Kremlin comments on readiness for talks with Europe, Power of Siberia 2 gas pipeline"
+    },
+    {
+      "timestamp": "2026-05-21T23:11:59.420458+00:00",
+      "tier": "groq",
+      "article": "US-Iran talks look less like a peace track than a pause before war"
+    },
+    {
+      "timestamp": "2026-05-21T23:12:44.988789+00:00",
+      "tier": "groq",
+      "article": "Germany mulls $9,300 payments for Syrians willing to return home"
     }
   ]
 }
