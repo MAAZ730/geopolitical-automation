@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3247,
+  "total_calls": 3251,
   "tiers": {
-    "groq": 3228,
+    "groq": 3232,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-17T21:03:04.953834+00:00",
-      "tier": "groq",
-      "article": "Israel kills three Palestinians in strike on an aid kitchen in Gaza"
-    },
-    {
-      "timestamp": "2026-05-17T21:03:21.883482+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-17T21:03:47.019170+00:00",
-      "tier": "groq",
-      "article": "Trump warns Iran of harder strikes than before if there is no deal"
-    },
-    {
-      "timestamp": "2026-05-17T21:04:04.353089+00:00",
-      "tier": "groq",
-      "article": "Hezbollah says 19 operations against Israeli forces took place in Lebanon in past 24 hours"
-    },
     {
       "timestamp": "2026-05-17T23:01:31.028674+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-21T09:56:26.903125+00:00",
       "tier": "groq",
       "article": "UN peacekeeping forces prepare to leave Lebanon, but what comes next?"
+    },
+    {
+      "timestamp": "2026-05-21T12:53:11.658516+00:00",
+      "tier": "groq",
+      "article": "Resistance Fighters Strike Israeli Occupation Forces in South Lebanon with Heavy Missile Salvos, Loitering Drones - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-21T12:53:50.020014+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-21T12:54:09.580363+00:00",
+      "tier": "groq",
+      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
+    },
+    {
+      "timestamp": "2026-05-21T12:54:46.706903+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }
