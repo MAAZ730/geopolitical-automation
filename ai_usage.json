@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3243,
+  "total_calls": 3247,
   "tiers": {
-    "groq": 3224,
+    "groq": 3228,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-17T19:17:34.123908+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Delivers Meticulous Response to Israeli Aggression, Highlights Expanding Drone Capabilities - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-17T19:18:11.888658+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-17T19:18:28.179603+00:00",
-      "tier": "groq",
-      "article": "Any repeated US folly to bring harder blows for Washington"
-    },
-    {
-      "timestamp": "2026-05-17T19:19:08.344208+00:00",
-      "tier": "groq",
-      "article": "US cancels troop deployment to Poland"
-    },
     {
       "timestamp": "2026-05-17T21:03:04.953834+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-21T04:08:40.413208+00:00",
       "tier": "groq",
       "article": "Two chinese oil tankers exit Strait of Hormuz: Report"
+    },
+    {
+      "timestamp": "2026-05-21T09:55:17.870905+00:00",
+      "tier": "groq",
+      "article": "\u2018Stuck in the Mud\u2019: Israeli Forces Hide by Day as Hezbollah Drones Wreak Havoc, Haaretz Admits - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-21T09:55:35.672434+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-21T09:56:10.813104+00:00",
+      "tier": "groq",
+      "article": "China's AI Governance Offensive Threatens U.S. Tech Leadership"
+    },
+    {
+      "timestamp": "2026-05-21T09:56:26.903125+00:00",
+      "tier": "groq",
+      "article": "UN peacekeeping forces prepare to leave Lebanon, but what comes next?"
     }
   ]
 }
