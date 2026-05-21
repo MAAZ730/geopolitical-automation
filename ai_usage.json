@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3251,
+  "total_calls": 3255,
   "tiers": {
-    "groq": 3232,
+    "groq": 3236,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-17T23:01:31.028674+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-17T23:01:47.404644+00:00",
-      "tier": "groq",
-      "article": "Fire breaks out near Barakah NPP in UAE as result of drone strike \u2014 authorities"
-    },
-    {
-      "timestamp": "2026-05-17T23:02:10.748603+00:00",
-      "tier": "groq",
-      "article": "Zaporozhye NPP\u2019s Raduga substation attacked by Ukrainian drone"
-    },
-    {
-      "timestamp": "2026-05-17T23:02:29.043703+00:00",
-      "tier": "groq",
-      "article": "Naval blockade unlikely to undermine Iran\u2019s economy, envoy says"
-    },
     {
       "timestamp": "2026-05-18T04:01:45.973004+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-05-21T12:54:46.706903+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-21T16:46:16.216738+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-21T16:46:50.418434+00:00",
+      "tier": "groq",
+      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
+    },
+    {
+      "timestamp": "2026-05-21T16:47:36.274100+00:00",
+      "tier": "groq",
+      "article": "Zionist media: Hezbollah attacked the sensors installed by \u201cIsrael\u201d on the border with Lebanon with precision missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-21T16:47:54.156869+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
