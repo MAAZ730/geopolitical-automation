@@ -1,4 +1,34 @@
 {
+  "963ae0bcf1d3cc05038608980df58e37b5f689313e0b1c051cd82ecfcb41b199": {
+    "url": "BellumActaNews/172996",
+    "title": "Trump Dismisses Escalation Fears in Cuba",
+    "published": "2026-05-21T04:17:36.240850+00:00"
+  },
+  "2580acddef1f39ab23d68837bb857cf272f11c3412fb9333464f67bb500e6d90": {
+    "url": "BellumActaNews/172998",
+    "title": "Cuba Conducts Air-Defence Exercises with S-125M1 'Pechora-M1' System",
+    "published": "2026-05-21T04:16:31.454051+00:00"
+  },
+  "3e78fdfa80a5ac2d3901be57dce52563f8bc3aa68ab3599c1b90a4e638571cfa": {
+    "url": "BellumActaNews/172999",
+    "title": "Cuba's Communist Foothold Poses Threat to US National Security",
+    "published": "2026-05-21T04:14:26.845366+00:00"
+  },
+  "5b2115a783ab471e2dc3e5931a961ff90878cb83e9bf9d458ca2d09d989c231b": {
+    "url": "DDGeopolitics/184604",
+    "title": "US Prepares for Potential Military Operation in Cuba Amid Rising Tensions",
+    "published": "2026-05-21T04:11:28.205170+00:00"
+  },
+  "54605fdb779b02aef9e3c403a88ed9e44c027adb2d6afadfdfec134fb45f5247": {
+    "url": "thecradlemedia/59998",
+    "title": "Israeli Colonel Wounded in Drone Strike in South Lebanon",
+    "published": "2026-05-21T04:08:45.415154+00:00"
+  },
+  "cb4e337ece6c1655b62d92488b369defc6fe3064fc5890c3cab47c99cf18489f": {
+    "url": "thecradlemedia/59999",
+    "title": "Captagon Trade Skyrockets on Syria-Jordan Border Amid Israeli Support for Druze Militias",
+    "published": "2026-05-21T04:08:44.432248+00:00"
+  },
   "0e52b9e213b8e5b6c3943e511cbe9b900badc4a56106610e658d0da20ac69297": {
     "url": "intelslava/87974",
     "title": "Hezbollah Releases Drone Footage of Mock-up Iron Dome Target in Lebanon",
@@ -14,6 +44,11 @@
     "title": "Hezbollah Drone Attacks on Israeli Military Vehicles",
     "published": "2026-05-20T23:33:56.662136+00:00"
   },
+  "358663ee6bd4dfea897cf6378259f9874f2308572cbbc1db58a3be4420ee09cc": {
+    "url": "https://www.aljazeera.com/news/2026/5/20/us-police-officers-sue-trump-over-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+    "title": "US police officers sue Trump over $1.8bn \u2018anti-weaponisation\u2019 fund",
+    "published": "2026-05-20T23:32:08+00:00"
+  },
   "20b152289f3291511167cba1a14c44ed4af78ba80c00acc88abb33c7da0e7df3": {
     "url": "BellumActaNews/172985",
     "title": "US Marines Board Iranian Oil Tanker in Gulf of Oman",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/60001",
     "title": "Iranian Hacker Collective Warns of Potential US-Israeli Military Action",
     "published": "2026-05-20T23:29:19.647807+00:00"
+  },
+  "ddb33b1ceb6a6fec54ad992e402571ec92cbda4cb5ecd7619bec2a388c0b286a": {
+    "url": "https://tass.com/emergencies/2134225",
+    "title": "Camp of anti-Iranian opposition forces comes under missile fire near Erbil \u2014 TV",
+    "published": "2026-05-20T22:20:00+00:00"
   },
   "155114d3185c39c802a15c33ccb864714936dfe3042da41ba9a67e651917164f": {
     "url": "DDGeopolitics/184597",
@@ -198,6 +238,11 @@
     "url": "https://en.mehrnews.com/news/244665/IRGC-warns-war-will-expand-beyond-region-if-Iran-hit-again",
     "title": "IRGC warns war will expand beyond region if Iran hit again",
     "published": "2026-05-20T07:33:55+00:00"
+  },
+  "dd95aa73e8daec20fb3baf83e403c56ef983ba3507355c661e7a643cbd95f5b0": {
+    "url": "https://en.mehrnews.com/news/244659/Two-chinese-oil-tankers-exit-Strait-of-Hormuz-Report",
+    "title": "Two chinese oil tankers exit Strait of Hormuz: Report",
+    "published": "2026-05-20T05:09:33+00:00"
   },
   "17943a852e436c35d28518a01c607ee26cda6f396a4b5e8f9614962c1879ffce": {
     "url": "Slavyangrad/164573",
@@ -703,50 +748,5 @@
     "url": "https://en.mehrnews.com/news/244611/Iran-s-right-to-uranium-enrichment-non-negotiable-under-NPT",
     "title": "Iran\u2019s right to uranium enrichment non-negotiable under NPT",
     "published": "2026-05-18T09:54:38+00:00"
-  },
-  "df67b382bd89ac7062293ed2a517dd96a7ba5fd2882b662e7dc3ac4fecbc1ce0": {
-    "url": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss",
-    "title": "US military carries out more strikes against ISIL fighters in Nigeria",
-    "published": "2026-05-18T09:39:54+00:00"
-  },
-  "e154d39ff9a026347ed31df6d24256276928512f8da2b8e6394aa0dba9c2d002": {
-    "url": "https://tass.com/world/2132171",
-    "title": "Iranian diplomat calls on Middle East countries to learn from recent events",
-    "published": "2026-05-18T08:35:35+00:00"
-  },
-  "8fdb28a00e3300b8a137f78ea837dea39669c2e44d0214757465ec591353a1f6": {
-    "url": "presstv/190329",
-    "title": "US Senator Lindsey Graham Advocates for Targeting Iran's Energy Infrastructure",
-    "published": "2026-05-18T08:25:29.247852+00:00"
-  },
-  "5bf6bb9e1375646f89741b36694897c09cacb4571bf2fe89f9c76cf819e5d313": {
-    "url": "QudsNen/223849",
-    "title": "Settlers Conduct Rituals Under Israeli Escort in Sinjil",
-    "published": "2026-05-18T08:22:27.836868+00:00"
-  },
-  "b1983fc77b61564d2fb233a76d7a5a4a2b629bfe14b210193e1c52c32a41a2c1": {
-    "url": "QudsNen/223856",
-    "title": "Kuwaiti Jiu-Jitsu Champion Declines Handshake with Israeli Counterpart at Abu Dhabi World Championship",
-    "published": "2026-05-18T08:22:07.024806+00:00"
-  },
-  "47565eaf89b0db86e0e603e8dafd43bb01e4b2633f40f7f2b89fd139407d5579": {
-    "url": "QudsNen/223858",
-    "title": "Israeli Navy Intercepts Gaza-Bound Flotilla",
-    "published": "2026-05-18T08:20:37.315683+00:00"
-  },
-  "aba871971f3e5e8648496afb1ba3934976e693315735ba90b8f64922a23fc726": {
-    "url": "thecradlemedia/59818",
-    "title": "Israel Targets Baalbek Apartment in Overnight Strike",
-    "published": "2026-05-18T08:20:33.697495+00:00"
-  },
-  "76cc9ee76df1c191a149f779c5bf4f5b9c3493ad92da9faaf1950c40ada666f1": {
-    "url": "thecradlemedia/59821",
-    "title": "Israel Approves Plan to Seize Historic Palestinian Properties Near Al-Aqsa Mosque",
-    "published": "2026-05-18T08:20:16.091862+00:00"
-  },
-  "991070a0947f639f875e7c4ecaead03d7671dadf7c10c1d95e9a9b26dc050fc6": {
-    "url": "https://english.almanar.com.lb/article/74282/",
-    "title": "Lebanon: Islamic Jihad Commander Martyred in Israeli Strike on Baalbek Outskirts - Al-Manar TV Lebanon",
-    "published": "2026-05-18T07:53:27+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3239,
+  "total_calls": 3243,
   "tiers": {
-    "groq": 3220,
+    "groq": 3224,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-17T17:05:56.214898+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-17T17:06:29.871589+00:00",
-      "tier": "groq",
-      "article": "UAE defense ministry investigating drone attack on generator near Barakah NPP"
-    },
-    {
-      "timestamp": "2026-05-17T17:07:16.027849+00:00",
-      "tier": "groq",
-      "article": "Israeli warplanes launched a series of airstrikes targeting the towns of Khirbet Selm, Tebnin, Deir Antar, and Al-Babliyeh, with additional raids reported on Al-Marwaniyeh and the area between Jibchit, Adchit, and Aabba: Al-Manar correspondent in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-17T17:08:06.143391+00:00",
-      "tier": "groq",
-      "article": "Russian embassy calls on Moldova to resume constructive dialogue on Transnistria"
-    },
     {
       "timestamp": "2026-05-17T19:17:34.123908+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-20T23:29:12.875209+00:00",
       "tier": "groq",
       "article": "Putin and Xi launch Beijing summit with new Russia-China agreements"
+    },
+    {
+      "timestamp": "2026-05-21T04:07:07.579448+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-21T04:07:47.112460+00:00",
+      "tier": "groq",
+      "article": "US police officers sue Trump over $1.8bn \u2018anti-weaponisation\u2019 fund"
+    },
+    {
+      "timestamp": "2026-05-21T04:08:03.192259+00:00",
+      "tier": "groq",
+      "article": "Camp of anti-Iranian opposition forces comes under missile fire near Erbil \u2014 TV"
+    },
+    {
+      "timestamp": "2026-05-21T04:08:40.413208+00:00",
+      "tier": "groq",
+      "article": "Two chinese oil tankers exit Strait of Hormuz: Report"
     }
   ]
 }
