@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3267,
+  "total_calls": 3271,
   "tiers": {
-    "groq": 3248,
+    "groq": 3252,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-18T16:52:32.646173+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-18T16:52:52.884002+00:00",
-      "tier": "groq",
-      "article": "Russian drone hits Chinese ship off Ukraine before Putin meets Xi Jinping"
-    },
-    {
-      "timestamp": "2026-05-18T16:53:16.927838+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-18T16:54:04.565596+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-18T19:51:29.321854+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-21T23:12:44.988789+00:00",
       "tier": "groq",
       "article": "Germany mulls $9,300 payments for Syrians willing to return home"
+    },
+    {
+      "timestamp": "2026-05-22T04:01:25.381654+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-22T04:02:02.036898+00:00",
+      "tier": "groq",
+      "article": "US missile stockpiles strained as Israel conserved air defenses during Iran war"
+    },
+    {
+      "timestamp": "2026-05-22T04:02:19.652113+00:00",
+      "tier": "groq",
+      "article": "Kiev troops fire 11 munitions towards DPR in past day, one killed"
+    },
+    {
+      "timestamp": "2026-05-22T04:02:38.600551+00:00",
+      "tier": "groq",
+      "article": "NATO intervention and Iran\u2019s insurance offer: What\u2019s going on in the Strait of Hormuz?"
     }
   ]
 }
