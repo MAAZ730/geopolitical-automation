@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3287,
+  "total_calls": 3291,
   "tiers": {
-    "groq": 3268,
+    "groq": 3272,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-19T07:54:57.847280+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-19T07:55:14.638063+00:00",
-      "tier": "groq",
-      "article": "Ukrainian forces attack DPR territory 11 times over past day, one person killed"
-    },
-    {
-      "timestamp": "2026-05-19T07:55:33.041601+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-19T07:55:49.123106+00:00",
-      "tier": "groq",
-      "article": "India to keep buying Russian oil, 'waiver or no waiver' from US \u2014 Indian ministry"
-    },
     {
       "timestamp": "2026-05-19T11:28:34.987840+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-22T18:02:35.646804+00:00",
       "tier": "groq",
       "article": "Merz proposes limited EU role for Ukraine falling short of Kiev\u2019s demands"
+    },
+    {
+      "timestamp": "2026-05-22T19:57:14.035715+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-22T19:57:47.434811+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-22T19:58:40.735787+00:00",
+      "tier": "groq",
+      "article": "Israeli \u2018information warfare\u2019 specialists accused of meddling in France"
+    },
+    {
+      "timestamp": "2026-05-22T19:58:58.852782+00:00",
+      "tier": "groq",
+      "article": "Trump to send 5,000 additional US troops to Poland"
     }
   ]
 }
