@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3275,
+  "total_calls": 3279,
   "tiers": {
-    "groq": 3256,
+    "groq": 3260,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-18T21:20:43.758914+00:00",
-      "tier": "groq",
-      "article": "Death toll from Israeli attacks on Lebanon exceeds 3,000"
-    },
-    {
-      "timestamp": "2026-05-18T21:21:22.110985+00:00",
-      "tier": "groq",
-      "article": "Four reported killed, 30 injured, in Kenyan fuel price protests"
-    },
-    {
-      "timestamp": "2026-05-18T21:22:08.442711+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-18T21:22:24.722881+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s right to uranium enrichment non-negotiable under NPT"
-    },
     {
       "timestamp": "2026-05-18T23:08:04.835948+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-22T07:59:09.472887+00:00",
       "tier": "groq",
       "article": "Forcing Iran to surrender \u2018nothing but an illusion\u2019"
+    },
+    {
+      "timestamp": "2026-05-22T11:01:14.872193+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-22T11:01:31.290493+00:00",
+      "tier": "groq",
+      "article": "New Israeli Crime in Southern Lebanon: Six Paramedics Martyred in Fresh Attacks - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-22T11:02:00.597891+00:00",
+      "tier": "groq",
+      "article": "Ukrainian strike on college in LPR, punishment for Kiev: new briefing by Kremlin spokesman"
+    },
+    {
+      "timestamp": "2026-05-22T11:02:18.912904+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz: Iran steps up claim to control Middle East waterway"
     }
   ]
 }
