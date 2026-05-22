@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3283,
+  "total_calls": 3287,
   "tiers": {
-    "groq": 3264,
+    "groq": 3268,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-19T03:58:08.371050+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-19T03:58:41.962537+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-19T03:58:58.541092+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-19T03:59:16.800583+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-19T07:54:57.847280+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-22T14:51:20.506803+00:00",
       "tier": "groq",
       "article": "RT captures ship congestion in Hormuz Strait amid US-Iran standoff"
+    },
+    {
+      "timestamp": "2026-05-22T18:01:18.892427+00:00",
+      "tier": "groq",
+      "article": "Iran Rejects \u2018Unnecessary War\u2019 Label, Insists US-Israeli Aggression Violates UN Charter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-22T18:01:59.758924+00:00",
+      "tier": "groq",
+      "article": "Israeli Media Reports Casualties as Hezbollah Loitering Gliders Strike Occupation Sites of Branit, Al-Raheb - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-22T18:02:19.301429+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-22T18:02:35.646804+00:00",
+      "tier": "groq",
+      "article": "Merz proposes limited EU role for Ukraine falling short of Kiev\u2019s demands"
     }
   ]
 }
