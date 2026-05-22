@@ -1,4 +1,34 @@
 {
+  "07109c72c1fe32a0d96cb70b98e69bd4717fc8209594d5cde8d6df14b5461b2c": {
+    "url": "intelslava/88045",
+    "title": "Russian Drone Strike Targets Ukrainian Mobile Fire Group in Kharkiv Oblast",
+    "published": "2026-05-22T23:18:56.436716+00:00"
+  },
+  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
+    "url": "CensoredMen/189",
+    "title": "Iranian Missiles Strike Targets in Israel",
+    "published": "2026-05-22T23:18:02.815343+00:00"
+  },
+  "2665112996c5620458fd32d3dd86585c0e1b0a2a621913b436ce935a67f17e06": {
+    "url": "presstv/190998",
+    "title": "Israeli Airstrikes Hit Residential Building in al-Nuseirat Refugee Camp, Gaza",
+    "published": "2026-05-22T23:15:12.582913+00:00"
+  },
+  "659d5bcb36fa90b5bed7170f8c915564a9ebd4824fc0e5a29d97475cd3088c25": {
+    "url": "DDGeopolitics/184723",
+    "title": "Trump Claims Venezuela Oil Removal Has Covered War Costs 25 Times Over",
+    "published": "2026-05-22T23:14:48.360556+00:00"
+  },
+  "9e8f1c957ea636ace53b5439ec4d2745e381897bdad14e4ca2370e8ceca4d1e1": {
+    "url": "QudsNen/224572",
+    "title": "France Withdraws Controversial Law Targeting Pro-Palestine Activism",
+    "published": "2026-05-22T23:13:57.940419+00:00"
+  },
+  "d895566924035884f82afcd9dddb3368b4e8fb9a56579fb8e1c5ed1666802a43": {
+    "url": "QudsNen/224573",
+    "title": "US Prepares for Possible Military Strikes Against Iran Amid Ongoing Negotiations",
+    "published": "2026-05-22T23:13:52.524920+00:00"
+  },
   "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
     "url": "CensoredMen/203",
     "title": "US-Iran Ceasefire Excludes Lebanon Amid Israeli Escalation",
@@ -188,6 +218,11 @@
     "url": "https://english.almanar.com.lb/article/76942/",
     "title": "New Israeli Crime in Southern Lebanon: Six Paramedics Martyred in Fresh Attacks - Al-Manar TV Lebanon",
     "published": "2026-05-22T09:37:15+00:00"
+  },
+  "b81d04112a8c0d2d0c4c5db76684e9c8bebe4170b161ec9102e0268ca40e8458": {
+    "url": "https://en.mehrnews.com/news/244699/UKMTO-reports-a-security-incident-in-northern-Yemen",
+    "title": "UKMTO reports a security incident in northern Yemen",
+    "published": "2026-05-22T08:50:36+00:00"
   },
   "839b5a5bd0bfdfe407abf7b7961f1ceadd6367e17a00fa3d2c87e77b52ec43a9": {
     "url": "intelslava/88020",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/59961",
     "title": "US CENTCOM Chief Refuses to Accept Responsibility for Deadly Iranian School Strike",
     "published": "2026-05-20T11:06:50.997160+00:00"
-  },
-  "8b3e15999bb7714c4ff0167609effeaa1946a90ab5dc675b46cf4fae286fd258": {
-    "url": "https://tass.com/science/2133913",
-    "title": "US conducts test launch of Minuteman III ICBM \u2014 Vandenberg Space Force Base",
-    "published": "2026-05-20T11:04:28+00:00"
-  },
-  "356a42e0b141268c54361979b82de2dcb15471217be1e298c832a37de221a989": {
-    "url": "thecradlemedia/59965",
-    "title": "Kentucky Representative Thomas Massie Concedes to Ed Gallrein in High-Profile Election",
-    "published": "2026-05-20T11:03:48.504383+00:00"
-  },
-  "88e4ef4e36516f18aa83041bae4f766217e32926aa90354c0552e1649f111ddd": {
-    "url": "thecradlemedia/59974",
-    "title": "Israel Escalates Attacks on Southern Syria",
-    "published": "2026-05-20T11:02:43.598646+00:00"
-  },
-  "e4559805a23037f53e6fc59893acae5ce159ecdf8cc84422d46f5618e6d6dca7": {
-    "url": "thecradlemedia/59975",
-    "title": "Pakistani Minister Returns to Tehran Amid US-Iran Diplomacy Efforts",
-    "published": "2026-05-20T11:02:42.077109+00:00"
-  },
-  "ebf89c066963e4d8fbb1cc987c2b9f41f987bfc0a2c43677b3ec140f1bf7cb06": {
-    "url": "presstv/190605",
-    "title": "Iran Warns US of 'Many More Surprises' Amid Tensions",
-    "published": "2026-05-20T08:04:10.513173+00:00"
-  },
-  "d5d8e428ac42b2c1d7c50dd71da327eaf72dddb43f614586f347f775a17b6b51": {
-    "url": "presstv/190607",
-    "title": "US Forces Accused of Attacking Iranian School Amid Missile Facility Claims",
-    "published": "2026-05-20T08:01:39.783910+00:00"
-  },
-  "70bae6242d449119f371ce2722f10526a696227d56f78a2226240da3ec082d5b": {
-    "url": "BellumActaNews/172957",
-    "title": "Xi Jinping and Putin Champion Multipolar World Order",
-    "published": "2026-05-20T07:59:07.790606+00:00"
   }
 }

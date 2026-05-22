@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3295,
+  "total_calls": 3299,
   "tiers": {
-    "groq": 3276,
+    "groq": 3280,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-19T15:36:56.028198+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-19T15:37:28.753743+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-19T15:38:17.912043+00:00",
-      "tier": "groq",
-      "article": "Russia develops Odyssey repeater to increase UAV strike range"
-    },
-    {
-      "timestamp": "2026-05-19T15:38:37.116593+00:00",
-      "tier": "groq",
-      "article": "Iran, Oman crafting new transit mechanism for Hormuz"
-    },
     {
       "timestamp": "2026-05-19T18:12:22.006778+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-22T21:19:50.083480+00:00",
       "tier": "groq",
       "article": "IRGC coordinates safe passage of 31 vessels via Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-05-22T23:12:16.660140+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-22T23:12:50.049942+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-22T23:13:06.225516+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-22T23:13:42.457253+00:00",
+      "tier": "groq",
+      "article": "UKMTO reports a security incident in northern Yemen"
     }
   ]
 }
