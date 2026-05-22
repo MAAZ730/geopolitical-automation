@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3279,
+  "total_calls": 3283,
   "tiers": {
-    "groq": 3260,
+    "groq": 3264,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-18T23:08:04.835948+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-18T23:08:37.962767+00:00",
-      "tier": "groq",
-      "article": "US military intelligence believes Ukraine is delivering chaotic strikes on Russia"
-    },
-    {
-      "timestamp": "2026-05-18T23:09:24.541460+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attack on Belgorod Region leaves two dead, two wounded"
-    },
-    {
-      "timestamp": "2026-05-18T23:09:43.441014+00:00",
-      "tier": "groq",
-      "article": "Kalashnikov completes import substitution for all required ERP systems \u2014 CEO"
-    },
     {
       "timestamp": "2026-05-19T03:58:08.371050+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-22T11:02:18.912904+00:00",
       "tier": "groq",
       "article": "Strait of Hormuz: Iran steps up claim to control Middle East waterway"
+    },
+    {
+      "timestamp": "2026-05-22T14:50:19.193897+00:00",
+      "tier": "groq",
+      "article": "RT visits Iranian school hit during US-Israeli strikes (VIDEO)"
+    },
+    {
+      "timestamp": "2026-05-22T14:50:38.210822+00:00",
+      "tier": "groq",
+      "article": "Japan, US to deploy Typhon missile system as part of joint maneuvers in summer-fall"
+    },
+    {
+      "timestamp": "2026-05-22T14:51:02.119086+00:00",
+      "tier": "groq",
+      "article": "Russia requests UNSC extraordinary meeting after Kiev\u2019s attack on Starobelsk college"
+    },
+    {
+      "timestamp": "2026-05-22T14:51:20.506803+00:00",
+      "tier": "groq",
+      "article": "RT captures ship congestion in Hormuz Strait amid US-Iran standoff"
     }
   ]
 }
