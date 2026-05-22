@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3291,
+  "total_calls": 3295,
   "tiers": {
-    "groq": 3272,
+    "groq": 3276,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-19T11:28:34.987840+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-19T11:28:51.348295+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Loitering Gliders Strike Israeli Army in South Lebanon, Northern Palestine - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-19T11:29:16.976973+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-19T11:29:33.113132+00:00",
-      "tier": "groq",
-      "article": "Military decoupling between the US and Europe is gathering pace"
-    },
     {
       "timestamp": "2026-05-19T15:36:56.028198+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-22T19:58:58.852782+00:00",
       "tier": "groq",
       "article": "Trump to send 5,000 additional US troops to Poland"
+    },
+    {
+      "timestamp": "2026-05-22T21:18:44.511162+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-22T21:19:17.094439+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-22T21:19:33.231051+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-22T21:19:50.083480+00:00",
+      "tier": "groq",
+      "article": "IRGC coordinates safe passage of 31 vessels via Hormuz Strait"
     }
   ]
 }
