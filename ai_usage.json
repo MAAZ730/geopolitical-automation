@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3323,
+  "total_calls": 3327,
   "tiers": {
-    "groq": 3304,
+    "groq": 3308,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-20T15:34:21.883033+00:00",
-      "tier": "groq",
-      "article": "Seven people killed in Israeli strikes on southern Lebanon \u2014 news agency"
-    },
-    {
-      "timestamp": "2026-05-20T15:35:02.569295+00:00",
-      "tier": "groq",
-      "article": "Pentagon refuses to admit responsibility for deadly Iran school strike"
-    },
-    {
-      "timestamp": "2026-05-20T15:35:21.136474+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-20T15:35:59.497564+00:00",
-      "tier": "groq",
-      "article": "Croatian president rejects Israeli ambassador over government policies"
-    },
     {
       "timestamp": "2026-05-20T18:24:18.538378+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-23T15:13:26.929398+00:00",
       "tier": "groq",
       "article": "Congressional report tallies 42 US aircraft lost or damaged in Operation Epic Fury"
+    },
+    {
+      "timestamp": "2026-05-23T17:08:56.122657+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-23T17:09:34.672339+00:00",
+      "tier": "groq",
+      "article": "How has the West responded to Ukraine\u2019s \u2018terrorist attack\u2019 on a Russian school dorm?"
+    },
+    {
+      "timestamp": "2026-05-23T17:10:21.969941+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-23T17:11:09.161228+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
