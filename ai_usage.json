@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3315,
+  "total_calls": 3319,
   "tiers": {
-    "groq": 3296,
+    "groq": 3300,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-20T07:53:05.812361+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-20T07:53:41.749991+00:00",
-      "tier": "groq",
-      "article": "Lebanon says 19 killed in Israeli air strikes"
-    },
-    {
-      "timestamp": "2026-05-20T07:54:28.051938+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-20T07:55:16.616163+00:00",
-      "tier": "groq",
-      "article": "New fronts to be opened if enemy commits another folly"
-    },
     {
       "timestamp": "2026-05-20T11:01:05.925641+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-23T11:32:02.452970+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-23T13:46:04.988123+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-23T13:46:22.263613+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-23T13:46:45.499955+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-23T13:47:02.075880+00:00",
+      "tier": "groq",
+      "article": "US not changing its program for supplying weapons to Kiev \u2014 top US diplomat"
     }
   ]
 }
