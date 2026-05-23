@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3319,
+  "total_calls": 3323,
   "tiers": {
-    "groq": 3300,
+    "groq": 3304,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-20T11:01:05.925641+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-20T11:01:40.041595+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-20T11:01:58.540936+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-20T11:02:35.018812+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-20T15:34:21.883033+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-23T13:47:02.075880+00:00",
       "tier": "groq",
       "article": "US not changing its program for supplying weapons to Kiev \u2014 top US diplomat"
+    },
+    {
+      "timestamp": "2026-05-23T15:12:31.034665+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-23T15:12:47.483370+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-23T15:13:10.407047+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-23T15:13:26.929398+00:00",
+      "tier": "groq",
+      "article": "Congressional report tallies 42 US aircraft lost or damaged in Operation Epic Fury"
     }
   ]
 }
