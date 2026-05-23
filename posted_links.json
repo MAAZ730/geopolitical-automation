@@ -1,4 +1,34 @@
 {
+  "5c02b4876c84a704b16a3ff3afd9a3f0c807e81337d72bbbe7912c2977c1888c": {
+    "url": "intelslava/88051",
+    "title": "Oil Depot Fire in Novorossiysk After Drone Attack",
+    "published": "2026-05-23T06:50:10.625581+00:00"
+  },
+  "223f11cbd21b452870b67b510c4949294e53e9cc8dc462757e58d5dc5c990cb0": {
+    "url": "presstv/191014",
+    "title": "Israeli Police Confront Italian Tourist at Al-Aqsa Mosque",
+    "published": "2026-05-23T06:49:29.414540+00:00"
+  },
+  "c07f33a8c38c1096591b6ce972aef5ba357031f39eb7ffbab99e078d6d58acf0": {
+    "url": "presstv/191017",
+    "title": "China Coal Mine Explosion Claims 82 Lives, Death Toll May Rise",
+    "published": "2026-05-23T06:46:32.100858+00:00"
+  },
+  "952a6832be88606b8fd454ec981eb1f2aa136180db607c39c412d3ef0d779088": {
+    "url": "QudsNen/224569",
+    "title": "Israeli Artillery Strikes Eastern Gaza City",
+    "published": "2026-05-23T06:42:53.589504+00:00"
+  },
+  "88b4daf598c586b27398d6c1333b95250e780693fc4c6d190ee81f8c97b51d0c": {
+    "url": "QudsNen/224581",
+    "title": "Israeli Forces Accused of Sexual Assault on Palestinian Activist",
+    "published": "2026-05-23T06:42:52.587482+00:00"
+  },
+  "4100f11a19607c89f50b65942740d4ae29ef6803a482eef6b0912c5e3a6d7d8d": {
+    "url": "QudsNen/224586",
+    "title": "Israeli Settlers Seize Palestinian Harvesting Equipment in Masafer Yatta",
+    "published": "2026-05-23T06:40:53.179916+00:00"
+  },
   "6973ee984ad096c4ad86cde165bd9e7fa93fe3adc8f5d67c98e3ac9fe64602aa": {
     "url": "presstv/191001",
     "title": "Israeli Warplanes Launch Airstrike on Tyre, Lebanon",
@@ -248,6 +278,11 @@
     "url": "https://english.almanar.com.lb/article/76942/",
     "title": "New Israeli Crime in Southern Lebanon: Six Paramedics Martyred in Fresh Attacks - Al-Manar TV Lebanon",
     "published": "2026-05-22T09:37:15+00:00"
+  },
+  "53920e82598b5d53f2e6192a6cf65313db461b5bc955c1454801d1d1d84f333a": {
+    "url": "https://en.mehrnews.com/news/244700/Iran-exporting-1-4m-crude-bpd-despite-US-naval-blockade-IEA",
+    "title": "Iran exporting 1.4m crude bpd despite US naval blockade: IEA",
+    "published": "2026-05-22T09:33:27+00:00"
   },
   "b81d04112a8c0d2d0c4c5db76684e9c8bebe4170b161ec9102e0268ca40e8458": {
     "url": "https://en.mehrnews.com/news/244699/UKMTO-reports-a-security-incident-in-northern-Yemen",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/60009",
     "title": "US-Israeli Commando Plan to Seize Iranian Uranium Exposed in Security Breach",
     "published": "2026-05-20T18:25:33.611998+00:00"
-  },
-  "4453a3040011d44bde518267853f60a74ff4150cb6f053004f3ab4f8328f3ef4": {
-    "url": "thecradlemedia/60012",
-    "title": "GCC Reevaluates Iran's Role in Regional Order",
-    "published": "2026-05-20T18:25:31.272944+00:00"
-  },
-  "91ae38984bb81cbcb0c3468ac39b871af30583e357274f61a67947f7c0185611": {
-    "url": "QudsNen/224225",
-    "title": "Trump Confirms Alignment with Netanyahu on Iran",
-    "published": "2026-05-20T15:39:57.528296+00:00"
-  },
-  "a791b9a87b92753c836b28aa912e75b8b996cc2002102ddea69b1c43ca34a9fe": {
-    "url": "Middle_East_Spectator/32230",
-    "title": "Hezbollah Targets Israeli Iron Dome Launchers in Northern Israel",
-    "published": "2026-05-20T15:39:15.027773+00:00"
-  },
-  "8d8e53d487365cbf664262b1aac7de6d92edb1b937858f0a07d8d0b914e1034e": {
-    "url": "thecradlemedia/59990",
-    "title": "Israeli Forces Seize Water Supplies in Hizma Raid",
-    "published": "2026-05-20T15:37:25.815366+00:00"
-  },
-  "5cc493fd6cfbec923fd2c95b5a5ba60160841450c29f601ec7c78ca941333064": {
-    "url": "thecradlemedia/59994",
-    "title": "Israeli Warplanes Strike Southern Lebanon",
-    "published": "2026-05-20T15:36:57.322860+00:00"
-  },
-  "06d710bb2af20dc9badb6e0a8d94448d7ac965ee11c9127e732d4a16699d54bf": {
-    "url": "thecradlemedia/60004",
-    "title": "AIPAC-Backed Candidate Wins US Primary in Record-Breaking Campaign Spending",
-    "published": "2026-05-20T15:36:18.286191+00:00"
-  },
-  "fd1041d6c80a9c6927101135d4bea3e5e9577af6f674779cc94629f8e40776fd": {
-    "url": "thecradlemedia/60006",
-    "title": "Iran's Ghalibaf Cites US Vice President on Potential War Costs",
-    "published": "2026-05-20T15:36:10.845361+00:00"
   }
 }
