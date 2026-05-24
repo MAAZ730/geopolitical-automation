@@ -1,4 +1,39 @@
 {
+  "a49f5e955bd22f24bb8e4c63f069c647fe1bd041947e8afde50af4482d0f3680": {
+    "url": "presstv/191251",
+    "title": "Hezbollah Deputy Secretary General Criticizes Lebanese Government, US over Diplomatic Failures",
+    "published": "2026-05-24T19:35:45.768258+00:00"
+  },
+  "b87592206282d9bd8ebee0c0462dca18d14495daee58d94591738b6862346643": {
+    "url": "militarywave/23862",
+    "title": "China's Digital Detox Centers for Gaming Addiction",
+    "published": "2026-05-24T19:33:13.404332+00:00"
+  },
+  "8368b7f3b55cec39fc8d73822d3167fe9c0e6215fd2bb027cab61658943c4d41": {
+    "url": "QudsNen/224782",
+    "title": "Israeli Drone Targets Motorcycle in Burj al-Shamali Al-Bazourieh",
+    "published": "2026-05-24T19:31:33.929038+00:00"
+  },
+  "7280857799e468fbffb57b0f883e23919602ae625b89279f85978051d4ccbb2f": {
+    "url": "QudsNen/224783",
+    "title": "Basque Protesters Condemn Police Handling of Detained Activists",
+    "published": "2026-05-24T19:31:26.129639+00:00"
+  },
+  "58ac1cc755c671a5a7473d1be54f54b18a591ca2c2af94024d858cf3d250c0f8": {
+    "url": "QudsNen/224785",
+    "title": "Israeli Airstrike Leaves Palestinian Boy Dead in Northern Gaza",
+    "published": "2026-05-24T19:31:24.658178+00:00"
+  },
+  "000901c08f6ab0e7059f7b4a002d6d091a1b2f2a066e59bfd68d38852ca4e2f8": {
+    "url": "QudsNen/224787",
+    "title": "Trump Seeks Arab-Israeli Normalization Amid Iran Tensions",
+    "published": "2026-05-24T19:30:45.649903+00:00"
+  },
+  "e139243f8d540f56e537145b0837031d9fa9337678cd0d3ab0f0dd4f0e130dd1": {
+    "url": "https://www.rt.com/news/640521-eu-leaders-silent-deadly-ukrainian-attack-college-dorm/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "EU leaders silent on deadly Ukrainian attack on college dorm",
+    "published": "2026-05-24T18:58:57+00:00"
+  },
   "672950e5f48731d8764ae96c64f209bc669594f16be05d686f9346912217654f": {
     "url": "Slavyangrad/164961",
     "title": "Kiev Firefight Rages After Nighttime Strikes",
@@ -218,6 +253,11 @@
     "url": "Middle_East_Spectator/32337",
     "title": "Russia Fires Hypersonic Missiles at Ukraine's Kiev Region",
     "published": "2026-05-24T04:03:45.441191+00:00"
+  },
+  "bc0299c646f2328f40e6ed82075a36ac7677cd8990697cb9269d82be5d4415de": {
+    "url": "https://tass.com/world/2135713",
+    "title": "Slovakian premier urges Russia-EU dialogue on Ukraine for peace in Europe",
+    "published": "2026-05-24T02:46:12+00:00"
   },
   "f503e2bfadc123724938a73047fce4bea25e0da14352dbf04942c8b18d4b75cc": {
     "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/184695",
     "title": "IDF Accused of Targeting Paramedics in Lebanon",
     "published": "2026-05-22T14:56:48.026788+00:00"
-  },
-  "108f63aa15e547b3c399ea98b50e4d809bd45d75757e79c433a51da42940174c": {
-    "url": "thecradlemedia/60102",
-    "title": "Hezbollah Drone Attack Hits Israeli Military Barracks in Western Galilee",
-    "published": "2026-05-22T14:53:44.802178+00:00"
-  },
-  "053688d621292836d0f2b373a8683fc079263f15973f6607459fae84aaa6a129": {
-    "url": "thecradlemedia/60107",
-    "title": "US Puts Taiwan Arms Deal on Hold Amid Iran Drone Strike",
-    "published": "2026-05-22T14:53:00.295940+00:00"
-  },
-  "f789f40aa1c81f66779796c6498a81d4cb163143f3c940fca09922130ee7570d": {
-    "url": "thecradlemedia/60109",
-    "title": "Israeli Settlers Celebrate Return of Military Unit with Footage of Lebanese Village Destruction",
-    "published": "2026-05-22T14:52:59.157703+00:00"
-  },
-  "2f34dacedff74dac05a3659e6f1c09ea8b164376d856032879d00cea6f3c4fa0": {
-    "url": "https://english.almanar.com.lb/article/77127/",
-    "title": "Iran Rejects \u2018Unnecessary War\u2019 Label, Insists US-Israeli Aggression Violates UN Charter - Al-Manar TV Lebanon",
-    "published": "2026-05-22T14:52:24+00:00"
-  },
-  "6d3a6a31cca21284e644b2cf0216c53750581593891e19943c1565f479857fca": {
-    "url": "thecradlemedia/60113",
-    "title": "Israeli Military Sites Suffer Damage in Iranian Strikes",
-    "published": "2026-05-22T14:51:24.233821+00:00"
-  },
-  "c14ed01a0e36f8efc157cb489e1418c59106d25fe73816e7a7876834021d6ae3": {
-    "url": "https://www.rt.com/news/640396-minab-school-rt-report/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "RT visits Iranian school hit during US-Israeli strikes (VIDEO)",
-    "published": "2026-05-22T14:15:01+00:00"
-  },
-  "3d7a350e3994d30a3f011c1f71664d474ea2bd1e38fd88b6f949bd5af84ad096": {
-    "url": "https://tass.com/world/2135113",
-    "title": "Japan, US to deploy Typhon missile system as part of joint maneuvers in summer-fall",
-    "published": "2026-05-22T12:57:24+00:00"
-  },
-  "368f84b047dd263ee32b6a7db937fc6eacc2206e2b9f8fee391971ead9fb127f": {
-    "url": "https://tass.com/politics/2135107",
-    "title": "Russia requests UNSC extraordinary meeting after Kiev\u2019s attack on Starobelsk college",
-    "published": "2026-05-22T12:51:24+00:00"
   }
 }

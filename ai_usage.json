@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3367,
+  "total_calls": 3371,
   "tiers": {
-    "groq": 3348,
+    "groq": 3352,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-22T04:01:25.381654+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-22T04:02:02.036898+00:00",
-      "tier": "groq",
-      "article": "US missile stockpiles strained as Israel conserved air defenses during Iran war"
-    },
-    {
-      "timestamp": "2026-05-22T04:02:19.652113+00:00",
-      "tier": "groq",
-      "article": "Kiev troops fire 11 munitions towards DPR in past day, one killed"
-    },
-    {
-      "timestamp": "2026-05-22T04:02:38.600551+00:00",
-      "tier": "groq",
-      "article": "NATO intervention and Iran\u2019s insurance offer: What\u2019s going on in the Strait of Hormuz?"
-    },
     {
       "timestamp": "2026-05-22T07:57:27.381105+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-24T17:13:49.946608+00:00",
       "tier": "groq",
       "article": "Russian envoy praises potential Iran-US truce extension as \u2018chance to avoid escalation\u2019"
+    },
+    {
+      "timestamp": "2026-05-24T19:29:03.090174+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-24T19:29:38.637701+00:00",
+      "tier": "groq",
+      "article": "EU leaders silent on deadly Ukrainian attack on college dorm"
+    },
+    {
+      "timestamp": "2026-05-24T19:30:00.988591+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-24T19:30:35.204766+00:00",
+      "tier": "groq",
+      "article": "Slovakian premier urges Russia-EU dialogue on Ukraine for peace in Europe"
     }
   ]
 }
