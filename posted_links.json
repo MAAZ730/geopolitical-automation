@@ -1,4 +1,34 @@
 {
+  "c1e3c73ab01f363f7449a0fc74d9c0b9dd67391b06c7fbe78cdcd4775b6fdfa2": {
+    "url": "presstv/191264",
+    "title": "Hezbollah Drone Strike Targets Israeli Engineering Vehicle in Deir Seryan",
+    "published": "2026-05-24T23:11:57.692801+00:00"
+  },
+  "3696d0fdacb1bdb474512e2ef7ae3e425e022710ad46b7c5fa1a7e349daaff67": {
+    "url": "BellumActaNews/173134",
+    "title": "Missile Hits Central Kyiv Amid Ongoing Conflict",
+    "published": "2026-05-24T23:10:42.648972+00:00"
+  },
+  "5645a89d7e716439892e870675d580ddb0c2eaf17ab52b22c66761ef1eabdda6": {
+    "url": "BellumActaNews/173135",
+    "title": "Russian Cruise Missile Hits Central Kyiv",
+    "published": "2026-05-24T23:10:22.443112+00:00"
+  },
+  "92e44a9051ad0c1f8d8ad2cb53be4c81c422a1a00cd7dbe6da3ed60abe694888": {
+    "url": "QudsNen/224801",
+    "title": "Iranian Official Warns of Potential Confrontation Amid Ongoing Diplomatic Efforts",
+    "published": "2026-05-24T23:08:56.392295+00:00"
+  },
+  "ef7fd03798b8acacb59ea85f2f2058fe5516d3e03bcfe5fa78e15cbbb494dc56": {
+    "url": "QudsNen/224804",
+    "title": "US and Iran Edge Closer to Peace Deal Amid Ongoing Middle East Conflict",
+    "published": "2026-05-24T23:07:08.239679+00:00"
+  },
+  "1d64ae0e54acbd1f263a0c852574d833fcdb732ebb7455de2e24719b3310c27e": {
+    "url": "QudsNen/224806",
+    "title": "NATO's Growing Dependence on Palantir's Battlefield AI",
+    "published": "2026-05-24T23:07:06.983541+00:00"
+  },
   "8d3f68926385179115bb1497d5a31e635783a99da9419637657294e492a5069b": {
     "url": "Slavyangrad/164979",
     "title": "Warehouse Fire Engulfs Bucha District Near Kiev After Missile Strike",
@@ -718,35 +748,5 @@
     "url": "QudsNen/224542",
     "title": "Gaza Ceasefire Violations Continue with Israeli Airstrikes on Nuseirat Refugee Camp",
     "published": "2026-05-22T20:00:00.463739+00:00"
-  },
-  "95f4e0eea3a896e66fc6782c3021994adfb0e78dccdd17e713b1b45da3ca67e9": {
-    "url": "QudsNen/224543",
-    "title": "Gaza Strip Under Fire: Israeli Airstrikes Hit Nuseirat Refugee Camp",
-    "published": "2026-05-22T19:59:28.967646+00:00"
-  },
-  "dc2188789f8342ed0468d371b1923868beb7c509623ef8a45ab79d57266337bd": {
-    "url": "thecradlemedia/60128",
-    "title": "Iran-Russia War Map Redrawn Through Caspian Lifeline",
-    "published": "2026-05-22T19:59:03.104808+00:00"
-  },
-  "b777c05cd882a68c941a472cf519a5823d5110232ee6ea06a39335774fee9d1c": {
-    "url": "DDGeopolitics/184693",
-    "title": "Russia and Mali Joint Forces Neutralize Terrorist Base in Koulikoro Region",
-    "published": "2026-05-22T18:09:45.209580+00:00"
-  },
-  "f3ad70480d508f51cabb08022aeeded1f9449856cad031c12ad7c151995f9782": {
-    "url": "DDGeopolitics/184704",
-    "title": "Cubans Rally in Support of Ra\u00fal Castro Amid U.S. Indictment Tensions",
-    "published": "2026-05-22T18:08:18.799634+00:00"
-  },
-  "34d9ab38d27d261401561fc70ef36917d6ee3767485f4c1195ccfb265b229cbf": {
-    "url": "DDGeopolitics/184705",
-    "title": "Cubans Rally in Support of Ra\u00fal Castro Amid US Tensions",
-    "published": "2026-05-22T18:06:27.647488+00:00"
-  },
-  "7f34392111171769512ace94308a67c9d4ae617db60e6b2133df30f6f8ec4789": {
-    "url": "QudsNen/224520",
-    "title": "Israeli Settlers Storm Al-Aqsa Mosque Compound in Jerusalem",
-    "published": "2026-05-22T18:03:56.569187+00:00"
   }
 }
