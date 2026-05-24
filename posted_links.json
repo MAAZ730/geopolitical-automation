@@ -1,4 +1,34 @@
 {
+  "ab30f1b45e5177b9aa88536f8f77068e61d6e51fe2c62f7d820189007443ed88": {
+    "url": "presstv/191197",
+    "title": "US Army Munitions Depleted Amid Conflict with Iran",
+    "published": "2026-05-24T11:33:23.243538+00:00"
+  },
+  "a7e9ebb372016bd639a3cceef3d4819bff65431a4646f3b095901a251e640312": {
+    "url": "presstv/191207",
+    "title": "Iran Threatens 'Devastating' Response to New Aggression",
+    "published": "2026-05-24T11:30:58.544183+00:00"
+  },
+  "5535b6ddf4797fda6e06f1bec4431976cbfe06630bc77f0f431c644ecb06ddc8": {
+    "url": "warmonitors/44158",
+    "title": "Cruise Missile Hits Kyiv Amid Ongoing Conflict",
+    "published": "2026-05-24T11:28:56.549735+00:00"
+  },
+  "81ecc10b1245ea0495e85e29a1281b67d8183abec8cd4a72a21e1e2e5ba843f5": {
+    "url": "DDGeopolitics/184874",
+    "title": "Ukraine Conflict: Unexploded Ordnance Poses Risk to Civilians",
+    "published": "2026-05-24T11:28:37.119441+00:00"
+  },
+  "2294ae0f0fb9f1de670cc5678b60cdf7ffb9bd958a036d20a6448784c3819e8e": {
+    "url": "thecradlemedia/60219",
+    "title": "US-Iran Talks Stalled Amid Israeli Concerns",
+    "published": "2026-05-24T11:27:45.018911+00:00"
+  },
+  "c6744db0d0381c4a7311423e51897149ce51487e982d98fb830d7ea60d252fc8": {
+    "url": "thecradlemedia/60221",
+    "title": "Trump Backs Israeli 'Freedom of Action' in Lebanon Amid Ongoing Iran Nuclear Talks",
+    "published": "2026-05-24T11:27:43.929024+00:00"
+  },
   "3cc47747a1b023f93cdb2369c5e8f76511296a9e3c5106503151d03ea3f40dab": {
     "url": "BellumActaNews/173105",
     "title": "Oreshnik Strike on Bila Tserkva near Kyiv: Multiple Kinetic Rods Deployed",
@@ -278,6 +308,11 @@
     "url": "thecradlemedia/60162",
     "title": "Israeli Drone Sighting Spotted in Beirut's Southern Suburbs",
     "published": "2026-05-23T13:48:21.419734+00:00"
+  },
+  "5f27bd45e8bdce6cdc29aa4914e5081aa9f6eec93f8a64d2ed25d5e3fbc11c70": {
+    "url": "https://en.mehrnews.com/news/244725/Iran-Oman-discuss-latest-diplomatic-regional-developments",
+    "title": "Iran, Oman discuss latest diplomatic, regional developments",
+    "published": "2026-05-23T13:29:55+00:00"
   },
   "0a8baf69e5d783b91d4d4a9704e813a51d55399703a5687080462bf04131b52e": {
     "url": "https://tass.com/world/2135557",
@@ -713,40 +748,5 @@
     "url": "CyberspecNews/107931",
     "title": "US Pauses Arms Shipments to Taiwan Amid Ongoing Iran Conflict",
     "published": "2026-05-22T04:20:41.657892+00:00"
-  },
-  "e4d460ad276c9dc7a0c0c972a3461d4b489e27cc1c459f3353d73c8d13dd2233": {
-    "url": "intelslava/88014",
-    "title": "Russia Conducts High-Profile Missile Launches Amid Strategic Nuclear Forces Exercises",
-    "published": "2026-05-22T04:14:36.603140+00:00"
-  },
-  "1bf39d3df5b227ed1c06ec5c2df3fafa2f3ef2b3965679aaf3912e4a70903c22": {
-    "url": "QudsNen/224435",
-    "title": "Israeli Artillery Strikes Northern Gaza Strip",
-    "published": "2026-05-22T04:04:22.062492+00:00"
-  },
-  "fd1c800175af1b0a0ee212e910c940ebecdfa5ba7d041c8be459412351ff5d6f": {
-    "url": "QudsNen/224438",
-    "title": "Israeli Troops Celebrate Destruction in Southern Lebanon",
-    "published": "2026-05-22T04:04:20.794708+00:00"
-  },
-  "d06d0e8d4de26595a6d577d38524b1210f234f79abb68250a7adb90f4746334f": {
-    "url": "thecradlemedia/60058",
-    "title": "Israeli Airstrike Kills 14 in Southern Lebanon",
-    "published": "2026-05-22T04:02:43.531400+00:00"
-  },
-  "7ea770e1efd7d90f7b9940c1dc7003c5fcdfb6265641ecea18e264d4e163aca0": {
-    "url": "https://tass.com/politics/2134793",
-    "title": "Kiev troops fire 11 munitions towards DPR in past day, one killed",
-    "published": "2026-05-22T00:00:00+00:00"
-  },
-  "f1588d231a610054ae53ec989d35227f45fb3e061caca7f2cc1fe0a6d9d9a0a9": {
-    "url": "https://www.rt.com/news/640355-israel-us-interceptors-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US missile stockpiles strained as Israel conserved air defenses during Iran war",
-    "published": "2026-05-21T23:47:26+00:00"
-  },
-  "7def4704b7ed7428596787016baeed5a727a41128e58a217f9dcec9a3b1ae07d": {
-    "url": "CyberspecNews/107927",
-    "title": "Germany's Defense Minister Pistorius Warns of Renewed Russian Threat",
-    "published": "2026-05-21T23:28:06.957482+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3351,
+  "total_calls": 3355,
   "tiers": {
-    "groq": 3332,
+    "groq": 3336,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-21T16:46:16.216738+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-21T16:46:50.418434+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-21T16:47:36.274100+00:00",
-      "tier": "groq",
-      "article": "Zionist media: Hezbollah attacked the sensors installed by \u201cIsrael\u201d on the border with Lebanon with precision missiles - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-21T16:47:54.156869+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-21T20:03:16.987991+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-24T10:02:40.129537+00:00",
       "tier": "groq",
       "article": "Pakistani senator sees Yalta as appropriate place for Putin-Trump-Xi meeting"
+    },
+    {
+      "timestamp": "2026-05-24T11:26:24.587657+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-24T11:26:57.385110+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-24T11:27:13.839434+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-24T11:27:30.274243+00:00",
+      "tier": "groq",
+      "article": "Iran, Oman discuss latest diplomatic, regional developments"
     }
   ]
 }
