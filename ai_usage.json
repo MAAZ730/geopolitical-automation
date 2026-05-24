@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3371,
+  "total_calls": 3375,
   "tiers": {
-    "groq": 3352,
+    "groq": 3356,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-22T07:57:27.381105+00:00",
-      "tier": "groq",
-      "article": "Lebanon\u2019s National News Agency: Four martyrs, two injured in Israeli strike targeting Civil Defense location in Hanaweih, southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-22T07:57:59.966767+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-22T07:58:51.506628+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks wound 35 people in LPR, 217 UAVs target Russia: aftermath of new strikes"
-    },
-    {
-      "timestamp": "2026-05-22T07:59:09.472887+00:00",
-      "tier": "groq",
-      "article": "Forcing Iran to surrender \u2018nothing but an illusion\u2019"
-    },
     {
       "timestamp": "2026-05-22T11:01:14.872193+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-24T19:30:35.204766+00:00",
       "tier": "groq",
       "article": "Slovakian premier urges Russia-EU dialogue on Ukraine for peace in Europe"
+    },
+    {
+      "timestamp": "2026-05-24T21:05:45.501305+00:00",
+      "tier": "groq",
+      "article": "11 civilians killed in Israel\u2019s strike on Nabatieh \u2014 Lebanon\u2019s health ministry"
+    },
+    {
+      "timestamp": "2026-05-24T21:06:18.652009+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-24T21:07:04.904461+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-24T21:07:56.919841+00:00",
+      "tier": "groq",
+      "article": "How America's Iran gamble redrew region's map"
     }
   ]
 }
