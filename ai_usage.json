@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3343,
+  "total_calls": 3347,
   "tiers": {
-    "groq": 3324,
+    "groq": 3328,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-21T09:55:17.870905+00:00",
-      "tier": "groq",
-      "article": "\u2018Stuck in the Mud\u2019: Israeli Forces Hide by Day as Hezbollah Drones Wreak Havoc, Haaretz Admits - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-21T09:55:35.672434+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-21T09:56:10.813104+00:00",
-      "tier": "groq",
-      "article": "China's AI Governance Offensive Threatens U.S. Tech Leadership"
-    },
-    {
-      "timestamp": "2026-05-21T09:56:26.903125+00:00",
-      "tier": "groq",
-      "article": "UN peacekeeping forces prepare to leave Lebanon, but what comes next?"
-    },
     {
       "timestamp": "2026-05-21T12:53:11.658516+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-24T04:01:45.339679+00:00",
       "tier": "groq",
       "article": "Pakistan army chief holds lengthy talks with FM Araghchi in Tehran"
+    },
+    {
+      "timestamp": "2026-05-24T07:28:15.136029+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-24T07:28:31.737149+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-24T07:28:47.794746+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-24T07:29:03.951688+00:00",
+      "tier": "groq",
+      "article": "Death toll in coal mine explosion in China\u2019s Shanxi Province rises to 90"
     }
   ]
 }
