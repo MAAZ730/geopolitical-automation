@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3395,
+  "total_calls": 3399,
   "tiers": {
-    "groq": 3376,
+    "groq": 3380,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-22T23:12:16.660140+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-22T23:12:50.049942+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-22T23:13:06.225516+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-22T23:13:42.457253+00:00",
-      "tier": "groq",
-      "article": "UKMTO reports a security incident in northern Yemen"
-    },
     {
       "timestamp": "2026-05-23T03:39:26.803621+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-25T17:53:41.203830+00:00",
       "tier": "groq",
       "article": "Scott Ritter: The US administration lost a patriot and truth-teller in Tulsi Gabbard"
+    },
+    {
+      "timestamp": "2026-05-25T19:53:14.175157+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-25T19:53:46.552406+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-25T19:54:34.063332+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-25T19:54:50.229417+00:00",
+      "tier": "groq",
+      "article": "Trump tells US negotiators 'not to rush' into deal with Iran"
     }
   ]
 }
