@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3383,
+  "total_calls": 3387,
   "tiers": {
-    "groq": 3364,
+    "groq": 3368,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-22T18:01:18.892427+00:00",
-      "tier": "groq",
-      "article": "Iran Rejects \u2018Unnecessary War\u2019 Label, Insists US-Israeli Aggression Violates UN Charter - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-22T18:01:59.758924+00:00",
-      "tier": "groq",
-      "article": "Israeli Media Reports Casualties as Hezbollah Loitering Gliders Strike Occupation Sites of Branit, Al-Raheb - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-22T18:02:19.301429+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-22T18:02:35.646804+00:00",
-      "tier": "groq",
-      "article": "Merz proposes limited EU role for Ukraine falling short of Kiev\u2019s demands"
-    },
     {
       "timestamp": "2026-05-22T19:57:14.035715+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-25T04:11:26.870872+00:00",
       "tier": "groq",
       "article": "Chemical blast fears trigger mass evacuation in California (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-05-25T10:18:42.689780+00:00",
+      "tier": "groq",
+      "article": "Casualty in Yaroslavl Region, 173 UAVs target Russia: aftermath of new Ukrainian attack"
+    },
+    {
+      "timestamp": "2026-05-25T10:19:22.263163+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: Russia\u2019s Oreshnik missile strike, breached Ukrainian air defenses"
+    },
+    {
+      "timestamp": "2026-05-25T10:19:39.787029+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-25T10:19:56.377185+00:00",
+      "tier": "groq",
+      "article": "Over 50 foreign journalists from 19 countries set off to LPR\u2019s Starobelsk \u2014 diplomat"
     }
   ]
 }
