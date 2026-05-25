@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3399,
+  "total_calls": 3403,
   "tiers": {
-    "groq": 3380,
+    "groq": 3384,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-23T03:39:26.803621+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-23T03:40:00.564295+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-23T03:40:16.775815+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-23T03:40:34.960370+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-23T06:39:06.462807+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-25T19:54:50.229417+00:00",
       "tier": "groq",
       "article": "Trump tells US negotiators 'not to rush' into deal with Iran"
+    },
+    {
+      "timestamp": "2026-05-25T21:18:12.790777+00:00",
+      "tier": "groq",
+      "article": "Israel to intensify Lebanon offensive in bid to \u2018crush\u2019 Hezbollah"
+    },
+    {
+      "timestamp": "2026-05-25T21:18:51.234568+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-25T21:19:37.488604+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-25T21:19:53.395194+00:00",
+      "tier": "groq",
+      "article": "Iran-Cuba Parl. Friendship Group denounces US naval blockade"
     }
   ]
 }
