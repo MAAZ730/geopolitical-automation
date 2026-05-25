@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3391,
+  "total_calls": 3395,
   "tiers": {
-    "groq": 3372,
+    "groq": 3376,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-22T21:18:44.511162+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-22T21:19:17.094439+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-22T21:19:33.231051+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-22T21:19:50.083480+00:00",
-      "tier": "groq",
-      "article": "IRGC coordinates safe passage of 31 vessels via Hormuz Strait"
-    },
     {
       "timestamp": "2026-05-22T23:12:16.660140+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-25T15:23:36.111936+00:00",
       "tier": "groq",
       "article": "Hezbollah will keep its weapons: Qassem"
+    },
+    {
+      "timestamp": "2026-05-25T17:52:36.318875+00:00",
+      "tier": "groq",
+      "article": "Ukraine reports serious deficit of surface-to-air missiles amid latest air defense failure"
+    },
+    {
+      "timestamp": "2026-05-25T17:53:08.343841+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-25T17:53:24.780077+00:00",
+      "tier": "groq",
+      "article": "Russia warns foreigners to leave Kyiv as it prepares \u2018systematic strikes\u2019"
+    },
+    {
+      "timestamp": "2026-05-25T17:53:41.203830+00:00",
+      "tier": "groq",
+      "article": "Scott Ritter: The US administration lost a patriot and truth-teller in Tulsi Gabbard"
     }
   ]
 }
