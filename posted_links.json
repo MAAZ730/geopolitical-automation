@@ -1,4 +1,34 @@
 {
+  "1e9eac90be8907805fc781903454a7421661c43242ebcec7abea8d0b27029c6f": {
+    "url": "intelslava/88164",
+    "title": "US Fighter Jets Target Iranian Navy Speedboats in Persian Gulf",
+    "published": "2026-05-25T23:19:18.953175+00:00"
+  },
+  "0aa56befe64ea011f0adb9730b90a82608577f20e87802eb29a8da5c2f382f84": {
+    "url": "warmonitors/44159",
+    "title": "Ukraine Destroys Russian Cruise Missile Over Kyiv",
+    "published": "2026-05-25T23:19:01.177910+00:00"
+  },
+  "428e51eab5a451225d6bce7825590eaceb81bb6f6672cd4af53afd649e427020": {
+    "url": "Middle_East_Spectator/32394",
+    "title": "Iran Air Defense Activity in Bandar Abbas",
+    "published": "2026-05-25T23:18:36.198886+00:00"
+  },
+  "9c9e0c44282db926e43e1431977aeef0a8acdd4611ab0a9d50d14d63f88e69f9": {
+    "url": "Middle_East_Spectator/32401",
+    "title": "Trump Calls for Destruction of Enriched Uranium in Iran",
+    "published": "2026-05-25T23:18:21.097972+00:00"
+  },
+  "cad63f34cfa41b1bec7f187372ac1bb1e339cfb9f84297b662ad9584679d4ac1": {
+    "url": "Middle_East_Spectator/32408",
+    "title": "Iran Vows to Boost Missile, Drone Production with Unfrozen US Funds",
+    "published": "2026-05-25T23:18:19.956187+00:00"
+  },
+  "72a7681b299c09bb28c93ad7db6c31d83386a410490ce0f9c29405b40b6d380e": {
+    "url": "Middle_East_Spectator/32409",
+    "title": "Trump Demands Enriched Uranium Transfer from Iran",
+    "published": "2026-05-25T23:16:13.283009+00:00"
+  },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
     "title": "Iran Fires Ballistic Missiles at Israeli Territory",
@@ -163,6 +193,11 @@
     "url": "thecradlemedia/60270",
     "title": "Israeli Warplanes Strike Southern Lebanon",
     "published": "2026-05-25T10:20:02.054423+00:00"
+  },
+  "0337c5572f4f3bfec5d600403e960f68a79519d460cc551ac413a107c819de8b": {
+    "url": "https://en.mehrnews.com/news/244776/Iran-Oman-working-on-protocol-to-ensure-safe-passage-via-SOH",
+    "title": "Iran, Oman working on protocol to ensure safe passage via SOH",
+    "published": "2026-05-25T08:27:10+00:00"
   },
   "bb1b5e6c65613af98c45f2dc65f09cbdc5bed95e883dc4b2e8ed683fe7ccf428": {
     "url": "https://tass.com/politics/2135949",
@@ -713,40 +748,5 @@
     "url": "https://www.rt.com/news/640481-russian-school-dorm-ukraine-strike-west-reaction/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "How has the West responded to Ukraine\u2019s \u2018terrorist attack\u2019 on a Russian school dorm?",
     "published": "2026-05-23T16:13:58+00:00"
-  },
-  "e18bb6ed30a9648e73c34c82fa68fcd75cf4ff8ba52464ca2c8365a16dd14eba": {
-    "url": "presstv/191087",
-    "title": "Israeli Drones Spotted Above Southern Beirut Suburbs",
-    "published": "2026-05-23T15:19:41.252644+00:00"
-  },
-  "b307587d43c5ee5d3f1859603dd42fed3929d708796ec49397524379e5065315": {
-    "url": "presstv/191089",
-    "title": "IRGC Navy Announces Smooth Passage of 25 Vessels Through Strait of Hormuz",
-    "published": "2026-05-23T15:19:05.307815+00:00"
-  },
-  "64d7eafc9b39c3e7c5b90970571f4297cfc5190c8013b6faac6937479034659f": {
-    "url": "BellumActaNews/173066",
-    "title": "Rubio Arrives in Kolkata for Quad Meeting",
-    "published": "2026-05-23T15:16:57.846549+00:00"
-  },
-  "3ca8da5c2a4a2bf3b48b9e68558ec3fa9328552fa041d9ec0bf2dbfd86420c81": {
-    "url": "DDGeopolitics/184772",
-    "title": "US Military Academy Graduates Told of Potential Combat Deployment",
-    "published": "2026-05-23T15:13:59.552078+00:00"
-  },
-  "1f7cc985723867431c22b8705fe8bd97b0f88b5daf42b91ac7ac473abd4aeda2": {
-    "url": "thecradlemedia/60173",
-    "title": "Sirens Sound in Shlomi Amid Suspected Drone Infiltration from Lebanon",
-    "published": "2026-05-23T15:13:37.016181+00:00"
-  },
-  "19221ffce1e0f1f435278a375bcc83a6e87dce48a768df13a20844eaf44267e0": {
-    "url": "thecradlemedia/60175",
-    "title": "Israeli Warplanes Strike Nabatieh, Lebanon",
-    "published": "2026-05-23T15:13:35.279938+00:00"
-  },
-  "bc57abe0508a2be973571d0b1b62a3cb7290eddffae0a7ba7552bcebd112e899": {
-    "url": "QudsNen/224654",
-    "title": "Israeli Drones Conduct Surveillance Flights Over Beirut Suburbs",
-    "published": "2026-05-23T13:52:12.739872+00:00"
   }
 }

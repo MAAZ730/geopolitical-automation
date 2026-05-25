@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3403,
+  "total_calls": 3407,
   "tiers": {
-    "groq": 3384,
+    "groq": 3388,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-23T06:39:06.462807+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-23T06:39:38.678126+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-23T06:40:25.549748+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-23T06:40:41.754871+00:00",
-      "tier": "groq",
-      "article": "Iran exporting 1.4m crude bpd despite US naval blockade: IEA"
-    },
     {
       "timestamp": "2026-05-23T10:00:32.811342+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-25T21:19:53.395194+00:00",
       "tier": "groq",
       "article": "Iran-Cuba Parl. Friendship Group denounces US naval blockade"
+    },
+    {
+      "timestamp": "2026-05-25T23:15:02.606175+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-25T23:15:35.032174+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-25T23:15:51.976128+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-25T23:16:08.275613+00:00",
+      "tier": "groq",
+      "article": "Iran, Oman working on protocol to ensure safe passage via SOH"
     }
   ]
 }
