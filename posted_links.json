@@ -1,4 +1,39 @@
 {
+  "6ce96b6336dc9249293348c289922172b24adc793273f5c83919697be26e85d0": {
+    "url": "presstv/191270",
+    "title": "Hezbollah Targets Israeli Merkava Tank in Southern Lebanon",
+    "published": "2026-05-25T04:17:00.608514+00:00"
+  },
+  "c032826bd0378c1673a20e5307de7ee05ac26e2bfb5769a83b564bb6219332b6": {
+    "url": "presstv/191274",
+    "title": "Hezbollah Chief Urges National Unity Amid Ongoing Tensions",
+    "published": "2026-05-25T04:15:57.228948+00:00"
+  },
+  "16336e87d61cffa9e39bbf0dadd1d985fd6a27fcb1d157f5bebfdfef2ba789e9": {
+    "url": "presstv/191276",
+    "title": "Iran Displays Khaibar Shekan Missile at Tehran Rallies",
+    "published": "2026-05-25T04:13:15.200261+00:00"
+  },
+  "b67caf5126655c7b63b54b6cde39b7b2bfcc55f0bca3f8c3c246fb6098df7167": {
+    "url": "BellumActaNews/173141",
+    "title": "Quetta SVBIED Attack: BLA Releases Photo of Suspected Suicide Bomber",
+    "published": "2026-05-25T04:12:00.717761+00:00"
+  },
+  "0a5687d4543ca9e0570cd9964416ca212f419e6bb51a2fc93692c323e601fa4d": {
+    "url": "QudsNen/224825",
+    "title": "Israeli Tanks Fire on Eastern Gaza Strip",
+    "published": "2026-05-25T04:11:40.623611+00:00"
+  },
+  "a6593ca44d21c7080e0374bd2ae72df0bb8eb40961a6756126f900e8ac9d64c0": {
+    "url": "Middle_East_Spectator/32365",
+    "title": "Iran's Khatam Al-Anbiyaa Central HQ Commander Makes Public Appearance",
+    "published": "2026-05-25T04:11:33.842533+00:00"
+  },
+  "ed81f08ac91d6831dd1b405da38f8091dc8d15e013d4fcbc0306047d65bdf608": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/5/25/russia-invites-media-to-view-deadly-strike-on-college-in-luhansk?traffic_source=rss",
+    "title": "Russia invites media to view deadly strike on college in Luhansk",
+    "published": "2026-05-25T03:40:25+00:00"
+  },
   "c1e3c73ab01f363f7449a0fc74d9c0b9dd67391b06c7fbe78cdcd4775b6fdfa2": {
     "url": "presstv/191264",
     "title": "Hezbollah Drone Strike Targets Israeli Engineering Vehicle in Deir Seryan",
@@ -28,6 +63,11 @@
     "url": "QudsNen/224806",
     "title": "NATO's Growing Dependence on Palantir's Battlefield AI",
     "published": "2026-05-24T23:07:06.983541+00:00"
+  },
+  "70668ad1b2c706480920730734d8bb1332398f970e039fad4b2d80b225d3db23": {
+    "url": "https://tass.com/world/2135865",
+    "title": "Ukrainian media report air defense system failure in Kiev",
+    "published": "2026-05-24T21:28:01+00:00"
   },
   "8d3f68926385179115bb1497d5a31e635783a99da9419637657294e492a5069b": {
     "url": "Slavyangrad/164979",
@@ -288,6 +328,11 @@
     "url": "QudsNen/224714",
     "title": "Israeli Airstrike Kills Family in Central Gaza, Despite Ceasefire Claims",
     "published": "2026-05-24T07:29:10.636279+00:00"
+  },
+  "b5051abc7f3b9b49df414d7b3945f4683b8b7391040a20f52f042fd01564316f": {
+    "url": "https://www.rt.com/news/640504-thousands-evacuate-california-chemical/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Chemical blast fears trigger mass evacuation in California (VIDEOS)",
+    "published": "2026-05-24T04:47:17+00:00"
   },
   "d278dd0cb130cad12dd9050fcae931191383783e7ec751bb7804851ea511b27b": {
     "url": "DDGeopolitics/184840",
@@ -703,50 +748,5 @@
     "url": "CensoredMen/203",
     "title": "US-Iran Ceasefire Excludes Lebanon Amid Israeli Escalation",
     "published": "2026-05-22T21:24:36.141740+00:00"
-  },
-  "f022ee28e52ddc9ea774c5e25a667db67b6f921f574ceeaf23fbd8094bb4ba9e": {
-    "url": "presstv/190993",
-    "title": "Trump Claims Venezuela Oil Extraction Has Covered War Costs",
-    "published": "2026-05-22T21:22:01.936467+00:00"
-  },
-  "505871c071dd0cb9129fb90da19b16758727fc32b6c8deaaa7ba3a8431240f25": {
-    "url": "DDGeopolitics/184722",
-    "title": "LPR College Hit by Starlink-Guided Drones",
-    "published": "2026-05-22T21:21:20.521544+00:00"
-  },
-  "33d3a207ab1daa2db55d780a90fe81fd53437420bba796185594e7bea4637999": {
-    "url": "QudsNen/224549",
-    "title": "Israeli Threats Prompt Evacuation of Civilians in Tyre, Lebanon",
-    "published": "2026-05-22T21:20:27.139861+00:00"
-  },
-  "bd92f5758bc9d3420e275436e667a1094b329d7cf8a66f3de81e271e2e1c7ce4": {
-    "url": "QudsNen/224553",
-    "title": "Gaza Strip Humanitarian Crisis Deepens Amid Aid Restrictions",
-    "published": "2026-05-22T21:20:04.463847+00:00"
-  },
-  "a3377d7d14fbb658dad044a689560232c3a4d0512a5bd42c8329b07a32d9499a": {
-    "url": "QudsNen/224559",
-    "title": "Israeli Airstrikes Hit Al-Beqaa Region in Eastern Lebanon",
-    "published": "2026-05-22T21:20:02.918089+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Final Bridge Linking Lebanon's Litani River",
-    "published": "2026-05-22T20:01:21.960770+00:00"
-  },
-  "eb616bb2542ebcff605df685169e0a71dc111571c6cee2e75212a388b5625d9b": {
-    "url": "QudsNen/224533",
-    "title": "Hezbollah Claims Drone Strike on Israeli Tank in Bint Jbeil",
-    "published": "2026-05-22T20:00:59.777059+00:00"
-  },
-  "23b2f835a6a48ae1a8079173e842e5349fa56a2b3485c2e7e55e6cd2fc01b3b0": {
-    "url": "QudsNen/224541",
-    "title": "Turkish Activist Claims Abuse by Israeli Soldiers on Gaza Aid Flotilla",
-    "published": "2026-05-22T20:00:01.988974+00:00"
-  },
-  "3f86dde23cf118d1a8a82fe5e2faf92bd6869f5acad646721b51a7f124d749c6": {
-    "url": "QudsNen/224542",
-    "title": "Gaza Ceasefire Violations Continue with Israeli Airstrikes on Nuseirat Refugee Camp",
-    "published": "2026-05-22T20:00:00.463739+00:00"
   }
 }

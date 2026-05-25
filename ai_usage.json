@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3379,
+  "total_calls": 3383,
   "tiers": {
-    "groq": 3360,
+    "groq": 3364,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-22T14:50:19.193897+00:00",
-      "tier": "groq",
-      "article": "RT visits Iranian school hit during US-Israeli strikes (VIDEO)"
-    },
-    {
-      "timestamp": "2026-05-22T14:50:38.210822+00:00",
-      "tier": "groq",
-      "article": "Japan, US to deploy Typhon missile system as part of joint maneuvers in summer-fall"
-    },
-    {
-      "timestamp": "2026-05-22T14:51:02.119086+00:00",
-      "tier": "groq",
-      "article": "Russia requests UNSC extraordinary meeting after Kiev\u2019s attack on Starobelsk college"
-    },
-    {
-      "timestamp": "2026-05-22T14:51:20.506803+00:00",
-      "tier": "groq",
-      "article": "RT captures ship congestion in Hormuz Strait amid US-Iran standoff"
-    },
     {
       "timestamp": "2026-05-22T18:01:18.892427+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-24T23:06:59.939120+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-25T04:10:34.443821+00:00",
+      "tier": "groq",
+      "article": "Ukrainian media report air defense system failure in Kiev"
+    },
+    {
+      "timestamp": "2026-05-25T04:10:53.274260+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-25T04:11:09.546684+00:00",
+      "tier": "groq",
+      "article": "Russia invites media to view deadly strike on college in Luhansk"
+    },
+    {
+      "timestamp": "2026-05-25T04:11:26.870872+00:00",
+      "tier": "groq",
+      "article": "Chemical blast fears trigger mass evacuation in California (VIDEOS)"
     }
   ]
 }
