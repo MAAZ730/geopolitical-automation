@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3423,
+  "total_calls": 3427,
   "tiers": {
-    "groq": 3404,
+    "groq": 3408,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-23T17:08:56.122657+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-23T17:09:34.672339+00:00",
-      "tier": "groq",
-      "article": "How has the West responded to Ukraine\u2019s \u2018terrorist attack\u2019 on a Russian school dorm?"
-    },
-    {
-      "timestamp": "2026-05-23T17:10:21.969941+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-23T17:11:09.161228+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-23T19:21:23.497526+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-26T18:34:47.935325+00:00",
       "tier": "groq",
       "article": "Here\u2019s why many Western leaders\u2019 approval ratings are tanking"
+    },
+    {
+      "timestamp": "2026-05-26T21:51:01.412554+00:00",
+      "tier": "groq",
+      "article": "US launches \u2018self-defense\u2019 strikes against Iran amid ongoing ceasefire"
+    },
+    {
+      "timestamp": "2026-05-26T21:51:17.643704+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-26T21:51:44.191081+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-26T21:52:00.642549+00:00",
+      "tier": "groq",
+      "article": "Iranian enriched uranium stockpile to be \u2018destroyed\u2019 \u2013 Trump"
     }
   ]
 }
