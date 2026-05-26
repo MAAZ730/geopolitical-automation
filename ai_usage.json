@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3411,
+  "total_calls": 3415,
   "tiers": {
-    "groq": 3392,
+    "groq": 3396,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-23T11:30:55.409734+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-23T11:31:28.499681+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-23T11:31:44.400420+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-23T11:32:02.452970+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-23T13:46:04.988123+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-26T03:59:55.557706+00:00",
       "tier": "groq",
       "article": "Palestinian resistance to liberate Al-Quds: General Ghaani"
+    },
+    {
+      "timestamp": "2026-05-26T08:07:25.915175+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-26T08:07:42.508836+00:00",
+      "tier": "groq",
+      "article": "The U.S. Military Lacks an Ethics Doctrine. Combat Effectiveness Suffers"
+    },
+    {
+      "timestamp": "2026-05-26T08:08:12.033077+00:00",
+      "tier": "groq",
+      "article": "US strikes southern Iran in \u2018self defence\u2019 targeting Iranian mine boats"
+    },
+    {
+      "timestamp": "2026-05-26T08:08:28.214409+00:00",
+      "tier": "groq",
+      "article": "Iran not to give in to US excessive demands: Pezeshkian"
     }
   ]
 }
