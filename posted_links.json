@@ -1,4 +1,44 @@
 {
+  "003e8e03871b52f56b80c136677f640bb6342c0f688d3f098e5bab2383305fec": {
+    "url": "mod_russia_en/27170",
+    "title": "Russian Forces Strike Enemy UAV Command Post in Eastern Ukraine",
+    "published": "2026-05-26T04:06:35.134550+00:00"
+  },
+  "27c5bbf38952c69947af5dd69ce30450fc8e193d730ed222ec842115c4a85b5d": {
+    "url": "mod_russia_en/27175",
+    "title": "Russian Forces Launch Tank Attacks on Ukrainian Positions in Eastern Ukraine",
+    "published": "2026-05-26T04:05:04.228542+00:00"
+  },
+  "745e8d0c2de269d6dee80d671a4688b4f0be199d9d04efac54e00f6dc34c342e": {
+    "url": "mod_russia_en/27182",
+    "title": "Russian Forces Complete Combat Training Exercises in Special Military Operation Zone",
+    "published": "2026-05-26T04:03:33.580046+00:00"
+  },
+  "71334428e7d704d716669d797bb883cd6ba0bd5d07f4c03925aca2db19afc483": {
+    "url": "intelslava/88150",
+    "title": "Quetta Train Bombing Leaves 47 Dead, Scores Injured",
+    "published": "2026-05-26T04:02:40.330145+00:00"
+  },
+  "ddfbe1c52f445e5f7919b5e1c59a7a9abcb0201651441bd8eac000f54342e507": {
+    "url": "QudsNen/224960",
+    "title": "Drone Infiltrations Trigger Sirens in Northern Occupied Palestine",
+    "published": "2026-05-26T04:00:03.793094+00:00"
+  },
+  "4bb1245d4ab8691326b43d23268d06b122957bb41239f333ed545a5b843b7599": {
+    "url": "QudsNen/224961",
+    "title": "Gaza Strip Food Distribution Operations Reduced Amid Escalating Regional Tensions",
+    "published": "2026-05-26T04:00:02.560507+00:00"
+  },
+  "4ec127784b632df9148261e9e807a4dfddb92573c45521b4fba242e2962c192b": {
+    "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+    "title": "US military says it has launched new strikes on southern Iran",
+    "published": "2026-05-26T02:44:19+00:00"
+  },
+  "582db5c65ff45eb1f3abf3560a6f493a89e4b2d6dfbd80df6f7d314d4949f690": {
+    "url": "https://tass.com/world/2136395",
+    "title": "US strikes missile launch sites, boats in southern Iran \u2014 Fox News, citing CENTCOM",
+    "published": "2026-05-26T00:00:00+00:00"
+  },
   "1e9eac90be8907805fc781903454a7421661c43242ebcec7abea8d0b27029c6f": {
     "url": "intelslava/88164",
     "title": "US Fighter Jets Target Iranian Navy Speedboats in Persian Gulf",
@@ -193,6 +233,11 @@
     "url": "thecradlemedia/60270",
     "title": "Israeli Warplanes Strike Southern Lebanon",
     "published": "2026-05-25T10:20:02.054423+00:00"
+  },
+  "2ebaab048c7b4bbcf654f9bdb0d2e7dc99064800ede13d5cbbeafd094133c126": {
+    "url": "https://en.mehrnews.com/news/244780/Palestinian-resistance-to-liberate-Al-Quds-General-Ghaani",
+    "title": "Palestinian resistance to liberate Al-Quds: General Ghaani",
+    "published": "2026-05-25T09:28:12+00:00"
   },
   "0337c5572f4f3bfec5d600403e960f68a79519d460cc551ac413a107c819de8b": {
     "url": "https://en.mehrnews.com/news/244776/Iran-Oman-working-on-protocol-to-ensure-safe-passage-via-SOH",
@@ -703,50 +748,5 @@
     "url": "thecradlemedia/60180",
     "title": "France Bans Israeli Minister Over Gaza Flotilla Abuse",
     "published": "2026-05-23T19:22:39.917743+00:00"
-  },
-  "e82a7e6394a2eb9e9a06d3381604543620fc5a2a2a79bfa2b8f80802450229f9": {
-    "url": "thecradlemedia/60183",
-    "title": "Israeli Warplanes Strike Targets in Southern Lebanon",
-    "published": "2026-05-23T19:22:37.639105+00:00"
-  },
-  "1817a7aecac78cb9e056ac80bd2f3994ee9a567b74880d3d8935c5f11033d4a7": {
-    "url": "https://tass.com/politics/2135629",
-    "title": "Russian envoy praises potential Iran-US truce extension as \u2018chance to avoid escalation\u2019",
-    "published": "2026-05-23T19:08:52+00:00"
-  },
-  "3cce62e01542f9e4401d4a9f7abdd7b11918177cf0444510a27f5f0c87f116aa": {
-    "url": "presstv/191096",
-    "title": "Hezbollah Deploys Ababil Drones Over Northern Occupied Palestine",
-    "published": "2026-05-23T17:15:49.635002+00:00"
-  },
-  "91af7d69e5d52fa02765e987f1c7f90dee271a466fe689a876d4c88c6ab26455": {
-    "url": "presstv/191097",
-    "title": "Israeli Airstrike Hits Residential Building in Sair Al-Gharbiya, Lebanon",
-    "published": "2026-05-23T17:13:05.481762+00:00"
-  },
-  "8aaa8cbabae479e5dd2405d2ae0cc65dc0dc00fb5dbd8cd7107b261de45c5094": {
-    "url": "QudsNen/224676",
-    "title": "Israeli Airstrike Hits Sair Al-Gharbiya, Leaving Multiple Casualties",
-    "published": "2026-05-23T17:12:22.259324+00:00"
-  },
-  "c85e21d9dfdb5cb7544777083bd62e1859fc94259db12b714bd5b42fcfa264eb": {
-    "url": "thecradlemedia/60179",
-    "title": "Israeli Airstrikes Near Hiram Hospital in South Lebanon Injure Hospital Staff",
-    "published": "2026-05-23T17:11:42.154379+00:00"
-  },
-  "7342680fceda021ba7b298800d7c3df2ee5dcfc5afcfc41b6e22ca15e34c3feb": {
-    "url": "thecradlemedia/60185",
-    "title": "Iranian Hacker Collective Warns UAE Residents to Flee",
-    "published": "2026-05-23T17:11:15.540851+00:00"
-  },
-  "77b75962ef06671a729a01c9240f3d17da2858d3a25ccdccf116a33c9c0b20f7": {
-    "url": "thecradlemedia/60187",
-    "title": "Iran-Iraq Tensions Escalate as US Military Presence Remains",
-    "published": "2026-05-23T17:11:13.985525+00:00"
-  },
-  "36d07a1d12df8860d24a17236733290f70d8c052a45fbab432b4455dc440264e": {
-    "url": "https://www.rt.com/news/640481-russian-school-dorm-ukraine-strike-west-reaction/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "How has the West responded to Ukraine\u2019s \u2018terrorist attack\u2019 on a Russian school dorm?",
-    "published": "2026-05-23T16:13:58+00:00"
   }
 }

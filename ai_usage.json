@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3407,
+  "total_calls": 3411,
   "tiers": {
-    "groq": 3388,
+    "groq": 3392,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-23T10:00:32.811342+00:00",
-      "tier": "groq",
-      "article": "Wave of Israeli Attacks on Southern Lebanon Leaves Martyrs and Wounded - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-23T10:00:51.704250+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-23T10:01:17.048665+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-23T10:02:05.277537+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-23T11:30:55.409734+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-25T23:16:08.275613+00:00",
       "tier": "groq",
       "article": "Iran, Oman working on protocol to ensure safe passage via SOH"
+    },
+    {
+      "timestamp": "2026-05-26T03:58:52.727477+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-26T03:59:09.266309+00:00",
+      "tier": "groq",
+      "article": "US strikes missile launch sites, boats in southern Iran \u2014 Fox News, citing CENTCOM"
+    },
+    {
+      "timestamp": "2026-05-26T03:59:39.496380+00:00",
+      "tier": "groq",
+      "article": "US military says it has launched new strikes on southern Iran"
+    },
+    {
+      "timestamp": "2026-05-26T03:59:55.557706+00:00",
+      "tier": "groq",
+      "article": "Palestinian resistance to liberate Al-Quds: General Ghaani"
     }
   ]
 }
