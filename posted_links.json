@@ -1,4 +1,34 @@
 {
+  "921bf5b9a77d45bd252f53ca663e9258bec918979904bd9654eb6af290042ecc": {
+    "url": "DDGeopolitics/185067",
+    "title": "IRGC Intercepts US MQ-9 Reaper Drone",
+    "published": "2026-05-27T04:15:05.462700+00:00"
+  },
+  "2240bd7c19514eaa1ae0fd95120a11fe0d15db8565cc34576b523a932d353ab6": {
+    "url": "DDGeopolitics/185080",
+    "title": "Chernihiv Under Drone Attack",
+    "published": "2026-05-27T04:13:22.758156+00:00"
+  },
+  "5f813e023fed1666fb1a43fafbd11b7c38b6198d2ad3178e476fd3248836b40a": {
+    "url": "DDGeopolitics/185082",
+    "title": "Israeli Airstrikes Hit Eastern Lebanon Amid Regional Tensions",
+    "published": "2026-05-27T04:12:46.241613+00:00"
+  },
+  "bba53eb60fd261407762fdea59eda12fc5a2c476741b0d7c6b513f50e893ef8b": {
+    "url": "QudsNen/225046",
+    "title": "Israeli Politicians Call for Escalation in Lebanon Amid Hezbollah Drone Attacks",
+    "published": "2026-05-27T04:12:04.028950+00:00"
+  },
+  "c23326851abb33d1a6f0eda4f6e72d0c8ccd12b43293e0608ce536099a5ee236": {
+    "url": "QudsNen/225051",
+    "title": "Gaza Strip Violence Continues Despite Ceasefire",
+    "published": "2026-05-27T04:12:02.437420+00:00"
+  },
+  "ce25186d2c98bac7845d515e1242c10c816d217c67209189235feb2b34f3082c": {
+    "url": "Middle_East_Spectator/32474",
+    "title": "Israeli Airstrikes Hit Beqaa Valley in Lebanon",
+    "published": "2026-05-27T04:11:58.303203+00:00"
+  },
   "aabaf94b92e8db3717c0c77a098dcd4edd9a69ec6c2b9f0ce32a5f9e18d72d59": {
     "url": "DDGeopolitics/185068",
     "title": "Iran's Revolutionary Guard Corps Intercepts US MQ-9 Reaper Drone",
@@ -173,6 +203,11 @@
     "url": "https://warontherocks.com/the-u-s-military-lacks-an-ethics-doctrine-combat-effectiveness-suffers/",
     "title": "The U.S. Military Lacks an Ethics Doctrine. Combat Effectiveness Suffers",
     "published": "2026-05-26T07:15:57+00:00"
+  },
+  "2ba49d10d8852819ee10cc820dc0799196dd912f68874f1008f6dd126e2c4b17": {
+    "url": "https://en.mehrnews.com/news/244801/US-must-earn-Iran-s-trust-otherwise-there-will-be-no-deal-MP",
+    "title": "US must earn Iran\u2019s trust otherwise there will be no deal: MP",
+    "published": "2026-05-26T06:50:25+00:00"
   },
   "434da52bb3e4e15f5e597b1ee4a3af1dc8bd7026de2118efd519c8c076d90355": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aje-onl-nf_reported-us-strikes-southern-iran-in-self-defence-250526?traffic_source=rss",
@@ -713,40 +748,5 @@
     "url": "https://tass.com/defense/2135791",
     "title": "Russia uses Oreshnik weapon to strike Ukrainian military command posts",
     "published": "2026-05-24T12:05:30+00:00"
-  },
-  "ab30f1b45e5177b9aa88536f8f77068e61d6e51fe2c62f7d820189007443ed88": {
-    "url": "presstv/191197",
-    "title": "US Army Munitions Depleted Amid Conflict with Iran",
-    "published": "2026-05-24T11:33:23.243538+00:00"
-  },
-  "a7e9ebb372016bd639a3cceef3d4819bff65431a4646f3b095901a251e640312": {
-    "url": "presstv/191207",
-    "title": "Iran Threatens 'Devastating' Response to New Aggression",
-    "published": "2026-05-24T11:30:58.544183+00:00"
-  },
-  "5535b6ddf4797fda6e06f1bec4431976cbfe06630bc77f0f431c644ecb06ddc8": {
-    "url": "warmonitors/44158",
-    "title": "Cruise Missile Hits Kyiv Amid Ongoing Conflict",
-    "published": "2026-05-24T11:28:56.549735+00:00"
-  },
-  "81ecc10b1245ea0495e85e29a1281b67d8183abec8cd4a72a21e1e2e5ba843f5": {
-    "url": "DDGeopolitics/184874",
-    "title": "Ukraine Conflict: Unexploded Ordnance Poses Risk to Civilians",
-    "published": "2026-05-24T11:28:37.119441+00:00"
-  },
-  "2294ae0f0fb9f1de670cc5678b60cdf7ffb9bd958a036d20a6448784c3819e8e": {
-    "url": "thecradlemedia/60219",
-    "title": "US-Iran Talks Stalled Amid Israeli Concerns",
-    "published": "2026-05-24T11:27:45.018911+00:00"
-  },
-  "c6744db0d0381c4a7311423e51897149ce51487e982d98fb830d7ea60d252fc8": {
-    "url": "thecradlemedia/60221",
-    "title": "Trump Backs Israeli 'Freedom of Action' in Lebanon Amid Ongoing Iran Nuclear Talks",
-    "published": "2026-05-24T11:27:43.929024+00:00"
-  },
-  "050b9264dd39823175d06d22ee7c271a6b4ada970f748c04122c71d874494cdb": {
-    "url": "https://tass.com/politics/2135765",
-    "title": "Over 50 foreign journalists from 19 countries set off to LPR\u2019s Starobelsk \u2014 diplomat",
-    "published": "2026-05-24T10:24:01+00:00"
   }
 }
