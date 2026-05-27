@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3439,
+  "total_calls": 3443,
   "tiers": {
-    "groq": 3420,
+    "groq": 3424,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-24T03:59:33.973765+00:00",
-      "tier": "groq",
-      "article": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found"
-    },
-    {
-      "timestamp": "2026-05-24T04:00:13.870288+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-24T04:01:00.144986+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-24T04:01:45.339679+00:00",
-      "tier": "groq",
-      "article": "Pakistan army chief holds lengthy talks with FM Araghchi in Tehran"
-    },
     {
       "timestamp": "2026-05-24T07:28:15.136029+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-27T10:03:58.002689+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-27T13:00:52.844505+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-27T13:01:09.489102+00:00",
+      "tier": "groq",
+      "article": "Israel announces killing of new Hamas military chief"
+    },
+    {
+      "timestamp": "2026-05-27T13:01:27.466105+00:00",
+      "tier": "groq",
+      "article": "Israel claims head of Hamas military wing killed in Gaza strike"
+    },
+    {
+      "timestamp": "2026-05-27T13:01:43.786517+00:00",
+      "tier": "groq",
+      "article": "UKMTO reports maritime incident off Oman's shores"
     }
   ]
 }
