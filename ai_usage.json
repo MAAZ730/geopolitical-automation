@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3435,
+  "total_calls": 3439,
   "tiers": {
-    "groq": 3416,
+    "groq": 3420,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-23T23:04:47.526743+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-23T23:05:20.441726+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-23T23:05:37.310364+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-23T23:05:55.647946+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-24T03:59:33.973765+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-27T04:10:59.739790+00:00",
       "tier": "groq",
       "article": "US must earn Iran\u2019s trust otherwise there will be no deal: MP"
+    },
+    {
+      "timestamp": "2026-05-27T10:01:44.172712+00:00",
+      "tier": "groq",
+      "article": "Mohammed Odeh: Israeli strike in Gaza kills new head of Hamas's military wing"
+    },
+    {
+      "timestamp": "2026-05-27T10:02:24.579081+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-27T10:03:10.440630+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-27T10:03:58.002689+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }

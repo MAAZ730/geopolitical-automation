@@ -1,4 +1,39 @@
 {
+  "434a589074b3d2d22841c8da94be5ba25e4a716b4a2a43373aba354d14d05778": {
+    "url": "QudsNen/225090",
+    "title": "Israeli Police Detain Palestinian Woman at Al-Aqsa Mosque Gate",
+    "published": "2026-05-27T10:07:41.120849+00:00"
+  },
+  "57794a3c90bdcaaef511927d5f652caec79e85d2713da4d680abfe64ee892cca": {
+    "url": "QudsNen/225091",
+    "title": "Israeli Police Detain Palestinian Girl in Jerusalem's Old City",
+    "published": "2026-05-27T10:07:15.344108+00:00"
+  },
+  "0ed15b1651fa650a56e6d8af8011c36e246818420d9ad991cd87d5f15ad758c4": {
+    "url": "thecradlemedia/60431",
+    "title": "Israeli Airstrikes and Artillery Barrages in Southern Lebanon Continue",
+    "published": "2026-05-27T10:06:28.916023+00:00"
+  },
+  "886defdb8dee8f32c081c2f3bf41d00d47298b00046940f5a21c17b188f93aaf": {
+    "url": "thecradlemedia/60443",
+    "title": "Yemeni Military Vows to Counter US-Israeli Threats",
+    "published": "2026-05-27T10:04:59.161912+00:00"
+  },
+  "54fe7d5dfeb6cb472292bd36a30f4239b46c431a2a5a97f54270d099fd60d87c": {
+    "url": "thecradlemedia/60444",
+    "title": "Drones Crash in Israeli Town After Launch from Lebanon",
+    "published": "2026-05-27T10:04:57.026765+00:00"
+  },
+  "09c923f7dc2c8b8e31d262d49220b8524286d753ecb063ebe9186e6d5b604136": {
+    "url": "thecradlemedia/60446",
+    "title": "Israeli Forces Detain Palestinians in West Bank Ahead of Eid al-Adha Celebrations",
+    "published": "2026-05-27T10:04:10.395596+00:00"
+  },
+  "b99c1f78b5c3040c59fc5507ed84b343b18870d70d441b0c02a776d007f066cb": {
+    "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+    "title": "Mohammed Odeh: Israeli strike in Gaza kills new head of Hamas's military wing",
+    "published": "2026-05-27T09:55:11+00:00"
+  },
   "921bf5b9a77d45bd252f53ca663e9258bec918979904bd9654eb6af290042ecc": {
     "url": "DDGeopolitics/185067",
     "title": "IRGC Intercepts US MQ-9 Reaper Drone",
@@ -713,40 +748,5 @@
     "url": "presstv/191215",
     "title": "Israeli Airstrikes Hit Nabatieh, Southern Lebanon",
     "published": "2026-05-24T13:54:02.692232+00:00"
-  },
-  "107b2bc42dec2d10822d9c88119e125202c196615ba76cebe895ddc759fbcde1": {
-    "url": "presstv/191218",
-    "title": "Hezbollah Targets Israeli Army Vehicle in Southern Lebanon Drone Strike",
-    "published": "2026-05-24T13:53:43.522017+00:00"
-  },
-  "4eb4b43f95f64dbfa2852c71d6005b98159eb4183ea0c043eb7aa7f01da2a805": {
-    "url": "militarywave/23860",
-    "title": "Russian Forces Launch Retaliatory Strike on Kiev",
-    "published": "2026-05-24T13:52:41.204948+00:00"
-  },
-  "8756dbfbe769aa3e7e5c582ab3821551eedaebc77df83aba8d54651a608b9be2": {
-    "url": "QudsNen/224744",
-    "title": "Spanish Police Confront Activists in Bilbao",
-    "published": "2026-05-24T13:50:41.177380+00:00"
-  },
-  "46ef90ce75b78eb91543b90f80ee795575d56921e232e6bc70b8974270633605": {
-    "url": "thecradlemedia/60227",
-    "title": "Iraqi Resistance Rejects US Pressure to Integrate PMU into State Security Institutions",
-    "published": "2026-05-24T13:49:56.263356+00:00"
-  },
-  "5acc48dd70ee426a3218ee5c6c127d6bae3f4af38f5db76933e73570102f172c": {
-    "url": "thecradlemedia/60228",
-    "title": "IRGC Navy Vessels Cross Strait of Hormuz with Iranian Approval",
-    "published": "2026-05-24T13:49:55.246504+00:00"
-  },
-  "e70caa4ba8d00c570a624508fd9a7ec987f4747c8644521648e6e0b4241ca5fd": {
-    "url": "https://tass.com/politics/2135799",
-    "title": "Fragments of drones that attacked Starobelsk college demonstrated to foreign reporters",
-    "published": "2026-05-24T13:20:13+00:00"
-  },
-  "92a63f043d72d2ddb427767cfe4d0cbb6450a8cb649d549cc80e00366f39db80": {
-    "url": "https://tass.com/defense/2135791",
-    "title": "Russia uses Oreshnik weapon to strike Ukrainian military command posts",
-    "published": "2026-05-24T12:05:30+00:00"
   }
 }
