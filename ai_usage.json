@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3451,
+  "total_calls": 3455,
   "tiers": {
-    "groq": 3432,
+    "groq": 3436,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-24T11:26:24.587657+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-24T11:26:57.385110+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-24T11:27:13.839434+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-24T11:27:30.274243+00:00",
-      "tier": "groq",
-      "article": "Iran, Oman discuss latest diplomatic, regional developments"
-    },
     {
       "timestamp": "2026-05-24T13:48:10.999104+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-27T20:27:17.122808+00:00",
       "tier": "groq",
       "article": "DARPA launches search for robot medics to treat battlefield casualties"
+    },
+    {
+      "timestamp": "2026-05-27T23:23:21.330858+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-27T23:23:38.147708+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-27T23:24:00.594741+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-27T23:24:46.861466+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy oversees safe passage of 25 vessels through Strait of Hormuz"
     }
   ]
 }
