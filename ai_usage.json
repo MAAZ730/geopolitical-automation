@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3447,
+  "total_calls": 3451,
   "tiers": {
-    "groq": 3428,
+    "groq": 3432,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-24T10:01:35.034079+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-24T10:02:07.608784+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-24T10:02:23.618517+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-24T10:02:40.129537+00:00",
-      "tier": "groq",
-      "article": "Pakistani senator sees Yalta as appropriate place for Putin-Trump-Xi meeting"
-    },
     {
       "timestamp": "2026-05-24T11:26:24.587657+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-27T17:25:17.873006+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-27T20:25:06.137077+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-27T20:25:37.471774+00:00",
+      "tier": "groq",
+      "article": "Lebanon\u2019s death toll from Israeli strikes reaches 3,269 \u2014 Health Ministry"
+    },
+    {
+      "timestamp": "2026-05-27T20:26:24.581176+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-27T20:27:17.122808+00:00",
+      "tier": "groq",
+      "article": "DARPA launches search for robot medics to treat battlefield casualties"
     }
   ]
 }
