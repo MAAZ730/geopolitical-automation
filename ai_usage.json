@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3459,
+  "total_calls": 3463,
   "tiers": {
-    "groq": 3440,
+    "groq": 3444,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-24T15:12:53.322812+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-24T15:13:12.304565+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-24T15:13:33.399017+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-24T15:14:20.719045+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-24T17:12:39.978706+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-28T03:57:01.547638+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-28T08:07:28.589802+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-28T08:08:00.222001+00:00",
+      "tier": "groq",
+      "article": "National News Agency reported a number of martyrs and wounded in a missile strike that targeted an apartment in the Qiyaa area of \u200b\u200bSidon at dawn - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-28T08:08:17.524950+00:00",
+      "tier": "groq",
+      "article": "IRGC Announces Retaliatory Attack on US Base Following American Aggression - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-28T08:09:01.974354+00:00",
+      "tier": "groq",
+      "article": "Five private firms chosen for US weapons-grade plutonium fuel program"
     }
   ]
 }
