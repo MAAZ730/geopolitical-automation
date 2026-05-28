@@ -1,4 +1,34 @@
 {
+  "3cc2571cf8a9b42ce5ab41a13e7bf7ec197e0f0f9c3208f5d81fa5daa644f7bc": {
+    "url": "intelslava/88225",
+    "title": "IRGC Fires Short-Range Ballistic Missiles at Kuwaiti Airbase",
+    "published": "2026-05-28T23:30:16.282720+00:00"
+  },
+  "f39cf18e9fa223ae0227283d544962f7c1c5dc8ef9e855d9c591a253b4becfbc": {
+    "url": "intelslava/88229",
+    "title": "Ukrainian Drones Attack Tankers in Black Sea off Turkish Coast",
+    "published": "2026-05-28T23:27:57.842295+00:00"
+  },
+  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
+    "url": "CensoredMen/205",
+    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
+    "published": "2026-05-28T23:26:06.829087+00:00"
+  },
+  "192b838bec52eaa395d58de478b0a9dd4e84236d09c6f66222f224ea44aba5af": {
+    "url": "presstv/191789",
+    "title": "Israeli Airstrikes Hit Residential Building in Al-Shati Refugee Camp",
+    "published": "2026-05-28T23:25:47.223241+00:00"
+  },
+  "43fd403ac4cfa6f87e4742f76eb65d65a618534f786eaf324b8612b30d4cf128": {
+    "url": "thecradlemedia/60608",
+    "title": "Israeli Airstrikes Hit Al-Shati Refugee Camp in Gaza City",
+    "published": "2026-05-28T23:25:17.438563+00:00"
+  },
+  "b4b0488301ba9d368511df0c706af415ce53f2f19ad074427e221e631886022d": {
+    "url": "thecradlemedia/60615",
+    "title": "Israel Steps Up Gaza Airstrikes, Multiple Casualties Reported",
+    "published": "2026-05-28T23:25:16.474264+00:00"
+  },
   "f800053a88c87ec43dd4f1c47d5abc641c64f4b68a8aceb80245fb4840cbdf56": {
     "url": "militarywave/23896",
     "title": "Russian Border Guard Service Reinforces Maritime Borders in the Far East",
@@ -163,6 +193,11 @@
     "url": "Middle_East_Spectator/32519",
     "title": "Israel Launches Airstrikes in Tyre Residential Zones",
     "published": "2026-05-28T03:58:30.459394+00:00"
+  },
+  "b649891a999fd882c660468df0e44ada9556bdef12b3a803052aafe97e5c3c24": {
+    "url": "https://www.rt.com/news/640671-trump-threatens-blow-up-oman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump threatens to \u2018blow up\u2019 Oman",
+    "published": "2026-05-28T00:49:20+00:00"
   },
   "52e68506c0a5d5716ae48e1faaa9e67a678e6a0bab06942ab3a59cb3af263533": {
     "url": "BellumActaNews/173249",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/60325",
     "title": "Iran Distrusts US Negotiations, Warns of New Military Escalation",
     "published": "2026-05-25T19:54:52.075179+00:00"
-  },
-  "444362df1c4e060e12fa35196f95bf060c8e5d1e2dc3123df389b55b035724ea": {
-    "url": "https://www.rt.com/news/640551-western-leaders-dismal-ratings/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Here\u2019s why many Western leaders\u2019 approval ratings are tanking",
-    "published": "2026-05-25T19:45:49+00:00"
-  },
-  "48c9c3730ec214700f00644b9faa185b2ad4f7be2f172422f95d095dba924c42": {
-    "url": "DDGeopolitics/184949",
-    "title": "Ukraine Conflict: Drone Crews Destroy Enemy Targets in Eastern Ukraine",
-    "published": "2026-05-25T18:02:09.696421+00:00"
-  },
-  "e9f4a1ad03aaf8e36d4486ddaa046075c19a2d7348dacb58ac6f6587a5ed7a2c": {
-    "url": "DDGeopolitics/184956",
-    "title": "Trump Highlights Venezuela Success, Draws Contrast with Recent Conflicts",
-    "published": "2026-05-25T18:01:37.062084+00:00"
-  },
-  "ae12da307af1792d6bc8a1015aece26bf95b2c71a05910d1f665670de212ad5b": {
-    "url": "QudsNen/224916",
-    "title": "Israeli Airstrikes Hit Southern Lebanon Town",
-    "published": "2026-05-25T17:56:22.352668+00:00"
-  },
-  "76d7636b185d6ba267cf382856814a7494f852d3b3dbe41713c1cb6f46c4abbb": {
-    "url": "thecradlemedia/60320",
-    "title": "Iran, Qatar Hold Talks Amid Push for US-Iran Peace Deal",
-    "published": "2026-05-25T17:55:39.820492+00:00"
-  },
-  "0807b15c7c5a2f73dc36ce459f7239bf01b9ae56b75e43a16cb4f39025a8b28e": {
-    "url": "thecradlemedia/60321",
-    "title": "Israel Demands Aerial Retaliation Against Hezbollah Drone Strikes",
-    "published": "2026-05-25T17:55:38.689294+00:00"
-  },
-  "558abcefa8744b5b60bbda63fb52b42770a8cee9a8539b95f888a7294ca2853a": {
-    "url": "thecradlemedia/60322",
-    "title": "Hezbollah Targets Israeli Soldiers in South Lebanon Drone Strike",
-    "published": "2026-05-25T17:55:37.313428+00:00"
   }
 }
