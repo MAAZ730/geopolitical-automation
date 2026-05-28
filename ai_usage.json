@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3463,
+  "total_calls": 3467,
   "tiers": {
-    "groq": 3444,
+    "groq": 3448,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-24T17:12:39.978706+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-24T17:13:12.781107+00:00",
-      "tier": "groq",
-      "article": "Fragments of drones that attacked Starobelsk college demonstrated to foreign reporters"
-    },
-    {
-      "timestamp": "2026-05-24T17:13:32.058192+00:00",
-      "tier": "groq",
-      "article": "Russia uses Oreshnik weapon to strike Ukrainian military command posts"
-    },
-    {
-      "timestamp": "2026-05-24T17:13:49.946608+00:00",
-      "tier": "groq",
-      "article": "Russian envoy praises potential Iran-US truce extension as \u2018chance to avoid escalation\u2019"
-    },
     {
       "timestamp": "2026-05-24T19:29:03.090174+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-28T08:09:01.974354+00:00",
       "tier": "groq",
       "article": "Five private firms chosen for US weapons-grade plutonium fuel program"
+    },
+    {
+      "timestamp": "2026-05-28T13:58:43.785037+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-28T13:59:15.644405+00:00",
+      "tier": "groq",
+      "article": "New Israeli airstrike hits Beirut as mass destruction reported in Lebanon\u2019s ancient city of Tyre"
+    },
+    {
+      "timestamp": "2026-05-28T14:00:03.250473+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-28T14:00:23.499812+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
