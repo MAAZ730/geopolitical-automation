@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3499,
+  "total_calls": 3503,
   "tiers": {
-    "groq": 3480,
+    "groq": 3484,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-25T21:18:12.790777+00:00",
-      "tier": "groq",
-      "article": "Israel to intensify Lebanon offensive in bid to \u2018crush\u2019 Hezbollah"
-    },
-    {
-      "timestamp": "2026-05-25T21:18:51.234568+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-25T21:19:37.488604+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-25T21:19:53.395194+00:00",
-      "tier": "groq",
-      "article": "Iran-Cuba Parl. Friendship Group denounces US naval blockade"
-    },
     {
       "timestamp": "2026-05-25T23:15:02.606175+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-29T20:32:29.139160+00:00",
       "tier": "groq",
       "article": "Netanyahu says he has directed IDF to increase control of Gaza to 70% "
+    },
+    {
+      "timestamp": "2026-05-29T23:17:35.411322+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-29T23:18:08.182413+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-29T23:18:54.389090+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-29T23:19:46.600399+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz: US new fear and dawn of new regional order"
     }
   ]
 }
