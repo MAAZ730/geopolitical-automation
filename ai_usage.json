@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3495,
+  "total_calls": 3499,
   "tiers": {
-    "groq": 3476,
+    "groq": 3480,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-25T19:53:14.175157+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-25T19:53:46.552406+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-25T19:54:34.063332+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-25T19:54:50.229417+00:00",
-      "tier": "groq",
-      "article": "Trump tells US negotiators 'not to rush' into deal with Iran"
-    },
     {
       "timestamp": "2026-05-25T21:18:12.790777+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-29T17:41:44.550145+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-05-29T20:30:53.941382+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-29T20:31:24.747291+00:00",
+      "tier": "groq",
+      "article": "Eleven Lebanese children killed, injured every day by Israeli military: UN"
+    },
+    {
+      "timestamp": "2026-05-29T20:31:42.631320+00:00",
+      "tier": "groq",
+      "article": "Putin accuses Western media of ignoring Kiev\u2019s deadly strike on Starobelsk"
+    },
+    {
+      "timestamp": "2026-05-29T20:32:29.139160+00:00",
+      "tier": "groq",
+      "article": "Netanyahu says he has directed IDF to increase control of Gaza to 70% "
     }
   ]
 }
