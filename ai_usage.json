@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3483,
+  "total_calls": 3487,
   "tiers": {
-    "groq": 3464,
+    "groq": 3468,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-25T10:18:42.689780+00:00",
-      "tier": "groq",
-      "article": "Casualty in Yaroslavl Region, 173 UAVs target Russia: aftermath of new Ukrainian attack"
-    },
-    {
-      "timestamp": "2026-05-25T10:19:22.263163+00:00",
-      "tier": "groq",
-      "article": "FACTBOX: Russia\u2019s Oreshnik missile strike, breached Ukrainian air defenses"
-    },
-    {
-      "timestamp": "2026-05-25T10:19:39.787029+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-25T10:19:56.377185+00:00",
-      "tier": "groq",
-      "article": "Over 50 foreign journalists from 19 countries set off to LPR\u2019s Starobelsk \u2014 diplomat"
-    },
     {
       "timestamp": "2026-05-25T15:21:59.469654+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-29T04:01:05.484925+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-29T08:04:40.755862+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-29T08:05:13.406006+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone strike kills civilian in Russia\u2019s Volgograd Region"
+    },
+    {
+      "timestamp": "2026-05-29T08:06:06.368883+00:00",
+      "tier": "groq",
+      "article": "Contriving Imaginary Gaps in Nuclear Deterrence"
+    },
+    {
+      "timestamp": "2026-05-29T08:06:22.506989+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy: 23 vessels transit Strait of Hormuz under coordinated oversight"
     }
   ]
 }
