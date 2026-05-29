@@ -1,4 +1,34 @@
 {
+  "f58a93428131e465d519a1ead981ee4bf036c9774bb7c227f5922e1a4fee1ddb": {
+    "url": "thecradlemedia/60673",
+    "title": "Israeli Airstrike Hits Gathering in Gaza City's Al-Shawa Square",
+    "published": "2026-05-29T17:49:05.425193+00:00"
+  },
+  "bb37e45dc7b3ca49facefab4044354e8a931f9a55bab351e849929e413b15baa": {
+    "url": "thecradlemedia/60676",
+    "title": "US Defence Secretary Hegseth Warns Iran Over Nuclear Programme",
+    "published": "2026-05-29T17:47:03.310202+00:00"
+  },
+  "030c770d5ebb8501524e0c9658423839729f2af522de75d531bec5c6be1f3e23": {
+    "url": "thecradlemedia/60677",
+    "title": "Hezbollah Releases Propaganda Video Warning Israeli Troops",
+    "published": "2026-05-29T17:44:18.779975+00:00"
+  },
+  "4d81c97c3aa95a344dc9c7b9664238bb70da1bdbfc3bcd4bfb8fc3d28b651c68": {
+    "url": "thecradlemedia/60685",
+    "title": "Israeli Warplanes Strike Burj al-Shemaly in Southern Lebanon",
+    "published": "2026-05-29T17:42:11.440352+00:00"
+  },
+  "6d345dbc7652d744909c5202d8ecca6a995ea714408aa21f3791031ceaa2eed3": {
+    "url": "thecradlemedia/60691",
+    "title": "Iran's Ghalibaf Cites Missile Deterrence as Key to Concessions",
+    "published": "2026-05-29T17:41:51.743890+00:00"
+  },
+  "db5671c50b98c1308d7022e263ac7869dc9f5c588128b07e4e39fd77330040b9": {
+    "url": "thecradlemedia/60692",
+    "title": "Iran, Oman Strengthen Ties Amid US Threats",
+    "published": "2026-05-29T17:41:50.484357+00:00"
+  },
   "24caed5ae3050b2ced93fff7b1695581bab88f828513a3254bb68c27849e9e9c": {
     "url": "DDGeopolitics/185236",
     "title": "Yemen Intercepts Drone Over Marib",
@@ -718,35 +748,5 @@
     "url": "mod_russia_en/27170",
     "title": "Russian Forces Strike Enemy UAV Command Post in Eastern Ukraine",
     "published": "2026-05-26T04:06:35.134550+00:00"
-  },
-  "27c5bbf38952c69947af5dd69ce30450fc8e193d730ed222ec842115c4a85b5d": {
-    "url": "mod_russia_en/27175",
-    "title": "Russian Forces Launch Tank Attacks on Ukrainian Positions in Eastern Ukraine",
-    "published": "2026-05-26T04:05:04.228542+00:00"
-  },
-  "745e8d0c2de269d6dee80d671a4688b4f0be199d9d04efac54e00f6dc34c342e": {
-    "url": "mod_russia_en/27182",
-    "title": "Russian Forces Complete Combat Training Exercises in Special Military Operation Zone",
-    "published": "2026-05-26T04:03:33.580046+00:00"
-  },
-  "71334428e7d704d716669d797bb883cd6ba0bd5d07f4c03925aca2db19afc483": {
-    "url": "intelslava/88150",
-    "title": "Quetta Train Bombing Leaves 47 Dead, Scores Injured",
-    "published": "2026-05-26T04:02:40.330145+00:00"
-  },
-  "ddfbe1c52f445e5f7919b5e1c59a7a9abcb0201651441bd8eac000f54342e507": {
-    "url": "QudsNen/224960",
-    "title": "Drone Infiltrations Trigger Sirens in Northern Occupied Palestine",
-    "published": "2026-05-26T04:00:03.793094+00:00"
-  },
-  "4bb1245d4ab8691326b43d23268d06b122957bb41239f333ed545a5b843b7599": {
-    "url": "QudsNen/224961",
-    "title": "Gaza Strip Food Distribution Operations Reduced Amid Escalating Regional Tensions",
-    "published": "2026-05-26T04:00:02.560507+00:00"
-  },
-  "4ec127784b632df9148261e9e807a4dfddb92573c45521b4fba242e2962c192b": {
-    "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-    "title": "US military says it has launched new strikes on southern Iran",
-    "published": "2026-05-26T02:44:19+00:00"
   }
 }
