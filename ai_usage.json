@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3523,
+  "total_calls": 3527,
   "tiers": {
-    "groq": 3504,
+    "groq": 3508,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-26T21:51:01.412554+00:00",
-      "tier": "groq",
-      "article": "US launches \u2018self-defense\u2019 strikes against Iran amid ongoing ceasefire"
-    },
-    {
-      "timestamp": "2026-05-26T21:51:17.643704+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-26T21:51:44.191081+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-26T21:52:00.642549+00:00",
-      "tier": "groq",
-      "article": "Iranian enriched uranium stockpile to be \u2018destroyed\u2019 \u2013 Trump"
-    },
     {
       "timestamp": "2026-05-26T23:15:56.746723+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-30T15:17:02.510630+00:00",
       "tier": "groq",
       "article": "Putin believes Romania incident has to do with Ukrainian drone"
+    },
+    {
+      "timestamp": "2026-05-30T17:14:52.644509+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-30T17:15:25.294471+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-30T17:16:10.536565+00:00",
+      "tier": "groq",
+      "article": "Two Lebanese soldiers injured in Israeli drone strikes"
+    },
+    {
+      "timestamp": "2026-05-30T17:16:28.738658+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }
