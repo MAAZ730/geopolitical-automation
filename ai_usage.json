@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3519,
+  "total_calls": 3523,
   "tiers": {
-    "groq": 3500,
+    "groq": 3504,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-26T18:33:07.513959+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-26T18:33:40.671047+00:00",
-      "tier": "groq",
-      "article": "Kremlin unaware of US reaction to Russia's warning of strikes on military targets in Kiev"
-    },
-    {
-      "timestamp": "2026-05-26T18:34:28.251911+00:00",
-      "tier": "groq",
-      "article": "Russian security official sees strike on Starobelsk college as pre-planned targeted attack"
-    },
-    {
-      "timestamp": "2026-05-26T18:34:47.935325+00:00",
-      "tier": "groq",
-      "article": "Here\u2019s why many Western leaders\u2019 approval ratings are tanking"
-    },
     {
       "timestamp": "2026-05-26T21:51:01.412554+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-30T13:49:55.875802+00:00",
       "tier": "groq",
       "article": "Austrian foreign minister summons Russian ambassador over UAV incident in Romania"
+    },
+    {
+      "timestamp": "2026-05-30T15:16:07.102216+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-30T15:16:23.903878+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-30T15:16:46.167360+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-30T15:17:02.510630+00:00",
+      "tier": "groq",
+      "article": "Putin believes Romania incident has to do with Ukrainian drone"
     }
   ]
 }

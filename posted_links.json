@@ -1,4 +1,34 @@
 {
+  "44560fdf94288a2eac6696a08d55ded42b78b52dc8749369afc9bd51f860e4a4": {
+    "url": "BellumActaNews/173367",
+    "title": "US Reiterates Pacific Deterrence Strategy at IISS Shangri-La Dialogue",
+    "published": "2026-05-30T15:23:58.904017+00:00"
+  },
+  "e147ffea343632e243401bd048fe54798973c1e27fcc7537ba434868d62943d7": {
+    "url": "QudsNen/225371",
+    "title": "Israeli Forces Clash with Palestinian in Occupied East Jerusalem's Bab Al-Amoud",
+    "published": "2026-05-30T15:20:55.252891+00:00"
+  },
+  "3b25cdb2f8803ca47f92c4ce3aa65ae7e65167c64b7391a09e2434e7974a5bfa": {
+    "url": "QudsNen/225374",
+    "title": "Israeli Airstrike Causes Devastation in Southern Lebanon",
+    "published": "2026-05-30T15:18:41.821485+00:00"
+  },
+  "d654c94eae91d4d4b0b965302b7c0dccbbc1335a2529a095218299d236963794": {
+    "url": "QudsNen/225378",
+    "title": "Israeli Airstrike Hits Gaza Strip, Multiple Palestinians Injured",
+    "published": "2026-05-30T15:18:20.142484+00:00"
+  },
+  "f6659c855820426b04c405853a1e71245130823778de29b3bce1ca36ecc28527": {
+    "url": "thecradlemedia/60747",
+    "title": "UAE-Iran Tensions Escalate Amid Secret Bombing Campaign",
+    "published": "2026-05-30T15:17:10.832708+00:00"
+  },
+  "5939a53645c18b7190f24d1f6a91e374072a7d6cdd6f9b30f9f392af66395e4e": {
+    "url": "thecradlemedia/60748",
+    "title": "Israeli Missile Sirens Sound in Upper Galilee",
+    "published": "2026-05-30T15:17:09.222457+00:00"
+  },
   "93dcaeaead2353a635f8bae785b3c2f7102e79e9e72994e2af83f9e832eca73f": {
     "url": "BellumActaNews/173368",
     "title": "US Secretary of War Urges Regional Allies to Boost Military Capabilities",
@@ -223,6 +253,11 @@
     "url": "https://thecradle.co/articles-id/37967",
     "title": "Eleven Lebanese children killed, injured every day by Israeli military: UN",
     "published": "2026-05-29T17:40:52+00:00"
+  },
+  "3a962a66af20c47b76e8aa211b896ce6df5a70521f595dfefbd2ab5b8816f948": {
+    "url": "https://tass.com/politics/2138843",
+    "title": "Putin believes Romania incident has to do with Ukrainian drone",
+    "published": "2026-05-29T16:51:02+00:00"
   },
   "acf969728b6350d12b4a6a4f3e2199a85b0323dff284edd7eeea31db97e20503": {
     "url": "https://tass.com/world/2138641",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/60444",
     "title": "Drones Crash in Israeli Town After Launch from Lebanon",
     "published": "2026-05-27T10:04:57.026765+00:00"
-  },
-  "09c923f7dc2c8b8e31d262d49220b8524286d753ecb063ebe9186e6d5b604136": {
-    "url": "thecradlemedia/60446",
-    "title": "Israeli Forces Detain Palestinians in West Bank Ahead of Eid al-Adha Celebrations",
-    "published": "2026-05-27T10:04:10.395596+00:00"
-  },
-  "b99c1f78b5c3040c59fc5507ed84b343b18870d70d441b0c02a776d007f066cb": {
-    "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-    "title": "Mohammed Odeh: Israeli strike in Gaza kills new head of Hamas's military wing",
-    "published": "2026-05-27T09:55:11+00:00"
-  },
-  "cfca58a355e305cca7eeaf672170f8957f9bc2c841d7a63ce8fba0915c8025ed": {
-    "url": "https://www.rt.com/news/640629-us-weapons-plutonium-fuel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Five private firms chosen for US weapons-grade plutonium fuel program",
-    "published": "2026-05-27T09:49:05+00:00"
-  },
-  "0aabf7de574a33c2668c983423d79ab64891076fd10ad1bd2cbd84954e0a5712": {
-    "url": "https://en.irna.ir/news/86166396/IRGC-Navy-oversees-safe-passage-of-25-vessels-through-Strait",
-    "title": "IRGC Navy oversees safe passage of 25 vessels through Strait of Hormuz",
-    "published": "2026-05-27T09:32:39+00:00"
-  },
-  "4bf0c7b2da8abec59e8a6468be01a8901dbda18608c01463421087be3c8a9101": {
-    "url": "https://www.aljazeera.com/news/2026/5/27/israel-claims-head-of-hamas-military-wing-killed-in-gaza-strike?traffic_source=rss",
-    "title": "Israel claims head of Hamas military wing killed in Gaza strike",
-    "published": "2026-05-27T08:51:25+00:00"
-  },
-  "921bf5b9a77d45bd252f53ca663e9258bec918979904bd9654eb6af290042ecc": {
-    "url": "DDGeopolitics/185067",
-    "title": "IRGC Intercepts US MQ-9 Reaper Drone",
-    "published": "2026-05-27T04:15:05.462700+00:00"
-  },
-  "2240bd7c19514eaa1ae0fd95120a11fe0d15db8565cc34576b523a932d353ab6": {
-    "url": "DDGeopolitics/185080",
-    "title": "Chernihiv Under Drone Attack",
-    "published": "2026-05-27T04:13:22.758156+00:00"
   }
 }
