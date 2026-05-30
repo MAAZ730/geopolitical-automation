@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3503,
+  "total_calls": 3507,
   "tiers": {
-    "groq": 3484,
+    "groq": 3488,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-25T23:15:02.606175+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-25T23:15:35.032174+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-25T23:15:51.976128+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-25T23:16:08.275613+00:00",
-      "tier": "groq",
-      "article": "Iran, Oman working on protocol to ensure safe passage via SOH"
-    },
     {
       "timestamp": "2026-05-26T03:58:52.727477+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-29T23:19:46.600399+00:00",
       "tier": "groq",
       "article": "Strait of Hormuz: US new fear and dawn of new regional order"
+    },
+    {
+      "timestamp": "2026-05-30T03:44:56.723594+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-30T03:45:30.097010+00:00",
+      "tier": "groq",
+      "article": "Israel delivers 17 strikes on Beirut\u2019s southern suburbs \u2014 TV"
+    },
+    {
+      "timestamp": "2026-05-30T03:45:47.569940+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-30T03:46:05.872575+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
