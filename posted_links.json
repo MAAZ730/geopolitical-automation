@@ -1,4 +1,39 @@
 {
+  "d40e9017893ecc22e57e93e240cfeb68d46d10af2dcf32979f6e3bf12c04ccc4": {
+    "url": "BellumActaNews/173370",
+    "title": "US Defense Secretary Hegseth Warns Allies of Shift in Relations at Shangri-La Dialogue",
+    "published": "2026-05-30T07:00:32.189194+00:00"
+  },
+  "63f8f81d52ab66817074a1a37adb0bf2361c55e1f531d8c4f750f9b4c933647e": {
+    "url": "BellumActaNews/173371",
+    "title": "US Secretary of War Pete Hegseth Pledges Military Revitalization at Shangri-La Dialogue",
+    "published": "2026-05-30T06:57:32.348907+00:00"
+  },
+  "a5f1a4bdc2dae7239cb0a8567e8def61935645c0a1a980f987f1c42c1301e30b": {
+    "url": "DDGeopolitics/185301",
+    "title": "Drone Attack Damages Shostka Train Station in Ukraine's Sumy Region",
+    "published": "2026-05-30T06:54:31.532959+00:00"
+  },
+  "3028af50ce2dde1755c3b50725da567c5305fd01746235e3048c2663319f7382": {
+    "url": "DDGeopolitics/185312",
+    "title": "U.S. Criticizes China's Military Expansion Amid Own History of Foreign Airstrikes",
+    "published": "2026-05-30T06:53:50.823365+00:00"
+  },
+  "00c2fb6c422dba81be37d20a998a4a6a7f034d9018928e009657bb2625c210df": {
+    "url": "Middle_East_Spectator/32578",
+    "title": "US-Iran Tensions Ease as Naval Blockade Lifted",
+    "published": "2026-05-30T06:51:42.192783+00:00"
+  },
+  "cec363fddca8020f49d4562a1ad3c015efe041353640e0014fa06c0178746fc9": {
+    "url": "Middle_East_Spectator/32579",
+    "title": "UAE Carries Out Dozens of Airstrikes Against Iran Amid Conflict",
+    "published": "2026-05-30T06:51:37.878738+00:00"
+  },
+  "74782a7417325ec33b4b89dd407c2f078fa0bb56fa248a463988d31d9e1d4a84": {
+    "url": "https://en.mehrnews.com/news/244884/Death-toll-from-Israeli-attacks-on-Lebanon-exceeds-3-350",
+    "title": "Death toll from Israeli attacks on Lebanon exceeds 3,350",
+    "published": "2026-05-30T04:59:02+00:00"
+  },
   "9ec14c2975ed4f3467812f36434c513825fa4a9e32aecabfa11afb4cb0d58f29": {
     "url": "militarywave/23902",
     "title": "Bezos' New Glenn Rocket Explodes on Launch Pad",
@@ -158,6 +193,11 @@
     "url": "thecradlemedia/60665",
     "title": "US Deports Thousands to 'High-Risk' Nations Amid War Preparations",
     "published": "2026-05-29T12:50:50.070679+00:00"
+  },
+  "4f679b409cd544fcbc70c4c86185c13aaf94be4fb2971fe72b69de2b46da94fc": {
+    "url": "https://www.rt.com/news/640713-trump-cuba-accelerate-regime-change/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump escalating Cuba blockade to trigger regime change \u2013 Axios",
+    "published": "2026-05-29T08:32:01+00:00"
   },
   "1c22d8b308bf9ac18173b4d6abb5d0f8e2071464996140f760724cc9009ab566": {
     "url": "https://en.mehrnews.com/news/244867/Strait-of-Hormuz-US-new-fear-and-dawn-of-new-regional-order",
@@ -708,45 +748,5 @@
     "url": "Middle_East_Spectator/32448",
     "title": "US Fighter Jet Forced to Leave Iranian Airspace Amid IRGC Air Defenses Engagement",
     "published": "2026-05-26T21:57:02.970644+00:00"
-  },
-  "c403771b29d300a82946a9fe3915ce96fdfc3575f2a9dcc90cf38485a8bce98c": {
-    "url": "thecradlemedia/60406",
-    "title": "Gaza Violence: Palestinians Killed in Clashes with Israel-Backed Groups",
-    "published": "2026-05-26T21:55:09.296642+00:00"
-  },
-  "e2fca1d37ac09a42593a351dff440c73bf2397498678efb700bcca5cb42ee3ea": {
-    "url": "thecradlemedia/60423",
-    "title": "Hezbollah Releases Footage of Drone Strike on Israeli Military Vehicle in Southern Lebanon",
-    "published": "2026-05-26T21:55:08.132882+00:00"
-  },
-  "a55caa90e655a341cd632236060c657bbdd0236668d2a208f6938f6fa463486d": {
-    "url": "thecradlemedia/60424",
-    "title": "Israel Issues Forced Evacuation Warnings in Lebanon",
-    "published": "2026-05-26T21:52:07.821881+00:00"
-  },
-  "5ebe30b1f77939fbebd27af91a0b2b467f5280998e600b3254622def772b39ef": {
-    "url": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/",
-    "title": "US launches \u2018self-defense\u2019 strikes against Iran amid ongoing ceasefire",
-    "published": "2026-05-26T19:02:11+00:00"
-  },
-  "ae500970bac2bb4452a06f7d998e0edbee991bd0ed32f47aecd5c03934638bed": {
-    "url": "militarywave/23882",
-    "title": "US-Iran Peace Talks Resume Amid Fresh Airstrikes",
-    "published": "2026-05-26T18:43:53.080473+00:00"
-  },
-  "c322956eb14f498a31402db304d90b0ff00c6a5e26b358336103043c7bb40587": {
-    "url": "BellumActaNews/173221",
-    "title": "Israel Deepens Military Operation in Lebanon Amid Drone Threat",
-    "published": "2026-05-26T18:41:11.637947+00:00"
-  },
-  "b6162c4a41686e8d07135462446fe921cb88491448cfc93f83ab21d821df6bb9": {
-    "url": "DDGeopolitics/185065",
-    "title": "EU Allocates Funds for Baltic Defense Against Drone Threats",
-    "published": "2026-05-26T18:38:11.862669+00:00"
-  },
-  "5f93309a13ca300945effe87b6865d7365bb8ac0f97f5d66cdfc9e0e2fef8e3d": {
-    "url": "thecradlemedia/60412",
-    "title": "ICC Prosecutor Confronts Israeli State Pressure Over Palestine War Crimes Probe",
-    "published": "2026-05-26T18:35:53.543086+00:00"
   }
 }

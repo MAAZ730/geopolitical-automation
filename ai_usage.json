@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3507,
+  "total_calls": 3511,
   "tiers": {
-    "groq": 3488,
+    "groq": 3492,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-26T03:58:52.727477+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-26T03:59:09.266309+00:00",
-      "tier": "groq",
-      "article": "US strikes missile launch sites, boats in southern Iran \u2014 Fox News, citing CENTCOM"
-    },
-    {
-      "timestamp": "2026-05-26T03:59:39.496380+00:00",
-      "tier": "groq",
-      "article": "US military says it has launched new strikes on southern Iran"
-    },
-    {
-      "timestamp": "2026-05-26T03:59:55.557706+00:00",
-      "tier": "groq",
-      "article": "Palestinian resistance to liberate Al-Quds: General Ghaani"
-    },
     {
       "timestamp": "2026-05-26T08:07:25.915175+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-30T03:46:05.872575+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-30T06:49:57.453053+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-30T06:50:29.874810+00:00",
+      "tier": "groq",
+      "article": "Death toll from Israeli attacks on Lebanon exceeds 3,350"
+    },
+    {
+      "timestamp": "2026-05-30T06:51:16.904399+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-30T06:51:32.942548+00:00",
+      "tier": "groq",
+      "article": "Trump escalating Cuba blockade to trigger regime change \u2013 Axios"
     }
   ]
 }
