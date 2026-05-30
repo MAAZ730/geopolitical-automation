@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3511,
+  "total_calls": 3515,
   "tiers": {
-    "groq": 3492,
+    "groq": 3496,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-26T08:07:25.915175+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-26T08:07:42.508836+00:00",
-      "tier": "groq",
-      "article": "The U.S. Military Lacks an Ethics Doctrine. Combat Effectiveness Suffers"
-    },
-    {
-      "timestamp": "2026-05-26T08:08:12.033077+00:00",
-      "tier": "groq",
-      "article": "US strikes southern Iran in \u2018self defence\u2019 targeting Iranian mine boats"
-    },
-    {
-      "timestamp": "2026-05-26T08:08:28.214409+00:00",
-      "tier": "groq",
-      "article": "Iran not to give in to US excessive demands: Pezeshkian"
-    },
     {
       "timestamp": "2026-05-26T15:44:06.967428+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-30T06:51:32.942548+00:00",
       "tier": "groq",
       "article": "Trump escalating Cuba blockade to trigger regime change \u2013 Axios"
+    },
+    {
+      "timestamp": "2026-05-30T10:06:46.018048+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-30T10:07:19.177959+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-30T10:07:35.261300+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-05-30T10:07:51.521046+00:00",
+      "tier": "groq",
+      "article": "Pentagon looks to reinvent the bunker-buster bomb"
     }
   ]
 }

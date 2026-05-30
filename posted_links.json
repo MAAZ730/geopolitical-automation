@@ -1,4 +1,34 @@
 {
+  "3399abab8cc6decf34010ecccaad38dedd11c90513a904518ff06ef342bd6398": {
+    "url": "BellumActaNews/173369",
+    "title": "US Secretary of War Calls for Increased Military Capabilities at Shangri-La Dialogue",
+    "published": "2026-05-30T10:15:21.678999+00:00"
+  },
+  "5295bb5dd640ce9ae304e5b5d8d036527725e8ad720accdc20edf1f91afae143": {
+    "url": "thecradlemedia/60704",
+    "title": "US Secretary of War Open to Iran Deal",
+    "published": "2026-05-30T10:12:14.894682+00:00"
+  },
+  "cc290fa5c373b650b8a9deaaab73c69856932022a08688c2d983c5f7b2cc9c66": {
+    "url": "thecradlemedia/60707",
+    "title": "Israeli Airstrikes Hit Southern Lebanon, Killing Three and Wounding Dozens",
+    "published": "2026-05-30T10:09:20.218366+00:00"
+  },
+  "4edb281e8fd87fa1d2e270bc69c1cbff26184f7d5d53900579850808c9493bae": {
+    "url": "thecradlemedia/60713",
+    "title": "Israeli Upper Galilee Region Hit by Air Raid Sirens",
+    "published": "2026-05-30T10:09:07.357467+00:00"
+  },
+  "3dcb3578a19da9949c508be6453417cc548179d75778aea49fa6c7bf0574ed7e": {
+    "url": "thecradlemedia/60715",
+    "title": "Israeli Drone Targets Truck in South Lebanon",
+    "published": "2026-05-30T10:09:06.004801+00:00"
+  },
+  "eb518d14a91dc76880b4bfd1dfab7473ffc55db080cd0faf058f1acfffedd643": {
+    "url": "thecradlemedia/60717",
+    "title": "EU Sanctions Hamas Politburo Members Over Violent Actions",
+    "published": "2026-05-30T10:07:54.579767+00:00"
+  },
   "d40e9017893ecc22e57e93e240cfeb68d46d10af2dcf32979f6e3bf12c04ccc4": {
     "url": "BellumActaNews/173370",
     "title": "US Defense Secretary Hegseth Warns Allies of Shift in Relations at Shangri-La Dialogue",
@@ -193,6 +223,11 @@
     "url": "thecradlemedia/60665",
     "title": "US Deports Thousands to 'High-Risk' Nations Amid War Preparations",
     "published": "2026-05-29T12:50:50.070679+00:00"
+  },
+  "0942fd8e122431a196b30880eef45dd9126eb4238a48f353bc01cc2f65874c35": {
+    "url": "https://www.defensenews.com/industry/techwatch/2026/05/29/pentagon-looks-to-reinvent-the-bunker-buster-bomb/",
+    "title": "Pentagon looks to reinvent the bunker-buster bomb",
+    "published": "2026-05-29T12:00:01+00:00"
   },
   "4f679b409cd544fcbc70c4c86185c13aaf94be4fb2971fe72b69de2b46da94fc": {
     "url": "https://www.rt.com/news/640713-trump-cuba-accelerate-regime-change/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -713,40 +748,5 @@
     "url": "QudsNen/225043",
     "title": "Israeli Settlers Assault Palestinian Official in West Bank",
     "published": "2026-05-26T23:20:08.994977+00:00"
-  },
-  "79c9c21eaa69b5d91c60c38226bef38a0dd83a4a3077f20f4d8fc57697f6b79a": {
-    "url": "QudsNen/225045",
-    "title": "Everest Kite Protest Highlights Gaza Children's Suffering",
-    "published": "2026-05-26T23:18:44.279763+00:00"
-  },
-  "4b5d5e0790cfda038fa0ed3faaf8fd733875d523223b03e128eb81276ac46ffb": {
-    "url": "Middle_East_Spectator/32450",
-    "title": "Israel Allegedly Targets Hamas Leader in Gaza",
-    "published": "2026-05-26T23:17:10.181121+00:00"
-  },
-  "8fcb7d2a9443fe0a3a4873754ffb6974ff86814dc2c2ac0e5366ac2569ff3a8b": {
-    "url": "Middle_East_Spectator/32457",
-    "title": "Hezbollah Drone Targets IDF Truck in Bint Jbeil",
-    "published": "2026-05-26T23:17:09.247688+00:00"
-  },
-  "28e979ae7d0ca9f85c83ae9b43135c68ed30b3680255438ea49888e302ce68fa": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/05/26/darpa-launches-search-for-robot-medics-to-treat-battlefield-casualties/",
-    "title": "DARPA launches search for robot medics to treat battlefield casualties",
-    "published": "2026-05-26T22:17:12+00:00"
-  },
-  "6128e66b1b702af364f6d76908de8cfd1fe2948b15d54681ded4b6ae39383e75": {
-    "url": "Middle_East_Spectator/32445",
-    "title": "Israel Accused of Attempted Assassination of Hamas Leader in Gaza",
-    "published": "2026-05-26T21:59:35.697657+00:00"
-  },
-  "088044e95d5820bc18745cc84d7e739d775ac2dbedaebf5e871cabaf5f5496cb": {
-    "url": "Middle_East_Spectator/32447",
-    "title": "US Drone Downed by Iranian Air Defenses Near Bandar Abbas",
-    "published": "2026-05-26T21:58:42.668170+00:00"
-  },
-  "939f1275e6d4ad7edfb6f21fe38555a995bcd296775c075521ca9f7a14ad63d4": {
-    "url": "Middle_East_Spectator/32448",
-    "title": "US Fighter Jet Forced to Leave Iranian Airspace Amid IRGC Air Defenses Engagement",
-    "published": "2026-05-26T21:57:02.970644+00:00"
   }
 }
