@@ -1,4 +1,34 @@
 {
+  "919a2a216f7f739b8d2aa37398ef9be0b153c6539470b885e4635780e96ed0f2": {
+    "url": "DDGeopolitics/185332",
+    "title": "Ukrainian Forces Utilize Palantir's AI Platform in Kamikaze Drone Strike on Russian Targets",
+    "published": "2026-05-30T19:28:48.720236+00:00"
+  },
+  "68ed9c696d772d7105a3f01f8a5177c2ff3bb4438927c434496d256bcb2e4137": {
+    "url": "QudsNen/225394",
+    "title": "Israeli Settlers Clash with Palestinian Vehicle in West Bank",
+    "published": "2026-05-30T19:26:52.490332+00:00"
+  },
+  "e55569a65bc8ad657a5b1a91ca83a7dc51202d9cb0d361f308c0c8f99cbd4074": {
+    "url": "QudsNen/225400",
+    "title": "Israeli Occupation Forces Deploy White Phosphorus in Southern Lebanon",
+    "published": "2026-05-30T19:25:39.172044+00:00"
+  },
+  "fc9749739b5ed4fcd90c63c282c6696fa714b2939021c29ff1e87163299ce610": {
+    "url": "QudsNen/225406",
+    "title": "Israeli Airstrikes Hit Zrarieh in Southern Lebanon",
+    "published": "2026-05-30T19:24:36.610755+00:00"
+  },
+  "a8b504c21ed607c1a4b6eca1a0cbb7988a1960a5e5f146df314f64a0b82943fb": {
+    "url": "thecradlemedia/60736",
+    "title": "Naval Mine Spotted in Strait of Hormuz",
+    "published": "2026-05-30T19:23:33.917713+00:00"
+  },
+  "c9cc95cd1c55e5db767f44ec41cc300550cdd89a61db252a644dd3ae2b2eeee3": {
+    "url": "thecradlemedia/60737",
+    "title": "Israel-Galilee-Drone-Incursion",
+    "published": "2026-05-30T19:23:32.438293+00:00"
+  },
   "e2583c79cf522ef34dff366852bbdb6129f5ede7b7e9d5ab62ee189214c46da5": {
     "url": "presstv/191997",
     "title": "Hezbollah Targets Israeli Command Room with Drone in Lebanon Border Skirmish",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/60739",
     "title": "Israel Braces for Continued Rocket Fire from Lebanon",
     "published": "2026-05-30T17:16:34.097799+00:00"
+  },
+  "0a0d624f3b64311c527676b5aa5ccf9ae8782403057f7f9d9ba1535a409ea6d4": {
+    "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss",
+    "title": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+    "published": "2026-05-30T17:04:03+00:00"
   },
   "374d8536deb04eed508671f74426feea3ddd872a8d86cfb2779b8fd1efbf90bf": {
     "url": "https://en.irna.ir/news/86168684/Two-Lebanese-soldiers-injured-in-Israeli-drone-strikes",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/60497",
     "title": "Netherlands Deploys Minesweeper to Mediterranean Amid Hormuz Mission Preparations",
     "published": "2026-05-27T17:25:55.531804+00:00"
-  },
-  "9dda716456def536ce453f66f1874d51765fa107cc3c93a3c84302b2b81f8f3b": {
-    "url": "thecradlemedia/60498",
-    "title": "Israeli Airstrikes Hit Multiple Areas in Southern Lebanon",
-    "published": "2026-05-27T17:25:54.067804+00:00"
-  },
-  "bbe041e78807a986a7001606f6eb63eeef9baf0d5fd713c2f3b0e62c0ef0e068": {
-    "url": "thecradlemedia/60502",
-    "title": "Iran's South Pars Petrochemical Hub Restores Pre-War Production",
-    "published": "2026-05-27T17:25:22.849657+00:00"
-  },
-  "6400b9783e47b4e0cef55ec1f1b1735c88800317a63de69464a47a978a0f2e0d": {
-    "url": "DDGeopolitics/185098",
-    "title": "CNN Accused of Promoting Ukrainian Propaganda in Starobelsk Drone Strike Coverage",
-    "published": "2026-05-27T13:12:56.895807+00:00"
-  },
-  "c07d642819835604c6f8b43e59e3d44baff071ce2a79cd0dea58499ea36b7077": {
-    "url": "DDGeopolitics/185100",
-    "title": "Hezbollah Drone Strike Hits Israeli Iron Dome Battery on Lebanese Border",
-    "published": "2026-05-27T13:10:30.225307+00:00"
-  },
-  "25a0e5ad7457a1dfe18b9f2057948d131fa8357dd9bddf899b1b19bc35f6b3a7": {
-    "url": "QudsNen/225109",
-    "title": "Hezbollah Drone Strike Hits Israeli Iron Dome Platform in Misgav Am",
-    "published": "2026-05-27T13:04:56.295137+00:00"
-  },
-  "5173ce58bb2ce74a753c6b4d0fc0611b43d373cf923efebd4df15ffb88688edf": {
-    "url": "thecradlemedia/60464",
-    "title": "Gaza City Mourns Qassam Commander After Israeli Airstrike",
-    "published": "2026-05-27T13:03:08.927746+00:00"
-  },
-  "3624e3b9eb0223774250ea4196a51b034d30791a8abac3c8a30410632701d5c8": {
-    "url": "thecradlemedia/60476",
-    "title": "Israel Develops Laser-Based Defense Against Hezbollah Drones",
-    "published": "2026-05-27T13:01:53.761638+00:00"
   }
 }
