@@ -1,4 +1,34 @@
 {
+  "8afcfafb9b4782a4ad8ac047dd010aca77b4c48c5e43c72387a41e1a439fdc3e": {
+    "url": "presstv/192128",
+    "title": "Trump's Iran Peace Plan Sparks Outrage from Muslim Scholars",
+    "published": "2026-05-31T14:03:21.294663+00:00"
+  },
+  "e0e523f5d3fe25ce9f0b2c71fc151ccf3d86713cb414d531c91f464274b678ff": {
+    "url": "militarywave/23927",
+    "title": "Britain Considers Autonomous AI-Driven Drone Strikes",
+    "published": "2026-05-31T14:00:35.800572+00:00"
+  },
+  "50bb3b05df102792a786f1097dfd4d0b94df4218d16afae6c66b4753d1ce4421": {
+    "url": "warmonitors/44197",
+    "title": "Israeli Airstrikes Continue in Lebanon",
+    "published": "2026-05-31T13:59:15.847001+00:00"
+  },
+  "506914636b56e4bf5a3a9fb7496379f65f2df2d45fd72533852cbf4b1c36ff43": {
+    "url": "QudsNen/225470",
+    "title": "Fuel Crisis Threatens Closure of Central Governorate Hospital",
+    "published": "2026-05-31T13:58:58.647569+00:00"
+  },
+  "58c36b726c8c0104e8c5c600154b51e94e045078dd64dfcebc5687b0169db648": {
+    "url": "thecradlemedia/60788",
+    "title": "Hezbollah Rockets Target Israeli Positions Amid Escalation in South Lebanon",
+    "published": "2026-05-31T13:57:51.396703+00:00"
+  },
+  "15a313ee1102814a59cdefd6b2b6967b56f970dc9eeb5a0ca73f01f99b5b1e6c": {
+    "url": "thecradlemedia/60792",
+    "title": "Gaza Strip: Ongoing Israeli Military Operations Defy Ceasefire",
+    "published": "2026-05-31T13:54:49.337956+00:00"
+  },
   "6c819b387d1cb5504dd95a5da00a0741d1e1f105ff2c12bce4c256ba06be3c04": {
     "url": "DDGeopolitics/185358",
     "title": "Nova Poshta Branch in Dnepropetrovsk Damaged in Missile Strike",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/60783",
     "title": "Israel Tightens Grip on South Lebanon Amid Escalating Military Operations",
     "published": "2026-05-31T11:46:55.178835+00:00"
+  },
+  "6bcc8ec2053d82f6b3b8c6158862619eafa4d5d84fad95e6ae87fbfa1d9f32a8": {
+    "url": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+    "title": "Rio\u2019s Forever War",
+    "published": "2026-05-31T11:24:16+00:00"
   },
   "484a3dd17591cd84fa083df8ed44f7c5830f7a0b3630880211678142b105f25f": {
     "url": "QudsNen/225409",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/60601",
     "title": "Israeli Drones Strike Gaza City Neighborhood",
     "published": "2026-05-28T17:41:30.297532+00:00"
-  },
-  "691ff085594cf93eb1fc808a7f2afb40d074c0e539a72b090da7fef8dc04d103": {
-    "url": "thecradlemedia/60604",
-    "title": "US-Backed Disarmament Efforts Risk Pitting Lebanon Against Itself",
-    "published": "2026-05-28T17:40:57.230791+00:00"
-  },
-  "8502bd66fbb05fed0ff974ad5f48babb3953f096356dd44a8fde5c3dc9ba2ba9": {
-    "url": "presstv/191734",
-    "title": "Israeli Airstrike Hits Residential Block in Chouaifet El Aamroussieh, South of Beirut",
-    "published": "2026-05-28T14:11:53.916319+00:00"
-  },
-  "fe841102bce6279e94bdb5740c51137beab102759331293ae131ec15473e571b": {
-    "url": "BellumActaNews/173278",
-    "title": "Armenia Marks Republic Day with Military Parade in Yerevan",
-    "published": "2026-05-28T14:08:19.280288+00:00"
-  },
-  "98ef38a8d748a54e3c311e9677c76a1c2e252ef7c1d8e69a6b31b9a80e702908": {
-    "url": "DDGeopolitics/185167",
-    "title": "Russia's Alabuga Zone Empowers African Migrants through Repatriation Program",
-    "published": "2026-05-28T14:06:44.931117+00:00"
-  },
-  "f08628f47c9623db3c3362a1b4f5dfb9400b4200f664322410976569e0ab5769": {
-    "url": "QudsNen/225215",
-    "title": "Israeli Settlers Clash with Palestinians in Masafer Yatta",
-    "published": "2026-05-28T14:01:59.387454+00:00"
-  },
-  "af2f444873d44ea4ef880a513827b873bf976a1005b2b68debe840205d6981cd": {
-    "url": "thecradlemedia/60575",
-    "title": "Sirens Sound in Israeli Towns Amid Suspected Drone Infiltration from Lebanon",
-    "published": "2026-05-28T14:00:32.854795+00:00"
-  },
-  "db1d6c94d8b7d19e89cddd3646ba78fb660bbd71a7a328713fc0b0b3ce7e84b5": {
-    "url": "thecradlemedia/60582",
-    "title": "Israeli Airstrike Targets Choueifat in Southern Beirut",
-    "published": "2026-05-28T14:00:31.193996+00:00"
   }
 }

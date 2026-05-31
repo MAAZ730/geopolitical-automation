@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3551,
+  "total_calls": 3555,
   "tiers": {
-    "groq": 3532,
+    "groq": 3536,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-27T23:23:21.330858+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-27T23:23:38.147708+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-27T23:24:00.594741+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-27T23:24:46.861466+00:00",
-      "tier": "groq",
-      "article": "IRGC Navy oversees safe passage of 25 vessels through Strait of Hormuz"
-    },
     {
       "timestamp": "2026-05-28T03:56:06.146786+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-31T11:46:45.332851+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-31T13:53:39.371888+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-05-31T13:54:12.001501+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-31T13:54:28.371137+00:00",
+      "tier": "groq",
+      "article": "Rio\u2019s Forever War"
+    },
+    {
+      "timestamp": "2026-05-31T13:54:44.860433+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }
