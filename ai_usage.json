@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3559,
+  "total_calls": 3563,
   "tiers": {
-    "groq": 3540,
+    "groq": 3544,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-28T08:07:28.589802+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-28T08:08:00.222001+00:00",
-      "tier": "groq",
-      "article": "National News Agency reported a number of martyrs and wounded in a missile strike that targeted an apartment in the Qiyaa area of \u200b\u200bSidon at dawn - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-28T08:08:17.524950+00:00",
-      "tier": "groq",
-      "article": "IRGC Announces Retaliatory Attack on US Base Following American Aggression - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-28T08:09:01.974354+00:00",
-      "tier": "groq",
-      "article": "Five private firms chosen for US weapons-grade plutonium fuel program"
-    },
     {
       "timestamp": "2026-05-28T13:58:43.785037+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-31T15:22:34.001371+00:00",
       "tier": "groq",
       "article": "20 ships have passed through Strait of Hormuz: IRGC Navy"
+    },
+    {
+      "timestamp": "2026-05-31T17:13:55.873480+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-31T17:14:27.283271+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-31T17:14:45.789926+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-05-31T17:15:21.887439+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
   ]
 }
