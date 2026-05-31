@@ -1,4 +1,34 @@
 {
+  "fabc69691a338530e7f864c61065ebabd95884abefc42abc9bd405ae45dbc25e": {
+    "url": "BellumActaNews/173442",
+    "title": "Israeli Drone Sighted Over Eastern Lebanon",
+    "published": "2026-05-31T19:29:36.200142+00:00"
+  },
+  "c2677e1da77ee97bb27ada9e8107dd712008efb20ae337b101023b960e86b735": {
+    "url": "BellumActaNews/173450",
+    "title": "Hezbollah Shell Hits Residential Area in Southern Lebanon",
+    "published": "2026-05-31T19:28:10.677194+00:00"
+  },
+  "6db10d626c9a20d234fab39b8284f3ef95be82c444b9bfff4d8eb8bf1e0ded5d": {
+    "url": "BellumActaNews/173461",
+    "title": "Israeli Airstrikes Cause Devastation in Tyre, Lebanon",
+    "published": "2026-05-31T19:27:15.090949+00:00"
+  },
+  "dec32d8653f67e87980c2cc19b1547c6d8e0f1cbab3c10a32edecf5d4a7eb8bb": {
+    "url": "QudsNen/225494",
+    "title": "Israel's Finance Minister Faces ICC Warrant Amid West Bank Evictions",
+    "published": "2026-05-31T19:26:32.081175+00:00"
+  },
+  "b91ff868f5a5571e47b1f0d86b0697eff4e4a3e7bd76ae862582b1605f3c8e3f": {
+    "url": "Middle_East_Spectator/32634",
+    "title": "IDF Recaptures Beaufort Castle in Southern Lebanon Amid Escalating Conflict",
+    "published": "2026-05-31T19:25:08.242027+00:00"
+  },
+  "d6a3d09bcc0b4c0cbd33f13400ea8e5d7b21f94515dcf6e61184e8eb1c5fae71": {
+    "url": "Middle_East_Spectator/32638",
+    "title": "IDF Captures Beaufort Castle in Southern Lebanon",
+    "published": "2026-05-31T19:25:07.049121+00:00"
+  },
   "b3be2bed7378227e6174aa6220e2a761f67af55281437044bb8bb26d77667d9a": {
     "url": "QudsNen/225480",
     "title": "Israeli Airstrike Hits Gaza Port, Leaving Casualties",
@@ -223,6 +253,11 @@
     "url": "thecradlemedia/60758",
     "title": "US Forces Disable Vessel in Gulf of Oman Blockade",
     "published": "2026-05-30T23:05:29.202305+00:00"
+  },
+  "57127baf2ad158fe27b10cf51ae0416516bed4dd9df8db91b3721cb687901be4": {
+    "url": "https://tass.com/economy/2139131",
+    "title": "US company tested android robots in combat area in Ukraine \u2014 TV",
+    "published": "2026-05-30T22:25:51+00:00"
   },
   "eb43cb4169dade4b2b3c3924800d52efa97add3c7e430af0d74a643462afb2ed": {
     "url": "presstv/192016",
@@ -713,40 +748,5 @@
     "url": "Middle_East_Spectator/32549",
     "title": "Explosions Rock Southern Iran",
     "published": "2026-05-29T04:01:36.436791+00:00"
-  },
-  "893b819a1df4f624d5f028433ff6b9129754841031a05a81a47a24c5f2988a82": {
-    "url": "Middle_East_Spectator/32562",
-    "title": "Russian Drone Impacts in Romanian Town of Galati",
-    "published": "2026-05-29T04:01:35.415380+00:00"
-  },
-  "94bee1f4a5da09e5432b834f07e64f156af4b07313473680b4b67f3f5e7efe8d": {
-    "url": "Middle_East_Spectator/32565",
-    "title": "Russian Drone Impacts in Romanian Town of Galati",
-    "published": "2026-05-29T04:01:10.080036+00:00"
-  },
-  "c29ecbb1f1756498f5871431429df867a0806a33ccdeba02ca862115c527cb6b": {
-    "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-    "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70% ",
-    "published": "2026-05-29T02:24:52+00:00"
-  },
-  "3cc2571cf8a9b42ce5ab41a13e7bf7ec197e0f0f9c3208f5d81fa5daa644f7bc": {
-    "url": "intelslava/88225",
-    "title": "IRGC Fires Short-Range Ballistic Missiles at Kuwaiti Airbase",
-    "published": "2026-05-28T23:30:16.282720+00:00"
-  },
-  "f39cf18e9fa223ae0227283d544962f7c1c5dc8ef9e855d9c591a253b4becfbc": {
-    "url": "intelslava/88229",
-    "title": "Ukrainian Drones Attack Tankers in Black Sea off Turkish Coast",
-    "published": "2026-05-28T23:27:57.842295+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
-    "published": "2026-05-28T23:26:06.829087+00:00"
-  },
-  "192b838bec52eaa395d58de478b0a9dd4e84236d09c6f66222f224ea44aba5af": {
-    "url": "presstv/191789",
-    "title": "Israeli Airstrikes Hit Residential Building in Al-Shati Refugee Camp",
-    "published": "2026-05-28T23:25:47.223241+00:00"
   }
 }
