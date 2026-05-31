@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3547,
+  "total_calls": 3551,
   "tiers": {
-    "groq": 3528,
+    "groq": 3532,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-27T20:25:06.137077+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-27T20:25:37.471774+00:00",
-      "tier": "groq",
-      "article": "Lebanon\u2019s death toll from Israeli strikes reaches 3,269 \u2014 Health Ministry"
-    },
-    {
-      "timestamp": "2026-05-27T20:26:24.581176+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-27T20:27:17.122808+00:00",
-      "tier": "groq",
-      "article": "DARPA launches search for robot medics to treat battlefield casualties"
-    },
     {
       "timestamp": "2026-05-27T23:23:21.330858+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-05-31T08:54:23.743894+00:00",
+      "tier": "groq",
+      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
+    },
+    {
+      "timestamp": "2026-05-31T11:45:14.931619+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-05-31T11:45:48.807125+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Drone Strike Kills Israeli Enemy Soldier, Wounds Four in Southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-05-31T11:46:07.359811+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
+    },
+    {
+      "timestamp": "2026-05-31T11:46:45.332851+00:00",
       "tier": "groq",
       "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
     }
