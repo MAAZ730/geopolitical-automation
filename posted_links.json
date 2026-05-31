@@ -1,4 +1,34 @@
 {
+  "d0fe17704233d9cf741819d408a85aa9b5b49caddee1f918455d9e0ac04a6d1f": {
+    "url": "intelslava/88279",
+    "title": "Ukraine Deploys Advanced Air Attack Monitoring System with Palantir",
+    "published": "2026-05-31T15:35:09.095142+00:00"
+  },
+  "1f28cdd6647b2591a8bd1072770ba5f1c4b2eeebc0bd0bbaf686eea9e3db05d0": {
+    "url": "presstv/192123",
+    "title": "Israeli Airstrike Damages Ambulance in Southern Lebanon",
+    "published": "2026-05-31T15:33:09.668612+00:00"
+  },
+  "2257b77027afdd458fb0e405f114a4263e91edba8d17b93337b83f6775931394": {
+    "url": "presstv/192129",
+    "title": "Israeli Airstrikes Hit Tyre, Lebanon",
+    "published": "2026-05-31T15:31:26.942239+00:00"
+  },
+  "cd4bfc61abcd48a95cc66fdbe6ba25c41e5fad13692316c7bfe2570863fd7596": {
+    "url": "presstv/192131",
+    "title": "Hezbollah Forces Target Israeli Military Vehicle with Ababil Drone in Occupied Palestine",
+    "published": "2026-05-31T15:30:44.711702+00:00"
+  },
+  "9fa964ba536b82322ed34bec66a49f2cf270cb8ac92de65f4dd6c2807b73f6bb": {
+    "url": "Middle_East_Spectator/32644",
+    "title": "Iranian Vessel Spotted in Strait of Hormuz",
+    "published": "2026-05-31T15:25:42.112559+00:00"
+  },
+  "5d1c3312f515c82785e2d8eef8acda7569888dcc8ec00b35bad87ae972089a53": {
+    "url": "thecradlemedia/60780",
+    "title": "Israel's Military Death Toll Claims in Lebanon Raise Questions Over Civilian Casualties",
+    "published": "2026-05-31T15:25:40.342132+00:00"
+  },
   "8afcfafb9b4782a4ad8ac047dd010aca77b4c48c5e43c72387a41e1a439fdc3e": {
     "url": "presstv/192128",
     "title": "Trump's Iran Peace Plan Sparks Outrage from Muslim Scholars",
@@ -273,6 +303,11 @@
     "url": "https://en.irna.ir/news/86168684/Two-Lebanese-soldiers-injured-in-Israeli-drone-strikes",
     "title": "Two Lebanese soldiers injured in Israeli drone strikes",
     "published": "2026-05-30T16:37:25+00:00"
+  },
+  "40d0263aac020df3ee950e68620eff64237ca1364dfb8e12c6219a8a7347fb13": {
+    "url": "https://en.mehrnews.com/news/244910/20-ships-have-passed-through-Strait-of-Hormuz-IRGC-Navy",
+    "title": "20 ships have passed through Strait of Hormuz: IRGC Navy",
+    "published": "2026-05-30T16:01:40+00:00"
   },
   "44560fdf94288a2eac6696a08d55ded42b78b52dc8749369afc9bd51f860e4a4": {
     "url": "BellumActaNews/173367",
@@ -713,40 +748,5 @@
     "url": "Middle_East_Spectator/32545",
     "title": "Hezbollah Drone Strikes Target Israeli Radar and Missile Defense Systems",
     "published": "2026-05-28T20:43:59.451023+00:00"
-  },
-  "41516ef4c134859e26cd41f7f9a68e5bc70d773e6ed4a97d63562f3863b56f01": {
-    "url": "thecradlemedia/60609",
-    "title": "Israel Trains Somaliland Forces in Tel Aviv Amid Red Sea Alliance Expansion",
-    "published": "2026-05-28T20:42:42.216372+00:00"
-  },
-  "e2089a73a7b4c8bbac08faf6b545cb7740fee769b868e5c524ce21763474fef8": {
-    "url": "thecradlemedia/60610",
-    "title": "Hezbollah Repels Israeli Ground Assault in Zawtar al-Sharqiya",
-    "published": "2026-05-28T20:42:39.394185+00:00"
-  },
-  "fd9c5692cbccc10141b8943f583df8eb9687e331e40b853ea27eb648f1543fb5": {
-    "url": "BellumActaNews/173293",
-    "title": "Russia's Military Presence in Armenia: A Security Partnership",
-    "published": "2026-05-28T17:47:10.206261+00:00"
-  },
-  "03cc2d8594e39e0590bc462ad2a8a06c58ec970bb2265ca10e323272bbc2b27f": {
-    "url": "DDGeopolitics/185177",
-    "title": "Pollard Warns of Potential Conflict with T\u00fcrkiye and Egypt",
-    "published": "2026-05-28T17:45:13.111451+00:00"
-  },
-  "03a562cb021f62840eed33099158585e2b6bc039dead488c83448f6c75048f60": {
-    "url": "QudsNen/225232",
-    "title": "Israeli Drone Strike Injures Palestinians in Gaza City's Al-Zaytoun Neighborhood",
-    "published": "2026-05-28T17:42:09.453315+00:00"
-  },
-  "59fefa469d215bda3268f0daf0c5f4203003cb84b9de841386209d9a3ccee5bd": {
-    "url": "thecradlemedia/60596",
-    "title": "US Threatens Oman Over Strait of Hormuz Tolling System",
-    "published": "2026-05-28T17:41:36.601301+00:00"
-  },
-  "5253804824d31b8e2475c78bcfaa9a30d661ecda91c1d0c1e9f2b7293129c85b": {
-    "url": "thecradlemedia/60601",
-    "title": "Israeli Drones Strike Gaza City Neighborhood",
-    "published": "2026-05-28T17:41:30.297532+00:00"
   }
 }
