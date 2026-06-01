@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3587,
+  "total_calls": 3591,
   "tiers": {
-    "groq": 3568,
+    "groq": 3572,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-29T12:49:37.984876+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-29T12:50:10.645902+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-29T12:50:26.776530+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-29T12:50:45.445368+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-29T17:39:36.755152+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-01T17:50:45.770366+00:00",
       "tier": "groq",
       "article": "Trump seeking edits to US-Iran deal, US media report"
+    },
+    {
+      "timestamp": "2026-06-01T21:39:25.384875+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-01T21:40:00.750712+00:00",
+      "tier": "groq",
+      "article": "Putin summons top officials over Starobelsk massacre"
+    },
+    {
+      "timestamp": "2026-06-01T21:40:54.408208+00:00",
+      "tier": "groq",
+      "article": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel"
+    },
+    {
+      "timestamp": "2026-06-01T21:41:45.581994+00:00",
+      "tier": "groq",
+      "article": "Pro-Trump \u2018anti-woke\u2019 lawyer and leftist senator contend for Colombia\u2019s presidency"
     }
   ]
 }
