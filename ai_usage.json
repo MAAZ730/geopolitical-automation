@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3579,
+  "total_calls": 3583,
   "tiers": {
-    "groq": 3560,
+    "groq": 3564,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-29T03:59:58.661584+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-29T04:00:31.020384+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-29T04:00:49.369788+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-29T04:01:05.484925+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-29T08:04:40.755862+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-01T04:26:37.887291+00:00",
       "tier": "groq",
       "article": "Russian Battlegroup North destroyed 31 Ukrainian heavy drones in 24 hours"
+    },
+    {
+      "timestamp": "2026-06-01T11:44:41.028938+00:00",
+      "tier": "groq",
+      "article": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles"
+    },
+    {
+      "timestamp": "2026-06-01T11:44:57.234788+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-01T11:45:33.795877+00:00",
+      "tier": "groq",
+      "article": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks"
+    },
+    {
+      "timestamp": "2026-06-01T11:45:49.839009+00:00",
+      "tier": "groq",
+      "article": "IAEA experts inspecting site of Ukrainian drone\u2019s impact at ZNPP \u2014 envoy"
     }
   ]
 }
