@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3591,
+  "total_calls": 3595,
   "tiers": {
-    "groq": 3572,
+    "groq": 3576,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-29T17:39:36.755152+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-29T17:40:09.760849+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-29T17:40:56.012283+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-29T17:41:44.550145+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-29T20:30:53.941382+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-01T21:41:45.581994+00:00",
       "tier": "groq",
       "article": "Pro-Trump \u2018anti-woke\u2019 lawyer and leftist senator contend for Colombia\u2019s presidency"
+    },
+    {
+      "timestamp": "2026-06-01T23:40:52.273797+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-01T23:41:24.705695+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-01T23:42:09.837248+00:00",
+      "tier": "groq",
+      "article": "Iran warns Israeli settlers to evacuate north if bombs drop inside Beirut"
+    },
+    {
+      "timestamp": "2026-06-01T23:42:59.135130+00:00",
+      "tier": "groq",
+      "article": "UK bars popular US host over criticism of Israel"
     }
   ]
 }

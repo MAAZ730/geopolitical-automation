@@ -1,4 +1,34 @@
 {
+  "bd8c395c5e099599637ba19cdb816b6ba2c3bb7a6e3dfbd82c7cb4a5b0e593ba": {
+    "url": "warmonitors/44221",
+    "title": "Israeli Airstrike Hits Residential Building in Lebanon",
+    "published": "2026-06-01T23:46:52.863432+00:00"
+  },
+  "8d7802bd224c5d18c434a90052fb2069acfe1e3d436590f038fe35f03f6a9f24": {
+    "url": "DDGeopolitics/185476",
+    "title": "Kiev Inferno: Drone Strikes Ignite Large Fire",
+    "published": "2026-06-01T23:45:26.220477+00:00"
+  },
+  "15a6aacceceb4563b7910e499d80ef026a985f769dd39e3102eb4d033334b19b": {
+    "url": "DDGeopolitics/185477",
+    "title": "Kiev Blaze After Drone Strike",
+    "published": "2026-06-01T23:45:08.177010+00:00"
+  },
+  "28f9f5a33436c169fd732f03da9e8e2acdaf10c683bc174c95adfb3979a156f1": {
+    "url": "DDGeopolitics/185484",
+    "title": "Russia Launches Ballistic Missiles Towards Kiev Amid Escalating Ukraine Conflict",
+    "published": "2026-06-01T23:44:20.718853+00:00"
+  },
+  "26b5ba2e66986ad133c79edfe6ca84b104f5358f5aa5f9da760ede6823a14890": {
+    "url": "thecradlemedia/60895",
+    "title": "Iran Cuts Ties with US Amid Lebanon Conflict",
+    "published": "2026-06-01T23:43:09.704557+00:00"
+  },
+  "235253f52e2aefa8e241e0efb9099c33cd98d101857fc97b70ba4e11a8f363c8": {
+    "url": "thecradlemedia/60908",
+    "title": "Israeli Soldier Killed in Lebanese Drone Attack",
+    "published": "2026-06-01T23:43:05.543089+00:00"
+  },
   "e97cfa5c4025cf9abd46169039f4d740e68c7b7fe5f44709d08045ef5bcb34fb": {
     "url": "QudsNen/225633",
     "title": "Israeli Strike Hits Iran's South Pars Petrochemical Complex",
@@ -68,6 +98,11 @@
     "url": "thecradlemedia/60904",
     "title": "Trump Claims Ceasefire Between Hezbollah and Israel, Denies Planned Troop Deployment",
     "published": "2026-06-01T17:50:47.692926+00:00"
+  },
+  "4f959c996f611124e60aa06ce103651402a5b68fa697d00e077cecc7e3c11828": {
+    "url": "https://thecradle.co/articles-id/37999",
+    "title": "Iran warns Israeli settlers to evacuate north if bombs drop inside Beirut",
+    "published": "2026-06-01T16:46:39+00:00"
   },
   "4888b63dc6c9d8daca6e4926fd42254bed458854f4a9b56dc1416ff5d0c5cec2": {
     "url": "QudsNen/225570",
@@ -153,6 +188,11 @@
     "url": "https://en.mehrnews.com/news/244946/IRGC-strikes-US-air-base-after-attack-on-Sirik-Island",
     "title": "IRGC strikes US air base after attack on Sirik Island",
     "published": "2026-06-01T03:42:56+00:00"
+  },
+  "dda32870f2833b5aa08df263c873b4a66a2f7e24160adbc548e879e43520289a": {
+    "url": "https://www.rt.com/news/640800-uk-bars-popular-us-host-criticism-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "UK bars popular US host over criticism of Israel",
+    "published": "2026-06-01T03:09:14+00:00"
   },
   "619a47723498766f399367bb367a0e14834ebe30ed9acbcb59bc0d0f203c67d2": {
     "url": "Slavyangrad/165431",
@@ -708,45 +748,5 @@
     "url": "BellumActaNews/173371",
     "title": "US Secretary of War Pete Hegseth Pledges Military Revitalization at Shangri-La Dialogue",
     "published": "2026-05-30T06:57:32.348907+00:00"
-  },
-  "a5f1a4bdc2dae7239cb0a8567e8def61935645c0a1a980f987f1c42c1301e30b": {
-    "url": "DDGeopolitics/185301",
-    "title": "Drone Attack Damages Shostka Train Station in Ukraine's Sumy Region",
-    "published": "2026-05-30T06:54:31.532959+00:00"
-  },
-  "3028af50ce2dde1755c3b50725da567c5305fd01746235e3048c2663319f7382": {
-    "url": "DDGeopolitics/185312",
-    "title": "U.S. Criticizes China's Military Expansion Amid Own History of Foreign Airstrikes",
-    "published": "2026-05-30T06:53:50.823365+00:00"
-  },
-  "00c2fb6c422dba81be37d20a998a4a6a7f034d9018928e009657bb2625c210df": {
-    "url": "Middle_East_Spectator/32578",
-    "title": "US-Iran Tensions Ease as Naval Blockade Lifted",
-    "published": "2026-05-30T06:51:42.192783+00:00"
-  },
-  "cec363fddca8020f49d4562a1ad3c015efe041353640e0014fa06c0178746fc9": {
-    "url": "Middle_East_Spectator/32579",
-    "title": "UAE Carries Out Dozens of Airstrikes Against Iran Amid Conflict",
-    "published": "2026-05-30T06:51:37.878738+00:00"
-  },
-  "74782a7417325ec33b4b89dd407c2f078fa0bb56fa248a463988d31d9e1d4a84": {
-    "url": "https://en.mehrnews.com/news/244884/Death-toll-from-Israeli-attacks-on-Lebanon-exceeds-3-350",
-    "title": "Death toll from Israeli attacks on Lebanon exceeds 3,350",
-    "published": "2026-05-30T04:59:02+00:00"
-  },
-  "9ec14c2975ed4f3467812f36434c513825fa4a9e32aecabfa11afb4cb0d58f29": {
-    "url": "militarywave/23902",
-    "title": "Bezos' New Glenn Rocket Explodes on Launch Pad",
-    "published": "2026-05-30T04:25:59.075945+00:00"
-  },
-  "b36b4ccea6605f6bf71f33d8eaac274f6670168d9b19e66fb6519837ee78a677": {
-    "url": "militarywave/23903",
-    "title": "Slovak PM Restores Soviet Cemetery, Vows to Preserve Red Army Graves",
-    "published": "2026-05-30T04:25:00.919864+00:00"
-  },
-  "f4bc64c3712f3d89c6fdacc4e76531d2cbc46e9c5b0f421aee7f14213bb4bd3e": {
-    "url": "BellumActaNews/173365",
-    "title": "US Defense Chief Stresses Open Communication with China at Shangri-La Dialogue",
-    "published": "2026-05-30T04:08:29.379616+00:00"
   }
 }
