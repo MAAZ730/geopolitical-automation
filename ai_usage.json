@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3575,
+  "total_calls": 3579,
   "tiers": {
-    "groq": 3556,
+    "groq": 3560,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-28T23:23:03.003797+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-28T23:23:35.856144+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-28T23:24:22.285244+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-28T23:25:10.678817+00:00",
-      "tier": "groq",
-      "article": "Trump threatens to \u2018blow up\u2019 Oman"
-    },
     {
       "timestamp": "2026-05-29T03:59:58.661584+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-05-31T23:12:36.037309+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-06-01T04:25:32.287963+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-01T04:26:04.657154+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-01T04:26:20.628112+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes US air base after attack on Sirik Island"
+    },
+    {
+      "timestamp": "2026-06-01T04:26:37.887291+00:00",
+      "tier": "groq",
+      "article": "Russian Battlegroup North destroyed 31 Ukrainian heavy drones in 24 hours"
     }
   ]
 }
