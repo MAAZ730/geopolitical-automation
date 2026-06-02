@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3607,
+  "total_calls": 3611,
   "tiers": {
-    "groq": 3588,
+    "groq": 3592,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-30T06:49:57.453053+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-30T06:50:29.874810+00:00",
-      "tier": "groq",
-      "article": "Death toll from Israeli attacks on Lebanon exceeds 3,350"
-    },
-    {
-      "timestamp": "2026-05-30T06:51:16.904399+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-30T06:51:32.942548+00:00",
-      "tier": "groq",
-      "article": "Trump escalating Cuba blockade to trigger regime change \u2013 Axios"
-    },
     {
       "timestamp": "2026-05-30T10:06:46.018048+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-02T16:43:53.056985+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-06-02T20:54:28.091324+00:00",
+      "tier": "groq",
+      "article": "Russia strikes Ukrainian military sites in retaliation to Kiev\u2019s attack on Starobelsk"
+    },
+    {
+      "timestamp": "2026-06-02T20:55:08.405025+00:00",
+      "tier": "groq",
+      "article": "Ukraine may use Swedish Gripen fighter jets for strikes against Russia \u2014 expert"
+    },
+    {
+      "timestamp": "2026-06-02T20:55:27.333012+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-02T20:55:43.881488+00:00",
+      "tier": "groq",
+      "article": "Ukraine is causing more regime change in the EU than in Russia"
     }
   ]
 }
