@@ -1,4 +1,34 @@
 {
+  "729092eaa7820695358a83d3cbc20840e2ce583ba79b3244509c3cd3389ec9c9": {
+    "url": "Middle_East_Spectator/32705",
+    "title": "Rockets Fired into Northern Israel from Iranian-Backed Forces",
+    "published": "2026-06-02T04:24:33.384703+00:00"
+  },
+  "139a68305450da93fcd3eadc2035e3dbfa22f1c21bb2d80ac6998e309ab80311": {
+    "url": "Middle_East_Spectator/32712",
+    "title": "Russia-Ukraine Conflict: Kyiv Under Ballistic Missile Attack",
+    "published": "2026-06-02T04:24:04.244541+00:00"
+  },
+  "d475aebe04f48883a66eae68f89cde317808272d66bd2380581e0366fce9d03e": {
+    "url": "Middle_East_Spectator/32713",
+    "title": "Russia Launches Mass Ballistic Missile Strike on Kyiv",
+    "published": "2026-06-02T04:23:28.152308+00:00"
+  },
+  "2d80ed59103f35eedff7bbd9560f26427168b84b13b9a916fa20f083e17ea199": {
+    "url": "Middle_East_Spectator/32716",
+    "title": "Kyiv Under Missile Attack: Multiple Fires Erupt in Ukrainian Capital",
+    "published": "2026-06-02T04:22:52.750724+00:00"
+  },
+  "524e666604c045c2ad748b86162a540b22df29fa82ce719d82a2cf0aa6fd9115": {
+    "url": "thecradlemedia/60893",
+    "title": "Hezbollah Drone Strike Kills Israeli Soldier in South Lebanon",
+    "published": "2026-06-02T04:20:07.914849+00:00"
+  },
+  "5f66e9048069c921d3099987b790940ca4105611dae5d394352db38ad96ebcc8": {
+    "url": "thecradlemedia/60894",
+    "title": "Oil Prices Soar Amid Escalating US-Iran Tensions",
+    "published": "2026-06-02T04:20:05.309469+00:00"
+  },
   "bd8c395c5e099599637ba19cdb816b6ba2c3bb7a6e3dfbd82c7cb4a5b0e593ba": {
     "url": "warmonitors/44221",
     "title": "Israeli Airstrike Hits Residential Building in Lebanon",
@@ -104,6 +134,11 @@
     "title": "Iran warns Israeli settlers to evacuate north if bombs drop inside Beirut",
     "published": "2026-06-01T16:46:39+00:00"
   },
+  "6f47c6aa785f50a9056695006ec3a3be138cb9a5aa323137f4ac76905d836f92": {
+    "url": "https://tass.com/world/2139747",
+    "title": "Death toll from Israeli attacks on Lebanon exceeds 3,430 \u2014 health ministry",
+    "published": "2026-06-01T15:30:57+00:00"
+  },
   "4888b63dc6c9d8daca6e4926fd42254bed458854f4a9b56dc1416ff5d0c5cec2": {
     "url": "QudsNen/225570",
     "title": "Israeli Drone Strike Kills Palestinian in Gaza's Al-Bureij Refugee Camp",
@@ -148,6 +183,11 @@
     "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
     "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
     "published": "2026-06-01T07:40:23+00:00"
+  },
+  "92f15fe10966e8a8f43b68e24fe385d5c2c1ba66518a53e56d5e05dc375028b3": {
+    "url": "https://en.irna.ir/news/86170008/Iran-blasts-Dutch-police-for-assaulting-pregnant-Palestinian",
+    "title": "Iran blasts Dutch police for assaulting pregnant Palestinian woman",
+    "published": "2026-06-01T06:08:29+00:00"
   },
   "1f887cdc203a08081dbf96d0613053bf19a91170d7ec7cefdae9b3c48f418e65": {
     "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/60744",
     "title": "US Fighter Jet Downed by Chinese-Made Missile over Iran",
     "published": "2026-05-30T13:50:02.735488+00:00"
-  },
-  "3399abab8cc6decf34010ecccaad38dedd11c90513a904518ff06ef342bd6398": {
-    "url": "BellumActaNews/173369",
-    "title": "US Secretary of War Calls for Increased Military Capabilities at Shangri-La Dialogue",
-    "published": "2026-05-30T10:15:21.678999+00:00"
-  },
-  "5295bb5dd640ce9ae304e5b5d8d036527725e8ad720accdc20edf1f91afae143": {
-    "url": "thecradlemedia/60704",
-    "title": "US Secretary of War Open to Iran Deal",
-    "published": "2026-05-30T10:12:14.894682+00:00"
-  },
-  "cc290fa5c373b650b8a9deaaab73c69856932022a08688c2d983c5f7b2cc9c66": {
-    "url": "thecradlemedia/60707",
-    "title": "Israeli Airstrikes Hit Southern Lebanon, Killing Three and Wounding Dozens",
-    "published": "2026-05-30T10:09:20.218366+00:00"
-  },
-  "4edb281e8fd87fa1d2e270bc69c1cbff26184f7d5d53900579850808c9493bae": {
-    "url": "thecradlemedia/60713",
-    "title": "Israeli Upper Galilee Region Hit by Air Raid Sirens",
-    "published": "2026-05-30T10:09:07.357467+00:00"
-  },
-  "3dcb3578a19da9949c508be6453417cc548179d75778aea49fa6c7bf0574ed7e": {
-    "url": "thecradlemedia/60715",
-    "title": "Israeli Drone Targets Truck in South Lebanon",
-    "published": "2026-05-30T10:09:06.004801+00:00"
-  },
-  "eb518d14a91dc76880b4bfd1dfab7473ffc55db080cd0faf058f1acfffedd643": {
-    "url": "thecradlemedia/60717",
-    "title": "EU Sanctions Hamas Politburo Members Over Violent Actions",
-    "published": "2026-05-30T10:07:54.579767+00:00"
-  },
-  "d40e9017893ecc22e57e93e240cfeb68d46d10af2dcf32979f6e3bf12c04ccc4": {
-    "url": "BellumActaNews/173370",
-    "title": "US Defense Secretary Hegseth Warns Allies of Shift in Relations at Shangri-La Dialogue",
-    "published": "2026-05-30T07:00:32.189194+00:00"
-  },
-  "63f8f81d52ab66817074a1a37adb0bf2361c55e1f531d8c4f750f9b4c933647e": {
-    "url": "BellumActaNews/173371",
-    "title": "US Secretary of War Pete Hegseth Pledges Military Revitalization at Shangri-La Dialogue",
-    "published": "2026-05-30T06:57:32.348907+00:00"
   }
 }

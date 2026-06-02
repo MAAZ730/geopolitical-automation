@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3595,
+  "total_calls": 3599,
   "tiers": {
-    "groq": 3576,
+    "groq": 3580,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-29T20:30:53.941382+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-29T20:31:24.747291+00:00",
-      "tier": "groq",
-      "article": "Eleven Lebanese children killed, injured every day by Israeli military: UN"
-    },
-    {
-      "timestamp": "2026-05-29T20:31:42.631320+00:00",
-      "tier": "groq",
-      "article": "Putin accuses Western media of ignoring Kiev\u2019s deadly strike on Starobelsk"
-    },
-    {
-      "timestamp": "2026-05-29T20:32:29.139160+00:00",
-      "tier": "groq",
-      "article": "Netanyahu says he has directed IDF to increase control of Gaza to 70% "
-    },
     {
       "timestamp": "2026-05-29T23:17:35.411322+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-01T23:42:59.135130+00:00",
       "tier": "groq",
       "article": "UK bars popular US host over criticism of Israel"
+    },
+    {
+      "timestamp": "2026-06-02T04:19:05.268980+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-02T04:19:21.588515+00:00",
+      "tier": "groq",
+      "article": "Death toll from Israeli attacks on Lebanon exceeds 3,430 \u2014 health ministry"
+    },
+    {
+      "timestamp": "2026-06-02T04:19:44.660716+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-02T04:20:00.484924+00:00",
+      "tier": "groq",
+      "article": "Iran blasts Dutch police for assaulting pregnant Palestinian woman"
     }
   ]
 }
