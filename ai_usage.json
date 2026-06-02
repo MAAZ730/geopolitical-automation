@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3599,
+  "total_calls": 3603,
   "tiers": {
-    "groq": 3580,
+    "groq": 3584,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-29T23:17:35.411322+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-29T23:18:08.182413+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-29T23:18:54.389090+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-29T23:19:46.600399+00:00",
-      "tier": "groq",
-      "article": "Strait of Hormuz: US new fear and dawn of new regional order"
-    },
     {
       "timestamp": "2026-05-30T03:44:56.723594+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-02T04:20:00.484924+00:00",
       "tier": "groq",
       "article": "Iran blasts Dutch police for assaulting pregnant Palestinian woman"
+    },
+    {
+      "timestamp": "2026-06-02T10:42:54.930103+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-02T10:43:25.266427+00:00",
+      "tier": "groq",
+      "article": "6 people martyred, 4 others injured in Israeli strike on Al-Marwaniyeh southern Lebanese town: Lebanese Health Ministry - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-02T10:44:18.659287+00:00",
+      "tier": "groq",
+      "article": "At least 12 people killed, dozens wounded in Russian attacks on Ukraine"
+    },
+    {
+      "timestamp": "2026-06-02T10:44:34.943035+00:00",
+      "tier": "groq",
+      "article": "Iran suspends exchange of messages with US over Lebanon"
     }
   ]
 }
