@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3611,
+  "total_calls": 3615,
   "tiers": {
-    "groq": 3592,
+    "groq": 3596,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-30T10:06:46.018048+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-30T10:07:19.177959+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-30T10:07:35.261300+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-30T10:07:51.521046+00:00",
-      "tier": "groq",
-      "article": "Pentagon looks to reinvent the bunker-buster bomb"
-    },
     {
       "timestamp": "2026-05-30T13:48:51.262090+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-02T20:55:43.881488+00:00",
       "tier": "groq",
       "article": "Ukraine is causing more regime change in the EU than in Russia"
+    },
+    {
+      "timestamp": "2026-06-02T23:49:29.482283+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-02T23:50:00.931620+00:00",
+      "tier": "groq",
+      "article": "Leader\u2019s adviser warns of response as Israel weighs strikes on Beirut"
+    },
+    {
+      "timestamp": "2026-06-02T23:50:47.379319+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy fires cruise missile at US-Israeli ship (+VIDEO)"
+    },
+    {
+      "timestamp": "2026-06-02T23:51:04.986555+00:00",
+      "tier": "groq",
+      "article": "\u2018You\u2019re f***ing crazy!\u2019 Trump yelled at Netanyahu for derailing Iran talks \u2013 Axios"
     }
   ]
 }
