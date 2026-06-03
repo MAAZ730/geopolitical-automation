@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3615,
+  "total_calls": 3619,
   "tiers": {
-    "groq": 3596,
+    "groq": 3600,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-30T13:48:51.262090+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-30T13:49:23.944551+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-30T13:49:39.817161+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-30T13:49:55.875802+00:00",
-      "tier": "groq",
-      "article": "Austrian foreign minister summons Russian ambassador over UAV incident in Romania"
-    },
     {
       "timestamp": "2026-05-30T15:16:07.102216+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-02T23:51:04.986555+00:00",
       "tier": "groq",
       "article": "\u2018You\u2019re f***ing crazy!\u2019 Trump yelled at Netanyahu for derailing Iran talks \u2013 Axios"
+    },
+    {
+      "timestamp": "2026-06-03T04:28:35.413152+00:00",
+      "tier": "groq",
+      "article": "US says it attacked Iran\u2019s Qeshm Island; Tehran targets Kuwait, Bahrain"
+    },
+    {
+      "timestamp": "2026-06-03T04:28:51.711345+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes US Navy's 5th Fleet HQ with missiles, drones"
+    },
+    {
+      "timestamp": "2026-06-03T04:29:17.204377+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-03T04:29:33.409075+00:00",
+      "tier": "groq",
+      "article": "US, Israel keep violating ceasefire on all fronts: Iran\u2019s Foreign Ministry"
     }
   ]
 }
