@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3623,
+  "total_calls": 3627,
   "tiers": {
-    "groq": 3604,
+    "groq": 3608,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-30T17:14:52.644509+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-30T17:15:25.294471+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-30T17:16:10.536565+00:00",
-      "tier": "groq",
-      "article": "Two Lebanese soldiers injured in Israeli drone strikes"
-    },
-    {
-      "timestamp": "2026-05-30T17:16:28.738658+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-30T19:22:13.731793+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-03T11:10:15.878382+00:00",
       "tier": "groq",
       "article": "US pressures Oman to sever ties with Iran: Report"
+    },
+    {
+      "timestamp": "2026-06-03T16:56:04.316154+00:00",
+      "tier": "groq",
+      "article": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz"
+    },
+    {
+      "timestamp": "2026-06-03T16:56:47.885567+00:00",
+      "tier": "groq",
+      "article": "US and Iran exchange missile strikes (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-06-03T16:57:34.557830+00:00",
+      "tier": "groq",
+      "article": "IAEA deputy head slams military strikes on Zaporozhye NPP as \u2018unacceptable\u2019"
+    },
+    {
+      "timestamp": "2026-06-03T16:57:53.370231+00:00",
+      "tier": "groq",
+      "article": "Man with \u2018bomb\u2019 barricades himself inside California bank"
     }
   ]
 }
