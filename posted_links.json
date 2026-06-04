@@ -1,4 +1,34 @@
 {
+  "0d10a7c56bc8f5a22790f4dfb1a5debf238acca7cf2f9709e15fde2493853653": {
+    "url": "presstv/192690",
+    "title": "USS Gerald R. Ford Suffers Extensive Damage in Red Sea Fire",
+    "published": "2026-06-04T23:22:36.374798+00:00"
+  },
+  "166b499b1ceb8b6b0354ee96c08ea3fe62c5a4be32f42369174758b2176949a5": {
+    "url": "DDGeopolitics/185780",
+    "title": "USS Gerald R. Ford Fire Causes Extensive Damage, Disrupts Operations",
+    "published": "2026-06-04T23:18:42.571946+00:00"
+  },
+  "9a8d7018d7ad7b8038ceb3212ce37a8e1fa0658209c7a66499ba7bc9bfc8b676": {
+    "url": "QudsNen/226084",
+    "title": "Trump Expresses Hope for Peace in Lebanon Amid Ongoing Conflict",
+    "published": "2026-06-04T23:17:53.374383+00:00"
+  },
+  "7f34711c0ba1d7744702f24b080914d245cdedcd40b2159c4603a634c9313f83": {
+    "url": "QudsNen/226095",
+    "title": "USS Gerald R. Ford Fire Damage",
+    "published": "2026-06-04T23:16:23.863276+00:00"
+  },
+  "808bcd79092e21d263823eaaeb16d319f3a540910e6ddf9670ea76dc4fa13f2c": {
+    "url": "thecradlemedia/61123",
+    "title": "IRGC Denies Kuwait Airport Strike Amid Retaliatory Airstrikes",
+    "published": "2026-06-04T23:15:29.914140+00:00"
+  },
+  "dbd369c52b9edbd2b578cf8a6cfab6b1f1e04aedaefb7226150cb6503b249aae": {
+    "url": "thecradlemedia/61132",
+    "title": "Hezbollah Anti-Tank Missile Strike Kills Israeli Officer in South Lebanon",
+    "published": "2026-06-04T23:15:28.620435+00:00"
+  },
   "1bdb13212dd064345bac06e4997f5fd42a8c1f1041b3606f228374ba2ec133fc": {
     "url": "militarywave/23948",
     "title": "Baikonur Cosmodrome Celebrates Birthday with Historic Soyuz-5 Launch",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/61134",
     "title": "Iraqi Shia Militia Defies Disarmament Pressure",
     "published": "2026-06-04T20:14:32.378254+00:00"
+  },
+  "58bd18be47c36b7aafd3f182a3f2bec4d8e298a30a741c058fdd3cecc1f55e6a": {
+    "url": "https://en.mehrnews.com/news/245042/Handala-says-senior-Mossad-official-killed-in-car-bombing",
+    "title": "Handala says senior Mossad official killed in car bombing",
+    "published": "2026-06-04T19:54:49+00:00"
   },
   "457da440cc94514446c881b4d4023b4a7eb19d10219c0847621b7fc837399c58": {
     "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
@@ -183,6 +218,11 @@
     "url": "Middle_East_Spectator/32835",
     "title": "Iranian Drone Strikes Kuwait International Airport Terminal",
     "published": "2026-06-04T04:22:48.713632+00:00"
+  },
+  "eb9bc69c084a247ef89e2cdf18da487b83468fd5b419af6d017a863b2a0ff9df": {
+    "url": "https://www.rt.com/news/640912-us-nukes-europe-nato-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US considers expanding nuclear weapons deployments to more European NATO states, FT reports",
+    "published": "2026-06-04T03:02:48+00:00"
   },
   "11aecc9e34f9a092e62d3bb3ba72a4d5b9aa62cd42bc2560c51272b76ca5242c": {
     "url": "https://www.rt.com/news/640949-kuwait-airport-drone-footage/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -708,45 +748,5 @@
     "url": "QudsNen/225595",
     "title": "Israeli Airstrikes Hit Residential Building Near Jabal Amer Hospital in Tyre",
     "published": "2026-06-01T17:56:29.635769+00:00"
-  },
-  "ad3b537fe5af62f45f16bca5f4c9a389755d70e6873a70c5975d101c57f8139d": {
-    "url": "QudsNen/225598",
-    "title": "Israel's Airstrikes on Jabal Amer Hospital in Tyre, Lebanon",
-    "published": "2026-06-01T17:56:13.739524+00:00"
-  },
-  "0b1b1595e61f9c2134398e8e5eb96519001626e43fae9e25c0c09602da7d06bc": {
-    "url": "QudsNen/225607",
-    "title": "Israeli Settlers Establish New Outpost in Abu Falah",
-    "published": "2026-06-01T17:55:39.531207+00:00"
-  },
-  "969f149886bd935f6a4679b517c01d3d028c0cf4b6f44462bdeb3506efa10245": {
-    "url": "QudsNen/225609",
-    "title": "UK Protesters Block Access to Elbit Systems Facility Over Drone Engine Production",
-    "published": "2026-06-01T17:53:02.167761+00:00"
-  },
-  "23f040acc8f1393e8df36bf75b6a348d96b150aac4e2672fd638a0afad5066b9": {
-    "url": "thecradlemedia/60896",
-    "title": "France Bans Israeli Officials from Premier European Arms Fair",
-    "published": "2026-06-01T17:50:56.106838+00:00"
-  },
-  "4e18e7790adace608feca085e56af02e71fdb91b006996cae823ef06c0ec1d50": {
-    "url": "thecradlemedia/60904",
-    "title": "Trump Claims Ceasefire Between Hezbollah and Israel, Denies Planned Troop Deployment",
-    "published": "2026-06-01T17:50:47.692926+00:00"
-  },
-  "4f959c996f611124e60aa06ce103651402a5b68fa697d00e077cecc7e3c11828": {
-    "url": "https://thecradle.co/articles-id/37999",
-    "title": "Iran warns Israeli settlers to evacuate north if bombs drop inside Beirut",
-    "published": "2026-06-01T16:46:39+00:00"
-  },
-  "6f47c6aa785f50a9056695006ec3a3be138cb9a5aa323137f4ac76905d836f92": {
-    "url": "https://tass.com/world/2139747",
-    "title": "Death toll from Israeli attacks on Lebanon exceeds 3,430 \u2014 health ministry",
-    "published": "2026-06-01T15:30:57+00:00"
-  },
-  "c7eb0e608b5ce22267d0a533ef958ac3c1a48b725f884198990ebfd044ad6033": {
-    "url": "https://en.mehrnews.com/news/244965/Iran-suspending-talks-with-US-over-Israeli-crimes-in-Lebanon",
-    "title": "Iran suspends exchange of messages with US over Lebanon",
-    "published": "2026-06-01T13:47:05+00:00"
   }
 }

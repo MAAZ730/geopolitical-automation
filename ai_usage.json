@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3655,
+  "total_calls": 3659,
   "tiers": {
-    "groq": 3636,
+    "groq": 3640,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-31T15:21:44.974976+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-31T15:22:01.153014+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-31T15:22:17.299509+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-31T15:22:34.001371+00:00",
-      "tier": "groq",
-      "article": "20 ships have passed through Strait of Hormuz: IRGC Navy"
-    },
     {
       "timestamp": "2026-05-31T17:13:55.873480+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-04T20:14:18.692284+00:00",
       "tier": "groq",
       "article": "Hezbollah cannot be eliminated, ignored despite all attempts"
+    },
+    {
+      "timestamp": "2026-06-04T23:14:17.533399+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-04T23:14:50.645738+00:00",
+      "tier": "groq",
+      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
+    },
+    {
+      "timestamp": "2026-06-04T23:15:06.692933+00:00",
+      "tier": "groq",
+      "article": "Handala says senior Mossad official killed in car bombing"
+    },
+    {
+      "timestamp": "2026-06-04T23:15:24.499354+00:00",
+      "tier": "groq",
+      "article": "US considers expanding nuclear weapons deployments to more European NATO states, FT reports"
     }
   ]
 }
