@@ -1,4 +1,44 @@
 {
+  "1bdb13212dd064345bac06e4997f5fd42a8c1f1041b3606f228374ba2ec133fc": {
+    "url": "militarywave/23948",
+    "title": "Baikonur Cosmodrome Celebrates Birthday with Historic Soyuz-5 Launch",
+    "published": "2026-06-04T20:24:23.676738+00:00"
+  },
+  "582045720ec302a35d2d436e47b47c665c2a5f722590b4a99a37ef5f18b730ea": {
+    "url": "militarywave/23951",
+    "title": "Ukrainian Attack on Starobelsk College: Residents Risk Lives to Rescue Survivors",
+    "published": "2026-06-04T20:23:28.730266+00:00"
+  },
+  "24ef588716dc74f8621c0417e5e87459c027bb7f655b6167c8de3b318d134cc4": {
+    "url": "DDGeopolitics/185761",
+    "title": "Lavrov: US-Israeli Aggression Targeted Arab-Iran Rapprochement",
+    "published": "2026-06-04T20:17:53.480350+00:00"
+  },
+  "35dce03319dbfb0654a6f1f6a8a0ad6835d71c8e7d1d5b0e2ee24e4dff4c8f48": {
+    "url": "QudsNen/226064",
+    "title": "Israeli Forces Storm Anza Village in Jenin",
+    "published": "2026-06-04T20:15:20.965570+00:00"
+  },
+  "e9774cc31cd97f08e31d2bddef8174ab18249292940be7fea7537b0b1df1a6bd": {
+    "url": "thecradlemedia/61133",
+    "title": "Russia Calls for Immediate Israeli Withdrawal from Lebanon",
+    "published": "2026-06-04T20:14:33.063178+00:00"
+  },
+  "25be88f2e5d4507f09920833886fdbc7d9b839cea6d79d491ec03e7c31639dbd": {
+    "url": "thecradlemedia/61134",
+    "title": "Iraqi Shia Militia Defies Disarmament Pressure",
+    "published": "2026-06-04T20:14:32.378254+00:00"
+  },
+  "457da440cc94514446c881b4d4023b4a7eb19d10219c0847621b7fc837399c58": {
+    "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+    "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
+    "published": "2026-06-04T18:59:43+00:00"
+  },
+  "11a1d77768d55d0906ba6405ee13abe159c116e3c681bdfe8fa3de13ce16589b": {
+    "url": "https://english.almanar.com.lb/article/86217/",
+    "title": "Head of Metula settlement: The state has left us to live again under warnings and missiles - Al-Manar TV Lebanon",
+    "published": "2026-06-04T17:08:22+00:00"
+  },
   "52caed18cb6d45a8f9e74db34923397ba42cdd35d1f0fb8cef63bae569c1c31b": {
     "url": "QudsNen/226055",
     "title": "Israeli Airstrikes Hit Tyre, Southern Lebanon",
@@ -213,6 +253,11 @@
     "url": "thecradlemedia/61064",
     "title": "Hezbollah Targets Israeli Military Vehicle in South Lebanon Drone Strike",
     "published": "2026-06-03T21:25:12.757988+00:00"
+  },
+  "919ca4db5f90404ac9993e20b2aa86969ae95ae8d70f8fd9484156d9c1b3d8fd": {
+    "url": "https://en.mehrnews.com/news/245025/Hezbollah-cannot-be-eliminated-ingored-despite-all-attempts",
+    "title": "Hezbollah cannot be eliminated, ignored despite all attempts",
+    "published": "2026-06-03T21:00:33+00:00"
   },
   "9e7fd2ea2dfa8505df619f55ffe01bdf60eaaae3f8e44d3cfac113016697c59e": {
     "url": "https://www.rt.com/news/640927-hungary-magyar-ukraine-eu/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -703,50 +748,5 @@
     "url": "https://en.mehrnews.com/news/244965/Iran-suspending-talks-with-US-over-Israeli-crimes-in-Lebanon",
     "title": "Iran suspends exchange of messages with US over Lebanon",
     "published": "2026-06-01T13:47:05+00:00"
-  },
-  "4888b63dc6c9d8daca6e4926fd42254bed458854f4a9b56dc1416ff5d0c5cec2": {
-    "url": "QudsNen/225570",
-    "title": "Israeli Drone Strike Kills Palestinian in Gaza's Al-Bureij Refugee Camp",
-    "published": "2026-06-01T11:52:41.735871+00:00"
-  },
-  "aa8d614b12c28300ffd676f84d2ea75beb33014fadd05238faba9694b6e3dad6": {
-    "url": "thecradlemedia/60834",
-    "title": "Israeli Officials Attend Israel Day Parade in New York Amid Backlash",
-    "published": "2026-06-01T11:50:08.026792+00:00"
-  },
-  "fb3a6c4231fa087d858928752f461ef95ac088f77a7d778430c4981c17a2b337": {
-    "url": "thecradlemedia/60842",
-    "title": "IRGC Navy Deploys Fast-Attack Boats in Strait of Hormuz",
-    "published": "2026-06-01T11:48:48.616949+00:00"
-  },
-  "19e68980844428dd83dc5570b673404a27cb79f3030d560d0cd27dc2278b76d7": {
-    "url": "thecradlemedia/60846",
-    "title": "Israeli Drone Strike Kills Palestinian in Central Gaza",
-    "published": "2026-06-01T11:47:19.908742+00:00"
-  },
-  "d6ca90f6d4eafd7fed2d51f40243f9bfce2957ea2276e945b987b4ab413b0e53": {
-    "url": "thecradlemedia/60847",
-    "title": "Hezbollah Targets Israeli Iron Dome Launcher in Jal al-Allam Drone Strike",
-    "published": "2026-06-01T11:47:18.525091+00:00"
-  },
-  "9c618e71889c1dd484fec304d3efd97a1dcb83125603e84248c0364fbd02d4ed": {
-    "url": "thecradlemedia/60848",
-    "title": "West Bank Healthcare System on Brink of Collapse Amid Financial Crisis",
-    "published": "2026-06-01T11:45:54.745355+00:00"
-  },
-  "634f0a7cc2f640959b5a155f3717b703e81d58787254e9b310032a91ae890a22": {
-    "url": "https://www.rt.com/news/640806-iran-us-strikes-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran warns \u2018response will be completely different\u2019 if US attacks continue",
-    "published": "2026-06-01T11:10:48+00:00"
-  },
-  "06f726b4debb77b68ebeaf6c5a942e5a4d1855b60a2321451214f417f06f24b4": {
-    "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-    "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
-    "published": "2026-06-01T09:32:04+00:00"
-  },
-  "c58325ef761422a236eb955fea5909bdad4ca9a76c2e93836d2b476276eee558": {
-    "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
-    "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
-    "published": "2026-06-01T07:40:23+00:00"
   }
 }
