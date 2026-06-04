@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3643,
+  "total_calls": 3647,
   "tiers": {
-    "groq": 3624,
+    "groq": 3628,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-31T08:53:14.562229+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-31T08:53:47.851276+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-31T08:54:06.277391+00:00",
-      "tier": "groq",
-      "article": "Israeli Enemy Hit 15 Towns in Southern Lebanon with 38 Airstrikes, 5 Artillery Barrages - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-31T08:54:23.743894+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-31T11:45:14.931619+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-04T10:05:31.544544+00:00",
       "tier": "groq",
       "article": "At a NATO range in Latvia, hits and misses mark Europe\u2019s counter-drone journey"
+    },
+    {
+      "timestamp": "2026-06-04T12:54:22.219654+00:00",
+      "tier": "groq",
+      "article": "Sheikh Qassem: We have made no commitment to anyone to stop resisting or responding to aggression. As long as it continues, we will confront it with all our might, strike where we choose and can, and as long as our villages are bombed and our people killed, the Israeli settlements will not be safe - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-04T12:54:53.727721+00:00",
+      "tier": "groq",
+      "article": "Israeli war chief vows continued strikes on Lebanon as part of \u2018conditional\u2019 truce"
+    },
+    {
+      "timestamp": "2026-06-04T12:55:11.423975+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-04T12:55:48.155249+00:00",
+      "tier": "groq",
+      "article": "Resistance to continue til foreigners expelled from region"
     }
   ]
 }
