@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3639,
+  "total_calls": 3643,
   "tiers": {
-    "groq": 3620,
+    "groq": 3624,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-31T04:11:27.005643+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-31T04:12:00.136627+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-31T04:12:47.343759+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-31T04:13:35.679069+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-05-31T08:53:14.562229+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-04T04:22:38.429377+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-06-04T10:03:53.663123+00:00",
+      "tier": "groq",
+      "article": "US Patriot missile error responsible for damage at Kuwait airport: IRGC"
+    },
+    {
+      "timestamp": "2026-06-04T10:04:30.088983+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Ukrainian drone strikes target commuter train, kill civilians in Crimea"
+    },
+    {
+      "timestamp": "2026-06-04T10:04:48.365972+00:00",
+      "tier": "groq",
+      "article": "Tehran only strikes back at targets used by US to attack Iran \u2014 Araghchi"
+    },
+    {
+      "timestamp": "2026-06-04T10:05:31.544544+00:00",
+      "tier": "groq",
+      "article": "At a NATO range in Latvia, hits and misses mark Europe\u2019s counter-drone journey"
     }
   ]
 }
