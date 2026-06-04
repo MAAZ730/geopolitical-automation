@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3647,
+  "total_calls": 3651,
   "tiers": {
-    "groq": 3628,
+    "groq": 3632,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-31T11:45:14.931619+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-31T11:45:48.807125+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Drone Strike Kills Israeli Enemy Soldier, Wounds Four in Southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-05-31T11:46:07.359811+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hotel in ZNPP satellite city of Energodar with drone"
-    },
-    {
-      "timestamp": "2026-05-31T11:46:45.332851+00:00",
-      "tier": "groq",
-      "article": "US blocking Gaza resolution signifies Washington's moral decay \u2014 Iranian MFA"
-    },
     {
       "timestamp": "2026-05-31T13:53:39.371888+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-04T12:55:48.155249+00:00",
       "tier": "groq",
       "article": "Resistance to continue til foreigners expelled from region"
+    },
+    {
+      "timestamp": "2026-06-04T16:58:44.845569+00:00",
+      "tier": "groq",
+      "article": "IRGC refutes allegations it bombed Kuwait airport as &#039;flimsy fabrication&#039;"
+    },
+    {
+      "timestamp": "2026-06-04T16:59:02.282294+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-04T16:59:26.561706+00:00",
+      "tier": "groq",
+      "article": "Kuwait releases VIDEO of \u2018Iranian drone\u2019 hitting airport"
+    },
+    {
+      "timestamp": "2026-06-04T17:00:19.854060+00:00",
+      "tier": "groq",
+      "article": "Will Hungary\u2019s Peter Magyar let Ukraine join the EU?"
     }
   ]
 }
