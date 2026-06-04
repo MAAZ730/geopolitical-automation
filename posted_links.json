@@ -1,4 +1,34 @@
 {
+  "e1dcf6a4324d78aed2a9fde02be676075b6440fa26f4b8a458238245a14efba4": {
+    "url": "warmonitors/44246",
+    "title": "Iranian Kamikaze Drone Damages Kuwait International Airport",
+    "published": "2026-06-04T04:32:27.592872+00:00"
+  },
+  "e41f31dff7738e47db63e31804a49750b5bdd5675dcc5ae730715e11fd791aaa": {
+    "url": "QudsNen/225945",
+    "title": "Gaza City Residential Apartment Fire Following Israeli Aerial Bombardment",
+    "published": "2026-06-04T04:26:43.194284+00:00"
+  },
+  "ded2b1e575b07f7eb6230742b000f870208ac88b696778777e526dfff149bc0b": {
+    "url": "QudsNen/225950",
+    "title": "Israeli Airstrikes Kill Civilians in Gaza City",
+    "published": "2026-06-04T04:25:19.599990+00:00"
+  },
+  "4e85cb70ccccd58d6456a249712a2b7edb990e281d77939f95a61162c17c8b31": {
+    "url": "QudsNen/225952",
+    "title": "Israeli Airstrikes in Gaza City Leave Multiple Palestinians Dead",
+    "published": "2026-06-04T04:23:30.707189+00:00"
+  },
+  "c80516f6be6a4990cdbd87fdab4afb6d037612f7ef33d3b32f6327667612efc3": {
+    "url": "Middle_East_Spectator/32833",
+    "title": "Israel, Lebanon Agree to US-Brokered Ceasefire",
+    "published": "2026-06-04T04:22:53.288273+00:00"
+  },
+  "92b4d4c0254aa8f809e9a5067c6d6017e91f0307355710027dd8f990150a8845": {
+    "url": "Middle_East_Spectator/32835",
+    "title": "Iranian Drone Strikes Kuwait International Airport Terminal",
+    "published": "2026-06-04T04:22:48.713632+00:00"
+  },
   "53a31df010d7c8e36cfbe01ec583cd20403050bdf2f6edb65fe56c8daa184794": {
     "url": "DDGeopolitics/185677",
     "title": "Russian Missile Strike Hits Logistics Hub in Dnepropetrovsk",
@@ -718,35 +748,5 @@
     "url": "QudsNen/225494",
     "title": "Israel's Finance Minister Faces ICC Warrant Amid West Bank Evictions",
     "published": "2026-05-31T19:26:32.081175+00:00"
-  },
-  "b91ff868f5a5571e47b1f0d86b0697eff4e4a3e7bd76ae862582b1605f3c8e3f": {
-    "url": "Middle_East_Spectator/32634",
-    "title": "IDF Recaptures Beaufort Castle in Southern Lebanon Amid Escalating Conflict",
-    "published": "2026-05-31T19:25:08.242027+00:00"
-  },
-  "d6a3d09bcc0b4c0cbd33f13400ea8e5d7b21f94515dcf6e61184e8eb1c5fae71": {
-    "url": "Middle_East_Spectator/32638",
-    "title": "IDF Captures Beaufort Castle in Southern Lebanon",
-    "published": "2026-05-31T19:25:07.049121+00:00"
-  },
-  "b3be2bed7378227e6174aa6220e2a761f67af55281437044bb8bb26d77667d9a": {
-    "url": "QudsNen/225480",
-    "title": "Israeli Airstrike Hits Gaza Port, Leaving Casualties",
-    "published": "2026-05-31T17:19:32.567614+00:00"
-  },
-  "478d15643ad61ec19fd323d46664d323e3398d695d868af2045deb702caec7bc": {
-    "url": "QudsNen/225483",
-    "title": "Israeli Drone Strike Hits Family in Southern Lebanon",
-    "published": "2026-05-31T17:19:25.004224+00:00"
-  },
-  "4cb478a4d543939ba19f6a95d6e37232ee8eda465a5b01e6ad6c400e19cc2c21": {
-    "url": "Middle_East_Spectator/32639",
-    "title": "US Aerial Refueling Tanker Damaged in Possible Iranian Strike",
-    "published": "2026-05-31T17:18:50.112336+00:00"
-  },
-  "fcbcde3d98da552a33af929b81a0e6e79b20e6d063cf5c30efacf89c492d3038": {
-    "url": "Middle_East_Spectator/32646",
-    "title": "Hezbollah Drone Strike Hits IDF Base in Northern Israel",
-    "published": "2026-05-31T17:18:48.843234+00:00"
   }
 }
