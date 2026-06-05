@@ -1,4 +1,39 @@
 {
+  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
+    "url": "CensoredMen/205",
+    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
+    "published": "2026-06-05T04:10:39.713796+00:00"
+  },
+  "0090a49125a308353eb138c7bfeb4a12b93f45fd13299ab956606db876cd00a0": {
+    "url": "presstv/192695",
+    "title": "Israeli Airstrike Causes Devastation near Jabal Amel Hospital in Tyre",
+    "published": "2026-06-05T04:10:20.853193+00:00"
+  },
+  "16ce9b09e95ccd51d7afcac67ce9e7dc033af6039f6e46f33ca4efb4d5460e94": {
+    "url": "presstv/192697",
+    "title": "IOF and Israeli Settlers Assault Palestinian Man in West Bank",
+    "published": "2026-06-05T04:09:18.620170+00:00"
+  },
+  "00ee6f1fa91a9cfbfa61c1d5c128fb532c47d2dbe034dced6a85f56f3d7fd872": {
+    "url": "QudsNen/226102",
+    "title": "Israeli Settlers Block Medical Aid Amid Assault on Palestinian Man in West Bank",
+    "published": "2026-06-05T04:08:50.312159+00:00"
+  },
+  "ee9c69d8883454fee9d979453490e6394c1e1a5be167e60c509bf4797facbcad": {
+    "url": "thecradlemedia/61119",
+    "title": "Israeli Upper Galilee Region Hit by Missile Alert",
+    "published": "2026-06-05T04:08:23.064804+00:00"
+  },
+  "884ba123f460cdb0c8cd0fe3d07bdb3f24a78096fcc413839ff3dc4b75dfb284": {
+    "url": "thecradlemedia/61122",
+    "title": "US Air Force Presence at Ben Gurion Airport Raises Tensions",
+    "published": "2026-06-05T04:08:21.942806+00:00"
+  },
+  "07ac3c7ecc7fe13aa1e8d457609f0a7760e68a8a2c9dd4f11c6df33abeb0d0de": {
+    "url": "https://www.rt.com/news/641026-israel-lebanon-strikes-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Israeli strikes kill 8 in Lebanon as Hezbollah rejects \u2018shameless surrender\u2019",
+    "published": "2026-06-05T02:53:24+00:00"
+  },
   "0d10a7c56bc8f5a22790f4dfb1a5debf238acca7cf2f9709e15fde2493853653": {
     "url": "presstv/192690",
     "title": "USS Gerald R. Ford Suffers Extensive Damage in Red Sea Fire",
@@ -218,6 +253,11 @@
     "url": "Middle_East_Spectator/32835",
     "title": "Iranian Drone Strikes Kuwait International Airport Terminal",
     "published": "2026-06-04T04:22:48.713632+00:00"
+  },
+  "aff41360d8613e884ac2f34610a3718c8e82e7649c09d847c5fb995cf69a8214": {
+    "url": "https://www.rt.com/news/640918-airbnb-black-guest-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Airbnb host has been sued over alleged discrimination, The Independent reports",
+    "published": "2026-06-04T04:20:46+00:00"
   },
   "eb9bc69c084a247ef89e2cdf18da487b83468fd5b419af6d017a863b2a0ff9df": {
     "url": "https://www.rt.com/news/640912-us-nukes-europe-nato-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -708,45 +748,5 @@
     "url": "Middle_East_Spectator/32692",
     "title": "Panama-Flagged Ship Experiences Explosion in Iraqi Waters",
     "published": "2026-06-01T21:45:49.523289+00:00"
-  },
-  "e1f09c41a0c13c64759309b2a90117d17fd73a8c9d4303ed8a408fc1147df79f": {
-    "url": "thecradlemedia/60905",
-    "title": "Israeli Politician Calls for Immediate Action Against Dahiye",
-    "published": "2026-06-01T21:45:26.686393+00:00"
-  },
-  "427fa0d19e9c55dced456a72c37f9666a2d1e2daefd0633177b8b93de1c3e0f1": {
-    "url": "thecradlemedia/60906",
-    "title": "Hezbollah Targets Israeli Tank with Drone in South Lebanon",
-    "published": "2026-06-01T21:44:13.352064+00:00"
-  },
-  "0b3e594703a99fad444c00ff41824a17abda6adc2cc2ece6944bef3c93cec6ae": {
-    "url": "thecradlemedia/60909",
-    "title": "Israeli Airstrikes Hit Marwaniyah in South Lebanon",
-    "published": "2026-06-01T21:42:04.723219+00:00"
-  },
-  "68a47138141f09d4c353eb6f898f8febb0e50e5f26dba131714b2ac83e5537c6": {
-    "url": "thecradlemedia/60911",
-    "title": "Hezbollah Rejects US Proposal for Limited Ceasefire in Lebanon",
-    "published": "2026-06-01T21:41:55.179909+00:00"
-  },
-  "49791b316a4627bc6428f2a0766fd1bd7da0124563b66bb8a547cdf48b9b9bdf": {
-    "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-    "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
-    "published": "2026-06-01T21:27:01+00:00"
-  },
-  "62f11356ec66a4972f6893f7d075cf5ab815741b751ece16f2616f08f92fa363": {
-    "url": "https://www.rt.com/news/640833-eu-ukraine-drones-lithuania/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Ukraine is causing more regime change in the EU than in Russia",
-    "published": "2026-06-01T21:02:18+00:00"
-  },
-  "5d7c3a85b15a52f16e5df32f9c2858c083ea2ed9ee9f631e80e5278ec12d7e51": {
-    "url": "https://www.rt.com/news/640834-putin-vows-inevitable-punishment-for-starobelsk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Putin summons top officials over Starobelsk massacre",
-    "published": "2026-06-01T18:21:01+00:00"
-  },
-  "02e5386efbca461ec7795d16c9a23c3a3d9e82e8dd7fe4fe4157490f53e6a7c6": {
-    "url": "QudsNen/225595",
-    "title": "Israeli Airstrikes Hit Residential Building Near Jabal Amer Hospital in Tyre",
-    "published": "2026-06-01T17:56:29.635769+00:00"
   }
 }
