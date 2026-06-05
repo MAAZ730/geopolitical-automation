@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3663,
+  "total_calls": 3667,
   "tiers": {
-    "groq": 3644,
+    "groq": 3648,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-31T19:23:54.403945+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-31T19:24:27.973881+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-05-31T19:24:44.555492+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-05-31T19:25:00.659778+00:00",
-      "tier": "groq",
-      "article": "US company tested android robots in combat area in Ukraine \u2014 TV"
-    },
     {
       "timestamp": "2026-05-31T21:05:44.180252+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-05T04:08:18.112936+00:00",
       "tier": "groq",
       "article": "Airbnb host has been sued over alleged discrimination, The Independent reports"
+    },
+    {
+      "timestamp": "2026-06-05T10:01:10.129573+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-05T10:01:26.979397+00:00",
+      "tier": "groq",
+      "article": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues"
+    },
+    {
+      "timestamp": "2026-06-05T10:01:56.997845+00:00",
+      "tier": "groq",
+      "article": "AL-Manar correspondents in south Lebanon report Israeli airstrikes on towns of Anqoun, Kfar Fila and Qlaileh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-05T10:02:48.290746+00:00",
+      "tier": "groq",
+      "article": "Lebanon-Israel ceasefire deal made in 'hope rather than expectation'"
     }
   ]
 }
