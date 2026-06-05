@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3671,
+  "total_calls": 3675,
   "tiers": {
-    "groq": 3652,
+    "groq": 3656,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-05-31T23:10:27.405496+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-05-31T23:11:01.165146+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-05-31T23:11:48.040356+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-05-31T23:12:36.037309+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-06-01T04:25:32.287963+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-05T12:47:08.977487+00:00",
       "tier": "groq",
       "article": "Trump redefines \u2018ceasefire\u2019"
+    },
+    {
+      "timestamp": "2026-06-05T16:31:30.688363+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-05T16:31:47.304298+00:00",
+      "tier": "groq",
+      "article": "Starlink becomes integral component of US-Israel war on Iran"
+    },
+    {
+      "timestamp": "2026-06-05T16:32:05.146428+00:00",
+      "tier": "groq",
+      "article": "Iran Army warning shots force US destroyers flee Oman Sea"
+    },
+    {
+      "timestamp": "2026-06-05T16:32:22.001454+00:00",
+      "tier": "groq",
+      "article": "Kataib Hezbollah rejects calls to disarm, says Islamic Resistance in Iraq will stand firm against foreign threats"
     }
   ]
 }
