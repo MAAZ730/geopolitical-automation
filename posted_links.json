@@ -1,4 +1,39 @@
 {
+  "1fcd81b0c04a53d68e8962c0c96b76dc69d07cb296d721ecbd8d9d1557ffcd65": {
+    "url": "presstv/192778",
+    "title": "Hezbollah Targets Israeli Positions with Drones in Southern Lebanon",
+    "published": "2026-06-05T20:08:33.388389+00:00"
+  },
+  "5f97e1f9473cee723c70a35ba4824adf8aac187246bbbf6da499d7c337cced6f": {
+    "url": "presstv/192785",
+    "title": "US-Iran Conflict Worsens Global Food Security Concerns",
+    "published": "2026-06-05T20:05:55.912262+00:00"
+  },
+  "6beea96076422e5b1d7b2cc45c0a8feddf64627804d863f8199b95e605a3324c": {
+    "url": "DDGeopolitics/185849",
+    "title": "Iran Denies US Navy Strikes, Releases Footage of Military Operations",
+    "published": "2026-06-05T20:03:17.046212+00:00"
+  },
+  "f22b12772deb8f3cc2b7ca444e61c0223c73590478db96fd2dd4cdfed007c1b5": {
+    "url": "QudsNen/226178",
+    "title": "Hezbollah Drone Strikes Israeli Forces in Southern Lebanon",
+    "published": "2026-06-05T20:02:58.936027+00:00"
+  },
+  "ebb22fc923dd598fe62ea9be41136f6618212ac150d86aa5a5f7ea4dfa987b48": {
+    "url": "thecradlemedia/61227",
+    "title": "India Urged to Arrest Israeli National Accused of War Crimes",
+    "published": "2026-06-05T20:01:11.090128+00:00"
+  },
+  "8854a7f2e1537700ddb23b6cb1bb49976fc43994f2eaeaa7a2dc3f873959c485": {
+    "url": "thecradlemedia/61231",
+    "title": "Israeli Artillery Strikes and Airstrikes Hit Southern Lebanon",
+    "published": "2026-06-05T20:01:07.460178+00:00"
+  },
+  "8da8333d29d60e9b7e8caf735db753ff5cca9833e2132815ea57b2733826d897": {
+    "url": "https://english.almanar.com.lb/article/86987/",
+    "title": "US Destroyers Flee Sea of Oman after Iran Navy\u2019s Warning Shots - Al-Manar TV Lebanon",
+    "published": "2026-06-05T17:17:43+00:00"
+  },
   "826a5fa32c30490697aab3d441f57deedd1645310f9d2f6d43b5ae11fd13d123": {
     "url": "presstv/192755",
     "title": "Hezbollah Targets Israeli Merkava Tank in Southern Lebanon",
@@ -153,6 +188,11 @@
     "url": "https://www.rt.com/news/641026-israel-lebanon-strikes-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Israeli strikes kill 8 in Lebanon as Hezbollah rejects \u2018shameless surrender\u2019",
     "published": "2026-06-05T02:53:24+00:00"
+  },
+  "d22fb340b69a478bc49d0d7a5e819129cbbef1e9d9d91587f03dbb4102233776": {
+    "url": "https://www.rt.com/news/641023-merz-lying-fritz-fine-thousands/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "German man fined month\u2019s income for calling Merz \u2018lying Fritz\u2019",
+    "published": "2026-06-05T00:04:45+00:00"
   },
   "0d10a7c56bc8f5a22790f4dfb1a5debf238acca7cf2f9709e15fde2493853653": {
     "url": "presstv/192690",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/60989",
     "title": "Settlers, Israeli Troops Clash in West Bank Village",
     "published": "2026-06-02T20:55:49.008476+00:00"
-  },
-  "d75f25343b3340a82782327b516e677562143df8f2fba08de1963dd1c0ca7537": {
-    "url": "BellumActaNews/173541",
-    "title": "Batroun Caf\u00e9 Owner Expresses Support for Israeli Defence Forces",
-    "published": "2026-06-02T16:55:24.878173+00:00"
-  },
-  "d9a8a16245f870489129389587cfc34ecdbe93c083e59bd8f4d9e13afb1461e1": {
-    "url": "DDGeopolitics/185568",
-    "title": "Missile Strikes Hit Kiev, Ukraine",
-    "published": "2026-06-02T16:55:11.453621+00:00"
-  },
-  "219cbbfc16b49460508c9037bb74e17d44e8393f2e375ed07409803f5c8bb31e": {
-    "url": "QudsNen/225723",
-    "title": "Israeli Airstrikes Hit Residential Building in Southern Lebanon",
-    "published": "2026-06-02T16:49:05.359834+00:00"
-  },
-  "665268c9cb067eb8cde3cd8202b1630ae8c8c898c6729b106193fb3a2614205e": {
-    "url": "QudsNen/225726",
-    "title": "Israeli Airstrikes Hit Al-Qlaileh, Southern Lebanon",
-    "published": "2026-06-02T16:48:44.576334+00:00"
-  },
-  "4a6326cc42f2a40e0f6b3c17c641c161aba88e919103049dc8dd24567974ac81": {
-    "url": "thecradlemedia/60978",
-    "title": "Hamas Denies Obstruction of Gaza Governance Handover",
-    "published": "2026-06-02T16:44:05.331336+00:00"
-  },
-  "11ac85a67427e62c12385ac9c0ed1722041664d7b9c330fc1a3a367df0899a96": {
-    "url": "thecradlemedia/60979",
-    "title": "Israel's Arms Exports Surge Amid Gaza Conflict",
-    "published": "2026-06-02T16:43:58.317041+00:00"
-  },
-  "ba03c6ee2aa914ffece27ea3a9ff8f3966b687c816b8cdddceeb481369f7a2c7": {
-    "url": "https://tass.com/politics/2140401",
-    "title": "Russia strikes Ukrainian military sites in retaliation to Kiev\u2019s attack on Starobelsk",
-    "published": "2026-06-02T15:21:17+00:00"
-  },
-  "fe50b01b301c5108ce11c81450a92312e3a60422dba9e2ebc3044e394fd5e576": {
-    "url": "https://thecradle.co/articles-id/38010",
-    "title": "US pressures Oman to sever ties with Iran: Report",
-    "published": "2026-06-02T12:29:11+00:00"
   }
 }
