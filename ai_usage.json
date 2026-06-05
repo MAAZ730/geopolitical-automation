@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3683,
+  "total_calls": 3687,
   "tiers": {
-    "groq": 3664,
+    "groq": 3668,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-01T17:49:35.629139+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-01T17:50:10.986759+00:00",
-      "tier": "groq",
-      "article": "Iran warns \u2018response will be completely different\u2019 if US attacks continue"
-    },
-    {
-      "timestamp": "2026-06-01T17:50:29.043317+00:00",
-      "tier": "groq",
-      "article": "Iran attacks damage 20 US military sites since start of war, satellite images show"
-    },
-    {
-      "timestamp": "2026-06-01T17:50:45.770366+00:00",
-      "tier": "groq",
-      "article": "Trump seeking edits to US-Iran deal, US media report"
-    },
     {
       "timestamp": "2026-06-01T21:39:25.384875+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-05T21:46:22.476682+00:00",
       "tier": "groq",
       "article": "Hezbollah rejects US-backed Israel-Lebanon ceasefire"
+    },
+    {
+      "timestamp": "2026-06-05T23:15:59.229057+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-05T23:16:31.549979+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-05T23:17:17.719561+00:00",
+      "tier": "groq",
+      "article": "Islamic Resistance fighters confronted on Friday, June 5, 2026, at 20:30, an \u201cIsraeli\u201d warplane in the skies over the Zahrani coast with a surface-to-air missile: statement 31 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-05T23:17:34.426922+00:00",
+      "tier": "groq",
+      "article": "1963 Uprising; a turning point in Iran\u2019s contemporary history"
     }
   ]
 }
