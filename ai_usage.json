@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3687,
+  "total_calls": 3691,
   "tiers": {
-    "groq": 3668,
+    "groq": 3672,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-01T21:39:25.384875+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-01T21:40:00.750712+00:00",
-      "tier": "groq",
-      "article": "Putin summons top officials over Starobelsk massacre"
-    },
-    {
-      "timestamp": "2026-06-01T21:40:54.408208+00:00",
-      "tier": "groq",
-      "article": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel"
-    },
-    {
-      "timestamp": "2026-06-01T21:41:45.581994+00:00",
-      "tier": "groq",
-      "article": "Pro-Trump \u2018anti-woke\u2019 lawyer and leftist senator contend for Colombia\u2019s presidency"
-    },
     {
       "timestamp": "2026-06-01T23:40:52.273797+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-05T23:17:34.426922+00:00",
       "tier": "groq",
       "article": "1963 Uprising; a turning point in Iran\u2019s contemporary history"
+    },
+    {
+      "timestamp": "2026-06-06T03:48:11.715505+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-06-06T03:48:32.178785+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-06T03:48:52.633964+00:00",
+      "tier": "groq",
+      "article": "Iran severely damaged US air operations center in Qatar"
+    },
+    {
+      "timestamp": "2026-06-06T03:49:11.262364+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
   ]
 }
