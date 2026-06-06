@@ -1,4 +1,34 @@
 {
+  "31eee61631ad5d8d8ee3482901859e67ddad34d87f5dd0d02f66860b451fb3ed": {
+    "url": "intelslava/88485",
+    "title": "Israeli Airstrike Targets Residential Building in Khan Yunis",
+    "published": "2026-06-06T23:12:55.955989+00:00"
+  },
+  "d8e5c95f81ae09aeeabef4e49f12315b7bf1c8de512bae44cfa896af3605e9dc": {
+    "url": "presstv/192911",
+    "title": "Iran Warns of Wider Disruption to Gulf Oil Exports Amid Economic Threats",
+    "published": "2026-06-06T23:12:21.034114+00:00"
+  },
+  "306fd11067e91c2744549b54662c86f626c860eb9e89ea75b3411c1cbb8100cf": {
+    "url": "presstv/192915",
+    "title": "Israeli Airstrike Hits Residential Building in Khan Yunis, Gaza Strip",
+    "published": "2026-06-06T23:09:38.492045+00:00"
+  },
+  "90092de72a7b53a6537531794ef4c8ba29826184dfeb958cd85da14f7281a908": {
+    "url": "QudsNen/226374",
+    "title": "Israeli Forces Detain Palestinian Child in Jericho Raid",
+    "published": "2026-06-06T23:09:30.310271+00:00"
+  },
+  "597f987274e744ca3e11a5bb58d5f7e2a2faf5aa713abb61d3a0b38531801d3c": {
+    "url": "Middle_East_Spectator/32883",
+    "title": "Israeli Soldier Killed in Lebanon Amid Ongoing Tensions",
+    "published": "2026-06-06T23:09:09.471529+00:00"
+  },
+  "94daa60ac4928c6371661e39929d87628a7a89b4fb42f34b581925978147c64e": {
+    "url": "Middle_East_Spectator/32884",
+    "title": "Israeli Soldier Killed in Southern Lebanon",
+    "published": "2026-06-06T23:09:08.216561+00:00"
+  },
   "eb68f3e0ad9d671bbbc2a7c706a1295ddf0db0d294c76d0005ac99e59c072dbf": {
     "url": "presstv/192917",
     "title": "Iran Condemns US Military Action as Tensions Escalate",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/61306",
     "title": "Israeli Soldiers Killed in South Lebanon Incidents",
     "published": "2026-06-06T21:12:14.842298+00:00"
+  },
+  "eac75d75b5692caaad46a99a61838943e62279af12fda1b11bf6898ea775570d": {
+    "url": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
+    "title": "Rights group says drone strike kills 11 in central Sudan market",
+    "published": "2026-06-06T20:54:09+00:00"
   },
   "c96fac44ba189dc2a099bc06a43cf49830c15b2ccd239c05328ef5876f4d0675": {
     "url": "DDGeopolitics/185907",
@@ -238,6 +273,11 @@
     "url": "QudsNen/226226",
     "title": "US Lawmakers Reintroduce Block the Bombs Act Amid Gaza Strip Concerns",
     "published": "2026-06-06T03:52:34.633638+00:00"
+  },
+  "eb61a8bd684dc7692249796c6da0988ff5c184462026b3daefc1fedc14e6933b": {
+    "url": "https://tass.com/world/2143377",
+    "title": "Pakistan ready to offer platform for Iran-US talks \u2014 ambassador",
+    "published": "2026-06-06T03:52:00+00:00"
   },
   "c8b3c4ae024d0e12dc7ee71780c5e72a84b43ec5cd06f7e84ef848bb2be84602": {
     "url": "QudsNen/226234",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/61096",
     "title": "Israeli Airstrikes Cause Widespread Destruction in Tebnine, Lebanon",
     "published": "2026-06-04T12:59:06.833956+00:00"
-  },
-  "64e56de80fa60ca141870b454b4f0c15943ad944d4167602b04ac49a57c4ee9d": {
-    "url": "thecradlemedia/61097",
-    "title": "Hezbollah Claims Drone Strike on Israeli Military Equipment in Southern Lebanon",
-    "published": "2026-06-04T12:57:23.620435+00:00"
-  },
-  "3bdf35505219fa5cec27f2a13ce5588a1e218b137400b775b00e0c47528c3a87": {
-    "url": "thecradlemedia/61098",
-    "title": "Hezbollah Denounces Proposed US-Israel Agreement as 'Declaration of Annihilation'",
-    "published": "2026-06-04T12:55:58.543033+00:00"
-  },
-  "9678acd3b2dd341265410c9dd43362e20d2a058cdd75a4af897a0e6b3012fa92": {
-    "url": "https://english.almanar.com.lb/article/86042/",
-    "title": "Sheikh Qassem: We have made no commitment to anyone to stop resisting or responding to aggression. As long as it continues, we will confront it with all our might, strike where we choose and can, and as long as our villages are bombed and our people killed, the Israeli settlements will not be safe - Al-Manar TV Lebanon",
-    "published": "2026-06-04T12:50:23+00:00"
-  },
-  "f4f70bd356ef8bddfd9e14e5857ecfa83da52dceec87cb5419f6dd37ce9fe2a1": {
-    "url": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
-    "title": "Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
-    "published": "2026-06-04T11:02:17+00:00"
-  },
-  "004fca36f226f434a9836a961d072ce539492dcadae1933210a32d1b185ff47b": {
-    "url": "warmonitors/44237",
-    "title": "Iran Bombs Kuwait International Airport in Surprise Airstrike",
-    "published": "2026-06-04T10:13:33.155542+00:00"
-  },
-  "068d6cb4060b9bf066349e6df5aacd0e7456209dc96519a429e9b5c7c9b2f785": {
-    "url": "QudsNen/225987",
-    "title": "Israeli Airstrikes on Gaza City Cause Fatalities and Destruction",
-    "published": "2026-06-04T10:09:20.543042+00:00"
-  },
-  "607c68c9080ad36761dac2334c18f2fdbbcdb43cbce950a766a41e613b5a40fb": {
-    "url": "QudsNen/225988",
-    "title": "Gaza City Airstrikes Leave Trail of Destruction and Loss of Life",
-    "published": "2026-06-04T10:08:28.729839+00:00"
-  },
-  "d1aef495f0fce6872f789f41a9531c249a9b534bf4d3902a0aa1409fcbddeeb8": {
-    "url": "thecradlemedia/61071",
-    "title": "Israeli Airstrikes Hit Gaza Residential Areas, Leaving Dozens Injured and Dead",
-    "published": "2026-06-04T10:06:18.615137+00:00"
   }
 }

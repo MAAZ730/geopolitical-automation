@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3719,
+  "total_calls": 3723,
   "tiers": {
-    "groq": 3700,
+    "groq": 3704,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-03T11:08:46.763606+00:00",
-      "tier": "groq",
-      "article": "Five killed, more than 40 others injured in Israeli airstrikes on southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-03T11:09:24.437054+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Ukrainian drone attacks cause casualties in Russia\u2019s Smolensk, Leningrad regions"
-    },
-    {
-      "timestamp": "2026-06-03T11:09:43.331747+00:00",
-      "tier": "groq",
-      "article": "Lebanon reports dozens of casualties from Israeli attacks on third day of US-backed &#039;truce&#039;"
-    },
-    {
-      "timestamp": "2026-06-03T11:10:15.878382+00:00",
-      "tier": "groq",
-      "article": "US pressures Oman to sever ties with Iran: Report"
-    },
     {
       "timestamp": "2026-06-03T16:56:04.316154+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-06T21:12:09.371484+00:00",
       "tier": "groq",
       "article": "Kiev troops shell DPR nine times in past day, two wounded"
+    },
+    {
+      "timestamp": "2026-06-06T23:07:57.236474+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-06T23:08:29.656236+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-06T23:08:46.425831+00:00",
+      "tier": "groq",
+      "article": "Rights group says drone strike kills 11 in central Sudan market"
+    },
+    {
+      "timestamp": "2026-06-06T23:09:02.583133+00:00",
+      "tier": "groq",
+      "article": "Pakistan ready to offer platform for Iran-US talks \u2014 ambassador"
     }
   ]
 }
