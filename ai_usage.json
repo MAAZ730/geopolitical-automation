@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3699,
+  "total_calls": 3703,
   "tiers": {
-    "groq": 3680,
+    "groq": 3684,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-02T10:42:54.930103+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-02T10:43:25.266427+00:00",
-      "tier": "groq",
-      "article": "6 people martyred, 4 others injured in Israeli strike on Al-Marwaniyeh southern Lebanese town: Lebanese Health Ministry - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-02T10:44:18.659287+00:00",
-      "tier": "groq",
-      "article": "At least 12 people killed, dozens wounded in Russian attacks on Ukraine"
-    },
-    {
-      "timestamp": "2026-06-02T10:44:34.943035+00:00",
-      "tier": "groq",
-      "article": "Iran suspends exchange of messages with US over Lebanon"
-    },
     {
       "timestamp": "2026-06-02T16:42:16.705062+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-06-06T10:11:39.946920+00:00",
+      "tier": "groq",
+      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-06-06T13:53:24.431254+00:00",
+      "tier": "groq",
+      "article": "Turkish fishing boat attacked off Crimea, one sailor killed"
+    },
+    {
+      "timestamp": "2026-06-06T13:53:43.504362+00:00",
+      "tier": "groq",
+      "article": "Houthis say their strike prevented US military plane from landing in Israel"
+    },
+    {
+      "timestamp": "2026-06-06T13:54:08.529238+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-06T13:54:25.147482+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
     }
