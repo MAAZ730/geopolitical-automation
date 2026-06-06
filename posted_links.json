@@ -1,4 +1,34 @@
 {
+  "f09c35788f8c2d85650e5b8b7a7b03529735f84271687ddee0ad27bc5a72b326": {
+    "url": "BellumActaNews/173721",
+    "title": "Iranian Missiles Enter Kuwait",
+    "published": "2026-06-06T07:07:57.924046+00:00"
+  },
+  "306ee6d7f9db4885823dca5b85dbcf1e84e57c775fed90de94941b3a3f9d0dac": {
+    "url": "BellumActaNews/173722",
+    "title": "Iranian Drone Intercepted Over Kuwait",
+    "published": "2026-06-06T07:05:51.463702+00:00"
+  },
+  "9dc9355bd4b4c8e97e24e5381d4924acb1794bc607a61e0c38c607ba5f379e11": {
+    "url": "DDGeopolitics/185867",
+    "title": "IRGC Seizes American Cargo Vessel in Strait of Hormuz",
+    "published": "2026-06-06T07:05:33.875992+00:00"
+  },
+  "0f9f7dbe8f6ca5e10bdc5312165083d00371249d843475afafddabea3a2a5afc": {
+    "url": "DDGeopolitics/185868",
+    "title": "US Forces Disrupt Iranian Drone Operations in Persian Gulf",
+    "published": "2026-06-06T07:04:49.755008+00:00"
+  },
+  "ec8fd28fe8020802f42d41efb76b0feea5d2f3b2f8eb735b798029649b19e48e": {
+    "url": "QudsNen/226250",
+    "title": "Israeli Airstrike Kills Lebanese Army Officer in Southern Lebanon",
+    "published": "2026-06-06T07:00:13.864862+00:00"
+  },
+  "23357db7ef93f8cbe91502421b6d20e5222b092374115f0ad5800da8ef3c905b": {
+    "url": "QudsNen/226251",
+    "title": "Israeli Airstrike Kills Lebanese Soldiers on Khaldiyah-Nabatieh Road",
+    "published": "2026-06-06T07:00:12.333899+00:00"
+  },
   "3f2ae39f6d5a672d23ed2f947601fc1bc6eb3a175af58a5d3196ef21016d897d": {
     "url": "QudsNen/226226",
     "title": "US Lawmakers Reintroduce Block the Bombs Act Amid Gaza Strip Concerns",
@@ -33,6 +63,11 @@
     "url": "https://en.mehrnews.com/news/245064/Iran-severely-damaged-US-air-operations-center-in-Qatar",
     "title": "Iran severely damaged US air operations center in Qatar",
     "published": "2026-06-06T03:36:13+00:00"
+  },
+  "8d25418a33bb81e78a47dbc86c02aee0fbb0510accc2fdbb4133ad11cabbe36c": {
+    "url": "https://tass.com/world/2143347",
+    "title": "US delivers strike on Iranian radars \u2014 CENTCOM",
+    "published": "2026-06-06T00:17:41+00:00"
   },
   "bb2e5e327ab8e2200c07099fe503a9240ded60fd1f90a9913ba6389904a48e62": {
     "url": "Slavyangrad/165874",
@@ -183,6 +218,11 @@
     "url": "DDGeopolitics/185806",
     "title": "Romanian Port Drone Explosion",
     "published": "2026-06-05T12:52:32.518363+00:00"
+  },
+  "6b351d25c6217f3b8905fda1b0266a8eaea5a6ca6c40ad9a90308eb05ee9de65": {
+    "url": "https://www.defensenews.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/",
+    "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
+    "published": "2026-06-05T12:49:44+00:00"
   },
   "3d41e9a33f107fc3ea5d7324085beb7557138a90a5f3cfc18040bd3eee26c773": {
     "url": "QudsNen/226138",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/61012",
     "title": "Rubio Warns of 'Critical Window' to Dismantle Iran's Nuclear Infrastructure",
     "published": "2026-06-03T11:12:28.340819+00:00"
-  },
-  "80f55d6126682141324d1d1fbee75c410b74e8ddb34909904b412b3e246fd31a": {
-    "url": "thecradlemedia/61017",
-    "title": "UAE Non-Oil Growth Slows Amid Hormuz Disruptions",
-    "published": "2026-06-03T11:10:22.404515+00:00"
-  },
-  "62549fccb3ad7a59a8bf8e1e374015e20778959c889ca1e6399f0f043746f590": {
-    "url": "thecradlemedia/61022",
-    "title": "Israeli Airstrikes Escalate in Lebanon Amid US-Backed Ceasefire",
-    "published": "2026-06-03T11:10:20.566411+00:00"
-  },
-  "797358ed347e9dd138bd12f953abc31df406824282c23d9c1bf12db10cc1ead2": {
-    "url": "https://tass.com/world/2140737",
-    "title": "IAEA deputy head slams military strikes on Zaporozhye NPP as \u2018unacceptable\u2019",
-    "published": "2026-06-03T10:47:36+00:00"
-  },
-  "5f40fa4f95f01d00092872301e8e29c1cb4b31c32110292872cdb2de08fe90d3": {
-    "url": "https://thecradle.co/articles-id/38032",
-    "title": "Lebanon reports dozens of casualties from Israeli attacks on third day of US-backed &#039;truce&#039;",
-    "published": "2026-06-03T10:29:16+00:00"
-  },
-  "868a8bd9a62756953800afdf8197be65a9467fd255b8329d6a1900fe69d7250d": {
-    "url": "https://thecradle.co/articles-id/38030",
-    "title": "Iran says Bahrain, Kuwait \u2018bear direct responsibility\u2019 for new IRGC strikes",
-    "published": "2026-06-03T09:43:03+00:00"
-  },
-  "1e36a5f3cdf1a36995baaa70e0a31da81e184beb619c94a97490cf606d6c268b": {
-    "url": "https://tass.com/world/2140633",
-    "title": "Five killed, more than 40 others injured in Israeli airstrikes on southern Lebanon",
-    "published": "2026-06-03T08:14:32+00:00"
-  },
-  "d5db1b9f0f7bf04d49f08c09db79957b3258b853e964d6e481080044c836a5b5": {
-    "url": "https://tass.com/emergencies/2140571",
-    "title": "IN BRIEF: Ukrainian drone attacks cause casualties in Russia\u2019s Smolensk, Leningrad regions",
-    "published": "2026-06-03T06:43:06+00:00"
-  },
-  "f9207b12de8dc63509baed1632679684c109b9a2bab1113cdf35cb84867deebb": {
-    "url": "https://en.irna.ir/news/86172028/IRGC-conducts-retaliatory-missile-drone-strike-on-US-Fifth-Fleet",
-    "title": "IRGC conducts retaliatory missile, drone strike on US Fifth Fleet Headquarters",
-    "published": "2026-06-03T05:10:08+00:00"
   }
 }
