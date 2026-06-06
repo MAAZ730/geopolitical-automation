@@ -1,4 +1,34 @@
 {
+  "c96fac44ba189dc2a099bc06a43cf49830c15b2ccd239c05328ef5876f4d0675": {
+    "url": "DDGeopolitics/185907",
+    "title": "Drone Strike Hits Dnepropetrovsk Amid Ukraine-Russia Conflict",
+    "published": "2026-06-06T19:36:27.290434+00:00"
+  },
+  "087255bf599dc3ace89e300e1ff038ba66cb9467e48cd2810ab0ed79681298b7": {
+    "url": "DDGeopolitics/185912",
+    "title": "Russian Drones Target Ukrainian Navy Vessels in Black Sea",
+    "published": "2026-06-06T19:35:54.073061+00:00"
+  },
+  "609d6983b8fba9fa3aba90ce992ffb3509f146464652bc79a89c3a499d954b15": {
+    "url": "QudsNen/226337",
+    "title": "Israeli Airstrike Kills Civilians in Gaza City Displacement Camps",
+    "published": "2026-06-06T19:34:09.177195+00:00"
+  },
+  "2bbebb60422814d8e64da232fc1252045e14622ce2f49f4f346174b23d16a838": {
+    "url": "QudsNen/226349",
+    "title": "Israeli Airstrike Hits Residential Building in Khan Younis",
+    "published": "2026-06-06T19:33:01.473143+00:00"
+  },
+  "7e7beeea82eeb7915f0f984c3d5218b3355b3a7aaea7d0b2810e8d0eb5e207ab": {
+    "url": "thecradlemedia/61289",
+    "title": "US-Israel Tensions Escalate Amid Reports of White House Espionage",
+    "published": "2026-06-06T19:32:17.714536+00:00"
+  },
+  "9a90d3f51ffc4d5750fd9555007b37036d6ffe3a4dfe89009bc611ded954975e": {
+    "url": "thecradlemedia/61290",
+    "title": "Hezbollah Claims Significant Military Gains Against Israeli Forces in Lebanon",
+    "published": "2026-06-06T19:32:16.041231+00:00"
+  },
   "d36b15670dc3830374ed81dffa4bcb3a03c817f80da6ccf87d5834c30319edae": {
     "url": "warmonitors/44268",
     "title": "IDF Violence Spreads Across West Bank and Lebanon",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/61303",
     "title": "Pakistan Official Visits Iran Amid Escalating US-Iran Tensions",
     "published": "2026-06-06T17:21:41.382814+00:00"
+  },
+  "8f57dd1c60915582855c737b61d54775394bba6c31a1a7f93ca18d733250ba54": {
+    "url": "https://en.irna.ir/news/86174931/Hezbollah-condemns-deadly-Israeli-strike-on-Lebanese-army-vehicle",
+    "title": "Hezbollah condemns deadly Israeli strike on Lebanese army vehicle",
+    "published": "2026-06-06T15:53:01+00:00"
   },
   "7c42cb2263f79cb2a5a18bd636546546a20de679ddfff11a5f658dacb64bea12": {
     "url": "QudsNen/226310",
@@ -268,6 +303,11 @@
     "url": "thecradlemedia/61235",
     "title": "Israeli Army Activates Early Warning System After Lebanon Border Launches",
     "published": "2026-06-05T21:46:31.234907+00:00"
+  },
+  "d5c7ee64afcc06e13f902691af142f0c3af3d7c2d2992830609d07a38cc934a1": {
+    "url": "https://www.rt.com/news/641081-brussels-protests-budget-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Belgium education reform protests turn violent in central Brussels",
+    "published": "2026-06-05T20:22:09+00:00"
   },
   "2972d948eca36ab7df6aa1ee0eba68cf9fc26975d13837783fc5ba878ae6281e": {
     "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
@@ -708,45 +748,5 @@
     "url": "QudsNen/225950",
     "title": "Israeli Airstrikes Kill Civilians in Gaza City",
     "published": "2026-06-04T04:25:19.599990+00:00"
-  },
-  "4e85cb70ccccd58d6456a249712a2b7edb990e281d77939f95a61162c17c8b31": {
-    "url": "QudsNen/225952",
-    "title": "Israeli Airstrikes in Gaza City Leave Multiple Palestinians Dead",
-    "published": "2026-06-04T04:23:30.707189+00:00"
-  },
-  "c80516f6be6a4990cdbd87fdab4afb6d037612f7ef33d3b32f6327667612efc3": {
-    "url": "Middle_East_Spectator/32833",
-    "title": "Israel, Lebanon Agree to US-Brokered Ceasefire",
-    "published": "2026-06-04T04:22:53.288273+00:00"
-  },
-  "92b4d4c0254aa8f809e9a5067c6d6017e91f0307355710027dd8f990150a8845": {
-    "url": "Middle_East_Spectator/32835",
-    "title": "Iranian Drone Strikes Kuwait International Airport Terminal",
-    "published": "2026-06-04T04:22:48.713632+00:00"
-  },
-  "aff41360d8613e884ac2f34610a3718c8e82e7649c09d847c5fb995cf69a8214": {
-    "url": "https://www.rt.com/news/640918-airbnb-black-guest-lawsuit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Airbnb host has been sued over alleged discrimination, The Independent reports",
-    "published": "2026-06-04T04:20:46+00:00"
-  },
-  "eb9bc69c084a247ef89e2cdf18da487b83468fd5b419af6d017a863b2a0ff9df": {
-    "url": "https://www.rt.com/news/640912-us-nukes-europe-nato-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US considers expanding nuclear weapons deployments to more European NATO states, FT reports",
-    "published": "2026-06-04T03:02:48+00:00"
-  },
-  "11aecc9e34f9a092e62d3bb3ba72a4d5b9aa62cd42bc2560c51272b76ca5242c": {
-    "url": "https://www.rt.com/news/640949-kuwait-airport-drone-footage/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Kuwait releases VIDEO of \u2018Iranian drone\u2019 hitting airport",
-    "published": "2026-06-04T00:06:50+00:00"
-  },
-  "53a31df010d7c8e36cfbe01ec583cd20403050bdf2f6edb65fe56c8daa184794": {
-    "url": "DDGeopolitics/185677",
-    "title": "Russian Missile Strike Hits Logistics Hub in Dnepropetrovsk",
-    "published": "2026-06-03T23:59:26.879466+00:00"
-  },
-  "df959261d8f3c9f9df72607755c67365e82d0cfa6fc1768e7b0d9e43219d8ce7": {
-    "url": "DDGeopolitics/185691",
-    "title": "Trump Reveals Unprecedented Dialogue with Hezbollah",
-    "published": "2026-06-03T23:58:33.556120+00:00"
   }
 }
