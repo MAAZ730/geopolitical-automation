@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3707,
+  "total_calls": 3711,
   "tiers": {
-    "groq": 3688,
+    "groq": 3692,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-02T20:54:28.091324+00:00",
-      "tier": "groq",
-      "article": "Russia strikes Ukrainian military sites in retaliation to Kiev\u2019s attack on Starobelsk"
-    },
-    {
-      "timestamp": "2026-06-02T20:55:08.405025+00:00",
-      "tier": "groq",
-      "article": "Ukraine may use Swedish Gripen fighter jets for strikes against Russia \u2014 expert"
-    },
-    {
-      "timestamp": "2026-06-02T20:55:27.333012+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-02T20:55:43.881488+00:00",
-      "tier": "groq",
-      "article": "Ukraine is causing more regime change in the EU than in Russia"
-    },
     {
       "timestamp": "2026-06-02T23:49:29.482283+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-06T15:23:33.586757+00:00",
       "tier": "groq",
       "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-06-06T17:19:26.311086+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-06T17:19:57.977021+00:00",
+      "tier": "groq",
+      "article": "Groom killed hours before his wedding in Gaza"
+    },
+    {
+      "timestamp": "2026-06-06T17:20:44.092431+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-06T17:21:34.991021+00:00",
+      "tier": "groq",
+      "article": "APEC committed to pragmatic cooperation \u2014 Russian diplomat"
     }
   ]
 }

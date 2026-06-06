@@ -1,4 +1,34 @@
 {
+  "d36b15670dc3830374ed81dffa4bcb3a03c817f80da6ccf87d5834c30319edae": {
+    "url": "warmonitors/44268",
+    "title": "IDF Violence Spreads Across West Bank and Lebanon",
+    "published": "2026-06-06T17:27:40.852684+00:00"
+  },
+  "652dc20cac455c1ed994ef89f25a4a65366f49265cf00623f6de2eec18eb6544": {
+    "url": "DDGeopolitics/185895",
+    "title": "IRGC Launches Ballistic Missile Strike on US Bases in Kuwait and Bahrain",
+    "published": "2026-06-06T17:24:52.191666+00:00"
+  },
+  "c7a470aaf9a7473cfa08c8ee7adf5cbe8d587d5965c2b077a198970a22be6894": {
+    "url": "QudsNen/226328",
+    "title": "Israeli Artillery Strikes Target Southern Lebanon Towns",
+    "published": "2026-06-06T17:23:16.219675+00:00"
+  },
+  "3a79736eeb621811bf482501030fa28a941294e34e1a10ff28d2e4b0edfac85c": {
+    "url": "QudsNen/226330",
+    "title": "Israeli Airstrikes Hit Wadi Al-Zoghour in Southern Lebanon",
+    "published": "2026-06-06T17:22:57.905349+00:00"
+  },
+  "32c7d260db2641d9394d0551969ba93f55f89bcda1bb81cce3bb259267b1a059": {
+    "url": "thecradlemedia/61291",
+    "title": "Israeli Warplanes Strike Baraachit, South Lebanon",
+    "published": "2026-06-06T17:21:48.996671+00:00"
+  },
+  "a974d983e5971f0119b437b719c1fc528fb2ba61b71d017862a20fef05f73d7f": {
+    "url": "thecradlemedia/61303",
+    "title": "Pakistan Official Visits Iran Amid Escalating US-Iran Tensions",
+    "published": "2026-06-06T17:21:41.382814+00:00"
+  },
   "7c42cb2263f79cb2a5a18bd636546546a20de679ddfff11a5f658dacb64bea12": {
     "url": "QudsNen/226310",
     "title": "Israeli Aerial Strike Hits Al-Nur Center in Gaza City",
@@ -63,6 +93,11 @@
     "url": "thecradlemedia/61286",
     "title": "Israel Kills Lebanese Soldiers Amid Tensions Along Border",
     "published": "2026-06-06T13:54:31.627837+00:00"
+  },
+  "6421ad9d24e74bdf512632b62bb63760448850eee097fddaf577d639e8c4ebcf": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
+    "title": "Groom killed hours before his wedding in Gaza",
+    "published": "2026-06-06T12:29:42+00:00"
   },
   "5e130ea85c20f14a96e41955e92a0e1d21e11bd4acfd59ef9fb492bd26f4463a": {
     "url": "https://www.rt.com/news/641116-turkish-boat-attacked-crimea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -268,6 +303,11 @@
     "url": "thecradlemedia/61231",
     "title": "Israeli Artillery Strikes and Airstrikes Hit Southern Lebanon",
     "published": "2026-06-05T20:01:07.460178+00:00"
+  },
+  "1195604f700d429d0537b01b48302ee17ef963e5baf812d3fee71541ac910c90": {
+    "url": "https://tass.com/politics/2143197",
+    "title": "APEC committed to pragmatic cooperation \u2014 Russian diplomat",
+    "published": "2026-06-05T17:33:01+00:00"
   },
   "8da8333d29d60e9b7e8caf735db753ff5cca9833e2132815ea57b2733826d897": {
     "url": "https://english.almanar.com.lb/article/86987/",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/185691",
     "title": "Trump Reveals Unprecedented Dialogue with Hezbollah",
     "published": "2026-06-03T23:58:33.556120+00:00"
-  },
-  "7f9b8f53b865673f2a2e9370a23e76f2349392ae384a8bdfd6b365183bb566e8": {
-    "url": "QudsNen/225927",
-    "title": "Settler Violence Escalates in Occupied West Bank: Khirbet Abu Falah Under Attack",
-    "published": "2026-06-03T23:57:22.287030+00:00"
-  },
-  "1952bc00369cab7397fbb6c4b6c1f24d6370db74fd47703fec51e9156a50e6b3": {
-    "url": "Middle_East_Spectator/32828",
-    "title": "Kuwait International Airport Drone Strike Confirmed",
-    "published": "2026-06-03T23:54:44.054131+00:00"
-  },
-  "94a1dddf0b6908626055e031f73831d7f349ead2274ab26577caa96ceef902aa": {
-    "url": "thecradlemedia/61050",
-    "title": "Kuwait Expels Iranian Diplomats After Retaliatory Strikes",
-    "published": "2026-06-03T23:51:44.559425+00:00"
-  },
-  "0892d8ef23a92586fd6f7f5c03850b5438ca44f37b7dfd74e071e322507607c9": {
-    "url": "thecradlemedia/61052",
-    "title": "Lebanon's Tebnine Hospital Rejects Israeli Pretexts Amid Surge in Israeli Attacks",
-    "published": "2026-06-03T23:51:42.196632+00:00"
-  },
-  "4aac4d398987591d86d07c5ad6724c7752fac1f356cd3d325ccd2dbcd8f5a05f": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-releases-cctv-footage-of-deadly-iranian-strike-on-airport?traffic_source=rss",
-    "title": "Kuwait releases CCTV footage of deadly Iranian strike on airport",
-    "published": "2026-06-03T23:02:34+00:00"
-  },
-  "a3a4f95a35c93e6c309cc7b1a39bc8e4dda84d814c262ee3c3ccf8af0907fb89": {
-    "url": "QudsNen/225930",
-    "title": "US Establishes Communication with Hezbollah for First Time",
-    "published": "2026-06-03T21:27:16.917998+00:00"
-  },
-  "298f6602fbad00c64e223dbe917c4604e900f541062097c571eb6b21a015b684": {
-    "url": "Middle_East_Spectator/32825",
-    "title": "Iranian Navy Claims Confrontation with U.S. Warship in Sea of Oman",
-    "published": "2026-06-03T21:26:03.609078+00:00"
-  },
-  "bb8a541487959b6d133d191d1e6890f054773b1f0fd4bf392c03dcbef400d5db": {
-    "url": "thecradlemedia/61053",
-    "title": "Iran Deepens Strategic Ties with China Amid US-Israeli Conflict",
-    "published": "2026-06-03T21:25:36.578368+00:00"
   }
 }
