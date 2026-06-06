@@ -1,4 +1,34 @@
 {
+  "eb68f3e0ad9d671bbbc2a7c706a1295ddf0db0d294c76d0005ac99e59c072dbf": {
+    "url": "presstv/192917",
+    "title": "Iran Condemns US Military Action as Tensions Escalate",
+    "published": "2026-06-06T21:21:07.741320+00:00"
+  },
+  "dce2f69e8e0541217390ab57dc4f94e2548b3955ebec7cfd9956e1c0b1327251": {
+    "url": "presstv/192918",
+    "title": "Hezbollah Drone Attack Kills Israeli Soldier in Lebanon",
+    "published": "2026-06-06T21:18:31.597720+00:00"
+  },
+  "f734eb7481f98cd5c5a873489a254bcbc1d0c4acfb2fa940d1a6d5d6872cb221": {
+    "url": "presstv/192920",
+    "title": "Hezbollah Forces Conduct Drone Operations in Southern Lebanon",
+    "published": "2026-06-06T21:17:05.598804+00:00"
+  },
+  "0f54d19177ed0429847b324d02848cc410d6e09b068d23b83be79a4930ede134": {
+    "url": "QudsNen/226368",
+    "title": "Israeli Settlers Attack Huwara, Leaving Palestinians Injured and Property Damaged",
+    "published": "2026-06-06T21:14:23.769888+00:00"
+  },
+  "a47e980c7765bf5ef2207d4863256a855af51351572d65ae2b8787dd41f660cb": {
+    "url": "Middle_East_Spectator/32885",
+    "title": "Israeli Tanks Engulfed in Flames After Hezbollah Ambush in Nabatieh",
+    "published": "2026-06-06T21:12:16.798959+00:00"
+  },
+  "360cbb6207346c60141e519580dc58974e02f20f7f8261c9eb6816464fefa57d": {
+    "url": "thecradlemedia/61306",
+    "title": "Israeli Soldiers Killed in South Lebanon Incidents",
+    "published": "2026-06-06T21:12:14.842298+00:00"
+  },
   "c96fac44ba189dc2a099bc06a43cf49830c15b2ccd239c05328ef5876f4d0675": {
     "url": "DDGeopolitics/185907",
     "title": "Drone Strike Hits Dnepropetrovsk Amid Ukraine-Russia Conflict",
@@ -98,6 +128,11 @@
     "url": "https://en.irna.ir/news/86174946/Iran-says-Israeli-strike-on-Lebanese-army-shows-hostility-toward",
     "title": "Iran says Israeli strike on Lebanese army shows hostility toward entire country",
     "published": "2026-06-06T15:14:03+00:00"
+  },
+  "f0e30ff72c63375a51dc0dde06344189d616ecec43bc063b13a2f85f13784490": {
+    "url": "https://www.defensenews.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/",
+    "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
+    "published": "2026-06-06T15:00:51+00:00"
   },
   "9946182968500497838a61325665668782c566ad3886a80b9b4ef677bcc69c81": {
     "url": "Middle_East_Spectator/32877",
@@ -233,6 +268,11 @@
     "url": "https://en.mehrnews.com/news/245064/Iran-severely-damaged-US-air-operations-center-in-Qatar",
     "title": "Iran severely damaged US air operations center in Qatar",
     "published": "2026-06-06T03:36:13+00:00"
+  },
+  "4ef98c7d91ba70d97973fde62fa4b7e74fb1a20320e2c850c3718aedd342c3b8": {
+    "url": "https://tass.com/politics/2143361",
+    "title": "Kiev troops shell DPR nine times in past day, two wounded",
+    "published": "2026-06-06T01:53:00+00:00"
   },
   "8d25418a33bb81e78a47dbc86c02aee0fbb0510accc2fdbb4133ad11cabbe36c": {
     "url": "https://tass.com/world/2143347",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/61071",
     "title": "Israeli Airstrikes Hit Gaza Residential Areas, Leaving Dozens Injured and Dead",
     "published": "2026-06-04T10:06:18.615137+00:00"
-  },
-  "6ca514683cff0b352150d1373281e59ff64853432a76fc53e64d4d82da4be89e": {
-    "url": "thecradlemedia/61076",
-    "title": "Lebanese President Aoun Hints at Last Chance for Agreement",
-    "published": "2026-06-04T10:05:47.803484+00:00"
-  },
-  "92f7cde7aa61b5804a88549cff9f9bb375f170cbf342458e1968592019030dbf": {
-    "url": "thecradlemedia/61077",
-    "title": "US Secretary of State Reiterates Denmark's Sovereignty Over Greenland Amid Washington's Strategic Interests",
-    "published": "2026-06-04T10:05:38.999548+00:00"
-  },
-  "37ba8e9351a5b77e85c47be412330fbc5397796f3f340e449b7d2e036791ba56": {
-    "url": "https://thecradle.co/articles-id/38052",
-    "title": "Israeli war chief vows continued strikes on Lebanon as part of \u2018conditional\u2019 truce",
-    "published": "2026-06-04T09:36:26+00:00"
-  },
-  "389608a4ecbed174b8c007fbf3d137b7021575c8ca10404bc1d906f23078bde1": {
-    "url": "https://tass.com/politics/2141217",
-    "title": "IN BRIEF: Ukrainian drone strikes target commuter train, kill civilians in Crimea",
-    "published": "2026-06-04T07:32:40+00:00"
-  },
-  "ae5a389ae183973a651f60a12ec07d5a3f87187137f0c93afb6190513be0e755": {
-    "url": "https://en.irna.ir/news/86173106/US-Patriot-missile-error-responsible-for-damage-at-Kuwait-airport",
-    "title": "US Patriot missile error responsible for damage at Kuwait airport: IRGC",
-    "published": "2026-06-04T05:46:54+00:00"
-  },
-  "e1dcf6a4324d78aed2a9fde02be676075b6440fa26f4b8a458238245a14efba4": {
-    "url": "warmonitors/44246",
-    "title": "Iranian Kamikaze Drone Damages Kuwait International Airport",
-    "published": "2026-06-04T04:32:27.592872+00:00"
-  },
-  "e41f31dff7738e47db63e31804a49750b5bdd5675dcc5ae730715e11fd791aaa": {
-    "url": "QudsNen/225945",
-    "title": "Gaza City Residential Apartment Fire Following Israeli Aerial Bombardment",
-    "published": "2026-06-04T04:26:43.194284+00:00"
-  },
-  "ded2b1e575b07f7eb6230742b000f870208ac88b696778777e526dfff149bc0b": {
-    "url": "QudsNen/225950",
-    "title": "Israeli Airstrikes Kill Civilians in Gaza City",
-    "published": "2026-06-04T04:25:19.599990+00:00"
   }
 }

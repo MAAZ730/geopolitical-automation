@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3715,
+  "total_calls": 3719,
   "tiers": {
-    "groq": 3696,
+    "groq": 3700,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-03T04:28:35.413152+00:00",
-      "tier": "groq",
-      "article": "US says it attacked Iran\u2019s Qeshm Island; Tehran targets Kuwait, Bahrain"
-    },
-    {
-      "timestamp": "2026-06-03T04:28:51.711345+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes US Navy's 5th Fleet HQ with missiles, drones"
-    },
-    {
-      "timestamp": "2026-06-03T04:29:17.204377+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-03T04:29:33.409075+00:00",
-      "tier": "groq",
-      "article": "US, Israel keep violating ceasefire on all fronts: Iran\u2019s Foreign Ministry"
-    },
     {
       "timestamp": "2026-06-03T11:08:46.763606+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-06T19:32:10.248947+00:00",
       "tier": "groq",
       "article": "Belgium education reform protests turn violent in central Brussels"
+    },
+    {
+      "timestamp": "2026-06-06T21:11:06.100223+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-06T21:11:22.402250+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-06T21:11:53.179745+00:00",
+      "tier": "groq",
+      "article": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up"
+    },
+    {
+      "timestamp": "2026-06-06T21:12:09.371484+00:00",
+      "tier": "groq",
+      "article": "Kiev troops shell DPR nine times in past day, two wounded"
     }
   ]
 }
