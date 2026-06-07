@@ -1,4 +1,34 @@
 {
+  "d139b87925c740b411268ef955164e6e2e081cefa16b888c905d9ddfe90ab691": {
+    "url": "QudsNen/226426",
+    "title": "Israeli Forces Raid Palestinian Family Home in West Bank",
+    "published": "2026-06-07T11:59:36.883992+00:00"
+  },
+  "2db60bf59f52ece62e06083f28cfa1039c447ce2185b22ae50cb3a09e8c44998": {
+    "url": "QudsNen/226434",
+    "title": "Israeli Airstrike Hits Police Post in Al-Mawasi, West of Khan Younis",
+    "published": "2026-06-07T11:58:23.723658+00:00"
+  },
+  "6b0b379697619a533a6f45535ddac174c3fa304c093e57169bd9e13f9e5b39b3": {
+    "url": "thecradlemedia/61320",
+    "title": "Israeli Drone Strike Misses Elderly Man in Maarakeh, South Lebanon",
+    "published": "2026-06-07T11:57:13.875591+00:00"
+  },
+  "72480b7c39dcc0155f7edc8afcfca8d9463045ecfd7ae847a00bd8c334735c0f": {
+    "url": "thecradlemedia/61322",
+    "title": "Israeli Forces Raid Palestinian Home in Response to Settlement Attack",
+    "published": "2026-06-07T11:56:59.090798+00:00"
+  },
+  "9b9164bb422e087fc1980b73ba9ae413a50633c1b2fab7ec25c31e0af273245e": {
+    "url": "thecradlemedia/61326",
+    "title": "Iranians Express Pessimism Over US Deal Prospects Amid Ongoing Tensions",
+    "published": "2026-06-07T11:55:46.664447+00:00"
+  },
+  "d40ce6a75d18351f069c709cf5e70a349bdffe5ebe3c3623a8c0efea8b942156": {
+    "url": "thecradlemedia/61330",
+    "title": "US Seeks to Tap Iranian Assets for Gulf Reconstruction Amid Ongoing Negotiations",
+    "published": "2026-06-07T11:55:38.556013+00:00"
+  },
   "75a1ab2753b2ddbfc4a2f19695bd297a70ef6fc2cd78f5f9428ce3d3b01fcc5d": {
     "url": "mod_russia_en/27410",
     "title": "Russian Forces Secure Shevchenko in Kharkiv Region",
@@ -268,6 +298,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/groom-killed-hours-before-his-wedding-in-gaza?traffic_source=rss",
     "title": "Groom killed hours before his wedding in Gaza",
     "published": "2026-06-06T12:29:42+00:00"
+  },
+  "1edc0d3419edccf68d59704b84e4f8c98da4bf30aebd95473a75045f693203c1": {
+    "url": "https://tass.com/politics/2143545",
+    "title": "Russia expects Egyptian president to attend Russia-Africa summit \u2014 Kobyakov",
+    "published": "2026-06-06T12:15:36+00:00"
   },
   "5e130ea85c20f14a96e41955e92a0e1d21e11bd4acfd59ef9fb492bd26f4463a": {
     "url": "https://www.rt.com/news/641116-turkish-boat-attacked-crimea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -713,40 +748,5 @@
     "url": "militarywave/23948",
     "title": "Baikonur Cosmodrome Celebrates Birthday with Historic Soyuz-5 Launch",
     "published": "2026-06-04T20:24:23.676738+00:00"
-  },
-  "582045720ec302a35d2d436e47b47c665c2a5f722590b4a99a37ef5f18b730ea": {
-    "url": "militarywave/23951",
-    "title": "Ukrainian Attack on Starobelsk College: Residents Risk Lives to Rescue Survivors",
-    "published": "2026-06-04T20:23:28.730266+00:00"
-  },
-  "24ef588716dc74f8621c0417e5e87459c027bb7f655b6167c8de3b318d134cc4": {
-    "url": "DDGeopolitics/185761",
-    "title": "Lavrov: US-Israeli Aggression Targeted Arab-Iran Rapprochement",
-    "published": "2026-06-04T20:17:53.480350+00:00"
-  },
-  "35dce03319dbfb0654a6f1f6a8a0ad6835d71c8e7d1d5b0e2ee24e4dff4c8f48": {
-    "url": "QudsNen/226064",
-    "title": "Israeli Forces Storm Anza Village in Jenin",
-    "published": "2026-06-04T20:15:20.965570+00:00"
-  },
-  "e9774cc31cd97f08e31d2bddef8174ab18249292940be7fea7537b0b1df1a6bd": {
-    "url": "thecradlemedia/61133",
-    "title": "Russia Calls for Immediate Israeli Withdrawal from Lebanon",
-    "published": "2026-06-04T20:14:33.063178+00:00"
-  },
-  "25be88f2e5d4507f09920833886fdbc7d9b839cea6d79d491ec03e7c31639dbd": {
-    "url": "thecradlemedia/61134",
-    "title": "Iraqi Shia Militia Defies Disarmament Pressure",
-    "published": "2026-06-04T20:14:32.378254+00:00"
-  },
-  "58bd18be47c36b7aafd3f182a3f2bec4d8e298a30a741c058fdd3cecc1f55e6a": {
-    "url": "https://en.mehrnews.com/news/245042/Handala-says-senior-Mossad-official-killed-in-car-bombing",
-    "title": "Handala says senior Mossad official killed in car bombing",
-    "published": "2026-06-04T19:54:49+00:00"
-  },
-  "457da440cc94514446c881b4d4023b4a7eb19d10219c0847621b7fc837399c58": {
-    "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-    "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-    "published": "2026-06-04T18:59:43+00:00"
   }
 }
