@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3743,
+  "total_calls": 3747,
   "tiers": {
-    "groq": 3724,
+    "groq": 3728,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-04T12:54:22.219654+00:00",
-      "tier": "groq",
-      "article": "Sheikh Qassem: We have made no commitment to anyone to stop resisting or responding to aggression. As long as it continues, we will confront it with all our might, strike where we choose and can, and as long as our villages are bombed and our people killed, the Israeli settlements will not be safe - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-04T12:54:53.727721+00:00",
-      "tier": "groq",
-      "article": "Israeli war chief vows continued strikes on Lebanon as part of \u2018conditional\u2019 truce"
-    },
-    {
-      "timestamp": "2026-06-04T12:55:11.423975+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-04T12:55:48.155249+00:00",
-      "tier": "groq",
-      "article": "Resistance to continue til foreigners expelled from region"
-    },
     {
       "timestamp": "2026-06-04T16:58:44.845569+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-07T15:45:00.016896+00:00",
       "tier": "groq",
       "article": "From Finland to Greece: How Ukraine\u2019s drones keep hitting its EU backers"
+    },
+    {
+      "timestamp": "2026-06-07T17:24:57.096465+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-07T17:25:29.713794+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-07T17:25:45.661748+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-07T17:26:01.636194+00:00",
+      "tier": "groq",
+      "article": "West ignores Kiev's state terrorism \u2014 Russia's top senator"
     }
   ]
 }

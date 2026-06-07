@@ -1,4 +1,34 @@
 {
+  "d9f1cd85e4809aa886dd3206cdcd7427cc7d9897ad091c0b89a1210e5aca6694": {
+    "url": "QudsNen/226480",
+    "title": "Israeli Airstrikes Devastate Residential Building in Al-Housh, Tyre",
+    "published": "2026-06-07T17:31:01.352232+00:00"
+  },
+  "e519ffadc14feefe05e3b041df20ee80123dfeaa5eeb1cb8a6e7490d0708d09c": {
+    "url": "QudsNen/226483",
+    "title": "Israeli Aerial Bombardment Causes Infrastructure Damage in Tyre",
+    "published": "2026-06-07T17:29:35.701073+00:00"
+  },
+  "132bfec346c3544718da662769389a89c194938f1831afc3418f2f8c785daf88": {
+    "url": "QudsNen/226484",
+    "title": "Israeli Airstrike Claims Life of Palestinian Youth in Gaza City",
+    "published": "2026-06-07T17:27:36.383854+00:00"
+  },
+  "842065f3a38131a7689d5945a99e8d438de493d83ebdff07eda3458274aa3dd6": {
+    "url": "QudsNen/226496",
+    "title": "Israeli Drones Spotted Over Sidon, Lebanon",
+    "published": "2026-06-07T17:26:44.077681+00:00"
+  },
+  "a8065ac7fb08c0b0313001201df6addecde9196ccb7001bb51daf4783acadd2c": {
+    "url": "Middle_East_Spectator/32919",
+    "title": "Iran Warns US and Israel Over Naval Blockade and Alleged Violations",
+    "published": "2026-06-07T17:26:08.381750+00:00"
+  },
+  "422f902a9d81ce82ea4fd491e2d57b87b70727e20f5ac38196ea57245d610a03": {
+    "url": "thecradlemedia/61348",
+    "title": "Iran Vows Retaliation as US Greenlights Israeli Action",
+    "published": "2026-06-07T17:26:06.651910+00:00"
+  },
   "63620c89badafb62f687f762330537319a1445ed644c208f873f64c3c8d059d1": {
     "url": "DDGeopolitics/185967",
     "title": "US-Iran Tensions Escalate Amid 'Military Exercise' Claims",
@@ -228,6 +258,11 @@
     "url": "https://www.aljazeera.com/news/2026/6/6/rights-group-says-drone-strike-kills-11-in-central-sudan-market?traffic_source=rss",
     "title": "Rights group says drone strike kills 11 in central Sudan market",
     "published": "2026-06-06T20:54:09+00:00"
+  },
+  "a236c8364622839a33c33b12f63dc7688648322d02a378b8713b0bb0d2f0df26": {
+    "url": "https://tass.com/politics/2143601",
+    "title": "West ignores Kiev's state terrorism \u2014 Russia's top senator",
+    "published": "2026-06-06T20:06:01+00:00"
   },
   "c96fac44ba189dc2a099bc06a43cf49830c15b2ccd239c05328ef5876f4d0675": {
     "url": "DDGeopolitics/185907",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/61155",
     "title": "Israeli Warplane Spotted Over Nabatieh District in Southern Lebanon",
     "published": "2026-06-05T10:07:03.039138+00:00"
-  },
-  "fac256bf4771cc47a686c4aee0cc0961fef43169feddd9db9f2598a337723c5a": {
-    "url": "thecradlemedia/61160",
-    "title": "Israeli Airstrike Hits Vehicle in South Lebanon",
-    "published": "2026-06-05T10:06:20.553130+00:00"
-  },
-  "22e6307597759e39b3013bd4912707a161a431178401150aa123b94fe9fd4758": {
-    "url": "thecradlemedia/61167",
-    "title": "Israeli Warplanes Strike Kawthariyet al-Siyad in South Lebanon",
-    "published": "2026-06-05T10:02:53.897046+00:00"
-  },
-  "cf56cb1adb9295fdb5349c8c5461ba9bbd3bf2c7effd0edac678743944fad240": {
-    "url": "thecradlemedia/61169",
-    "title": "Iran Issues Warning to Israel Over Threats to Lebanon",
-    "published": "2026-06-05T10:02:51.738903+00:00"
-  },
-  "01b83502d41268c2281783fc2cfef3fe306e834d9515665d1ea8b66f959246c6": {
-    "url": "https://english.almanar.com.lb/article/86452/",
-    "title": "AL-Manar correspondents in south Lebanon report Israeli airstrikes on towns of Anqoun, Kfar Fila and Qlaileh - Al-Manar TV Lebanon",
-    "published": "2026-06-05T08:49:28+00:00"
-  },
-  "04e903cd01559aacb73ccc3db1616cc5896bcbfa478af79555c56c3173d2fdca": {
-    "url": "https://tass.com/politics/2142203",
-    "title": "Ukraine carries out 165 artillery strikes on border areas in Kursk Region in past day",
-    "published": "2026-06-05T07:13:56+00:00"
-  },
-  "7e7a130ede63384c8080908d24d7cdfaae968ff9b418b0a5da17b83983235096": {
-    "url": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
-    "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-    "published": "2026-06-05T06:01:07+00:00"
-  },
-  "cb472d5d68e6726cd99dfcfc8a1061d149091454390b6139f3b84b7298f2c2c8": {
-    "url": "https://en.mehrnews.com/news/245044/1963-Uprising-Turning-point-in-Iran-s-contemporary-history",
-    "title": "1963 Uprising; a turning point in Iran\u2019s contemporary history",
-    "published": "2026-06-05T05:21:26+00:00"
   }
 }
