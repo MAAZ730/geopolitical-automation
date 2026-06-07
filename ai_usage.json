@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3751,
+  "total_calls": 3755,
   "tiers": {
-    "groq": 3732,
+    "groq": 3736,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-04T20:12:34.510741+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-04T20:13:15.344722+00:00",
-      "tier": "groq",
-      "article": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022"
-    },
-    {
-      "timestamp": "2026-06-04T20:14:00.893437+00:00",
-      "tier": "groq",
-      "article": "Head of Metula settlement: The state has left us to live again under warnings and missiles - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-04T20:14:18.692284+00:00",
-      "tier": "groq",
-      "article": "Hezbollah cannot be eliminated, ignored despite all attempts"
-    },
     {
       "timestamp": "2026-06-04T23:14:17.533399+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-07T19:36:27.037522+00:00",
       "tier": "groq",
       "article": "Pentagon sounds alarm over Israeli spying on US \u2013 NBC"
+    },
+    {
+      "timestamp": "2026-06-07T21:20:38.026145+00:00",
+      "tier": "groq",
+      "article": "IDF identifies two missile launches from Iran in 15 minutes"
+    },
+    {
+      "timestamp": "2026-06-07T21:20:58.207200+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-07T21:21:17.838055+00:00",
+      "tier": "groq",
+      "article": "Death toll from Israeli attacks on Lebanon exceeds 3,610 \u2014 health ministry"
+    },
+    {
+      "timestamp": "2026-06-07T21:21:36.950763+00:00",
+      "tier": "groq",
+      "article": "Germany\u2019s rejection of gas supplies over Nord Stream cannot be rationally explained"
     }
   ]
 }
