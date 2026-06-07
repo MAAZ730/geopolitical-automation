@@ -1,4 +1,34 @@
 {
+  "31d3a6b5ed0e5055f37b4de417f6a74af8488adffbbbbc8d73df33151fdab3c3": {
+    "url": "Slavyangrad/165918",
+    "title": "Russia Deploys Gay-Themed Pornbots Amid Escalating Online Tensions",
+    "published": "2026-06-07T04:23:20.597118+00:00"
+  },
+  "a2a88e6993a2c382a4f162a774cf724989eab9f4fe4a8c7dcc65e6c17ba448af": {
+    "url": "intelslava/88476",
+    "title": "Moscow Air Defense Systems Deployment",
+    "published": "2026-06-07T04:22:56.427577+00:00"
+  },
+  "cdecbb6253368fcd8fe53c3d4dc578ab1e21f8553adeebc8981747bdcabbaced": {
+    "url": "intelslava/88481",
+    "title": "Iran Launches Medium-Range Ballistic Missiles Towards Kuwait",
+    "published": "2026-06-07T04:21:59.243264+00:00"
+  },
+  "49fc6cbdffcf38e9325b9d4e28b9a635e8025769550ed2c3d1c62a27d0eab873": {
+    "url": "QudsNen/226385",
+    "title": "Israeli Tourists Clash with Brazilians over Palestinian Flag Incident",
+    "published": "2026-06-07T04:20:49.581130+00:00"
+  },
+  "1a7b2aaf044ee50f1407ed3fc7f4c15c0cdb364e2c39eb2395cf07db5e1acbc1": {
+    "url": "Middle_East_Spectator/32876",
+    "title": "Israel Bombs Lebanese Army Convoy, Kills High-Ranking Officer",
+    "published": "2026-06-07T04:18:18.762208+00:00"
+  },
+  "bc17e0f69b8fb90361712322e98ebc21c77f1baf5bf644a4903d6b23307e0e10": {
+    "url": "Middle_East_Spectator/32888",
+    "title": "US Forces Down Two Iranian Drones in Middle East",
+    "published": "2026-06-07T04:18:13.598847+00:00"
+  },
   "31eee61631ad5d8d8ee3482901859e67ddad34d87f5dd0d02f66860b451fb3ed": {
     "url": "intelslava/88485",
     "title": "Israeli Airstrike Targets Residential Building in Khan Yunis",
@@ -268,6 +298,11 @@
     "url": "QudsNen/226251",
     "title": "Israeli Airstrike Kills Lebanese Soldiers on Khaldiyah-Nabatieh Road",
     "published": "2026-06-06T07:00:12.333899+00:00"
+  },
+  "8c71642968188d9208fefbb7ae9b7e841b35cd441c696ed6574e7b0197929b27": {
+    "url": "https://tass.com/world/2143385",
+    "title": "US led over 100 vessels via Strait of Hormuz in May \u2014 NYT",
+    "published": "2026-06-06T04:41:03+00:00"
   },
   "3f2ae39f6d5a672d23ed2f947601fc1bc6eb3a175af58a5d3196ef21016d897d": {
     "url": "QudsNen/226226",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/61129",
     "title": "Tel Aviv Car Bombing Targets Senior Mossad Official",
     "published": "2026-06-04T17:00:29.650622+00:00"
-  },
-  "9a1558ec64b3e5c9d0901975acbe960cb24ca02aa12f22e3ba3b74ca2f673850": {
-    "url": "https://thecradle.co/articles-id/38071",
-    "title": "Kataib Hezbollah rejects calls to disarm, says Islamic Resistance in Iraq will stand firm against foreign threats",
-    "published": "2026-06-04T16:34:19+00:00"
-  },
-  "02f8ebbd63f4af430298eaca83c80a0470e1b0995a351296ca5390fa32ca176d": {
-    "url": "https://thecradle.co/articles-id/38065",
-    "title": "IRGC refutes allegations it bombed Kuwait airport as &#039;flimsy fabrication&#039;",
-    "published": "2026-06-04T14:19:24+00:00"
-  },
-  "380f5468c4931c1104ee191aeb0d587b54d3895162abf42731c46ea9a46714e1": {
-    "url": "https://www.rt.com/news/640955-trump-new-ceasefire-definition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Trump redefines \u2018ceasefire\u2019",
-    "published": "2026-06-04T13:39:20+00:00"
-  },
-  "1908c4ae4094e13802420146ee3bb04bed6029d9cdcde1cecb797596184abd4e": {
-    "url": "DDGeopolitics/185718",
-    "title": "Israeli Politician Ben Gvir Casts Doubt on Lebanon Ceasefire",
-    "published": "2026-06-04T13:00:32.228427+00:00"
-  },
-  "c4432352fdd08685ba3a3998e9e340e49db0d7dce2323d4928924ad161271166": {
-    "url": "QudsNen/226017",
-    "title": "Israeli Airstrike Hits Residential Apartment in Southern Lebanon",
-    "published": "2026-06-04T12:59:25.725418+00:00"
-  },
-  "8b2da1b22177525941a4b3b68557ac52adef4ef5f6d9a6be645903430324d4e8": {
-    "url": "thecradlemedia/61095",
-    "title": "Hezbollah Drone Attack Targets Israeli Northern Commander",
-    "published": "2026-06-04T12:59:08.152239+00:00"
-  },
-  "b6286c5c6a404a3fe261d94aa0026db19f916e7920bc3cdc5a6823c7b1b3569f": {
-    "url": "thecradlemedia/61096",
-    "title": "Israeli Airstrikes Cause Widespread Destruction in Tebnine, Lebanon",
-    "published": "2026-06-04T12:59:06.833956+00:00"
   }
 }
