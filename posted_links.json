@@ -1,8 +1,43 @@
 {
+  "75a1ab2753b2ddbfc4a2f19695bd297a70ef6fc2cd78f5f9428ce3d3b01fcc5d": {
+    "url": "mod_russia_en/27410",
+    "title": "Russian Forces Secure Shevchenko in Kharkiv Region",
+    "published": "2026-06-07T09:26:39.745300+00:00"
+  },
+  "aa7ebcf2b2315d0c63cb5bafe93639ceff1c622f20a9ac3eb4adadb1c592f084": {
+    "url": "mod_russia_en/27419",
+    "title": "Russian Artillery Strikes AFU Positions in Zaporozhye Region",
+    "published": "2026-06-07T09:25:05.714978+00:00"
+  },
+  "a8d395cdbbd707a2fcef9eea5cba1a56c4b81796fabb946ef273908e6088edd2": {
+    "url": "Slavyangrad/165933",
+    "title": "SKB Piranha to Begin Mass Production of Interceptor UAV",
+    "published": "2026-06-07T09:24:23.111723+00:00"
+  },
+  "033feb8fdb00dda889982b8a96f362961a08ae07d43a39bbe0335c8da2121c62": {
+    "url": "intelslava/88491",
+    "title": "Explosion Rocks Post Office in Kiev Region",
+    "published": "2026-06-07T09:23:43.301570+00:00"
+  },
+  "ae5bbe00ebb5806f608fce11588897dbc3228ee472db467fc7c1033df9e949fa": {
+    "url": "thecradlemedia/61308",
+    "title": "Israeli Airstrikes and Shelling Continue in Gaza Strip",
+    "published": "2026-06-07T09:23:07.781537+00:00"
+  },
+  "4ecd27921a309a3e85cc7c693f47cd0d1322474d65dff76ccdcf120ed7aeef4f": {
+    "url": "thecradlemedia/61313",
+    "title": "Israeli Strikes Hit Multiple Locations in Southern Lebanon",
+    "published": "2026-06-07T09:23:06.252424+00:00"
+  },
   "31d3a6b5ed0e5055f37b4de417f6a74af8488adffbbbbc8d73df33151fdab3c3": {
     "url": "Slavyangrad/165918",
     "title": "Russia Deploys Gay-Themed Pornbots Amid Escalating Online Tensions",
     "published": "2026-06-07T04:23:20.597118+00:00"
+  },
+  "5e91d2f1e3dcc105ba14a209e16eb70ed345d47ffe8f3bc2bc0aff517d948f32": {
+    "url": "https://en.mehrnews.com/news/245097/Dozens-killed-injured-during-fresh-Israel-strikes-on-Lebanon",
+    "title": "Tens killed, injured during fresh Israel strikes on Lebanon",
+    "published": "2026-06-07T04:22:58+00:00"
   },
   "a2a88e6993a2c382a4f162a774cf724989eab9f4fe4a8c7dcc65e6c17ba448af": {
     "url": "intelslava/88476",
@@ -713,40 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
     "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
     "published": "2026-06-04T18:59:43+00:00"
-  },
-  "11a1d77768d55d0906ba6405ee13abe159c116e3c681bdfe8fa3de13ce16589b": {
-    "url": "https://english.almanar.com.lb/article/86217/",
-    "title": "Head of Metula settlement: The state has left us to live again under warnings and missiles - Al-Manar TV Lebanon",
-    "published": "2026-06-04T17:08:22+00:00"
-  },
-  "52caed18cb6d45a8f9e74db34923397ba42cdd35d1f0fb8cef63bae569c1c31b": {
-    "url": "QudsNen/226055",
-    "title": "Israeli Airstrikes Hit Tyre, Southern Lebanon",
-    "published": "2026-06-04T17:02:40.361785+00:00"
-  },
-  "8eab0d4439461eb85fa5cf82edd370e75be4d0f25d0b88c94cf5c9cd8f7b4d5f": {
-    "url": "Middle_East_Spectator/32842",
-    "title": "Hezbollah Launches Rocket and Drone Attacks on Northern Israel",
-    "published": "2026-06-04T17:02:15.045321+00:00"
-  },
-  "87f32e9e430676451adb2873c9798872e2130c7741077d9bed1e5a62b59138b4": {
-    "url": "thecradlemedia/61111",
-    "title": "Tel Aviv Car Bombing: Handala Claims Responsibility",
-    "published": "2026-06-04T17:01:53.075562+00:00"
-  },
-  "4f81b0aa51a8ecc05b7505fd1c128f4d250d8f424070c31b5b35db31415fa938": {
-    "url": "thecradlemedia/61121",
-    "title": "Israeli Missile Interceptors Activated Over Upper Galilee",
-    "published": "2026-06-04T17:01:35.084345+00:00"
-  },
-  "46a81ac03d880ae27eb68c991047e31e98102572821409b392861be5dbd82e24": {
-    "url": "thecradlemedia/61124",
-    "title": "Lebanon Withdrawal Deal Sparks Hezbollah Outrage",
-    "published": "2026-06-04T17:00:30.817318+00:00"
-  },
-  "ad5a2cbdb582cbb4d1bc0fb6dc6eaaa9d17d4f32e09e2eb28ed4cdec58cff542": {
-    "url": "thecradlemedia/61129",
-    "title": "Tel Aviv Car Bombing Targets Senior Mossad Official",
-    "published": "2026-06-04T17:00:29.650622+00:00"
   }
 }
