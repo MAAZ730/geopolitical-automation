@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3739,
+  "total_calls": 3743,
   "tiers": {
-    "groq": 3720,
+    "groq": 3724,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-04T10:03:53.663123+00:00",
-      "tier": "groq",
-      "article": "US Patriot missile error responsible for damage at Kuwait airport: IRGC"
-    },
-    {
-      "timestamp": "2026-06-04T10:04:30.088983+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Ukrainian drone strikes target commuter train, kill civilians in Crimea"
-    },
-    {
-      "timestamp": "2026-06-04T10:04:48.365972+00:00",
-      "tier": "groq",
-      "article": "Tehran only strikes back at targets used by US to attack Iran \u2014 Araghchi"
-    },
-    {
-      "timestamp": "2026-06-04T10:05:31.544544+00:00",
-      "tier": "groq",
-      "article": "At a NATO range in Latvia, hits and misses mark Europe\u2019s counter-drone journey"
-    },
     {
       "timestamp": "2026-06-04T12:54:22.219654+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-07T14:04:52.703713+00:00",
       "tier": "groq",
       "article": "Pentagon voices concern over Israel\u2019s increased intelligence activities in US \u2014 media"
+    },
+    {
+      "timestamp": "2026-06-07T15:43:25.838734+00:00",
+      "tier": "groq",
+      "article": "Hezbollah reports 18 precise strikes so far on Sunday, targeting Israeli occupation army gatherings of vehicles and soldiers and key sites, settlements with guided missiles, rocket barrages, and attack drones in response to aggression against Lebanese areas: Military media statements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-07T15:43:57.444430+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-07T15:44:43.683719+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-07T15:45:00.016896+00:00",
+      "tier": "groq",
+      "article": "From Finland to Greece: How Ukraine\u2019s drones keep hitting its EU backers"
     }
   ]
 }
