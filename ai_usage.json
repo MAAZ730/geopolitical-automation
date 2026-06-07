@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3747,
+  "total_calls": 3751,
   "tiers": {
-    "groq": 3728,
+    "groq": 3732,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-04T16:58:44.845569+00:00",
-      "tier": "groq",
-      "article": "IRGC refutes allegations it bombed Kuwait airport as &#039;flimsy fabrication&#039;"
-    },
-    {
-      "timestamp": "2026-06-04T16:59:02.282294+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-04T16:59:26.561706+00:00",
-      "tier": "groq",
-      "article": "Kuwait releases VIDEO of \u2018Iranian drone\u2019 hitting airport"
-    },
-    {
-      "timestamp": "2026-06-04T17:00:19.854060+00:00",
-      "tier": "groq",
-      "article": "Will Hungary\u2019s Peter Magyar let Ukraine join the EU?"
-    },
     {
       "timestamp": "2026-06-04T20:12:34.510741+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-07T17:26:01.636194+00:00",
       "tier": "groq",
       "article": "West ignores Kiev's state terrorism \u2014 Russia's top senator"
+    },
+    {
+      "timestamp": "2026-06-07T19:35:24.083985+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-07T19:35:54.593934+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-07T19:36:10.696816+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-07T19:36:27.037522+00:00",
+      "tier": "groq",
+      "article": "Pentagon sounds alarm over Israeli spying on US \u2013 NBC"
     }
   ]
 }
