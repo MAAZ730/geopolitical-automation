@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3755,
+  "total_calls": 3759,
   "tiers": {
-    "groq": 3736,
+    "groq": 3740,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-04T23:14:17.533399+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-04T23:14:50.645738+00:00",
-      "tier": "groq",
-      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
-    },
-    {
-      "timestamp": "2026-06-04T23:15:06.692933+00:00",
-      "tier": "groq",
-      "article": "Handala says senior Mossad official killed in car bombing"
-    },
-    {
-      "timestamp": "2026-06-04T23:15:24.499354+00:00",
-      "tier": "groq",
-      "article": "US considers expanding nuclear weapons deployments to more European NATO states, FT reports"
-    },
     {
       "timestamp": "2026-06-05T04:07:08.412432+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-07T21:21:36.950763+00:00",
       "tier": "groq",
       "article": "Germany\u2019s rejection of gas supplies over Nord Stream cannot be rationally explained"
+    },
+    {
+      "timestamp": "2026-06-07T23:13:17.642481+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-07T23:13:51.242438+00:00",
+      "tier": "groq",
+      "article": "Iran threatens even more massive strikes if Israel retaliates \u2014 military command"
+    },
+    {
+      "timestamp": "2026-06-07T23:14:09.693058+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-07T23:14:25.710363+00:00",
+      "tier": "groq",
+      "article": "Royal Navy spent third of its combat deployment to track Russian submarines"
     }
   ]
 }
