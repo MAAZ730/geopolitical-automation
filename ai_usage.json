@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3735,
+  "total_calls": 3739,
   "tiers": {
-    "groq": 3716,
+    "groq": 3720,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-04T04:21:09.422707+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-06-04T04:21:42.876180+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on school in Gaza Strip kills 18 people \u2014 TV"
-    },
-    {
-      "timestamp": "2026-06-04T04:22:01.886531+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-04T04:22:38.429377+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-06-04T10:03:53.663123+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-07T11:55:30.442180+00:00",
       "tier": "groq",
       "article": "Russia expects Egyptian president to attend Russia-Africa summit \u2014 Kobyakov"
+    },
+    {
+      "timestamp": "2026-06-07T14:03:55.683967+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-07T14:04:12.210819+00:00",
+      "tier": "groq",
+      "article": "Man killed in Ukrainian drone attack on Russia\u2019s Kursk Region \u2014 governor"
+    },
+    {
+      "timestamp": "2026-06-07T14:04:35.771622+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-07T14:04:52.703713+00:00",
+      "tier": "groq",
+      "article": "Pentagon voices concern over Israel\u2019s increased intelligence activities in US \u2014 media"
     }
   ]
 }
