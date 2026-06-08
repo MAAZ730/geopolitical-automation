@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3759,
+  "total_calls": 3763,
   "tiers": {
-    "groq": 3740,
+    "groq": 3744,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-05T04:07:08.412432+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-05T04:07:44.679029+00:00",
-      "tier": "groq",
-      "article": "Israeli strikes kill 8 in Lebanon as Hezbollah rejects \u2018shameless surrender\u2019"
-    },
-    {
-      "timestamp": "2026-06-05T04:08:02.131017+00:00",
-      "tier": "groq",
-      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
-    },
-    {
-      "timestamp": "2026-06-05T04:08:18.112936+00:00",
-      "tier": "groq",
-      "article": "Airbnb host has been sued over alleged discrimination, The Independent reports"
-    },
     {
       "timestamp": "2026-06-05T10:01:10.129573+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-07T23:14:25.710363+00:00",
       "tier": "groq",
       "article": "Royal Navy spent third of its combat deployment to track Russian submarines"
+    },
+    {
+      "timestamp": "2026-06-08T04:22:00.612411+00:00",
+      "tier": "groq",
+      "article": "One killed, one injured as Ukrainian drone hits Moscow-Simferopol train \u2014 head of Crimea"
+    },
+    {
+      "timestamp": "2026-06-08T04:22:35.395358+00:00",
+      "tier": "groq",
+      "article": "Iran foreign ministry issues statement after attack on Israel"
+    },
+    {
+      "timestamp": "2026-06-08T04:22:55.021526+00:00",
+      "tier": "groq",
+      "article": "Iran and Israel trade threats after Tehran launches missiles"
+    },
+    {
+      "timestamp": "2026-06-08T04:23:10.992755+00:00",
+      "tier": "groq",
+      "article": "Sister of North Korea\u2019s leader reaffirms country\u2019s status as nuclear power is irreversible"
     }
   ]
 }
