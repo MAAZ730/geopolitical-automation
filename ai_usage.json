@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3771,
+  "total_calls": 3775,
   "tiers": {
-    "groq": 3752,
+    "groq": 3756,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-05T16:31:30.688363+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-05T16:31:47.304298+00:00",
-      "tier": "groq",
-      "article": "Starlink becomes integral component of US-Israel war on Iran"
-    },
-    {
-      "timestamp": "2026-06-05T16:32:05.146428+00:00",
-      "tier": "groq",
-      "article": "Iran Army warning shots force US destroyers flee Oman Sea"
-    },
-    {
-      "timestamp": "2026-06-05T16:32:22.001454+00:00",
-      "tier": "groq",
-      "article": "Kataib Hezbollah rejects calls to disarm, says Islamic Resistance in Iraq will stand firm against foreign threats"
-    },
     {
       "timestamp": "2026-06-05T20:00:06.116529+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-08T16:02:47.948325+00:00",
       "tier": "groq",
       "article": "Canada halts Texas livestock imports over screwworm outbreak"
+    },
+    {
+      "timestamp": "2026-06-08T18:31:48.555292+00:00",
+      "tier": "groq",
+      "article": "US did not help Israel in repelling Iranian missile strike \u2014 journalist"
+    },
+    {
+      "timestamp": "2026-06-08T18:32:21.881985+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-08T18:32:38.246968+00:00",
+      "tier": "groq",
+      "article": "IRGC launches retaliatory strike on petrochemical plant in Haifa"
+    },
+    {
+      "timestamp": "2026-06-08T18:32:54.184822+00:00",
+      "tier": "groq",
+      "article": "US Army set to execute its own service members for first time in 65 years \u2013 ABC News"
     }
   ]
 }
