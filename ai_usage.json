@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3779,
+  "total_calls": 3783,
   "tiers": {
-    "groq": 3760,
+    "groq": 3764,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-05T21:44:04.276341+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-05T21:44:42.513319+00:00",
-      "tier": "groq",
-      "article": "\u2018Pervasive fear\u2019 grips Gaza as Israeli attacks persist despite ceasefire"
-    },
-    {
-      "timestamp": "2026-06-05T21:45:28.906363+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-05T21:46:22.476682+00:00",
-      "tier": "groq",
-      "article": "Hezbollah rejects US-backed Israel-Lebanon ceasefire"
-    },
     {
       "timestamp": "2026-06-05T23:15:59.229057+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-08T21:56:39.039147+00:00",
       "tier": "groq",
       "article": "Europe no longer part of Iran's nuclear negotiations"
+    },
+    {
+      "timestamp": "2026-06-08T23:16:38.887577+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-08T23:17:12.919050+00:00",
+      "tier": "groq",
+      "article": "Ceasefire on paper, violations in practice equation disrupted"
+    },
+    {
+      "timestamp": "2026-06-08T23:17:31.408318+00:00",
+      "tier": "groq",
+      "article": "Lebanon says Israel has bombed it nearly 3,500 times"
+    },
+    {
+      "timestamp": "2026-06-08T23:17:49.071691+00:00",
+      "tier": "groq",
+      "article": "US responsible for outcomes of escalating tension in region"
     }
   ]
 }
