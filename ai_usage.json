@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3763,
+  "total_calls": 3767,
   "tiers": {
-    "groq": 3744,
+    "groq": 3748,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-05T10:01:10.129573+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-05T10:01:26.979397+00:00",
-      "tier": "groq",
-      "article": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues"
-    },
-    {
-      "timestamp": "2026-06-05T10:01:56.997845+00:00",
-      "tier": "groq",
-      "article": "AL-Manar correspondents in south Lebanon report Israeli airstrikes on towns of Anqoun, Kfar Fila and Qlaileh - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-05T10:02:48.290746+00:00",
-      "tier": "groq",
-      "article": "Lebanon-Israel ceasefire deal made in 'hope rather than expectation'"
-    },
     {
       "timestamp": "2026-06-05T12:45:53.864995+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-08T04:23:10.992755+00:00",
       "tier": "groq",
       "article": "Sister of North Korea\u2019s leader reaffirms country\u2019s status as nuclear power is irreversible"
+    },
+    {
+      "timestamp": "2026-06-08T11:05:25.910955+00:00",
+      "tier": "groq",
+      "article": "Israel comes under new Iranian missile attack, explosions heard in center \u2014 IDF"
+    },
+    {
+      "timestamp": "2026-06-08T11:06:00.033211+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-08T11:06:46.944497+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes Haifa in retaliation for petchem attack"
+    },
+    {
+      "timestamp": "2026-06-08T11:07:05.551124+00:00",
+      "tier": "groq",
+      "article": "Top Russian senator advises Zelensky to cancel his ban on negotiations with Moscow"
     }
   ]
 }
