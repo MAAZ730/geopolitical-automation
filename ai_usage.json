@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3775,
+  "total_calls": 3779,
   "tiers": {
-    "groq": 3756,
+    "groq": 3760,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-05T20:00:06.116529+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-05T20:00:23.247536+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-05T20:00:39.400352+00:00",
-      "tier": "groq",
-      "article": "US Destroyers Flee Sea of Oman after Iran Navy\u2019s Warning Shots - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-05T20:01:01.206582+00:00",
-      "tier": "groq",
-      "article": "German man fined month\u2019s income for calling Merz \u2018lying Fritz\u2019"
-    },
     {
       "timestamp": "2026-06-05T21:44:04.276341+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-08T18:32:54.184822+00:00",
       "tier": "groq",
       "article": "US Army set to execute its own service members for first time in 65 years \u2013 ABC News"
+    },
+    {
+      "timestamp": "2026-06-08T21:55:08.816738+00:00",
+      "tier": "groq",
+      "article": "CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine"
+    },
+    {
+      "timestamp": "2026-06-08T21:55:24.932187+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-08T21:55:47.424073+00:00",
+      "tier": "groq",
+      "article": "\u2018We basically lost\u2019: Tel Aviv residents react after Israel-Iran strikes"
+    },
+    {
+      "timestamp": "2026-06-08T21:56:39.039147+00:00",
+      "tier": "groq",
+      "article": "Europe no longer part of Iran's nuclear negotiations"
     }
   ]
 }
