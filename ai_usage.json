@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3803,
+  "total_calls": 3807,
   "tiers": {
-    "groq": 3784,
+    "groq": 3788,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-06T15:22:06.583709+00:00",
-      "tier": "groq",
-      "article": "Iran says Israeli strike on Lebanese army shows hostility toward entire country"
-    },
-    {
-      "timestamp": "2026-06-06T15:22:38.242507+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-06-06T15:22:58.093512+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T15:23:33.586757+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-06-06T17:19:26.311086+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-09T18:15:21.287508+00:00",
       "tier": "groq",
       "article": "Berlin protesters demand Merz resign (VIDEO)"
+    },
+    {
+      "timestamp": "2026-06-09T21:50:54.452881+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-09T21:51:28.471824+00:00",
+      "tier": "groq",
+      "article": "US struck Kuwait with copied Iranian drone to sell it air defense systems \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-06-09T21:52:15.660964+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-09T21:52:32.039377+00:00",
+      "tier": "groq",
+      "article": "Iran urges unconditional release of Afghanistan frozen assets"
     }
   ]
 }
