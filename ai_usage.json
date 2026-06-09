@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3799,
+  "total_calls": 3803,
   "tiers": {
-    "groq": 3780,
+    "groq": 3784,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-06T13:53:24.431254+00:00",
-      "tier": "groq",
-      "article": "Turkish fishing boat attacked off Crimea, one sailor killed"
-    },
-    {
-      "timestamp": "2026-06-06T13:53:43.504362+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-06-06T13:54:08.529238+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T13:54:25.147482+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-06-06T15:22:06.583709+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-09T15:03:26.038108+00:00",
       "tier": "groq",
       "article": "Polish-Ukrainian startup develops radar to track elusive, low-flying drones"
+    },
+    {
+      "timestamp": "2026-06-09T18:13:12.608086+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-09T18:13:44.984814+00:00",
+      "tier": "groq",
+      "article": "\u2018Operation Nasr\u2019 forced enemy to beg for ceasefire again: VP"
+    },
+    {
+      "timestamp": "2026-06-09T18:14:33.947865+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-09T18:15:21.287508+00:00",
+      "tier": "groq",
+      "article": "Berlin protesters demand Merz resign (VIDEO)"
     }
   ]
 }
