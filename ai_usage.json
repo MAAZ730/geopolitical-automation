@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3807,
+  "total_calls": 3811,
   "tiers": {
-    "groq": 3788,
+    "groq": 3792,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-06T17:19:26.311086+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T17:19:57.977021+00:00",
-      "tier": "groq",
-      "article": "Groom killed hours before his wedding in Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T17:20:44.092431+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-06T17:21:34.991021+00:00",
-      "tier": "groq",
-      "article": "APEC committed to pragmatic cooperation \u2014 Russian diplomat"
-    },
     {
       "timestamp": "2026-06-06T19:31:05.488612+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-09T21:52:32.039377+00:00",
       "tier": "groq",
       "article": "Iran urges unconditional release of Afghanistan frozen assets"
+    },
+    {
+      "timestamp": "2026-06-09T23:22:11.383499+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-09T23:22:44.034223+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-09T23:23:00.500240+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-09T23:23:16.967146+00:00",
+      "tier": "groq",
+      "article": "FSB foils prison terror plot in Russia\u2019s Ulyanovsk region"
     }
   ]
 }

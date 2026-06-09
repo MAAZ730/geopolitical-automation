@@ -1,4 +1,34 @@
 {
+  "b507e951f976c56ba7ecefbcd05fa06ea74ebcff7e9655a6bc962ace5d8d1b46": {
+    "url": "presstv/193392",
+    "title": "Drones Spotted in Iraqi Skies",
+    "published": "2026-06-09T23:28:06.299792+00:00"
+  },
+  "292e39823cbf43d5a24bf385cfcde65b3b5b7296b9900ec35818b0d5cf4d830c": {
+    "url": "DDGeopolitics/186212",
+    "title": "Shahed Drones Spotted Over Iraq",
+    "published": "2026-06-09T23:24:37.690202+00:00"
+  },
+  "c8f0fceef86f9410f2ceff7c2d3a058b3506cf7e45c7a857ac18ebb9efab8318": {
+    "url": "QudsNen/226799",
+    "title": "Iranian Missiles, Drones Spotted Over Iraq",
+    "published": "2026-06-09T23:24:14.763448+00:00"
+  },
+  "4563fa7a6725adcd43ee51c6d0e4fcbd096c6ae5949efc3957ea31d8e252e34f": {
+    "url": "Middle_East_Spectator/33200",
+    "title": "Iranian Drones Enter Iraqi Skies Amid Rising Tensions",
+    "published": "2026-06-09T23:23:49.990992+00:00"
+  },
+  "b29949fffdfd290b6127df1c2b33d6f901c6c4096e971aad13f7c31e03650aaa": {
+    "url": "thecradlemedia/61511",
+    "title": "Lebanese Army Chief Visits Pakistan Amid Regional Escalation",
+    "published": "2026-06-09T23:23:26.194914+00:00"
+  },
+  "ff5cf0f8280b6dc5c57834b0fc0232a670feda413e6a533aa1b3acfc35fdf6aa": {
+    "url": "thecradlemedia/61512",
+    "title": "Israel's Aggression in Lebanon Derails US-Iran Talks",
+    "published": "2026-06-09T23:23:24.375273+00:00"
+  },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
     "title": "Iranian Missiles Strike Israel in Escalating Regional Tensions",
@@ -178,6 +208,11 @@
     "url": "https://tass.com/politics/2144377",
     "title": "Ukrainian strikes killed more than 40 Russians over past week \u2014 envoy",
     "published": "2026-06-09T07:41:59+00:00"
+  },
+  "a970343253ae03cdb3b3e9ce62538e73433f9e251b7d6dcbe4642ceee2deb52f": {
+    "url": "https://tass.com/society/2144367",
+    "title": "FSB foils prison terror plot in Russia\u2019s Ulyanovsk region",
+    "published": "2026-06-09T07:25:00+00:00"
   },
   "4702054fc053955a58e7038b164743fb811975ea71ca7557820bc73d9ce51e49": {
     "url": "https://en.mehrnews.com/news/245187/Iran-urges-unconditional-release-of-Afghanistan-frozen-assets",
@@ -713,40 +748,5 @@
     "url": "https://tass.com/emergencies/2143721",
     "title": "Man killed in Ukrainian drone attack on Russia\u2019s Kursk Region \u2014 governor",
     "published": "2026-06-07T12:57:53+00:00"
-  },
-  "0e630e4f7b7a102595676dd936193dad6cd09c335851506103228a1089424ee7": {
-    "url": "https://tass.com/politics/2143719",
-    "title": "Top Russian senator advises Zelensky to cancel his ban on negotiations with Moscow",
-    "published": "2026-06-07T12:38:16+00:00"
-  },
-  "d139b87925c740b411268ef955164e6e2e081cefa16b888c905d9ddfe90ab691": {
-    "url": "QudsNen/226426",
-    "title": "Israeli Forces Raid Palestinian Family Home in West Bank",
-    "published": "2026-06-07T11:59:36.883992+00:00"
-  },
-  "2db60bf59f52ece62e06083f28cfa1039c447ce2185b22ae50cb3a09e8c44998": {
-    "url": "QudsNen/226434",
-    "title": "Israeli Airstrike Hits Police Post in Al-Mawasi, West of Khan Younis",
-    "published": "2026-06-07T11:58:23.723658+00:00"
-  },
-  "6b0b379697619a533a6f45535ddac174c3fa304c093e57169bd9e13f9e5b39b3": {
-    "url": "thecradlemedia/61320",
-    "title": "Israeli Drone Strike Misses Elderly Man in Maarakeh, South Lebanon",
-    "published": "2026-06-07T11:57:13.875591+00:00"
-  },
-  "72480b7c39dcc0155f7edc8afcfca8d9463045ecfd7ae847a00bd8c334735c0f": {
-    "url": "thecradlemedia/61322",
-    "title": "Israeli Forces Raid Palestinian Home in Response to Settlement Attack",
-    "published": "2026-06-07T11:56:59.090798+00:00"
-  },
-  "9b9164bb422e087fc1980b73ba9ae413a50633c1b2fab7ec25c31e0af273245e": {
-    "url": "thecradlemedia/61326",
-    "title": "Iranians Express Pessimism Over US Deal Prospects Amid Ongoing Tensions",
-    "published": "2026-06-07T11:55:46.664447+00:00"
-  },
-  "d40ce6a75d18351f069c709cf5e70a349bdffe5ebe3c3623a8c0efea8b942156": {
-    "url": "thecradlemedia/61330",
-    "title": "US Seeks to Tap Iranian Assets for Gulf Reconstruction Amid Ongoing Negotiations",
-    "published": "2026-06-07T11:55:38.556013+00:00"
   }
 }
