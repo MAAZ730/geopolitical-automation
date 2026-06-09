@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3787,
+  "total_calls": 3791,
   "tiers": {
-    "groq": 3768,
+    "groq": 3772,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-06T03:48:11.715505+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-06-06T03:48:32.178785+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T03:48:52.633964+00:00",
-      "tier": "groq",
-      "article": "Iran severely damaged US air operations center in Qatar"
-    },
-    {
-      "timestamp": "2026-06-06T03:49:11.262364+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-06-06T06:58:26.843059+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-09T03:51:54.400819+00:00",
       "tier": "groq",
       "article": "Hostile drone shot down over Tehran"
+    },
+    {
+      "timestamp": "2026-06-09T07:53:53.484272+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-09T07:54:26.816472+00:00",
+      "tier": "groq",
+      "article": "Ukrainian strikes killed more than 40 Russians over past week \u2014 envoy"
+    },
+    {
+      "timestamp": "2026-06-09T07:54:45.878660+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-09T07:55:01.960931+00:00",
+      "tier": "groq",
+      "article": "Iran dismantles four terror cells in southeast, 19 arrested"
     }
   ]
 }
