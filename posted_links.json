@@ -1,4 +1,34 @@
 {
+  "b2f6a409ff0669c77cf4a963ff960ec3a92e3ce6c01c9648ba0f19f146a9592f": {
+    "url": "warmonitors/44299",
+    "title": "Tehran Explosions Raise Security Concerns",
+    "published": "2026-06-09T15:06:35.453877+00:00"
+  },
+  "3f7f8a4c4ca046a33c92804c7648211b6cf159120b7237d950c9e6e6ee264697": {
+    "url": "warmonitors/44315",
+    "title": "Iranian Missile Strike Causes Damage to Ramat David Airbase in Northern Israel",
+    "published": "2026-06-09T15:05:10.979564+00:00"
+  },
+  "244d3abda54ef7c43e5eea84f5eb1c1ce6dc7cfd4b2f640e8824771c2ab9c692": {
+    "url": "DDGeopolitics/186162",
+    "title": "Iranian Missiles Strike Israeli Air Base, Damaging Storage Facility",
+    "published": "2026-06-09T15:05:07.596299+00:00"
+  },
+  "81591fe61077ad687693c4ed2a5122032e592409895133fec2fb874969458a6c": {
+    "url": "Middle_East_Spectator/33134",
+    "title": "Tel Aviv Car Bombing Leaves Damage and Casualties",
+    "published": "2026-06-09T15:04:52.931610+00:00"
+  },
+  "22a9bec84932584d13fdf2bca8fe27445e7291b558ce86ca36614c7cecae2ce9": {
+    "url": "thecradlemedia/61507",
+    "title": "IRGC Establishes Security Belt from Hormuz to Red Sea",
+    "published": "2026-06-09T15:03:42.034007+00:00"
+  },
+  "a4524c3747e1f5cc5bf2bd676c19d9be0c57fd9a519a02527fd5b3c9b655aab6": {
+    "url": "thecradlemedia/61508",
+    "title": "Israeli Airstrikes Hit Ancient City of Tyre in Lebanon",
+    "published": "2026-06-09T15:03:35.316902+00:00"
+  },
   "346a3c46dd95bae63487e198107f133cff7d789e4bef216063510fb476526b1f": {
     "url": "DDGeopolitics/186147",
     "title": "Iranian Ballistic Missiles Hit Ramat David Air Base in Northern Israel",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/61494",
     "title": "Iranian Missile Hits Ramat David Airbase Hangar",
     "published": "2026-06-09T11:23:07.287100+00:00"
+  },
+  "ca893257c8a8565f01a4429397206734f3f62aa099eb84022ba397967072a811": {
+    "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+    "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+    "published": "2026-06-09T10:51:24+00:00"
   },
   "b0898ccc3267e733123e20fb82745ebb46f559c736a4adc1bc5f52af2cea8671": {
     "url": "https://english.almanar.com.lb/article/89012/",
@@ -248,6 +283,11 @@
     "url": "https://en.mehrnews.com/news/245174/Israel-wishes-war-cessation-of-war-after-Iran-missile-attacks",
     "title": "Israel wishes war cessation of war after Iran missile attacks",
     "published": "2026-06-08T15:36:37+00:00"
+  },
+  "2fecfc53e1c286d31fdf48eb147478b71264e3b027f8c4356d00ddfb36a7a44b": {
+    "url": "https://www.defensenews.com/global/europe/2026/06/08/polish-ukrainian-startup-develops-radar-to-track-elusive-low-flying-drones/",
+    "title": "Polish-Ukrainian startup develops radar to track elusive, low-flying drones",
+    "published": "2026-06-08T15:12:32+00:00"
   },
   "e554cb6180fd4a828db62276091299d21b0cbeeda3a6e20d0de703185584f059": {
     "url": "https://en.mehrnews.com/news/245172/Lebanon-says-Israel-has-bombed-it-nearly-3-500-times",
@@ -708,45 +748,5 @@
     "url": "intelslava/88485",
     "title": "Israeli Airstrike Targets Residential Building in Khan Yunis",
     "published": "2026-06-06T23:12:55.955989+00:00"
-  },
-  "d8e5c95f81ae09aeeabef4e49f12315b7bf1c8de512bae44cfa896af3605e9dc": {
-    "url": "presstv/192911",
-    "title": "Iran Warns of Wider Disruption to Gulf Oil Exports Amid Economic Threats",
-    "published": "2026-06-06T23:12:21.034114+00:00"
-  },
-  "306fd11067e91c2744549b54662c86f626c860eb9e89ea75b3411c1cbb8100cf": {
-    "url": "presstv/192915",
-    "title": "Israeli Airstrike Hits Residential Building in Khan Yunis, Gaza Strip",
-    "published": "2026-06-06T23:09:38.492045+00:00"
-  },
-  "90092de72a7b53a6537531794ef4c8ba29826184dfeb958cd85da14f7281a908": {
-    "url": "QudsNen/226374",
-    "title": "Israeli Forces Detain Palestinian Child in Jericho Raid",
-    "published": "2026-06-06T23:09:30.310271+00:00"
-  },
-  "597f987274e744ca3e11a5bb58d5f7e2a2faf5aa713abb61d3a0b38531801d3c": {
-    "url": "Middle_East_Spectator/32883",
-    "title": "Israeli Soldier Killed in Lebanon Amid Ongoing Tensions",
-    "published": "2026-06-06T23:09:09.471529+00:00"
-  },
-  "94daa60ac4928c6371661e39929d87628a7a89b4fb42f34b581925978147c64e": {
-    "url": "Middle_East_Spectator/32884",
-    "title": "Israeli Soldier Killed in Southern Lebanon",
-    "published": "2026-06-06T23:09:08.216561+00:00"
-  },
-  "1e5a876f058a7529ca7de4dd1dad4ab1ed2b1f68136f8b3b23d704021fafbec3": {
-    "url": "https://www.rt.com/news/641108-pentagon-israel-spying-threat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Pentagon sounds alarm over Israeli spying on US \u2013 NBC",
-    "published": "2026-06-06T22:01:36+00:00"
-  },
-  "284ed2d99bf049c51ff95fa1b6c9344513f8157dd5cf622157516149b314eac0": {
-    "url": "https://tass.com/politics/2143627",
-    "title": "Germany\u2019s rejection of gas supplies over Nord Stream cannot be rationally explained",
-    "published": "2026-06-06T21:52:00+00:00"
-  },
-  "eb68f3e0ad9d671bbbc2a7c706a1295ddf0db0d294c76d0005ac99e59c072dbf": {
-    "url": "presstv/192917",
-    "title": "Iran Condemns US Military Action as Tensions Escalate",
-    "published": "2026-06-06T21:21:07.741320+00:00"
   }
 }
