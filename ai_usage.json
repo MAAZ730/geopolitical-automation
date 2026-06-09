@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3783,
+  "total_calls": 3787,
   "tiers": {
-    "groq": 3764,
+    "groq": 3768,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-05T23:15:59.229057+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-05T23:16:31.549979+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-05T23:17:17.719561+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance fighters confronted on Friday, June 5, 2026, at 20:30, an \u201cIsraeli\u201d warplane in the skies over the Zahrani coast with a surface-to-air missile: statement 31 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-05T23:17:34.426922+00:00",
-      "tier": "groq",
-      "article": "1963 Uprising; a turning point in Iran\u2019s contemporary history"
-    },
     {
       "timestamp": "2026-06-06T03:48:11.715505+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-08T23:17:49.071691+00:00",
       "tier": "groq",
       "article": "US responsible for outcomes of escalating tension in region"
+    },
+    {
+      "timestamp": "2026-06-09T03:50:52.360491+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-09T03:51:08.906150+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: New attacks, ban on Israeli shipping in Red Sea, Middle East developments"
+    },
+    {
+      "timestamp": "2026-06-09T03:51:38.486306+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-09T03:51:54.400819+00:00",
+      "tier": "groq",
+      "article": "Hostile drone shot down over Tehran"
     }
   ]
 }

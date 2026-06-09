@@ -1,4 +1,34 @@
 {
+  "45976c270b98b25c0ef3808cc4ec8f5a3c1e4aef4a6ce9c0f10b10069d7ff3a1": {
+    "url": "warmonitors/44300",
+    "title": "Israeli Airstrikes Hit Tehran Amid Rising Tensions",
+    "published": "2026-06-09T03:56:41.321519+00:00"
+  },
+  "d9bdb2d1dc6675da192dec5dff32f1a01b1223369fe7f304601c6f2971962c27": {
+    "url": "warmonitors/44301",
+    "title": "Iranian Missile Falls Near Palestinian City of Ariha on Jordan Border",
+    "published": "2026-06-09T03:55:43.008386+00:00"
+  },
+  "07365601f08d5ccdda16bd2861bb1a1494c55437fd902dba4fbe279072398848": {
+    "url": "DDGeopolitics/186116",
+    "title": "Ukraine Downs 'Geran' Kamikaze Drone in Zaporozhye City",
+    "published": "2026-06-09T03:55:21.462214+00:00"
+  },
+  "b8c6a5610db11b54407807b505901c528fdb8749954a84dd12f62fd81f6541ea": {
+    "url": "DDGeopolitics/186120",
+    "title": "Israeli Forces Accidentally Reveal Iranian Rocket Design Flaw",
+    "published": "2026-06-09T03:54:34.189942+00:00"
+  },
+  "e04983b58f459e173d30ef1837dc84d940d39f52e1cc8e9719bac8ee0f63a3ed": {
+    "url": "QudsNen/226700",
+    "title": "Israeli Airstrike Hits Residential Apartment in Tel Al-Hawa, Gaza",
+    "published": "2026-06-09T03:54:31.569930+00:00"
+  },
+  "f16b27ed729d60226a97eb84344ff18797f7e7398e425ec70e24da8eeddfc1e1": {
+    "url": "QudsNen/226702",
+    "title": "Gaza City Father Mourns Son Killed in Israeli Operation",
+    "published": "2026-06-09T03:54:30.384995+00:00"
+  },
   "9a2f19ea4238a0466e2b6468ef87064d7c9fcdc6ba9a82700aa9ab3cee5ddace": {
     "url": "DDGeopolitics/186124",
     "title": "US Bases in Iraq Hit by Drone Attack, Inciting Regional Tensions",
@@ -179,10 +209,20 @@
     "title": "Hezbollah Targets Israeli Merkava Tank with Drone near Beaufort Castle",
     "published": "2026-06-08T11:08:57.897262+00:00"
   },
+  "1242d3b0c7143615dbbc558b7c691eb6dafeb36ceea8427193dc3285b41578b5": {
+    "url": "https://tass.com/world/2143969",
+    "title": "IN BRIEF: New attacks, ban on Israeli shipping in Red Sea, Middle East developments",
+    "published": "2026-06-08T10:36:49+00:00"
+  },
   "6c4ec360bb6dcf078356e3666dbb1389aec649a1b6c0129ccf91d1f2a49e867d": {
     "url": "https://en.irna.ir/news/86176617/IRGC-launches-retaliatory-strike-on-petrochemical-plant-in-Haifa",
     "title": "IRGC launches retaliatory strike on petrochemical plant in Haifa",
     "published": "2026-06-08T09:02:59+00:00"
+  },
+  "c209b00a2f70a02f73f1f3d50f942076c5fe59bc6d3602c769f79969b0eceb9a": {
+    "url": "https://en.mehrnews.com/news/245157/Hostile-drone-shot-down-over-Tehran",
+    "title": "Hostile drone shot down over Tehran",
+    "published": "2026-06-08T08:26:46+00:00"
   },
   "e2a5aed59456b0963490b1bc99f3b15c8410ebbb86d186bd7dfa295e5c704507": {
     "url": "https://en.mehrnews.com/news/245156/US-responsible-for-outcomes-of-escalating-tension-in-region",
@@ -708,45 +748,5 @@
     "url": "QudsNen/226330",
     "title": "Israeli Airstrikes Hit Wadi Al-Zoghour in Southern Lebanon",
     "published": "2026-06-06T17:22:57.905349+00:00"
-  },
-  "32c7d260db2641d9394d0551969ba93f55f89bcda1bb81cce3bb259267b1a059": {
-    "url": "thecradlemedia/61291",
-    "title": "Israeli Warplanes Strike Baraachit, South Lebanon",
-    "published": "2026-06-06T17:21:48.996671+00:00"
-  },
-  "a974d983e5971f0119b437b719c1fc528fb2ba61b71d017862a20fef05f73d7f": {
-    "url": "thecradlemedia/61303",
-    "title": "Pakistan Official Visits Iran Amid Escalating US-Iran Tensions",
-    "published": "2026-06-06T17:21:41.382814+00:00"
-  },
-  "652d5a574d61d44b653aa6b6f2ded28daa3c198c86ec36a20859cfa4eda94632": {
-    "url": "https://www.rt.com/news/641121-drone-backers-eu-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "From Finland to Greece: How Ukraine\u2019s drones keep hitting its EU backers",
-    "published": "2026-06-06T16:53:55+00:00"
-  },
-  "3cb968e86078d6c56163bdd5ee7ed7dbba4a8cb922263d1c0a1e503a3fe12d27": {
-    "url": "https://tass.com/world/2143579",
-    "title": "Pentagon voices concern over Israel\u2019s increased intelligence activities in US \u2014 media",
-    "published": "2026-06-06T16:45:55+00:00"
-  },
-  "8f57dd1c60915582855c737b61d54775394bba6c31a1a7f93ca18d733250ba54": {
-    "url": "https://en.irna.ir/news/86174931/Hezbollah-condemns-deadly-Israeli-strike-on-Lebanese-army-vehicle",
-    "title": "Hezbollah condemns deadly Israeli strike on Lebanese army vehicle",
-    "published": "2026-06-06T15:53:01+00:00"
-  },
-  "7c42cb2263f79cb2a5a18bd636546546a20de679ddfff11a5f658dacb64bea12": {
-    "url": "QudsNen/226310",
-    "title": "Israeli Aerial Strike Hits Al-Nur Center in Gaza City",
-    "published": "2026-06-06T15:27:57.262869+00:00"
-  },
-  "3883e5ac02eb743aed0d1d756fd60c2769065d8982601db73fbf2fe256b06450": {
-    "url": "QudsNen/226311",
-    "title": "Israeli Airstrikes Hit Displacement Tents in Gaza City",
-    "published": "2026-06-06T15:27:32.964947+00:00"
-  },
-  "c5b677cbca49d4968d194714127bd4eed72629765764a6374f19c30ed50e1fe1": {
-    "url": "QudsNen/226314",
-    "title": "Israeli Forces Launch Airstrike on Gaza City, Leaving Multiple Palestinians Dead and Injured",
-    "published": "2026-06-06T15:26:25.362018+00:00"
   }
 }
