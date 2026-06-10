@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3827,
+  "total_calls": 3831,
   "tiers": {
-    "groq": 3808,
+    "groq": 3812,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T09:21:31.388620+00:00",
-      "tier": "groq",
-      "article": "Tens killed, injured during fresh Israel strikes on Lebanon"
-    },
-    {
-      "timestamp": "2026-06-07T09:22:05.168252+00:00",
-      "tier": "groq",
-      "article": "Houthis say their strike prevented US military plane from landing in Israel"
-    },
-    {
-      "timestamp": "2026-06-07T09:22:25.380622+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T09:23:00.017370+00:00",
-      "tier": "groq",
-      "article": "US trade embargo against Cuba must be lifted \u2014 Medvedev"
-    },
     {
       "timestamp": "2026-06-07T11:54:02.535521+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-10T18:41:42.479898+00:00",
       "tier": "groq",
       "article": "Children are dying due to US blockade of Cuba \u2013 UN human rights commissioner"
+    },
+    {
+      "timestamp": "2026-06-10T22:06:23.081324+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-10T22:06:59.231722+00:00",
+      "tier": "groq",
+      "article": "Pakistan airstrikes kill 13 in Afghan border provinces"
+    },
+    {
+      "timestamp": "2026-06-10T22:07:46.914400+00:00",
+      "tier": "groq",
+      "article": "Trump raised possibility of using nuclear weapons against Iran \u2014 Hersh"
+    },
+    {
+      "timestamp": "2026-06-10T22:08:32.699405+00:00",
+      "tier": "groq",
+      "article": "Death toll from earthquake in S Philippines rises to 45"
     }
   ]
 }
