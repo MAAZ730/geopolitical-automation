@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3819,
+  "total_calls": 3823,
   "tiers": {
-    "groq": 3800,
+    "groq": 3804,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-06T23:07:57.236474+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T23:08:29.656236+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-06T23:08:46.425831+00:00",
-      "tier": "groq",
-      "article": "Rights group says drone strike kills 11 in central Sudan market"
-    },
-    {
-      "timestamp": "2026-06-06T23:09:02.583133+00:00",
-      "tier": "groq",
-      "article": "Pakistan ready to offer platform for Iran-US talks \u2014 ambassador"
-    },
     {
       "timestamp": "2026-06-07T04:17:13.742164+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-10T10:11:42.540680+00:00",
       "tier": "groq",
       "article": "Airbus-led alliance lobbies Germany on fighter jet project"
+    },
+    {
+      "timestamp": "2026-06-10T15:45:48.065302+00:00",
+      "tier": "groq",
+      "article": "Satellite imagery shows damage at Israeli base after strikes"
+    },
+    {
+      "timestamp": "2026-06-10T15:46:10.567250+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-10T15:46:33.621954+00:00",
+      "tier": "groq",
+      "article": "Drones that attacked Melitopol packed with lethal fragments"
+    },
+    {
+      "timestamp": "2026-06-10T15:46:53.166849+00:00",
+      "tier": "groq",
+      "article": "Sea drone rescues US army helicopter crew near Strait of Hormuz"
     }
   ]
 }

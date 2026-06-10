@@ -1,4 +1,39 @@
 {
+  "6e4a6953032c74e6dd95c29c389c5c773bc049b8c5a76a0e1f7d256504b11029": {
+    "url": "warmonitors/44331",
+    "title": "Iranian Missile or Drone Hits U.S. Fifth Fleet Base in Bahrain",
+    "published": "2026-06-10T15:55:25.071335+00:00"
+  },
+  "0b1812acac98b0647ba7ab96245479992d97482619d7630327ac354fc2f0045a": {
+    "url": "warmonitors/44333",
+    "title": "Iran Shoots Down US MQ-9 Reaper Drone in Iranian Skies",
+    "published": "2026-06-10T15:54:43.317671+00:00"
+  },
+  "e521a4f7d64fc0880bd801b69b1229c105bf2485de70e1ad7c9d5a707aeef00e": {
+    "url": "DDGeopolitics/186257",
+    "title": "US-Israeli Forces Strike Iran's Hormozgan Province Water Infrastructure",
+    "published": "2026-06-10T15:51:49.135392+00:00"
+  },
+  "805342b69d9c7d4780f510a995884a1fe61be5c0ef74624198fbf3ea2c941be9": {
+    "url": "Middle_East_Spectator/33266",
+    "title": "IRGC Operative Threatens US Forces Amid Missile Strikes on Muwaffaq al Salti Air Base",
+    "published": "2026-06-10T15:49:39.471131+00:00"
+  },
+  "602d5bec9b23adf8baa3d5d131038220fa8981695abae70d821f12a9ef1f5590": {
+    "url": "thecradlemedia/61619",
+    "title": "Israeli Airstrikes Hit Southern Lebanon",
+    "published": "2026-06-10T15:47:01.041931+00:00"
+  },
+  "e3169052a10fe10289e4a98aa3e559f089d5f7da4526169bf7754a096cf2fcd3": {
+    "url": "thecradlemedia/61622",
+    "title": "Israel Advances Bill Equating Torah Study with Military Service",
+    "published": "2026-06-10T15:46:55.282099+00:00"
+  },
+  "1b1b2bdf81d3304e0c33c7a611c6dc85dea427f3bdec2f9f1d49bd3b5d703016": {
+    "url": "https://en.mehrnews.com/news/245239/Satellite-imagery-shows-damage-at-Israeli-base-after-strikes",
+    "title": "Satellite imagery shows damage at Israeli base after strikes",
+    "published": "2026-06-10T12:32:36+00:00"
+  },
   "12eacb93e3bc0c2ec59957b096198678653167559a7c330c19fd3e2421b46aa2": {
     "url": "thecradlemedia/61539",
     "title": "Iranian Missile Strikes US Fifth Fleet Base in Bahrain",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/61555",
     "title": "UK Court Grants Allianz Permission to Pursue $667,000 Lawsuit Against Palestine Activists",
     "published": "2026-06-10T10:11:46.422581+00:00"
+  },
+  "e9ad4e0e7a6bc023621d22f03157a779546c7104979385735a9351d0909c61f0": {
+    "url": "https://tass.com/politics/2144895",
+    "title": "Drones that attacked Melitopol packed with lethal fragments",
+    "published": "2026-06-10T09:33:04+00:00"
   },
   "07d235e90e81b6c1aa455b32cb2ad0db539584610cb1955958289f30bc318082": {
     "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss",
@@ -78,6 +118,11 @@
     "url": "https://tass.com/world/2144773",
     "title": "Iranian forces destroy MQ-9 drone, strike US base in Jordan \u2014 IRGC",
     "published": "2026-06-10T03:09:22+00:00"
+  },
+  "b220dcba8967c279a875422b11e1ed013d8f99c3403cbbbb5f6488950907b4e1": {
+    "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+    "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+    "published": "2026-06-09T23:35:20+00:00"
   },
   "b507e951f976c56ba7ecefbcd05fa06ea74ebcff7e9655a6bc962ace5d8d1b46": {
     "url": "presstv/193392",
@@ -703,50 +748,5 @@
     "url": "https://tass.com/world/2143789",
     "title": "IDF identifies two missile launches from Iran in 15 minutes",
     "published": "2026-06-07T19:51:59+00:00"
-  },
-  "4dff1be7631a1217686186052b3340a4876de05c7fdd9082c0fdc301c5441d9a": {
-    "url": "https://tass.com/world/2143785",
-    "title": "Death toll from Israeli attacks on Lebanon exceeds 3,610 \u2014 health ministry",
-    "published": "2026-06-07T19:50:45+00:00"
-  },
-  "b76ffd68d4895cb928fed3fe7b526775f90b6afd6e1c2b2ab3e8276d25018752": {
-    "url": "Middle_East_Spectator/32948",
-    "title": "Iran-Israel Tensions Escalate as Incoming Missiles Threaten Regional Stability",
-    "published": "2026-06-07T19:39:21.383248+00:00"
-  },
-  "073214936d86ab0c0b7cfa9379c80bd4c687457dd90b46685c39c14ef8510fbd": {
-    "url": "Middle_East_Spectator/32952",
-    "title": "Iran Launches Missiles from Domestic Territory",
-    "published": "2026-06-07T19:39:12.448114+00:00"
-  },
-  "64840d9c6db8a141ca7d7951f4d0f312ce772b711945990b1df63e08b787b1ac": {
-    "url": "Middle_East_Spectator/32953",
-    "title": "Multiple Missiles Enter Israeli Airspace",
-    "published": "2026-06-07T19:38:40.300327+00:00"
-  },
-  "71e737c88de3d4790f1c07a9ed3de310fba408502e0c3df9712df100429a7c84": {
-    "url": "thecradlemedia/61354",
-    "title": "Iranians Mark Missile Launch with Celebrations",
-    "published": "2026-06-07T19:37:56.337527+00:00"
-  },
-  "de57230c839f2f6e0325fa62f3b8285f54192b1c27f3369fb6647baa836a0d94": {
-    "url": "thecradlemedia/61359",
-    "title": "Israeli Home Front Command Issues Third Missile Warning in 30 Minutes",
-    "published": "2026-06-07T19:36:31.135933+00:00"
-  },
-  "1eec53e189a2c8765cd8c3278e09e4f46b47c61b17bd0c7602caab4e7481a0b1": {
-    "url": "thecradlemedia/61360",
-    "title": "Israeli Missile Sirens Sound in Haifa Region",
-    "published": "2026-06-07T19:36:30.094300+00:00"
-  },
-  "d9f1cd85e4809aa886dd3206cdcd7427cc7d9897ad091c0b89a1210e5aca6694": {
-    "url": "QudsNen/226480",
-    "title": "Israeli Airstrikes Devastate Residential Building in Al-Housh, Tyre",
-    "published": "2026-06-07T17:31:01.352232+00:00"
-  },
-  "e519ffadc14feefe05e3b041df20ee80123dfeaa5eeb1cb8a6e7490d0708d09c": {
-    "url": "QudsNen/226483",
-    "title": "Israeli Aerial Bombardment Causes Infrastructure Damage in Tyre",
-    "published": "2026-06-07T17:29:35.701073+00:00"
   }
 }
