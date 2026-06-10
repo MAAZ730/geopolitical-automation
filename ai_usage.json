@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3811,
+  "total_calls": 3815,
   "tiers": {
-    "groq": 3792,
+    "groq": 3796,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-06T19:31:05.488612+00:00",
-      "tier": "groq",
-      "article": "Hezbollah condemns deadly Israeli strike on Lebanese army vehicle"
-    },
-    {
-      "timestamp": "2026-06-06T19:31:37.047109+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T19:31:53.666675+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-06T19:32:10.248947+00:00",
-      "tier": "groq",
-      "article": "Belgium education reform protests turn violent in central Brussels"
-    },
     {
       "timestamp": "2026-06-06T21:11:06.100223+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-09T23:23:16.967146+00:00",
       "tier": "groq",
       "article": "FSB foils prison terror plot in Russia\u2019s Ulyanovsk region"
+    },
+    {
+      "timestamp": "2026-06-10T04:04:33.825422+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-10T04:05:06.249659+00:00",
+      "tier": "groq",
+      "article": "Iranian forces destroy MQ-9 drone, strike US base in Jordan \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-06-10T04:05:52.735347+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-10T04:06:09.927460+00:00",
+      "tier": "groq",
+      "article": "Lebanon integral part of any agreement: Iranian lawmaker says"
     }
   ]
 }
