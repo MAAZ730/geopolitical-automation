@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3815,
+  "total_calls": 3819,
   "tiers": {
-    "groq": 3796,
+    "groq": 3800,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-06T21:11:06.100223+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-06T21:11:22.402250+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-06T21:11:53.179745+00:00",
-      "tier": "groq",
-      "article": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up"
-    },
-    {
-      "timestamp": "2026-06-06T21:12:09.371484+00:00",
-      "tier": "groq",
-      "article": "Kiev troops shell DPR nine times in past day, two wounded"
-    },
     {
       "timestamp": "2026-06-06T23:07:57.236474+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-10T04:06:09.927460+00:00",
       "tier": "groq",
       "article": "Lebanon integral part of any agreement: Iranian lawmaker says"
+    },
+    {
+      "timestamp": "2026-06-10T10:10:33.207979+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries"
+    },
+    {
+      "timestamp": "2026-06-10T10:10:49.472567+00:00",
+      "tier": "groq",
+      "article": "Pakistan carries out strikes on Afghanistan, 13 people killed \u2014 Afghan authorities"
+    },
+    {
+      "timestamp": "2026-06-10T10:11:24.050733+00:00",
+      "tier": "groq",
+      "article": "Iran Strikes Back: Retaliatory Attacks Hit US Targets Across Region - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-10T10:11:42.540680+00:00",
+      "tier": "groq",
+      "article": "Airbus-led alliance lobbies Germany on fighter jet project"
     }
   ]
 }
