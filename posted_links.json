@@ -1,4 +1,34 @@
 {
+  "4ce64365eac0adae59d26480ee0b8d82b51954661dbb4a364f8c134c9a2d1de0": {
+    "url": "presstv/193524",
+    "title": "Trump Backs US Inflation Amid Iran Tensions",
+    "published": "2026-06-10T18:46:53.649435+00:00"
+  },
+  "24e8d19cfaa87d1c596a734293dde94f29f76bb0dbda77fcea327e6e36a7d5f1": {
+    "url": "BellumActaNews/173969",
+    "title": "USAF to Escalate Airstrikes Against Iran Amid Rising Tensions",
+    "published": "2026-06-10T18:45:32.182931+00:00"
+  },
+  "c479ebb6a74272b88b18d1bff9bbf69dbc35efeebaa56855bc62ad5a67908f45": {
+    "url": "BellumActaNews/173979",
+    "title": "Netanyahu Addresses Lebanese Citizens, Calls for Peace and Cooperation",
+    "published": "2026-06-10T18:44:49.323931+00:00"
+  },
+  "3945f62d516bd8b6a15f9de9a51a9552364c73dd12cde186d4df2fff8088728f": {
+    "url": "QudsNen/226897",
+    "title": "Israeli Forces Storm Al-Fawwar Refugee Camp, Detain Palestinian Resident",
+    "published": "2026-06-10T18:42:16.805635+00:00"
+  },
+  "8599b5a4b69e6c78dd40a8d3c51682370bd1662c5b9c6772f8e722f65101735c": {
+    "url": "thecradlemedia/61615",
+    "title": "Israel Seizes Control of Al-Aqsa Mosque Facilities",
+    "published": "2026-06-10T18:41:57.572061+00:00"
+  },
+  "430264b0df404037f03d1e433b1ebdd25024095f4d34a54ff980c4f74562e2d0": {
+    "url": "thecradlemedia/61625",
+    "title": "IAEA Passes Resolution Demanding Iran Reveal Uranium Location",
+    "published": "2026-06-10T18:41:46.338775+00:00"
+  },
   "6e4a6953032c74e6dd95c29c389c5c773bc049b8c5a76a0e1f7d256504b11029": {
     "url": "warmonitors/44331",
     "title": "Iranian Missile or Drone Hits U.S. Fifth Fleet Base in Bahrain",
@@ -69,6 +99,11 @@
     "title": "Drones that attacked Melitopol packed with lethal fragments",
     "published": "2026-06-10T09:33:04+00:00"
   },
+  "1ac08c25c4c587dd3a947acbb94f0fd1917e293a0cef81c507d2e8bbd15aa7ec": {
+    "url": "https://www.rt.com/news/641330-iran-retaliates-us-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran launches missiles and drones in response to US strikes",
+    "published": "2026-06-10T08:43:41+00:00"
+  },
   "07d235e90e81b6c1aa455b32cb2ad0db539584610cb1955958289f30bc318082": {
     "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss",
     "title": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
@@ -83,6 +118,11 @@
     "url": "https://tass.com/world/2144805",
     "title": "Pakistan carries out strikes on Afghanistan, 13 people killed \u2014 Afghan authorities",
     "published": "2026-06-10T04:34:00+00:00"
+  },
+  "a9ac128a17b40cf9366d2fa4403ece11b488057aebb91ec63001e926262d2f1a": {
+    "url": "https://en.mehrnews.com/news/245218/Iran-warns-of-wider-strikes-if-US-attacks-again",
+    "title": "Iran warns of wider strikes if US attacks again",
+    "published": "2026-06-10T04:10:27+00:00"
   },
   "3738a810855ecc50f143dd648de4f9acd59d0f05c34fb4720be111d23a1ce204": {
     "url": "QudsNen/226811",
@@ -118,6 +158,11 @@
     "url": "https://tass.com/world/2144773",
     "title": "Iranian forces destroy MQ-9 drone, strike US base in Jordan \u2014 IRGC",
     "published": "2026-06-10T03:09:22+00:00"
+  },
+  "20c6c98398f8819a3e5c147bfacd71ba30fc18045b0af9bcebc45f74aafe8b0b": {
+    "url": "https://www.rt.com/news/641301-us-blockade-cuba-killing-children-un-commissioner/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Children are dying due to US blockade of Cuba \u2013 UN human rights commissioner",
+    "published": "2026-06-10T02:49:00+00:00"
   },
   "b220dcba8967c279a875422b11e1ed013d8f99c3403cbbbb5f6488950907b4e1": {
     "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
@@ -703,50 +748,5 @@
     "url": "thecradlemedia/61355",
     "title": "Israel Issues Fresh Missile Alert Amid Iran Launches",
     "published": "2026-06-07T23:14:29.856569+00:00"
-  },
-  "33e6362ed2d672b8893e59329ac9a9e3c56db87085bf6c0bc6063e5969acc5bb": {
-    "url": "https://tass.com/world/2143811",
-    "title": "Iran threatens even more massive strikes if Israel retaliates \u2014 military command",
-    "published": "2026-06-07T22:21:05+00:00"
-  },
-  "acd0298d8174b8ff0dec6ec78ef9c8e83fe395dd9c03a7002be95e3b1e4f862e": {
-    "url": "Middle_East_Spectator/32973",
-    "title": "Iranian Cluster Munition Impact in Northern Israel",
-    "published": "2026-06-07T21:26:04.333434+00:00"
-  },
-  "02e97a2969db215aac22d2b4298f2ed343056014a77c669100cf01c35941e65e": {
-    "url": "Middle_East_Spectator/32984",
-    "title": "Iranian Air Defenses Down US/Israeli Drone in Iraqi Skies",
-    "published": "2026-06-07T21:25:52.061631+00:00"
-  },
-  "6335cea4bf470a23c04fb0d60fd515e07eea28eec7749045f4a3af6357d75001": {
-    "url": "Middle_East_Spectator/32991",
-    "title": "Iran Fires Drones at Israeli Targets Amid Lebanon Support Statement",
-    "published": "2026-06-07T21:23:50.178655+00:00"
-  },
-  "b98f9aa9ceca9fdf86acf318dada0ff271af4a735c62c0a3254c136d8bcfa941": {
-    "url": "thecradlemedia/61357",
-    "title": "Iranian Missile Launches Trigger Israeli Missile Alert",
-    "published": "2026-06-07T21:22:12.048523+00:00"
-  },
-  "5818c62b8bb18f136b006038d6ea8b34e7030ed45018acefd2c82624c1b8461a": {
-    "url": "thecradlemedia/61358",
-    "title": "Israeli Missile Sirens Sound in Mount Carmel Area",
-    "published": "2026-06-07T21:22:10.571034+00:00"
-  },
-  "19da04145e1c589222497c77405ce2bb3ac4d776e1352c6a807d822c236d4248": {
-    "url": "thecradlemedia/61363",
-    "title": "Iranian Missile Hits Target in Northern Region Amid Claims of Intercept",
-    "published": "2026-06-07T21:22:09.040477+00:00"
-  },
-  "469b6c98eb3571383da74921d31cb598a0da3d7e2c03ebe9264189e1a6d6bd69": {
-    "url": "https://www.rt.com/news/641155-parasite-outbreak-texas-canada/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Canada halts Texas livestock imports over screwworm outbreak",
-    "published": "2026-06-07T21:12:09+00:00"
-  },
-  "29fdb1e61365f6c8bd745990cd229cef7c1ed94f5e4724e6077e3a357f44595c": {
-    "url": "https://tass.com/world/2143789",
-    "title": "IDF identifies two missile launches from Iran in 15 minutes",
-    "published": "2026-06-07T19:51:59+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3823,
+  "total_calls": 3827,
   "tiers": {
-    "groq": 3804,
+    "groq": 3808,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T04:17:13.742164+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T04:17:30.046181+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-07T04:17:53.126790+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-07T04:18:09.254660+00:00",
-      "tier": "groq",
-      "article": "US led over 100 vessels via Strait of Hormuz in May \u2014 NYT"
-    },
     {
       "timestamp": "2026-06-07T09:21:31.388620+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-10T15:46:53.166849+00:00",
       "tier": "groq",
       "article": "Sea drone rescues US army helicopter crew near Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-06-10T18:40:39.848667+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-10T18:40:56.519509+00:00",
+      "tier": "groq",
+      "article": "Iran launches missiles and drones in response to US strikes"
+    },
+    {
+      "timestamp": "2026-06-10T18:41:24.399208+00:00",
+      "tier": "groq",
+      "article": "Iran warns of wider strikes if US attacks again"
+    },
+    {
+      "timestamp": "2026-06-10T18:41:42.479898+00:00",
+      "tier": "groq",
+      "article": "Children are dying due to US blockade of Cuba \u2013 UN human rights commissioner"
     }
   ]
 }
