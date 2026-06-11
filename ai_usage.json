@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3831,
+  "total_calls": 3835,
   "tiers": {
-    "groq": 3812,
+    "groq": 3816,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T11:54:02.535521+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T11:54:34.809305+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-07T11:54:50.966865+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-07T11:55:30.442180+00:00",
-      "tier": "groq",
-      "article": "Russia expects Egyptian president to attend Russia-Africa summit \u2014 Kobyakov"
-    },
     {
       "timestamp": "2026-06-07T14:03:55.683967+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-10T22:08:32.699405+00:00",
       "tier": "groq",
       "article": "Death toll from earthquake in S Philippines rises to 45"
+    },
+    {
+      "timestamp": "2026-06-11T04:15:50.696277+00:00",
+      "tier": "groq",
+      "article": "Iran attacks US facilities in Middle East following US strikes \u2014 agency"
+    },
+    {
+      "timestamp": "2026-06-11T04:16:09.247110+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-11T04:16:37.593021+00:00",
+      "tier": "groq",
+      "article": "\u2018Negotiate with bombs\u2019: Hegseth defends second night of US strikes on Iran"
+    },
+    {
+      "timestamp": "2026-06-11T04:16:53.495470+00:00",
+      "tier": "groq",
+      "article": "US harming diplomatic process by repeatedly truce violation"
     }
   ]
 }
