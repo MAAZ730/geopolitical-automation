@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3835,
+  "total_calls": 3839,
   "tiers": {
-    "groq": 3816,
+    "groq": 3820,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T14:03:55.683967+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T14:04:12.210819+00:00",
-      "tier": "groq",
-      "article": "Man killed in Ukrainian drone attack on Russia\u2019s Kursk Region \u2014 governor"
-    },
-    {
-      "timestamp": "2026-06-07T14:04:35.771622+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-07T14:04:52.703713+00:00",
-      "tier": "groq",
-      "article": "Pentagon voices concern over Israel\u2019s increased intelligence activities in US \u2014 media"
-    },
     {
       "timestamp": "2026-06-07T15:43:25.838734+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-11T04:16:53.495470+00:00",
       "tier": "groq",
       "article": "US harming diplomatic process by repeatedly truce violation"
+    },
+    {
+      "timestamp": "2026-06-11T10:44:33.123500+00:00",
+      "tier": "groq",
+      "article": "Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman"
+    },
+    {
+      "timestamp": "2026-06-11T10:45:10.741904+00:00",
+      "tier": "groq",
+      "article": "Funerals held after deadly Pakistani strikes in Afghanistan"
+    },
+    {
+      "timestamp": "2026-06-11T10:45:28.207323+00:00",
+      "tier": "groq",
+      "article": "US releases video of warship firing missiles in strikes on Iran"
+    },
+    {
+      "timestamp": "2026-06-11T10:45:44.456730+00:00",
+      "tier": "groq",
+      "article": "The US usually sells weapons to Taiwan \u2013 with drones, expect the reverse"
     }
   ]
 }
