@@ -1,4 +1,34 @@
 {
+  "605a133daff8d7c010a323ec1666f8ebcda3df0e18c3975735de8317e22e078a": {
+    "url": "CyberspecNews/109488",
+    "title": "Russia Deploys Upgraded Akula-Class Submarine for Sea Trials",
+    "published": "2026-06-11T23:45:07.225190+00:00"
+  },
+  "04901034934c61ab1e9def8153bd97e42705e93b43c287c2d68d9d2c18ff7de7": {
+    "url": "infantmilitario/188549",
+    "title": "Latvia Shoots Down Ukrainian Drone in Airspace Incident",
+    "published": "2026-06-11T23:42:17.004324+00:00"
+  },
+  "c9f31a7fbfb39b9ce849a43c40247895ec467b9a29429192dc8168838ffd73af": {
+    "url": "presstv/193722",
+    "title": "Israeli Airstrike Hits Residential Building in Al-Maghazi Refugee Camp",
+    "published": "2026-06-11T23:36:03.805246+00:00"
+  },
+  "79268f026d1b156fd69677c51daa958b3fd0b04576f5b96f491e23bc5258acbb": {
+    "url": "QudsNen/227087",
+    "title": "Israeli Airstrike Devastates Residential Building in Al-Maghazi Refugee Camp, Gaza Strip",
+    "published": "2026-06-11T23:33:27.606272+00:00"
+  },
+  "66f3f2c6604861ee483b9601529499ad47ac7c63b08bb62ed516b9a0a8f42530": {
+    "url": "thecradlemedia/61725",
+    "title": "Trump Threatens Iran with 'Very Hard' Military Strike, Kharg Island Seizure Amid Waning US Public Support",
+    "published": "2026-06-11T23:30:52.847754+00:00"
+  },
+  "eb387c25dc3e473b2c48b8bd2f2296c4d17ba126a263e7a7e6bd7425fa1da7cf": {
+    "url": "thecradlemedia/61733",
+    "title": "Iran Denies Finalizing US Agreement Amid Ongoing Diplomatic Talks",
+    "published": "2026-06-11T23:30:51.428642+00:00"
+  },
   "c5a2580e021cefbc46971cd78b70ac6066003d08bdf78eff5310f733a8f131b0": {
     "url": "intelslava/88836",
     "title": "IRGC Launches Ballistic Missiles at US Bases in Region",
@@ -94,6 +124,11 @@
     "title": "Iran Fires Missiles at Jordan, Claims Only 12 Launched",
     "published": "2026-06-11T10:45:51.400666+00:00"
   },
+  "4c79cc8ebe6a038d1ea82000cacee0495853e3135022bb0e515a70ceed15f22f": {
+    "url": "https://tass.com/world/2145383",
+    "title": "US military denies reports of warship damaged in Strait of Hormuz",
+    "published": "2026-06-11T08:34:32+00:00"
+  },
   "003e8f89e5fd4a5a688da90a42ee9222bd286d9e65bdd91a9f9d026a9f1e0a65": {
     "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
     "title": "Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman",
@@ -108,6 +143,16 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss",
     "title": "US releases video of warship firing missiles in strikes on Iran",
     "published": "2026-06-11T07:10:23+00:00"
+  },
+  "2990399cbeaedf1dd4c863c95bd54fe60bb21e6a58e668e8f7ca16d50fddedd0": {
+    "url": "https://en.mehrnews.com/news/245252/Two-ships-hit-trying-to-run-Hormuz-closure",
+    "title": "Two ships hit trying to run Hormuz closure",
+    "published": "2026-06-11T06:35:45+00:00"
+  },
+  "33f8a8679f4406458cfc8f4ce752a7f50c9f013be6e5854a1cb1249da67d01cd": {
+    "url": "https://tass.com/politics/2145349",
+    "title": "Ukrainian attacks kill civilian, leave another ten injured in Russia\u2019s Belgorod Region",
+    "published": "2026-06-11T06:03:15+00:00"
   },
   "cf4f47c1db74153ed95522596d5793c227d7c39feb56ded093ec34677a357b10": {
     "url": "https://en.mehrnews.com/news/245257/US-warplanes-destroyed-in-Iran-retaliation-IRGC",
@@ -703,50 +748,5 @@
     "url": "Middle_East_Spectator/33114",
     "title": "Yemen Drone Intercepted Over Eilat",
     "published": "2026-06-08T21:57:26.003926+00:00"
-  },
-  "8655a2770290b3b3f9a8c6227eb67b821aff80a97df0e72686eb62eceb0b33cd": {
-    "url": "thecradlemedia/61437",
-    "title": "Iran's Top Security Official Warns of Regional Chaos",
-    "published": "2026-06-08T21:56:44.862667+00:00"
-  },
-  "e4367fbf51136876512671df7b34f4cd0352171f66d6ecb4623fdacf62512824": {
-    "url": "thecradlemedia/61449",
-    "title": "Iran Vows Retaliation Over Israeli Actions in South Lebanon",
-    "published": "2026-06-08T21:56:43.601002+00:00"
-  },
-  "ad4bd052af3a0669e66a0a35c72fc266eb961853a280f8e4e1bbea673c40bf0f": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
-    "title": "\u2018We basically lost\u2019: Tel Aviv residents react after Israel-Iran strikes",
-    "published": "2026-06-08T20:54:57+00:00"
-  },
-  "09d65d8ed24f2612234661344720d37a470482a69359b1db0374373e594f11f7": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/8/cctv-captures-moment-of-deadly-strike-on-zaporizhzhia-ukraine?traffic_source=rss",
-    "title": "CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine",
-    "published": "2026-06-08T20:14:04+00:00"
-  },
-  "bbbc2fd449a6eaa7374b0f064b8ed34af199a64bac457943304b9a03cf456427": {
-    "url": "https://www.rt.com/news/641265-thousands-march-berlin-demanding-merz-resignation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Berlin protesters demand Merz resign (VIDEO)",
-    "published": "2026-06-08T19:52:49+00:00"
-  },
-  "6bbec3f57a65881b8934a34460c8bcb40f85b2b74340580289029c21c3f32ebe": {
-    "url": "QudsNen/226649",
-    "title": "Israeli Forces Detain Palestinian in Hebron Refugee Camp Raid",
-    "published": "2026-06-08T18:36:02.388824+00:00"
-  },
-  "8478f5e675bc45b65c8c4ff5f0bf6dc858b18da647d855681f02e98fff36c003": {
-    "url": "QudsNen/226654",
-    "title": "Spanish PM Meets with Palestinian Activist's Son After Music Festival Address",
-    "published": "2026-06-08T18:35:21.014859+00:00"
-  },
-  "9391f09f39771b176687fb08fd68c1ba7a5b8d14706f6d82f292cf6b4de0bdec": {
-    "url": "Middle_East_Spectator/33094",
-    "title": "US Navy Disables Iranian-Affiliated Vessel in Sea of Oman",
-    "published": "2026-06-08T18:33:55.339788+00:00"
-  },
-  "c5dc9feedd07cc8fc51c01c84e1a6df1e36a3323c148b83882900af202e47a12": {
-    "url": "Middle_East_Spectator/33102",
-    "title": "Iranian Missile Hits Israeli Airbase in Northern Israel",
-    "published": "2026-06-08T18:33:20.581954+00:00"
   }
 }

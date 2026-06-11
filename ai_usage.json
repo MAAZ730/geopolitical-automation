@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3847,
+  "total_calls": 3851,
   "tiers": {
-    "groq": 3828,
+    "groq": 3832,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T19:35:24.083985+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T19:35:54.593934+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-07T19:36:10.696816+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-07T19:36:27.037522+00:00",
-      "tier": "groq",
-      "article": "Pentagon sounds alarm over Israeli spying on US \u2013 NBC"
-    },
     {
       "timestamp": "2026-06-07T21:20:38.026145+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-11T20:30:45.687433+00:00",
       "tier": "groq",
       "article": "Fire at oil refinery in Krasnodar Region caused by drone debris extinguished"
+    },
+    {
+      "timestamp": "2026-06-11T23:29:01.908599+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-11T23:29:34.433415+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks kill civilian, leave another ten injured in Russia\u2019s Belgorod Region"
+    },
+    {
+      "timestamp": "2026-06-11T23:30:20.927689+00:00",
+      "tier": "groq",
+      "article": "US military denies reports of warship damaged in Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-06-11T23:30:40.541324+00:00",
+      "tier": "groq",
+      "article": "Two ships hit trying to run Hormuz closure"
     }
   ]
 }
