@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3843,
+  "total_calls": 3847,
   "tiers": {
-    "groq": 3824,
+    "groq": 3828,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T17:24:57.096465+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T17:25:29.713794+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-07T17:25:45.661748+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-07T17:26:01.636194+00:00",
-      "tier": "groq",
-      "article": "West ignores Kiev's state terrorism \u2014 Russia's top senator"
-    },
     {
       "timestamp": "2026-06-07T19:35:24.083985+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-11T16:18:05.196353+00:00",
       "tier": "groq",
       "article": "US Navy stands up naval support activity in Western Australia"
+    },
+    {
+      "timestamp": "2026-06-11T20:29:44.554662+00:00",
+      "tier": "groq",
+      "article": "US warplanes destroyed in Iran retaliation: IRGC"
+    },
+    {
+      "timestamp": "2026-06-11T20:30:06.885256+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes 18 American targets in Kuwait and Bahrain"
+    },
+    {
+      "timestamp": "2026-06-11T20:30:29.249159+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-11T20:30:45.687433+00:00",
+      "tier": "groq",
+      "article": "Fire at oil refinery in Krasnodar Region caused by drone debris extinguished"
     }
   ]
 }
