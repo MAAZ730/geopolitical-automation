@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3851,
+  "total_calls": 3855,
   "tiers": {
-    "groq": 3832,
+    "groq": 3836,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T21:20:38.026145+00:00",
-      "tier": "groq",
-      "article": "IDF identifies two missile launches from Iran in 15 minutes"
-    },
-    {
-      "timestamp": "2026-06-07T21:20:58.207200+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T21:21:17.838055+00:00",
-      "tier": "groq",
-      "article": "Death toll from Israeli attacks on Lebanon exceeds 3,610 \u2014 health ministry"
-    },
-    {
-      "timestamp": "2026-06-07T21:21:36.950763+00:00",
-      "tier": "groq",
-      "article": "Germany\u2019s rejection of gas supplies over Nord Stream cannot be rationally explained"
-    },
     {
       "timestamp": "2026-06-07T23:13:17.642481+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-11T23:30:40.541324+00:00",
       "tier": "groq",
       "article": "Two ships hit trying to run Hormuz closure"
+    },
+    {
+      "timestamp": "2026-06-12T04:19:42.565359+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-12T04:20:15.319294+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-12T04:21:01.637079+00:00",
+      "tier": "groq",
+      "article": "Top commander warns US over \u2018futile cycle\u2019 of lies, contradiction"
+    },
+    {
+      "timestamp": "2026-06-12T04:21:19.587913+00:00",
+      "tier": "groq",
+      "article": "IRGC targets US F35, F15, F16 fighter jet positions after recent aggression"
     }
   ]
 }
