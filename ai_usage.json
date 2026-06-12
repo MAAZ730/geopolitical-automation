@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3855,
+  "total_calls": 3859,
   "tiers": {
-    "groq": 3836,
+    "groq": 3840,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-07T23:13:17.642481+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-07T23:13:51.242438+00:00",
-      "tier": "groq",
-      "article": "Iran threatens even more massive strikes if Israel retaliates \u2014 military command"
-    },
-    {
-      "timestamp": "2026-06-07T23:14:09.693058+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-07T23:14:25.710363+00:00",
-      "tier": "groq",
-      "article": "Royal Navy spent third of its combat deployment to track Russian submarines"
-    },
     {
       "timestamp": "2026-06-08T04:22:00.612411+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-12T04:21:19.587913+00:00",
       "tier": "groq",
       "article": "IRGC targets US F35, F15, F16 fighter jet positions after recent aggression"
+    },
+    {
+      "timestamp": "2026-06-12T10:22:07.081763+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-12T10:22:38.650400+00:00",
+      "tier": "groq",
+      "article": "India summons top US diplomat for second time over deadly strike on vessels off Oman - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-12T10:23:31.354065+00:00",
+      "tier": "groq",
+      "article": "The Gulf Arab States Need a Shield Built for Limited Trust"
+    },
+    {
+      "timestamp": "2026-06-12T10:24:17.237345+00:00",
+      "tier": "groq",
+      "article": "Iran closes Strait of Hormuz until further notice \u2014 government agency"
     }
   ]
 }
