@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3859,
+  "total_calls": 3863,
   "tiers": {
-    "groq": 3840,
+    "groq": 3844,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-08T04:22:00.612411+00:00",
-      "tier": "groq",
-      "article": "One killed, one injured as Ukrainian drone hits Moscow-Simferopol train \u2014 head of Crimea"
-    },
-    {
-      "timestamp": "2026-06-08T04:22:35.395358+00:00",
-      "tier": "groq",
-      "article": "Iran foreign ministry issues statement after attack on Israel"
-    },
-    {
-      "timestamp": "2026-06-08T04:22:55.021526+00:00",
-      "tier": "groq",
-      "article": "Iran and Israel trade threats after Tehran launches missiles"
-    },
-    {
-      "timestamp": "2026-06-08T04:23:10.992755+00:00",
-      "tier": "groq",
-      "article": "Sister of North Korea\u2019s leader reaffirms country\u2019s status as nuclear power is irreversible"
-    },
     {
       "timestamp": "2026-06-08T11:05:25.910955+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-12T10:24:17.237345+00:00",
       "tier": "groq",
       "article": "Iran closes Strait of Hormuz until further notice \u2014 government agency"
+    },
+    {
+      "timestamp": "2026-06-12T15:22:56.586979+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-12T15:23:29.137276+00:00",
+      "tier": "groq",
+      "article": "US attacks put ceasefire status \u2018ineffective\u2019: Araghchi warns"
+    },
+    {
+      "timestamp": "2026-06-12T15:24:14.631340+00:00",
+      "tier": "groq",
+      "article": "Half of Israelis agree deterrence &#039;weakened&#039; following wars in Iran, Lebanon: Poll"
+    },
+    {
+      "timestamp": "2026-06-12T15:25:03.036960+00:00",
+      "tier": "groq",
+      "article": "Europe missed its chance to talk with Russia in 2021, Germany\u2019s former top diplomat says"
     }
   ]
 }
