@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3867,
+  "total_calls": 3871,
   "tiers": {
-    "groq": 3848,
+    "groq": 3852,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-08T16:01:18.631136+00:00",
-      "tier": "groq",
-      "article": "Israel wishes war cessation of war after Iran missile attacks"
-    },
-    {
-      "timestamp": "2026-06-08T16:01:36.691434+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-08T16:01:58.045807+00:00",
-      "tier": "groq",
-      "article": "Houthi rebels claim strike on Tel Aviv, announce ban on Israeli shipping in Red Sea"
-    },
-    {
-      "timestamp": "2026-06-08T16:02:47.948325+00:00",
-      "tier": "groq",
-      "article": "Canada halts Texas livestock imports over screwworm outbreak"
-    },
     {
       "timestamp": "2026-06-08T18:31:48.555292+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-12T18:14:20.088652+00:00",
       "tier": "groq",
       "article": "IDF caves to pressure by rabbis to keep tank crews single-sex"
+    },
+    {
+      "timestamp": "2026-06-12T21:52:47.883136+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-12T21:53:22.355023+00:00",
+      "tier": "groq",
+      "article": "At least one killed and nine hospitalised in Midland, Texas shooting"
+    },
+    {
+      "timestamp": "2026-06-12T21:54:09.426994+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-12T21:54:25.532186+00:00",
+      "tier": "groq",
+      "article": "Kiev troops bombard Donetsk People\u2019s Republic ten times over past day"
     }
   ]
 }

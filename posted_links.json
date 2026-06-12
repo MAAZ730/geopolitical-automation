@@ -1,4 +1,34 @@
 {
+  "d51cf957e1d27fb0cbeaa4e983177ea79b11967fce4a81f9d8ccf10063e41359": {
+    "url": "mod_russia_en/27495",
+    "title": "Russian Deputy Defence Minister Honours Military Personnel for Bravery in Special Operation",
+    "published": "2026-06-12T22:06:31.472903+00:00"
+  },
+  "c5b26324599815b53e93054a0109d7b8e47ad2ea25ffc1a740d2dfa49a5c5235": {
+    "url": "DDGeopolitics/186480",
+    "title": "Russia Uses Drones to Destroy Bridge in Ukraine's Kharkiv Region",
+    "published": "2026-06-12T21:58:46.322727+00:00"
+  },
+  "fc1ac60d2cb350a6627220d3b1b8a1b715cee1a7206f3f9dacaf90a980695599": {
+    "url": "QudsNen/227186",
+    "title": "Israeli Minister Ben Gvir Leads Forces in Hebron Crackdown",
+    "published": "2026-06-12T21:56:55.401413+00:00"
+  },
+  "43c8d319d498cd37c3b5d821bb6ad53aa9dbca332fd972dc8f17e63fa0becfb5": {
+    "url": "thecradlemedia/61803",
+    "title": "Trump Halts US Ground Invasion Plan to Seize Iran's Enriched Uranium",
+    "published": "2026-06-12T21:56:07.618409+00:00"
+  },
+  "916ac6834c943235d8abc9f4bb8b60e934beb2ea164a0a76ed5617133f5ca701": {
+    "url": "thecradlemedia/61804",
+    "title": "Hezbollah Targets Israeli Merkava Tank with Ababil Drone in Southern Lebanon",
+    "published": "2026-06-12T21:56:06.756327+00:00"
+  },
+  "8997e10fb43b8e1e6542485897dc8042de2d87bf27aca3633fb7421efbd44d5e": {
+    "url": "thecradlemedia/61805",
+    "title": "Lebanon Conflict Negotiations Unfold Beyond Borders",
+    "published": "2026-06-12T21:54:30.458501+00:00"
+  },
   "6876590a8b259a005e44fe6006f3fad98e02160bda5524859ec4e49259ef0f31": {
     "url": "Slavyangrad/166410",
     "title": "Independent Journalist Exposes Alleged War Crimes in Global Conflicts",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/61800",
     "title": "US-Iran Deal Hopes Rise Amid Israeli War Chief's Warning",
     "published": "2026-06-12T18:14:24.001729+00:00"
+  },
+  "ac94af24b0addb1bbff3bc64dc4ef3001cdd60fa350edd9ceb4158e8b296d853": {
+    "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss",
+    "title": "At least one killed and nine hospitalised in Midland, Texas shooting",
+    "published": "2026-06-12T18:11:35+00:00"
   },
   "8bbc6d4fcf9736011735d11ff8ff52eb15749ae65b9ecf23b854579fb5c3fc00": {
     "url": "https://tass.com/politics/2145879",
@@ -173,6 +208,11 @@
     "url": "thecradlemedia/61733",
     "title": "Iran Denies Finalizing US Agreement Amid Ongoing Diplomatic Talks",
     "published": "2026-06-11T23:30:51.428642+00:00"
+  },
+  "dbfbea127acdc382406c9b7a370ed94fcc1a09775964c645ea68cc439a03936a": {
+    "url": "https://tass.com/defense/2145749",
+    "title": "Kiev troops bombard Donetsk People\u2019s Republic ten times over past day",
+    "published": "2026-06-11T22:18:56+00:00"
   },
   "b42707a40592d11810a1753bed1d3b66e7a80516981e4664e1fa41ca5c0a2f6f": {
     "url": "https://en.irna.ir/news/86180226/Top-commander-warns-US-over-futile-cycle-of-lies-contradiction",
@@ -708,45 +748,5 @@
     "url": "warmonitors/44299",
     "title": "Tehran Explosions Raise Security Concerns",
     "published": "2026-06-09T15:06:35.453877+00:00"
-  },
-  "3f7f8a4c4ca046a33c92804c7648211b6cf159120b7237d950c9e6e6ee264697": {
-    "url": "warmonitors/44315",
-    "title": "Iranian Missile Strike Causes Damage to Ramat David Airbase in Northern Israel",
-    "published": "2026-06-09T15:05:10.979564+00:00"
-  },
-  "244d3abda54ef7c43e5eea84f5eb1c1ce6dc7cfd4b2f640e8824771c2ab9c692": {
-    "url": "DDGeopolitics/186162",
-    "title": "Iranian Missiles Strike Israeli Air Base, Damaging Storage Facility",
-    "published": "2026-06-09T15:05:07.596299+00:00"
-  },
-  "81591fe61077ad687693c4ed2a5122032e592409895133fec2fb874969458a6c": {
-    "url": "Middle_East_Spectator/33134",
-    "title": "Tel Aviv Car Bombing Leaves Damage and Casualties",
-    "published": "2026-06-09T15:04:52.931610+00:00"
-  },
-  "22a9bec84932584d13fdf2bca8fe27445e7291b558ce86ca36614c7cecae2ce9": {
-    "url": "thecradlemedia/61507",
-    "title": "IRGC Establishes Security Belt from Hormuz to Red Sea",
-    "published": "2026-06-09T15:03:42.034007+00:00"
-  },
-  "a4524c3747e1f5cc5bf2bd676c19d9be0c57fd9a519a02527fd5b3c9b655aab6": {
-    "url": "thecradlemedia/61508",
-    "title": "Israeli Airstrikes Hit Ancient City of Tyre in Lebanon",
-    "published": "2026-06-09T15:03:35.316902+00:00"
-  },
-  "667e2f8306ea0ea486f512753ba68824c15063694576866719f477cbb1557e04": {
-    "url": "https://en.irna.ir/news/86177574/Operation-Nasr-forced-enemy-to-beg-for-ceasefire-again-VP",
-    "title": "\u2018Operation Nasr\u2019 forced enemy to beg for ceasefire again: VP",
-    "published": "2026-06-09T12:49:47+00:00"
-  },
-  "00c3cd377a2ea4b8a3f06f97bbf7787450433e622f6fa013286b694b87ec8063": {
-    "url": "https://www.defensenews.com/global/europe/2026/06/09/airbus-led-alliance-lobbies-germany-on-fighter-jet-project/",
-    "title": "Airbus-led alliance lobbies Germany on fighter jet project",
-    "published": "2026-06-09T11:48:32+00:00"
-  },
-  "346a3c46dd95bae63487e198107f133cff7d789e4bef216063510fb476526b1f": {
-    "url": "DDGeopolitics/186147",
-    "title": "Iranian Ballistic Missiles Hit Ramat David Air Base in Northern Israel",
-    "published": "2026-06-09T11:25:48.047366+00:00"
   }
 }
