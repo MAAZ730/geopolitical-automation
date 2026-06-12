@@ -1,4 +1,34 @@
 {
+  "429e144e98ffd8c98587f8823af74d4e7c59304019adcf8d199eb6e93dc00e75": {
+    "url": "CyberspecNews/109540",
+    "title": "California Warehouse Fire Destroys Medline Industries Distribution Center",
+    "published": "2026-06-12T23:33:45.012448+00:00"
+  },
+  "90781c4ec4769beb784fffb82e3aa18c6ea321bdbfe6cca588d364e47993c117": {
+    "url": "CyberspecNews/109544",
+    "title": "Kharkiv Bridge Collapse: 43 Drones Strike Russian Infrastructure",
+    "published": "2026-06-12T23:31:11.660174+00:00"
+  },
+  "8e0022a6a1d2cd1438e6ebf6a0881d94ac65561afbf5c95aec098ba51cb8efd3": {
+    "url": "BellumActaNews/174121",
+    "title": "Iranian Revolutionary Guards Navy Deploys Domestic Speedboats in Persian Gulf",
+    "published": "2026-06-12T23:23:12.801743+00:00"
+  },
+  "6b1c4f3b1a71eb4299ca26226acab513619cddc501990a8a6a4fde0fe08b2a20": {
+    "url": "QudsNen/227207",
+    "title": "Israeli Artillery Strikes Nabatieh, Lebanon",
+    "published": "2026-06-12T23:22:40.652456+00:00"
+  },
+  "373a5b5746e746c9967b2f7fe22083153a9e8731cce1b74412e6e53e7c335ae5": {
+    "url": "thecradlemedia/61796",
+    "title": "Syrian President Rejects US Claims of Lebanon Intervention",
+    "published": "2026-06-12T23:22:15.059814+00:00"
+  },
+  "8a5008ec173ae3d6aba7608524f63b3c114e6a9d0b1da4908ab3731b95c2ea82": {
+    "url": "thecradlemedia/61810",
+    "title": "Iran's Araghchi Calls for Israel's Withdrawal from Southern Lebanon in Proposed Peace Deal",
+    "published": "2026-06-12T23:22:09.703669+00:00"
+  },
   "d51cf957e1d27fb0cbeaa4e983177ea79b11967fce4a81f9d8ccf10063e41359": {
     "url": "mod_russia_en/27495",
     "title": "Russian Deputy Defence Minister Honours Military Personnel for Bravery in Special Operation",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/61805",
     "title": "Lebanon Conflict Negotiations Unfold Beyond Borders",
     "published": "2026-06-12T21:54:30.458501+00:00"
+  },
+  "624a34c32d956be14f41f442e587d392a7e1813a186933beb5d48123ce1dcdc7": {
+    "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
+    "title": "Will there be a deal to end the Iran war this time?",
+    "published": "2026-06-12T20:44:04+00:00"
   },
   "6876590a8b259a005e44fe6006f3fad98e02160bda5524859ec4e49259ef0f31": {
     "url": "Slavyangrad/166410",
@@ -148,6 +183,11 @@
     "url": "https://en.mehrnews.com/news/245264/US-attacks-put-ceasefire-status-ineffective-Araghchi-warns",
     "title": "US attacks put ceasefire status \u2018ineffective\u2019: Araghchi warns",
     "published": "2026-06-12T06:28:34+00:00"
+  },
+  "404a3b7a1bd5b1888985e95f3bd9d00b8fc77ae0a7fb82039b90326846588349": {
+    "url": "https://en.irna.ir/news/86180303/IRGC-Iran-stronger-than-ever-fingers-on-trigger-for-decisive",
+    "title": "IRGC: Iran stronger than ever, fingers on trigger for decisive and regret-inducing response",
+    "published": "2026-06-12T05:37:27+00:00"
   },
   "8927cdfc7ad3cfd09f0e893f149833329ff5f68dbb0b754e825b40e383be0001": {
     "url": "wargonzo/34754",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/61514",
     "title": "Israel Uses Jordanian Airspace for Iran Strikes",
     "published": "2026-06-09T21:52:37.814811+00:00"
-  },
-  "51f74c6140c849a1ef9a754324712caa70913ad9af281a7d0639c555822ec4c9": {
-    "url": "https://tass.com/world/2144685",
-    "title": "US struck Kuwait with copied Iranian drone to sell it air defense systems \u2014 diplomat",
-    "published": "2026-06-09T18:33:58+00:00"
-  },
-  "3414464240fe59e994205663fa00a8fe741b1f2ddc8f019d64b6f1c87e02ab5f": {
-    "url": "Middle_East_Spectator/33148",
-    "title": "Israeli Airstrikes Rock Southern Lebanon",
-    "published": "2026-06-09T18:18:04.245057+00:00"
-  },
-  "875fa2089fee959f83d3a99ede79ef9435bf7cbfc5452e83851de398e841ecdc": {
-    "url": "Middle_East_Spectator/33160",
-    "title": "Israeli Interceptors Scrambled in Nahariyya",
-    "published": "2026-06-09T18:17:47.095060+00:00"
-  },
-  "e3bbc607ee7bab916a57ae69b405e807c58e30215c3454d7c31ee4f6e95532e5": {
-    "url": "thecradlemedia/61515",
-    "title": "Israeli Drone Strikes Hit Southern Lebanese Village",
-    "published": "2026-06-09T18:17:14.165326+00:00"
-  },
-  "b91cb49d026d02578cb2bdfadfe00c73c790a61c975ff6aa80f5306145bb809a": {
-    "url": "thecradlemedia/61517",
-    "title": "Iran Strikes Israeli Air Base in Support of Lebanon",
-    "published": "2026-06-09T18:17:11.494561+00:00"
-  },
-  "12900e2d8c15fd0e886fa1a00db5f48ed63d8cb1d1cd0c0b5ad653e5d3099262": {
-    "url": "thecradlemedia/61518",
-    "title": "Israeli Airstrikes Hit Sejoud in South Lebanon",
-    "published": "2026-06-09T18:17:09.625574+00:00"
-  },
-  "5484fcc1644035c96cf4bfd8a1536b8c37af1a021bc39100dbc57dd44c816dfe": {
-    "url": "thecradlemedia/61521",
-    "title": "Israeli Drone Strike Hits Water Station in Southern Lebanon",
-    "published": "2026-06-09T18:16:36.363181+00:00"
-  },
-  "b2f6a409ff0669c77cf4a963ff960ec3a92e3ce6c01c9648ba0f19f146a9592f": {
-    "url": "warmonitors/44299",
-    "title": "Tehran Explosions Raise Security Concerns",
-    "published": "2026-06-09T15:06:35.453877+00:00"
   }
 }
