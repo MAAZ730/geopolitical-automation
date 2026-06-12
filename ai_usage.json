@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3863,
+  "total_calls": 3867,
   "tiers": {
-    "groq": 3844,
+    "groq": 3848,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-08T11:05:25.910955+00:00",
-      "tier": "groq",
-      "article": "Israel comes under new Iranian missile attack, explosions heard in center \u2014 IDF"
-    },
-    {
-      "timestamp": "2026-06-08T11:06:00.033211+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-08T11:06:46.944497+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes Haifa in retaliation for petchem attack"
-    },
-    {
-      "timestamp": "2026-06-08T11:07:05.551124+00:00",
-      "tier": "groq",
-      "article": "Top Russian senator advises Zelensky to cancel his ban on negotiations with Moscow"
-    },
     {
       "timestamp": "2026-06-08T16:01:18.631136+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-12T15:25:03.036960+00:00",
       "tier": "groq",
       "article": "Europe missed its chance to talk with Russia in 2021, Germany\u2019s former top diplomat says"
+    },
+    {
+      "timestamp": "2026-06-12T18:12:42.375122+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-12T18:13:14.622454+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-12T18:14:01.724430+00:00",
+      "tier": "groq",
+      "article": "Russia sought for eight years to stop war in Ukraine \u2014 Putin"
+    },
+    {
+      "timestamp": "2026-06-12T18:14:20.088652+00:00",
+      "tier": "groq",
+      "article": "IDF caves to pressure by rabbis to keep tank crews single-sex"
     }
   ]
 }
