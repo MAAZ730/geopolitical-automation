@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3883,
+  "total_calls": 3887,
   "tiers": {
-    "groq": 3864,
+    "groq": 3868,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-09T03:50:52.360491+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-09T03:51:08.906150+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: New attacks, ban on Israeli shipping in Red Sea, Middle East developments"
-    },
-    {
-      "timestamp": "2026-06-09T03:51:38.486306+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-09T03:51:54.400819+00:00",
-      "tier": "groq",
-      "article": "Hostile drone shot down over Tehran"
-    },
     {
       "timestamp": "2026-06-09T07:53:53.484272+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-13T09:25:30.660008+00:00",
       "tier": "groq",
       "article": "Iran \u2018more prepared, powerful, deterrent position than ever'"
+    },
+    {
+      "timestamp": "2026-06-13T11:58:51.584380+00:00",
+      "tier": "groq",
+      "article": "One civilian killed, five others injured in Ukrainian attacks on Kherson Region"
+    },
+    {
+      "timestamp": "2026-06-13T11:59:11.558219+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-13T11:59:28.456805+00:00",
+      "tier": "groq",
+      "article": "Warnings Across Nabatieh and Jezzine as Israeli Aggression Widens - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-13T11:59:47.897684+00:00",
+      "tier": "groq",
+      "article": "Slovenia lifts arms embargo on Israel"
     }
   ]
 }
