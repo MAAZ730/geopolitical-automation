@@ -1,4 +1,34 @@
 {
+  "bf6a8cb1fb6867aa244f2d64926e8e59af6cd23efb260be7cde80768e428f206": {
+    "url": "Slavyangrad/166442",
+    "title": "UK Defence Secretary Resigns Amid Russia Threats",
+    "published": "2026-06-13T04:19:09.809899+00:00"
+  },
+  "01ac656536f91192f0cf9d847b9ca8ae63970bb76d8838ef8152ef0c9b8c14f8": {
+    "url": "presstv/193862",
+    "title": "Israeli Forces Clash with Hezbollah in Southern Lebanon",
+    "published": "2026-06-13T04:16:02.622200+00:00"
+  },
+  "6e7ba85842d44360b6207af4d30c9c367bd92bb1e4179f97d018e1de5a9ef6f2": {
+    "url": "presstv/193864",
+    "title": "Gaza Children Turn Ruins of Damaged Vehicles into Playground",
+    "published": "2026-06-13T04:14:47.278144+00:00"
+  },
+  "7508e26d2cb773c45b38e6f212600c2f79db1f8e88b213cb5ea4600389d4e272": {
+    "url": "QudsNen/227211",
+    "title": "Hezbollah- Israel Clashes Escalate in Southern Lebanon",
+    "published": "2026-06-13T04:11:15.021322+00:00"
+  },
+  "f311541ac61240fa0c70bffbf1121b36119c0e1ba041d020b59e7f9341babe9a": {
+    "url": "Middle_East_Spectator/33467",
+    "title": "Iranian Drones Intercepted in Strait of Hormuz",
+    "published": "2026-06-13T04:09:48.601419+00:00"
+  },
+  "b9271c196391695f57670932b46b4dc8692d63b69a0f2c63ac48ae4fddc332c9": {
+    "url": "thecradlemedia/61795",
+    "title": "US Draws Down Military Presence in Europe Amid NATO Spending Pressure",
+    "published": "2026-06-13T04:09:44.682690+00:00"
+  },
   "429e144e98ffd8c98587f8823af74d4e7c59304019adcf8d199eb6e93dc00e75": {
     "url": "CyberspecNews/109540",
     "title": "California Warehouse Fire Destroys Medline Industries Distribution Center",
@@ -134,6 +164,11 @@
     "title": "Israeli Firm Accused of Election Meddling in New York, Scotland, and Africa",
     "published": "2026-06-12T15:25:09.522509+00:00"
   },
+  "3417bcdee0821de915e54e4d2c347db782a285b4534617bf1ef696e4b7ccb959": {
+    "url": "https://tass.com/politics/2145865",
+    "title": "Russia to increase retaliatory strikes on Ukrainian infrastructure facilities \u2014 Putin",
+    "published": "2026-06-12T15:02:16+00:00"
+  },
   "fc84523ab6daecf10128a3fbba8e2d343ae79295370df1e3ae051e955d8e60db": {
     "url": "https://thecradle.co/articles-id/38209",
     "title": "Half of Israelis agree deterrence &#039;weakened&#039; following wars in Iran, Lebanon: Poll",
@@ -183,6 +218,11 @@
     "url": "https://en.mehrnews.com/news/245264/US-attacks-put-ceasefire-status-ineffective-Araghchi-warns",
     "title": "US attacks put ceasefire status \u2018ineffective\u2019: Araghchi warns",
     "published": "2026-06-12T06:28:34+00:00"
+  },
+  "ab4017e14f142c8541cbad52bbf51859e33562cdcfc1cdccf86794921fa9421d": {
+    "url": "https://en.mehrnews.com/news/245263/Sustainable-peace-security-in-ME-requires-end-to-aggression",
+    "title": "Sustainable peace, security in ME requires end to aggression",
+    "published": "2026-06-12T06:01:38+00:00"
   },
   "404a3b7a1bd5b1888985e95f3bd9d00b8fc77ae0a7fb82039b90326846588349": {
     "url": "https://en.irna.ir/news/86180303/IRGC-Iran-stronger-than-ever-fingers-on-trigger-for-decisive",
@@ -708,45 +748,5 @@
     "url": "Middle_East_Spectator/33200",
     "title": "Iranian Drones Enter Iraqi Skies Amid Rising Tensions",
     "published": "2026-06-09T23:23:49.990992+00:00"
-  },
-  "b29949fffdfd290b6127df1c2b33d6f901c6c4096e971aad13f7c31e03650aaa": {
-    "url": "thecradlemedia/61511",
-    "title": "Lebanese Army Chief Visits Pakistan Amid Regional Escalation",
-    "published": "2026-06-09T23:23:26.194914+00:00"
-  },
-  "ff5cf0f8280b6dc5c57834b0fc0232a670feda413e6a533aa1b3acfc35fdf6aa": {
-    "url": "thecradlemedia/61512",
-    "title": "Israel's Aggression in Lebanon Derails US-Iran Talks",
-    "published": "2026-06-09T23:23:24.375273+00:00"
-  },
-  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
-    "url": "CensoredMen/189",
-    "title": "Iranian Missiles Strike Israel in Escalating Regional Tensions",
-    "published": "2026-06-09T22:04:15.083409+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel Intensifies Strikes in Lebanon Amid Ceasefire Uncertainty",
-    "published": "2026-06-09T22:01:22.359297+00:00"
-  },
-  "8d9fd15102888a4e5d703feaa2ff3a7bb83babd93e500cb51c42a788d66d4795": {
-    "url": "BellumActaNews/173895",
-    "title": "Car Explosion Claims Life in Moscow Oblast",
-    "published": "2026-06-09T21:58:46.275137+00:00"
-  },
-  "3e15aeac6676e8e7da5274af97ba7e33f2546a8b63ec1fd46924dd82c0d0583a": {
-    "url": "BellumActaNews/173898",
-    "title": "Israel Orders Evacuation of Tyre City Amid Escalating Tensions with Hezbollah",
-    "published": "2026-06-09T21:55:50.077949+00:00"
-  },
-  "757714502393c7995dc03a75f46d75387b54672546308531c9c57b250dcf99d5": {
-    "url": "thecradlemedia/61513",
-    "title": "US Energy Secretary Downplays Economic Fallout of Iran Conflict",
-    "published": "2026-06-09T21:52:44.833548+00:00"
-  },
-  "727fbb6443bebfc3173a53e85cfa0a989627228d5dedf3b8fbefc310d403b6f5": {
-    "url": "thecradlemedia/61514",
-    "title": "Israel Uses Jordanian Airspace for Iran Strikes",
-    "published": "2026-06-09T21:52:37.814811+00:00"
   }
 }

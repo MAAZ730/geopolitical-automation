@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3875,
+  "total_calls": 3879,
   "tiers": {
-    "groq": 3856,
+    "groq": 3860,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-08T21:55:08.816738+00:00",
-      "tier": "groq",
-      "article": "CCTV captures moment of deadly strike on Zaporizhzhia, Ukraine"
-    },
-    {
-      "timestamp": "2026-06-08T21:55:24.932187+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-08T21:55:47.424073+00:00",
-      "tier": "groq",
-      "article": "\u2018We basically lost\u2019: Tel Aviv residents react after Israel-Iran strikes"
-    },
-    {
-      "timestamp": "2026-06-08T21:56:39.039147+00:00",
-      "tier": "groq",
-      "article": "Europe no longer part of Iran's nuclear negotiations"
-    },
     {
       "timestamp": "2026-06-08T23:16:38.887577+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-12T23:22:00.485273+00:00",
       "tier": "groq",
       "article": "IRGC: Iran stronger than ever, fingers on trigger for decisive and regret-inducing response"
+    },
+    {
+      "timestamp": "2026-06-13T04:08:03.981030+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-13T04:08:20.641519+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-13T04:08:43.454566+00:00",
+      "tier": "groq",
+      "article": "Russia to increase retaliatory strikes on Ukrainian infrastructure facilities \u2014 Putin"
+    },
+    {
+      "timestamp": "2026-06-13T04:09:34.959249+00:00",
+      "tier": "groq",
+      "article": "Sustainable peace, security in ME requires end to aggression"
     }
   ]
 }
