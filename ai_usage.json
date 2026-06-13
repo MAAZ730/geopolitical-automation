@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3879,
+  "total_calls": 3883,
   "tiers": {
-    "groq": 3860,
+    "groq": 3864,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-08T23:16:38.887577+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-08T23:17:12.919050+00:00",
-      "tier": "groq",
-      "article": "Ceasefire on paper, violations in practice equation disrupted"
-    },
-    {
-      "timestamp": "2026-06-08T23:17:31.408318+00:00",
-      "tier": "groq",
-      "article": "Lebanon says Israel has bombed it nearly 3,500 times"
-    },
-    {
-      "timestamp": "2026-06-08T23:17:49.071691+00:00",
-      "tier": "groq",
-      "article": "US responsible for outcomes of escalating tension in region"
-    },
     {
       "timestamp": "2026-06-09T03:50:52.360491+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-13T04:09:34.959249+00:00",
       "tier": "groq",
       "article": "Sustainable peace, security in ME requires end to aggression"
+    },
+    {
+      "timestamp": "2026-06-13T09:23:58.004272+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-13T09:24:34.225663+00:00",
+      "tier": "groq",
+      "article": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help"
+    },
+    {
+      "timestamp": "2026-06-13T09:24:50.221008+00:00",
+      "tier": "groq",
+      "article": "US says Tren de Aragua leader killed in Venezuela strike"
+    },
+    {
+      "timestamp": "2026-06-13T09:25:30.660008+00:00",
+      "tier": "groq",
+      "article": "Iran \u2018more prepared, powerful, deterrent position than ever'"
     }
   ]
 }
