@@ -1,4 +1,34 @@
 {
+  "4d53bd710cf0069bac7d9e4bc8d2bcffb6caab1b16b14529aa863f2e40ed646c": {
+    "url": "BellumActaNews/174141",
+    "title": "Hezbollah Rocket Strikes Near Church in Southern Lebanon",
+    "published": "2026-06-13T17:38:21.141111+00:00"
+  },
+  "52f986f5e9cf72ccf17b69e3cb4204ebfdbd6ce60ab57f57413d50240e25e00d": {
+    "url": "QudsNen/227298",
+    "title": "Palestinian Detained by Israeli Forces in Al-Fawwar Refugee Camp",
+    "published": "2026-06-13T17:37:05.270903+00:00"
+  },
+  "13f46f9dab9ef111bbbbd8a4f1717363ea454d6a02000799c8e6195f4399feb5": {
+    "url": "QudsNen/227305",
+    "title": "Israeli Occupation Forces Shell Nabatieh's Ali al-Tahir Hill",
+    "published": "2026-06-13T17:36:36.586594+00:00"
+  },
+  "59f2eb1b6851b083e165aabfb841b5de6abb1ee5a514ee17ad0f73c889293b9a": {
+    "url": "Middle_East_Spectator/33472",
+    "title": "Revised US-Iran Agreement Sparks Debate Among Iranian Officials",
+    "published": "2026-06-13T17:33:36.751837+00:00"
+  },
+  "6e305f0e1a69e54d2ddc0055a78c33e57b5adec34ea0d69d7fbc5af32ef901c3": {
+    "url": "thecradlemedia/61865",
+    "title": "Israeli Attack Kills Lebanese Administrative Officer, Association Condemns Violence",
+    "published": "2026-06-13T17:30:34.255414+00:00"
+  },
+  "18f2b0a21aa97d2abb0eb84eafcfceadd1d5e7f6e36a319bda6cddd8e1106b3b": {
+    "url": "thecradlemedia/61867",
+    "title": "US Military Construction Underway in Gaza Amid Ongoing Israeli Operations",
+    "published": "2026-06-13T17:30:30.304560+00:00"
+  },
   "83a34baeb67b13217befc5dbe733c1da5bcda3978dd90be4a6fd4a4958571b35": {
     "url": "presstv/193922",
     "title": "Israeli Forces Strike Southern Lebanese Town with Artillery Shells",
@@ -208,6 +238,16 @@
     "url": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
     "title": "Will there be a deal to end the Iran war this time?",
     "published": "2026-06-12T20:44:04+00:00"
+  },
+  "4a74bda3fd471de1659b2bb389debe47fe1b9fec0326987efbcaf3b482207796": {
+    "url": "https://www.rt.com/news/641484-palestine-action-terrorism-sentence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Palestine Action activists handed terrorism sentences",
+    "published": "2026-06-12T19:41:53+00:00"
+  },
+  "a670120d133480291ea3f285bb743c96449cdbd81bbad8ec40e7c1084109f188": {
+    "url": "https://tass.com/politics/2145895",
+    "title": "IN BRIEF: Putin speaks on retaliatory strikes, development of AI-powered drones",
+    "published": "2026-06-12T19:08:37+00:00"
   },
   "6876590a8b259a005e44fe6006f3fad98e02160bda5524859ec4e49259ef0f31": {
     "url": "Slavyangrad/166410",
@@ -708,45 +748,5 @@
     "url": "warmonitors/44331",
     "title": "Iranian Missile or Drone Hits U.S. Fifth Fleet Base in Bahrain",
     "published": "2026-06-10T15:55:25.071335+00:00"
-  },
-  "0b1812acac98b0647ba7ab96245479992d97482619d7630327ac354fc2f0045a": {
-    "url": "warmonitors/44333",
-    "title": "Iran Shoots Down US MQ-9 Reaper Drone in Iranian Skies",
-    "published": "2026-06-10T15:54:43.317671+00:00"
-  },
-  "e521a4f7d64fc0880bd801b69b1229c105bf2485de70e1ad7c9d5a707aeef00e": {
-    "url": "DDGeopolitics/186257",
-    "title": "US-Israeli Forces Strike Iran's Hormozgan Province Water Infrastructure",
-    "published": "2026-06-10T15:51:49.135392+00:00"
-  },
-  "805342b69d9c7d4780f510a995884a1fe61be5c0ef74624198fbf3ea2c941be9": {
-    "url": "Middle_East_Spectator/33266",
-    "title": "IRGC Operative Threatens US Forces Amid Missile Strikes on Muwaffaq al Salti Air Base",
-    "published": "2026-06-10T15:49:39.471131+00:00"
-  },
-  "602d5bec9b23adf8baa3d5d131038220fa8981695abae70d821f12a9ef1f5590": {
-    "url": "thecradlemedia/61619",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-06-10T15:47:01.041931+00:00"
-  },
-  "e3169052a10fe10289e4a98aa3e559f089d5f7da4526169bf7754a096cf2fcd3": {
-    "url": "thecradlemedia/61622",
-    "title": "Israel Advances Bill Equating Torah Study with Military Service",
-    "published": "2026-06-10T15:46:55.282099+00:00"
-  },
-  "1b1b2bdf81d3304e0c33c7a611c6dc85dea427f3bdec2f9f1d49bd3b5d703016": {
-    "url": "https://en.mehrnews.com/news/245239/Satellite-imagery-shows-damage-at-Israeli-base-after-strikes",
-    "title": "Satellite imagery shows damage at Israeli base after strikes",
-    "published": "2026-06-10T12:32:36+00:00"
-  },
-  "6a1f2688d5c7d5f4d6ed53c3f59b715ef71c8d6cd18c844f12a2fa6055e30ece": {
-    "url": "https://www.defensenews.com/global/asia-pacific/2026/06/10/the-us-usually-sells-weapons-to-taiwan-with-drones-expect-the-reverse/",
-    "title": "The US usually sells weapons to Taiwan \u2013 with drones, expect the reverse",
-    "published": "2026-06-10T12:00:22+00:00"
-  },
-  "12eacb93e3bc0c2ec59957b096198678653167559a7c330c19fd3e2421b46aa2": {
-    "url": "thecradlemedia/61539",
-    "title": "Iranian Missile Strikes US Fifth Fleet Base in Bahrain",
-    "published": "2026-06-10T10:18:23.832035+00:00"
   }
 }
