@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3887,
+  "total_calls": 3891,
   "tiers": {
-    "groq": 3868,
+    "groq": 3872,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-09T07:53:53.484272+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-09T07:54:26.816472+00:00",
-      "tier": "groq",
-      "article": "Ukrainian strikes killed more than 40 Russians over past week \u2014 envoy"
-    },
-    {
-      "timestamp": "2026-06-09T07:54:45.878660+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-09T07:55:01.960931+00:00",
-      "tier": "groq",
-      "article": "Iran dismantles four terror cells in southeast, 19 arrested"
-    },
     {
       "timestamp": "2026-06-09T11:20:12.027430+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-13T11:59:47.897684+00:00",
       "tier": "groq",
       "article": "Slovenia lifts arms embargo on Israel"
+    },
+    {
+      "timestamp": "2026-06-13T14:09:04.403987+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-13T14:09:37.648532+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-13T14:10:23.823567+00:00",
+      "tier": "groq",
+      "article": "Ukraine attacks transport workshop of Zaporozhye nuclear power plant"
+    },
+    {
+      "timestamp": "2026-06-13T14:10:42.381835+00:00",
+      "tier": "groq",
+      "article": "Work underway on satellite consternation for operating heavy drones \u2014 Putin"
     }
   ]
 }
