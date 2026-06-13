@@ -1,4 +1,34 @@
 {
+  "10a740c516f42832a19fd90abd7b1d1275d06f37e2182fbe6d901d5c55652a0f": {
+    "url": "presstv/193962",
+    "title": "Hezbollah Drone Strike Targets Israeli Military HQ in Southern Lebanon",
+    "published": "2026-06-13T23:20:25.453034+00:00"
+  },
+  "91b4c55e96da4d6844c7b580e8776df10b4caecda78e66e2d0939926dd46bf7e": {
+    "url": "presstv/193965",
+    "title": "Woman Dies in Bungee Jumping Accident in Limeira, Brazil",
+    "published": "2026-06-13T23:18:07.586467+00:00"
+  },
+  "74e785e7d073b0cb1f84d6ca69d926ffbe5d8546b1bfb5b541874c5829f62839": {
+    "url": "presstv/193969",
+    "title": "Hezbollah Rockets Hit Israeli Forces in Majdal Zoun, Lebanon",
+    "published": "2026-06-13T23:16:37.576719+00:00"
+  },
+  "ff9c0175e6660872e31b6f4426748c4c43a8855d71cfeaf905487ffb1da0c20a": {
+    "url": "QudsNen/227349",
+    "title": "Israeli Naval Fire Hits Gaza City Refugee Tents",
+    "published": "2026-06-13T23:12:43.656335+00:00"
+  },
+  "262df0b2569c98006aef6e8981bd448c2b057e76c0e8a0f5eaeb94c80a2bb6a4": {
+    "url": "Middle_East_Spectator/33495",
+    "title": "Hezbollah Ambushes Israeli Tanks in Lebanon Border Skirmish",
+    "published": "2026-06-13T23:11:12.790640+00:00"
+  },
+  "2dab09bac863aedd53dedc4c15f54dce5d77d5bfdd922bf670de6b5f65071c88": {
+    "url": "Middle_East_Spectator/33503",
+    "title": "Iranian Strike Destroys Radar at U.S. Airbase in Kuwait",
+    "published": "2026-06-13T23:11:07.266895+00:00"
+  },
   "e62bc38c6f692581d6b17159b0e63638dde5c0b73693171c321e333789978172": {
     "url": "presstv/193956",
     "title": "Hezbollah Drone Targets Israeli Command Vehicle in Southern Lebanon",
@@ -134,6 +164,11 @@
     "title": "Ukraine attacks transport workshop of Zaporozhye nuclear power plant",
     "published": "2026-06-13T14:05:41+00:00"
   },
+  "45067596ed25ad99da83dc5997f25abcf8f845cc591462dd306b545333710ef4": {
+    "url": "https://tass.com/defense/2146045",
+    "title": "Russia hits Ukrainian army deployment sites in DPR with FAB bombs \u2014 Defense Ministry",
+    "published": "2026-06-13T14:01:37+00:00"
+  },
   "c1991adce675fbc29c66a3d5c9075188c00307a9041456925ad9508975568374": {
     "url": "BellumActaNews/174123",
     "title": "Lebanese Activist Urges Shiites to Rebel against Hizbullah",
@@ -203,6 +238,11 @@
     "url": "https://tass.com/defense/2145967",
     "title": "One civilian killed, five others injured in Ukrainian attacks on Kherson Region",
     "published": "2026-06-13T07:57:53+00:00"
+  },
+  "9a67c6912f32949818f00b52cfe1a499f82628a201dbde2cd0fcbcabffff8f35": {
+    "url": "https://en.mehrnews.com/news/245288/World-to-soon-hear-echo-of-Iran-victory-over-terrorist-enemy",
+    "title": "World to soon hear echo of Iran victory over terrorist enemy",
+    "published": "2026-06-13T06:57:58+00:00"
   },
   "508853b50559e5517ab4d9dd8233bbbe6b7d64443e5bdacecfd95184e66cd79e": {
     "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss",
@@ -708,45 +748,5 @@
     "url": "https://tass.com/politics/2145337",
     "title": "Fire at oil refinery in Krasnodar Region caused by drone debris extinguished",
     "published": "2026-06-11T04:52:10+00:00"
-  },
-  "b0486bea83a05958ab05c35448a6d7c6fd63f8e9b20328a699f72be1413d9cfe": {
-    "url": "QudsNen/226950",
-    "title": "US Airstrikes Hit Karaj in Northern Iran",
-    "published": "2026-06-11T04:23:04.533820+00:00"
-  },
-  "f50171e8a2e0419018853c70dd2e36fcbec81d6fbfb16c9d243a47fa8ab64043": {
-    "url": "Middle_East_Spectator/33371",
-    "title": "Patriot Missile Interceptors Deployed in Amman Amid Regional Tensions",
-    "published": "2026-06-11T04:22:24.309734+00:00"
-  },
-  "fb73a5846027f5acc565771dc7f2b8206041127d11e2853bcb2175d87070bdc2": {
-    "url": "Middle_East_Spectator/33378",
-    "title": "Iran Ballistic Missile Launch from Esfahan",
-    "published": "2026-06-11T04:21:09.790682+00:00"
-  },
-  "0321657afb002728bda2b496daefb5c73cd49ff4e925c3fa0eed6b4be3800ac6": {
-    "url": "Middle_East_Spectator/33379",
-    "title": "Iran Launches Ballistic Missiles from Esfahan",
-    "published": "2026-06-11T04:21:08.741991+00:00"
-  },
-  "6cbe87aeab185220de5278c705569536f2d15e2f14de32207642a58a14730e8f": {
-    "url": "Middle_East_Spectator/33382",
-    "title": "Drone Sighting Raises Security Concerns in Kuwait",
-    "published": "2026-06-11T04:20:34.125098+00:00"
-  },
-  "11155f847077bcb6b4e39dc90748bbd1f596603e58a1f493309b3ee4b31056e1": {
-    "url": "thecradlemedia/61641",
-    "title": "US Launches Airstrike Against Iran Targets Amid Reports of Ceasefire Request",
-    "published": "2026-06-11T04:16:57.752644+00:00"
-  },
-  "a86488811f5ef82a69d768df054554c32a1392309baa7379c3578c38c324d9b0": {
-    "url": "https://tass.com/world/2145293",
-    "title": "Iran attacks US facilities in Middle East following US strikes \u2014 agency",
-    "published": "2026-06-11T00:42:00+00:00"
-  },
-  "0124e3dcc845a8a01da0647694603ffd20d11499661231ee6165e1d89b8ef462": {
-    "url": "Slavyangrad/166260",
-    "title": "US Envoy Sees Path to Iran Nuclear Deal Amid Escalation",
-    "published": "2026-06-10T22:12:30.051990+00:00"
   }
 }

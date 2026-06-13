@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3903,
+  "total_calls": 3907,
   "tiers": {
-    "groq": 3884,
+    "groq": 3888,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-09T21:50:54.452881+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-09T21:51:28.471824+00:00",
-      "tier": "groq",
-      "article": "US struck Kuwait with copied Iranian drone to sell it air defense systems \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-06-09T21:52:15.660964+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-09T21:52:32.039377+00:00",
-      "tier": "groq",
-      "article": "Iran urges unconditional release of Afghanistan frozen assets"
-    },
     {
       "timestamp": "2026-06-09T23:22:11.383499+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-13T21:24:26.771906+00:00",
       "tier": "groq",
       "article": "Only 1 in 4 F-35s is fully mission capable, GAO finds "
+    },
+    {
+      "timestamp": "2026-06-13T23:10:08.598137+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-13T23:10:25.279336+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-13T23:10:41.553605+00:00",
+      "tier": "groq",
+      "article": "Russia hits Ukrainian army deployment sites in DPR with FAB bombs \u2014 Defense Ministry"
+    },
+    {
+      "timestamp": "2026-06-13T23:11:00.891825+00:00",
+      "tier": "groq",
+      "article": "World to soon hear echo of Iran victory over terrorist enemy"
     }
   ]
 }
