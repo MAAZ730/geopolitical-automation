@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3899,
+  "total_calls": 3903,
   "tiers": {
-    "groq": 3880,
+    "groq": 3884,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-09T18:13:12.608086+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-09T18:13:44.984814+00:00",
-      "tier": "groq",
-      "article": "\u2018Operation Nasr\u2019 forced enemy to beg for ceasefire again: VP"
-    },
-    {
-      "timestamp": "2026-06-09T18:14:33.947865+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-09T18:15:21.287508+00:00",
-      "tier": "groq",
-      "article": "Berlin protesters demand Merz resign (VIDEO)"
-    },
     {
       "timestamp": "2026-06-09T21:50:54.452881+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-13T19:45:43.211283+00:00",
       "tier": "groq",
       "article": "Israel seeks to derail signing of agreement between Iran, US \u2014 top Iranian diplomat"
+    },
+    {
+      "timestamp": "2026-06-13T21:22:53.149936+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-13T21:23:25.335520+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-13T21:23:41.359654+00:00",
+      "tier": "groq",
+      "article": "Company making Hornet drones for attacks on Russia owned by Google ex-head \u2014 envoy"
+    },
+    {
+      "timestamp": "2026-06-13T21:24:26.771906+00:00",
+      "tier": "groq",
+      "article": "Only 1 in 4 F-35s is fully mission capable, GAO finds "
     }
   ]
 }
