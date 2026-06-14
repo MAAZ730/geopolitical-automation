@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3915,
+  "total_calls": 3919,
   "tiers": {
-    "groq": 3896,
+    "groq": 3900,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-10T10:10:33.207979+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries"
-    },
-    {
-      "timestamp": "2026-06-10T10:10:49.472567+00:00",
-      "tier": "groq",
-      "article": "Pakistan carries out strikes on Afghanistan, 13 people killed \u2014 Afghan authorities"
-    },
-    {
-      "timestamp": "2026-06-10T10:11:24.050733+00:00",
-      "tier": "groq",
-      "article": "Iran Strikes Back: Retaliatory Attacks Hit US Targets Across Region - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-10T10:11:42.540680+00:00",
-      "tier": "groq",
-      "article": "Airbus-led alliance lobbies Germany on fighter jet project"
-    },
     {
       "timestamp": "2026-06-10T15:45:48.065302+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-14T09:44:24.224949+00:00",
       "tier": "groq",
       "article": "Pentagon releases third batch of UFO files"
+    },
+    {
+      "timestamp": "2026-06-14T12:03:18.406855+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-14T12:03:34.671204+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-14T12:03:50.675764+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-14T12:04:06.967349+00:00",
+      "tier": "groq",
+      "article": "EU Foreign Policy chief slams violence by Israel settlers"
     }
   ]
 }
