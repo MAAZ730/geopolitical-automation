@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3907,
+  "total_calls": 3911,
   "tiers": {
-    "groq": 3888,
+    "groq": 3892,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-09T23:22:11.383499+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-09T23:22:44.034223+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-09T23:23:00.500240+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-09T23:23:16.967146+00:00",
-      "tier": "groq",
-      "article": "FSB foils prison terror plot in Russia\u2019s Ulyanovsk region"
-    },
     {
       "timestamp": "2026-06-10T04:04:33.825422+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-13T23:11:00.891825+00:00",
       "tier": "groq",
       "article": "World to soon hear echo of Iran victory over terrorist enemy"
+    },
+    {
+      "timestamp": "2026-06-14T04:23:50.988774+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-14T04:24:26.500780+00:00",
+      "tier": "groq",
+      "article": "Use of AI in Iran school strike did not violate Anthropic\u2019s \u2018red lines,\u2019 CEO Amodei says"
+    },
+    {
+      "timestamp": "2026-06-14T04:24:43.996771+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-14T04:25:26.212974+00:00",
+      "tier": "groq",
+      "article": "IAEA's political game against Iran"
     }
   ]
 }
