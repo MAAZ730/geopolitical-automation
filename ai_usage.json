@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3919,
+  "total_calls": 3923,
   "tiers": {
-    "groq": 3900,
+    "groq": 3904,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-10T15:45:48.065302+00:00",
-      "tier": "groq",
-      "article": "Satellite imagery shows damage at Israeli base after strikes"
-    },
-    {
-      "timestamp": "2026-06-10T15:46:10.567250+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-10T15:46:33.621954+00:00",
-      "tier": "groq",
-      "article": "Drones that attacked Melitopol packed with lethal fragments"
-    },
-    {
-      "timestamp": "2026-06-10T15:46:53.166849+00:00",
-      "tier": "groq",
-      "article": "Sea drone rescues US army helicopter crew near Strait of Hormuz"
-    },
     {
       "timestamp": "2026-06-10T18:40:39.848667+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-14T12:04:06.967349+00:00",
       "tier": "groq",
       "article": "EU Foreign Policy chief slams violence by Israel settlers"
+    },
+    {
+      "timestamp": "2026-06-14T14:26:09.661485+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-14T14:26:41.895021+00:00",
+      "tier": "groq",
+      "article": "Hezbollah commander killed in Israeli strike against Beirut \u2014 TV"
+    },
+    {
+      "timestamp": "2026-06-14T14:27:28.305022+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-14T14:27:44.528094+00:00",
+      "tier": "groq",
+      "article": "Iran is stronger than ever in the face of threats: Momeni"
     }
   ]
 }
