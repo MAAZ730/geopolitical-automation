@@ -1,4 +1,34 @@
 {
+  "0ed46ecc45b39c93e1d8f0ebe1cf82a5483328d6727cb21eb6bd9c6c7c67eff3": {
+    "url": "warmonitors/44448",
+    "title": "Israeli Airstrike Hits Residential Building in Beirut",
+    "published": "2026-06-14T17:34:55.087167+00:00"
+  },
+  "5c211c5cb8986814a724626491501a79c86801b705397678957ed0b99b1f673e": {
+    "url": "DDGeopolitics/186575",
+    "title": "US Politician Disputes Claims of Low Munitions Stockpiles",
+    "published": "2026-06-14T17:34:36.237191+00:00"
+  },
+  "980274559b87a568747f65562eb13ba4ce2440ba0c9a3b8c26daa3e2db935c75": {
+    "url": "DDGeopolitics/186580",
+    "title": "US Entanglement in Foreign Conflict Raises Questions on Military Intervention Policy",
+    "published": "2026-06-14T17:31:35.201492+00:00"
+  },
+  "ee314f5f70abef00a0581246ba23a139feaf152e94aee41c69791eef0bc4cfea": {
+    "url": "QudsNen/227431",
+    "title": "Israeli Airstrike Kills Civilians in Jabalia Refugee Camp",
+    "published": "2026-06-14T17:29:48.144913+00:00"
+  },
+  "eb57d1952864c8a9e3891698e6038da45d98e6d8feac5610ae93c28199ac3921": {
+    "url": "thecradlemedia/61916",
+    "title": "Iranian President Reiterates Leadership's Authority on War and Negotiation",
+    "published": "2026-06-14T17:27:53.078070+00:00"
+  },
+  "64c9f75b7ad5e65712e2468044f24e92b7135ad465b6cd71f94145a4fa44c80f": {
+    "url": "thecradlemedia/61920",
+    "title": "Iran's Military Commander Vows Enhanced Capabilities Amid Ongoing Tensions",
+    "published": "2026-06-14T17:27:49.563390+00:00"
+  },
   "241a0fa43da0da2cd1d4e4d4f5f7737d2830a9d83b2ddd4e8079b64c8644f21c": {
     "url": "QudsNen/227410",
     "title": "Israeli Forces Fire on Civilians in Gaza City",
@@ -228,6 +258,11 @@
     "url": "https://tass.com/world/2146095",
     "title": "Number of victims of Israeli strikes on Lebanon increases to 3,756 \u2014 Health Ministry",
     "published": "2026-06-13T17:56:32+00:00"
+  },
+  "3eb7b6e0e87acbb0bbec8cdea7fd37e443956e54895deaeb2334f16bd0fc026d": {
+    "url": "https://www.rt.com/news/641503-puffy-putin-west-scare/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Puffy Putin peril: The West\u2019s latest attempt to scare itself",
+    "published": "2026-06-13T17:43:58+00:00"
   },
   "4d53bd710cf0069bac7d9e4bc8d2bcffb6caab1b16b14529aa863f2e40ed646c": {
     "url": "BellumActaNews/174141",
@@ -713,40 +748,5 @@
     "url": "presstv/193722",
     "title": "Israeli Airstrike Hits Residential Building in Al-Maghazi Refugee Camp",
     "published": "2026-06-11T23:36:03.805246+00:00"
-  },
-  "79268f026d1b156fd69677c51daa958b3fd0b04576f5b96f491e23bc5258acbb": {
-    "url": "QudsNen/227087",
-    "title": "Israeli Airstrike Devastates Residential Building in Al-Maghazi Refugee Camp, Gaza Strip",
-    "published": "2026-06-11T23:33:27.606272+00:00"
-  },
-  "66f3f2c6604861ee483b9601529499ad47ac7c63b08bb62ed516b9a0a8f42530": {
-    "url": "thecradlemedia/61725",
-    "title": "Trump Threatens Iran with 'Very Hard' Military Strike, Kharg Island Seizure Amid Waning US Public Support",
-    "published": "2026-06-11T23:30:52.847754+00:00"
-  },
-  "eb387c25dc3e473b2c48b8bd2f2296c4d17ba126a263e7a7e6bd7425fa1da7cf": {
-    "url": "thecradlemedia/61733",
-    "title": "Iran Denies Finalizing US Agreement Amid Ongoing Diplomatic Talks",
-    "published": "2026-06-11T23:30:51.428642+00:00"
-  },
-  "dbfbea127acdc382406c9b7a370ed94fcc1a09775964c645ea68cc439a03936a": {
-    "url": "https://tass.com/defense/2145749",
-    "title": "Kiev troops bombard Donetsk People\u2019s Republic ten times over past day",
-    "published": "2026-06-11T22:18:56+00:00"
-  },
-  "b42707a40592d11810a1753bed1d3b66e7a80516981e4664e1fa41ca5c0a2f6f": {
-    "url": "https://en.irna.ir/news/86180226/Top-commander-warns-US-over-futile-cycle-of-lies-contradiction",
-    "title": "Top commander warns US over \u2018futile cycle\u2019 of lies, contradiction",
-    "published": "2026-06-11T20:59:06+00:00"
-  },
-  "c5a2580e021cefbc46971cd78b70ac6066003d08bdf78eff5310f733a8f131b0": {
-    "url": "intelslava/88836",
-    "title": "IRGC Launches Ballistic Missiles at US Bases in Region",
-    "published": "2026-06-11T20:44:37.376864+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
-    "published": "2026-06-11T20:41:44.359403+00:00"
   }
 }
