@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3911,
+  "total_calls": 3915,
   "tiers": {
-    "groq": 3892,
+    "groq": 3896,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-10T04:04:33.825422+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-10T04:05:06.249659+00:00",
-      "tier": "groq",
-      "article": "Iranian forces destroy MQ-9 drone, strike US base in Jordan \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-06-10T04:05:52.735347+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-10T04:06:09.927460+00:00",
-      "tier": "groq",
-      "article": "Lebanon integral part of any agreement: Iranian lawmaker says"
-    },
     {
       "timestamp": "2026-06-10T10:10:33.207979+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-14T04:25:26.212974+00:00",
       "tier": "groq",
       "article": "IAEA's political game against Iran"
+    },
+    {
+      "timestamp": "2026-06-14T09:43:18.893050+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-14T09:43:51.517584+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-14T09:44:07.633745+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-14T09:44:24.224949+00:00",
+      "tier": "groq",
+      "article": "Pentagon releases third batch of UFO files"
     }
   ]
 }

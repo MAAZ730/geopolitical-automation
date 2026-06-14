@@ -1,4 +1,34 @@
 {
+  "619a526f845b70ee65c0bee4585ff46c4b81844f598f8e18a1071be478efde18": {
+    "url": "presstv/193994",
+    "title": "US-Israeli Airstrikes Damage Iran's Cultural Heritage",
+    "published": "2026-06-14T09:52:22.552453+00:00"
+  },
+  "051252422b0c48969400209dfe39074dabc618d78c3fd895a7779d53544de858": {
+    "url": "DDGeopolitics/186539",
+    "title": "Iran's Negotiation Team Faces Scrutiny Over US Deal",
+    "published": "2026-06-14T09:49:48.258422+00:00"
+  },
+  "ff193f419d7d42f222112b9e555d7c9fdfded7766fe89899064567a7d36846fe": {
+    "url": "QudsNen/227368",
+    "title": "Hezbollah Drone Strike Hits Israeli Military Post in Northern Palestine",
+    "published": "2026-06-14T09:46:48.722971+00:00"
+  },
+  "0cd701d77b3459ef34b559f15f2b98319512c934484f2812cf8cc51933f8327e": {
+    "url": "QudsNen/227372",
+    "title": "Israel's Barak Slams US-Iran Deal",
+    "published": "2026-06-14T09:45:41.400328+00:00"
+  },
+  "50214de92e52ce86e8b4b4d4fac5237a994e93845ed5c77daa2bc71f9bb2256f": {
+    "url": "thecradlemedia/61870",
+    "title": "Drone Explosion Rocks Israeli Military Position in Western Galilee",
+    "published": "2026-06-14T09:45:36.221944+00:00"
+  },
+  "a1f7dd720a9820b7f998a50b17613b9947c24851212765b002b960824068cc9d": {
+    "url": "thecradlemedia/61882",
+    "title": "Israeli Airstrikes Hit Nabatieh Governorate in South Lebanon",
+    "published": "2026-06-14T09:44:29.941079+00:00"
+  },
   "9d751aefe4f982e1c2f6b92d9ddce36033203ca1339d41591298664c267a63c1": {
     "url": "Slavyangrad/166507",
     "title": "Explosions Rock Ukrainian-Occupied Zaporozhye, Power Outages Reported",
@@ -233,6 +263,11 @@
     "url": "thecradlemedia/61841",
     "title": "Iran's Former Supreme Leader Ali Khamenei to be Buried in Mashhad",
     "published": "2026-06-13T11:59:55.601573+00:00"
+  },
+  "96ca5078d34407336bccd92ce392c9105ef957083e277335fa9e6e82aa480ab2": {
+    "url": "https://www.rt.com/news/641490-pentagon-unveils-new-ufo-files/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Pentagon releases third batch of UFO files",
+    "published": "2026-06-13T10:35:01+00:00"
   },
   "ae8383b9fb0e1a6eae4ac9b3e8743d103dab363ed33a3fd6b38ddeccb238cbae": {
     "url": "https://english.almanar.com.lb/article/91127/",
@@ -713,40 +748,5 @@
     "url": "BellumActaNews/174035",
     "title": "Iran Launches Missiles from Northwestern Provinces",
     "published": "2026-06-11T10:52:05.248861+00:00"
-  },
-  "0a4d55290a8e4740be18f2a6194f13594f93ac3475d122e24ec4cef3dfcea54d": {
-    "url": "BellumActaNews/174039",
-    "title": "US Intercepts IRGC Missiles Over Jordan",
-    "published": "2026-06-11T10:51:08.625687+00:00"
-  },
-  "a17cfbb606569bb72ac679b20cc3acbd1f36678bb74c199ee5005ed547b6a80d": {
-    "url": "DDGeopolitics/186358",
-    "title": "Russia Constructs New Military Base Near Finnish Border Amid NATO Expansion",
-    "published": "2026-06-11T10:50:32.498825+00:00"
-  },
-  "02efa52bed4452dfdc88ce463ff19a2dd28b7f2ff99802e2a1507652319b1a0c": {
-    "url": "thecradlemedia/61660",
-    "title": "Iran Targets US Military Bases in Region with Precision-Guided Strikes",
-    "published": "2026-06-11T10:46:49.837755+00:00"
-  },
-  "a4c8bd17a5b3550f6bc8f0f5cfec66c85eaa1a9df8379a89f1a01810cd0786ae": {
-    "url": "thecradlemedia/61673",
-    "title": "Saudi Arabia Condemns Iranian Attacks on US Bases in Bahrain, Kuwait, and Jordan",
-    "published": "2026-06-11T10:46:02.403566+00:00"
-  },
-  "77e532398bc5b754320ba7c411cc7a53fdbd42c99e9384359f53d909acc69e1d": {
-    "url": "thecradlemedia/61676",
-    "title": "Iran Fires Missiles at Jordan, Claims Only 12 Launched",
-    "published": "2026-06-11T10:45:51.400666+00:00"
-  },
-  "4c79cc8ebe6a038d1ea82000cacee0495853e3135022bb0e515a70ceed15f22f": {
-    "url": "https://tass.com/world/2145383",
-    "title": "US military denies reports of warship damaged in Strait of Hormuz",
-    "published": "2026-06-11T08:34:32+00:00"
-  },
-  "003e8f89e5fd4a5a688da90a42ee9222bd286d9e65bdd91a9f9d026a9f1e0a65": {
-    "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-    "title": "Settebello: Three Indian sailors killed in US strike on tanker in Gulf of Oman",
-    "published": "2026-06-11T08:07:34+00:00"
   }
 }
