@@ -1,4 +1,34 @@
 {
+  "1e3bcc18a77637ca31cd2aba1a52657c545832c34b18011bc3c892506eaba60c": {
+    "url": "mod_russia_en/27526",
+    "title": "Konstantinovka Under Fire: Russian Forces Target Ukrainian Military Facilities",
+    "published": "2026-06-14T21:38:48.139167+00:00"
+  },
+  "5d6980ab39959d2e03375aecf15bc70fe395fa2f4a960e79bcb36fae51687aff": {
+    "url": "presstv/194067",
+    "title": "Iran's IRGC Commander Confident in Nation's Resolve Amid Tensions with US",
+    "published": "2026-06-14T21:31:41.974907+00:00"
+  },
+  "21d78940e0012d2509ed874dd80453042b161eac18e02c6e4e7a2ae0d480cd24": {
+    "url": "presstv/194076",
+    "title": "Hezbollah Forces Target Israeli Merkava Tank with Ababil Drone in Southern Lebanon",
+    "published": "2026-06-14T21:26:27.880418+00:00"
+  },
+  "d5145806e4920a359e9442059912efa6a764f0d347ceb29de2430d001c1227ac": {
+    "url": "DDGeopolitics/186617",
+    "title": "Kiev Residents Flee to Metro Stations Amid Russian Strike Threat",
+    "published": "2026-06-14T21:23:56.736722+00:00"
+  },
+  "abd64ced64b575914631a2f66a3b797171984171ffca77b71a79640d403f1f21": {
+    "url": "thecradlemedia/61911",
+    "title": "US Aircraft Presence Sparks Flight Disruption Fears in Israel",
+    "published": "2026-06-14T21:21:57.587210+00:00"
+  },
+  "2e3466fbbb8d8cced3ce99f09b69e75a007ee0cc9f5ca45b9663af998324d76c": {
+    "url": "thecradlemedia/61912",
+    "title": "Indian Seafarer Dies on Board Vessel in Oman's Duqm Port",
+    "published": "2026-06-14T21:21:56.154944+00:00"
+  },
   "004b67d7fe83fe43f9cf4d6ee1c0d6b70baddb197551cac0f50f916619aeb969": {
     "url": "mod_russia_en/27527",
     "title": "Russian Forces Destroy Enemy UAV Command Post in DPR",
@@ -193,6 +223,11 @@
     "url": "QudsNen/227356",
     "title": "Yemeni Drone Attack Triggers Air Raid Alert in Eilat",
     "published": "2026-06-14T04:26:52.314001+00:00"
+  },
+  "cac051425dca83c5f2005aff1e4be6354ba39575088f0b1e7541a34ab9460d90": {
+    "url": "https://tass.com/politics/2146159",
+    "title": "51 drone control stations destroyed by Russian Battlegroup West",
+    "published": "2026-06-14T04:21:50+00:00"
   },
   "6de58fb3dfb41bf97cca6cf675f1f48c46a0311491926f45e886c10d6e1b79f0": {
     "url": "https://www.rt.com/news/641504-ai-iran-school-massacre-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/61760",
     "title": "Israelis Divided on Deterrence and PM Netanyahu's Decision-Making",
     "published": "2026-06-12T10:24:24.717739+00:00"
-  },
-  "d0b73a305ed0601cc8f9b48164a5004eab08e6459fcf6b87fd8528e2d434014b": {
-    "url": "thecradlemedia/61761",
-    "title": "Israeli Airstrike Devastates Gaza Refugee Camp",
-    "published": "2026-06-12T10:24:23.403507+00:00"
-  },
-  "cc52b4ad53f7731688936870f6de354ddd3364486d99f4072799aa8e58cc81a5": {
-    "url": "https://english.almanar.com.lb/article/90547/",
-    "title": "India summons top US diplomat for second time over deadly strike on vessels off Oman - Al-Manar TV Lebanon",
-    "published": "2026-06-12T09:39:21+00:00"
-  },
-  "97cd8213a3f0cea6524de78daa5e2550eb66fe87908e7e55a85cf52eb3163ff1": {
-    "url": "https://en.mehrnews.com/news/245274/Iran-more-prepared-powerful-deterrent-position-than-ever",
-    "title": "Iran \u2018more prepared, powerful, deterrent position than ever'",
-    "published": "2026-06-12T09:26:29+00:00"
-  },
-  "f4d2d1c38dc1d59e9ceb8be637f49c327fe0901f5146d4aa8edc5c7064371c42": {
-    "url": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
-    "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
-    "published": "2026-06-12T07:30:38+00:00"
-  },
-  "58a2a83ec1c575e9a81e8f98df61088e1dcb56368fcab7ab1064a4de3b60cdcb": {
-    "url": "https://en.mehrnews.com/news/245264/US-attacks-put-ceasefire-status-ineffective-Araghchi-warns",
-    "title": "US attacks put ceasefire status \u2018ineffective\u2019: Araghchi warns",
-    "published": "2026-06-12T06:28:34+00:00"
-  },
-  "ab4017e14f142c8541cbad52bbf51859e33562cdcfc1cdccf86794921fa9421d": {
-    "url": "https://en.mehrnews.com/news/245263/Sustainable-peace-security-in-ME-requires-end-to-aggression",
-    "title": "Sustainable peace, security in ME requires end to aggression",
-    "published": "2026-06-12T06:01:38+00:00"
-  },
-  "404a3b7a1bd5b1888985e95f3bd9d00b8fc77ae0a7fb82039b90326846588349": {
-    "url": "https://en.irna.ir/news/86180303/IRGC-Iran-stronger-than-ever-fingers-on-trigger-for-decisive",
-    "title": "IRGC: Iran stronger than ever, fingers on trigger for decisive and regret-inducing response",
-    "published": "2026-06-12T05:37:27+00:00"
   }
 }

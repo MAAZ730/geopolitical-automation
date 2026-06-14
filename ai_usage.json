@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3931,
+  "total_calls": 3935,
   "tiers": {
-    "groq": 3912,
+    "groq": 3916,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-11T04:15:50.696277+00:00",
-      "tier": "groq",
-      "article": "Iran attacks US facilities in Middle East following US strikes \u2014 agency"
-    },
-    {
-      "timestamp": "2026-06-11T04:16:09.247110+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-11T04:16:37.593021+00:00",
-      "tier": "groq",
-      "article": "\u2018Negotiate with bombs\u2019: Hegseth defends second night of US strikes on Iran"
-    },
-    {
-      "timestamp": "2026-06-11T04:16:53.495470+00:00",
-      "tier": "groq",
-      "article": "US harming diplomatic process by repeatedly truce violation"
-    },
     {
       "timestamp": "2026-06-11T10:44:33.123500+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-14T19:50:06.335624+00:00",
       "tier": "groq",
       "article": "Representatives of United States and Iran may meet in Switzerland next week \u2014 TV"
+    },
+    {
+      "timestamp": "2026-06-14T21:19:43.922105+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-14T21:20:16.888878+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-14T21:21:03.399516+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-14T21:21:49.646452+00:00",
+      "tier": "groq",
+      "article": "51 drone control stations destroyed by Russian Battlegroup West"
     }
   ]
 }
