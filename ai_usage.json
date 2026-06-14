@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3927,
+  "total_calls": 3931,
   "tiers": {
-    "groq": 3908,
+    "groq": 3912,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-10T22:06:23.081324+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-10T22:06:59.231722+00:00",
-      "tier": "groq",
-      "article": "Pakistan airstrikes kill 13 in Afghan border provinces"
-    },
-    {
-      "timestamp": "2026-06-10T22:07:46.914400+00:00",
-      "tier": "groq",
-      "article": "Trump raised possibility of using nuclear weapons against Iran \u2014 Hersh"
-    },
-    {
-      "timestamp": "2026-06-10T22:08:32.699405+00:00",
-      "tier": "groq",
-      "article": "Death toll from earthquake in S Philippines rises to 45"
-    },
     {
       "timestamp": "2026-06-11T04:15:50.696277+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-14T17:27:39.512132+00:00",
       "tier": "groq",
       "article": "Puffy Putin peril: The West\u2019s latest attempt to scare itself"
+    },
+    {
+      "timestamp": "2026-06-14T19:48:36.483347+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-14T19:49:11.878209+00:00",
+      "tier": "groq",
+      "article": "US-Israeli \u2018good cop, bad cop\u2019 tactics outdated \u2013 Iran\u2019s chief negotiator"
+    },
+    {
+      "timestamp": "2026-06-14T19:49:29.601366+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Armed Forces have \u2018finger on trigger,\u2019 top commander says after Israeli attack on Beirut"
+    },
+    {
+      "timestamp": "2026-06-14T19:50:06.335624+00:00",
+      "tier": "groq",
+      "article": "Representatives of United States and Iran may meet in Switzerland next week \u2014 TV"
     }
   ]
 }

@@ -1,4 +1,39 @@
 {
+  "004b67d7fe83fe43f9cf4d6ee1c0d6b70baddb197551cac0f50f916619aeb969": {
+    "url": "mod_russia_en/27527",
+    "title": "Russian Forces Destroy Enemy UAV Command Post in DPR",
+    "published": "2026-06-14T20:02:37.350391+00:00"
+  },
+  "b0c5404341eb859187f94ea2b934df81a6da243d95593d3829c410471147e6e8": {
+    "url": "mod_russia_en/27531",
+    "title": "Russian Forces Conduct Aerial Propaganda in Orekhov Direction",
+    "published": "2026-06-14T20:01:51.399777+00:00"
+  },
+  "cf2c5fe5243c2e680e8709ca6b7145091a6c11df94ecaa4e08606dcd5ece06a9": {
+    "url": "Slavyangrad/166554",
+    "title": "Russian Forces Conduct Aerial Strikes on Ukrainian Positions",
+    "published": "2026-06-14T20:00:46.683309+00:00"
+  },
+  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
+    "url": "CensoredMen/205",
+    "title": "Israel Destroys Bridges in Southern Lebanon, Prompting Lebanese Response",
+    "published": "2026-06-14T19:56:43.947390+00:00"
+  },
+  "150aea00a59fbe6d22fe3cbe0dd180d5346c807532455e4070218cc085e44024": {
+    "url": "thecradlemedia/61914",
+    "title": "Israeli Drone Sirens Activated in Upper Galilee",
+    "published": "2026-06-14T19:50:12.464961+00:00"
+  },
+  "71072d73a256776ddc058a0d2a152915fa00e05b915dbc80c96c253f2a114ae3": {
+    "url": "thecradlemedia/61922",
+    "title": "Iran Vows to Defend Regional Security Chain",
+    "published": "2026-06-14T19:50:11.208747+00:00"
+  },
+  "9abfee902570dff0e9ed54d7a759c6fd80696e7710bae0c7f836bcd9004976ae": {
+    "url": "https://www.rt.com/news/641527-us-israel-good-bad-cop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US-Israeli \u2018good cop, bad cop\u2019 tactics outdated \u2013 Iran\u2019s chief negotiator",
+    "published": "2026-06-14T17:54:59+00:00"
+  },
   "0ed46ecc45b39c93e1d8f0ebe1cf82a5483328d6727cb21eb6bd9c6c7c67eff3": {
     "url": "warmonitors/44448",
     "title": "Israeli Airstrike Hits Residential Building in Beirut",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/61920",
     "title": "Iran's Military Commander Vows Enhanced Capabilities Amid Ongoing Tensions",
     "published": "2026-06-14T17:27:49.563390+00:00"
+  },
+  "db6b01be0b02b06d70a0e2c29e6f686ff5141ff7511beff61ac0909569f07b7f": {
+    "url": "https://en.irna.ir/news/86182715/Iran-s-Armed-Forces-have-finger-on-trigger-top-commander-says",
+    "title": "Iran\u2019s Armed Forces have \u2018finger on trigger,\u2019 top commander says after Israeli attack on Beirut",
+    "published": "2026-06-14T17:19:20+00:00"
   },
   "241a0fa43da0da2cd1d4e4d4f5f7737d2830a9d83b2ddd4e8079b64c8644f21c": {
     "url": "QudsNen/227410",
@@ -218,6 +258,11 @@
     "url": "thecradlemedia/61857",
     "title": "UK Lawmakers Condemn Secretive London Real Estate Exhibition Promoting Occupied Palestinian Land",
     "published": "2026-06-13T21:24:30.718606+00:00"
+  },
+  "436c78a0552aaf6cfc9b0ef2c8921ec750f40170b7a3e8a285f7b90f811bc0e8": {
+    "url": "https://tass.com/world/2146109",
+    "title": "Representatives of United States and Iran may meet in Switzerland next week \u2014 TV",
+    "published": "2026-06-13T20:13:30+00:00"
   },
   "3d8c4c5e45c4157a3b338ce4606bd1f726431a674e18d3aae2156cdf1d3fcc5e": {
     "url": "presstv/193935",
@@ -703,50 +748,5 @@
     "url": "https://en.irna.ir/news/86180303/IRGC-Iran-stronger-than-ever-fingers-on-trigger-for-decisive",
     "title": "IRGC: Iran stronger than ever, fingers on trigger for decisive and regret-inducing response",
     "published": "2026-06-12T05:37:27+00:00"
-  },
-  "8927cdfc7ad3cfd09f0e893f149833329ff5f68dbb0b754e825b40e383be0001": {
-    "url": "wargonzo/34754",
-    "title": "US-Iran Conflict Escalates Amid Nuclear Deal Tensions",
-    "published": "2026-06-12T04:32:45.926456+00:00"
-  },
-  "be1e8d0c83e8f394d6a49b56b8b77d4058665123c9765ce5248dcff21f307b80": {
-    "url": "two_majors/77129",
-    "title": "Russia Deploys Zubr Air Defense System to Counter UAV Threats",
-    "published": "2026-06-12T04:30:53.621990+00:00"
-  },
-  "32722c3246fda15949922b17e123510003ca0e7f3f93aa608de654d32187852d": {
-    "url": "two_majors/77134",
-    "title": "Ukraine Conflict: Drone Strikes on Regional Bridges",
-    "published": "2026-06-12T04:29:35.488609+00:00"
-  },
-  "846c5f309bf58eadd424e58bcffd62a3100eb934e2cb5a4bd8cc653e5ac156a6": {
-    "url": "OSINT_defender/313",
-    "title": "Russia Launches Large-Scale Drone and Missile Attack on Kyiv",
-    "published": "2026-06-12T04:29:16.619943+00:00"
-  },
-  "b5ced0a88eae417b2e104bb3af9eeccd07bf0745de5b7af1f45b8724daa916c2": {
-    "url": "thecradlemedia/61715",
-    "title": "Trump Invites Syria's Sharaa to White House Amid Hezbollah Tensions",
-    "published": "2026-06-12T04:21:23.919800+00:00"
-  },
-  "33d19e753e9521aa33a67945f173d6ded97e40db763d3c9b8aa7783a2f612118": {
-    "url": "thecradlemedia/61716",
-    "title": "UAE and Iran Hold First High-Level Security Talks Since US-Israeli War",
-    "published": "2026-06-12T04:21:22.121934+00:00"
-  },
-  "605a133daff8d7c010a323ec1666f8ebcda3df0e18c3975735de8317e22e078a": {
-    "url": "CyberspecNews/109488",
-    "title": "Russia Deploys Upgraded Akula-Class Submarine for Sea Trials",
-    "published": "2026-06-11T23:45:07.225190+00:00"
-  },
-  "04901034934c61ab1e9def8153bd97e42705e93b43c287c2d68d9d2c18ff7de7": {
-    "url": "infantmilitario/188549",
-    "title": "Latvia Shoots Down Ukrainian Drone in Airspace Incident",
-    "published": "2026-06-11T23:42:17.004324+00:00"
-  },
-  "c9f31a7fbfb39b9ce849a43c40247895ec467b9a29429192dc8168838ffd73af": {
-    "url": "presstv/193722",
-    "title": "Israeli Airstrike Hits Residential Building in Al-Maghazi Refugee Camp",
-    "published": "2026-06-11T23:36:03.805246+00:00"
   }
 }
