@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3939,
+  "total_calls": 3943,
   "tiers": {
-    "groq": 3920,
+    "groq": 3924,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-11T16:15:47.897061+00:00",
-      "tier": "groq",
-      "article": "Islamic Resistance Strikes Israeli Occupation Forces Near Tayr Harfa, South Lebanon, with Missile Salvos - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-11T16:16:27.778549+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-11T16:17:14.134465+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-11T16:18:05.196353+00:00",
-      "tier": "groq",
-      "article": "US Navy stands up naval support activity in Western Australia"
-    },
     {
       "timestamp": "2026-06-11T20:29:44.554662+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-14T23:16:15.284844+00:00",
       "tier": "groq",
       "article": "Security of Iran borders at highest level: Cmdr."
+    },
+    {
+      "timestamp": "2026-06-15T04:48:56.098404+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-15T04:49:28.468343+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-15T04:49:44.453835+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-15T04:50:00.585362+00:00",
+      "tier": "groq",
+      "article": "Hungary says Ukraine\u2019s EU bid hinges on minority rights"
     }
   ]
 }
