@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3943,
+  "total_calls": 3947,
   "tiers": {
-    "groq": 3924,
+    "groq": 3928,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-11T20:29:44.554662+00:00",
-      "tier": "groq",
-      "article": "US warplanes destroyed in Iran retaliation: IRGC"
-    },
-    {
-      "timestamp": "2026-06-11T20:30:06.885256+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes 18 American targets in Kuwait and Bahrain"
-    },
-    {
-      "timestamp": "2026-06-11T20:30:29.249159+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-11T20:30:45.687433+00:00",
-      "tier": "groq",
-      "article": "Fire at oil refinery in Krasnodar Region caused by drone debris extinguished"
-    },
     {
       "timestamp": "2026-06-11T23:29:01.908599+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-15T04:50:00.585362+00:00",
       "tier": "groq",
       "article": "Hungary says Ukraine\u2019s EU bid hinges on minority rights"
+    },
+    {
+      "timestamp": "2026-06-15T12:25:09.635385+00:00",
+      "tier": "groq",
+      "article": "Israel renews strikes on Beirut with US green light"
+    },
+    {
+      "timestamp": "2026-06-15T12:25:48.787497+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-15T12:26:04.984715+00:00",
+      "tier": "groq",
+      "article": "Russian attacks in Ukraine kill 11, damage historic Kyiv cathedral"
+    },
+    {
+      "timestamp": "2026-06-15T12:26:21.206354+00:00",
+      "tier": "groq",
+      "article": "Trump leaves Zelensky off G7 meeting list in France, Bloomberg reports"
     }
   ]
 }

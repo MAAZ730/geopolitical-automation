@@ -1,4 +1,39 @@
 {
+  "669221ff7461f628dd23e90465fda098279d349a64026eebfba4c28f7dac7eec": {
+    "url": "intelslava/89006",
+    "title": "Israeli Artillery Shelling Hits Southern Lebanon",
+    "published": "2026-06-15T12:33:51.943861+00:00"
+  },
+  "03a37e4c820ff471b3003a9db645470541db7774690f3d9d21119422f2f9a610": {
+    "url": "presstv/194146",
+    "title": "Israel-Palestine Conflict: Artillery Attacks Continue Near Nabatieh and Kfar Tannin",
+    "published": "2026-06-15T12:32:56.166941+00:00"
+  },
+  "b91ea48344f16d5f45b586faed0cfad06e98ea208847d175b98acadb6d74aaf9": {
+    "url": "BellumActaNews/174212",
+    "title": "Russian Zircon Missiles Strike Kyiv, Patriot Interceptor Fails to Intercept",
+    "published": "2026-06-15T12:32:02.537932+00:00"
+  },
+  "567f9e569408aeb2c767a4a065afb4245c671e0b918d225e16a28fdd93a503b7": {
+    "url": "DDGeopolitics/186709",
+    "title": "Ukraine's Lavra Monastery Raid Sparks Controversy",
+    "published": "2026-06-15T12:28:07.349474+00:00"
+  },
+  "c75ce68830f9b00b53f86fa06ec31fc9e6cea68e6983805ae25c744764304ea2": {
+    "url": "thecradlemedia/61980",
+    "title": "Iran, US Reach Agreement to End Conflict in Lebanon",
+    "published": "2026-06-15T12:26:30.210911+00:00"
+  },
+  "d4188532b5881fdce848efb97d60551507476c60c14065a327d6d1c365cc2f70": {
+    "url": "thecradlemedia/61981",
+    "title": "Israeli Airstrikes Hit Residential Areas in Southern Lebanon",
+    "published": "2026-06-15T12:26:25.877166+00:00"
+  },
+  "7a3e9f71b6273880e4f22b79d676b0c7d1a8658c939b30b3d37b3c84960e6843": {
+    "url": "https://www.aljazeera.com/news/2026/6/15/russian-attacks-in-ukraine-kill-nine-damage-historic-kyiv-cathedral?traffic_source=rss",
+    "title": "Russian attacks in Ukraine kill 11, damage historic Kyiv cathedral",
+    "published": "2026-06-15T07:40:51+00:00"
+  },
   "0688532885d6f0b73457b655c436e1f40a9fc51a16b5ed57cd81d290556e8d72": {
     "url": "QudsNen/227484",
     "title": "Israeli Artillery Strikes Kfarruman Amid US-Iran Ceasefire Agreement",
@@ -159,6 +194,11 @@
     "title": "Iran\u2019s Armed Forces have \u2018finger on trigger,\u2019 top commander says after Israeli attack on Beirut",
     "published": "2026-06-14T17:19:20+00:00"
   },
+  "a46f39fa9688b0c86e94cbdfa3506a97d4041f67e48bae78c407cbec6290f79f": {
+    "url": "https://www.tehrantimes.com/news/527328/Israel-renews-strikes-on-Beirut-with-US-green-light",
+    "title": "Israel renews strikes on Beirut with US green light",
+    "published": "2026-06-14T17:16:34+00:00"
+  },
   "241a0fa43da0da2cd1d4e4d4f5f7737d2830a9d83b2ddd4e8079b64c8644f21c": {
     "url": "QudsNen/227410",
     "title": "Israeli Forces Fire on Civilians in Gaza City",
@@ -193,6 +233,11 @@
     "url": "https://tass.com/world/2146205",
     "title": "Hezbollah commander killed in Israeli strike against Beirut \u2014 TV",
     "published": "2026-06-14T13:13:02+00:00"
+  },
+  "d87251b8ba8c48b327c4d2c8959c51bf40d2a79913beea54cadf8b9d626bc45b": {
+    "url": "https://www.rt.com/news/641521-zelensky-not-on-trump-g7-list/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump leaves Zelensky off G7 meeting list in France, Bloomberg reports",
+    "published": "2026-06-14T12:31:31+00:00"
   },
   "2df7d8b30724cff905d330d13107103bce34ba47ceee558493b5a968fb459dbc": {
     "url": "QudsNen/227388",
@@ -703,50 +748,5 @@
     "url": "https://tass.com/politics/2145895",
     "title": "IN BRIEF: Putin speaks on retaliatory strikes, development of AI-powered drones",
     "published": "2026-06-12T19:08:37+00:00"
-  },
-  "6876590a8b259a005e44fe6006f3fad98e02160bda5524859ec4e49259ef0f31": {
-    "url": "Slavyangrad/166410",
-    "title": "Independent Journalist Exposes Alleged War Crimes in Global Conflicts",
-    "published": "2026-06-12T18:20:32.953295+00:00"
-  },
-  "3871aeca298bf1ec747e7524865fe9d3b4bceb71160eae15377e74fb0c136228": {
-    "url": "intelslava/88871",
-    "title": "Russia Deploys Air Defense Systems on Moscow High-Rises",
-    "published": "2026-06-12T18:19:27.546748+00:00"
-  },
-  "bdd7f4632b4ef41bf3f6b515cf34f72cc27803df80302c27ff360b4a58ad23da": {
-    "url": "intelslava/88873",
-    "title": "Ukraine Under Drone Attack: 'Geran-5' Kamikaze Drones Strike Konotop",
-    "published": "2026-06-12T18:18:49.935012+00:00"
-  },
-  "c4f97383ba8fc631a63ad68de97adf92715112f1fb5010e18779180f8e8329ea": {
-    "url": "presstv/193809",
-    "title": "Israeli Airstrike Targets Sarafand in Southern Lebanon",
-    "published": "2026-06-12T18:18:18.116732+00:00"
-  },
-  "1c16c2af29277e084120197b8b7c0e9d7a1b172f3affdf764c11924920874a9a": {
-    "url": "thecradlemedia/61798",
-    "title": "Israel Reiterates Stance on Contested Territories Amid Ongoing Negotiations",
-    "published": "2026-06-12T18:14:26.874222+00:00"
-  },
-  "94b4db5e96b0dade4652a1bff6485da81984093fc0fbbf8813da9dfd41545cab": {
-    "url": "thecradlemedia/61800",
-    "title": "US-Iran Deal Hopes Rise Amid Israeli War Chief's Warning",
-    "published": "2026-06-12T18:14:24.001729+00:00"
-  },
-  "ac94af24b0addb1bbff3bc64dc4ef3001cdd60fa350edd9ceb4158e8b296d853": {
-    "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss",
-    "title": "At least one killed and nine hospitalised in Midland, Texas shooting",
-    "published": "2026-06-12T18:11:35+00:00"
-  },
-  "8bbc6d4fcf9736011735d11ff8ff52eb15749ae65b9ecf23b854579fb5c3fc00": {
-    "url": "https://tass.com/politics/2145879",
-    "title": "Russia sought for eight years to stop war in Ukraine \u2014 Putin",
-    "published": "2026-06-12T16:25:19+00:00"
-  },
-  "3d1cc7c2af39d487ee0db99a9977f92ba6c7bcaf9b5d87066bd1e80608964f6b": {
-    "url": "https://tass.com/politics/2145871",
-    "title": "Work underway on satellite consternation for operating heavy drones \u2014 Putin",
-    "published": "2026-06-12T15:44:29+00:00"
   }
 }
