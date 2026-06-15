@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3947,
+  "total_calls": 3951,
   "tiers": {
-    "groq": 3928,
+    "groq": 3932,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-11T23:29:01.908599+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-11T23:29:34.433415+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks kill civilian, leave another ten injured in Russia\u2019s Belgorod Region"
-    },
-    {
-      "timestamp": "2026-06-11T23:30:20.927689+00:00",
-      "tier": "groq",
-      "article": "US military denies reports of warship damaged in Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-06-11T23:30:40.541324+00:00",
-      "tier": "groq",
-      "article": "Two ships hit trying to run Hormuz closure"
-    },
     {
       "timestamp": "2026-06-12T04:19:42.565359+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-15T12:26:21.206354+00:00",
       "tier": "groq",
       "article": "Trump leaves Zelensky off G7 meeting list in France, Bloomberg reports"
+    },
+    {
+      "timestamp": "2026-06-15T18:42:10.356389+00:00",
+      "tier": "groq",
+      "article": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike"
+    },
+    {
+      "timestamp": "2026-06-15T18:42:43.282428+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Fighters Strike with Missiles and Drones Israeli Vehicles Advancing into Kfar Tebnit after Ceasefire, Forcing Them to Back Off - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-15T18:43:33.271986+00:00",
+      "tier": "groq",
+      "article": "Drone warfare kills over 1,000 in Sudan in 2026 as strikes multiply: UN"
+    },
+    {
+      "timestamp": "2026-06-15T18:44:23.789532+00:00",
+      "tier": "groq",
+      "article": "Unclear if US-Iran agreement will provide respite to Lebanon"
     }
   ]
 }
