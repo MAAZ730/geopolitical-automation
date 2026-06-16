@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3971,
+  "total_calls": 3975,
   "tiers": {
-    "groq": 3952,
+    "groq": 3956,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-12T23:21:12.667867+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-12T23:21:28.665451+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-12T23:21:44.489409+00:00",
-      "tier": "groq",
-      "article": "Will there be a deal to end the Iran war this time?"
-    },
-    {
-      "timestamp": "2026-06-12T23:22:00.485273+00:00",
-      "tier": "groq",
-      "article": "IRGC: Iran stronger than ever, fingers on trigger for decisive and regret-inducing response"
-    },
     {
       "timestamp": "2026-06-13T04:08:03.981030+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-16T20:57:50.008519+00:00",
       "tier": "groq",
       "article": "International tribunal dismisses Ukraine\u2019s claims over Crimea and Sea of Azov"
+    },
+    {
+      "timestamp": "2026-06-16T23:28:49.792627+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-16T23:29:21.584283+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-16T23:30:07.993718+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-16T23:30:24.563661+00:00",
+      "tier": "groq",
+      "article": "UK to supply enriched uranium to Kiev"
     }
   ]
 }

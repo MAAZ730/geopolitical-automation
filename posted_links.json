@@ -1,4 +1,34 @@
 {
+  "2fb1bdc925ea8bc3ddd815c6c397ad3636e7c6fdabb01c03988170b7cd64bbd9": {
+    "url": "intelslava/89079",
+    "title": "IRGC Drone Strike Targets Kurdish Opposition HQ in Northern Iraq",
+    "published": "2026-06-16T23:41:38.580810+00:00"
+  },
+  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
+    "url": "CensoredMen/203",
+    "title": "Israel-Iran Ceasefire Agreement Falters Amid Ongoing Strikes in Lebanon",
+    "published": "2026-06-16T23:40:18.677684+00:00"
+  },
+  "71640328a7e9456b0669efbed2faecc19c22225e7ed200cf987119ab696f27da": {
+    "url": "BellumActaNews/174310",
+    "title": "Iranian Drones Strike Kurdish Opposition Party HQ in Iraq",
+    "published": "2026-06-16T23:34:38.984885+00:00"
+  },
+  "b80e80d2b6f368405e9b1bb873beb6f27a245c4bca1e34edf927f2e364437de1": {
+    "url": "QudsNen/227743",
+    "title": "Israeli Forces Storm Al-Fawwar Refugee Camp in Occupied West Bank",
+    "published": "2026-06-16T23:33:56.700374+00:00"
+  },
+  "8da6e0c4b3d746bd0c0bd125d9c2d20f3dd3f7ae065f9f7192c88201d86cc1e8": {
+    "url": "QudsNen/227745",
+    "title": "US, Iran Agree to Ceasefire and De-escalation Framework",
+    "published": "2026-06-16T23:33:39.243732+00:00"
+  },
+  "70e1df4c525bb99766ee7f1d233f089b8ad772b55c71fead8153c9806d72181e": {
+    "url": "Middle_East_Spectator/33654",
+    "title": "Iran Continues Drone Strikes on Vessels in Strait of Hormuz",
+    "published": "2026-06-16T23:33:35.302552+00:00"
+  },
   "899307a5e9ea7430ab7c1525b87b43a4971c10f3d371ea878843cbe05083a6a3": {
     "url": "QudsNen/227724",
     "title": "Clinton Criticizes Trump's Handling of Iran Conflict",
@@ -128,6 +158,11 @@
     "url": "thecradlemedia/62002",
     "title": "Israel's El Al Airlines to Offer High-Speed Internet on Flights via Starlink Partnership",
     "published": "2026-06-16T04:49:09.984968+00:00"
+  },
+  "bd915d3e296aa6f4da9061f769c43f939c0ebc373133d681257083122ebae4aa": {
+    "url": "https://www.rt.com/news/641654-uk-kiev-enriched-uranium/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "UK to supply enriched uranium to Kiev",
+    "published": "2026-06-16T01:46:02+00:00"
   },
   "d9ea672433451f6949053c3a33321f59331070e210633de34bce3f9157c0d6b3": {
     "url": "https://tass.com/world/2146911",
@@ -713,40 +748,5 @@
     "url": "BellumActaNews/174141",
     "title": "Hezbollah Rocket Strikes Near Church in Southern Lebanon",
     "published": "2026-06-13T17:38:21.141111+00:00"
-  },
-  "52f986f5e9cf72ccf17b69e3cb4204ebfdbd6ce60ab57f57413d50240e25e00d": {
-    "url": "QudsNen/227298",
-    "title": "Palestinian Detained by Israeli Forces in Al-Fawwar Refugee Camp",
-    "published": "2026-06-13T17:37:05.270903+00:00"
-  },
-  "13f46f9dab9ef111bbbbd8a4f1717363ea454d6a02000799c8e6195f4399feb5": {
-    "url": "QudsNen/227305",
-    "title": "Israeli Occupation Forces Shell Nabatieh's Ali al-Tahir Hill",
-    "published": "2026-06-13T17:36:36.586594+00:00"
-  },
-  "59f2eb1b6851b083e165aabfb841b5de6abb1ee5a514ee17ad0f73c889293b9a": {
-    "url": "Middle_East_Spectator/33472",
-    "title": "Revised US-Iran Agreement Sparks Debate Among Iranian Officials",
-    "published": "2026-06-13T17:33:36.751837+00:00"
-  },
-  "6e305f0e1a69e54d2ddc0055a78c33e57b5adec34ea0d69d7fbc5af32ef901c3": {
-    "url": "thecradlemedia/61865",
-    "title": "Israeli Attack Kills Lebanese Administrative Officer, Association Condemns Violence",
-    "published": "2026-06-13T17:30:34.255414+00:00"
-  },
-  "18f2b0a21aa97d2abb0eb84eafcfceadd1d5e7f6e36a319bda6cddd8e1106b3b": {
-    "url": "thecradlemedia/61867",
-    "title": "US Military Construction Underway in Gaza Amid Ongoing Israeli Operations",
-    "published": "2026-06-13T17:30:30.304560+00:00"
-  },
-  "53d6536e3072244e38cba4de515ebf528eac453f4772830867b737f5e679e7cc": {
-    "url": "https://en.mehrnews.com/news/245308/Iran-is-stronger-than-ever-in-the-face-of-threats-Momeni",
-    "title": "Iran is stronger than ever in the face of threats: Momeni",
-    "published": "2026-06-13T15:24:29+00:00"
-  },
-  "83a34baeb67b13217befc5dbe733c1da5bcda3978dd90be4a6fd4a4958571b35": {
-    "url": "presstv/193922",
-    "title": "Israeli Forces Strike Southern Lebanese Town with Artillery Shells",
-    "published": "2026-06-13T14:15:44.156463+00:00"
   }
 }
