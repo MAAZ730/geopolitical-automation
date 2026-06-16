@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3967,
+  "total_calls": 3971,
   "tiers": {
-    "groq": 3948,
+    "groq": 3952,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-12T21:52:47.883136+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-12T21:53:22.355023+00:00",
-      "tier": "groq",
-      "article": "At least one killed and nine hospitalised in Midland, Texas shooting"
-    },
-    {
-      "timestamp": "2026-06-12T21:54:09.426994+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-12T21:54:25.532186+00:00",
-      "tier": "groq",
-      "article": "Kiev troops bombard Donetsk People\u2019s Republic ten times over past day"
-    },
     {
       "timestamp": "2026-06-12T23:21:12.667867+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-16T17:04:13.400791+00:00",
       "tier": "groq",
       "article": "FM Araghchi intensifies diplomatic outreach as int'l support grows for Iran-US MoU"
+    },
+    {
+      "timestamp": "2026-06-16T20:56:38.752693+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-16T20:57:11.234626+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-16T20:57:27.386502+00:00",
+      "tier": "groq",
+      "article": "Trump spins failure as victory"
+    },
+    {
+      "timestamp": "2026-06-16T20:57:50.008519+00:00",
+      "tier": "groq",
+      "article": "International tribunal dismisses Ukraine\u2019s claims over Crimea and Sea of Azov"
     }
   ]
 }
