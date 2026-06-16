@@ -1,4 +1,39 @@
 {
+  "be269573d7b3a9027b2acb6e00bdfc35caa0af2850a68f12bd45a69920cc1371": {
+    "url": "intelslava/89022",
+    "title": "Russian Tu-22M3 Crashes in Irkutsk Region",
+    "published": "2026-06-16T04:55:28.404623+00:00"
+  },
+  "90505b577bdc53e22dd33022128cbdb11a9b20a5b36dc40f76c19121f6807439": {
+    "url": "intelslava/89027",
+    "title": "US B-52 Stratofortress Crashes in California",
+    "published": "2026-06-16T04:53:19.712751+00:00"
+  },
+  "b6a88e532aacbfa82f6f6d3861ca90ec24c904d88441736e34b29ba7d93676c9": {
+    "url": "DDGeopolitics/186772",
+    "title": "USAF B-52H Stratofortress Crashes at Edwards Air Force Base",
+    "published": "2026-06-16T04:51:18.305570+00:00"
+  },
+  "cdd4566e404a748c83f80b0ead672303f75d924535cc6648e6fba68b60d19bca": {
+    "url": "DDGeopolitics/186774",
+    "title": "Israeli Drone Strikes Press TV Journalist in Southern Lebanon",
+    "published": "2026-06-16T04:50:30.806526+00:00"
+  },
+  "6cc9d66bfd4744295d61a18d3ed29acfdf20de46b162d29f331bfc858fbe0fe2": {
+    "url": "Middle_East_Spectator/33629",
+    "title": "B-52 Bomber Crashes at Edwards Air Force Base, Eight Crew Members Feared Dead",
+    "published": "2026-06-16T04:49:11.556066+00:00"
+  },
+  "476e3649a070632a5ea8a05f916d6566d023966f3ef36447acf527233e6e4eaf": {
+    "url": "thecradlemedia/62002",
+    "title": "Israel's El Al Airlines to Offer High-Speed Internet on Flights via Starlink Partnership",
+    "published": "2026-06-16T04:49:09.984968+00:00"
+  },
+  "d9ea672433451f6949053c3a33321f59331070e210633de34bce3f9157c0d6b3": {
+    "url": "https://tass.com/world/2146911",
+    "title": "Israeli attacks kill 3,798 Lebanese since escalation of tensions \u2014 Health Ministry",
+    "published": "2026-06-16T01:34:58+00:00"
+  },
   "01c164f766e1cc6ca5659199d7ef99c29cb7fc350abddd8ca95b318a5c2ecca8": {
     "url": "QudsNen/227608",
     "title": "Israeli Settlers Raid Eastern Nablus Under Military Escort",
@@ -113,6 +148,11 @@
     "url": "thecradlemedia/61981",
     "title": "Israeli Airstrikes Hit Residential Areas in Southern Lebanon",
     "published": "2026-06-15T12:26:25.877166+00:00"
+  },
+  "ec407911ffe6f93e220bc06d0ad3634169fef96383a47a5eb540510c4ca664f0": {
+    "url": "https://en.mehrnews.com/news/245347/China-s-rocket-launches-8-satellites-into-orbit-report",
+    "title": "China's rocket launches 8 satellites into orbit: report",
+    "published": "2026-06-15T08:46:07+00:00"
   },
   "f1e1ca5625d4afdc00459114ce5ab1e6879e36b64153cf53dd05329c910d82f3": {
     "url": "https://www.defensenews.com/global/europe/2026/06/15/french-army-shows-leclerc-tank-with-once-mocked-anti-drone-cage/",
@@ -708,45 +748,5 @@
     "url": "https://en.mehrnews.com/news/245293/IAEA-s-political-game-against-Iran",
     "title": "IAEA's political game against Iran",
     "published": "2026-06-13T08:00:48+00:00"
-  },
-  "77ee0e3d783603ada77e22ef6dd77d32ff8f124ac3a74c3fd2cca7ef96c3ca89": {
-    "url": "https://tass.com/defense/2145967",
-    "title": "One civilian killed, five others injured in Ukrainian attacks on Kherson Region",
-    "published": "2026-06-13T07:57:53+00:00"
-  },
-  "9a67c6912f32949818f00b52cfe1a499f82628a201dbde2cd0fcbcabffff8f35": {
-    "url": "https://en.mehrnews.com/news/245288/World-to-soon-hear-echo-of-Iran-victory-over-terrorist-enemy",
-    "title": "World to soon hear echo of Iran victory over terrorist enemy",
-    "published": "2026-06-13T06:57:58+00:00"
-  },
-  "508853b50559e5517ab4d9dd8233bbbe6b7d64443e5bdacecfd95184e66cd79e": {
-    "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss",
-    "title": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help",
-    "published": "2026-06-13T06:50:06+00:00"
-  },
-  "fbadb1e75cba48ac19a2d42518c3ccdaa84144823ebb364463ae431657f4ddd7": {
-    "url": "https://www.rt.com/news/641488-us-strike-drug-lord-venezuela/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US says Tren de Aragua leader killed in Venezuela strike",
-    "published": "2026-06-13T04:23:14+00:00"
-  },
-  "bf6a8cb1fb6867aa244f2d64926e8e59af6cd23efb260be7cde80768e428f206": {
-    "url": "Slavyangrad/166442",
-    "title": "UK Defence Secretary Resigns Amid Russia Threats",
-    "published": "2026-06-13T04:19:09.809899+00:00"
-  },
-  "01ac656536f91192f0cf9d847b9ca8ae63970bb76d8838ef8152ef0c9b8c14f8": {
-    "url": "presstv/193862",
-    "title": "Israeli Forces Clash with Hezbollah in Southern Lebanon",
-    "published": "2026-06-13T04:16:02.622200+00:00"
-  },
-  "6e7ba85842d44360b6207af4d30c9c367bd92bb1e4179f97d018e1de5a9ef6f2": {
-    "url": "presstv/193864",
-    "title": "Gaza Children Turn Ruins of Damaged Vehicles into Playground",
-    "published": "2026-06-13T04:14:47.278144+00:00"
-  },
-  "7508e26d2cb773c45b38e6f212600c2f79db1f8e88b213cb5ea4600389d4e272": {
-    "url": "QudsNen/227211",
-    "title": "Hezbollah- Israel Clashes Escalate in Southern Lebanon",
-    "published": "2026-06-13T04:11:15.021322+00:00"
   }
 }

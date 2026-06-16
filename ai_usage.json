@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3955,
+  "total_calls": 3959,
   "tiers": {
-    "groq": 3936,
+    "groq": 3940,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-12T10:22:07.081763+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-12T10:22:38.650400+00:00",
-      "tier": "groq",
-      "article": "India summons top US diplomat for second time over deadly strike on vessels off Oman - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-12T10:23:31.354065+00:00",
-      "tier": "groq",
-      "article": "The Gulf Arab States Need a Shield Built for Limited Trust"
-    },
-    {
-      "timestamp": "2026-06-12T10:24:17.237345+00:00",
-      "tier": "groq",
-      "article": "Iran closes Strait of Hormuz until further notice \u2014 government agency"
-    },
     {
       "timestamp": "2026-06-12T15:22:56.586979+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-15T22:25:46.941951+00:00",
       "tier": "groq",
       "article": "French army shows Leclerc tank with once-mocked anti-drone cage"
+    },
+    {
+      "timestamp": "2026-06-16T04:47:52.595472+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-16T04:48:25.099326+00:00",
+      "tier": "groq",
+      "article": "Israeli attacks kill 3,798 Lebanese since escalation of tensions \u2014 Health Ministry"
+    },
+    {
+      "timestamp": "2026-06-16T04:48:43.108708+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-16T04:48:59.264803+00:00",
+      "tier": "groq",
+      "article": "China's rocket launches 8 satellites into orbit: report"
     }
   ]
 }
