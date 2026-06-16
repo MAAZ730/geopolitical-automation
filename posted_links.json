@@ -1,4 +1,34 @@
 {
+  "b4cbb1646cbd80693bdedd035d399add768d7a746fed64ea14faa1a39921f1d6": {
+    "url": "intelslava/89044",
+    "title": "Moscow Suburbs Hit by Ukrainian Kamikaze Drones",
+    "published": "2026-06-16T11:45:34.822416+00:00"
+  },
+  "98b93347071bae494adfcc2826d8cfb72ab93dc35f1abfd04f3afb605684f084": {
+    "url": "BellumActaNews/174276",
+    "title": "Trump Suggests Syria Invade Lebanon's Shia Regions",
+    "published": "2026-06-16T11:29:38.634959+00:00"
+  },
+  "cf23c05aee6c5900483c2f5ca7c364421505adb909c3a0e3bd633b1a7013db6c": {
+    "url": "BellumActaNews/174277",
+    "title": "Trump Clarifies US-Israeli Coalition's Objectives in Region",
+    "published": "2026-06-16T11:28:56.597871+00:00"
+  },
+  "029dbc6f08b3e7fbb9c8ed436428a8bd56107366e8012e9829817de1b0f67a10": {
+    "url": "DDGeopolitics/186790",
+    "title": "Trump Suggests Syria Handle Hezbollah, Citing Better Capabilities",
+    "published": "2026-06-16T11:26:03.993565+00:00"
+  },
+  "3279067175e742fead0fc298b5c5a997ac92d56b827a887889aa05786e476e3d": {
+    "url": "thecradlemedia/62050",
+    "title": "Israeli Supreme Court Rejects Gaza Doctor's Appeal for Release",
+    "published": "2026-06-16T11:21:49.410709+00:00"
+  },
+  "7befda67143db59109646bd0f3e00963043b660cf793a1d21d7c9c7b41e0d595": {
+    "url": "thecradlemedia/62051",
+    "title": "Turkey Rejects Iraq's Request to Extend Kirkuk-Ceyhan Oil Pipeline Deal",
+    "published": "2026-06-16T11:21:42.345454+00:00"
+  },
   "be269573d7b3a9027b2acb6e00bdfc35caa0af2850a68f12bd45a69920cc1371": {
     "url": "intelslava/89022",
     "title": "Russian Tu-22M3 Crashes in Irkutsk Region",
@@ -148,6 +178,11 @@
     "url": "thecradlemedia/61981",
     "title": "Israeli Airstrikes Hit Residential Areas in Southern Lebanon",
     "published": "2026-06-15T12:26:25.877166+00:00"
+  },
+  "c0cd87ef66f233b7af9d0841914492a9cbe0486f94d2d648cd1848bb582430db": {
+    "url": "https://www.tehrantimes.com/news/527349/FAO-Agriculture-Ministry-partner-to-empower-locals-conserve",
+    "title": "FAO, Agriculture Ministry partner to empower locals, conserve indigenous livestock breeds",
+    "published": "2026-06-15T11:30:58+00:00"
   },
   "ec407911ffe6f93e220bc06d0ad3634169fef96383a47a5eb540510c4ca664f0": {
     "url": "https://en.mehrnews.com/news/245347/China-s-rocket-launches-8-satellites-into-orbit-report",
@@ -713,40 +748,5 @@
     "url": "https://english.almanar.com.lb/article/91127/",
     "title": "Warnings Across Nabatieh and Jezzine as Israeli Aggression Widens - Al-Manar TV Lebanon",
     "published": "2026-06-13T10:27:06+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel Escalates Strikes in Lebanon Amid Ceasefire Dispute",
-    "published": "2026-06-13T09:35:32.426169+00:00"
-  },
-  "8c2ce48280a81218abd78a23b0936b490e71c9a9d751f810171e3850a59a2698": {
-    "url": "presstv/193884",
-    "title": "Iranian Armed Forces Receive Unwavering Public Support During Recent Conflict",
-    "published": "2026-06-13T09:32:46.648895+00:00"
-  },
-  "547a6a174583eefa72f771531e05c02e936d11cfe4f8a169262b2445498756b6": {
-    "url": "QudsNen/227233",
-    "title": "Israeli Forces Confiscate Vehicle Keys in Masafer Yatta",
-    "published": "2026-06-13T09:27:16.853101+00:00"
-  },
-  "e87eb396a4e254533ebce0d38d64a2523ad08e275bc2cd3150da5915950477ea": {
-    "url": "thecradlemedia/61812",
-    "title": "Israeli Airstrikes Hit Southern Lebanon, Displacement Order Issued",
-    "published": "2026-06-13T09:26:19.588797+00:00"
-  },
-  "ae5cb03f8e3c0a01771c59c9a962db88f772b94b02afadd1770028168d9e41d2": {
-    "url": "thecradlemedia/61820",
-    "title": "British Activists Sentenced for Elbit Factory Raid",
-    "published": "2026-06-13T09:25:49.233385+00:00"
-  },
-  "3073801302e5e3f70e004ceee045b4bde8688fd2555323d294adb526834fc254": {
-    "url": "thecradlemedia/61823",
-    "title": "Iranian Hackers Claim Breach of FBI Drone Network Ahead of 2026 World Cup",
-    "published": "2026-06-13T09:25:40.560095+00:00"
-  },
-  "14b3c1ccfe2be0bc447301bc1f98a3dbdf3a1834743a6451fee22034d60f15fb": {
-    "url": "https://en.mehrnews.com/news/245293/IAEA-s-political-game-against-Iran",
-    "title": "IAEA's political game against Iran",
-    "published": "2026-06-13T08:00:48+00:00"
   }
 }

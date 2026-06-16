@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3959,
+  "total_calls": 3963,
   "tiers": {
-    "groq": 3940,
+    "groq": 3944,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-12T15:22:56.586979+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-12T15:23:29.137276+00:00",
-      "tier": "groq",
-      "article": "US attacks put ceasefire status \u2018ineffective\u2019: Araghchi warns"
-    },
-    {
-      "timestamp": "2026-06-12T15:24:14.631340+00:00",
-      "tier": "groq",
-      "article": "Half of Israelis agree deterrence &#039;weakened&#039; following wars in Iran, Lebanon: Poll"
-    },
-    {
-      "timestamp": "2026-06-12T15:25:03.036960+00:00",
-      "tier": "groq",
-      "article": "Europe missed its chance to talk with Russia in 2021, Germany\u2019s former top diplomat says"
-    },
     {
       "timestamp": "2026-06-12T18:12:42.375122+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-16T04:48:59.264803+00:00",
       "tier": "groq",
       "article": "China's rocket launches 8 satellites into orbit: report"
+    },
+    {
+      "timestamp": "2026-06-16T11:20:37.770315+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-16T11:20:54.060100+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-16T11:21:10.382935+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-16T11:21:30.692426+00:00",
+      "tier": "groq",
+      "article": "FAO, Agriculture Ministry partner to empower locals, conserve indigenous livestock breeds"
     }
   ]
 }
