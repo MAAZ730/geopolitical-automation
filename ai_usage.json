@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3979,
+  "total_calls": 3983,
   "tiers": {
-    "groq": 3960,
+    "groq": 3964,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-13T09:23:58.004272+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-13T09:24:34.225663+00:00",
-      "tier": "groq",
-      "article": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help"
-    },
-    {
-      "timestamp": "2026-06-13T09:24:50.221008+00:00",
-      "tier": "groq",
-      "article": "US says Tren de Aragua leader killed in Venezuela strike"
-    },
-    {
-      "timestamp": "2026-06-13T09:25:30.660008+00:00",
-      "tier": "groq",
-      "article": "Iran \u2018more prepared, powerful, deterrent position than ever'"
-    },
     {
       "timestamp": "2026-06-13T11:58:51.584380+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-17T04:27:48.872041+00:00",
       "tier": "groq",
       "article": "Ukraine\u2019s demand for tiny drone laser-targeting systems spurs new product launches"
+    },
+    {
+      "timestamp": "2026-06-17T11:03:09.098764+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-17T11:03:25.342880+00:00",
+      "tier": "groq",
+      "article": "Ukrainian brigade command begs to be allowed to step down due to casualties in Zaporozhye"
+    },
+    {
+      "timestamp": "2026-06-17T11:03:48.604343+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-17T11:04:04.555321+00:00",
+      "tier": "groq",
+      "article": "Iran now a 'regional superpower': Lebanese MP says"
     }
   ]
 }

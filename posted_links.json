@@ -1,4 +1,39 @@
 {
+  "94053817ad6208cef58992ac8c55c5075447f60d06383f0d8a2b31b068474038": {
+    "url": "DDGeopolitics/186851",
+    "title": "Russian Su-24M Crashes in Ukraine's Khmelnytsky Region",
+    "published": "2026-06-17T11:10:04.757568+00:00"
+  },
+  "1145668d64b99edbea844669b8667a66b75f69af555ac5a81aad1439d5efb35a": {
+    "url": "DDGeopolitics/186856",
+    "title": "Israel Reaffirms Military Presence in Lebanon Amid US-Iran Deal",
+    "published": "2026-06-17T11:09:35.009316+00:00"
+  },
+  "0ca7c81e2067d02e6e5839a5065325091ebc52f9a8e8f58786242979e5669ea9": {
+    "url": "QudsNen/227805",
+    "title": "Israeli Strikes Devastate Majdal Selm, Lebanon",
+    "published": "2026-06-17T11:06:33.627226+00:00"
+  },
+  "f4e2600f75086e1249738da4543739b62b3d97b1b5ff61fcda04319d523ce810": {
+    "url": "thecradlemedia/62139",
+    "title": "Iran Conflict Exposes US Military Limitations, Weakening Global Influence",
+    "published": "2026-06-17T11:04:32.064716+00:00"
+  },
+  "588a24149c74927490ef9be6cddebc940b895d64621840cc87531a4374dbdd2e": {
+    "url": "thecradlemedia/62140",
+    "title": "NATO Chief Hails US-Iran Agreement on Strait of Hormuz Reopening",
+    "published": "2026-06-17T11:04:30.843491+00:00"
+  },
+  "d99e85bc5ee7f99477749d65f3dc261b0181679a6de6ebf3f0b985a05ee8ba6a": {
+    "url": "thecradlemedia/62142",
+    "title": "Israeli Artillery Strikes South Lebanon",
+    "published": "2026-06-17T11:04:29.770131+00:00"
+  },
+  "50f213372d51eaeb38fb033c38a59d7207b67b8a9d00160f46d08ad1643554cc": {
+    "url": "https://tass.com/politics/2147591",
+    "title": "Ukrainian brigade command begs to be allowed to step down due to casualties in Zaporozhye",
+    "published": "2026-06-17T09:06:52+00:00"
+  },
   "1cabe20d7871cd55e44ee69c14d94da29247778ef558eca07a168e5d2d28dd8b": {
     "url": "Slavyangrad/166787",
     "title": "Ukraine Allows Shoot-Down of Russian Drones Over Residential Buildings",
@@ -128,6 +163,11 @@
     "url": "https://www.defensenews.com/global/europe/2026/06/16/mbda-advances-land-version-of-its-naval-missile-as-european-strike-weapon/",
     "title": "MBDA advances land version of its naval missile as European strike weapon",
     "published": "2026-06-16T14:40:32+00:00"
+  },
+  "d0059e41f7140ade707e823f637485e3bbfd9e58e10557932fc93de7a37a95a0": {
+    "url": "https://en.mehrnews.com/news/245382/Iran-now-a-regional-superpower-Lebanese-MP-says",
+    "title": "Iran now a 'regional superpower': Lebanese MP says",
+    "published": "2026-06-16T12:14:25+00:00"
   },
   "b4cbb1646cbd80693bdedd035d399add768d7a746fed64ea14faa1a39921f1d6": {
     "url": "intelslava/89044",
@@ -708,45 +748,5 @@
     "url": "presstv/193958",
     "title": "Hezbollah Rocket Barrage Targets Israeli Settlements in Northern Occupied Palestine",
     "published": "2026-06-13T21:27:39.862887+00:00"
-  },
-  "0716f34a6ab2900d0d96d8d38c532fd36b5684c0de161f23961d7ed044210c9f": {
-    "url": "QudsNen/227341",
-    "title": "Hezbollah Rocket Barrage Targets Israeli Settlements in Northern Occupied Palestine",
-    "published": "2026-06-13T21:26:57.314933+00:00"
-  },
-  "e501b27f89d46b5fc02aecd25ebc99e667338a69621b4c075b366b8c707483dc": {
-    "url": "Middle_East_Spectator/33500",
-    "title": "Iran Protests: 'Revenge' Chants Erupt Amid Frustration with Nuclear Talks",
-    "published": "2026-06-13T21:26:16.888929+00:00"
-  },
-  "d08ab528e9a58f234b4a2fd7ac1091dd3c876843bc7e369e789e4eabfcfcab89": {
-    "url": "thecradlemedia/61856",
-    "title": "Israel Halts Vatican-Led Convoy in South Lebanon",
-    "published": "2026-06-13T21:24:32.057638+00:00"
-  },
-  "100b0cc0ea19de65bba896a6e002ecc0ae0cba89d8fd53dfd5b51eb80b2dad05": {
-    "url": "thecradlemedia/61857",
-    "title": "UK Lawmakers Condemn Secretive London Real Estate Exhibition Promoting Occupied Palestinian Land",
-    "published": "2026-06-13T21:24:30.718606+00:00"
-  },
-  "436c78a0552aaf6cfc9b0ef2c8921ec750f40170b7a3e8a285f7b90f811bc0e8": {
-    "url": "https://tass.com/world/2146109",
-    "title": "Representatives of United States and Iran may meet in Switzerland next week \u2014 TV",
-    "published": "2026-06-13T20:13:30+00:00"
-  },
-  "3d8c4c5e45c4157a3b338ce4606bd1f726431a674e18d3aae2156cdf1d3fcc5e": {
-    "url": "presstv/193935",
-    "title": "Hezbollah Releases Footage of Alleged Attacks on Israeli Military Targets",
-    "published": "2026-06-13T19:54:28.333486+00:00"
-  },
-  "8c760d0761e9ffe4f5f73a3de2ae1186abc9219a23ef6e22e137f87554d48243": {
-    "url": "presstv/193939",
-    "title": "Iran-US Agreement Includes Release of Frozen Assets",
-    "published": "2026-06-13T19:51:43.692906+00:00"
-  },
-  "0cc7114a67ca4dede836c1ac1fa28424e8b4a7664ec9ffc80e3eeac5f6b67297": {
-    "url": "presstv/193940",
-    "title": "Hezbollah Targets Israeli Soldiers with Drone in Southern Lebanon",
-    "published": "2026-06-13T19:49:22.435361+00:00"
   }
 }
