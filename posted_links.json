@@ -1,4 +1,39 @@
 {
+  "f95a229692368c0743d71a42e2aa00e67e05eb4367c094f29ed323be69cbf15e": {
+    "url": "QudsNen/227841",
+    "title": "Gaza Strip Airstrike Leaves Multiple Fatalities",
+    "published": "2026-06-17T15:49:24.474888+00:00"
+  },
+  "cf4ad0ce78214a77c7bc4ec5b3a3271228e8c30d99d21c06a6e819be0df70150": {
+    "url": "QudsNen/227847",
+    "title": "Israeli Drone Strike Kills at Least Four in Al-Mawasi, Gaza Strip",
+    "published": "2026-06-17T15:48:45.008589+00:00"
+  },
+  "7734693967c1e1662353a036138ef9b115642e436a9d7461657826e0edf24577": {
+    "url": "Middle_East_Spectator/33657",
+    "title": "Trump Warns Iran Over Unfinalised Agreement",
+    "published": "2026-06-17T15:47:44.151787+00:00"
+  },
+  "62ebe4e0cf1d8d37bef3b815174aab228c68dde48613ce32686eb1008037dcad": {
+    "url": "thecradlemedia/62176",
+    "title": "Israeli Warplanes Conduct Aerial Surveillance over Southern Lebanon",
+    "published": "2026-06-17T15:45:25.501634+00:00"
+  },
+  "55849b9cce45f5abfe916872d7160aed54416f795cbe0ec61c33472d8d97aaf4": {
+    "url": "thecradlemedia/62182",
+    "title": "Trump Discusses Hezbollah with Syrian Leader at G7 Summit",
+    "published": "2026-06-17T15:44:59.450943+00:00"
+  },
+  "07d1e4ea2285d62bf44934086c0c2fbc4f480e2e075e0f1488c847a412812fe1": {
+    "url": "thecradlemedia/62183",
+    "title": "Israel, Somaliland Strengthen Security Ties",
+    "published": "2026-06-17T15:44:57.924656+00:00"
+  },
+  "f9c535dccd3e2711e793793db37dbdee443e42cd5fdd8429e78f598950293c18": {
+    "url": "https://thecradle.co/articles-id/38303",
+    "title": "US, EU authorize production of \u2018deep strike\u2019 missiles inside Ukraine",
+    "published": "2026-06-17T14:18:06+00:00"
+  },
   "94053817ad6208cef58992ac8c55c5075447f60d06383f0d8a2b31b068474038": {
     "url": "DDGeopolitics/186851",
     "title": "Russian Su-24M Crashes in Ukraine's Khmelnytsky Region",
@@ -158,6 +193,11 @@
     "url": "thecradlemedia/62104",
     "title": "Israeli Airstrikes Damage Ancient Sites in Lebanon's Bint Jbeil District",
     "published": "2026-06-16T17:04:20.078622+00:00"
+  },
+  "7543eec92356e6cca47f79eae9fa2f963aa8e5a9b2e3fdf5ecf2bdfa608052fc": {
+    "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+    "title": "Fragile quiet and unanswered questions in Lebanon after US-Iran truce",
+    "published": "2026-06-16T16:20:33+00:00"
   },
   "996dec49cab9f8afe6ab8a7ef9e74a612db0477e124193d854affd96207bffa3": {
     "url": "https://www.defensenews.com/global/europe/2026/06/16/mbda-advances-land-version-of-its-naval-missile-as-european-strike-weapon/",
@@ -708,45 +748,5 @@
     "url": "https://www.rt.com/news/641504-ai-iran-school-massacre-anthropic/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Use of AI in Iran school strike did not violate Anthropic\u2019s \u2018red lines,\u2019 CEO Amodei says",
     "published": "2026-06-14T01:54:29+00:00"
-  },
-  "10a740c516f42832a19fd90abd7b1d1275d06f37e2182fbe6d901d5c55652a0f": {
-    "url": "presstv/193962",
-    "title": "Hezbollah Drone Strike Targets Israeli Military HQ in Southern Lebanon",
-    "published": "2026-06-13T23:20:25.453034+00:00"
-  },
-  "91b4c55e96da4d6844c7b580e8776df10b4caecda78e66e2d0939926dd46bf7e": {
-    "url": "presstv/193965",
-    "title": "Woman Dies in Bungee Jumping Accident in Limeira, Brazil",
-    "published": "2026-06-13T23:18:07.586467+00:00"
-  },
-  "74e785e7d073b0cb1f84d6ca69d926ffbe5d8546b1bfb5b541874c5829f62839": {
-    "url": "presstv/193969",
-    "title": "Hezbollah Rockets Hit Israeli Forces in Majdal Zoun, Lebanon",
-    "published": "2026-06-13T23:16:37.576719+00:00"
-  },
-  "ff9c0175e6660872e31b6f4426748c4c43a8855d71cfeaf905487ffb1da0c20a": {
-    "url": "QudsNen/227349",
-    "title": "Israeli Naval Fire Hits Gaza City Refugee Tents",
-    "published": "2026-06-13T23:12:43.656335+00:00"
-  },
-  "262df0b2569c98006aef6e8981bd448c2b057e76c0e8a0f5eaeb94c80a2bb6a4": {
-    "url": "Middle_East_Spectator/33495",
-    "title": "Hezbollah Ambushes Israeli Tanks in Lebanon Border Skirmish",
-    "published": "2026-06-13T23:11:12.790640+00:00"
-  },
-  "2dab09bac863aedd53dedc4c15f54dce5d77d5bfdd922bf670de6b5f65071c88": {
-    "url": "Middle_East_Spectator/33503",
-    "title": "Iranian Strike Destroys Radar at U.S. Airbase in Kuwait",
-    "published": "2026-06-13T23:11:07.266895+00:00"
-  },
-  "e62bc38c6f692581d6b17159b0e63638dde5c0b73693171c321e333789978172": {
-    "url": "presstv/193956",
-    "title": "Hezbollah Drone Targets Israeli Command Vehicle in Southern Lebanon",
-    "published": "2026-06-13T21:29:04.867375+00:00"
-  },
-  "cd3de13a3db518b81d70f09cca4b0bb93bc40e034f3dca3e2415cc8c66121390": {
-    "url": "presstv/193958",
-    "title": "Hezbollah Rocket Barrage Targets Israeli Settlements in Northern Occupied Palestine",
-    "published": "2026-06-13T21:27:39.862887+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3983,
+  "total_calls": 3987,
   "tiers": {
-    "groq": 3964,
+    "groq": 3968,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-13T11:58:51.584380+00:00",
-      "tier": "groq",
-      "article": "One civilian killed, five others injured in Ukrainian attacks on Kherson Region"
-    },
-    {
-      "timestamp": "2026-06-13T11:59:11.558219+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-13T11:59:28.456805+00:00",
-      "tier": "groq",
-      "article": "Warnings Across Nabatieh and Jezzine as Israeli Aggression Widens - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-13T11:59:47.897684+00:00",
-      "tier": "groq",
-      "article": "Slovenia lifts arms embargo on Israel"
-    },
     {
       "timestamp": "2026-06-13T14:09:04.403987+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-17T11:04:04.555321+00:00",
       "tier": "groq",
       "article": "Iran now a 'regional superpower': Lebanese MP says"
+    },
+    {
+      "timestamp": "2026-06-17T15:43:21.721000+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-17T15:43:53.094700+00:00",
+      "tier": "groq",
+      "article": "US, EU authorize production of \u2018deep strike\u2019 missiles inside Ukraine"
+    },
+    {
+      "timestamp": "2026-06-17T15:44:39.116158+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-17T15:44:55.416298+00:00",
+      "tier": "groq",
+      "article": "Fragile quiet and unanswered questions in Lebanon after US-Iran truce"
     }
   ]
 }
