@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3987,
+  "total_calls": 3991,
   "tiers": {
-    "groq": 3968,
+    "groq": 3972,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-13T14:09:04.403987+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-13T14:09:37.648532+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-13T14:10:23.823567+00:00",
-      "tier": "groq",
-      "article": "Ukraine attacks transport workshop of Zaporozhye nuclear power plant"
-    },
-    {
-      "timestamp": "2026-06-13T14:10:42.381835+00:00",
-      "tier": "groq",
-      "article": "Work underway on satellite consternation for operating heavy drones \u2014 Putin"
-    },
     {
       "timestamp": "2026-06-13T17:29:21.225362+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-17T15:44:55.416298+00:00",
       "tier": "groq",
       "article": "Fragile quiet and unanswered questions in Lebanon after US-Iran truce"
+    },
+    {
+      "timestamp": "2026-06-17T18:57:33.760338+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-17T18:58:07.462326+00:00",
+      "tier": "groq",
+      "article": "Trump says US still investigating Iran school strike"
+    },
+    {
+      "timestamp": "2026-06-17T18:58:27.164035+00:00",
+      "tier": "groq",
+      "article": "5 Israeli soldiers injured in retaliatory drone strikes"
+    },
+    {
+      "timestamp": "2026-06-17T18:58:51.687394+00:00",
+      "tier": "groq",
+      "article": "Renault teams up with Thales to boost France\u2019s drone production"
     }
   ]
 }
