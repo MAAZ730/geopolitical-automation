@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3991,
+  "total_calls": 3995,
   "tiers": {
-    "groq": 3972,
+    "groq": 3976,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-13T17:29:21.225362+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-13T17:29:37.515261+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-13T17:30:07.746321+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Putin speaks on retaliatory strikes, development of AI-powered drones"
-    },
-    {
-      "timestamp": "2026-06-13T17:30:25.266058+00:00",
-      "tier": "groq",
-      "article": "Palestine Action activists handed terrorism sentences"
-    },
     {
       "timestamp": "2026-06-13T19:44:16.710548+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-17T18:58:51.687394+00:00",
       "tier": "groq",
       "article": "Renault teams up with Thales to boost France\u2019s drone production"
+    },
+    {
+      "timestamp": "2026-06-17T22:42:11.382347+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-17T22:42:27.838222+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-17T22:42:43.832724+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-17T22:43:05.072974+00:00",
+      "tier": "groq",
+      "article": "US-Israel war on Iran ends with Tehran stronger than ever before"
     }
   ]
 }
