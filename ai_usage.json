@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3995,
+  "total_calls": 3999,
   "tiers": {
-    "groq": 3976,
+    "groq": 3980,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-13T19:44:16.710548+00:00",
-      "tier": "groq",
-      "article": "Number of victims of Israeli strikes on Lebanon increases to 3,756 \u2014 Health Ministry"
-    },
-    {
-      "timestamp": "2026-06-13T19:44:49.918125+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-13T19:45:06.088891+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-13T19:45:43.211283+00:00",
-      "tier": "groq",
-      "article": "Israel seeks to derail signing of agreement between Iran, US \u2014 top Iranian diplomat"
-    },
     {
       "timestamp": "2026-06-13T21:22:53.149936+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-17T22:43:05.072974+00:00",
       "tier": "groq",
       "article": "US-Israel war on Iran ends with Tehran stronger than ever before"
+    },
+    {
+      "timestamp": "2026-06-18T04:17:28.051452+00:00",
+      "tier": "groq",
+      "article": "Lebanon\u2019s death toll from Israeli strikes reaches 3,884 Health Ministry"
+    },
+    {
+      "timestamp": "2026-06-18T04:18:00.494890+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-18T04:18:16.625617+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-18T04:19:01.874133+00:00",
+      "tier": "groq",
+      "article": "Size matters: KNDS pitches long-barreled artillery for 60-kilometer base range"
     }
   ]
 }
