@@ -1,4 +1,39 @@
 {
+  "0351691c36ad97920af755c8d0fc3d0d0ebbe9541ce4869be8c2fd6f32c55629": {
+    "url": "warmonitors/44559",
+    "title": "Moscow Oil Refinery Hit by Drone Attack",
+    "published": "2026-06-18T19:04:18.937156+00:00"
+  },
+  "cf6ab83db58d7aed7de4a24f362aa2f15bc75114a96f17aad1480ba858ae3982": {
+    "url": "DDGeopolitics/186975",
+    "title": "Moscow Drone Strike: Ukraine's Defense Minister Seeks to Showcase Capabilities to Western Allies",
+    "published": "2026-06-18T19:03:50.875928+00:00"
+  },
+  "d26bae63ba962e2f050b1b627ae24ad894eb5a2b227ad909c156c243847b80f5": {
+    "url": "QudsNen/228009",
+    "title": "Gaza City Airstrike Leaves Multiple Injured",
+    "published": "2026-06-18T19:02:36.700020+00:00"
+  },
+  "e2690a442c67fe32ff2da2ab81b6d335a630df5aefb8ae36f5d2652bddcfef19": {
+    "url": "QudsNen/228010",
+    "title": "Settler Violence Against Palestinian Shepherds in Anata",
+    "published": "2026-06-18T19:02:22.510147+00:00"
+  },
+  "f96ecafd4ed2fc405c3686c9b767e584adfef6487ffb6c37fcf1ae8b634d0342": {
+    "url": "thecradlemedia/62257",
+    "title": "Trump Calls for Ceasefire in Lebanon-Israel Conflict",
+    "published": "2026-06-18T19:00:52.537299+00:00"
+  },
+  "5e49e630bf5f6d08c95fc8602f9a8fc524f23644fe58af431f6e58dba71222fa": {
+    "url": "thecradlemedia/62258",
+    "title": "Moscow Hit by Ukrainian Drone Attack: Russia Warns NATO of Devastating Response",
+    "published": "2026-06-18T19:00:49.673927+00:00"
+  },
+  "03779a0e4d4f88a182ed0dfb29c9a039aacbe9b4f2164eea14f9fe8eb0a77780": {
+    "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike?traffic_source=rss",
+    "title": "Israel kills at least three Palestinians in Gaza City drone strike",
+    "published": "2026-06-18T16:50:58+00:00"
+  },
   "8355eef90c9bf2eca38d1ee34c314fb6c9753ad601d701ece48521ee31473123": {
     "url": "DDGeopolitics/186964",
     "title": "Cuba's President D\u00edaz-Canel Marks Six Decades of Enduring Blockade and Sanctions",
@@ -128,6 +163,11 @@
     "url": "thecradlemedia/62178",
     "title": "Explosions Rock Haddatha Village in Southern Lebanon",
     "published": "2026-06-17T22:43:14.703175+00:00"
+  },
+  "7ab69a423b474a459166913d2f7efbf7fc77df4c859b627073a25f309b2eda30": {
+    "url": "https://www.rt.com/news/641749-russia-gulf-security-reset/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Russia wants to reset Persian Gulf security \u2013 can it?",
+    "published": "2026-06-17T19:56:13+00:00"
   },
   "86bfebe1bbb11921b55bfe102de699798a5b268ef57d022476277cf0d873b6ca": {
     "url": "Middle_East_Spectator/33661",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/186617",
     "title": "Kiev Residents Flee to Metro Stations Amid Russian Strike Threat",
     "published": "2026-06-14T21:23:56.736722+00:00"
-  },
-  "abd64ced64b575914631a2f66a3b797171984171ffca77b71a79640d403f1f21": {
-    "url": "thecradlemedia/61911",
-    "title": "US Aircraft Presence Sparks Flight Disruption Fears in Israel",
-    "published": "2026-06-14T21:21:57.587210+00:00"
-  },
-  "2e3466fbbb8d8cced3ce99f09b69e75a007ee0cc9f5ca45b9663af998324d76c": {
-    "url": "thecradlemedia/61912",
-    "title": "Indian Seafarer Dies on Board Vessel in Oman's Duqm Port",
-    "published": "2026-06-14T21:21:56.154944+00:00"
-  },
-  "004b67d7fe83fe43f9cf4d6ee1c0d6b70baddb197551cac0f50f916619aeb969": {
-    "url": "mod_russia_en/27527",
-    "title": "Russian Forces Destroy Enemy UAV Command Post in DPR",
-    "published": "2026-06-14T20:02:37.350391+00:00"
-  },
-  "b0c5404341eb859187f94ea2b934df81a6da243d95593d3829c410471147e6e8": {
-    "url": "mod_russia_en/27531",
-    "title": "Russian Forces Conduct Aerial Propaganda in Orekhov Direction",
-    "published": "2026-06-14T20:01:51.399777+00:00"
-  },
-  "cf2c5fe5243c2e680e8709ca6b7145091a6c11df94ecaa4e08606dcd5ece06a9": {
-    "url": "Slavyangrad/166554",
-    "title": "Russian Forces Conduct Aerial Strikes on Ukrainian Positions",
-    "published": "2026-06-14T20:00:46.683309+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Destroys Bridges in Southern Lebanon, Prompting Lebanese Response",
-    "published": "2026-06-14T19:56:43.947390+00:00"
-  },
-  "150aea00a59fbe6d22fe3cbe0dd180d5346c807532455e4070218cc085e44024": {
-    "url": "thecradlemedia/61914",
-    "title": "Israeli Drone Sirens Activated in Upper Galilee",
-    "published": "2026-06-14T19:50:12.464961+00:00"
-  },
-  "71072d73a256776ddc058a0d2a152915fa00e05b915dbc80c96c253f2a114ae3": {
-    "url": "thecradlemedia/61922",
-    "title": "Iran Vows to Defend Regional Security Chain",
-    "published": "2026-06-14T19:50:11.208747+00:00"
   }
 }
