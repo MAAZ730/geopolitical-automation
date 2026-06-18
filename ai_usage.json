@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4003,
+  "total_calls": 4007,
   "tiers": {
-    "groq": 3984,
+    "groq": 3988,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-13T23:10:08.598137+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-13T23:10:25.279336+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-13T23:10:41.553605+00:00",
-      "tier": "groq",
-      "article": "Russia hits Ukrainian army deployment sites in DPR with FAB bombs \u2014 Defense Ministry"
-    },
-    {
-      "timestamp": "2026-06-13T23:11:00.891825+00:00",
-      "tier": "groq",
-      "article": "World to soon hear echo of Iran victory over terrorist enemy"
-    },
     {
       "timestamp": "2026-06-14T04:23:50.988774+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-18T10:56:15.924381+00:00",
       "tier": "groq",
       "article": "Iran, Russia FMs discuss ties, reg. issues, Islamabad talks"
+    },
+    {
+      "timestamp": "2026-06-18T15:35:59.992789+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-18T15:36:34.547229+00:00",
+      "tier": "groq",
+      "article": "Over 1,000 Palestinians killed in Gaza since start of ceasefire \u2014 Health Ministry"
+    },
+    {
+      "timestamp": "2026-06-18T15:36:52.720485+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-18T15:37:08.746768+00:00",
+      "tier": "groq",
+      "article": "Hezbollah resistance carried out 3,185 ops: Qassem"
     }
   ]
 }
