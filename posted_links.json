@@ -1,4 +1,39 @@
 {
+  "ac7ddf8e8ae79fb563df67d555bed8d8baef70840248b8c9b37c0e1e3a7a6a51": {
+    "url": "BellumActaNews/174374",
+    "title": "Ukraine Launches Drone Swarm Strike on Moscow Refineries",
+    "published": "2026-06-18T22:24:55.537883+00:00"
+  },
+  "ee638cf855ba311bd7dfe7fb583231e4b65d7eac057808abdc1bc6f649b84e6c": {
+    "url": "DDGeopolitics/186990",
+    "title": "Israeli Forces Advance on Southern Lebanon Positions",
+    "published": "2026-06-18T22:23:32.761166+00:00"
+  },
+  "b08b60ff6631914a170046d37862879f1d002c38b918449e9752e0c03ff834ef": {
+    "url": "QudsNen/228036",
+    "title": "Hezbollah Clashes with Israeli Forces in Nabatieh, Lebanon",
+    "published": "2026-06-18T22:22:33.556141+00:00"
+  },
+  "3d0ef1b8a291df0d3144c2a0cb8cb3a91525669e1230f106c37ff2932f039cee": {
+    "url": "Middle_East_Spectator/33719",
+    "title": "Iran Claims Victory in 2026 Conflict",
+    "published": "2026-06-18T22:21:34.408365+00:00"
+  },
+  "8cfef9e93c048de6c24ad0c058e4b89f1cbdbaf93de85d1f82cbfba0b1ac050b": {
+    "url": "thecradlemedia/62254",
+    "title": "Iran Accelerates Energy Transition Amid Infrastructure Disruptions",
+    "published": "2026-06-18T22:21:32.888160+00:00"
+  },
+  "3728250b3913a99b31832f48e3caa94599a1a4fc46a7a3d9d9ea410532113b29": {
+    "url": "thecradlemedia/62260",
+    "title": "Hezbollah Rockets Target Israeli Forces in Southern Lebanon",
+    "published": "2026-06-18T22:21:31.829646+00:00"
+  },
+  "f5307348b5314f2e74a95dea7fcd82f3d7da4138f72f5b441a22174bff2c4217": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
+    "title": "Myanmar military airstrike kills seven civilians in Rakhine state",
+    "published": "2026-06-18T21:15:13+00:00"
+  },
   "0351691c36ad97920af755c8d0fc3d0d0ebbe9541ce4869be8c2fd6f32c55629": {
     "url": "warmonitors/44559",
     "title": "Moscow Oil Refinery Hit by Drone Attack",
@@ -128,6 +163,11 @@
     "url": "QudsNen/227902",
     "title": "US Continues to Back Israel Amid Ongoing Conflict in Gaza and Lebanon",
     "published": "2026-06-18T04:20:46.792055+00:00"
+  },
+  "cce8faf461397aeb1246ea8471e00062f09c5c4069dfc1c065984e3d7d5114ed": {
+    "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+    "title": "Initial US-Iran agreement leaves many key issues to be negotiated",
+    "published": "2026-06-18T01:29:32+00:00"
   },
   "09c417cd93b554a64bb6bcd12b268bc907fd06bbb9c2bf81c660ee4755b80873": {
     "url": "https://tass.com/world/2148071",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/186647",
     "title": "Air Defense Activated Over Donetsk Amid Ukraine-Russia Tensions",
     "published": "2026-06-14T23:19:17.648458+00:00"
-  },
-  "71af9f97b3b6a99d8775d61b0ddf1675857c2457c2f98b3d0f61cd3c6841bbe1": {
-    "url": "DDGeopolitics/186649",
-    "title": "Fire Engulfs Dormition Cathedral at Pechersk Lavra Amid Kiev Drone Attack",
-    "published": "2026-06-14T23:19:01.158754+00:00"
-  },
-  "fba29d18f94414cd5d357318db7371c2ab5a90c6d013d1a7440ea0c53b347402": {
-    "url": "QudsNen/227482",
-    "title": "Settlers, Palestinians Clash in Deir Abu Mishal Over Outpost Establishment",
-    "published": "2026-06-14T23:18:29.001076+00:00"
-  },
-  "f89fd5fb275738b4c7d0a1bce8afa34af537e9843a2581ef10121d7b3f56fdb6": {
-    "url": "Middle_East_Spectator/33572",
-    "title": "US-Iran Nuclear Deal Sparks Criticism Over Perceived Imbalance",
-    "published": "2026-06-14T23:16:22.892455+00:00"
-  },
-  "208d02ca0e1eeaa7b90a9fc68b772a4781488f0e44653a7007b0628988f9138a": {
-    "url": "thecradlemedia/61929",
-    "title": "Iran Announces End to War with US and Israel",
-    "published": "2026-06-14T23:16:20.306742+00:00"
-  },
-  "1e3bcc18a77637ca31cd2aba1a52657c545832c34b18011bc3c892506eaba60c": {
-    "url": "mod_russia_en/27526",
-    "title": "Konstantinovka Under Fire: Russian Forces Target Ukrainian Military Facilities",
-    "published": "2026-06-14T21:38:48.139167+00:00"
-  },
-  "5d6980ab39959d2e03375aecf15bc70fe395fa2f4a960e79bcb36fae51687aff": {
-    "url": "presstv/194067",
-    "title": "Iran's IRGC Commander Confident in Nation's Resolve Amid Tensions with US",
-    "published": "2026-06-14T21:31:41.974907+00:00"
-  },
-  "21d78940e0012d2509ed874dd80453042b161eac18e02c6e4e7a2ae0d480cd24": {
-    "url": "presstv/194076",
-    "title": "Hezbollah Forces Target Israeli Merkava Tank with Ababil Drone in Southern Lebanon",
-    "published": "2026-06-14T21:26:27.880418+00:00"
-  },
-  "d5145806e4920a359e9442059912efa6a764f0d347ceb29de2430d001c1227ac": {
-    "url": "DDGeopolitics/186617",
-    "title": "Kiev Residents Flee to Metro Stations Amid Russian Strike Threat",
-    "published": "2026-06-14T21:23:56.736722+00:00"
   }
 }
