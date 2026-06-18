@@ -1,4 +1,34 @@
 {
+  "e5315aa646b5cafcd5c9fcf28f5e7543d0fbf588edd8b46b2ce9a2285dc41c1c": {
+    "url": "warmonitors/44542",
+    "title": "US and Iran Sign Memorandum to End Conflict",
+    "published": "2026-06-18T11:02:47.534373+00:00"
+  },
+  "2ff06d4ac6676b60c8d2a00e30b1ec28ce5cee9e3b7ed8ff11489c10c074e88e": {
+    "url": "DDGeopolitics/186939",
+    "title": "US Department of War Launches Review of Military Presence in Europe",
+    "published": "2026-06-18T11:01:17.275401+00:00"
+  },
+  "f9ce3e9df347ceafc88d2440a9f16db1b451f07584311b17852fb12a67830366": {
+    "url": "thecradlemedia/62206",
+    "title": "Trump Warns of Global Energy Crisis Without Iran Nuclear Deal",
+    "published": "2026-06-18T10:59:26.552222+00:00"
+  },
+  "6c47fa960990627e7781668d4ca507fa3dd8ba2466012ac1359bb4698cd703a1": {
+    "url": "thecradlemedia/62208",
+    "title": "Trump Backs UAE's Military Involvement in Iran Strikes",
+    "published": "2026-06-18T10:57:02.387934+00:00"
+  },
+  "cf27f93bc7968c3f9d476c1c4cef75fd7b91e530097014482ed9e0411a64d2ff": {
+    "url": "thecradlemedia/62213",
+    "title": "Iraq, US to Revive Kirkuk-Baniyas Oil Pipeline",
+    "published": "2026-06-18T10:56:22.556034+00:00"
+  },
+  "9c64f4f456648cca7c59ec23eb5498373bdf4bb188af90018873b3ce0d6df1a0": {
+    "url": "thecradlemedia/62216",
+    "title": "Iran, US Sign Islamabad MoU to End War, Reopen Hormuz",
+    "published": "2026-06-18T10:56:21.392596+00:00"
+  },
   "5a3e64b6d952e30362786c4d0ad9661a0409c4ed269882e11657f7a99fd419c5": {
     "url": "QudsNen/227887",
     "title": "Israeli Helicopter Fires on Lebanon Despite US-Iran Agreement",
@@ -138,6 +168,11 @@
     "url": "https://thecradle.co/articles-id/38303",
     "title": "US, EU authorize production of \u2018deep strike\u2019 missiles inside Ukraine",
     "published": "2026-06-17T14:18:06+00:00"
+  },
+  "cbbb4cc6bb5140faa5e6a1ea9b38b612e49f64922952a92d6523b73d2040c6b7": {
+    "url": "https://en.mehrnews.com/news/245407/Iran-Russia-FMs-discuss-ties-reg-issues-Islamabad-talks",
+    "title": "Iran, Russia FMs discuss ties, reg. issues, Islamabad talks",
+    "published": "2026-06-17T11:37:41+00:00"
   },
   "94053817ad6208cef58992ac8c55c5075447f60d06383f0d8a2b31b068474038": {
     "url": "DDGeopolitics/186851",
@@ -713,40 +748,5 @@
     "url": "https://en.irna.ir/news/86182715/Iran-s-Armed-Forces-have-finger-on-trigger-top-commander-says",
     "title": "Iran\u2019s Armed Forces have \u2018finger on trigger,\u2019 top commander says after Israeli attack on Beirut",
     "published": "2026-06-14T17:19:20+00:00"
-  },
-  "a46f39fa9688b0c86e94cbdfa3506a97d4041f67e48bae78c407cbec6290f79f": {
-    "url": "https://www.tehrantimes.com/news/527328/Israel-renews-strikes-on-Beirut-with-US-green-light",
-    "title": "Israel renews strikes on Beirut with US green light",
-    "published": "2026-06-14T17:16:34+00:00"
-  },
-  "241a0fa43da0da2cd1d4e4d4f5f7737d2830a9d83b2ddd4e8079b64c8644f21c": {
-    "url": "QudsNen/227410",
-    "title": "Israeli Forces Fire on Civilians in Gaza City",
-    "published": "2026-06-14T14:33:14.557454+00:00"
-  },
-  "9d4ef7d6a398c6c8b4f1cf5e6d5e9cee06b5ea5702ebabe79bce67b2c6835bb1": {
-    "url": "QudsNen/227414",
-    "title": "Israeli Strike on Warehouse in Jabalia Refugee Camp",
-    "published": "2026-06-14T14:31:28.307130+00:00"
-  },
-  "30b169ccd18f91f0cded51dd9fdaa96d4613228eb90d6d200cfa26e12cd2723d": {
-    "url": "thecradlemedia/61900",
-    "title": "Iran Slams US Involvement in Israeli Operation in Southern Suburbs",
-    "published": "2026-06-14T14:30:39.064771+00:00"
-  },
-  "d9eca24c9ea3d505b8e98ddbf7c5968c8d67e7b104d67962456e2a58e6b0e870": {
-    "url": "thecradlemedia/61902",
-    "title": "Israeli Drone Strikes Palestinian Man in Gaza",
-    "published": "2026-06-14T14:30:38.184295+00:00"
-  },
-  "5c4f51031af107acbacfcfe7579035b275669543ef7923573190ed015ac7af90": {
-    "url": "thecradlemedia/61904",
-    "title": "Israel's Military Chief Warns of Heightened Tensions Following Beirut Strike",
-    "published": "2026-06-14T14:29:27.761863+00:00"
-  },
-  "7386b0a7f3a88412cd5ad92b1a67aa8246bd0ec9dfe0ebe9c50cd229334e1bb6": {
-    "url": "thecradlemedia/61905",
-    "title": "Hezbollah Targets Israeli Logistics Position in Southern Lebanon with Drone Strike",
-    "published": "2026-06-14T14:29:26.426391+00:00"
   }
 }

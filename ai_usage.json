@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 3999,
+  "total_calls": 4003,
   "tiers": {
-    "groq": 3980,
+    "groq": 3984,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-13T21:22:53.149936+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-13T21:23:25.335520+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-13T21:23:41.359654+00:00",
-      "tier": "groq",
-      "article": "Company making Hornet drones for attacks on Russia owned by Google ex-head \u2014 envoy"
-    },
-    {
-      "timestamp": "2026-06-13T21:24:26.771906+00:00",
-      "tier": "groq",
-      "article": "Only 1 in 4 F-35s is fully mission capable, GAO finds "
-    },
     {
       "timestamp": "2026-06-13T23:10:08.598137+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-18T04:19:01.874133+00:00",
       "tier": "groq",
       "article": "Size matters: KNDS pitches long-barreled artillery for 60-kilometer base range"
+    },
+    {
+      "timestamp": "2026-06-18T10:54:49.503034+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-18T10:55:05.854854+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-18T10:55:28.780885+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-18T10:56:15.924381+00:00",
+      "tier": "groq",
+      "article": "Iran, Russia FMs discuss ties, reg. issues, Islamabad talks"
     }
   ]
 }
