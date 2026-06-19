@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4015,
+  "total_calls": 4019,
   "tiers": {
-    "groq": 3996,
+    "groq": 4000,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-14T12:03:18.406855+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-14T12:03:34.671204+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-14T12:03:50.675764+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-14T12:04:06.967349+00:00",
-      "tier": "groq",
-      "article": "EU Foreign Policy chief slams violence by Israel settlers"
-    },
     {
       "timestamp": "2026-06-14T14:26:09.661485+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-18T22:20:48.634212+00:00",
       "tier": "groq",
       "article": "Initial US-Iran agreement leaves many key issues to be negotiated"
+    },
+    {
+      "timestamp": "2026-06-19T04:45:45.998218+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-19T04:46:18.362068+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-19T04:46:34.296504+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-19T04:46:50.686492+00:00",
+      "tier": "groq",
+      "article": "Passage fees in Hormuz after 60-day included in MoU: Ghalibaf"
     }
   ]
 }
