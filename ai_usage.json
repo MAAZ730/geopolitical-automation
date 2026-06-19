@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4031,
+  "total_calls": 4035,
   "tiers": {
-    "groq": 4012,
+    "groq": 4016,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-14T21:19:43.922105+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-14T21:20:16.888878+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-14T21:21:03.399516+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-14T21:21:49.646452+00:00",
-      "tier": "groq",
-      "article": "51 drone control stations destroyed by Russian Battlegroup West"
-    },
     {
       "timestamp": "2026-06-14T23:14:40.182562+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-19T18:06:29.819786+00:00",
       "tier": "groq",
       "article": "Republicans blast Iran agreement as details emerge"
+    },
+    {
+      "timestamp": "2026-06-19T21:15:26.978065+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-19T21:15:59.182666+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-19T21:16:15.242626+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-19T21:16:31.508654+00:00",
+      "tier": "groq",
+      "article": "Belarusian tech firm demonstrates UAV acoustic locator system at Minsk security exhibition"
     }
   ]
 }
