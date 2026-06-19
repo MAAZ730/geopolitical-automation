@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4023,
+  "total_calls": 4027,
   "tiers": {
-    "groq": 4004,
+    "groq": 4008,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-14T17:26:04.078012+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-14T17:26:36.805056+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-14T17:27:23.157384+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-14T17:27:39.512132+00:00",
-      "tier": "groq",
-      "article": "Puffy Putin peril: The West\u2019s latest attempt to scare itself"
-    },
     {
       "timestamp": "2026-06-14T19:48:36.483347+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-19T10:45:58.932106+00:00",
       "tier": "groq",
       "article": "Germany moves two ships to Djibouti, eyeing multinational Hormuz mission this summer"
+    },
+    {
+      "timestamp": "2026-06-19T15:30:00.569078+00:00",
+      "tier": "groq",
+      "article": "Lebanese Health Ministry: Israeli strike on Baalbek killed 3 people, injured 6 others in preliminary toll - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-19T15:30:33.230132+00:00",
+      "tier": "groq",
+      "article": "Iran reacts to continued Israeli strikes on Lebanon"
+    },
+    {
+      "timestamp": "2026-06-19T15:31:19.111467+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-19T15:32:11.951297+00:00",
+      "tier": "groq",
+      "article": "Hakan Fidan\u2019s Moscow visit puts T\u00fcrkiye\u2019s pragmatic Russia policy on display"
     }
   ]
 }
