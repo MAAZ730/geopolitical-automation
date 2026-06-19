@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4027,
+  "total_calls": 4031,
   "tiers": {
-    "groq": 4008,
+    "groq": 4012,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-14T19:48:36.483347+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-14T19:49:11.878209+00:00",
-      "tier": "groq",
-      "article": "US-Israeli \u2018good cop, bad cop\u2019 tactics outdated \u2013 Iran\u2019s chief negotiator"
-    },
-    {
-      "timestamp": "2026-06-14T19:49:29.601366+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Armed Forces have \u2018finger on trigger,\u2019 top commander says after Israeli attack on Beirut"
-    },
-    {
-      "timestamp": "2026-06-14T19:50:06.335624+00:00",
-      "tier": "groq",
-      "article": "Representatives of United States and Iran may meet in Switzerland next week \u2014 TV"
-    },
     {
       "timestamp": "2026-06-14T21:19:43.922105+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-19T15:32:11.951297+00:00",
       "tier": "groq",
       "article": "Hakan Fidan\u2019s Moscow visit puts T\u00fcrkiye\u2019s pragmatic Russia policy on display"
+    },
+    {
+      "timestamp": "2026-06-19T18:04:18.048179+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-19T18:04:50.384134+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-19T18:05:36.462993+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-19T18:06:29.819786+00:00",
+      "tier": "groq",
+      "article": "Republicans blast Iran agreement as details emerge"
     }
   ]
 }
