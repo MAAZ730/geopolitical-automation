@@ -1,4 +1,34 @@
 {
+  "224d7056757ce554c403911e27561c229a7cccda419bb5c4dd2d4681be1d4343": {
+    "url": "BellumActaNews/174403",
+    "title": "Israeli Airstrike Hits Douris in Eastern Lebanon",
+    "published": "2026-06-19T23:08:52.365339+00:00"
+  },
+  "c447f85d07f73191aa3203e52fccbc897bc5e7c2de2011e3d41fdd5d42513662": {
+    "url": "BellumActaNews/174404",
+    "title": "Israeli Airstrike Targets Arabsalim in Nabatieh District",
+    "published": "2026-06-19T23:08:35.643751+00:00"
+  },
+  "be7aed9f9556083ad4e733d5e374e1d6d5953f10e97a945fbd6570d27bf53c97": {
+    "url": "BellumActaNews/174406",
+    "title": "Israeli Airstrike Targets Building in Ain Bourday, Lebanon",
+    "published": "2026-06-19T23:07:23.501444+00:00"
+  },
+  "823d34e89e81486bafc4f43df162491ca669ebe667004a98a914cf69461faa7d": {
+    "url": "Middle_East_Spectator/33769",
+    "title": "Hezbollah IED Attack on Israeli Forces in Southern Lebanon",
+    "published": "2026-06-19T23:07:06.104056+00:00"
+  },
+  "839c824e3fb2b8cf362f18735bfc79d6ef2259fc949473a093c9a63bfe111fc6": {
+    "url": "thecradlemedia/62334",
+    "title": "Israeli Airstrikes Hit Lebanese Towns of Zebdine and Nabatieh",
+    "published": "2026-06-19T23:05:53.049257+00:00"
+  },
+  "8ac18c9c3b5dfce3d70292af03ac89d8006d7e8fc2b27aeeae82ec4ebb3e7d92": {
+    "url": "thecradlemedia/62340",
+    "title": "Hormuz Shipping Activity Reaches Two-Month High",
+    "published": "2026-06-19T23:05:51.257063+00:00"
+  },
   "c79b937b54972fa7cbd5c111a11846dcc1ddd5ce0511fd6ce84c3ba9acc18738": {
     "url": "BellumActaNews/174412",
     "title": "Iran Reiterates Closure of Strait of Hormuz Amid Ongoing US-Iran Tensions",
@@ -133,6 +163,11 @@
     "url": "https://thecradle.co/articles-id/38336",
     "title": "Iran\u2013US talks in Geneva \u2018postponed\u2019 over brutal Israeli attacks on Lebanon",
     "published": "2026-06-19T09:55:02+00:00"
+  },
+  "05e192d2ba7384ad5d3d712da3359c81c89a743593980616da44e6e1a39b5912": {
+    "url": "https://tass.com/world/2148759",
+    "title": "EU summit blames Russia for drone incidents, no timetable for Ukraine accession talks",
+    "published": "2026-06-19T09:28:40+00:00"
   },
   "c3b97c8dad5e4529bebbfe71ffd3a7573a521888f02824c7f88cdd9dbe16715c": {
     "url": "https://tass.com/defense/2148739",
@@ -713,40 +748,5 @@
     "url": "https://www.defensenews.com/global/europe/2026/06/16/ukraines-demand-for-tiny-drone-laser-targeting-systems-spurs-new-product-launches/",
     "title": "Ukraine\u2019s demand for tiny drone laser-targeting systems spurs new product launches",
     "published": "2026-06-16T06:36:16+00:00"
-  },
-  "be269573d7b3a9027b2acb6e00bdfc35caa0af2850a68f12bd45a69920cc1371": {
-    "url": "intelslava/89022",
-    "title": "Russian Tu-22M3 Crashes in Irkutsk Region",
-    "published": "2026-06-16T04:55:28.404623+00:00"
-  },
-  "90505b577bdc53e22dd33022128cbdb11a9b20a5b36dc40f76c19121f6807439": {
-    "url": "intelslava/89027",
-    "title": "US B-52 Stratofortress Crashes in California",
-    "published": "2026-06-16T04:53:19.712751+00:00"
-  },
-  "b6a88e532aacbfa82f6f6d3861ca90ec24c904d88441736e34b29ba7d93676c9": {
-    "url": "DDGeopolitics/186772",
-    "title": "USAF B-52H Stratofortress Crashes at Edwards Air Force Base",
-    "published": "2026-06-16T04:51:18.305570+00:00"
-  },
-  "cdd4566e404a748c83f80b0ead672303f75d924535cc6648e6fba68b60d19bca": {
-    "url": "DDGeopolitics/186774",
-    "title": "Israeli Drone Strikes Press TV Journalist in Southern Lebanon",
-    "published": "2026-06-16T04:50:30.806526+00:00"
-  },
-  "6cc9d66bfd4744295d61a18d3ed29acfdf20de46b162d29f331bfc858fbe0fe2": {
-    "url": "Middle_East_Spectator/33629",
-    "title": "B-52 Bomber Crashes at Edwards Air Force Base, Eight Crew Members Feared Dead",
-    "published": "2026-06-16T04:49:11.556066+00:00"
-  },
-  "476e3649a070632a5ea8a05f916d6566d023966f3ef36447acf527233e6e4eaf": {
-    "url": "thecradlemedia/62002",
-    "title": "Israel's El Al Airlines to Offer High-Speed Internet on Flights via Starlink Partnership",
-    "published": "2026-06-16T04:49:09.984968+00:00"
-  },
-  "bd915d3e296aa6f4da9061f769c43f939c0ebc373133d681257083122ebae4aa": {
-    "url": "https://www.rt.com/news/641654-uk-kiev-enriched-uranium/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "UK to supply enriched uranium to Kiev",
-    "published": "2026-06-16T01:46:02+00:00"
   }
 }
