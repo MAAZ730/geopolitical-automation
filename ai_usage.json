@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4019,
+  "total_calls": 4023,
   "tiers": {
-    "groq": 4000,
+    "groq": 4004,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-14T14:26:09.661485+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-14T14:26:41.895021+00:00",
-      "tier": "groq",
-      "article": "Hezbollah commander killed in Israeli strike against Beirut \u2014 TV"
-    },
-    {
-      "timestamp": "2026-06-14T14:27:28.305022+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-14T14:27:44.528094+00:00",
-      "tier": "groq",
-      "article": "Iran is stronger than ever in the face of threats: Momeni"
-    },
     {
       "timestamp": "2026-06-14T17:26:04.078012+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-19T04:46:50.686492+00:00",
       "tier": "groq",
       "article": "Passage fees in Hormuz after 60-day included in MoU: Ghalibaf"
+    },
+    {
+      "timestamp": "2026-06-19T10:44:54.483048+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-19T10:45:25.822610+00:00",
+      "tier": "groq",
+      "article": "Iran\u2013US talks in Geneva \u2018postponed\u2019 over brutal Israeli attacks on Lebanon"
+    },
+    {
+      "timestamp": "2026-06-19T10:45:43.067814+00:00",
+      "tier": "groq",
+      "article": "Lebanese Health Ministry says 18 people martyred, 33 others injured in preliminary toll of Israeli strikes on Nabatieh region in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-19T10:45:58.932106+00:00",
+      "tier": "groq",
+      "article": "Germany moves two ships to Djibouti, eyeing multinational Hormuz mission this summer"
     }
   ]
 }
