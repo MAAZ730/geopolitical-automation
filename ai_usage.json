@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4043,
+  "total_calls": 4047,
   "tiers": {
-    "groq": 4024,
+    "groq": 4028,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-15T12:25:09.635385+00:00",
-      "tier": "groq",
-      "article": "Israel renews strikes on Beirut with US green light"
-    },
-    {
-      "timestamp": "2026-06-15T12:25:48.787497+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-15T12:26:04.984715+00:00",
-      "tier": "groq",
-      "article": "Russian attacks in Ukraine kill 11, damage historic Kyiv cathedral"
-    },
-    {
-      "timestamp": "2026-06-15T12:26:21.206354+00:00",
-      "tier": "groq",
-      "article": "Trump leaves Zelensky off G7 meeting list in France, Bloomberg reports"
-    },
     {
       "timestamp": "2026-06-15T18:42:10.356389+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-20T04:02:52.206958+00:00",
       "tier": "groq",
       "article": "Japan joins the global craze to field interceptor drones"
+    },
+    {
+      "timestamp": "2026-06-20T07:58:31.545440+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-20T07:59:04.147763+00:00",
+      "tier": "groq",
+      "article": "At least of four members of the same family were martyred early this morning in a deadly Israeli airstrike on a residential building in the town of Barish in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-20T07:59:50.643685+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-20T08:00:38.654211+00:00",
+      "tier": "groq",
+      "article": "Philippines eyeing cooperation in nuclear sphere with Russia, undersecretary says"
     }
   ]
 }
