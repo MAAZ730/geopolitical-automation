@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4063,
+  "total_calls": 4067,
   "tiers": {
-    "groq": 4044,
+    "groq": 4048,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-16T17:03:11.620179+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-16T17:03:28.074594+00:00",
-      "tier": "groq",
-      "article": "MBDA advances land version of its naval missile as European strike weapon"
-    },
-    {
-      "timestamp": "2026-06-16T17:03:57.339994+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-16T17:04:13.400791+00:00",
-      "tier": "groq",
-      "article": "FM Araghchi intensifies diplomatic outreach as int'l support grows for Iran-US MoU"
-    },
     {
       "timestamp": "2026-06-16T20:56:38.752693+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-20T19:46:02.217516+00:00",
       "tier": "groq",
       "article": "Highway patrol: US Marine F-35s conduct flight operations on Finnish roads"
+    },
+    {
+      "timestamp": "2026-06-20T21:22:10.640158+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-20T21:22:43.522941+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-20T21:23:30.027140+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-20T21:23:46.837048+00:00",
+      "tier": "groq",
+      "article": "EU summit outlines no timeframes regarding Moldova accession talks"
     }
   ]
 }

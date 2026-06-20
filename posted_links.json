@@ -1,4 +1,34 @@
 {
+  "7b5918668776735e78243e92850c4af2459b5db624dd77c712dc99bcb6a4d16a": {
+    "url": "Slavyangrad/167126",
+    "title": "Kiev Oblast Under Drone Attack",
+    "published": "2026-06-20T21:30:47.193888+00:00"
+  },
+  "af70be3c39f74536f72e25267455d75a493a2fe86455cea638f1e825f18cdf9c": {
+    "url": "Slavyangrad/167140",
+    "title": "Russian Airstrikes Hit Vasilkovka in Dnepropetrovsk Oblast",
+    "published": "2026-06-20T21:30:02.206353+00:00"
+  },
+  "fc0d54a438dfd7959a3001a3256e731c0f3128903c028e778df88e4805b4b65c": {
+    "url": "Slavyangrad/167142",
+    "title": "Russia Deploys Interceptor Drones to Protect Highway Logistics",
+    "published": "2026-06-20T21:27:48.263373+00:00"
+  },
+  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
+    "url": "CensoredMen/203",
+    "title": "Israel Intensifies Strikes on Lebanon Amid Ceasefire Dispute",
+    "published": "2026-06-20T21:26:56.161027+00:00"
+  },
+  "576c70f63fd84e61857ece59f4d780bf525f13bfa039e30842a223e4fb892d85": {
+    "url": "Middle_East_Spectator/33783",
+    "title": "Iran Closes Strait of Hormuz Amid Ongoing Mideast Tensions",
+    "published": "2026-06-20T21:24:01.372214+00:00"
+  },
+  "e427f9d2c2c42bdb2ec9c1f1fa5f2b1eaa578b8c57fd703d126c8061ff9096cb": {
+    "url": "Middle_East_Spectator/33796",
+    "title": "IDF Soldiers Killed in Hezbollah Ambush in Southern Lebanon",
+    "published": "2026-06-20T21:23:53.132324+00:00"
+  },
   "62ea7039a1260bdd32808b7946693058d1c2794d159e832a905c71e8fbb62b40": {
     "url": "presstv/194900",
     "title": "Iran IRGC Navy Closes Strait of Hormuz to Maritime Traffic",
@@ -213,6 +243,11 @@
     "url": "Middle_East_Spectator/33775",
     "title": "Hezbollah Destroys Israeli Tank Near Ali Taher Hill",
     "published": "2026-06-20T04:02:55.613654+00:00"
+  },
+  "ba53418706e2121f217243e02ed0ca98e31dc5649284d8fb891748ffcdd186d0": {
+    "url": "https://tass.com/world/2149213",
+    "title": "EU summit outlines no timeframes regarding Moldova accession talks",
+    "published": "2026-06-19T23:51:57+00:00"
   },
   "224d7056757ce554c403911e27561c229a7cccda419bb5c4dd2d4681be1d4343": {
     "url": "BellumActaNews/174403",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/62192",
     "title": "US Exerts Pressure on Palestinian Authority Over War Crimes Cases",
     "published": "2026-06-17T18:58:55.167624+00:00"
-  },
-  "db7f59c6c32e3a71b7fb1f03dd64cf1cf8ed4a0c0aa6b7194ba530d0554f84aa": {
-    "url": "https://tass.com/world/2147971",
-    "title": "Trump says US still investigating Iran school strike",
-    "published": "2026-06-17T18:08:17+00:00"
-  },
-  "d600cc6ab6a73fc0bfbaf672e22916b371c569f3c92928d227ecb78c9712cfe1": {
-    "url": "https://en.mehrnews.com/news/245418/5-Israeli-soldiers-injured-in-retaliatory-drone-strikes",
-    "title": "5 Israeli soldiers injured in retaliatory drone strikes",
-    "published": "2026-06-17T17:45:07+00:00"
-  },
-  "ba7d9ba18d7c013fda00a6aa8bec5aafaa27987070b0f72fc5bc3ed85e9d4de3": {
-    "url": "https://en.mehrnews.com/news/245417/Hezbollah-resistance-carried-out-3-185-ops-Qassem",
-    "title": "Hezbollah resistance carried out 3,185 ops: Qassem",
-    "published": "2026-06-17T16:33:01+00:00"
-  },
-  "f95a229692368c0743d71a42e2aa00e67e05eb4367c094f29ed323be69cbf15e": {
-    "url": "QudsNen/227841",
-    "title": "Gaza Strip Airstrike Leaves Multiple Fatalities",
-    "published": "2026-06-17T15:49:24.474888+00:00"
-  },
-  "cf4ad0ce78214a77c7bc4ec5b3a3271228e8c30d99d21c06a6e819be0df70150": {
-    "url": "QudsNen/227847",
-    "title": "Israeli Drone Strike Kills at Least Four in Al-Mawasi, Gaza Strip",
-    "published": "2026-06-17T15:48:45.008589+00:00"
-  },
-  "7734693967c1e1662353a036138ef9b115642e436a9d7461657826e0edf24577": {
-    "url": "Middle_East_Spectator/33657",
-    "title": "Trump Warns Iran Over Unfinalised Agreement",
-    "published": "2026-06-17T15:47:44.151787+00:00"
-  },
-  "62ebe4e0cf1d8d37bef3b815174aab228c68dde48613ce32686eb1008037dcad": {
-    "url": "thecradlemedia/62176",
-    "title": "Israeli Warplanes Conduct Aerial Surveillance over Southern Lebanon",
-    "published": "2026-06-17T15:45:25.501634+00:00"
   }
 }
