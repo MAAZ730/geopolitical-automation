@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4059,
+  "total_calls": 4063,
   "tiers": {
-    "groq": 4040,
+    "groq": 4044,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-16T11:20:37.770315+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-16T11:20:54.060100+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-16T11:21:10.382935+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-16T11:21:30.692426+00:00",
-      "tier": "groq",
-      "article": "FAO, Agriculture Ministry partner to empower locals, conserve indigenous livestock breeds"
-    },
     {
       "timestamp": "2026-06-16T17:03:11.620179+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-20T17:43:07.683736+00:00",
       "tier": "groq",
       "article": "A power lever is not negotiable"
+    },
+    {
+      "timestamp": "2026-06-20T19:44:54.241145+00:00",
+      "tier": "groq",
+      "article": "10 sobering lessons the war on Iran forced into the open"
+    },
+    {
+      "timestamp": "2026-06-20T19:45:12.782253+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-20T19:45:46.132979+00:00",
+      "tier": "groq",
+      "article": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike"
+    },
+    {
+      "timestamp": "2026-06-20T19:46:02.217516+00:00",
+      "tier": "groq",
+      "article": "Highway patrol: US Marine F-35s conduct flight operations on Finnish roads"
     }
   ]
 }
