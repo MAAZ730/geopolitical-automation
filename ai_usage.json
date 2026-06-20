@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4047,
+  "total_calls": 4051,
   "tiers": {
-    "groq": 4028,
+    "groq": 4032,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-15T18:42:10.356389+00:00",
-      "tier": "groq",
-      "article": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike"
-    },
-    {
-      "timestamp": "2026-06-15T18:42:43.282428+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Fighters Strike with Missiles and Drones Israeli Vehicles Advancing into Kfar Tebnit after Ceasefire, Forcing Them to Back Off - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-15T18:43:33.271986+00:00",
-      "tier": "groq",
-      "article": "Drone warfare kills over 1,000 in Sudan in 2026 as strikes multiply: UN"
-    },
-    {
-      "timestamp": "2026-06-15T18:44:23.789532+00:00",
-      "tier": "groq",
-      "article": "Unclear if US-Iran agreement will provide respite to Lebanon"
-    },
     {
       "timestamp": "2026-06-15T22:24:33.573662+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-20T08:00:38.654211+00:00",
       "tier": "groq",
       "article": "Philippines eyeing cooperation in nuclear sphere with Russia, undersecretary says"
+    },
+    {
+      "timestamp": "2026-06-20T10:38:40.380860+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-20T10:38:56.785241+00:00",
+      "tier": "groq",
+      "article": "Family, including two daughters, killed in Israeli strikes on Gaza"
+    },
+    {
+      "timestamp": "2026-06-20T10:39:21.791667+00:00",
+      "tier": "groq",
+      "article": "Israeli media: 3 or 4 helicopters landed at Rambam Hospital overnight, and the event was classified as a mass casualty incident. At least 7 injured, one in very critical condition, from the commando unit - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-20T10:39:38.750976+00:00",
+      "tier": "groq",
+      "article": "Tehran, Moscow move to deepen financial cooperation"
     }
   ]
 }
