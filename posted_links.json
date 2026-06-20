@@ -1,4 +1,34 @@
 {
+  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
+    "url": "CensoredMen/205",
+    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
+    "published": "2026-06-20T04:06:29.503799+00:00"
+  },
+  "a4b62595bf6a4574c57e0093d8f61259795d80f3381b7719dce8ed6a35f4aabe": {
+    "url": "presstv/194821",
+    "title": "Israel Continues Airstrikes in Lebanon Despite Ceasefire Agreement",
+    "published": "2026-06-20T04:06:09.199707+00:00"
+  },
+  "9a2c197d96e51f407a8725a8e51525c9bb18c07c63e196206d6fce294ff89410": {
+    "url": "BellumActaNews/174391",
+    "title": "Clashes Erupt in Southern Lebanon as Israel Targets Hezbollah Positions",
+    "published": "2026-06-20T04:04:50.836393+00:00"
+  },
+  "80a7fd6cd994ee3d87d415b9510e72f8ceff69e98a38e815d8c2b0acc60d63ca": {
+    "url": "QudsNen/228185",
+    "title": "Israeli Airstrike Hits Residential Apartment in Gaza City",
+    "published": "2026-06-20T04:04:35.232366+00:00"
+  },
+  "f1e62af6188917943dc47214ede9ce2af8637075d8ee9cd66b07e550ab931f8b": {
+    "url": "Middle_East_Spectator/33772",
+    "title": "Hezbollah Deploys HEAT Warheads on FPV Drones",
+    "published": "2026-06-20T04:02:56.983795+00:00"
+  },
+  "b83c5e61ffbb8cd8ef761aca437b90728cdc33eaf5eb14f159c859467e02e644": {
+    "url": "Middle_East_Spectator/33775",
+    "title": "Hezbollah Destroys Israeli Tank Near Ali Taher Hill",
+    "published": "2026-06-20T04:02:55.613654+00:00"
+  },
   "224d7056757ce554c403911e27561c229a7cccda419bb5c4dd2d4681be1d4343": {
     "url": "BellumActaNews/174403",
     "title": "Israeli Airstrike Hits Douris in Eastern Lebanon",
@@ -123,6 +153,11 @@
     "url": "https://en.mehrnews.com/news/245447/Iran-reacts-to-continued-Israeli-strikes-on-Lebanon",
     "title": "Iran reacts to continued Israeli strikes on Lebanon",
     "published": "2026-06-19T13:43:47+00:00"
+  },
+  "2e2841fb266e4c15cbb37d2be95d1104c8cdba84306b07d22618eabd9a3e83f1": {
+    "url": "https://www.defensenews.com/global/asia-pacific/2026/06/19/japan-joins-the-global-craze-to-field-interceptor-drones/",
+    "title": "Japan joins the global craze to field interceptor drones",
+    "published": "2026-06-19T11:27:50+00:00"
   },
   "5dcfa79c06364e74e314f31596d04902ef37aaff16e3987c91d227273ca6e861": {
     "url": "https://english.almanar.com.lb/article/94052/",
@@ -713,40 +748,5 @@
     "url": "https://en.mehrnews.com/news/245382/Iran-now-a-regional-superpower-Lebanese-MP-says",
     "title": "Iran now a 'regional superpower': Lebanese MP says",
     "published": "2026-06-16T12:14:25+00:00"
-  },
-  "b4cbb1646cbd80693bdedd035d399add768d7a746fed64ea14faa1a39921f1d6": {
-    "url": "intelslava/89044",
-    "title": "Moscow Suburbs Hit by Ukrainian Kamikaze Drones",
-    "published": "2026-06-16T11:45:34.822416+00:00"
-  },
-  "98b93347071bae494adfcc2826d8cfb72ab93dc35f1abfd04f3afb605684f084": {
-    "url": "BellumActaNews/174276",
-    "title": "Trump Suggests Syria Invade Lebanon's Shia Regions",
-    "published": "2026-06-16T11:29:38.634959+00:00"
-  },
-  "cf23c05aee6c5900483c2f5ca7c364421505adb909c3a0e3bd633b1a7013db6c": {
-    "url": "BellumActaNews/174277",
-    "title": "Trump Clarifies US-Israeli Coalition's Objectives in Region",
-    "published": "2026-06-16T11:28:56.597871+00:00"
-  },
-  "029dbc6f08b3e7fbb9c8ed436428a8bd56107366e8012e9829817de1b0f67a10": {
-    "url": "DDGeopolitics/186790",
-    "title": "Trump Suggests Syria Handle Hezbollah, Citing Better Capabilities",
-    "published": "2026-06-16T11:26:03.993565+00:00"
-  },
-  "3279067175e742fead0fc298b5c5a997ac92d56b827a887889aa05786e476e3d": {
-    "url": "thecradlemedia/62050",
-    "title": "Israeli Supreme Court Rejects Gaza Doctor's Appeal for Release",
-    "published": "2026-06-16T11:21:49.410709+00:00"
-  },
-  "7befda67143db59109646bd0f3e00963043b660cf793a1d21d7c9c7b41e0d595": {
-    "url": "thecradlemedia/62051",
-    "title": "Turkey Rejects Iraq's Request to Extend Kirkuk-Ceyhan Oil Pipeline Deal",
-    "published": "2026-06-16T11:21:42.345454+00:00"
-  },
-  "1d62cfc4b6caab78285cb8b4f2907d56d9b5b6ec731b7e5533b030c79893473d": {
-    "url": "https://www.defensenews.com/global/europe/2026/06/16/ukraines-demand-for-tiny-drone-laser-targeting-systems-spurs-new-product-launches/",
-    "title": "Ukraine\u2019s demand for tiny drone laser-targeting systems spurs new product launches",
-    "published": "2026-06-16T06:36:16+00:00"
   }
 }
