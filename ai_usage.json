@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4055,
+  "total_calls": 4059,
   "tiers": {
-    "groq": 4036,
+    "groq": 4040,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-16T04:47:52.595472+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-16T04:48:25.099326+00:00",
-      "tier": "groq",
-      "article": "Israeli attacks kill 3,798 Lebanese since escalation of tensions \u2014 Health Ministry"
-    },
-    {
-      "timestamp": "2026-06-16T04:48:43.108708+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-16T04:48:59.264803+00:00",
-      "tier": "groq",
-      "article": "China's rocket launches 8 satellites into orbit: report"
-    },
     {
       "timestamp": "2026-06-16T11:20:37.770315+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-20T14:12:51.259790+00:00",
       "tier": "groq",
       "article": "Swiss expert says US-Iran agreement is win for Tehran"
+    },
+    {
+      "timestamp": "2026-06-20T17:40:47.799995+00:00",
+      "tier": "groq",
+      "article": "Israel kills more than 16 people in Lebanon\u2019s Nabatieh"
+    },
+    {
+      "timestamp": "2026-06-20T17:41:22.204925+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-20T17:42:14.672120+00:00",
+      "tier": "groq",
+      "article": "\u2018Israel targets civilians, as usual, to cover up military failures\u2019"
+    },
+    {
+      "timestamp": "2026-06-20T17:43:07.683736+00:00",
+      "tier": "groq",
+      "article": "A power lever is not negotiable"
     }
   ]
 }

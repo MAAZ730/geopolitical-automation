@@ -1,4 +1,39 @@
 {
+  "5d4d61995ddcd95e691e1fdd786c2255fecf6a39f84459a50a60f2f5eefda6c7": {
+    "url": "warmonitors/44593",
+    "title": "Israeli Airstrike Hits Building Complex in Southern Lebanon",
+    "published": "2026-06-20T17:51:12.702608+00:00"
+  },
+  "81a443a913c852bbbc9a8bfa591c4276ab16d2914445e578a9fbec534a93ee5e": {
+    "url": "DDGeopolitics/187141",
+    "title": "Ukraine Air Raid Alert: Kiev Under Threat",
+    "published": "2026-06-20T17:50:29.806584+00:00"
+  },
+  "c5661988ca06583b2f101394580cbd9988ce7f85869db61620ce863ec61eed74": {
+    "url": "QudsNen/228274",
+    "title": "Israeli Forces Clash with Palestinians in Hebron's Jaber Neighbourhood",
+    "published": "2026-06-20T17:50:03.075814+00:00"
+  },
+  "8442b640c7ffcba01ef64aba29b48fcafad6cf0088a1edbb0c81d2959ba7cf6a": {
+    "url": "QudsNen/228284",
+    "title": "Gaza Strip: Israeli Drone Strike on Residential Building in Al-Bureij Refugee Camp",
+    "published": "2026-06-20T17:47:31.919733+00:00"
+  },
+  "74e1adf6da73beef534a949ab437b544d75bd39ebcbaf5e6b44bbd8ada5dbbda": {
+    "url": "thecradlemedia/62416",
+    "title": "Iran Closes Strait of Hormuz Amid Escalating Lebanon Conflict",
+    "published": "2026-06-20T17:44:31.566233+00:00"
+  },
+  "b90919a39bac05b08c272d1978b3128084cff90b6b52c9b412512ea47a7373ee": {
+    "url": "thecradlemedia/62422",
+    "title": "Israeli Drone Strike Kills Palestinian Cameraman in Gaza",
+    "published": "2026-06-20T17:44:30.310171+00:00"
+  },
+  "392314991b82460a2993fde17402c3ae69718fb58af4eb2461037e46fa3814ba": {
+    "url": "https://www.tehrantimes.com/news/527521/Israel-targets-civilians-as-usual-to-cover-up-military-failures",
+    "title": "\u2018Israel targets civilians, as usual, to cover up military failures\u2019",
+    "published": "2026-06-20T17:14:34+00:00"
+  },
   "7c0a443703c0f1eb7b7cde0a95fffd679303f1ef843d0c3d4826dae30f0e3d1a": {
     "url": "warmonitors/44596",
     "title": "Ukrainian Drones Strike Russian Oil Refinery in Western Siberia",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/62409",
     "title": "Israeli Airstrike Kills Lebanese Student in Southern Lebanon",
     "published": "2026-06-20T14:12:58.061007+00:00"
+  },
+  "a53c461e1f6aa68f00e2fe1eaddae1c06751b9c4150bc7e466fcc7001f9819ce": {
+    "url": "https://en.mehrnews.com/news/245471/Israel-kills-more-than-16-people-in-Lebanon-s-Nabatieh",
+    "title": "Israel kills more than 16 people in Lebanon\u2019s Nabatieh",
+    "published": "2026-06-20T12:42:36+00:00"
   },
   "f5add674176979b692dbe90649a4214f7bce50be2e8704f7e25e6698c5f45b73": {
     "url": "QudsNen/228233",
@@ -223,6 +263,11 @@
     "url": "thecradlemedia/62353",
     "title": "Israeli Airstrikes on Lebanon Escalate After Ceasefire Announcement",
     "published": "2026-06-19T18:06:32.071169+00:00"
+  },
+  "11ea4d2823b496aecef6ce5d73bd3c0cca05810f24205f0675cc91b2f46df12e": {
+    "url": "https://www.tehrantimes.com/news/527482/A-power-lever-is-not-negotiable",
+    "title": "A power lever is not negotiable",
+    "published": "2026-06-19T17:41:39+00:00"
   },
   "c3822521d59496758f7528f4906e917cadaa1f46a3a07526101b539873f4a120": {
     "url": "QudsNen/228126",
@@ -703,50 +748,5 @@
     "url": "thecradlemedia/62140",
     "title": "NATO Chief Hails US-Iran Agreement on Strait of Hormuz Reopening",
     "published": "2026-06-17T11:04:30.843491+00:00"
-  },
-  "d99e85bc5ee7f99477749d65f3dc261b0181679a6de6ebf3f0b985a05ee8ba6a": {
-    "url": "thecradlemedia/62142",
-    "title": "Israeli Artillery Strikes South Lebanon",
-    "published": "2026-06-17T11:04:29.770131+00:00"
-  },
-  "50f213372d51eaeb38fb033c38a59d7207b67b8a9d00160f46d08ad1643554cc": {
-    "url": "https://tass.com/politics/2147591",
-    "title": "Ukrainian brigade command begs to be allowed to step down due to casualties in Zaporozhye",
-    "published": "2026-06-17T09:06:52+00:00"
-  },
-  "c754177417918dee93ffd1ee3ed4f2ca188c5348efdf6dc6d7b003a6eec010d8": {
-    "url": "https://www.defensenews.com/global/europe/2026/06/17/size-matters-knds-pitches-long-barreled-artillery-for-60-kilometer-base-range/",
-    "title": "Size matters: KNDS pitches long-barreled artillery for 60-kilometer base range",
-    "published": "2026-06-17T06:59:38+00:00"
-  },
-  "1cabe20d7871cd55e44ee69c14d94da29247778ef558eca07a168e5d2d28dd8b": {
-    "url": "Slavyangrad/166787",
-    "title": "Ukraine Allows Shoot-Down of Russian Drones Over Residential Buildings",
-    "published": "2026-06-17T04:40:21.341479+00:00"
-  },
-  "f37d486c577b93cb54ad373ed927fa5fcb7d0906bd5a1b7b7a3b05e625712439": {
-    "url": "Slavyangrad/166796",
-    "title": "Russia Insulates Economy from Western Sanctions, Says Former G20 Rep",
-    "published": "2026-06-17T04:34:34.978559+00:00"
-  },
-  "3b4d17834f17e9d918365d60343f5c2549373ff4677381e22830e528d51bbe4b": {
-    "url": "intelslava/89068",
-    "title": "Israeli Drone Strike Targets Lebanese Town of Mayfadoun",
-    "published": "2026-06-17T04:32:21.622367+00:00"
-  },
-  "64efa787c4393c1a1d0d53deee1a2f06dc78c4e2df03c877002bc58db581fb02": {
-    "url": "BellumActaNews/174326",
-    "title": "US-Brazil Tensions Escalate at G7 Summit in France",
-    "published": "2026-06-17T04:32:00.485107+00:00"
-  },
-  "92c4ec1ad6ed9f240d97c242e058b085629e6c779e2d04c628353ff07f735723": {
-    "url": "DDGeopolitics/186847",
-    "title": "Israeli Supporters Express Frustration Amid Ongoing Developments",
-    "published": "2026-06-17T04:30:57.528953+00:00"
-  },
-  "95783f6f4a88c800b90cc3749dbcfdb0a01abb5dbbfaa0f1b86b3daabea514c8": {
-    "url": "QudsNen/227747",
-    "title": "Australia Probes Alleged Abuse of Citizens in Gaza Flotilla",
-    "published": "2026-06-17T04:30:55.860462+00:00"
   }
 }
