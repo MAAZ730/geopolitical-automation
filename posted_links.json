@@ -1,4 +1,34 @@
 {
+  "7c0a443703c0f1eb7b7cde0a95fffd679303f1ef843d0c3d4826dae30f0e3d1a": {
+    "url": "warmonitors/44596",
+    "title": "Ukrainian Drones Strike Russian Oil Refinery in Western Siberia",
+    "published": "2026-06-20T14:21:16.527084+00:00"
+  },
+  "6579d484f6e8f28aad0f119602842f88e048c3b482d8b1b87a0118df7bd50b35": {
+    "url": "DDGeopolitics/187105",
+    "title": "Russia Strikes Drone Storage Facility in Kharkov",
+    "published": "2026-06-20T14:20:35.902562+00:00"
+  },
+  "f39e4ac8f4304d52f5d17fbdbe40469c1f1412450442a6e5bd0c6a9bca85838a": {
+    "url": "DDGeopolitics/187117",
+    "title": "Israel Conducts Airstrikes in Lebanon",
+    "published": "2026-06-20T14:19:26.517244+00:00"
+  },
+  "6e526f79acb20bef73c31bc4e860d1098f94faf3cbbf818b2e11a3476c230b2b": {
+    "url": "QudsNen/228257",
+    "title": "Israel Forcibly Displaces Palestinians in Jordan Valley",
+    "published": "2026-06-20T14:14:01.657853+00:00"
+  },
+  "71b05cba6bec59d082eaec78c0b42d687c2bf3915015cdc3cce1f99d0b75ade9": {
+    "url": "thecradlemedia/62408",
+    "title": "Iran-US MoU in Crisis Over Lebanon Ceasefire Violations",
+    "published": "2026-06-20T14:13:06.249013+00:00"
+  },
+  "d9a33506b88f8b09d4132ad0c4cf0a269b5919a9056b26f8991464b0e1aba50a": {
+    "url": "thecradlemedia/62409",
+    "title": "Israeli Airstrike Kills Lebanese Student in Southern Lebanon",
+    "published": "2026-06-20T14:12:58.061007+00:00"
+  },
   "f5add674176979b692dbe90649a4214f7bce50be2e8704f7e25e6698c5f45b73": {
     "url": "QudsNen/228233",
     "title": "Israeli Knesset Member Discards Trump Slogan Hat, Replaces with 'Absolute Victory' Cap",
@@ -223,6 +253,11 @@
     "url": "thecradlemedia/62343",
     "title": "Iran Denies IAEA Inspection Plans Amid Ongoing Nuclear Talks",
     "published": "2026-06-19T15:32:19.878401+00:00"
+  },
+  "3d5f5e4b2ddbfdd5ca0676e82edb490fd6de993c71f300cc6b5807509d21284e": {
+    "url": "https://tass.com/world/2149063",
+    "title": "Swiss expert says US-Iran agreement is win for Tehran",
+    "published": "2026-06-19T14:21:34+00:00"
   },
   "5a37bd9c9a5e3847ed1892854158b73298814e4b1b13b9a1fd5d4307674cab05": {
     "url": "https://en.mehrnews.com/news/245447/Iran-reacts-to-continued-Israeli-strikes-on-Lebanon",
@@ -713,40 +748,5 @@
     "url": "QudsNen/227747",
     "title": "Australia Probes Alleged Abuse of Citizens in Gaza Flotilla",
     "published": "2026-06-17T04:30:55.860462+00:00"
-  },
-  "2fb1bdc925ea8bc3ddd815c6c397ad3636e7c6fdabb01c03988170b7cd64bbd9": {
-    "url": "intelslava/89079",
-    "title": "IRGC Drone Strike Targets Kurdish Opposition HQ in Northern Iraq",
-    "published": "2026-06-16T23:41:38.580810+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel-Iran Ceasefire Agreement Falters Amid Ongoing Strikes in Lebanon",
-    "published": "2026-06-16T23:40:18.677684+00:00"
-  },
-  "71640328a7e9456b0669efbed2faecc19c22225e7ed200cf987119ab696f27da": {
-    "url": "BellumActaNews/174310",
-    "title": "Iranian Drones Strike Kurdish Opposition Party HQ in Iraq",
-    "published": "2026-06-16T23:34:38.984885+00:00"
-  },
-  "b80e80d2b6f368405e9b1bb873beb6f27a245c4bca1e34edf927f2e364437de1": {
-    "url": "QudsNen/227743",
-    "title": "Israeli Forces Storm Al-Fawwar Refugee Camp in Occupied West Bank",
-    "published": "2026-06-16T23:33:56.700374+00:00"
-  },
-  "8da6e0c4b3d746bd0c0bd125d9c2d20f3dd3f7ae065f9f7192c88201d86cc1e8": {
-    "url": "QudsNen/227745",
-    "title": "US, Iran Agree to Ceasefire and De-escalation Framework",
-    "published": "2026-06-16T23:33:39.243732+00:00"
-  },
-  "70e1df4c525bb99766ee7f1d233f089b8ad772b55c71fead8153c9806d72181e": {
-    "url": "Middle_East_Spectator/33654",
-    "title": "Iran Continues Drone Strikes on Vessels in Strait of Hormuz",
-    "published": "2026-06-16T23:33:35.302552+00:00"
-  },
-  "998f63e902bc33f0d105a8c5d34c8cf284082f0aa01b8f4fab596bdcfda51f97": {
-    "url": "https://www.rt.com/news/641683-trumps-iran-truce-marks-defeat/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US-Israel war on Iran ends with Tehran stronger than ever before",
-    "published": "2026-06-16T23:19:38+00:00"
   }
 }

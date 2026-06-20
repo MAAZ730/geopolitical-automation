@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4051,
+  "total_calls": 4055,
   "tiers": {
-    "groq": 4032,
+    "groq": 4036,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-15T22:24:33.573662+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-15T22:25:10.256573+00:00",
-      "tier": "groq",
-      "article": "West paints Russia as villain amid Patriot strike: situation around Kiev-Pechersk Lavra"
-    },
-    {
-      "timestamp": "2026-06-15T22:25:28.128842+00:00",
-      "tier": "groq",
-      "article": "Kiev attacked Russian civilian objects more than 17,000 times in May \u2014 envoy"
-    },
-    {
-      "timestamp": "2026-06-15T22:25:46.941951+00:00",
-      "tier": "groq",
-      "article": "French army shows Leclerc tank with once-mocked anti-drone cage"
-    },
     {
       "timestamp": "2026-06-16T04:47:52.595472+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-20T10:39:38.750976+00:00",
       "tier": "groq",
       "article": "Tehran, Moscow move to deepen financial cooperation"
+    },
+    {
+      "timestamp": "2026-06-20T14:11:16.450499+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-20T14:11:48.963692+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-20T14:12:35.170591+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-20T14:12:51.259790+00:00",
+      "tier": "groq",
+      "article": "Swiss expert says US-Iran agreement is win for Tehran"
     }
   ]
 }
