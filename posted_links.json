@@ -1,4 +1,34 @@
 {
+  "83f81da0205c43ce09d1a8491d423f7eb19b219f71413afeb16d84dd2fc04854": {
+    "url": "mod_russia_en/27676",
+    "title": "Russian Forces Eliminate Ukrainian Drone Command Posts in Krasny Liman Direction",
+    "published": "2026-06-20T23:21:27.251209+00:00"
+  },
+  "9b8364c661564a1af86edc139bbe63a3703e539ccb48f238abc2609835087518": {
+    "url": "mod_russia_en/27677",
+    "title": "Russia Conducts Airstrikes Against Ukrainian Forces in Donetsk",
+    "published": "2026-06-20T23:19:49.655785+00:00"
+  },
+  "11d2a26a717b94b9e636d8004067636f60930c3b4cc905e87ca7f2abd1b4f076": {
+    "url": "mod_russia_en/27680",
+    "title": "Russian Forces Advance in Konstantinovka, DPR",
+    "published": "2026-06-20T23:18:23.431812+00:00"
+  },
+  "ef9409847c9fd0508e83942740ce98b2756ce2da4a4b528a87b6025022e687b9": {
+    "url": "QudsNen/228294",
+    "title": "Israeli Airstrikes in Lebanon Leave 83 Dead, 141 Injured",
+    "published": "2026-06-20T23:16:41.504703+00:00"
+  },
+  "d0f9e43403d4d953839e811d4adc581fda532095cd01013d1e51a5bf092d4af5": {
+    "url": "QudsNen/228307",
+    "title": "Israeli Forces Raid Nablus, Damage Palestinian Martyr's Memorial",
+    "published": "2026-06-20T23:16:40.263975+00:00"
+  },
+  "a0376adc36355f6c8ee1daf3e19e0e10faa183d5adb7a5fa92535d3d33e48be3": {
+    "url": "Middle_East_Spectator/33781",
+    "title": "Iran Designates Maritime Route in Strait of Hormuz Amid Tensions",
+    "published": "2026-06-20T23:16:15.366592+00:00"
+  },
   "7b5918668776735e78243e92850c4af2459b5db624dd77c712dc99bcb6a4d16a": {
     "url": "Slavyangrad/167126",
     "title": "Kiev Oblast Under Drone Attack",
@@ -168,6 +198,11 @@
     "url": "thecradlemedia/62381",
     "title": "Pentagon Seeks $80 Billion in Funding for Iran Conflict and Domestic Needs",
     "published": "2026-06-20T10:39:47.726547+00:00"
+  },
+  "5ead808df05dbabc6953b776142f989782e9823576419cab9552f0722d11bf7e": {
+    "url": "https://en.mehrnews.com/news/245468/Intel-Min-arrests-14-US-Israeli-armed-mercenaries-in-Ilam",
+    "title": "Intel. Min. arrests 14 US-Israeli armed mercenaries in Ilam",
+    "published": "2026-06-20T10:31:26+00:00"
   },
   "0a32ef4c8745bb91e1a98e394d628232ea505ec14ec053196264be0feeb283f0": {
     "url": "https://english.almanar.com.lb/article/94502/",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/62178",
     "title": "Explosions Rock Haddatha Village in Southern Lebanon",
     "published": "2026-06-17T22:43:14.703175+00:00"
-  },
-  "7ab69a423b474a459166913d2f7efbf7fc77df4c859b627073a25f309b2eda30": {
-    "url": "https://www.rt.com/news/641749-russia-gulf-security-reset/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Russia wants to reset Persian Gulf security \u2013 can it?",
-    "published": "2026-06-17T19:56:13+00:00"
-  },
-  "86bfebe1bbb11921b55bfe102de699798a5b268ef57d022476277cf0d873b6ca": {
-    "url": "Middle_East_Spectator/33661",
-    "title": "Trump Threatens Military Action Against Iran Over Nuclear Deal",
-    "published": "2026-06-17T19:08:31.073940+00:00"
-  },
-  "8092a76ea8098f8e74d684fbc3d1720c4341f0d5a059ff5fbefb8d7e9f0610cd": {
-    "url": "Middle_East_Spectator/33664",
-    "title": "Trump Warns Netanyahu of Iran's Nuclear Threat to Israel",
-    "published": "2026-06-17T19:06:37.725561+00:00"
-  },
-  "8fb1479ae76f7ddd19f82b22ac640e39c625f1b231f626d0f71b80655ebcab18": {
-    "url": "Middle_East_Spectator/33666",
-    "title": "Iranian Pilots Describe Devastating Bombing Raid on US Bases in Kuwait",
-    "published": "2026-06-17T19:04:29.426074+00:00"
-  },
-  "cc855e16df47b1f2df22dff782bf37e9d0ab7cfa1e2c94b5ed70297fdcfecc94": {
-    "url": "Middle_East_Spectator/33667",
-    "title": "Iranian F-5 Bombs US Base in Kuwait Amid Regional Tensions",
-    "published": "2026-06-17T19:01:29.088697+00:00"
-  },
-  "3c260a51c9fea59e853730e703ee5688e6ab832f7532220db6bc7de5e5f61087": {
-    "url": "thecradlemedia/62179",
-    "title": "US, EU Intensify Economic Blockade Against Russia Amid Ukraine Missile Production",
-    "published": "2026-06-17T18:58:56.489228+00:00"
-  },
-  "2846f822ec91ec77a63393078df57932adc329e1b00e51aad805f4409398ecf3": {
-    "url": "thecradlemedia/62192",
-    "title": "US Exerts Pressure on Palestinian Authority Over War Crimes Cases",
-    "published": "2026-06-17T18:58:55.167624+00:00"
   }
 }
