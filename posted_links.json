@@ -1,4 +1,34 @@
 {
+  "1ca239cd8d79c1a49eea23c88463fd98f81cb4327cdce3c499eb830e6d494da8": {
+    "url": "Slavyangrad/167214",
+    "title": "UK Tests Long-Range Missiles for Ukrainian Forces",
+    "published": "2026-06-21T23:25:49.375492+00:00"
+  },
+  "3bf61d24b7e91d74abc016b77caec5286284dc210d4bbcbec254ab8d5e4c632a": {
+    "url": "Slavyangrad/167216",
+    "title": "Russian Drone Captures Bridge Destruction in Kupyansk",
+    "published": "2026-06-21T23:25:34.228921+00:00"
+  },
+  "2f5fb9b048ed9ddcb45c81722652e40c897746378899c1e264a8c1fc8d4cf8a3": {
+    "url": "intelslava/89275",
+    "title": "US Senator Warns of Forceful US Control Over Strait of Hormuz if Iran Talks Fail",
+    "published": "2026-06-21T23:23:29.435559+00:00"
+  },
+  "b63bdabb8614eab42b9efa304482128d27480af3125fe445c82134a7cd8af4bd": {
+    "url": "intelslava/89276",
+    "title": "Explosion Rocks Ras Laffan Industrial City in Qatar",
+    "published": "2026-06-21T23:20:32.029565+00:00"
+  },
+  "23a66e7c3af4bfa0c565f3b1cd537255c16682be619e5bdfaffd0926b72ec016": {
+    "url": "Middle_East_Spectator/33837",
+    "title": "Hezbollah's Underground Tunnel Facility Near Israeli Border Uncovered",
+    "published": "2026-06-21T23:19:50.137638+00:00"
+  },
+  "8c94762f99ac9851f732ce04ba5d77e562adf9a309cf235599564309d6a8ba71": {
+    "url": "Middle_East_Spectator/33842",
+    "title": "Syrian President Ahmad Al-Sharaa Discusses Hezbollah Conflict with Trump",
+    "published": "2026-06-21T23:19:48.901196+00:00"
+  },
   "02baee917383122f0b8019b706eaeeb9b6d3aaaed4669e0f6e566bf0614c9e07": {
     "url": "DDGeopolitics/187225",
     "title": "Ballistic Missile Strike Hits Odessa Region in Ukraine",
@@ -204,6 +234,11 @@
     "title": "Iran Reiterates Nuclear Enrichment Stance Ahead of Talks with US",
     "published": "2026-06-21T09:59:08.229807+00:00"
   },
+  "60650045535f5cdf82f279444bde9ec5b780aeef5bb2d58daa4d3066c16bd382": {
+    "url": "https://tass.com/defense/2149435",
+    "title": "Russian forces strike Ukraine\u2019s key energy sites in Kiev, Sumy, Chernigov regions, DPR",
+    "published": "2026-06-21T06:55:43+00:00"
+  },
   "2dcb5dbbc4b56b855b360dce231fba007869628a4c14739d096f2dd4727359cd": {
     "url": "https://en.irna.ir/news/86188519/Al-Jazeera-cameraman-killed-in-Israeli-airstrike",
     "title": "Al Jazeera cameraman killed in Israeli airstrike",
@@ -238,6 +273,11 @@
     "url": "QudsNen/228319",
     "title": "Israeli Forces Detain Palestinian in Pre-Dawn Raid on Qaffin",
     "published": "2026-06-21T04:44:53.414221+00:00"
+  },
+  "b3b2217140ff56a266bd644c9bfdb66721ebac674497b072c38d1da4bb386d6f": {
+    "url": "https://tass.com/defense/2149411",
+    "title": "Ukrainian army loses 3 Starlink terminals, 42 fixed-wing drones in battlegroup\u2019s East area",
+    "published": "2026-06-21T03:19:24+00:00"
   },
   "c69b28e5c1a9eb37ab201d0ae2d2cd73a596fa7250c544a9e42d4081b5da1bc9": {
     "url": "https://tass.com/world/2149409",
@@ -708,45 +748,5 @@
     "url": "https://tass.com/economy/2148977",
     "title": "Philippines eyeing cooperation in nuclear sphere with Russia, undersecretary says",
     "published": "2026-06-19T12:14:12+00:00"
-  },
-  "2e2841fb266e4c15cbb37d2be95d1104c8cdba84306b07d22618eabd9a3e83f1": {
-    "url": "https://www.defensenews.com/global/asia-pacific/2026/06/19/japan-joins-the-global-craze-to-field-interceptor-drones/",
-    "title": "Japan joins the global craze to field interceptor drones",
-    "published": "2026-06-19T11:27:50+00:00"
-  },
-  "5dcfa79c06364e74e314f31596d04902ef37aaff16e3987c91d227273ca6e861": {
-    "url": "https://english.almanar.com.lb/article/94052/",
-    "title": "Lebanese Health Ministry: Israeli strike on Baalbek killed 3 people, injured 6 others in preliminary toll - Al-Manar TV Lebanon",
-    "published": "2026-06-19T11:10:52+00:00"
-  },
-  "0412407a2991703105e3e588b28450b389e4a0e3b2d7f759fae7452e07128ecc": {
-    "url": "DDGeopolitics/187015",
-    "title": "Kharkiv District Hit by Cruise Missile Strike",
-    "published": "2026-06-19T10:50:56.932355+00:00"
-  },
-  "7b25d0d5b2c45c22c67e1aa3a6dbfcfb7d836ddb3eb73d4de5f2e8697b9454b3": {
-    "url": "DDGeopolitics/187021",
-    "title": "Fire Engulfs Kharkov Warehouse Following Strike",
-    "published": "2026-06-19T10:50:38.133484+00:00"
-  },
-  "e480a0c37205cdec82ae1283d068df93a9754efcbc5c9e52b30427c40460d984": {
-    "url": "thecradlemedia/62287",
-    "title": "Israeli Airstrike Targets Ain Bourday in Baalbek, Lebanon",
-    "published": "2026-06-19T10:48:01.184477+00:00"
-  },
-  "f6db95c34d0db6575194b205788f524d27b896f5dc29d8189a6bb97d72d013ad": {
-    "url": "thecradlemedia/62300",
-    "title": "Israeli Airstrikes in Lebanon Leave 18 Dead Amid Iran-US Diplomatic Talks Postponement",
-    "published": "2026-06-19T10:47:48.239515+00:00"
-  },
-  "78412d56a483d1e203dcc5960e71530e59e731771bc25ec48e8867ed6976e995": {
-    "url": "thecradlemedia/62301",
-    "title": "Israel's Defence Minister Claims Destruction of Lebanese Border Villages",
-    "published": "2026-06-19T10:47:46.835173+00:00"
-  },
-  "48fc75dd52c4ba1e593f6efb780a4fcaf710b74ddfdc5eed415cde17947fc310": {
-    "url": "thecradlemedia/62302",
-    "title": "Netanyahu Threatens Lebanon After Hezbollah Attacks Israeli Soldiers",
-    "published": "2026-06-19T10:46:01.159864+00:00"
   }
 }
