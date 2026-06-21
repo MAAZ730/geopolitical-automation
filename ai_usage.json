@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4083,
+  "total_calls": 4087,
   "tiers": {
-    "groq": 4064,
+    "groq": 4068,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-17T15:43:21.721000+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-17T15:43:53.094700+00:00",
-      "tier": "groq",
-      "article": "US, EU authorize production of \u2018deep strike\u2019 missiles inside Ukraine"
-    },
-    {
-      "timestamp": "2026-06-17T15:44:39.116158+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-17T15:44:55.416298+00:00",
-      "tier": "groq",
-      "article": "Fragile quiet and unanswered questions in Lebanon after US-Iran truce"
-    },
     {
       "timestamp": "2026-06-17T18:57:33.760338+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-21T12:16:33.591289+00:00",
       "tier": "groq",
       "article": "Iran presents investment-ready projects to Azerbaijan"
+    },
+    {
+      "timestamp": "2026-06-21T15:58:19.497463+00:00",
+      "tier": "groq",
+      "article": "Al-Jazeera demands punishment for Israeli officials following latest assassination of cameraman"
+    },
+    {
+      "timestamp": "2026-06-21T15:58:51.830930+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-21T15:59:38.104302+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-21T15:59:54.261445+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy official: Strength remains the only real guarantee against adversaries"
     }
   ]
 }
