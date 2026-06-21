@@ -1,4 +1,39 @@
 {
+  "03cda1f41c63a9795837d2368aecc5b4de2daa4a8d96630b02dbc6cb9d0bfbe6": {
+    "url": "intelslava/89241",
+    "title": "Russia Launches Missile Strikes on Ukrainian Regions",
+    "published": "2026-06-21T10:03:21.157176+00:00"
+  },
+  "847aad0b3ab2b3370be8bd9a8994eece7d77711c7242b6eff8db6d4b303c8bf5": {
+    "url": "intelslava/89248",
+    "title": "Ukraine Launches Drone Strike on Fuel Terminal in Crimea",
+    "published": "2026-06-21T10:03:03.207086+00:00"
+  },
+  "6213b00ef0b3958700dcd5c2b2cc4309feef8383885d1d2e45fb67cee63b6b8a": {
+    "url": "DDGeopolitics/187178",
+    "title": "Tensions Rise in Kiev as LGBT Rights March Meets Counter-Protest and Air Raid Alert",
+    "published": "2026-06-21T10:02:00.497676+00:00"
+  },
+  "73f638d64ecee119d223456276ca39f9bbbd5452b348ad7c2ceb042098c7a544": {
+    "url": "QudsNen/228337",
+    "title": "Palestinian Journalist Killed in Israeli Drone Strike on Gaza Refugee Camp",
+    "published": "2026-06-21T10:00:37.822979+00:00"
+  },
+  "0d59f17fc0740a6518587fd43d8786256a9be2bd8eb7845d13fac064771b5ebc": {
+    "url": "thecradlemedia/62432",
+    "title": "Iran Prioritizes Lebanon as Talks Begin in Switzerland",
+    "published": "2026-06-21T09:59:09.576904+00:00"
+  },
+  "df5a45801935584c8a37547a748e09baf7b9f7bb5f2cfb2fc63bc474a22431c1": {
+    "url": "thecradlemedia/62434",
+    "title": "Iran Reiterates Nuclear Enrichment Stance Ahead of Talks with US",
+    "published": "2026-06-21T09:59:08.229807+00:00"
+  },
+  "2dcb5dbbc4b56b855b360dce231fba007869628a4c14739d096f2dd4727359cd": {
+    "url": "https://en.irna.ir/news/86188519/Al-Jazeera-cameraman-killed-in-Israeli-airstrike",
+    "title": "Al Jazeera cameraman killed in Israeli airstrike",
+    "published": "2026-06-21T05:53:23+00:00"
+  },
   "d0d1ed940efcd27af16c1eb690e09bfca3844ae6f7de5709bb3869d38dd1e825": {
     "url": "mod_russia_en/27673",
     "title": "Russian Airstrike Targets Enemy UAV Depot in Kharkov",
@@ -163,6 +198,11 @@
     "url": "https://www.tehrantimes.com/news/527521/Israel-targets-civilians-as-usual-to-cover-up-military-failures",
     "title": "\u2018Israel targets civilians, as usual, to cover up military failures\u2019",
     "published": "2026-06-20T17:14:34+00:00"
+  },
+  "c5e5e6c84f0439e86ca8eb49a9ac0ed9e4ffbf456f0301632957993d1454bf81": {
+    "url": "https://tass.com/defense/2149347",
+    "title": "Su-34 hit Ukrainian points of drone deployment and control in DPR",
+    "published": "2026-06-20T16:07:50+00:00"
   },
   "7c0a443703c0f1eb7b7cde0a95fffd679303f1ef843d0c3d4826dae30f0e3d1a": {
     "url": "warmonitors/44596",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/62216",
     "title": "Iran, US Sign Islamabad MoU to End War, Reopen Hormuz",
     "published": "2026-06-18T10:56:21.392596+00:00"
-  },
-  "f732c7ebac78d518b9d8447e896d5440f5c74aedff6cfd396e2642bfd9b628f8": {
-    "url": "https://en.mehrnews.com/news/245422/Iran-negotiates-from-position-of-strength-Ghalibaf",
-    "title": "Passage fees in Hormuz after 60-day included in MoU: Ghalibaf",
-    "published": "2026-06-18T06:55:12+00:00"
-  },
-  "5a3e64b6d952e30362786c4d0ad9661a0409c4ed269882e11657f7a99fd419c5": {
-    "url": "QudsNen/227887",
-    "title": "Israeli Helicopter Fires on Lebanon Despite US-Iran Agreement",
-    "published": "2026-06-18T04:23:27.439130+00:00"
-  },
-  "4d9bae5c96eb6b5b8ab1dafe527f0372f80de6737a06c0671d1a628295d8675d": {
-    "url": "QudsNen/227888",
-    "title": "Hezbollah-Israel Clashes Escalate in Nabatieh Hills",
-    "published": "2026-06-18T04:23:08.246263+00:00"
-  },
-  "ab1c17c80b1b9f565d175c59bd41106177229d6b649563afadca3d92ad70bb1f": {
-    "url": "QudsNen/227891",
-    "title": "Israeli Forces Storm Hamrush Village in West Bank",
-    "published": "2026-06-18T04:23:07.208046+00:00"
-  },
-  "7ffeb2d01dc4c8e9b17fa77d65a9a5055ca02d8b6a05139ad1f1aae7867b849c": {
-    "url": "QudsNen/227892",
-    "title": "Israel Expands Gaza City Occupation Zone, Displacing Hundreds",
-    "published": "2026-06-18T04:21:15.658575+00:00"
-  },
-  "1e447fcf24b18d2d06ba777ec7aa7138ebe5cff6b2c8e4f5c0d6229061144dac": {
-    "url": "QudsNen/227895",
-    "title": "Israeli Artillery Strikes Kfarjoz in Southern Lebanon",
-    "published": "2026-06-18T04:21:14.173251+00:00"
-  },
-  "e6d916269c7d74612b57b4e99e53a058b00541cd0816e6caf59e47a696e271b1": {
-    "url": "QudsNen/227902",
-    "title": "US Continues to Back Israel Amid Ongoing Conflict in Gaza and Lebanon",
-    "published": "2026-06-18T04:20:46.792055+00:00"
-  },
-  "cce8faf461397aeb1246ea8471e00062f09c5c4069dfc1c065984e3d7d5114ed": {
-    "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-    "title": "Initial US-Iran agreement leaves many key issues to be negotiated",
-    "published": "2026-06-18T01:29:32+00:00"
   }
 }
