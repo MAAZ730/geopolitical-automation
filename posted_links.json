@@ -1,4 +1,39 @@
 {
+  "470729154ef5880791b99e10b1ff754cc93e00e25f262f1af9bd46b1b1091029": {
+    "url": "milinfolive/174664",
+    "title": "Fuel Tanker Dodges Drone in Close Call",
+    "published": "2026-06-21T12:22:05.201496+00:00"
+  },
+  "427490c6fdf599bae8bf6c1cbaa30416d219796793e62ac7b9e6247b206e0d8b": {
+    "url": "presstv/194979",
+    "title": "Fuel Crisis Threatens Drinking Water in Gaza",
+    "published": "2026-06-21T12:21:25.581097+00:00"
+  },
+  "797dd3ba0ed9d2064c123fbdf6bf6e4f55724b794c7bc099c469cc4f82f849c6": {
+    "url": "DDGeopolitics/187188",
+    "title": "Drone Strike Hits Gas Station in Zaporozhye, Ukraine",
+    "published": "2026-06-21T12:18:38.205166+00:00"
+  },
+  "d46df6ed7a0f6732ec67c432e05712f9a33c6ae69ef4a64602c2bf81e0edbbea": {
+    "url": "QudsNen/228360",
+    "title": "Israeli Settlers Attack Palestinian Driver in West Bank",
+    "published": "2026-06-21T12:17:38.095907+00:00"
+  },
+  "d9587e5e9c950be730a1b7cf76efe3a47e8d401bd1d0a8bf2aaae35dced3971d": {
+    "url": "thecradlemedia/62441",
+    "title": "Israelis Express Widespread Dissatisfaction with War Outcome and US-Iran Deal",
+    "published": "2026-06-21T12:16:52.335990+00:00"
+  },
+  "ca0cfe346474e401af88d13aca2e2cc555c63536a3024af5603797701e81b25e": {
+    "url": "thecradlemedia/62446",
+    "title": "Settlers Damage Water Infrastructure in Occupied West Bank",
+    "published": "2026-06-21T12:16:39.982945+00:00"
+  },
+  "ceb64ab461a755266f4618cca65ba52ace64fb875bd9c899328bad8edc5177dc": {
+    "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
+    "title": "Ukraine strikes hit oil facilities in Crimea, Russia\u2019s Krasnodar",
+    "published": "2026-06-21T10:30:46+00:00"
+  },
   "03cda1f41c63a9795837d2368aecc5b4de2daa4a8d96630b02dbc6cb9d0bfbe6": {
     "url": "intelslava/89241",
     "title": "Russia Launches Missile Strikes on Ukrainian Regions",
@@ -198,6 +233,11 @@
     "url": "https://www.tehrantimes.com/news/527521/Israel-targets-civilians-as-usual-to-cover-up-military-failures",
     "title": "\u2018Israel targets civilians, as usual, to cover up military failures\u2019",
     "published": "2026-06-20T17:14:34+00:00"
+  },
+  "22b6fa3341b3a818cdd73e192cc11b7852fe669c668eb108273e0b6059b55f77": {
+    "url": "https://www.tehrantimes.com/news/527518/Iran-presents-investment-ready-projects-to-Azerbaijan",
+    "title": "Iran presents investment-ready projects to Azerbaijan",
+    "published": "2026-06-20T16:11:57+00:00"
   },
   "c5e5e6c84f0439e86ca8eb49a9ac0ed9e4ffbf456f0301632957993d1454bf81": {
     "url": "https://tass.com/defense/2149347",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/62245",
     "title": "Lebanon Dismantles Unexploded Israeli Aerial Bombs",
     "published": "2026-06-18T15:37:13.148399+00:00"
-  },
-  "ccb649fc9d285939ec1aff2b28bea1591dab577b719bbb4995f6eb7687384f66": {
-    "url": "https://www.defensenews.com/global/europe/2026/06/18/germany-moves-two-ships-to-djibouti-eyeing-multinational-hormuz-mission-this-summer/",
-    "title": "Germany moves two ships to Djibouti, eyeing multinational Hormuz mission this summer",
-    "published": "2026-06-18T11:59:46+00:00"
-  },
-  "6651ae7f317389351707d07eaa6e1b21e1ba3ae49a36c540cccd0fd2914faefe": {
-    "url": "https://tass.com/world/2148347",
-    "title": "Over 1,000 Palestinians killed in Gaza since start of ceasefire \u2014 Health Ministry",
-    "published": "2026-06-18T11:43:40+00:00"
-  },
-  "e5315aa646b5cafcd5c9fcf28f5e7543d0fbf588edd8b46b2ce9a2285dc41c1c": {
-    "url": "warmonitors/44542",
-    "title": "US and Iran Sign Memorandum to End Conflict",
-    "published": "2026-06-18T11:02:47.534373+00:00"
-  },
-  "2ff06d4ac6676b60c8d2a00e30b1ec28ce5cee9e3b7ed8ff11489c10c074e88e": {
-    "url": "DDGeopolitics/186939",
-    "title": "US Department of War Launches Review of Military Presence in Europe",
-    "published": "2026-06-18T11:01:17.275401+00:00"
-  },
-  "f9ce3e9df347ceafc88d2440a9f16db1b451f07584311b17852fb12a67830366": {
-    "url": "thecradlemedia/62206",
-    "title": "Trump Warns of Global Energy Crisis Without Iran Nuclear Deal",
-    "published": "2026-06-18T10:59:26.552222+00:00"
-  },
-  "6c47fa960990627e7781668d4ca507fa3dd8ba2466012ac1359bb4698cd703a1": {
-    "url": "thecradlemedia/62208",
-    "title": "Trump Backs UAE's Military Involvement in Iran Strikes",
-    "published": "2026-06-18T10:57:02.387934+00:00"
-  },
-  "cf27f93bc7968c3f9d476c1c4cef75fd7b91e530097014482ed9e0411a64d2ff": {
-    "url": "thecradlemedia/62213",
-    "title": "Iraq, US to Revive Kirkuk-Baniyas Oil Pipeline",
-    "published": "2026-06-18T10:56:22.556034+00:00"
-  },
-  "9c64f4f456648cca7c59ec23eb5498373bdf4bb188af90018873b3ce0d6df1a0": {
-    "url": "thecradlemedia/62216",
-    "title": "Iran, US Sign Islamabad MoU to End War, Reopen Hormuz",
-    "published": "2026-06-18T10:56:21.392596+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4079,
+  "total_calls": 4083,
   "tiers": {
-    "groq": 4060,
+    "groq": 4064,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-17T11:03:09.098764+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-17T11:03:25.342880+00:00",
-      "tier": "groq",
-      "article": "Ukrainian brigade command begs to be allowed to step down due to casualties in Zaporozhye"
-    },
-    {
-      "timestamp": "2026-06-17T11:03:48.604343+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-17T11:04:04.555321+00:00",
-      "tier": "groq",
-      "article": "Iran now a 'regional superpower': Lebanese MP says"
-    },
     {
       "timestamp": "2026-06-17T15:43:21.721000+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-21T09:59:01.503296+00:00",
       "tier": "groq",
       "article": "Su-34 hit Ukrainian points of drone deployment and control in DPR"
+    },
+    {
+      "timestamp": "2026-06-21T12:14:54.477026+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes hit oil facilities in Crimea, Russia\u2019s Krasnodar"
+    },
+    {
+      "timestamp": "2026-06-21T12:15:30.263056+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-21T12:16:17.032276+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-21T12:16:33.591289+00:00",
+      "tier": "groq",
+      "article": "Iran presents investment-ready projects to Azerbaijan"
     }
   ]
 }
