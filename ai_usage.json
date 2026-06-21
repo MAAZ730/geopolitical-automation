@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4095,
+  "total_calls": 4099,
   "tiers": {
-    "groq": 4076,
+    "groq": 4080,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-18T04:17:28.051452+00:00",
-      "tier": "groq",
-      "article": "Lebanon\u2019s death toll from Israeli strikes reaches 3,884 Health Ministry"
-    },
-    {
-      "timestamp": "2026-06-18T04:18:00.494890+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-18T04:18:16.625617+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-18T04:19:01.874133+00:00",
-      "tier": "groq",
-      "article": "Size matters: KNDS pitches long-barreled artillery for 60-kilometer base range"
-    },
     {
       "timestamp": "2026-06-18T10:54:49.503034+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-21T19:52:13.740960+00:00",
       "tier": "groq",
       "article": "Pro-Islamic Establishment rallies in Mashhad"
+    },
+    {
+      "timestamp": "2026-06-21T21:21:04.738677+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-21T21:21:20.950774+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-21T21:21:45.121308+00:00",
+      "tier": "groq",
+      "article": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region"
+    },
+    {
+      "timestamp": "2026-06-21T21:22:31.604105+00:00",
+      "tier": "groq",
+      "article": "US may return Iran\u2019s assets in exchange for UN inspectors\u2019 access to nuclear sites \u2014 Axios"
     }
   ]
 }
