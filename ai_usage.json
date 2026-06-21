@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4087,
+  "total_calls": 4091,
   "tiers": {
-    "groq": 4068,
+    "groq": 4072,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-17T18:57:33.760338+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-17T18:58:07.462326+00:00",
-      "tier": "groq",
-      "article": "Trump says US still investigating Iran school strike"
-    },
-    {
-      "timestamp": "2026-06-17T18:58:27.164035+00:00",
-      "tier": "groq",
-      "article": "5 Israeli soldiers injured in retaliatory drone strikes"
-    },
-    {
-      "timestamp": "2026-06-17T18:58:51.687394+00:00",
-      "tier": "groq",
-      "article": "Renault teams up with Thales to boost France\u2019s drone production"
-    },
     {
       "timestamp": "2026-06-17T22:42:11.382347+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-21T15:59:54.261445+00:00",
       "tier": "groq",
       "article": "IRGC Navy official: Strength remains the only real guarantee against adversaries"
+    },
+    {
+      "timestamp": "2026-06-21T17:43:30.063731+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-21T17:43:46.687525+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-21T17:44:09.366942+00:00",
+      "tier": "groq",
+      "article": "Trump warns Iran of new strikes over situation in Lebanon"
+    },
+    {
+      "timestamp": "2026-06-21T17:44:28.872683+00:00",
+      "tier": "groq",
+      "article": "Three Indian crude oil tankers clear Strait of Hormuz \u2014 shipping minister"
     }
   ]
 }
