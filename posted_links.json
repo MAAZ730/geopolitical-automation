@@ -1,4 +1,34 @@
 {
+  "d0d1ed940efcd27af16c1eb690e09bfca3844ae6f7de5709bb3869d38dd1e825": {
+    "url": "mod_russia_en/27673",
+    "title": "Russian Airstrike Targets Enemy UAV Depot in Kharkov",
+    "published": "2026-06-21T04:50:29.493858+00:00"
+  },
+  "b7fdd439142b46adf5f7f758a451222726a2c8b049e66f36ed762b889730f15a": {
+    "url": "Slavyangrad/167148",
+    "title": "Russian Su-34M Bomber Targets Ukrainian UAV Depot in Kharkov",
+    "published": "2026-06-21T04:49:22.951152+00:00"
+  },
+  "1be3577a31e0d2323600508f0951ae002581580286af2a5888655819ca48bc5c": {
+    "url": "Slavyangrad/167150",
+    "title": "French Politician Warns of Escalating Conflict in Ukraine",
+    "published": "2026-06-21T04:48:15.777682+00:00"
+  },
+  "af93417c3ce22a19d6248fc02e13c4afbc41c84dba201bab59f07837f747449b": {
+    "url": "DDGeopolitics/187167",
+    "title": "Ukraine Under Missile Attack: Multiple Explosions Hit Poltava, Dnepropetrovsk, and Kharkov Regions",
+    "published": "2026-06-21T04:45:38.352261+00:00"
+  },
+  "8f5d1fbcfe980b87145f1f93ba7a2ecfe8d742af4a85680b3927b07f9de7fa0f": {
+    "url": "QudsNen/228313",
+    "title": "Gaza Strip Child Uses Make-Shift Prosthetic Due to Israeli Blockade-Induced Shortages",
+    "published": "2026-06-21T04:45:00.659843+00:00"
+  },
+  "f05020a0690567765862e68faf4c85c21b89f52558d5b34d7028d9d4c64e0c72": {
+    "url": "QudsNen/228319",
+    "title": "Israeli Forces Detain Palestinian in Pre-Dawn Raid on Qaffin",
+    "published": "2026-06-21T04:44:53.414221+00:00"
+  },
   "83f81da0205c43ce09d1a8491d423f7eb19b219f71413afeb16d84dd2fc04854": {
     "url": "mod_russia_en/27676",
     "title": "Russian Forces Eliminate Ukrainian Drone Command Posts in Krasny Liman Direction",
@@ -198,6 +228,11 @@
     "url": "thecradlemedia/62381",
     "title": "Pentagon Seeks $80 Billion in Funding for Iran Conflict and Domestic Needs",
     "published": "2026-06-20T10:39:47.726547+00:00"
+  },
+  "c703dae9c97d0a2d572928314961d085eb5cbdb7908c6fd465f2542924008684": {
+    "url": "https://www.rt.com/news/641896-russia-hails-poland-stripping-zelensky-honor/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Russia hails Poland stripping Zelensky of state honor over \u2018Nazi glorification\u2019 controversy",
+    "published": "2026-06-20T10:31:40+00:00"
   },
   "5ead808df05dbabc6953b776142f989782e9823576419cab9552f0722d11bf7e": {
     "url": "https://en.mehrnews.com/news/245468/Intel-Min-arrests-14-US-Israeli-armed-mercenaries-in-Ilam",
@@ -713,40 +748,5 @@
     "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
     "title": "Initial US-Iran agreement leaves many key issues to be negotiated",
     "published": "2026-06-18T01:29:32+00:00"
-  },
-  "09c417cd93b554a64bb6bcd12b268bc907fd06bbb9c2bf81c660ee4755b80873": {
-    "url": "https://tass.com/world/2148071",
-    "title": "Lebanon\u2019s death toll from Israeli strikes reaches 3,884 Health Ministry",
-    "published": "2026-06-18T01:00:01+00:00"
-  },
-  "6d2bd624cfabec58fe64e98afc443515c5ccc112771a5dc724cd6032443d0c1a": {
-    "url": "QudsNen/227870",
-    "title": "Trump Defends Iran's Ballistic Missile Capability",
-    "published": "2026-06-17T22:48:59.865576+00:00"
-  },
-  "114aa9dbf95114e2e2edb264d8006069627919545407d0fc32fc60cb25618a13": {
-    "url": "QudsNen/227874",
-    "title": "Somaliland President Opens Door to Future Israeli Military Presence",
-    "published": "2026-06-17T22:47:35.075977+00:00"
-  },
-  "3d0b4ec1f4a9a8876981173c9a097b15de349887751f991e4bd1baf47f4b8617": {
-    "url": "QudsNen/227879",
-    "title": "Israeli Settlers Raid Palestinian Home in Masafer Yatta",
-    "published": "2026-06-17T22:46:57.697596+00:00"
-  },
-  "78930a07a50f500d1b6e5fecf05c2b106517dce2e80483f82536f5c6be0cba3f": {
-    "url": "QudsNen/227885",
-    "title": "Israeli Settlers Attack Palestinian Homes in Beit Imrin",
-    "published": "2026-06-17T22:44:48.560864+00:00"
-  },
-  "1f2c8807aa76bf1a9bb66f8c22590828220437ef71bb558b2ac2b8a9083f8ef8": {
-    "url": "Middle_East_Spectator/33690",
-    "title": "US, Iran Agree to Cease Hostilities Under 14-Point MoU",
-    "published": "2026-06-17T22:43:19.944178+00:00"
-  },
-  "4e60647bc3deb31aa7e1dab3d258adcda18d960f80f4e9f46817bdb216fa9bc3": {
-    "url": "thecradlemedia/62178",
-    "title": "Explosions Rock Haddatha Village in Southern Lebanon",
-    "published": "2026-06-17T22:43:14.703175+00:00"
   }
 }
