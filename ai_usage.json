@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4107,
+  "total_calls": 4111,
   "tiers": {
-    "groq": 4088,
+    "groq": 4092,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-18T18:59:04.722094+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-18T18:59:44.249984+00:00",
-      "tier": "groq",
-      "article": "Israel kills at least three Palestinians in Gaza City drone strike"
-    },
-    {
-      "timestamp": "2026-06-18T19:00:00.212046+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-18T19:00:43.316982+00:00",
-      "tier": "groq",
-      "article": "Russia wants to reset Persian Gulf security \u2013 can it?"
-    },
     {
       "timestamp": "2026-06-18T22:19:13.952899+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-22T04:48:16.040544+00:00",
       "tier": "groq",
       "article": "What are Iran's solutions for responding to US?"
+    },
+    {
+      "timestamp": "2026-06-22T12:13:22.560830+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-22T12:13:55.902060+00:00",
+      "tier": "groq",
+      "article": "West is entering new phase of war against Russia \u2014 senior legislator"
+    },
+    {
+      "timestamp": "2026-06-22T12:14:15.462176+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-22T12:14:31.817850+00:00",
+      "tier": "groq",
+      "article": "Why weird men try to put penises on powerful women"
     }
   ]
 }
