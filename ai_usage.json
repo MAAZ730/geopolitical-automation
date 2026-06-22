@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4103,
+  "total_calls": 4107,
   "tiers": {
-    "groq": 4084,
+    "groq": 4088,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-18T15:35:59.992789+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-18T15:36:34.547229+00:00",
-      "tier": "groq",
-      "article": "Over 1,000 Palestinians killed in Gaza since start of ceasefire \u2014 Health Ministry"
-    },
-    {
-      "timestamp": "2026-06-18T15:36:52.720485+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-18T15:37:08.746768+00:00",
-      "tier": "groq",
-      "article": "Hezbollah resistance carried out 3,185 ops: Qassem"
-    },
     {
       "timestamp": "2026-06-18T18:59:04.722094+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-21T23:19:43.241837+00:00",
       "tier": "groq",
       "article": "Ukrainian army loses 3 Starlink terminals, 42 fixed-wing drones in battlegroup\u2019s East area"
+    },
+    {
+      "timestamp": "2026-06-22T04:46:44.391408+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-22T04:47:17.736707+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-22T04:47:33.855558+00:00",
+      "tier": "groq",
+      "article": "Crimea halts fuel sales after Ukraine strikes cause shortages"
+    },
+    {
+      "timestamp": "2026-06-22T04:48:16.040544+00:00",
+      "tier": "groq",
+      "article": "What are Iran's solutions for responding to US?"
     }
   ]
 }
