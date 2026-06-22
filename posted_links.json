@@ -1,4 +1,39 @@
 {
+  "3f51dd45fdac3548b86ff10805f733565709dc8602591801f188ec7d37edbfeb": {
+    "url": "Slavyangrad/167290",
+    "title": "Polish Politician Disputes Zelensky on UPA Conflict",
+    "published": "2026-06-22T22:16:06.252403+00:00"
+  },
+  "86764c22e7e72add9994ec862be06d1d7869a5ecfc215f73c5862036072a6edc": {
+    "url": "milinfolive/174748",
+    "title": "Fuel Tanker Dodges Drone in Suspected Kamikaze Attack",
+    "published": "2026-06-22T22:13:37.826031+00:00"
+  },
+  "5b254ca5ee5eb2d227a5e6de96789bc40ea41ce0025098ed9d2be092689563bf": {
+    "url": "intelslava/89299",
+    "title": "Israeli Artillery Shelling Reported in Southern Lebanon",
+    "published": "2026-06-22T22:13:06.698851+00:00"
+  },
+  "0645b294effd5c0ad21a7bf804ed6369af05a6d633fbd05c4383453adab7c073": {
+    "url": "warmonitors/44643",
+    "title": "Montreal Shootout Leaves Officer Injured and Gunman Killed",
+    "published": "2026-06-22T22:12:38.390599+00:00"
+  },
+  "46f1831aeca99165560fba9fe86c62a4038a2925bf2916fbb66dccb0b152f866": {
+    "url": "thecradlemedia/62527",
+    "title": "Rubio to Meet GCC Representatives in Bahrain Amid US-Iran Diplomatic Efforts",
+    "published": "2026-06-22T22:10:03.011316+00:00"
+  },
+  "7707d1b68dd9433f374556d087258daf46ceaa04050162d4707c83e4325516a0": {
+    "url": "thecradlemedia/62531",
+    "title": "Iran Rejects US Claims of New IAEA Inspections",
+    "published": "2026-06-22T22:10:01.771836+00:00"
+  },
+  "32c35e09b4572f8febf4cb2fca44cc13fd98aed1d0c51d5380baf2ae3b280360": {
+    "url": "https://tass.com/politics/2149975",
+    "title": "Five civilians die, dozens injured after Ukraine\u2019s missile attack on Voronezh \u2014 governor",
+    "published": "2026-06-22T18:27:16+00:00"
+  },
   "6149a61d6c88eaf905a02579012014ee0dd2daf7b5ddd5bdee464d479a63da4b": {
     "url": "BellumActaNews/174457",
     "title": "Colombia Election Software Vulnerability Sparks Israel Accusation",
@@ -63,6 +98,11 @@
     "url": "thecradlemedia/62503",
     "title": "Germany Rejects Israeli Plans for Permanent Military Presence in Lebanon",
     "published": "2026-06-22T12:14:38.369073+00:00"
+  },
+  "eac8a0fbe9e6372070143a5c56b5f5906f53237ebed3cc7a97fa95b548101cfa": {
+    "url": "https://thecradle.co/articles-id/38365",
+    "title": "Iran reports \u2018progress\u2019 on Lebanon, frozen assets after Switzerland talks",
+    "published": "2026-06-22T10:25:38+00:00"
   },
   "e5f3e475699946f8c0845cfbb363831e3e6711ec89e423f4a378123f4df563b2": {
     "url": "https://tass.com/politics/2149749",
@@ -708,45 +748,5 @@
     "url": "Middle_East_Spectator/33772",
     "title": "Hezbollah Deploys HEAT Warheads on FPV Drones",
     "published": "2026-06-20T04:02:56.983795+00:00"
-  },
-  "b83c5e61ffbb8cd8ef761aca437b90728cdc33eaf5eb14f159c859467e02e644": {
-    "url": "Middle_East_Spectator/33775",
-    "title": "Hezbollah Destroys Israeli Tank Near Ali Taher Hill",
-    "published": "2026-06-20T04:02:55.613654+00:00"
-  },
-  "ba53418706e2121f217243e02ed0ca98e31dc5649284d8fb891748ffcdd186d0": {
-    "url": "https://tass.com/world/2149213",
-    "title": "EU summit outlines no timeframes regarding Moldova accession talks",
-    "published": "2026-06-19T23:51:57+00:00"
-  },
-  "224d7056757ce554c403911e27561c229a7cccda419bb5c4dd2d4681be1d4343": {
-    "url": "BellumActaNews/174403",
-    "title": "Israeli Airstrike Hits Douris in Eastern Lebanon",
-    "published": "2026-06-19T23:08:52.365339+00:00"
-  },
-  "c447f85d07f73191aa3203e52fccbc897bc5e7c2de2011e3d41fdd5d42513662": {
-    "url": "BellumActaNews/174404",
-    "title": "Israeli Airstrike Targets Arabsalim in Nabatieh District",
-    "published": "2026-06-19T23:08:35.643751+00:00"
-  },
-  "be7aed9f9556083ad4e733d5e374e1d6d5953f10e97a945fbd6570d27bf53c97": {
-    "url": "BellumActaNews/174406",
-    "title": "Israeli Airstrike Targets Building in Ain Bourday, Lebanon",
-    "published": "2026-06-19T23:07:23.501444+00:00"
-  },
-  "823d34e89e81486bafc4f43df162491ca669ebe667004a98a914cf69461faa7d": {
-    "url": "Middle_East_Spectator/33769",
-    "title": "Hezbollah IED Attack on Israeli Forces in Southern Lebanon",
-    "published": "2026-06-19T23:07:06.104056+00:00"
-  },
-  "839c824e3fb2b8cf362f18735bfc79d6ef2259fc949473a093c9a63bfe111fc6": {
-    "url": "thecradlemedia/62334",
-    "title": "Israeli Airstrikes Hit Lebanese Towns of Zebdine and Nabatieh",
-    "published": "2026-06-19T23:05:53.049257+00:00"
-  },
-  "8ac18c9c3b5dfce3d70292af03ac89d8006d7e8fc2b27aeeae82ec4ebb3e7d92": {
-    "url": "thecradlemedia/62340",
-    "title": "Hormuz Shipping Activity Reaches Two-Month High",
-    "published": "2026-06-19T23:05:51.257063+00:00"
   }
 }

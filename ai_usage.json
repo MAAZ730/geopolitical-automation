@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4115,
+  "total_calls": 4119,
   "tiers": {
-    "groq": 4096,
+    "groq": 4100,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-19T04:45:45.998218+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-19T04:46:18.362068+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-19T04:46:34.296504+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-19T04:46:50.686492+00:00",
-      "tier": "groq",
-      "article": "Passage fees in Hormuz after 60-day included in MoU: Ghalibaf"
-    },
     {
       "timestamp": "2026-06-19T10:44:54.483048+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-22T18:18:07.011865+00:00",
       "tier": "groq",
       "article": "Why Iran ties peacs talks to full ceasefire in Lebanon"
+    },
+    {
+      "timestamp": "2026-06-22T22:08:53.314654+00:00",
+      "tier": "groq",
+      "article": "Five civilians die, dozens injured after Ukraine\u2019s missile attack on Voronezh \u2014 governor"
+    },
+    {
+      "timestamp": "2026-06-22T22:09:25.916021+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-22T22:09:42.172727+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-22T22:09:58.498284+00:00",
+      "tier": "groq",
+      "article": "Iran reports \u2018progress\u2019 on Lebanon, frozen assets after Switzerland talks"
     }
   ]
 }
