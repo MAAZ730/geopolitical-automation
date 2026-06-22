@@ -1,4 +1,39 @@
 {
+  "6149a61d6c88eaf905a02579012014ee0dd2daf7b5ddd5bdee464d479a63da4b": {
+    "url": "BellumActaNews/174457",
+    "title": "Colombia Election Software Vulnerability Sparks Israel Accusation",
+    "published": "2026-06-22T18:22:48.122196+00:00"
+  },
+  "3da202df400b142ffc928c1837951324c5f9ec7c8904a7596941f6af4e6eb3e1": {
+    "url": "BellumActaNews/174472",
+    "title": "Putin Honors WWII Victims on Day of Remembrance and Sorrow",
+    "published": "2026-06-22T18:22:13.439030+00:00"
+  },
+  "e6080ff7e6f96a6513b7ef4ee01fb3e04fa3789ad22b0b77d911e7ae92fecc23": {
+    "url": "QudsNen/228514",
+    "title": "Israeli Forces Establish Military Base in Jenin's Al-Jabiryat Neighbourhood",
+    "published": "2026-06-22T18:20:42.463199+00:00"
+  },
+  "7613f1b56c46350b0dbcff8fe331ed979cda78b6a68e6cd7580d6eef753a03fa": {
+    "url": "thecradlemedia/62512",
+    "title": "Netanyahu Reiterates IDF Freedom in Southern Lebanon",
+    "published": "2026-06-22T18:19:54.849576+00:00"
+  },
+  "bc9a0108ce4286feecfc904c314f1296207ae558580d39b691fb6021571b34a5": {
+    "url": "thecradlemedia/62528",
+    "title": "Euro Slides Amid US-Iran Negotiation Progress",
+    "published": "2026-06-22T18:18:18.606885+00:00"
+  },
+  "e5511ca635e69dd48edfe8bc91f5b24087c994ce13dae4882b8fcbb601231d0d": {
+    "url": "thecradlemedia/62529",
+    "title": "Israel Condemned for Restrictions on Palestinian Child Rights Defenders",
+    "published": "2026-06-22T18:18:12.106321+00:00"
+  },
+  "84f9c335585a2305c4e95b8ce62c7dcbd3c5cc5739d4a72c44d9effb4795b349": {
+    "url": "https://www.tehrantimes.com/news/527596/Hajj-Ramadan-from-Gaza-in-the-midst-of-the-flood-to-martyrdom",
+    "title": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom",
+    "published": "2026-06-22T17:39:05+00:00"
+  },
   "a4cff1549f228834be2a61b73654d8ee86de9e8af694a951b82475995205d128": {
     "url": "BellumActaNews/174467",
     "title": "Car Bomb Defused in Ankawa, Iraq",
@@ -33,6 +68,11 @@
     "url": "https://tass.com/politics/2149749",
     "title": "West is entering new phase of war against Russia \u2014 senior legislator",
     "published": "2026-06-22T09:43:35+00:00"
+  },
+  "1d505792465847d99b25df82ab338de5da3f07a7c97b36825598262533535567": {
+    "url": "https://en.mehrnews.com/news/245528/Why-Iran-ties-peacs-talks-to-full-ceasefire-in-Lebanon",
+    "title": "Why Iran ties peacs talks to full ceasefire in Lebanon",
+    "published": "2026-06-22T09:00:48+00:00"
   },
   "8ea1576fdbc0cb7c635f55740c6f98a9caf6b8881fcbc1fcd4c487665aa7df39": {
     "url": "Slavyangrad/167225",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/62340",
     "title": "Hormuz Shipping Activity Reaches Two-Month High",
     "published": "2026-06-19T23:05:51.257063+00:00"
-  },
-  "1664847ba038f72509102e2d9e2af2e324f857a5b0138e845e2278baac3b4077": {
-    "url": "https://www.defensenews.com/news/your-military/2026/06/19/highway-patrol-us-marine-f-35s-conduct-flight-operations-on-finnish-roads/",
-    "title": "Highway patrol: US Marine F-35s conduct flight operations on Finnish roads",
-    "published": "2026-06-19T22:02:21+00:00"
-  },
-  "c79b937b54972fa7cbd5c111a11846dcc1ddd5ce0511fd6ce84c3ba9acc18738": {
-    "url": "BellumActaNews/174412",
-    "title": "Iran Reiterates Closure of Strait of Hormuz Amid Ongoing US-Iran Tensions",
-    "published": "2026-06-19T21:21:36.909790+00:00"
-  },
-  "ce689cb36d5248b0570c8ed7ba7aa9b115cd215da55001ad387d13999283f0b0": {
-    "url": "warmonitors/44570",
-    "title": "Israeli Airstrikes Hit Lebanon, Killing Dozens",
-    "published": "2026-06-19T21:20:10.031984+00:00"
-  },
-  "7d0d69dbc66e74df0121bbc317e1bbd6d50716f722554f892464e0dd76ca69d3": {
-    "url": "DDGeopolitics/187084",
-    "title": "Poland Revokes Ukraine's Zelensky of Top Honor",
-    "published": "2026-06-19T21:19:54.314106+00:00"
-  },
-  "23cced4397c0990cca10dbf04c73fe614dc648b278c11e9c9a8e083738455d34": {
-    "url": "QudsNen/228168",
-    "title": "Tear Gas Deployed Against Journalists in Dura, West Bank",
-    "published": "2026-06-19T21:17:25.516134+00:00"
-  },
-  "9f158a46b410d1f79c964f08233f25c2e34fa200711b8fdd85d285a2e27472ff": {
-    "url": "thecradlemedia/62348",
-    "title": "Hezbollah Leader Naim Qassem Denounces Israeli Occupation and Foreign Interference",
-    "published": "2026-06-19T21:16:37.182652+00:00"
-  },
-  "c2ce37a705f3142538a8cae7006313808b1e271a1792bf0d93a0cd89371612f6": {
-    "url": "thecradlemedia/62350",
-    "title": "Iran Parliament Calls for Steadfast Resistance in Defense of Lebanese Rights",
-    "published": "2026-06-19T21:16:35.976082+00:00"
-  },
-  "9a97ae206ea19021c46c81e2a940ae990ec9d244a83c7176ce58dac8d55d299b": {
-    "url": "warmonitors/44575",
-    "title": "Israel Bombs Southern Lebanon in Morning Airstrikes",
-    "published": "2026-06-19T18:10:47.275506+00:00"
   }
 }
