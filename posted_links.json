@@ -1,4 +1,39 @@
 {
+  "914f9a23996b3986da70012152e22fd12bf3da508d2f9de703626004f90742a1": {
+    "url": "presstv/195201",
+    "title": "Storm Forces Evacuation at France-Iraq Soccer Match in Philadelphia",
+    "published": "2026-06-23T04:03:32.032670+00:00"
+  },
+  "d1ae19228140394d4cc058ce7f5812d7fbe710a477db1369dc280bddb131812e": {
+    "url": "DDGeopolitics/187297",
+    "title": "Polish President's Award Decision Sparks Controversy Among Ukrainian Refugees",
+    "published": "2026-06-23T04:02:01.686179+00:00"
+  },
+  "c1061cfd63589dcd6fecb158200d0e689b71bd63e84cc113bbfa78e16297ae1d": {
+    "url": "DDGeopolitics/187303",
+    "title": "Montreal Police Officer Killed in Line of Duty",
+    "published": "2026-06-23T04:00:27.471194+00:00"
+  },
+  "617538352888436ad986f67ac6c04d8229285ecb5a6863f5bc81336e3a5bc6d9": {
+    "url": "DDGeopolitics/187309",
+    "title": "Ukrainian Forces Target Starlink Terminal, UGV in Russian-Occupied Areas",
+    "published": "2026-06-23T03:57:32.421713+00:00"
+  },
+  "19f323ea57a5f413ccc9be47e58d14ca1a3477e17cc08875f57147df7d9c6fd0": {
+    "url": "thecradlemedia/62524",
+    "title": "Qatar Pushes for Gulf-Iran Security Talks Amid Regional Tensions",
+    "published": "2026-06-23T03:56:57.795529+00:00"
+  },
+  "1e063f94643b2b363d81551e4e1feb71be07926324330c70f1d703a7a71d9780": {
+    "url": "thecradlemedia/62525",
+    "title": "Lebanon Establishes Five-Nation Deconfliction Mechanism Excluding Israel",
+    "published": "2026-06-23T03:56:47.787133+00:00"
+  },
+  "5303748fa071a2c8506100be88a2bf558f77d992a1886582c0cea02f6cbc559a": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/video-shows-deadly-shooting-in-montreal-canada?traffic_source=rss",
+    "title": "Video shows deadly shooting in Montreal, Canada",
+    "published": "2026-06-22T23:00:13+00:00"
+  },
   "3f51dd45fdac3548b86ff10805f733565709dc8602591801f188ec7d37edbfeb": {
     "url": "Slavyangrad/167290",
     "title": "Polish Politician Disputes Zelensky on UPA Conflict",
@@ -68,6 +103,11 @@
     "url": "https://www.tehrantimes.com/news/527596/Hajj-Ramadan-from-Gaza-in-the-midst-of-the-flood-to-martyrdom",
     "title": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom",
     "published": "2026-06-22T17:39:05+00:00"
+  },
+  "e1a5c2ef38658f070a16efff92cb19a9ce56361e95d9171773881c63cfef3d28": {
+    "url": "https://www.tehrantimes.com/news/527575/Environmental-protection-should-safeguard-rights-of-future-generations",
+    "title": "\u2018Environmental protection should safeguard rights of future generations\u2019",
+    "published": "2026-06-22T12:27:08+00:00"
   },
   "a4cff1549f228834be2a61b73654d8ee86de9e8af694a951b82475995205d128": {
     "url": "BellumActaNews/174467",
@@ -708,45 +748,5 @@
     "url": "QudsNen/228206",
     "title": "Israeli Airstrike Kills Four in Barich, Southern Lebanon",
     "published": "2026-06-20T08:01:29.574273+00:00"
-  },
-  "359da77bdcee38bdc4af8b6ed3a02f442ffb6fda3cecf51a0691539dea7352be": {
-    "url": "Middle_East_Spectator/33770",
-    "title": "Hezbollah Drones Equipped with Heat Warheads",
-    "published": "2026-06-20T08:00:45.176038+00:00"
-  },
-  "8520b94442cfff849628fc4aa31cb916dbcadda0412f9a82d07aedb810fce04c": {
-    "url": "thecradlemedia/62358",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-06-20T08:00:43.398966+00:00"
-  },
-  "254868e10e5434bcf68c3a498bda8894b0f381a02ce8a8ed21af7b88b0b63f76": {
-    "url": "https://english.almanar.com.lb/article/94407/",
-    "title": "At least of four members of the same family were martyred early this morning in a deadly Israeli airstrike on a residential building in the town of Barish in southern Lebanon - Al-Manar TV Lebanon",
-    "published": "2026-06-20T07:52:05+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
-    "published": "2026-06-20T04:06:29.503799+00:00"
-  },
-  "a4b62595bf6a4574c57e0093d8f61259795d80f3381b7719dce8ed6a35f4aabe": {
-    "url": "presstv/194821",
-    "title": "Israel Continues Airstrikes in Lebanon Despite Ceasefire Agreement",
-    "published": "2026-06-20T04:06:09.199707+00:00"
-  },
-  "9a2c197d96e51f407a8725a8e51525c9bb18c07c63e196206d6fce294ff89410": {
-    "url": "BellumActaNews/174391",
-    "title": "Clashes Erupt in Southern Lebanon as Israel Targets Hezbollah Positions",
-    "published": "2026-06-20T04:04:50.836393+00:00"
-  },
-  "80a7fd6cd994ee3d87d415b9510e72f8ceff69e98a38e815d8c2b0acc60d63ca": {
-    "url": "QudsNen/228185",
-    "title": "Israeli Airstrike Hits Residential Apartment in Gaza City",
-    "published": "2026-06-20T04:04:35.232366+00:00"
-  },
-  "f1e62af6188917943dc47214ede9ce2af8637075d8ee9cd66b07e550ab931f8b": {
-    "url": "Middle_East_Spectator/33772",
-    "title": "Hezbollah Deploys HEAT Warheads on FPV Drones",
-    "published": "2026-06-20T04:02:56.983795+00:00"
   }
 }

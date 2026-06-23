@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4119,
+  "total_calls": 4123,
   "tiers": {
-    "groq": 4100,
+    "groq": 4104,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-19T10:44:54.483048+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-19T10:45:25.822610+00:00",
-      "tier": "groq",
-      "article": "Iran\u2013US talks in Geneva \u2018postponed\u2019 over brutal Israeli attacks on Lebanon"
-    },
-    {
-      "timestamp": "2026-06-19T10:45:43.067814+00:00",
-      "tier": "groq",
-      "article": "Lebanese Health Ministry says 18 people martyred, 33 others injured in preliminary toll of Israeli strikes on Nabatieh region in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-19T10:45:58.932106+00:00",
-      "tier": "groq",
-      "article": "Germany moves two ships to Djibouti, eyeing multinational Hormuz mission this summer"
-    },
     {
       "timestamp": "2026-06-19T15:30:00.569078+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-22T22:09:58.498284+00:00",
       "tier": "groq",
       "article": "Iran reports \u2018progress\u2019 on Lebanon, frozen assets after Switzerland talks"
+    },
+    {
+      "timestamp": "2026-06-23T03:55:05.199244+00:00",
+      "tier": "groq",
+      "article": "Video shows deadly shooting in Montreal, Canada"
+    },
+    {
+      "timestamp": "2026-06-23T03:55:37.460341+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-23T03:56:23.712080+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-23T03:56:40.076985+00:00",
+      "tier": "groq",
+      "article": "\u2018Environmental protection should safeguard rights of future generations\u2019"
     }
   ]
 }
