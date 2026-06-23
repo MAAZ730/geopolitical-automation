@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4143,
+  "total_calls": 4147,
   "tiers": {
-    "groq": 4124,
+    "groq": 4128,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T07:58:31.545440+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T07:59:04.147763+00:00",
-      "tier": "groq",
-      "article": "At least of four members of the same family were martyred early this morning in a deadly Israeli airstrike on a residential building in the town of Barish in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-20T07:59:50.643685+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-20T08:00:38.654211+00:00",
-      "tier": "groq",
-      "article": "Philippines eyeing cooperation in nuclear sphere with Russia, undersecretary says"
-    },
     {
       "timestamp": "2026-06-20T10:38:40.380860+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-23T20:24:54.660018+00:00",
       "tier": "groq",
       "article": "Iran to continue diplomatic efforts to boost ties"
+    },
+    {
+      "timestamp": "2026-06-23T23:13:34.142831+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-23T23:13:51.219247+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-23T23:14:14.791313+00:00",
+      "tier": "groq",
+      "article": "Lebanon war toll passes 4,175 dead"
+    },
+    {
+      "timestamp": "2026-06-23T23:14:35.869358+00:00",
+      "tier": "groq",
+      "article": "Israel should treat Lebanon as its \u2018playground\u2019 \u2013 security minister"
     }
   ]
 }
