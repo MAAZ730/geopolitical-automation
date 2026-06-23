@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4127,
+  "total_calls": 4131,
   "tiers": {
-    "groq": 4108,
+    "groq": 4112,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-19T18:04:18.048179+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-19T18:04:50.384134+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-19T18:05:36.462993+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-19T18:06:29.819786+00:00",
-      "tier": "groq",
-      "article": "Republicans blast Iran agreement as details emerge"
-    },
     {
       "timestamp": "2026-06-19T21:15:26.978065+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-23T07:56:58.981803+00:00",
       "tier": "groq",
       "article": "Qatari premier says US, Iran determined to reach agreement"
+    },
+    {
+      "timestamp": "2026-06-23T11:23:50.023567+00:00",
+      "tier": "groq",
+      "article": "At least 13 killed and dozens injured after Qatar gas explosion"
+    },
+    {
+      "timestamp": "2026-06-23T11:24:27.350019+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-23T11:24:43.899430+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-23T11:25:26.428227+00:00",
+      "tier": "groq",
+      "article": "Iran emerges as critical transit link between Iraq, Afghanistan, South Asia"
     }
   ]
 }
