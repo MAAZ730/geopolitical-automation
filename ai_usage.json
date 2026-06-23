@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4135,
+  "total_calls": 4139,
   "tiers": {
-    "groq": 4116,
+    "groq": 4120,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-19T23:04:11.423394+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-19T23:04:43.748851+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-19T23:05:29.844573+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-19T23:05:45.948156+00:00",
-      "tier": "groq",
-      "article": "EU summit blames Russia for drone incidents, no timetable for Ukraine accession talks"
-    },
     {
       "timestamp": "2026-06-20T04:01:46.615000+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-23T15:00:18.565806+00:00",
       "tier": "groq",
       "article": "Kyiv\u2019s drone leverage moved the US. Moscow could be next, a top Ukrainian official says."
+    },
+    {
+      "timestamp": "2026-06-23T18:03:06.886755+00:00",
+      "tier": "groq",
+      "article": "Missile strike kills three in Ukraine as Russia feels war\u2019s economic strain"
+    },
+    {
+      "timestamp": "2026-06-23T18:03:43.143567+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-23T18:04:29.270040+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-23T18:04:45.596835+00:00",
+      "tier": "groq",
+      "article": "Deadly heatwave in Europe triggers red alerts"
     }
   ]
 }
