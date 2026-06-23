@@ -1,4 +1,34 @@
 {
+  "1719485d977b36a87d8059dcea34c299c5e006a36a687a84842caadc6c8123f0": {
+    "url": "Slavyangrad/167376",
+    "title": "Russian Forces Target Ukrainian Infrastructure in Zaporozhye",
+    "published": "2026-06-23T20:30:46.835916+00:00"
+  },
+  "39e4920e982dc8a0e8c4f6ce6ad269e12d5cc43e6df84a33a63ff97193c615a1": {
+    "url": "milinfolive/174804",
+    "title": "Ukrainian Truck Destroyed by FPV Drone Strike in Kharkiv Region",
+    "published": "2026-06-23T20:30:07.880740+00:00"
+  },
+  "e8133a7955a869aa06a081739580ad9ce44b221eb8fc4b355f073eb36164e552": {
+    "url": "presstv/195327",
+    "title": "Iran's Military Victory in US-Israeli Imposed War Sparks Regional Optimism",
+    "published": "2026-06-23T20:29:20.683166+00:00"
+  },
+  "318e270b57f302e95eb83824b29ad6c44e74fd4af90e892d99d8e4a36aaae08a": {
+    "url": "DDGeopolitics/187339",
+    "title": "Iranian Proxies Fuel Regional Tensions with Missile and Drone Strikes",
+    "published": "2026-06-23T20:26:44.417309+00:00"
+  },
+  "f3b877d497eb4dc6729d60d6edfe9f4b5515d857375f3dba81d6dba14e5d87fa": {
+    "url": "thecradlemedia/62594",
+    "title": "Israeli Drone Strike Targets Vehicle in Southern Lebanon",
+    "published": "2026-06-23T20:25:01.038324+00:00"
+  },
+  "48bbe70a4dc5f0fe327271833eb3046f54875545721032c86122be6950f75cf6": {
+    "url": "thecradlemedia/62610",
+    "title": "Iranian President Seeks New Regional Security Framework in Pakistan",
+    "published": "2026-06-23T20:24:59.982346+00:00"
+  },
   "3bc8bc4db5c5402e0f496ffd75e0c950b28316ee02177eedaf43b1840b1ee21f": {
     "url": "QudsNen/228639",
     "title": "Israeli Airstrike Injures Palestinian in Khan Younis, Gaza Strip",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/62609",
     "title": "Iran Ties Lebanon Peace Deal to End of Israeli Military Operations",
     "published": "2026-06-23T18:07:17.316391+00:00"
+  },
+  "35a1a961d197a0528c7b47a38e23fbc9a9356bb6b6e1f18506df879b72d000b5": {
+    "url": "https://warontherocks.com/adapting-to-uncertainty-in-the-strait-of-hormuz/",
+    "title": "Adapting to Uncertainty in the Strait of Hormuz",
+    "published": "2026-06-23T17:30:05+00:00"
   },
   "1a9bb740339515235d785a341f61c96680091215472803d11966ca2ce86afe05": {
     "url": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
@@ -193,6 +228,11 @@
     "url": "thecradlemedia/62531",
     "title": "Iran Rejects US Claims of New IAEA Inspections",
     "published": "2026-06-22T22:10:01.771836+00:00"
+  },
+  "4abd280350afd529cd138465d4af8ae6ea770c92663b280ef4de0ed0eaba1e9b": {
+    "url": "https://en.mehrnews.com/news/245543/Iran-committed-to-diplomacy-under-international-law",
+    "title": "Iran to continue diplomatic efforts to boost ties",
+    "published": "2026-06-22T21:19:07+00:00"
   },
   "2862fc10ff6880eeb40592ddd845bad510bb7bbd79b4fabf50c9bd02694c2b7b": {
     "url": "https://www.rt.com/news/641986-france-five-dead-europe-heatwave/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -708,45 +748,5 @@
     "url": "https://en.mehrnews.com/news/245485/Pr-Islamic-Establishment-rallies-in-Mashhad",
     "title": "Pro-Islamic Establishment rallies in Mashhad",
     "published": "2026-06-20T20:45:52+00:00"
-  },
-  "62ea7039a1260bdd32808b7946693058d1c2794d159e832a905c71e8fbb62b40": {
-    "url": "presstv/194900",
-    "title": "Iran IRGC Navy Closes Strait of Hormuz to Maritime Traffic",
-    "published": "2026-06-20T19:50:36.150422+00:00"
-  },
-  "b967d7b3608b19b151ec8422f3338ba3461d6961b9e26ad1b0806ee5fb780548": {
-    "url": "presstv/194910",
-    "title": "Israeli Airstrike Kills Journalist and Cameraman in Central Gaza",
-    "published": "2026-06-20T19:49:29.602828+00:00"
-  },
-  "d0fa991a0c7bc3f01385f6987f7c9baef0bf03dfa3ed9c7e13a6164c649dad31": {
-    "url": "BellumActaNews/174423",
-    "title": "Iran Promotes Hezbollah Recruitment in Tehran",
-    "published": "2026-06-20T19:48:48.598118+00:00"
-  },
-  "4292808a0e688e309d3ee2961e9af21a6a34973f9649ac207521c1b755790df1": {
-    "url": "QudsNen/228286",
-    "title": "Israeli Drone Strike Kills Palestinian Journalist in Gaza",
-    "published": "2026-06-20T19:46:51.629010+00:00"
-  },
-  "7dee2a6818ee843877fcf965dfecfaf445525e970636ac913fb82d2660e50744": {
-    "url": "thecradlemedia/62403",
-    "title": "Trump Criticizes NATO and Italy Over Iran Conflict Support",
-    "published": "2026-06-20T19:46:09.054283+00:00"
-  },
-  "0a355c15cff3293d3af0941c5c56f4c8c091ca332a1b72f930d71d36a1c7a97f": {
-    "url": "thecradlemedia/62405",
-    "title": "Israeli Airstrikes Hit Shoukine, South Lebanon",
-    "published": "2026-06-20T19:46:05.051274+00:00"
-  },
-  "dd5f8066b2dafdb6d3c05277687a56b0d329477b4db41dc45a30900e1eda78ff": {
-    "url": "https://tass.com/economy/2149371",
-    "title": "Three Indian crude oil tankers clear Strait of Hormuz \u2014 shipping minister",
-    "published": "2026-06-20T18:54:00+00:00"
-  },
-  "5d4d61995ddcd95e691e1fdd786c2255fecf6a39f84459a50a60f2f5eefda6c7": {
-    "url": "warmonitors/44593",
-    "title": "Israeli Airstrike Hits Building Complex in Southern Lebanon",
-    "published": "2026-06-20T17:51:12.702608+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4139,
+  "total_calls": 4143,
   "tiers": {
-    "groq": 4120,
+    "groq": 4124,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T04:01:46.615000+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T04:02:19.948934+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-20T04:02:36.012248+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-20T04:02:52.206958+00:00",
-      "tier": "groq",
-      "article": "Japan joins the global craze to field interceptor drones"
-    },
     {
       "timestamp": "2026-06-20T07:58:31.545440+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-23T18:04:45.596835+00:00",
       "tier": "groq",
       "article": "Deadly heatwave in Europe triggers red alerts"
+    },
+    {
+      "timestamp": "2026-06-23T20:23:13.917161+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-23T20:23:47.702092+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-23T20:24:38.422080+00:00",
+      "tier": "groq",
+      "article": "Adapting to Uncertainty in the Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-06-23T20:24:54.660018+00:00",
+      "tier": "groq",
+      "article": "Iran to continue diplomatic efforts to boost ties"
     }
   ]
 }
