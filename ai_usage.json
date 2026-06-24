@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4159,
+  "total_calls": 4163,
   "tiers": {
-    "groq": 4140,
+    "groq": 4144,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T19:44:54.241145+00:00",
-      "tier": "groq",
-      "article": "10 sobering lessons the war on Iran forced into the open"
-    },
-    {
-      "timestamp": "2026-06-20T19:45:12.782253+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T19:45:46.132979+00:00",
-      "tier": "groq",
-      "article": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike"
-    },
-    {
-      "timestamp": "2026-06-20T19:46:02.217516+00:00",
-      "tier": "groq",
-      "article": "Highway patrol: US Marine F-35s conduct flight operations on Finnish roads"
-    },
     {
       "timestamp": "2026-06-20T21:22:10.640158+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T10:55:53.917291+00:00",
       "tier": "groq",
       "article": "Iran and US agree Hormuz hotline to prevent \u2018misunderstandings\u2019"
+    },
+    {
+      "timestamp": "2026-06-24T14:40:48.824662+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T14:41:05.161799+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-24T14:41:32.528735+00:00",
+      "tier": "groq",
+      "article": "Gaza Ceasefire Unravels: 3 Martyred as Israeli Airstrikes Pound Displacement Camps - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-24T14:41:51.468722+00:00",
+      "tier": "groq",
+      "article": "Israel has no choice but to pull out from entire Lebanon"
     }
   ]
 }
