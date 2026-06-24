@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4167,
+  "total_calls": 4171,
   "tiers": {
-    "groq": 4148,
+    "groq": 4152,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T23:15:09.553956+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T23:15:26.178725+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-20T23:15:49.328386+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-20T23:16:05.397916+00:00",
-      "tier": "groq",
-      "article": "Intel. Min. arrests 14 US-Israeli armed mercenaries in Ilam"
-    },
     {
       "timestamp": "2026-06-21T04:43:50.440610+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T18:01:57.910526+00:00",
       "tier": "groq",
       "article": "Ukraine\u2019s, collective West actions may exhaust all patience \u2014 politician"
+    },
+    {
+      "timestamp": "2026-06-24T19:58:42.503730+00:00",
+      "tier": "groq",
+      "article": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza"
+    },
+    {
+      "timestamp": "2026-06-24T19:58:58.612531+00:00",
+      "tier": "groq",
+      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
+    },
+    {
+      "timestamp": "2026-06-24T19:59:14.875114+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T19:59:30.740370+00:00",
+      "tier": "groq",
+      "article": "Tensions on Ukraine-Belarus border are escalating \u2014 CSTO Council's chairman"
     }
   ]
 }
