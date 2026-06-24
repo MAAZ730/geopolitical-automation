@@ -1,4 +1,39 @@
 {
+  "76a98e26dc384236e84555af594fc6ff763baca41960c1788189b68823837d60": {
+    "url": "presstv/195392",
+    "title": "US Senate Approves War Powers Resolution to Limit Trump's Iran Military Authority",
+    "published": "2026-06-24T11:04:15.135551+00:00"
+  },
+  "98760221f33ce529968ece34a03b015632b98c8a6b7070c896f7953a66729ce2": {
+    "url": "presstv/195408",
+    "title": "US-Iran Relations: Tehran Warns of Catastrophic Consequences of Strait of Hormuz Closure",
+    "published": "2026-06-24T11:01:16.239093+00:00"
+  },
+  "5cd489d31c9d6653e47b85fbf50ef2482730cf1cac28768ed028ec7bbedfb9df": {
+    "url": "QudsNen/228726",
+    "title": "Israeli Airstrike Targets Displaced Family's Tent in Khan Younis",
+    "published": "2026-06-24T10:58:13.858306+00:00"
+  },
+  "44d66f4cc86043a40847da1a9c309a1afe17fb16c784257cff50005359fab038": {
+    "url": "QudsNen/228731",
+    "title": "Israeli Airstrike Hits Displaced Family's Tent in Khan Younis",
+    "published": "2026-06-24T10:57:55.292690+00:00"
+  },
+  "78e0032229b170557af2d24ef0867722f86a8bbbe2977024006a7f20bcf44186": {
+    "url": "thecradlemedia/62647",
+    "title": "Turkish Police Kill Suspected ISIS Militant in Ankara Raid",
+    "published": "2026-06-24T10:56:04.728178+00:00"
+  },
+  "dd9a5a171a1a06e560438db6db92bed93254bc4712af19ad4766b8b99573396b": {
+    "url": "thecradlemedia/62648",
+    "title": "US-Iran Talks Amid Gaza Violence",
+    "published": "2026-06-24T10:56:03.251661+00:00"
+  },
+  "5badcbee18b1e1784efd8c738c4de8dd81c31e2e819bc97e079e4eb35354bb30": {
+    "url": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
+    "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos ",
+    "published": "2026-06-24T10:28:27+00:00"
+  },
   "c16f18e434a94888b0ec8844b3fb857e21b6420718712c7e9fd89ab5eb0586af": {
     "url": "intelslava/89329",
     "title": "Kharkiv Region Bridge Hit by FPV Drone Strike",
@@ -228,6 +263,11 @@
     "url": "thecradlemedia/62573",
     "title": "Hezbollah Drone Strikes Leave Israeli Forces Vulnerable in Southern Lebanon",
     "published": "2026-06-23T11:25:38.814386+00:00"
+  },
+  "4f657220c5f85bfb6d0150a0bcc909860c2c152ba791aecf4b6a691cc8582da8": {
+    "url": "https://www.rt.com/news/642002-iran-hormuz-hotline/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran and US agree Hormuz hotline to prevent \u2018misunderstandings\u2019",
+    "published": "2026-06-23T10:55:10+00:00"
   },
   "2809009bfaa1b52105d564a32dec738cdf35b09231b26d72fad863fd4a521ba5": {
     "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/62441",
     "title": "Israelis Express Widespread Dissatisfaction with War Outcome and US-Iran Deal",
     "published": "2026-06-21T12:16:52.335990+00:00"
-  },
-  "ca0cfe346474e401af88d13aca2e2cc555c63536a3024af5603797701e81b25e": {
-    "url": "thecradlemedia/62446",
-    "title": "Settlers Damage Water Infrastructure in Occupied West Bank",
-    "published": "2026-06-21T12:16:39.982945+00:00"
-  },
-  "8e75ce260162fb4c51663a85942e8de333b042f7fcb3dd8135663b9db0dffdc4": {
-    "url": "https://thecradle.co/articles-id/38358",
-    "title": "Al-Jazeera demands punishment for Israeli officials following latest assassination of cameraman",
-    "published": "2026-06-21T11:33:46+00:00"
-  },
-  "ceb64ab461a755266f4618cca65ba52ace64fb875bd9c899328bad8edc5177dc": {
-    "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
-    "title": "Ukraine strikes hit oil facilities in Crimea, Russia\u2019s Krasnodar",
-    "published": "2026-06-21T10:30:46+00:00"
-  },
-  "03cda1f41c63a9795837d2368aecc5b4de2daa4a8d96630b02dbc6cb9d0bfbe6": {
-    "url": "intelslava/89241",
-    "title": "Russia Launches Missile Strikes on Ukrainian Regions",
-    "published": "2026-06-21T10:03:21.157176+00:00"
-  },
-  "847aad0b3ab2b3370be8bd9a8994eece7d77711c7242b6eff8db6d4b303c8bf5": {
-    "url": "intelslava/89248",
-    "title": "Ukraine Launches Drone Strike on Fuel Terminal in Crimea",
-    "published": "2026-06-21T10:03:03.207086+00:00"
-  },
-  "6213b00ef0b3958700dcd5c2b2cc4309feef8383885d1d2e45fb67cee63b6b8a": {
-    "url": "DDGeopolitics/187178",
-    "title": "Tensions Rise in Kiev as LGBT Rights March Meets Counter-Protest and Air Raid Alert",
-    "published": "2026-06-21T10:02:00.497676+00:00"
-  },
-  "73f638d64ecee119d223456276ca39f9bbbd5452b348ad7c2ceb042098c7a544": {
-    "url": "QudsNen/228337",
-    "title": "Palestinian Journalist Killed in Israeli Drone Strike on Gaza Refugee Camp",
-    "published": "2026-06-21T10:00:37.822979+00:00"
-  },
-  "0d59f17fc0740a6518587fd43d8786256a9be2bd8eb7845d13fac064771b5ebc": {
-    "url": "thecradlemedia/62432",
-    "title": "Iran Prioritizes Lebanon as Talks Begin in Switzerland",
-    "published": "2026-06-21T09:59:09.576904+00:00"
   }
 }

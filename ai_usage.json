@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4155,
+  "total_calls": 4159,
   "tiers": {
-    "groq": 4136,
+    "groq": 4140,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T17:40:47.799995+00:00",
-      "tier": "groq",
-      "article": "Israel kills more than 16 people in Lebanon\u2019s Nabatieh"
-    },
-    {
-      "timestamp": "2026-06-20T17:41:22.204925+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T17:42:14.672120+00:00",
-      "tier": "groq",
-      "article": "\u2018Israel targets civilians, as usual, to cover up military failures\u2019"
-    },
-    {
-      "timestamp": "2026-06-20T17:43:07.683736+00:00",
-      "tier": "groq",
-      "article": "A power lever is not negotiable"
-    },
     {
       "timestamp": "2026-06-20T19:44:54.241145+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T07:48:18.814018+00:00",
       "tier": "groq",
       "article": "Oman reports constructive talks with Iran on Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-06-24T10:54:17.460610+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T10:54:50.879085+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-24T10:55:07.310339+00:00",
+      "tier": "groq",
+      "article": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos "
+    },
+    {
+      "timestamp": "2026-06-24T10:55:53.917291+00:00",
+      "tier": "groq",
+      "article": "Iran and US agree Hormuz hotline to prevent \u2018misunderstandings\u2019"
     }
   ]
 }
