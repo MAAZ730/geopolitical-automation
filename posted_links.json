@@ -1,4 +1,34 @@
 {
+  "5b1d9662ca9a463cd53511f73f90f93a8b98c0b6f7c023ca9cc756143967b78b": {
+    "url": "boris_rozhin/215620",
+    "title": "Drone Strike Hits Ukrainian Truck on Kharkiv Bridge",
+    "published": "2026-06-24T04:03:41.107892+00:00"
+  },
+  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
+    "url": "CensoredMen/203",
+    "title": "Lebanon Excluded from Iran-US Ceasefire Deal Amid Escalating Israeli Strikes",
+    "published": "2026-06-24T04:02:43.095404+00:00"
+  },
+  "6a1bfa272c9c835fc48d5eb2333e09532458005465937c19210cbdc8994c2f94": {
+    "url": "QudsNen/228695",
+    "title": "Gaza City: Israeli Airstrikes Devastate Displaced Palestinians' Tents in Sheikh Ajleen Neighborhood",
+    "published": "2026-06-24T03:59:54.524786+00:00"
+  },
+  "da3e99337ef17c5b256092bb6d6595bad30c6bb9fc1c0b469d30e06a27445358": {
+    "url": "QudsNen/228698",
+    "title": "Israeli Forces Distribute Warning Leaflets in Jerusalem Suburbs",
+    "published": "2026-06-24T03:59:17.945475+00:00"
+  },
+  "d960a3fcaa1614cd072e95320125c80ef51405363b493da0d9308ec2fd9f98e8": {
+    "url": "QudsNen/228699",
+    "title": "Israeli Settlers Attack Palestinian Families in Sinjil Village",
+    "published": "2026-06-24T03:59:16.702024+00:00"
+  },
+  "8b45b178f4655bad91fee4c940edce978e40296dbdd7f7e01505456f57ddeda2": {
+    "url": "thecradlemedia/62611",
+    "title": "Iran's Football Team Granted Early US Entry Ahead of World Cup Match",
+    "published": "2026-06-24T03:57:53.220058+00:00"
+  },
   "764ee3417772652eef6d1a88f6691840f5b1d9e1c86a4d4c995aa55091c62eb5": {
     "url": "intelslava/89328",
     "title": "Russian Air Defense System Hit in Crimea Drone Strike",
@@ -159,6 +189,11 @@
     "title": "Hezbollah Drone Strikes Leave Israeli Forces Vulnerable in Southern Lebanon",
     "published": "2026-06-23T11:25:38.814386+00:00"
   },
+  "2809009bfaa1b52105d564a32dec738cdf35b09231b26d72fad863fd4a521ba5": {
+    "url": "https://en.mehrnews.com/news/245558/Ukraine-intensifies-drone-strikes-on-Zaporozhye-nuclear-plant",
+    "title": "Ukraine intensifies drone strikes on Zaporozhye nuclear plant",
+    "published": "2026-06-23T08:45:49+00:00"
+  },
   "4322410cd64bd56cf12148867d777512289e872a9b1e1af137b386a2299e2f33": {
     "url": "intelslava/89325",
     "title": "Iran's Negotiator Suggests Missile Strikes or Diplomatic Talks to Resolve Conflict",
@@ -198,6 +233,11 @@
     "url": "https://en.mehrnews.com/news/245547/Lebanon-war-toll-passes-4-175-dead",
     "title": "Lebanon war toll passes 4,175 dead",
     "published": "2026-06-23T05:42:31+00:00"
+  },
+  "c5a20e6302d46c1bd898fe1ea8438a90147fdf29050ec82c8cd24f0839870762": {
+    "url": "https://en.mehrnews.com/news/245546/Israeli-aggressive-acts-root-cause-of-regional-insecurity",
+    "title": "Israeli aggressive acts root cause of regional insecurity",
+    "published": "2026-06-23T04:52:27+00:00"
   },
   "914f9a23996b3986da70012152e22fd12bf3da508d2f9de703626004f90742a1": {
     "url": "presstv/195201",
@@ -708,45 +748,5 @@
     "url": "QudsNen/228313",
     "title": "Gaza Strip Child Uses Make-Shift Prosthetic Due to Israeli Blockade-Induced Shortages",
     "published": "2026-06-21T04:45:00.659843+00:00"
-  },
-  "f05020a0690567765862e68faf4c85c21b89f52558d5b34d7028d9d4c64e0c72": {
-    "url": "QudsNen/228319",
-    "title": "Israeli Forces Detain Palestinian in Pre-Dawn Raid on Qaffin",
-    "published": "2026-06-21T04:44:53.414221+00:00"
-  },
-  "b3b2217140ff56a266bd644c9bfdb66721ebac674497b072c38d1da4bb386d6f": {
-    "url": "https://tass.com/defense/2149411",
-    "title": "Ukrainian army loses 3 Starlink terminals, 42 fixed-wing drones in battlegroup\u2019s East area",
-    "published": "2026-06-21T03:19:24+00:00"
-  },
-  "c69b28e5c1a9eb37ab201d0ae2d2cd73a596fa7250c544a9e42d4081b5da1bc9": {
-    "url": "https://tass.com/world/2149409",
-    "title": "US may return Iran\u2019s assets in exchange for UN inspectors\u2019 access to nuclear sites \u2014 Axios",
-    "published": "2026-06-21T02:12:18+00:00"
-  },
-  "83f81da0205c43ce09d1a8491d423f7eb19b219f71413afeb16d84dd2fc04854": {
-    "url": "mod_russia_en/27676",
-    "title": "Russian Forces Eliminate Ukrainian Drone Command Posts in Krasny Liman Direction",
-    "published": "2026-06-20T23:21:27.251209+00:00"
-  },
-  "9b8364c661564a1af86edc139bbe63a3703e539ccb48f238abc2609835087518": {
-    "url": "mod_russia_en/27677",
-    "title": "Russia Conducts Airstrikes Against Ukrainian Forces in Donetsk",
-    "published": "2026-06-20T23:19:49.655785+00:00"
-  },
-  "11d2a26a717b94b9e636d8004067636f60930c3b4cc905e87ca7f2abd1b4f076": {
-    "url": "mod_russia_en/27680",
-    "title": "Russian Forces Advance in Konstantinovka, DPR",
-    "published": "2026-06-20T23:18:23.431812+00:00"
-  },
-  "ef9409847c9fd0508e83942740ce98b2756ce2da4a4b528a87b6025022e687b9": {
-    "url": "QudsNen/228294",
-    "title": "Israeli Airstrikes in Lebanon Leave 83 Dead, 141 Injured",
-    "published": "2026-06-20T23:16:41.504703+00:00"
-  },
-  "d0f9e43403d4d953839e811d4adc581fda532095cd01013d1e51a5bf092d4af5": {
-    "url": "QudsNen/228307",
-    "title": "Israeli Forces Raid Nablus, Damage Palestinian Martyr's Memorial",
-    "published": "2026-06-20T23:16:40.263975+00:00"
   }
 }

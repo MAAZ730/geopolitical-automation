@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4147,
+  "total_calls": 4151,
   "tiers": {
-    "groq": 4128,
+    "groq": 4132,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T10:38:40.380860+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T10:38:56.785241+00:00",
-      "tier": "groq",
-      "article": "Family, including two daughters, killed in Israeli strikes on Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T10:39:21.791667+00:00",
-      "tier": "groq",
-      "article": "Israeli media: 3 or 4 helicopters landed at Rambam Hospital overnight, and the event was classified as a mass casualty incident. At least 7 injured, one in very critical condition, from the commando unit - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-20T10:39:38.750976+00:00",
-      "tier": "groq",
-      "article": "Tehran, Moscow move to deepen financial cooperation"
-    },
     {
       "timestamp": "2026-06-20T14:11:16.450499+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-23T23:14:35.869358+00:00",
       "tier": "groq",
       "article": "Israel should treat Lebanon as its \u2018playground\u2019 \u2013 security minister"
+    },
+    {
+      "timestamp": "2026-06-24T03:55:38.814645+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T03:56:12.240901+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-24T03:56:59.418026+00:00",
+      "tier": "groq",
+      "article": "Ukraine intensifies drone strikes on Zaporozhye nuclear plant"
+    },
+    {
+      "timestamp": "2026-06-24T03:57:45.941765+00:00",
+      "tier": "groq",
+      "article": "Israeli aggressive acts root cause of regional insecurity"
     }
   ]
 }
