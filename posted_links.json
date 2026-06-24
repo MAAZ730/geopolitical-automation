@@ -1,4 +1,44 @@
 {
+  "c16f18e434a94888b0ec8844b3fb857e21b6420718712c7e9fd89ab5eb0586af": {
+    "url": "intelslava/89329",
+    "title": "Kharkiv Region Bridge Hit by FPV Drone Strike",
+    "published": "2026-06-24T07:57:09.632802+00:00"
+  },
+  "f49f7b37bef6563d0dcccc7f35dd5bb30a296367fc7e1fd8f892fb8939d32d02": {
+    "url": "DDGeopolitics/187358",
+    "title": "Drone Campaign Overwhelms Russian Air Defenses in Sevastopol",
+    "published": "2026-06-24T07:56:11.127142+00:00"
+  },
+  "b4bde2b9c3c7c00a9ed18808d9dbd69da6ceeb1669215233ec34d87c3e24f035": {
+    "url": "QudsNen/228696",
+    "title": "UN Accuses Israel of Genocide and War Crimes in Gaza and West Bank",
+    "published": "2026-06-24T07:56:08.738025+00:00"
+  },
+  "28c72ca5ffc0f9a5ead4841c4d109e51de6f23c56ba88c10bb05c7d7a3764b04": {
+    "url": "QudsNen/228704",
+    "title": "Israeli Settlers' Incursion Sparks Tensions in Taybeh",
+    "published": "2026-06-24T07:56:07.423408+00:00"
+  },
+  "fcccefcd6e430d2528b918d4d35709dca376e74a5293eb778288d57393d816e0": {
+    "url": "QudsNen/228707",
+    "title": "Israeli Settlers Assault Palestinian Shepherd in West Bank",
+    "published": "2026-06-24T07:53:06.689396+00:00"
+  },
+  "83dc5e89fc2f5a1b7107f3e089dee83e2663855470f0034f0fe7dc71c17adfa6": {
+    "url": "QudsNen/228708",
+    "title": "Anti-Zionist Orthodox Jews Protest Israeli Conscription Policy in New York",
+    "published": "2026-06-24T07:51:24.981340+00:00"
+  },
+  "80eb81cc0bac7d5783ce3563f059013480c8542663ff461e0aba01a7ae33637b": {
+    "url": "https://tass.com/politics/2150721",
+    "title": "One killed, 6 others injured in Ukrainian attacks on Russia\u2019s Belgorod Region in past day",
+    "published": "2026-06-24T06:34:56+00:00"
+  },
+  "a6f4bce4800293fb8ceb9382264c7471271363b498460feb1ecd4ca7a7709a59": {
+    "url": "https://tass.com/emergencies/2150697",
+    "title": "One person killed, one more injured in Belgorod Region during attack by Ukrainian army",
+    "published": "2026-06-24T04:17:55+00:00"
+  },
   "5b1d9662ca9a463cd53511f73f90f93a8b98c0b6f7c023ca9cc756143967b78b": {
     "url": "boris_rozhin/215620",
     "title": "Drone Strike Hits Ukrainian Truck on Kharkiv Bridge",
@@ -223,6 +263,11 @@
     "url": "thecradlemedia/62533",
     "title": "Iran, US Agree on Framework for Future Talks",
     "published": "2026-06-23T07:57:04.130148+00:00"
+  },
+  "b74c56b14e92aa5c81e292166be619d9bd1922577ecba63632d9d66008d38d03": {
+    "url": "https://en.mehrnews.com/news/245555/Oman-reports-constructive-talks-with-Iran-on-Hormuz-Strait",
+    "title": "Oman reports constructive talks with Iran on Hormuz Strait",
+    "published": "2026-06-23T07:55:32+00:00"
   },
   "d7dc3f82907c32ee81014e338afade985b5baaf76d2bcc5a28b887a4127b9d01": {
     "url": "https://tass.com/society/2150057",
@@ -703,50 +748,5 @@
     "url": "thecradlemedia/62432",
     "title": "Iran Prioritizes Lebanon as Talks Begin in Switzerland",
     "published": "2026-06-21T09:59:09.576904+00:00"
-  },
-  "df5a45801935584c8a37547a748e09baf7b9f7bb5f2cfb2fc63bc474a22431c1": {
-    "url": "thecradlemedia/62434",
-    "title": "Iran Reiterates Nuclear Enrichment Stance Ahead of Talks with US",
-    "published": "2026-06-21T09:59:08.229807+00:00"
-  },
-  "abca1ed95743963b51acb4fe6c9a61e5d1a84d60972448984755169003b1612f": {
-    "url": "https://en.mehrnews.com/news/245475/What-are-Iran-s-solutions-for-responding-to-US",
-    "title": "What are Iran's solutions for responding to US?",
-    "published": "2026-06-21T06:57:52+00:00"
-  },
-  "60650045535f5cdf82f279444bde9ec5b780aeef5bb2d58daa4d3066c16bd382": {
-    "url": "https://tass.com/defense/2149435",
-    "title": "Russian forces strike Ukraine\u2019s key energy sites in Kiev, Sumy, Chernigov regions, DPR",
-    "published": "2026-06-21T06:55:43+00:00"
-  },
-  "2dcb5dbbc4b56b855b360dce231fba007869628a4c14739d096f2dd4727359cd": {
-    "url": "https://en.irna.ir/news/86188519/Al-Jazeera-cameraman-killed-in-Israeli-airstrike",
-    "title": "Al Jazeera cameraman killed in Israeli airstrike",
-    "published": "2026-06-21T05:53:23+00:00"
-  },
-  "d0d1ed940efcd27af16c1eb690e09bfca3844ae6f7de5709bb3869d38dd1e825": {
-    "url": "mod_russia_en/27673",
-    "title": "Russian Airstrike Targets Enemy UAV Depot in Kharkov",
-    "published": "2026-06-21T04:50:29.493858+00:00"
-  },
-  "b7fdd439142b46adf5f7f758a451222726a2c8b049e66f36ed762b889730f15a": {
-    "url": "Slavyangrad/167148",
-    "title": "Russian Su-34M Bomber Targets Ukrainian UAV Depot in Kharkov",
-    "published": "2026-06-21T04:49:22.951152+00:00"
-  },
-  "1be3577a31e0d2323600508f0951ae002581580286af2a5888655819ca48bc5c": {
-    "url": "Slavyangrad/167150",
-    "title": "French Politician Warns of Escalating Conflict in Ukraine",
-    "published": "2026-06-21T04:48:15.777682+00:00"
-  },
-  "af93417c3ce22a19d6248fc02e13c4afbc41c84dba201bab59f07837f747449b": {
-    "url": "DDGeopolitics/187167",
-    "title": "Ukraine Under Missile Attack: Multiple Explosions Hit Poltava, Dnepropetrovsk, and Kharkov Regions",
-    "published": "2026-06-21T04:45:38.352261+00:00"
-  },
-  "8f5d1fbcfe980b87145f1f93ba7a2ecfe8d742af4a85680b3927b07f9de7fa0f": {
-    "url": "QudsNen/228313",
-    "title": "Gaza Strip Child Uses Make-Shift Prosthetic Due to Israeli Blockade-Induced Shortages",
-    "published": "2026-06-21T04:45:00.659843+00:00"
   }
 }

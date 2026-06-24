@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4151,
+  "total_calls": 4155,
   "tiers": {
-    "groq": 4132,
+    "groq": 4136,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T14:11:16.450499+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T14:11:48.963692+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-20T14:12:35.170591+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-20T14:12:51.259790+00:00",
-      "tier": "groq",
-      "article": "Swiss expert says US-Iran agreement is win for Tehran"
-    },
     {
       "timestamp": "2026-06-20T17:40:47.799995+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T03:57:45.941765+00:00",
       "tier": "groq",
       "article": "Israeli aggressive acts root cause of regional insecurity"
+    },
+    {
+      "timestamp": "2026-06-24T07:46:50.823038+00:00",
+      "tier": "groq",
+      "article": "One killed, 6 others injured in Ukrainian attacks on Russia\u2019s Belgorod Region in past day"
+    },
+    {
+      "timestamp": "2026-06-24T07:47:24.449174+00:00",
+      "tier": "groq",
+      "article": "One person killed, one more injured in Belgorod Region during attack by Ukrainian army"
+    },
+    {
+      "timestamp": "2026-06-24T07:47:42.723054+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T07:48:18.814018+00:00",
+      "tier": "groq",
+      "article": "Oman reports constructive talks with Iran on Hormuz Strait"
     }
   ]
 }
