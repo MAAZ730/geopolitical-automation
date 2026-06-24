@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4171,
+  "total_calls": 4175,
   "tiers": {
-    "groq": 4152,
+    "groq": 4156,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-21T04:43:50.440610+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-21T04:44:06.743431+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-21T04:44:30.741633+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-21T04:44:46.958689+00:00",
-      "tier": "groq",
-      "article": "Russia hails Poland stripping Zelensky of state honor over \u2018Nazi glorification\u2019 controversy"
-    },
     {
       "timestamp": "2026-06-21T09:57:54.595480+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T19:59:30.740370+00:00",
       "tier": "groq",
       "article": "Tensions on Ukraine-Belarus border are escalating \u2014 CSTO Council's chairman"
+    },
+    {
+      "timestamp": "2026-06-24T21:39:31.522818+00:00",
+      "tier": "groq",
+      "article": "At least three killed in drone strikes in Russian controlled Horlivka"
+    },
+    {
+      "timestamp": "2026-06-24T21:40:04.508589+00:00",
+      "tier": "groq",
+      "article": "Trump says school in Iran\u2019s Minab was not attacked by US forces"
+    },
+    {
+      "timestamp": "2026-06-24T21:40:51.589445+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T21:41:42.330828+00:00",
+      "tier": "groq",
+      "article": "Escalation on Ukrainian-Belarusian border and Armenia's choice: CSTO statements"
     }
   ]
 }

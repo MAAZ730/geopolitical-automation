@@ -1,4 +1,44 @@
 {
+  "2dadd7adbcad8d448aa19769b4efecbb892dc10e734c59fd6c62b271561b46f4": {
+    "url": "Slavyangrad/167446",
+    "title": "Russian Drones Strike US-Backed Air Defense System in Ukraine",
+    "published": "2026-06-24T21:46:16.131848+00:00"
+  },
+  "9c7b7ed7b70ab71c9737138cf4648df4dbcfea757673cd71bc5d4f4749bef681": {
+    "url": "Slavyangrad/167463",
+    "title": "Russian Airstrikes Intensify Near Slavyansk",
+    "published": "2026-06-24T21:45:00.480994+00:00"
+  },
+  "b87ba1c5d03195028258e6d9b4b32805fce4c9eaf90ec4f9831be529a00e0e56": {
+    "url": "presstv/195487",
+    "title": "NATO Chief Reveals Italy's Secret Role in US-Iran Operation",
+    "published": "2026-06-24T21:43:57.137895+00:00"
+  },
+  "c1f989a1bbec212a0be3645719c9c1e2ce0c5885516fbe84559f0f1e1e5f608b": {
+    "url": "QudsNen/228802",
+    "title": "Israeli Drone Strike Kills Two in Kfarreman, Lebanon",
+    "published": "2026-06-24T21:42:16.206932+00:00"
+  },
+  "a03a7173b43a63fffe33fbd96cc3c5a3ec53ed511a2e0201933bf1187673e0d8": {
+    "url": "thecradlemedia/62697",
+    "title": "US and Iran Agree to Ceasefire Amid Fears of War Escalation",
+    "published": "2026-06-24T21:41:55.557802+00:00"
+  },
+  "f599048b3d5ab5f9dae1a5b1bcf33a9c7c115583c6a43890d547f519b25f8f3f": {
+    "url": "thecradlemedia/62699",
+    "title": "Israeli Drone Downed in Southern Lebanon",
+    "published": "2026-06-24T21:41:48.242574+00:00"
+  },
+  "d4ea6e617340c3eff17e07b0a8b0d25d0ebee5409d83336c4853b54e3f2cce98": {
+    "url": "https://tass.com/world/2151207",
+    "title": "Trump says school in Iran\u2019s Minab was not attacked by US forces",
+    "published": "2026-06-24T21:27:00+00:00"
+  },
+  "d92f2caddd989c684856353e07eae55e1bf7563d23f1eadfd83a4ecd7c5ddfad": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/at-least-three-killed-in-drone-strikes-in-russian-controlled-horlivka?traffic_source=rss",
+    "title": "At least three killed in drone strikes in Russian controlled Horlivka",
+    "published": "2026-06-24T20:07:54+00:00"
+  },
   "92a34638f582e6ebd87076fb21b6a9ac57704e4ddaba4abebbb80de5fb855c0a": {
     "url": "Slavyangrad/167460",
     "title": "Germany's Scholz Accuses Putin of Rejection in Ukraine Peace Talks",
@@ -98,6 +138,11 @@
     "url": "thecradlemedia/62681",
     "title": "Italy Rejects Claims of Military Support for US-Israeli War on Iran",
     "published": "2026-06-24T14:41:57.528324+00:00"
+  },
+  "32bda2e47ebe755a867d173f491e7d93e8af9f816a94fd7ab847d5497048791f": {
+    "url": "https://tass.com/politics/2150987",
+    "title": "Escalation on Ukrainian-Belarusian border and Armenia's choice: CSTO statements",
+    "published": "2026-06-24T12:52:51+00:00"
   },
   "e5ff3c2b7bb77afe5e4653582936573d3c0041a4d28927343952b6f5274d222d": {
     "url": "https://tass.com/world/2150929",
@@ -703,50 +748,5 @@
     "url": "Middle_East_Spectator/33842",
     "title": "Syrian President Ahmad Al-Sharaa Discusses Hezbollah Conflict with Trump",
     "published": "2026-06-21T23:19:48.901196+00:00"
-  },
-  "02baee917383122f0b8019b706eaeeb9b6d3aaaed4669e0f6e566bf0614c9e07": {
-    "url": "DDGeopolitics/187225",
-    "title": "Ballistic Missile Strike Hits Odessa Region in Ukraine",
-    "published": "2026-06-21T21:25:07.486383+00:00"
-  },
-  "58eca7a2fdc7e97ef3b54b6f9341030b8c8f1548fc9389ab69792440468dd4d9": {
-    "url": "DDGeopolitics/187235",
-    "title": "Explosion Rocks Qatar's Ras Laffan Industrial City",
-    "published": "2026-06-21T21:24:58.073293+00:00"
-  },
-  "5284a2d02135f3ea20412ef536e09d25080f4b27cc1707ab6a3cdfd9dcdb16d6": {
-    "url": "QudsNen/228425",
-    "title": "Israeli Airstrike Targets Palestinians in Khan Younis, Gaza Strip",
-    "published": "2026-06-21T21:24:26.074480+00:00"
-  },
-  "35298cada7a902ed82ab94fa9d633e119e8ab6b84053dd74d21beee9f05bd1e1": {
-    "url": "Middle_East_Spectator/33851",
-    "title": "Explosion Rocks Qatar's Ras Laffan Industrial City",
-    "published": "2026-06-21T21:23:08.252905+00:00"
-  },
-  "9e5ce29ed019e4b837f61ab5e19adad4480e5c9dca65b1dfbf6e80087cd8c0fc": {
-    "url": "Middle_East_Spectator/33852",
-    "title": "Explosion Rocks Qatar's Ras Laffan Industrial City",
-    "published": "2026-06-21T21:23:06.910305+00:00"
-  },
-  "1c0e9621477c7fc902f62caf637c6d5cae3ff265cdaab9ca37b060cdee1938f2": {
-    "url": "Middle_East_Spectator/33854",
-    "title": "Explosion Rocks Qatar Amid Ongoing Tensions",
-    "published": "2026-06-21T21:23:05.559214+00:00"
-  },
-  "ed8abb0432bbe8a85430747c834718c50514414892b0e85effd235e6a1180db3": {
-    "url": "QudsNen/228426",
-    "title": "Gaza Infant's Life Hangs in Balance Amid Israeli Blockade and Medical Crisis",
-    "published": "2026-06-21T20:02:27.084047+00:00"
-  },
-  "77ddaac896626c54dac1bdd452dd171bda58a0251457ad17b8549424c9443273": {
-    "url": "QudsNen/228427",
-    "title": "Israeli Minister Ben-Gvir Advocates for Lebanon-Wide Military Action",
-    "published": "2026-06-21T19:59:37.134211+00:00"
-  },
-  "159fa4715ca2990d2b5fdc5656aecaa9a8c87c533c96a3cb41c43760e5f28575": {
-    "url": "thecradlemedia/62449",
-    "title": "Israeli Drone Strike Kills Al Jazeera Cameraman in Gaza",
-    "published": "2026-06-21T19:58:16.766400+00:00"
   }
 }
