@@ -1,4 +1,39 @@
 {
+  "f7b99c6832df27a5f48f217939ebaa1479e9895eaf0122dd7cbab7a1ef88c177": {
+    "url": "BellumActaNews/174514",
+    "title": "US Forces Kill Senior ISIS Leader in Northwestern Syria Airstrike",
+    "published": "2026-06-24T18:07:47.793180+00:00"
+  },
+  "afae47b0767c1bbe0407e50e4bd19abce420c2b8d532f809fdf58fdf5f1ccb14": {
+    "url": "DDGeopolitics/187379",
+    "title": "Russian Aerial Bombardment Continues in Odessa, Ukraine",
+    "published": "2026-06-24T18:07:33.449078+00:00"
+  },
+  "142ac5f4c7407d2556a07966b65837b864d4a7fec5c0aa5c4f40042c22ef5048": {
+    "url": "DDGeopolitics/187380",
+    "title": "Medvedev Criticizes Western States' Interpretation of UN Charter",
+    "published": "2026-06-24T18:06:11.896974+00:00"
+  },
+  "06c7c660d7c1d649f7ddd671f3eb46a0605322ce2e2117773b57727ae15670c0": {
+    "url": "DDGeopolitics/187381",
+    "title": "Ukrainian Air Defense Crew Positions Near Civilians on Odessa Beach Amid Russian Drone Campaign",
+    "published": "2026-06-24T18:03:40.429101+00:00"
+  },
+  "e1337078f1de33e60f292cb0cecbf1bdf63c3e0a009667f2e479222592e0f438": {
+    "url": "thecradlemedia/62702",
+    "title": "Israeli Drone Strike Kills One in Kfar Rumman, Lebanon",
+    "published": "2026-06-24T18:02:06.046339+00:00"
+  },
+  "d069a4d3ff1a29564cf25be60dd67f9f8e5ef95a0658032eacf1e60544adc649": {
+    "url": "thecradlemedia/62704",
+    "title": "US Approves $700M Jet Engine Export to Turkiye Amid NATO Tensions",
+    "published": "2026-06-24T18:02:04.616791+00:00"
+  },
+  "1f9ec374ed138bf7dabfb0ec7e0d8af21188732559df4ade18ac4c55d37089e0": {
+    "url": "https://www.defensenews.com/news/your-military/2026/06/24/airstrike-killed-senior-isis-commander-in-syria-centcom-says/",
+    "title": "Airstrike killed senior ISIS commander in Syria, CENTCOM says",
+    "published": "2026-06-24T16:09:06+00:00"
+  },
   "572a165e4c19b33c43622bdf6d95090ef720af1320f5107b6f6f74546cb278e3": {
     "url": "DDGeopolitics/187374",
     "title": "Ukraine-Russia Conflict: Zaporozhye Truck Depot Strike",
@@ -68,6 +103,11 @@
     "url": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
     "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos ",
     "published": "2026-06-24T10:28:27+00:00"
+  },
+  "66175a7c2a1adb3625dfcd7586d9b82e9476a7a684906b15dd321b1b0258b7a0": {
+    "url": "https://tass.com/politics/2150765",
+    "title": "Ukraine\u2019s, collective West actions may exhaust all patience \u2014 politician",
+    "published": "2026-06-24T08:00:43+00:00"
   },
   "c16f18e434a94888b0ec8844b3fb857e21b6420718712c7e9fd89ab5eb0586af": {
     "url": "intelslava/89329",
@@ -708,45 +748,5 @@
     "url": "intelslava/89270",
     "title": "Russia Deploys S8000 Banderol Cruise Missile in Poltava Oblast",
     "published": "2026-06-21T17:57:05.344219+00:00"
-  },
-  "0907afa944aa0c5472a02eeb665589622b6174c5b08e05f77851ad117506fbc7": {
-    "url": "thecradlemedia/62452",
-    "title": "Palestinian Detainee Dies After Being Found Unconscious in Israeli Custody",
-    "published": "2026-06-21T17:50:39.228286+00:00"
-  },
-  "2d349039160473c4a2bfbf01b10b8a86ae6383f6ec24d78f634d6ed66c52fe47": {
-    "url": "thecradlemedia/62462",
-    "title": "Israelis Unhappy with Trump's Iran War Negotiation",
-    "published": "2026-06-21T17:47:36.494907+00:00"
-  },
-  "1671d8b21ea1cc160046e6bb1df71672d79dcae56dc38225c3593a359d59b13c": {
-    "url": "https://tass.com/politics/2149555",
-    "title": "Russian Geran drones wipes out Ukrainian fuel depot in Dnepropetrovsk Region",
-    "published": "2026-06-21T16:31:58+00:00"
-  },
-  "9b7c5c725d846ff44e89e9ef98c61802d1cea92ad4a78ce4773c2a801165a42e": {
-    "url": "DDGeopolitics/187197",
-    "title": "Russian Airstrike Targets Ukrainian Military in Shchurovo",
-    "published": "2026-06-21T16:07:58.227021+00:00"
-  },
-  "aede847c5bb3ce8a60b985d6f63d42b3039573cca9f681d14b587911e456094a": {
-    "url": "DDGeopolitics/187198",
-    "title": "Russia Strikes Ukrainian Drone Command Posts in Kharkov Region",
-    "published": "2026-06-21T16:07:33.048139+00:00"
-  },
-  "199b49fb2418813590140818d138864c87042c497765c414e3e91681e6279b56": {
-    "url": "QudsNen/228395",
-    "title": "Palestinian Girl Killed in Israeli Drone Strike in Gaza Strip",
-    "published": "2026-06-21T16:04:50.888499+00:00"
-  },
-  "f23e2eb51a2c574397ae55d2b206b94262923c7ba26d506d107e886eb9eaade1": {
-    "url": "Middle_East_Spectator/33820",
-    "title": "Israel Sets Conditions for Lebanon Deal with US-Iran",
-    "published": "2026-06-21T16:03:25.987948+00:00"
-  },
-  "235c46ad3613983db7fb50c4bacc33086d9614adde778ca6c40bf8f87b91c595": {
-    "url": "thecradlemedia/62457",
-    "title": "Israel Sets Conditions for Lebanon Withdrawal Amid Ongoing Tensions",
-    "published": "2026-06-21T16:00:11.894850+00:00"
   }
 }

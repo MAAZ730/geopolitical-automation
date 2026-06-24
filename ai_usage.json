@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4163,
+  "total_calls": 4167,
   "tiers": {
-    "groq": 4144,
+    "groq": 4148,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-20T21:22:10.640158+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-20T21:22:43.522941+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-20T21:23:30.027140+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-20T21:23:46.837048+00:00",
-      "tier": "groq",
-      "article": "EU summit outlines no timeframes regarding Moldova accession talks"
-    },
     {
       "timestamp": "2026-06-20T23:15:09.553956+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T14:41:51.468722+00:00",
       "tier": "groq",
       "article": "Israel has no choice but to pull out from entire Lebanon"
+    },
+    {
+      "timestamp": "2026-06-24T18:00:49.842730+00:00",
+      "tier": "groq",
+      "article": "Airstrike killed senior ISIS commander in Syria, CENTCOM says"
+    },
+    {
+      "timestamp": "2026-06-24T18:01:25.392699+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T18:01:41.719998+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-24T18:01:57.910526+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s, collective West actions may exhaust all patience \u2014 politician"
     }
   ]
 }
