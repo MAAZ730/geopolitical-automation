@@ -1,4 +1,34 @@
 {
+  "e12e13d8289b069a88d28ae12edf21ed9f0052078a9dda3a9f410068d2ed2b9b": {
+    "url": "mod_russia_en/27765",
+    "title": "Russian Drone Strike Hits Ukrainian Power Substation in Kazanka",
+    "published": "2026-06-24T23:17:16.601216+00:00"
+  },
+  "52f41e04745270891d3f6a3a399bcf3937458049722868b0a337d54a515c315f": {
+    "url": "Slavyangrad/167469",
+    "title": "Dobropolye Bridge Strike: Ukrainian Serviceman Hit",
+    "published": "2026-06-24T23:16:39.524562+00:00"
+  },
+  "6dc9573ef95684502a163ab35dd587bd8715d11af66d0042e707d0713a30bf29": {
+    "url": "presstv/195490",
+    "title": "US President Trump Deflects Blame for Mianab School Drone Attack",
+    "published": "2026-06-24T23:15:19.848907+00:00"
+  },
+  "0166575638d9e3684ede7f24b4a577033b4c2b5b5c820ee5f3df5b3dd9ce8c0e": {
+    "url": "QudsNen/228809",
+    "title": "Israeli Naval Fire Hits Refugee Tents in Khan Younis",
+    "published": "2026-06-24T23:12:56.077298+00:00"
+  },
+  "0878b6bc50971cb5d2959b227aa7f3d9813b90fd69ad4a64d5115402742a3655": {
+    "url": "QudsNen/228810",
+    "title": "Israel Withholds $11 Billion in Palestinian Funds, PA Seeks International Intervention",
+    "published": "2026-06-24T23:10:53.391390+00:00"
+  },
+  "61ad6d17bb88e208065ca77a4c8d56febe48e7598a6715062ce6ee1d26db1648": {
+    "url": "thecradlemedia/62695",
+    "title": "Switzerland Seeks Second Air Defense System Amid Security Concerns",
+    "published": "2026-06-24T23:10:48.810278+00:00"
+  },
   "2dadd7adbcad8d448aa19769b4efecbb892dc10e734c59fd6c62b271561b46f4": {
     "url": "Slavyangrad/167446",
     "title": "Russian Drones Strike US-Backed Air Defense System in Ukraine",
@@ -109,6 +139,11 @@
     "title": "Airstrike killed senior ISIS commander in Syria, CENTCOM says",
     "published": "2026-06-24T16:09:06+00:00"
   },
+  "a88580ee94aca66ba2f9e640744689dbee3c30945d5ac2bea971b82494d0d16a": {
+    "url": "https://tass.com/politics/2151071",
+    "title": "NATO unity not worth much in real war situations \u2014 Medvedev",
+    "published": "2026-06-24T15:04:23+00:00"
+  },
   "572a165e4c19b33c43622bdf6d95090ef720af1320f5107b6f6f74546cb278e3": {
     "url": "DDGeopolitics/187374",
     "title": "Ukraine-Russia Conflict: Zaporozhye Truck Depot Strike",
@@ -138,6 +173,11 @@
     "url": "thecradlemedia/62681",
     "title": "Italy Rejects Claims of Military Support for US-Israeli War on Iran",
     "published": "2026-06-24T14:41:57.528324+00:00"
+  },
+  "40860435f3a794208928082abceb011c1f1e46cbc99903a7359df4350472f1ef": {
+    "url": "https://tass.com/world/2150993",
+    "title": "Iran intends to discuss Gaza during talks with US \u2014 top diplomat",
+    "published": "2026-06-24T13:15:08+00:00"
   },
   "32bda2e47ebe755a867d173f491e7d93e8af9f816a94fd7ab847d5497048791f": {
     "url": "https://tass.com/politics/2150987",
@@ -708,45 +748,5 @@
     "url": "QudsNen/228440",
     "title": "Palestinian Doctor Honoured by Royal College of Physicians of Edinburgh",
     "published": "2026-06-22T04:48:29.402178+00:00"
-  },
-  "f31c1e7ea5f1c016615808c67280ac4c3d9f13f54754239c027d60d361ea8221": {
-    "url": "QudsNen/228444",
-    "title": "Israeli Occupation Releases Palestinian Journalist Anas Hawari from Sebastia",
-    "published": "2026-06-22T04:48:22.370483+00:00"
-  },
-  "52eba31062e14ec455d48c9d89dd05182bf7d885432dd6ff4286e9c7c3bd088e": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/crimea-halts-fuel-sales-after-ukraine-strikes-cause-shortages?traffic_source=rss",
-    "title": "Crimea halts fuel sales after Ukraine strikes cause shortages",
-    "published": "2026-06-22T03:18:49+00:00"
-  },
-  "1ca239cd8d79c1a49eea23c88463fd98f81cb4327cdce3c499eb830e6d494da8": {
-    "url": "Slavyangrad/167214",
-    "title": "UK Tests Long-Range Missiles for Ukrainian Forces",
-    "published": "2026-06-21T23:25:49.375492+00:00"
-  },
-  "3bf61d24b7e91d74abc016b77caec5286284dc210d4bbcbec254ab8d5e4c632a": {
-    "url": "Slavyangrad/167216",
-    "title": "Russian Drone Captures Bridge Destruction in Kupyansk",
-    "published": "2026-06-21T23:25:34.228921+00:00"
-  },
-  "2f5fb9b048ed9ddcb45c81722652e40c897746378899c1e264a8c1fc8d4cf8a3": {
-    "url": "intelslava/89275",
-    "title": "US Senator Warns of Forceful US Control Over Strait of Hormuz if Iran Talks Fail",
-    "published": "2026-06-21T23:23:29.435559+00:00"
-  },
-  "b63bdabb8614eab42b9efa304482128d27480af3125fe445c82134a7cd8af4bd": {
-    "url": "intelslava/89276",
-    "title": "Explosion Rocks Ras Laffan Industrial City in Qatar",
-    "published": "2026-06-21T23:20:32.029565+00:00"
-  },
-  "23a66e7c3af4bfa0c565f3b1cd537255c16682be619e5bdfaffd0926b72ec016": {
-    "url": "Middle_East_Spectator/33837",
-    "title": "Hezbollah's Underground Tunnel Facility Near Israeli Border Uncovered",
-    "published": "2026-06-21T23:19:50.137638+00:00"
-  },
-  "8c94762f99ac9851f732ce04ba5d77e562adf9a309cf235599564309d6a8ba71": {
-    "url": "Middle_East_Spectator/33842",
-    "title": "Syrian President Ahmad Al-Sharaa Discusses Hezbollah Conflict with Trump",
-    "published": "2026-06-21T23:19:48.901196+00:00"
   }
 }

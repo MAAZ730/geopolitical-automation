@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4175,
+  "total_calls": 4179,
   "tiers": {
-    "groq": 4156,
+    "groq": 4160,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-21T09:57:54.595480+00:00",
-      "tier": "groq",
-      "article": "Three Palestinians killed in Israeli airstrike in central Gaza"
-    },
-    {
-      "timestamp": "2026-06-21T09:58:26.631374+00:00",
-      "tier": "groq",
-      "article": "Al Jazeera cameraman killed in Israeli airstrike"
-    },
-    {
-      "timestamp": "2026-06-21T09:58:45.097245+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-21T09:59:01.503296+00:00",
-      "tier": "groq",
-      "article": "Su-34 hit Ukrainian points of drone deployment and control in DPR"
-    },
     {
       "timestamp": "2026-06-21T12:14:54.477026+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T21:41:42.330828+00:00",
       "tier": "groq",
       "article": "Escalation on Ukrainian-Belarusian border and Armenia's choice: CSTO statements"
+    },
+    {
+      "timestamp": "2026-06-24T23:09:47.190742+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-24T23:10:03.446530+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-24T23:10:19.614277+00:00",
+      "tier": "groq",
+      "article": "NATO unity not worth much in real war situations \u2014 Medvedev"
+    },
+    {
+      "timestamp": "2026-06-24T23:10:38.012176+00:00",
+      "tier": "groq",
+      "article": "Iran intends to discuss Gaza during talks with US \u2014 top diplomat"
     }
   ]
 }
