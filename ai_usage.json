@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4187,
+  "total_calls": 4191,
   "tiers": {
-    "groq": 4168,
+    "groq": 4172,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-21T17:43:30.063731+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-21T17:43:46.687525+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-21T17:44:09.366942+00:00",
-      "tier": "groq",
-      "article": "Trump warns Iran of new strikes over situation in Lebanon"
-    },
-    {
-      "timestamp": "2026-06-21T17:44:28.872683+00:00",
-      "tier": "groq",
-      "article": "Three Indian crude oil tankers clear Strait of Hormuz \u2014 shipping minister"
-    },
     {
       "timestamp": "2026-06-21T19:50:34.721149+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-25T07:51:14.910206+00:00",
       "tier": "groq",
       "article": "Board of Peace to meet in Cyprus from June 30 to July 1 \u2014 portal"
+    },
+    {
+      "timestamp": "2026-06-25T10:48:37.736294+00:00",
+      "tier": "groq",
+      "article": "The U.S. Navy\u2019s Subsea Rare Earth Vulnerability"
+    },
+    {
+      "timestamp": "2026-06-25T10:49:20.835408+00:00",
+      "tier": "groq",
+      "article": "Overnight drone attacks on Russia cause casualties in Crimea, spark fire at oil depot"
+    },
+    {
+      "timestamp": "2026-06-25T10:49:38.427055+00:00",
+      "tier": "groq",
+      "article": "At least 164 dead and 971 injured in updated toll of Venzuela powerful quakes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-25T10:49:54.256200+00:00",
+      "tier": "groq",
+      "article": "Iranian, Saudi FMs discuss peace talks progress"
     }
   ]
 }
