@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4179,
+  "total_calls": 4183,
   "tiers": {
-    "groq": 4160,
+    "groq": 4164,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-21T12:14:54.477026+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes hit oil facilities in Crimea, Russia\u2019s Krasnodar"
-    },
-    {
-      "timestamp": "2026-06-21T12:15:30.263056+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-21T12:16:17.032276+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-21T12:16:33.591289+00:00",
-      "tier": "groq",
-      "article": "Iran presents investment-ready projects to Azerbaijan"
-    },
     {
       "timestamp": "2026-06-21T15:58:19.497463+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-24T23:10:38.012176+00:00",
       "tier": "groq",
       "article": "Iran intends to discuss Gaza during talks with US \u2014 top diplomat"
+    },
+    {
+      "timestamp": "2026-06-25T03:54:14.836240+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-25T03:54:48.047380+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-25T03:55:04.312712+00:00",
+      "tier": "groq",
+      "article": "UN chief\u2019s report overlooks near-daily Ukrainian attacks on Russian children \u2014 mission"
+    },
+    {
+      "timestamp": "2026-06-25T03:55:22.925884+00:00",
+      "tier": "groq",
+      "article": "An Israeli soldier was lightly wounded in an explosion that occurred in southern Lebanon last night, and investigations have been still ongoing underway to determine the circumstances of the incident: Yedioth Ahronoth - Al-Manar TV Lebanon"
     }
   ]
 }
