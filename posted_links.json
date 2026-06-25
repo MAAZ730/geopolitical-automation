@@ -1,4 +1,34 @@
 {
+  "785094e11ebf0dead99b098efd6075a82e8c4a2ad74a4e224515e11ee25c343d": {
+    "url": "BellumActaNews/174559",
+    "title": "Hotel Edwards Collapse Claims Entire Family",
+    "published": "2026-06-25T07:57:22.508573+00:00"
+  },
+  "170bec73234b583f3f6513f33aa12eb3cba176ac697f98fe0ee345f58bfb048a": {
+    "url": "DDGeopolitics/187433",
+    "title": "Trump Claims U.S. Past Military Successes",
+    "published": "2026-06-25T07:54:46.641270+00:00"
+  },
+  "e95385bfb76e15c69965a41c250ba8d64c7a60a52967b818b5c24671d1478616": {
+    "url": "QudsNen/228821",
+    "title": "Israeli Forces Detain Palestinian Child in West Bank Raid",
+    "published": "2026-06-25T07:53:00.388967+00:00"
+  },
+  "490d19168f8ee33fd5e2864cd908d0cea1407e82446cce6d3ac6ad0fa95221c1": {
+    "url": "QudsNen/228824",
+    "title": "Israeli Forces Detain Palestinian Child in West Bank Raid",
+    "published": "2026-06-25T07:52:01.893699+00:00"
+  },
+  "2fb23fb1eecb774918fd3195c78acf7e56e233f209ec1863545822e71ef7c14d": {
+    "url": "QudsNen/228828",
+    "title": "Israeli Airstrike on Ibn Sina School in Gaza",
+    "published": "2026-06-25T07:51:24.128726+00:00"
+  },
+  "6624dc3be59a1486360a64a898cc1021ea88a8397f103581067844bcda2431c6": {
+    "url": "QudsNen/228830",
+    "title": "Gaza's Anemia Crisis Worsens Amid Rising Miscarriage Rates",
+    "published": "2026-06-25T07:51:23.102156+00:00"
+  },
   "554f05b82dc0af93d86eec307ac88a2d838dd986fef448588e0dc8d7e2abd55a": {
     "url": "intelslava/89343",
     "title": "Russian Airstrike Destroys Bridge in Eastern Ukraine",
@@ -208,6 +238,11 @@
     "url": "thecradlemedia/62681",
     "title": "Italy Rejects Claims of Military Support for US-Israeli War on Iran",
     "published": "2026-06-24T14:41:57.528324+00:00"
+  },
+  "69587e91e39ee64c76eeea945654031ae472979a9284bd0a759e9412ffb3869c": {
+    "url": "https://tass.com/world/2151041",
+    "title": "Board of Peace to meet in Cyprus from June 30 to July 1 \u2014 portal",
+    "published": "2026-06-24T14:29:10+00:00"
   },
   "c51ea75d45fd3b27d9d29b6108c823ba8c4c8b5a961b285fa2922b16dc3e7177": {
     "url": "https://english.almanar.com.lb/article/96442/",
@@ -713,40 +748,5 @@
     "url": "https://tass.com/world/2149851",
     "title": "Qatari premier says US, Iran determined to reach agreement",
     "published": "2026-06-22T12:29:43+00:00"
-  },
-  "e1a5c2ef38658f070a16efff92cb19a9ce56361e95d9171773881c63cfef3d28": {
-    "url": "https://www.tehrantimes.com/news/527575/Environmental-protection-should-safeguard-rights-of-future-generations",
-    "title": "\u2018Environmental protection should safeguard rights of future generations\u2019",
-    "published": "2026-06-22T12:27:08+00:00"
-  },
-  "a4cff1549f228834be2a61b73654d8ee86de9e8af694a951b82475995205d128": {
-    "url": "BellumActaNews/174467",
-    "title": "Car Bomb Defused in Ankawa, Iraq",
-    "published": "2026-06-22T12:19:18.037320+00:00"
-  },
-  "337b75a364fb58bf001ece9b5f21cbebf81534c413b8a07fc5b86bba00b9a4b2": {
-    "url": "thecradlemedia/62493",
-    "title": "Iran Sees Progress in Lebanon but Warns of Ongoing Tensions",
-    "published": "2026-06-22T12:18:43.501037+00:00"
-  },
-  "4fd286a3f20e62c4f917f726576f3aaf0fcefdc928d35da80052b3f43ccbfcf7": {
-    "url": "thecradlemedia/62496",
-    "title": "Israeli Airstrike Kills Palestinians in Gaza City's Al-Rimal Neighborhood",
-    "published": "2026-06-22T12:18:41.922078+00:00"
-  },
-  "c9ac80710777ba8a7cccd94ae40e0042154cf3a128fbd05214a025e2b4ba50d6": {
-    "url": "thecradlemedia/62498",
-    "title": "US Vice President Vance Discusses Iran-US Ceasefire Framework in Switzerland",
-    "published": "2026-06-22T12:18:11.983423+00:00"
-  },
-  "570af168e5199d41b7cb52517bc2eae3bddfc4b6feec7836c27b86c2413b4254": {
-    "url": "thecradlemedia/62502",
-    "title": "Hezbollah Targets Israeli Command Center Near Beaufort Castle in Lebanon",
-    "published": "2026-06-22T12:16:31.926725+00:00"
-  },
-  "a121fefb60f1328df42b502ccc84e45cea99d665091877c84fdd97723fb857af": {
-    "url": "thecradlemedia/62503",
-    "title": "Germany Rejects Israeli Plans for Permanent Military Presence in Lebanon",
-    "published": "2026-06-22T12:14:38.369073+00:00"
   }
 }

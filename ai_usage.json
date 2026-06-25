@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4183,
+  "total_calls": 4187,
   "tiers": {
-    "groq": 4164,
+    "groq": 4168,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-21T15:58:19.497463+00:00",
-      "tier": "groq",
-      "article": "Al-Jazeera demands punishment for Israeli officials following latest assassination of cameraman"
-    },
-    {
-      "timestamp": "2026-06-21T15:58:51.830930+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-21T15:59:38.104302+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-21T15:59:54.261445+00:00",
-      "tier": "groq",
-      "article": "IRGC Navy official: Strength remains the only real guarantee against adversaries"
-    },
     {
       "timestamp": "2026-06-21T17:43:30.063731+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-25T03:55:22.925884+00:00",
       "tier": "groq",
       "article": "An Israeli soldier was lightly wounded in an explosion that occurred in southern Lebanon last night, and investigations have been still ongoing underway to determine the circumstances of the incident: Yedioth Ahronoth - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-25T07:50:25.894384+00:00",
+      "tier": "groq",
+      "article": "Drone attacks near Baghdad airport raise security concerns"
+    },
+    {
+      "timestamp": "2026-06-25T07:50:42.368201+00:00",
+      "tier": "groq",
+      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
+    },
+    {
+      "timestamp": "2026-06-25T07:50:58.767562+00:00",
+      "tier": "groq",
+      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
+    },
+    {
+      "timestamp": "2026-06-25T07:51:14.910206+00:00",
+      "tier": "groq",
+      "article": "Board of Peace to meet in Cyprus from June 30 to July 1 \u2014 portal"
     }
   ]
 }
