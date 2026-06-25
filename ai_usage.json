@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4199,
+  "total_calls": 4203,
   "tiers": {
-    "groq": 4180,
+    "groq": 4184,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-21T23:18:44.095903+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-21T23:19:00.436753+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-21T23:19:24.572675+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike Ukraine\u2019s key energy sites in Kiev, Sumy, Chernigov regions, DPR"
-    },
-    {
-      "timestamp": "2026-06-21T23:19:43.241837+00:00",
-      "tier": "groq",
-      "article": "Ukrainian army loses 3 Starlink terminals, 42 fixed-wing drones in battlegroup\u2019s East area"
-    },
     {
       "timestamp": "2026-06-22T04:46:44.391408+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-25T18:17:08.490180+00:00",
       "tier": "groq",
       "article": "Peru\u2019s most polarizing dynasty is back at the gates of power"
+    },
+    {
+      "timestamp": "2026-06-25T21:47:05.427045+00:00",
+      "tier": "groq",
+      "article": "Video| Hezbollah\u2019s High-quality Missiles Strike Israeli Enemy\u2019s Soldiers and Vehicles in South Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-25T21:47:45.056546+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s top strike-drone maker moves into ballistic missile defense"
+    },
+    {
+      "timestamp": "2026-06-25T21:48:01.454091+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s newest strike weapon drifts into Russia on the wind"
+    },
+    {
+      "timestamp": "2026-06-25T21:48:17.619933+00:00",
+      "tier": "groq",
+      "article": "Trump says he is disappointed with most NATO members over Iran"
     }
   ]
 }
