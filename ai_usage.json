@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4203,
+  "total_calls": 4207,
   "tiers": {
-    "groq": 4184,
+    "groq": 4188,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-22T04:46:44.391408+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-22T04:47:17.736707+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-22T04:47:33.855558+00:00",
-      "tier": "groq",
-      "article": "Crimea halts fuel sales after Ukraine strikes cause shortages"
-    },
-    {
-      "timestamp": "2026-06-22T04:48:16.040544+00:00",
-      "tier": "groq",
-      "article": "What are Iran's solutions for responding to US?"
-    },
     {
       "timestamp": "2026-06-22T12:13:22.560830+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-25T21:48:17.619933+00:00",
       "tier": "groq",
       "article": "Trump says he is disappointed with most NATO members over Iran"
+    },
+    {
+      "timestamp": "2026-06-25T23:23:58.012926+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent: An airstrike by hostile Israeli warplanes targeted the town of Beit Yahoun in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-25T23:24:36.159343+00:00",
+      "tier": "groq",
+      "article": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked"
+    },
+    {
+      "timestamp": "2026-06-25T23:25:21.196521+00:00",
+      "tier": "groq",
+      "article": "Israel strikes southern Lebanon again, breaching ceasefire"
+    },
+    {
+      "timestamp": "2026-06-25T23:25:37.959839+00:00",
+      "tier": "groq",
+      "article": "Trump meets munitions makers amid push to replenish weapons stockpiles"
     }
   ]
 }
