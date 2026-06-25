@@ -1,4 +1,34 @@
 {
+  "1485445d4e7b28b4dc109e7599776388d9556db983473a1156f5529ef14a10f8": {
+    "url": "BellumActaNews/174569",
+    "title": "IRGCN Blocks Commercial Shipping in Strait of Hormuz",
+    "published": "2026-06-25T18:23:08.374078+00:00"
+  },
+  "3057463ee29dfea06e63f4d717de9367c997b60f9137288e976db82b9e08b309": {
+    "url": "DDGeopolitics/187456",
+    "title": "IRGC Navy Asserts Control Over Strait of Hormuz Transit",
+    "published": "2026-06-25T18:20:59.189975+00:00"
+  },
+  "89316b18ee27753a2f9cdf0582bc5d372167b5bf1633d6ba17865b4c223e9cf6": {
+    "url": "DDGeopolitics/187465",
+    "title": "Russia's Campaign of Fuel Infrastructure Destruction in Ukraine",
+    "published": "2026-06-25T18:19:08.134730+00:00"
+  },
+  "88585c188b1d0b7b9d35c9410154b242788cd02b37f22b012ef5a7709b5e303a": {
+    "url": "QudsNen/228895",
+    "title": "Israeli Forces Fire Tear Gas at Palestinian Protesters in Deir Ammar",
+    "published": "2026-06-25T18:18:09.363250+00:00"
+  },
+  "a2f5dc2a8ea27231c0196cb0fdc7d566b043e23f7ac4130d50f53c1a4547aca7": {
+    "url": "thecradlemedia/62762",
+    "title": "Israeli Minister Vows Indefinite Military Presence in Lebanon, Syria, and Gaza",
+    "published": "2026-06-25T18:17:18.781366+00:00"
+  },
+  "c93ca1c3f0595487cbe7268bc59effc60d8de81c85f57fc1fbb08a6a242cd39f": {
+    "url": "thecradlemedia/62770",
+    "title": "Israel Establishes Military Presence in Somaliland Amid Yemeni Warnings",
+    "published": "2026-06-25T18:17:17.591769+00:00"
+  },
   "3550dd9bee78d17f7f9454d1db62ab70a07d780a2fa61a0ab3e3505cc5630312": {
     "url": "DDGeopolitics/187460",
     "title": "Trump-Putin Summit Fails to Yield Ukraine Peace Deal",
@@ -39,6 +69,11 @@
     "title": "Two people martyred, one injured as Israeli drone strikes area between Maifadoun and Zawtar Al-Sharqiya in southern Lebanon: Al-Manar reporter - Al-Manar TV Lebanon",
     "published": "2026-06-25T13:06:29+00:00"
   },
+  "08c18bdea7bae509f91ae53a2ba6fe1eabb7278231c899b13738316e367ca02e": {
+    "url": "https://sana.sy/en/international/2325485/",
+    "title": "Gaza death toll rises to 73,043, Palestinian health authorities say",
+    "published": "2026-06-25T12:33:40+00:00"
+  },
   "aa84774b811b3a02306d365687d61cb72bf26ae3fca0c37710ee5c41e704559f": {
     "url": "Slavyangrad/167479",
     "title": "Ukrainian Serviceman Hit in Bridge Strike near Dobropolye",
@@ -73,6 +108,16 @@
     "url": "https://english.almanar.com.lb/article/96757/",
     "title": "At least 164 dead and 971 injured in updated toll of Venzuela powerful quakes - Al-Manar TV Lebanon",
     "published": "2026-06-25T10:30:52+00:00"
+  },
+  "1fedec3be98843bbcffa2a1dde667b3c03dc2319ba1bed00b29efd173ee51c77": {
+    "url": "https://en.irna.ir/news/86192507/Iran-condemns-attack-on-Minab-schoolchildren-calls-for-justice",
+    "title": "Iran condemns attack on Minab schoolchildren, calls for justice and accountability",
+    "published": "2026-06-25T09:12:07+00:00"
+  },
+  "a2682749e0df490ccad33671b7e074f66bfd729f198f7f8637368ac7130f05b0": {
+    "url": "https://en.irna.ir/news/86192483/Iran-demands-accountability-after-NATO-chief-admits-alliance-s",
+    "title": "Iran demands accountability after NATO chief admits alliance\u2019s support for US strikes",
+    "published": "2026-06-25T08:53:50+00:00"
   },
   "4eeebb36a50f90446361b0e6fd403e28118ae9adebb8f29dbb8955cc24b40476": {
     "url": "https://warontherocks.com/cogs-of-war/the-u-s-navys-subsea-rare-earth-vulnerability/",
@@ -248,6 +293,11 @@
     "url": "thecradlemedia/62706",
     "title": "US-Backed Committee Accused of Enabling Israel to Evade Gaza Deal",
     "published": "2026-06-24T19:59:36.988843+00:00"
+  },
+  "c3664ac6a44363b90cbe8bcb0b52ecc031a71783700338cb968fe5e3feec787b": {
+    "url": "https://www.rt.com/news/642055-notorious-strongmans-daughter-peru/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Peru\u2019s most polarizing dynasty is back at the gates of power",
+    "published": "2026-06-24T19:22:43+00:00"
   },
   "9f1566fc6b658d78d38123550ee5bb9a4402a0e021261ac3a3e6300945338db3": {
     "url": "https://tass.com/politics/2151181",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/245547/Lebanon-war-toll-passes-4-175-dead",
     "title": "Lebanon war toll passes 4,175 dead",
     "published": "2026-06-23T05:42:31+00:00"
-  },
-  "c5a20e6302d46c1bd898fe1ea8438a90147fdf29050ec82c8cd24f0839870762": {
-    "url": "https://en.mehrnews.com/news/245546/Israeli-aggressive-acts-root-cause-of-regional-insecurity",
-    "title": "Israeli aggressive acts root cause of regional insecurity",
-    "published": "2026-06-23T04:52:27+00:00"
-  },
-  "914f9a23996b3986da70012152e22fd12bf3da508d2f9de703626004f90742a1": {
-    "url": "presstv/195201",
-    "title": "Storm Forces Evacuation at France-Iraq Soccer Match in Philadelphia",
-    "published": "2026-06-23T04:03:32.032670+00:00"
-  },
-  "d1ae19228140394d4cc058ce7f5812d7fbe710a477db1369dc280bddb131812e": {
-    "url": "DDGeopolitics/187297",
-    "title": "Polish President's Award Decision Sparks Controversy Among Ukrainian Refugees",
-    "published": "2026-06-23T04:02:01.686179+00:00"
-  },
-  "c1061cfd63589dcd6fecb158200d0e689b71bd63e84cc113bbfa78e16297ae1d": {
-    "url": "DDGeopolitics/187303",
-    "title": "Montreal Police Officer Killed in Line of Duty",
-    "published": "2026-06-23T04:00:27.471194+00:00"
-  },
-  "617538352888436ad986f67ac6c04d8229285ecb5a6863f5bc81336e3a5bc6d9": {
-    "url": "DDGeopolitics/187309",
-    "title": "Ukrainian Forces Target Starlink Terminal, UGV in Russian-Occupied Areas",
-    "published": "2026-06-23T03:57:32.421713+00:00"
-  },
-  "19f323ea57a5f413ccc9be47e58d14ca1a3477e17cc08875f57147df7d9c6fd0": {
-    "url": "thecradlemedia/62524",
-    "title": "Qatar Pushes for Gulf-Iran Security Talks Amid Regional Tensions",
-    "published": "2026-06-23T03:56:57.795529+00:00"
-  },
-  "1e063f94643b2b363d81551e4e1feb71be07926324330c70f1d703a7a71d9780": {
-    "url": "thecradlemedia/62525",
-    "title": "Lebanon Establishes Five-Nation Deconfliction Mechanism Excluding Israel",
-    "published": "2026-06-23T03:56:47.787133+00:00"
-  },
-  "38b8b13fceb389d9e41317514436bfe4c5fa3ada7ad3ef757813feb8e6b93f30": {
-    "url": "https://www.rt.com/news/641987-lebanon-israel-playground-minister/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Israel should treat Lebanon as its \u2018playground\u2019 \u2013 security minister",
-    "published": "2026-06-22T23:37:31+00:00"
-  },
-  "5303748fa071a2c8506100be88a2bf558f77d992a1886582c0cea02f6cbc559a": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/22/video-shows-deadly-shooting-in-montreal-canada?traffic_source=rss",
-    "title": "Video shows deadly shooting in Montreal, Canada",
-    "published": "2026-06-22T23:00:13+00:00"
-  },
-  "3f51dd45fdac3548b86ff10805f733565709dc8602591801f188ec7d37edbfeb": {
-    "url": "Slavyangrad/167290",
-    "title": "Polish Politician Disputes Zelensky on UPA Conflict",
-    "published": "2026-06-22T22:16:06.252403+00:00"
   }
 }
