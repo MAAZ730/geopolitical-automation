@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4231,
+  "total_calls": 4235,
   "tiers": {
-    "groq": 4212,
+    "groq": 4216,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-23T14:58:34.390234+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-23T14:59:07.627843+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-23T14:59:55.907352+00:00",
-      "tier": "groq",
-      "article": "Double attack on security officers thwarted in Russia\u2019s Pyatigorsk \u2014 FSB"
-    },
-    {
-      "timestamp": "2026-06-23T15:00:18.565806+00:00",
-      "tier": "groq",
-      "article": "Kyiv\u2019s drone leverage moved the US. Moscow could be next, a top Ukrainian official says."
-    },
     {
       "timestamp": "2026-06-23T18:03:06.886755+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T19:57:47.797862+00:00",
       "tier": "groq",
       "article": "Europe's bloody hands revealed"
+    },
+    {
+      "timestamp": "2026-06-26T21:24:58.777541+00:00",
+      "tier": "groq",
+      "article": "US strikes Iran after attack on commercial ship"
+    },
+    {
+      "timestamp": "2026-06-26T21:25:36.870346+00:00",
+      "tier": "groq",
+      "article": "US conducts strikes on Iran after attack on cargo ship"
+    },
+    {
+      "timestamp": "2026-06-26T21:25:52.972071+00:00",
+      "tier": "groq",
+      "article": "Russia hits Ukrainian warehouse, gas station, temporary duty station"
+    },
+    {
+      "timestamp": "2026-06-26T21:26:32.975516+00:00",
+      "tier": "groq",
+      "article": "Efforts intensified in Venezuela as quake death toll hits 235"
     }
   ]
 }
