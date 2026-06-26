@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4223,
+  "total_calls": 4227,
   "tiers": {
-    "groq": 4204,
+    "groq": 4208,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-23T07:55:51.030047+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-23T07:56:24.438914+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-23T07:56:40.613515+00:00",
-      "tier": "groq",
-      "article": "Why Israel\u2019s pressure campaign is no longer deterring Iran today"
-    },
-    {
-      "timestamp": "2026-06-23T07:56:58.981803+00:00",
-      "tier": "groq",
-      "article": "Qatari premier says US, Iran determined to reach agreement"
-    },
     {
       "timestamp": "2026-06-23T11:23:50.023567+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T14:33:12.708458+00:00",
       "tier": "groq",
       "article": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production"
+    },
+    {
+      "timestamp": "2026-06-26T17:54:23.401861+00:00",
+      "tier": "groq",
+      "article": "Amnesty: Four Months after Horrific Minab School Airstrike by USA,\u00a0Accountability Delayed\u00a0 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-26T17:55:05.618871+00:00",
+      "tier": "groq",
+      "article": "Iran urges UN to hold US, Israel accountable for deadly strike on Minab school"
+    },
+    {
+      "timestamp": "2026-06-26T17:55:25.061935+00:00",
+      "tier": "groq",
+      "article": "The blood of Minab: America\u2019s war on Iran and the world\u2019s silence"
+    },
+    {
+      "timestamp": "2026-06-26T17:57:02.356448+00:00",
+      "tier": "groq",
+      "article": "Houthi congratulates Iran's victory over US, Zionist regime"
     }
   ]
 }
