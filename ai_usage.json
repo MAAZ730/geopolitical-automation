@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4235,
+  "total_calls": 4239,
   "tiers": {
-    "groq": 4216,
+    "groq": 4220,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-23T18:03:06.886755+00:00",
-      "tier": "groq",
-      "article": "Missile strike kills three in Ukraine as Russia feels war\u2019s economic strain"
-    },
-    {
-      "timestamp": "2026-06-23T18:03:43.143567+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-23T18:04:29.270040+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-23T18:04:45.596835+00:00",
-      "tier": "groq",
-      "article": "Deadly heatwave in Europe triggers red alerts"
-    },
     {
       "timestamp": "2026-06-23T20:23:13.917161+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T21:26:32.975516+00:00",
       "tier": "groq",
       "article": "Efforts intensified in Venezuela as quake death toll hits 235"
+    },
+    {
+      "timestamp": "2026-06-26T23:12:15.994350+00:00",
+      "tier": "groq",
+      "article": "US strikes Iranian missile, drone, radar sites"
+    },
+    {
+      "timestamp": "2026-06-26T23:12:32.071737+00:00",
+      "tier": "groq",
+      "article": "US servicemen confirm strikes on Iran"
+    },
+    {
+      "timestamp": "2026-06-26T23:12:57.111092+00:00",
+      "tier": "groq",
+      "article": "US ready to discuss disagreements with Iran, but to respond to violence \u2014 JD Vance"
+    },
+    {
+      "timestamp": "2026-06-26T23:13:16.706092+00:00",
+      "tier": "groq",
+      "article": "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory"
     }
   ]
 }
