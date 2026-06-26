@@ -1,4 +1,44 @@
 {
+  "be55a8e3e004001aca4c79797c553b81975166b6114765eaedd7264f8766e01f": {
+    "url": "QudsNen/228952",
+    "title": "Israeli Forces Detain Palestinian in East Jerusalem",
+    "published": "2026-06-26T14:41:19.734899+00:00"
+  },
+  "dd20c54c7503b6f137829aee386301782628017bb5f89a041b61d49d65eaf952": {
+    "url": "QudsNen/228964",
+    "title": "Israeli Forces Clash with Palestinian Bus Driver in East Jerusalem",
+    "published": "2026-06-26T14:39:42.217304+00:00"
+  },
+  "f0004ec21c46ca57eaf47030d4a1f5437d6a38749ead4fd4490be299b4f2d879": {
+    "url": "thecradlemedia/62822",
+    "title": "Israeli Military Claims Hezbollah Fighters Killed in Southern Lebanon",
+    "published": "2026-06-26T14:37:07.862310+00:00"
+  },
+  "e980cc81dd66eacacac60a48b1d8491d67c0b10379a7988e63ef6bb0121803a4": {
+    "url": "thecradlemedia/62825",
+    "title": "Turkish Contractors Set to Dominate Ukraine's Post-War Reconstruction",
+    "published": "2026-06-26T14:35:59.571302+00:00"
+  },
+  "5659018c34b4bbb61ae0fddabacba532a28369e657770654f120cbf4feab5882": {
+    "url": "thecradlemedia/62827",
+    "title": "Gaza Mourns Qassam Commander Walid Haniyeh",
+    "published": "2026-06-26T14:35:57.465290+00:00"
+  },
+  "c4493440484d8cd4374813a551fd9ae650f93bc899383edbc752364c94026daa": {
+    "url": "thecradlemedia/62830",
+    "title": "Oman Issues Emergency Maritime Protocols for Strait of Hormuz",
+    "published": "2026-06-26T14:33:15.947618+00:00"
+  },
+  "743ab446d977e517954f32a814a7b5545f4fdaaa9123d7c1e246b760caa85afc": {
+    "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
+    "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know",
+    "published": "2026-06-26T14:04:34+00:00"
+  },
+  "9deb11ef4fc684cef7061901bc6827d7c2cda34bbf2d0df2a8f6703a70019a37": {
+    "url": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
+    "title": "Aid groups urge swift action to avert \u2018atrocities\u2019 in Sudan\u2019s el-Obeid",
+    "published": "2026-06-26T13:32:14+00:00"
+  },
   "0b074e5b72e819e66e18860d0c251030b691800dbd36462fcb376a9ae6d24a9f": {
     "url": "BellumActaNews/174585",
     "title": "Sudan's RSF Launches Operation to Retake El-Obeid from Military Regime Forces",
@@ -38,6 +78,11 @@
     "url": "https://en.mehrnews.com/news/245619/Iran-vows-never-to-forget-or-forgive-Leader-s-assassination",
     "title": "Iran vows never to forget or forgive Leader\u2019s assassination",
     "published": "2026-06-26T09:50:29+00:00"
+  },
+  "0276e2bc223a09af0827ab63d5c22189316aefa61f5c598c3f04146d5a273532": {
+    "url": "https://tass.com/emergencies/2151893",
+    "title": "One civilian killed as munition detonates in Russia\u2019s Belgorod Region",
+    "published": "2026-06-26T09:40:01+00:00"
   },
   "111a7a90f8548e5e57d318cae0dd3674caceeca0ea8c5ca54b3326e3fe09fa54": {
     "url": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss",
@@ -248,6 +293,11 @@
     "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/house-backs-155-billion-to-revive-e-7-wedgetail-spares-navy-hawkeye/",
     "title": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye",
     "published": "2026-06-25T16:50:55+00:00"
+  },
+  "bd2a4615cbcfdb3e7cd19e801e76016a552e87c6c0afe66ebe386c40d0ebf9df": {
+    "url": "https://www.defensenews.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
+    "title": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production",
+    "published": "2026-06-25T15:42:16+00:00"
   },
   "3550dd9bee78d17f7f9454d1db62ab70a07d780a2fa61a0ab3e3505cc5630312": {
     "url": "DDGeopolitics/187460",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/62648",
     "title": "US-Iran Talks Amid Gaza Violence",
     "published": "2026-06-24T10:56:03.251661+00:00"
-  },
-  "5badcbee18b1e1784efd8c738c4de8dd81c31e2e819bc97e079e4eb35354bb30": {
-    "url": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
-    "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos ",
-    "published": "2026-06-24T10:28:27+00:00"
-  },
-  "66175a7c2a1adb3625dfcd7586d9b82e9476a7a684906b15dd321b1b0258b7a0": {
-    "url": "https://tass.com/politics/2150765",
-    "title": "Ukraine\u2019s, collective West actions may exhaust all patience \u2014 politician",
-    "published": "2026-06-24T08:00:43+00:00"
-  },
-  "c16f18e434a94888b0ec8844b3fb857e21b6420718712c7e9fd89ab5eb0586af": {
-    "url": "intelslava/89329",
-    "title": "Kharkiv Region Bridge Hit by FPV Drone Strike",
-    "published": "2026-06-24T07:57:09.632802+00:00"
-  },
-  "f49f7b37bef6563d0dcccc7f35dd5bb30a296367fc7e1fd8f892fb8939d32d02": {
-    "url": "DDGeopolitics/187358",
-    "title": "Drone Campaign Overwhelms Russian Air Defenses in Sevastopol",
-    "published": "2026-06-24T07:56:11.127142+00:00"
-  },
-  "b4bde2b9c3c7c00a9ed18808d9dbd69da6ceeb1669215233ec34d87c3e24f035": {
-    "url": "QudsNen/228696",
-    "title": "UN Accuses Israel of Genocide and War Crimes in Gaza and West Bank",
-    "published": "2026-06-24T07:56:08.738025+00:00"
-  },
-  "28c72ca5ffc0f9a5ead4841c4d109e51de6f23c56ba88c10bb05c7d7a3764b04": {
-    "url": "QudsNen/228704",
-    "title": "Israeli Settlers' Incursion Sparks Tensions in Taybeh",
-    "published": "2026-06-24T07:56:07.423408+00:00"
-  },
-  "fcccefcd6e430d2528b918d4d35709dca376e74a5293eb778288d57393d816e0": {
-    "url": "QudsNen/228707",
-    "title": "Israeli Settlers Assault Palestinian Shepherd in West Bank",
-    "published": "2026-06-24T07:53:06.689396+00:00"
-  },
-  "83dc5e89fc2f5a1b7107f3e089dee83e2663855470f0034f0fe7dc71c17adfa6": {
-    "url": "QudsNen/228708",
-    "title": "Anti-Zionist Orthodox Jews Protest Israeli Conscription Policy in New York",
-    "published": "2026-06-24T07:51:24.981340+00:00"
-  },
-  "80eb81cc0bac7d5783ce3563f059013480c8542663ff461e0aba01a7ae33637b": {
-    "url": "https://tass.com/politics/2150721",
-    "title": "One killed, 6 others injured in Ukrainian attacks on Russia\u2019s Belgorod Region in past day",
-    "published": "2026-06-24T06:34:56+00:00"
-  },
-  "a6f4bce4800293fb8ceb9382264c7471271363b498460feb1ecd4ca7a7709a59": {
-    "url": "https://tass.com/emergencies/2150697",
-    "title": "One person killed, one more injured in Belgorod Region during attack by Ukrainian army",
-    "published": "2026-06-24T04:17:55+00:00"
   }
 }

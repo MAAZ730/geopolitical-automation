@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4219,
+  "total_calls": 4223,
   "tiers": {
-    "groq": 4200,
+    "groq": 4204,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-23T03:55:05.199244+00:00",
-      "tier": "groq",
-      "article": "Video shows deadly shooting in Montreal, Canada"
-    },
-    {
-      "timestamp": "2026-06-23T03:55:37.460341+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-23T03:56:23.712080+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-23T03:56:40.076985+00:00",
-      "tier": "groq",
-      "article": "\u2018Environmental protection should safeguard rights of future generations\u2019"
-    },
     {
       "timestamp": "2026-06-23T07:55:51.030047+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T11:16:41.468966+00:00",
       "tier": "groq",
       "article": "US and Iran clash over Hormuz transit fees"
+    },
+    {
+      "timestamp": "2026-06-26T14:31:55.013114+00:00",
+      "tier": "groq",
+      "article": "Aid groups urge swift action to avert \u2018atrocities\u2019 in Sudan\u2019s el-Obeid"
+    },
+    {
+      "timestamp": "2026-06-26T14:32:38.484125+00:00",
+      "tier": "groq",
+      "article": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know"
+    },
+    {
+      "timestamp": "2026-06-26T14:32:54.442430+00:00",
+      "tier": "groq",
+      "article": "One civilian killed as munition detonates in Russia\u2019s Belgorod Region"
+    },
+    {
+      "timestamp": "2026-06-26T14:33:12.708458+00:00",
+      "tier": "groq",
+      "article": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production"
     }
   ]
 }
