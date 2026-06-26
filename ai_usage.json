@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4215,
+  "total_calls": 4219,
   "tiers": {
-    "groq": 4196,
+    "groq": 4200,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-22T22:08:53.314654+00:00",
-      "tier": "groq",
-      "article": "Five civilians die, dozens injured after Ukraine\u2019s missile attack on Voronezh \u2014 governor"
-    },
-    {
-      "timestamp": "2026-06-22T22:09:25.916021+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-22T22:09:42.172727+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-22T22:09:58.498284+00:00",
-      "tier": "groq",
-      "article": "Iran reports \u2018progress\u2019 on Lebanon, frozen assets after Switzerland talks"
-    },
     {
       "timestamp": "2026-06-23T03:55:05.199244+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T08:05:53.255519+00:00",
       "tier": "groq",
       "article": "Yemen warns it will not &#039;stand idly by&#039; as Israel establishes military presence in Somaliland"
+    },
+    {
+      "timestamp": "2026-06-26T11:14:56.402735+00:00",
+      "tier": "groq",
+      "article": "North Korea conducts major weapons tests; South training \u2018drone warriors\u2019"
+    },
+    {
+      "timestamp": "2026-06-26T11:15:33.647314+00:00",
+      "tier": "groq",
+      "article": "Iran vows never to forget or forgive Leader\u2019s assassination"
+    },
+    {
+      "timestamp": "2026-06-26T11:16:22.878983+00:00",
+      "tier": "groq",
+      "article": "Europe 'getting a taste' for producing UAVs for Ukrainian strikes against Russia \u2014 expert"
+    },
+    {
+      "timestamp": "2026-06-26T11:16:41.468966+00:00",
+      "tier": "groq",
+      "article": "US and Iran clash over Hormuz transit fees"
     }
   ]
 }

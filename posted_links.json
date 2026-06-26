@@ -1,4 +1,49 @@
 {
+  "0b074e5b72e819e66e18860d0c251030b691800dbd36462fcb376a9ae6d24a9f": {
+    "url": "BellumActaNews/174585",
+    "title": "Sudan's RSF Launches Operation to Retake El-Obeid from Military Regime Forces",
+    "published": "2026-06-26T11:23:03.150088+00:00"
+  },
+  "d051695e1da2924e9411528a4c08e74aed089a67f27df5bed8f80039b5da1026": {
+    "url": "BellumActaNews/174586",
+    "title": "Russia Airstrikes Hit Drone Control Points in Eastern Ukraine",
+    "published": "2026-06-26T11:21:21.439809+00:00"
+  },
+  "d2c4157a6be867cd4bf1550c38e38e0907465e191b135bb5551011e41acd499a": {
+    "url": "thecradlemedia/62795",
+    "title": "Israeli Forces Conduct Sweep Operation in Southern Lebanon",
+    "published": "2026-06-26T11:20:18.121141+00:00"
+  },
+  "901f8c7f1555c60de3de24f1bd5cbb0ccb48eb3ca0779c8ff8e7be0b527c1ccb": {
+    "url": "thecradlemedia/62806",
+    "title": "IAEA Chief Calls for Strong Verification in Iran Amid Nuclear Concerns",
+    "published": "2026-06-26T11:19:28.213382+00:00"
+  },
+  "6c8c8160727024a660073cdd43227d6ebac50e6db934943edf44566e9b0cf3c3": {
+    "url": "thecradlemedia/62807",
+    "title": "Archbishop of Canterbury Praises Palestinian Resilience Amid Occupation",
+    "published": "2026-06-26T11:19:27.063365+00:00"
+  },
+  "921235b338c783dbd53eda5bd29f7d4f46ef3dc3b7978853e5289fc87bfbaca0": {
+    "url": "thecradlemedia/62808",
+    "title": "US Film Sparks Controversy with Anti-Islamic Propaganda",
+    "published": "2026-06-26T11:19:24.685550+00:00"
+  },
+  "5b2f3d666d1df956c613b207ddc1cd8d2fb36c7b207c6110404d48141b5c726a": {
+    "url": "https://tass.com/economy/2151915",
+    "title": "Europe 'getting a taste' for producing UAVs for Ukrainian strikes against Russia \u2014 expert",
+    "published": "2026-06-26T09:50:45+00:00"
+  },
+  "92b779062c415ff358b5f8c1d1d80ae4a871ad62d2fac2f424f1f9d45224295b": {
+    "url": "https://en.mehrnews.com/news/245619/Iran-vows-never-to-forget-or-forgive-Leader-s-assassination",
+    "title": "Iran vows never to forget or forgive Leader\u2019s assassination",
+    "published": "2026-06-26T09:50:29+00:00"
+  },
+  "111a7a90f8548e5e57d318cae0dd3674caceeca0ea8c5ca54b3326e3fe09fa54": {
+    "url": "https://www.aljazeera.com/news/2026/6/26/north-korea-conducts-major-weapons-tests-south-training-drone-warriors?traffic_source=rss",
+    "title": "North Korea conducts major weapons tests; South training \u2018drone warriors\u2019",
+    "published": "2026-06-26T08:16:33+00:00"
+  },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
     "title": "Iran Fires Missiles at Israeli Territory",
@@ -253,6 +298,11 @@
     "url": "https://sana.sy/en/international/2325485/",
     "title": "Gaza death toll rises to 73,043, Palestinian health authorities say",
     "published": "2026-06-25T12:33:40+00:00"
+  },
+  "6ee3b21715250df84186e709945de39f5f31d618b0a238ca2d539b6c2cc5cb4c": {
+    "url": "https://www.rt.com/news/642124-iran-us-hormuz-dispute/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US and Iran clash over Hormuz transit fees",
+    "published": "2026-06-25T11:39:40+00:00"
   },
   "aa84774b811b3a02306d365687d61cb72bf26ae3fca0c37710ee5c41e704559f": {
     "url": "Slavyangrad/167479",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/emergencies/2150697",
     "title": "One person killed, one more injured in Belgorod Region during attack by Ukrainian army",
     "published": "2026-06-24T04:17:55+00:00"
-  },
-  "5b1d9662ca9a463cd53511f73f90f93a8b98c0b6f7c023ca9cc756143967b78b": {
-    "url": "boris_rozhin/215620",
-    "title": "Drone Strike Hits Ukrainian Truck on Kharkiv Bridge",
-    "published": "2026-06-24T04:03:41.107892+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Lebanon Excluded from Iran-US Ceasefire Deal Amid Escalating Israeli Strikes",
-    "published": "2026-06-24T04:02:43.095404+00:00"
-  },
-  "6a1bfa272c9c835fc48d5eb2333e09532458005465937c19210cbdc8994c2f94": {
-    "url": "QudsNen/228695",
-    "title": "Gaza City: Israeli Airstrikes Devastate Displaced Palestinians' Tents in Sheikh Ajleen Neighborhood",
-    "published": "2026-06-24T03:59:54.524786+00:00"
-  },
-  "da3e99337ef17c5b256092bb6d6595bad30c6bb9fc1c0b469d30e06a27445358": {
-    "url": "QudsNen/228698",
-    "title": "Israeli Forces Distribute Warning Leaflets in Jerusalem Suburbs",
-    "published": "2026-06-24T03:59:17.945475+00:00"
-  },
-  "d960a3fcaa1614cd072e95320125c80ef51405363b493da0d9308ec2fd9f98e8": {
-    "url": "QudsNen/228699",
-    "title": "Israeli Settlers Attack Palestinian Families in Sinjil Village",
-    "published": "2026-06-24T03:59:16.702024+00:00"
-  },
-  "8b45b178f4655bad91fee4c940edce978e40296dbdd7f7e01505456f57ddeda2": {
-    "url": "thecradlemedia/62611",
-    "title": "Iran's Football Team Granted Early US Entry Ahead of World Cup Match",
-    "published": "2026-06-24T03:57:53.220058+00:00"
-  },
-  "764ee3417772652eef6d1a88f6691840f5b1d9e1c86a4d4c995aa55091c62eb5": {
-    "url": "intelslava/89328",
-    "title": "Russian Air Defense System Hit in Crimea Drone Strike",
-    "published": "2026-06-23T23:18:02.790769+00:00"
-  },
-  "c917a4dad69c96efcf3603e8f1cd67671d80f97df5719fe801e3339d702c43d1": {
-    "url": "DDGeopolitics/187346",
-    "title": "Bennett Rebuffs Annexation, Advocates for 'New Gaza' and 'New Lebanon'",
-    "published": "2026-06-23T23:17:40.382751+00:00"
-  },
-  "da155eb3bb908263e862b295bc211e0513ec2cb13d6f42021b0608f64248d486": {
-    "url": "QudsNen/228674",
-    "title": "Israeli Forces Advance into Jabalia Refugee Camp in Gaza",
-    "published": "2026-06-23T23:16:15.528066+00:00"
-  },
-  "7ab02a86963e29c12ac6caf1af76c0251b08bf0b73a24968d563ae36e97f9077": {
-    "url": "QudsNen/228687",
-    "title": "Gaza City Refugee Camp Hit in Israeli Airstrike",
-    "published": "2026-06-23T23:15:27.577720+00:00"
   }
 }
