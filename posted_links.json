@@ -1,4 +1,34 @@
 {
+  "3611142805e93907da79a23424f925a9e538c35ef629f7ee322c2d8aae23ef6e": {
+    "url": "mod_russia_en/27809",
+    "title": "Russian Logistics Hub Hit by Ukrainian Drone Strike",
+    "published": "2026-06-26T20:05:11.885183+00:00"
+  },
+  "c323dce860907f07874348a4f5f8462995fa208d94b89e79661d19c2bedc7ffc": {
+    "url": "Slavyangrad/167626",
+    "title": "Ukraine Suspends Commander of Assault Regiment Amid Torture Allegations",
+    "published": "2026-06-26T20:04:11.143048+00:00"
+  },
+  "abd138aac6e70c7393a6e637a753e8a7d48e3bd60dc708a175e4dfaa1cd7f241": {
+    "url": "Slavyangrad/167632",
+    "title": "Russia Launches Overnight Strikes on Ukrainian Military Targets",
+    "published": "2026-06-26T20:01:10.108658+00:00"
+  },
+  "8b8abb92354bd21b5fd5565d8fab14623b908bb7a2504392b7862a6912d143d5": {
+    "url": "DDGeopolitics/187542",
+    "title": "Russia Destroys Trains with Geran Drones in Eastern Ukraine",
+    "published": "2026-06-26T20:00:48.720732+00:00"
+  },
+  "3ef25cafe5a1eacb6743c79f2f652b8acfc083a127d0ef6c1fd986eccf7c8345": {
+    "url": "thecradlemedia/62857",
+    "title": "ICC Sues Trump Over Sanctions Against War Crimes Investigators",
+    "published": "2026-06-26T19:57:54.497868+00:00"
+  },
+  "ba4c6a70a7ffcdda55b9e2879c2a9d1a584a89bf12b61a490973bba4eef3a89f": {
+    "url": "thecradlemedia/62858",
+    "title": "Hezbollah Rejects Washington Agreement, Warns of Civil War",
+    "published": "2026-06-26T19:57:53.464579+00:00"
+  },
   "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
     "url": "CensoredMen/203",
     "title": "Iran-US Ceasefire Deal Excludes Lebanon Amid Escalating Israeli Strikes",
@@ -33,6 +63,16 @@
     "url": "https://www.tehrantimes.com/news/527646/Iran-urges-UN-to-hold-US-Israel-accountable-for-deadly-strike",
     "title": "Iran urges UN to hold US, Israel accountable for deadly strike on Minab school",
     "published": "2026-06-26T17:42:39+00:00"
+  },
+  "e519d60d84032094b37bba199324287074201d6b0fd57974b9973e0d8129f6f3": {
+    "url": "https://www.tehrantimes.com/news/527644/Iran-issues-fresh-warnings-over-Israeli-military-activity-and",
+    "title": "Iran issues fresh warnings over Israeli military activity and presence in Lebanon",
+    "published": "2026-06-26T17:27:05+00:00"
+  },
+  "450b35fee0b5c1eb055c512372c5994f23de5d8cca00e1579e300b4c1854a62e": {
+    "url": "https://www.tehrantimes.com/news/527640/Europe-s-bloody-hands-revealed",
+    "title": "Europe's bloody hands revealed",
+    "published": "2026-06-26T17:07:28+00:00"
   },
   "22789d72674210b69fb2fc6775a85d08325a91a46d1357027b9b27424074226b": {
     "url": "https://english.almanar.com.lb/article/97602/",
@@ -78,6 +118,11 @@
     "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
     "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know",
     "published": "2026-06-26T14:04:34+00:00"
+  },
+  "5e733dd709d97ef2d4c613cf6affe461d9da63bee38f829750e965fd9cc42d43": {
+    "url": "https://en.mehrnews.com/news/245626/How-40-day-war-challenged-US-global-standing",
+    "title": "How Iran war challenged US global standing",
+    "published": "2026-06-26T14:03:39+00:00"
   },
   "9deb11ef4fc684cef7061901bc6827d7c2cda34bbf2d0df2a8f6703a70019a37": {
     "url": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
@@ -173,6 +218,11 @@
     "url": "https://warontherocks.com/misreading-myanmars-war-why-the-juntas-recent-gains-dont-mean-imminent-victory/",
     "title": "Misreading Myanmar\u2019s War: Why the Junta\u2019s Recent Gains Don\u2019t Mean Imminent Victory",
     "published": "2026-06-26T07:30:04+00:00"
+  },
+  "478f6cf6a6579ea23f921f15d4f7acdf05e68f2edefe6b5f5a67d4ccb7cdc691": {
+    "url": "https://www.rt.com/news/642200-iran-denies-us-trash-talk/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran denies unfrozen assets will be spent on US foodstuffs",
+    "published": "2026-06-26T04:38:26+00:00"
   },
   "0b95575e4182e38cf0151ab92711be3ba1874f549a2920a46b2914237bd900f4": {
     "url": "mod_russia_en/27785",
@@ -698,55 +748,5 @@
     "url": "https://www.rt.com/news/642059-brexit-revolt-ten-years/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Brexit was a symptom, and the disease still spreads",
     "published": "2026-06-24T15:33:55+00:00"
-  },
-  "02145bd982c177d61c2963322edd7ddb017b5b8f1cbfc0212ef5b35f8edd7151": {
-    "url": "https://en.mehrnews.com/news/245582/Iran-Saudi-FMs-discuss-peace-talks-progress",
-    "title": "Iranian, Saudi FMs discuss peace talks progress",
-    "published": "2026-06-24T15:18:55+00:00"
-  },
-  "a88580ee94aca66ba2f9e640744689dbee3c30945d5ac2bea971b82494d0d16a": {
-    "url": "https://tass.com/politics/2151071",
-    "title": "NATO unity not worth much in real war situations \u2014 Medvedev",
-    "published": "2026-06-24T15:04:23+00:00"
-  },
-  "572a165e4c19b33c43622bdf6d95090ef720af1320f5107b6f6f74546cb278e3": {
-    "url": "DDGeopolitics/187374",
-    "title": "Ukraine-Russia Conflict: Zaporozhye Truck Depot Strike",
-    "published": "2026-06-24T14:46:35.222209+00:00"
-  },
-  "b562042732ca101b5866c27dbeb302b28378d63a17579c977db7456001b185cd": {
-    "url": "QudsNen/228755",
-    "title": "Israeli Forces Raze Palestinian Lands for Unauthorized Settlement",
-    "published": "2026-06-24T14:44:57.779240+00:00"
-  },
-  "1d7d23c1e744ff43fcf90146ee1386f47bdd4c01ccf49cc188908bdea9d9cc25": {
-    "url": "QudsNen/228756",
-    "title": "Israeli Drone Targets Civilian Vehicle in Southern Lebanon",
-    "published": "2026-06-24T14:43:31.844468+00:00"
-  },
-  "2b2b0137e4500743e4b7d4a84202b89df71bdf8f3e5e4c1ac8be3b1c0580a06e": {
-    "url": "QudsNen/228765",
-    "title": "Israeli Settlers Assault Palestinian Worker in Ramallah",
-    "published": "2026-06-24T14:42:43.591872+00:00"
-  },
-  "35b12513950d4e42da809938e35a3b0e7c1cd440c89822d44590992b5723c41d": {
-    "url": "thecradlemedia/62671",
-    "title": "Israeli Drone Strike Targets Vehicle in Nabatieh District, Lebanon",
-    "published": "2026-06-24T14:42:04.436362+00:00"
-  },
-  "b7c70a36e74182721df6037d080e3cee25d7b890a7f7b6b3ab24b0f27190a9ba": {
-    "url": "thecradlemedia/62681",
-    "title": "Italy Rejects Claims of Military Support for US-Israeli War on Iran",
-    "published": "2026-06-24T14:41:57.528324+00:00"
-  },
-  "69587e91e39ee64c76eeea945654031ae472979a9284bd0a759e9412ffb3869c": {
-    "url": "https://tass.com/world/2151041",
-    "title": "Board of Peace to meet in Cyprus from June 30 to July 1 \u2014 portal",
-    "published": "2026-06-24T14:29:10+00:00"
-  },
-  "c51ea75d45fd3b27d9d29b6108c823ba8c4c8b5a961b285fa2922b16dc3e7177": {
-    "url": "https://english.almanar.com.lb/article/96442/",
-    "title": "An Israeli soldier was lightly wounded in an explosion that occurred in southern Lebanon last night, and investigations have been still ongoing underway to determine the circumstances of the incident: Yedioth Ahronoth - Al-Manar TV Lebanon",
-    "published": "2026-06-24T14:23:43+00:00"
   }
 }

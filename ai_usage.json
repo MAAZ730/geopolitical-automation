@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4227,
+  "total_calls": 4231,
   "tiers": {
-    "groq": 4208,
+    "groq": 4212,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-23T11:23:50.023567+00:00",
-      "tier": "groq",
-      "article": "At least 13 killed and dozens injured after Qatar gas explosion"
-    },
-    {
-      "timestamp": "2026-06-23T11:24:27.350019+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-23T11:24:43.899430+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-23T11:25:26.428227+00:00",
-      "tier": "groq",
-      "article": "Iran emerges as critical transit link between Iraq, Afghanistan, South Asia"
-    },
     {
       "timestamp": "2026-06-23T14:58:34.390234+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T17:57:02.356448+00:00",
       "tier": "groq",
       "article": "Houthi congratulates Iran's victory over US, Zionist regime"
+    },
+    {
+      "timestamp": "2026-06-26T19:54:38.244637+00:00",
+      "tier": "groq",
+      "article": "Iran denies unfrozen assets will be spent on US foodstuffs"
+    },
+    {
+      "timestamp": "2026-06-26T19:55:19.870574+00:00",
+      "tier": "groq",
+      "article": "How Iran war challenged US global standing"
+    },
+    {
+      "timestamp": "2026-06-26T19:56:10.812739+00:00",
+      "tier": "groq",
+      "article": "Iran issues fresh warnings over Israeli military activity and presence in Lebanon"
+    },
+    {
+      "timestamp": "2026-06-26T19:57:47.797862+00:00",
+      "tier": "groq",
+      "article": "Europe's bloody hands revealed"
     }
   ]
 }
