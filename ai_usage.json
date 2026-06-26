@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4207,
+  "total_calls": 4211,
   "tiers": {
-    "groq": 4188,
+    "groq": 4192,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-22T12:13:22.560830+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-22T12:13:55.902060+00:00",
-      "tier": "groq",
-      "article": "West is entering new phase of war against Russia \u2014 senior legislator"
-    },
-    {
-      "timestamp": "2026-06-22T12:14:15.462176+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-22T12:14:31.817850+00:00",
-      "tier": "groq",
-      "article": "Why weird men try to put penises on powerful women"
-    },
     {
       "timestamp": "2026-06-22T18:17:01.121364+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-25T23:25:37.959839+00:00",
       "tier": "groq",
       "article": "Trump meets munitions makers amid push to replenish weapons stockpiles"
+    },
+    {
+      "timestamp": "2026-06-26T04:03:00.345925+00:00",
+      "tier": "groq",
+      "article": "Deadly heatwave sweeps Europe"
+    },
+    {
+      "timestamp": "2026-06-26T04:03:35.897833+00:00",
+      "tier": "groq",
+      "article": "Massive Ukrainian drone attack on Russia\u2019s Tula Region leaves woman injured \u2014 governor"
+    },
+    {
+      "timestamp": "2026-06-26T04:04:29.300905+00:00",
+      "tier": "groq",
+      "article": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye"
+    },
+    {
+      "timestamp": "2026-06-26T04:05:17.533461+00:00",
+      "tier": "groq",
+      "article": "NATO must be held to account for role in aggression on Iran"
     }
   ]
 }
