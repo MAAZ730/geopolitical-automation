@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4211,
+  "total_calls": 4215,
   "tiers": {
-    "groq": 4192,
+    "groq": 4196,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-22T18:17:01.121364+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-22T18:17:17.510421+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-22T18:17:48.972461+00:00",
-      "tier": "groq",
-      "article": "Hajj Ramadan, from Gaza in the midst of the flood to martyrdom in Qom"
-    },
-    {
-      "timestamp": "2026-06-22T18:18:07.011865+00:00",
-      "tier": "groq",
-      "article": "Why Iran ties peacs talks to full ceasefire in Lebanon"
-    },
     {
       "timestamp": "2026-06-22T22:08:53.314654+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T04:05:17.533461+00:00",
       "tier": "groq",
       "article": "NATO must be held to account for role in aggression on Iran"
+    },
+    {
+      "timestamp": "2026-06-26T08:04:03.620277+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Civilian injured, damage reported as air defenses down 660 drones over Russia"
+    },
+    {
+      "timestamp": "2026-06-26T08:04:43.936787+00:00",
+      "tier": "groq",
+      "article": "Poland buys V-BAT drones to boost Baltic Sea naval operations"
+    },
+    {
+      "timestamp": "2026-06-26T08:05:37.384148+00:00",
+      "tier": "groq",
+      "article": "Misreading Myanmar\u2019s War: Why the Junta\u2019s Recent Gains Don\u2019t Mean Imminent Victory"
+    },
+    {
+      "timestamp": "2026-06-26T08:05:53.255519+00:00",
+      "tier": "groq",
+      "article": "Yemen warns it will not &#039;stand idly by&#039; as Israel establishes military presence in Somaliland"
     }
   ]
 }
