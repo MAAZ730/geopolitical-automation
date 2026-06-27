@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4255,
+  "total_calls": 4259,
   "tiers": {
-    "groq": 4236,
+    "groq": 4240,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-24T10:54:17.460610+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-24T10:54:50.879085+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-24T10:55:07.310339+00:00",
-      "tier": "groq",
-      "article": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos "
-    },
-    {
-      "timestamp": "2026-06-24T10:55:53.917291+00:00",
-      "tier": "groq",
-      "article": "Iran and US agree Hormuz hotline to prevent \u2018misunderstandings\u2019"
-    },
     {
       "timestamp": "2026-06-24T14:40:48.824662+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-27T13:50:42.007604+00:00",
       "tier": "groq",
       "article": "Powerful earthquake hits central Japan"
+    },
+    {
+      "timestamp": "2026-06-27T15:21:24.623961+00:00",
+      "tier": "groq",
+      "article": "Iran announces new retaliatory strikes on US targets following latest ceasefire violations"
+    },
+    {
+      "timestamp": "2026-06-27T15:21:41.719820+00:00",
+      "tier": "groq",
+      "article": "US, Iran trade strikes: What to know, will it unravel the MoU?"
+    },
+    {
+      "timestamp": "2026-06-27T15:22:14.292260+00:00",
+      "tier": "groq",
+      "article": "Iran FM denounces US violation of ceasefire, MoU"
+    },
+    {
+      "timestamp": "2026-06-27T15:23:01.452399+00:00",
+      "tier": "groq",
+      "article": "Trump accuses Iran of violating ceasefire with US"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "1d4b880012f120aabc09acf52996ab2129156c6025c3ef16cf6b531897a615f1": {
+    "url": "intelslava/89426",
+    "title": "Russia Destroys Three Ukrainian MiG-29 Fighter Jets in Separate Strikes",
+    "published": "2026-06-27T15:30:49.835381+00:00"
+  },
+  "5a72be04de4e99bb5dff30bb829888653bd6f490b2ab3a9ee33668facc12e782": {
+    "url": "presstv/195862",
+    "title": "Connecticut Court Releases Footage of Fatal Prison Subduing Incident",
+    "published": "2026-06-27T15:28:43.452995+00:00"
+  },
+  "bf3dd11b41a4a9c0a6711696a035f13880ae4866098a3dd88b532582c3504ac8": {
+    "url": "presstv/195873",
+    "title": "Israeli Drone Strike Injures Dozens in Gaza City",
+    "published": "2026-06-27T15:25:42.128070+00:00"
+  },
+  "0029f200fa5aa9c8be95dc07e161034dc430a2912fdfa3f7cf0fa16fc2cbdfc8": {
+    "url": "presstv/195876",
+    "title": "Israeli Drone Strike Injures Dozen in Gaza City",
+    "published": "2026-06-27T15:24:57.334496+00:00"
+  },
+  "740c1ad8ba111357fbf8891a4dcf671d23aea23ba07faa3df9f405833eb5eaba": {
+    "url": "thecradlemedia/62917",
+    "title": "Iran Unleashes Retaliation Against US Targets Amid Ceasefire Tensions",
+    "published": "2026-06-27T15:23:08.816340+00:00"
+  },
+  "2a2ba8dee0eab983355b6e9e3c95fcf29a633885fa59c82578278eee0d757db8": {
+    "url": "thecradlemedia/62918",
+    "title": "US Stocks End Mixed Amid Oil Price Decline",
+    "published": "2026-06-27T15:23:07.640689+00:00"
+  },
   "b2701a618c58f80ba90fde39f6b964a0510c133d24ac3e21064c572a0fa3d2f2": {
     "url": "DDGeopolitics/187615",
     "title": "Ukraine Conflict: Systematic Strikes on Logistics Infrastructure Disrupt Enemy's Supply Chain",
@@ -29,6 +59,11 @@
     "title": "CENTCOM Vows to Protect Commercial Shipping in Strait of Hormuz",
     "published": "2026-06-27T13:50:46.499985+00:00"
   },
+  "5c529ec0f5f9f6d8b1c36f76cd85fcc9f987d1a12ae2ab1751e93bbeaf8ddb8c": {
+    "url": "https://thecradle.co/articles-id/38475",
+    "title": "Iran announces new retaliatory strikes on US targets following latest ceasefire violations",
+    "published": "2026-06-27T13:12:54+00:00"
+  },
   "0723e450d92818fb0183a872fa90ee5fae60a119d6a5a6312bd0cc57977fd4f2": {
     "url": "https://tass.com/emergencies/2152383",
     "title": "Number of people injured in Ukrainian strike on memorial complex near Taganrog up to 12",
@@ -43,6 +78,11 @@
     "url": "https://english.almanar.com.lb/article/97722/",
     "title": "Iran: Brutal US Attacks Blatant Violation of MoU - Al-Manar TV Lebanon",
     "published": "2026-06-27T10:36:35+00:00"
+  },
+  "d0d2b286fc9628ac4cb11c9ada42526551ec9b3f425f9897e5600a29e6eb3170": {
+    "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+    "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+    "published": "2026-06-27T10:32:24+00:00"
   },
   "bc61e4474ddca59179ceac2db6822191e0b937291c97a9ad9a3385c1fae8bdaf": {
     "url": "Slavyangrad/167692",
@@ -78,6 +118,11 @@
     "url": "https://english.almanar.com.lb/article/97697/",
     "title": "US Strike Triggers Iranian Retaliation Targeting American Positions - Al-Manar TV Lebanon",
     "published": "2026-06-27T08:08:22+00:00"
+  },
+  "a84b4df1a99e2d8bdeaa0442472d4cde65d141f4f6d92e2208bdeddcc78d64c9": {
+    "url": "https://en.mehrnews.com/news/245649/Iran-denounces-US-airstrikes-against-southern-coastal-areas",
+    "title": "Iran FM denounces US violation of ceasefire, MoU",
+    "published": "2026-06-27T07:44:55+00:00"
   },
   "2c18f0fcb10e65240527b4455ba0c443576ffe4949f2b2d9d46a79e127b73dc1": {
     "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
@@ -343,6 +388,11 @@
     "url": "https://thecradle.co/articles-id/38469",
     "title": "Trump meets US arms dealers in bid to replenish dwindling Pentagon stocks",
     "published": "2026-06-26T16:43:56+00:00"
+  },
+  "64063ff85b1b447b9a1885ac20f8436d2c9058eca5319b7ea2ddc3787a7d83dc": {
+    "url": "https://tass.com/world/2152153",
+    "title": "Trump accuses Iran of violating ceasefire with US",
+    "published": "2026-06-26T16:31:12+00:00"
   },
   "22789d72674210b69fb2fc6775a85d08325a91a46d1357027b9b27424074226b": {
     "url": "https://english.almanar.com.lb/article/97602/",
@@ -698,55 +748,5 @@
     "url": "https://www.defensenews.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
     "title": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production",
     "published": "2026-06-25T15:42:16+00:00"
-  },
-  "3550dd9bee78d17f7f9454d1db62ab70a07d780a2fa61a0ab3e3505cc5630312": {
-    "url": "DDGeopolitics/187460",
-    "title": "Trump-Putin Summit Fails to Yield Ukraine Peace Deal",
-    "published": "2026-06-25T14:47:38.497206+00:00"
-  },
-  "b138514f0bab3f3c1cf1d8a5a568d4c6a46a4f9e7bf977f569fade5e814ec2eb": {
-    "url": "QudsNen/228874",
-    "title": "Gaza City Drone Strike Targets Residential Building",
-    "published": "2026-06-25T14:46:29.997253+00:00"
-  },
-  "885f882f5cad0c1c7face0649c483e7ae4962e443330bf9d84a8c7b9efa1023d": {
-    "url": "QudsNen/228875",
-    "title": "Israeli Drone Strike Hits Gaza City's Al-Nasr Neighbourhood",
-    "published": "2026-06-25T14:45:31.409947+00:00"
-  },
-  "2968e00c8027ba1b0e0aefe6cb1bf7322b178efa1338ac6113d0e0666420c1f2": {
-    "url": "QudsNen/228876",
-    "title": "Israeli Forces Seize Palestinian Land in West Bank for Settlement Road",
-    "published": "2026-06-25T14:44:20.088632+00:00"
-  },
-  "4775b28a76905f620333fb58243b30a33699c2ea2987a9581d12e50ee7959516": {
-    "url": "thecradlemedia/62756",
-    "title": "Netanyahu Convinces Trump to Maintain Israeli Presence in Southern Lebanon",
-    "published": "2026-06-25T14:41:45.822344+00:00"
-  },
-  "633af209ef3e149bce902d16019afbe8b19a31dc35a3a781f048d0e9e3f5b8c8": {
-    "url": "thecradlemedia/62758",
-    "title": "IRGC Quds Force Chief Warns Israel Amid Hezbollah-Inflicted Casualties",
-    "published": "2026-06-25T14:41:39.400298+00:00"
-  },
-  "61f832b72aeff04fd552fa33b7ad82b64b13cbe8b24f6f152ae7f1a46fa6283f": {
-    "url": "https://en.irna.ir/news/86192708/Israel-strikes-southern-Lebanon-again-breaching-ceasefire",
-    "title": "Israel strikes southern Lebanon again, breaching ceasefire",
-    "published": "2026-06-25T13:41:16+00:00"
-  },
-  "4ab3c2d493f5be434c098aa2ae018da23e55894705764097b249225ab96a42c8": {
-    "url": "https://www.rt.com/news/642129-italy-rejects-rutte-praise/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Italy rejects NATO chief Mark Rutte\u2019s praise over alleged role in US strikes on Iran",
-    "published": "2026-06-25T13:21:48+00:00"
-  },
-  "b8c1a6d84977c9fb247a47164d6cd4d402ee4082a3c1d3b1f7d5700b25a758ad": {
-    "url": "https://english.almanar.com.lb/article/96802/",
-    "title": "Two people martyred, one injured as Israeli drone strikes area between Maifadoun and Zawtar Al-Sharqiya in southern Lebanon: Al-Manar reporter - Al-Manar TV Lebanon",
-    "published": "2026-06-25T13:06:29+00:00"
-  },
-  "08c18bdea7bae509f91ae53a2ba6fe1eabb7278231c899b13738316e367ca02e": {
-    "url": "https://sana.sy/en/international/2325485/",
-    "title": "Gaza death toll rises to 73,043, Palestinian health authorities say",
-    "published": "2026-06-25T12:33:40+00:00"
   }
 }
