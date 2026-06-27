@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4263,
+  "total_calls": 4267,
   "tiers": {
-    "groq": 4244,
+    "groq": 4248,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-24T18:00:49.842730+00:00",
-      "tier": "groq",
-      "article": "Airstrike killed senior ISIS commander in Syria, CENTCOM says"
-    },
-    {
-      "timestamp": "2026-06-24T18:01:25.392699+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-24T18:01:41.719998+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-24T18:01:57.910526+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s, collective West actions may exhaust all patience \u2014 politician"
-    },
     {
       "timestamp": "2026-06-24T19:58:42.503730+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-27T17:19:06.801627+00:00",
       "tier": "groq",
       "article": "Russian forces thwart Kiev\u2019s counterattack near Krasny Liman \u2014 military expert"
+    },
+    {
+      "timestamp": "2026-06-27T19:28:08.939770+00:00",
+      "tier": "groq",
+      "article": "US bombs MoU"
+    },
+    {
+      "timestamp": "2026-06-27T19:28:51.893934+00:00",
+      "tier": "groq",
+      "article": "Kenya rights groups say protesters found dumped, tortured after arrests"
+    },
+    {
+      "timestamp": "2026-06-27T19:29:37.935051+00:00",
+      "tier": "groq",
+      "article": "Iran refutes reports of direct line of communication with US on Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-06-27T19:29:56.344235+00:00",
+      "tier": "groq",
+      "article": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran"
     }
   ]
 }
