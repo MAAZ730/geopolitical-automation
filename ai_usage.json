@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4271,
+  "total_calls": 4275,
   "tiers": {
-    "groq": 4252,
+    "groq": 4256,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-24T21:39:31.522818+00:00",
-      "tier": "groq",
-      "article": "At least three killed in drone strikes in Russian controlled Horlivka"
-    },
-    {
-      "timestamp": "2026-06-24T21:40:04.508589+00:00",
-      "tier": "groq",
-      "article": "Trump says school in Iran\u2019s Minab was not attacked by US forces"
-    },
-    {
-      "timestamp": "2026-06-24T21:40:51.589445+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-24T21:41:42.330828+00:00",
-      "tier": "groq",
-      "article": "Escalation on Ukrainian-Belarusian border and Armenia's choice: CSTO statements"
-    },
     {
       "timestamp": "2026-06-24T23:09:47.190742+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-27T21:12:18.150930+00:00",
       "tier": "groq",
       "article": "Netanyahu praises agreement on Lebanon as 'blow to Iran,' vows not to withdraw troops"
+    },
+    {
+      "timestamp": "2026-06-27T23:08:25.808957+00:00",
+      "tier": "groq",
+      "article": "Israel strikes southern Lebanon as Hezbollah condemns new deal "
+    },
+    {
+      "timestamp": "2026-06-27T23:09:03.393560+00:00",
+      "tier": "groq",
+      "article": "CENTCOM confirms new strikes on military sites in Iran"
+    },
+    {
+      "timestamp": "2026-06-27T23:09:49.488586+00:00",
+      "tier": "groq",
+      "article": "US attacks targets in Iran in response to attack on a tanker \u2014 Axios journalist"
+    },
+    {
+      "timestamp": "2026-06-27T23:10:37.526527+00:00",
+      "tier": "groq",
+      "article": "European security concept \"has gone bankrupt, collapsed spectacularly\" \u2014 Russian MFA"
     }
   ]
 }
