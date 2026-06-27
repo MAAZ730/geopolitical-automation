@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4251,
+  "total_calls": 4255,
   "tiers": {
-    "groq": 4232,
+    "groq": 4236,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-24T07:46:50.823038+00:00",
-      "tier": "groq",
-      "article": "One killed, 6 others injured in Ukrainian attacks on Russia\u2019s Belgorod Region in past day"
-    },
-    {
-      "timestamp": "2026-06-24T07:47:24.449174+00:00",
-      "tier": "groq",
-      "article": "One person killed, one more injured in Belgorod Region during attack by Ukrainian army"
-    },
-    {
-      "timestamp": "2026-06-24T07:47:42.723054+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-24T07:48:18.814018+00:00",
-      "tier": "groq",
-      "article": "Oman reports constructive talks with Iran on Hormuz Strait"
-    },
     {
       "timestamp": "2026-06-24T10:54:17.460610+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-27T10:16:10.663037+00:00",
       "tier": "groq",
       "article": "Anton Khlopkov: The hardest part of a US-Iran nuclear deal still lies ahead"
+    },
+    {
+      "timestamp": "2026-06-27T13:49:28.280927+00:00",
+      "tier": "groq",
+      "article": "Number of people injured in Ukrainian strike on memorial complex near Taganrog up to 12"
+    },
+    {
+      "timestamp": "2026-06-27T13:50:04.676267+00:00",
+      "tier": "groq",
+      "article": "Iran: Brutal US Attacks Blatant Violation of MoU - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-27T13:50:24.382463+00:00",
+      "tier": "groq",
+      "article": "US and Iran exchange strikes first time since signing interim peace deal"
+    },
+    {
+      "timestamp": "2026-06-27T13:50:42.007604+00:00",
+      "tier": "groq",
+      "article": "Powerful earthquake hits central Japan"
     }
   ]
 }
