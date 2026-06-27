@@ -1,4 +1,34 @@
 {
+  "9c7ca8229e44ab7bee01861737f160fc8be27f70a5bc4bfc490276c8b4a1507a": {
+    "url": "Slavyangrad/167710",
+    "title": "Ukraine's Military Deploys Widespread Starlink Network",
+    "published": "2026-06-27T17:24:39.813769+00:00"
+  },
+  "8277f1d5d42cd66ef670da71eb1235654f8bb7f8e64039ddfd5a96105d3983dd": {
+    "url": "intelslava/89415",
+    "title": "Russia's Titan-Barrikady Plant Hit in Ukrainian Airstrike",
+    "published": "2026-06-27T17:24:21.928805+00:00"
+  },
+  "9c136d3a607ad99937e0b7b45f878636b8fcede080a30d4f966dc6aa8478f59b": {
+    "url": "presstv/195882",
+    "title": "Iran Warns of Broader Response to US Aggression",
+    "published": "2026-06-27T17:23:02.184180+00:00"
+  },
+  "130a73b4ebc86981790233e41984e410a5798987b01685292fe44f7aa32577a5": {
+    "url": "DDGeopolitics/187632",
+    "title": "Russia and China Conduct Joint Strategic Air Patrol Over Western Pacific",
+    "published": "2026-06-27T17:21:28.044055+00:00"
+  },
+  "e89de3e83891c9181de21f7adb1fc5b3f3b47d83ffa02074c65ed417d3188e26": {
+    "url": "thecradlemedia/62923",
+    "title": "Israeli Airstrikes Target Nabatieh al-Fawqa in South Lebanon",
+    "published": "2026-06-27T17:19:14.821177+00:00"
+  },
+  "c2c9b13ad88503792aae2a9f2598ecacb2a564254319ed9a5616fd05dd168c99": {
+    "url": "thecradlemedia/62925",
+    "title": "Hezbollah Leader Rejects Lebanon-Israel Agreement",
+    "published": "2026-06-27T17:19:13.478223+00:00"
+  },
   "1d4b880012f120aabc09acf52996ab2129156c6025c3ef16cf6b531897a615f1": {
     "url": "intelslava/89426",
     "title": "Russia Destroys Three Ukrainian MiG-29 Fighter Jets in Separate Strikes",
@@ -64,6 +94,11 @@
     "title": "Iran announces new retaliatory strikes on US targets following latest ceasefire violations",
     "published": "2026-06-27T13:12:54+00:00"
   },
+  "d28468220c52136a5ff93adcdc3cac538b5fff558deb7f76d0387700aa4c2e4c": {
+    "url": "https://en.mehrnews.com/news/245663/Security-forces-kill-8-terrorists-in-SW-Pakistan-ops",
+    "title": "Security forces kill 8 terrorists in SW Pakistan ops.",
+    "published": "2026-06-27T13:07:52+00:00"
+  },
   "0723e450d92818fb0183a872fa90ee5fae60a119d6a5a6312bd0cc57977fd4f2": {
     "url": "https://tass.com/emergencies/2152383",
     "title": "Number of people injured in Ukrainian strike on memorial complex near Taganrog up to 12",
@@ -118,6 +153,11 @@
     "url": "https://english.almanar.com.lb/article/97697/",
     "title": "US Strike Triggers Iranian Retaliation Targeting American Positions - Al-Manar TV Lebanon",
     "published": "2026-06-27T08:08:22+00:00"
+  },
+  "eaf79f980983d4c16832705907ae7b49bed9d87455006fd1f53f6416ee733197": {
+    "url": "https://tass.com/politics/2152311",
+    "title": "Drones that attacked Moscow assembled through cooperation of NATO countries \u2014 expert",
+    "published": "2026-06-27T07:56:35+00:00"
   },
   "a84b4df1a99e2d8bdeaa0442472d4cde65d141f4f6d92e2208bdeddcc78d64c9": {
     "url": "https://en.mehrnews.com/news/245649/Iran-denounces-US-airstrikes-against-southern-coastal-areas",
@@ -203,6 +243,11 @@
     "url": "https://tass.com/world/2152275",
     "title": "Iranian army announces strikes against US forces in Middle East",
     "published": "2026-06-27T02:10:00+00:00"
+  },
+  "a292332b856e965088a3d151e5a7cf456255fc0af83ab458a24cdcfe2e423a03": {
+    "url": "https://tass.com/politics/2152273",
+    "title": "Russian forces thwart Kiev\u2019s counterattack near Krasny Liman \u2014 military expert",
+    "published": "2026-06-27T01:58:19+00:00"
   },
   "c5828b7502e0ddb9ee282fa02cffba5ec2e6c90e6905b08ecb069a82a2929c59": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
@@ -378,6 +423,11 @@
     "url": "https://www.tehrantimes.com/news/527644/Iran-issues-fresh-warnings-over-Israeli-military-activity-and",
     "title": "Iran issues fresh warnings over Israeli military activity and presence in Lebanon",
     "published": "2026-06-26T17:27:05+00:00"
+  },
+  "9fbecbd7b067f70187e4d4ecfc58a785fbbb3f851d8ddf4edcc0ab275e8caeab": {
+    "url": "https://www.tehrantimes.com/news/527638/Trump-sees-himself-most-powerful-man-that-the-planet-has-ever",
+    "title": "Trump sees himself \u2018most powerful man that the planet has ever known\u2019",
+    "published": "2026-06-26T17:19:30+00:00"
   },
   "450b35fee0b5c1eb055c512372c5994f23de5d8cca00e1579e300b4c1854a62e": {
     "url": "https://www.tehrantimes.com/news/527640/Europe-s-bloody-hands-revealed",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/245610/Houthi-congratulates-Iran-s-victory-over-US-Zionist-regime",
     "title": "Houthi congratulates Iran's victory over US, Zionist regime",
     "published": "2026-06-25T20:00:28+00:00"
-  },
-  "16f2d68963836ca0e731c0b8e885c7ac086410ee7fc3197e2267dfd603c0fa16": {
-    "url": "https://english.almanar.com.lb/article/96907/",
-    "title": "Video| Hezbollah\u2019s High-quality Missiles Strike Israeli Enemy\u2019s Soldiers and Vehicles in South Lebanon - Al-Manar TV Lebanon",
-    "published": "2026-06-25T18:43:38+00:00"
-  },
-  "1485445d4e7b28b4dc109e7599776388d9556db983473a1156f5529ef14a10f8": {
-    "url": "BellumActaNews/174569",
-    "title": "IRGCN Blocks Commercial Shipping in Strait of Hormuz",
-    "published": "2026-06-25T18:23:08.374078+00:00"
-  },
-  "3057463ee29dfea06e63f4d717de9367c997b60f9137288e976db82b9e08b309": {
-    "url": "DDGeopolitics/187456",
-    "title": "IRGC Navy Asserts Control Over Strait of Hormuz Transit",
-    "published": "2026-06-25T18:20:59.189975+00:00"
-  },
-  "89316b18ee27753a2f9cdf0582bc5d372167b5bf1633d6ba17865b4c223e9cf6": {
-    "url": "DDGeopolitics/187465",
-    "title": "Russia's Campaign of Fuel Infrastructure Destruction in Ukraine",
-    "published": "2026-06-25T18:19:08.134730+00:00"
-  },
-  "88585c188b1d0b7b9d35c9410154b242788cd02b37f22b012ef5a7709b5e303a": {
-    "url": "QudsNen/228895",
-    "title": "Israeli Forces Fire Tear Gas at Palestinian Protesters in Deir Ammar",
-    "published": "2026-06-25T18:18:09.363250+00:00"
-  },
-  "a2f5dc2a8ea27231c0196cb0fdc7d566b043e23f7ac4130d50f53c1a4547aca7": {
-    "url": "thecradlemedia/62762",
-    "title": "Israeli Minister Vows Indefinite Military Presence in Lebanon, Syria, and Gaza",
-    "published": "2026-06-25T18:17:18.781366+00:00"
-  },
-  "c93ca1c3f0595487cbe7268bc59effc60d8de81c85f57fc1fbb08a6a242cd39f": {
-    "url": "thecradlemedia/62770",
-    "title": "Israel Establishes Military Presence in Somaliland Amid Yemeni Warnings",
-    "published": "2026-06-25T18:17:17.591769+00:00"
-  },
-  "0251ca67779d10eb8f51f7ccbe5029668a63e8f6b654fc2919eaf98fa16c0495": {
-    "url": "https://thecradle.co/articles-id/38449",
-    "title": "Yemen warns it will not &#039;stand idly by&#039; as Israel establishes military presence in Somaliland",
-    "published": "2026-06-25T16:58:44+00:00"
-  },
-  "84fc38532c36721aafaa85715f425ee1bd20c1d4493a82a97026a2aa01e523a8": {
-    "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/house-backs-155-billion-to-revive-e-7-wedgetail-spares-navy-hawkeye/",
-    "title": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye",
-    "published": "2026-06-25T16:50:55+00:00"
-  },
-  "bd2a4615cbcfdb3e7cd19e801e76016a552e87c6c0afe66ebe386c40d0ebf9df": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
-    "title": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production",
-    "published": "2026-06-25T15:42:16+00:00"
   }
 }

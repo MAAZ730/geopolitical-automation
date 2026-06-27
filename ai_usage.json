@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4259,
+  "total_calls": 4263,
   "tiers": {
-    "groq": 4240,
+    "groq": 4244,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-24T14:40:48.824662+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-24T14:41:05.161799+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-24T14:41:32.528735+00:00",
-      "tier": "groq",
-      "article": "Gaza Ceasefire Unravels: 3 Martyred as Israeli Airstrikes Pound Displacement Camps - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-24T14:41:51.468722+00:00",
-      "tier": "groq",
-      "article": "Israel has no choice but to pull out from entire Lebanon"
-    },
     {
       "timestamp": "2026-06-24T18:00:49.842730+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-27T15:23:01.452399+00:00",
       "tier": "groq",
       "article": "Trump accuses Iran of violating ceasefire with US"
+    },
+    {
+      "timestamp": "2026-06-27T17:17:20.179407+00:00",
+      "tier": "groq",
+      "article": "Drones that attacked Moscow assembled through cooperation of NATO countries \u2014 expert"
+    },
+    {
+      "timestamp": "2026-06-27T17:17:53.956141+00:00",
+      "tier": "groq",
+      "article": "Security forces kill 8 terrorists in SW Pakistan ops."
+    },
+    {
+      "timestamp": "2026-06-27T17:18:47.924839+00:00",
+      "tier": "groq",
+      "article": "Trump sees himself \u2018most powerful man that the planet has ever known\u2019"
+    },
+    {
+      "timestamp": "2026-06-27T17:19:06.801627+00:00",
+      "tier": "groq",
+      "article": "Russian forces thwart Kiev\u2019s counterattack near Krasny Liman \u2014 military expert"
     }
   ]
 }
