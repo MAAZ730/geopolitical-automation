@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4243,
+  "total_calls": 4247,
   "tiers": {
-    "groq": 4224,
+    "groq": 4228,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-23T23:13:34.142831+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-23T23:13:51.219247+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-23T23:14:14.791313+00:00",
-      "tier": "groq",
-      "article": "Lebanon war toll passes 4,175 dead"
-    },
-    {
-      "timestamp": "2026-06-23T23:14:35.869358+00:00",
-      "tier": "groq",
-      "article": "Israel should treat Lebanon as its \u2018playground\u2019 \u2013 security minister"
-    },
     {
       "timestamp": "2026-06-24T03:55:38.814645+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-27T03:47:33.873938+00:00",
       "tier": "groq",
       "article": "Hezbollah chief hails Islamabad MoU as defeat for US, Israeli regime"
+    },
+    {
+      "timestamp": "2026-06-27T06:58:02.299640+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy strikes US military positions after American aggression"
+    },
+    {
+      "timestamp": "2026-06-27T06:58:19.681725+00:00",
+      "tier": "groq",
+      "article": "Israel and Lebanon reach framework agreement"
+    },
+    {
+      "timestamp": "2026-06-27T06:58:48.081392+00:00",
+      "tier": "groq",
+      "article": "CENTCOM reports attacking targets in Iran"
+    },
+    {
+      "timestamp": "2026-06-27T06:59:06.138042+00:00",
+      "tier": "groq",
+      "article": "Uzbekistan hails de-escalation efforts in West Asia"
     }
   ]
 }

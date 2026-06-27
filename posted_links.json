@@ -1,4 +1,44 @@
 {
+  "5e8695c5045fe51cc797cea56dd8f2a1ef49355b34ff598918a34e738afa7690": {
+    "url": "mod_russia_en/27812",
+    "title": "Russian Forces Strike Ukrainian Militant Positions in Dnepropetrovsk Region",
+    "published": "2026-06-27T07:03:37.915046+00:00"
+  },
+  "9c7eeee872bffbb548c5e5c653b43fca77a869fd94646256bf9bb34529367898": {
+    "url": "Slavyangrad/167685",
+    "title": "Ukrainian SBU Agent Accused of Plotting US Independence Day Attack",
+    "published": "2026-06-27T07:02:26.642454+00:00"
+  },
+  "e54bd3341fee9db49c8e1ca94316016205e042780fefbf645678ee09cda62f77": {
+    "url": "Slavyangrad/167688",
+    "title": "Russian Airstrikes Hit AFU Deployment Points at Slavyansk Thermal Power Plant",
+    "published": "2026-06-27T07:01:43.538183+00:00"
+  },
+  "e77e9b5196598cb8fc0ca16a3328a41e9c8e5ab145d7c346af3952f23b916613": {
+    "url": "presstv/195825",
+    "title": "IRGC Targets US Military Positions in Region Amid Tensions",
+    "published": "2026-06-27T07:01:00.423204+00:00"
+  },
+  "7570315ee13617fcf6ef7bca7e798f78d15532674263b9bc102c1e459115487b": {
+    "url": "QudsNen/229007",
+    "title": "Israeli Forces Ransack Homes in Occupied West Bank Village",
+    "published": "2026-06-27T06:59:14.498855+00:00"
+  },
+  "89459888813df70aef31a856dabc6c897577a72b1193f3384284be8eac2f923e": {
+    "url": "QudsNen/229014",
+    "title": "Hezbollah Leader Rejects Lebanon-Israel Framework Agreement",
+    "published": "2026-06-27T06:59:13.427599+00:00"
+  },
+  "4a669324bf1177be5fbbbf3d745b4506c80c891633984d68e41ec6e56f2121e3": {
+    "url": "https://en.irna.ir/news/86193537/IRGC-Navy-strikes-US-military-positions-after-American-aggression",
+    "title": "IRGC Navy strikes US military positions after American aggression",
+    "published": "2026-06-27T05:56:39+00:00"
+  },
+  "e8c2f63c5fc161cc038629d606c25bf1983b3185009c39f2db8c9815aef67ada": {
+    "url": "https://en.mehrnews.com/news/245627/CENTCOM-reports-attacking-targets-in-Iran",
+    "title": "CENTCOM reports attacking targets in Iran",
+    "published": "2026-06-27T03:54:08+00:00"
+  },
   "b9e335cd1faa44c7cf7e48c9b04c06d67246fbb6f010f5845815afed10ea2216": {
     "url": "Slavyangrad/167664",
     "title": "Volgograd Attacked by Enemy Missiles",
@@ -73,6 +113,11 @@
     "url": "Middle_East_Spectator/33934",
     "title": "US Airstrikes Hit Iranian Military Installations",
     "published": "2026-06-26T23:13:19.719129+00:00"
+  },
+  "aa38c5e994e3ac655773b756b350711d4af6509d2d4d6d764e93eb9f5a907b34": {
+    "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+    "title": "Israel and Lebanon reach framework agreement",
+    "published": "2026-06-26T22:55:28+00:00"
   },
   "7e979da3ac70401a290fa1df04705693c0843c4041737b4c97c2149c968f7cee": {
     "url": "https://tass.com/world/2152255",
@@ -293,6 +338,11 @@
     "url": "thecradlemedia/62808",
     "title": "US Film Sparks Controversy with Anti-Islamic Propaganda",
     "published": "2026-06-26T11:19:24.685550+00:00"
+  },
+  "6aefd05d2cb81f13e3ddd4e880f7b57b0771cbf918b129e39fbf40f6d2d589cc": {
+    "url": "https://en.mehrnews.com/news/245621/Uzbekistan-hails-de-escalation-efforts-in-West-Asia",
+    "title": "Uzbekistan hails de-escalation efforts in West Asia",
+    "published": "2026-06-26T10:57:47+00:00"
   },
   "ea02f5b2834fc807e12c32445f7259739b6d225ec9e905c182c7da6e47252c15": {
     "url": "https://en.irna.ir/news/86193140/Hezbollah-chief-hails-Islamabad-MoU-as-defeat-for-US-Israeli",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/emergencies/2151285",
     "title": "Overnight drone attacks on Russia cause casualties in Crimea, spark fire at oil depot",
     "published": "2026-06-25T06:58:03+00:00"
-  },
-  "4ea3748017e58c0580d0674fafd5d230360ebbac878da7b70a3b6e1950815d73": {
-    "url": "https://en.mehrnews.com/news/245584/NATO-must-be-held-to-account-for-role-in-aggression-on-Iran",
-    "title": "NATO must be held to account for role in aggression on Iran",
-    "published": "2026-06-25T06:24:54+00:00"
-  },
-  "554f05b82dc0af93d86eec307ac88a2d838dd986fef448588e0dc8d7e2abd55a": {
-    "url": "intelslava/89343",
-    "title": "Russian Airstrike Destroys Bridge in Eastern Ukraine",
-    "published": "2026-06-25T03:58:52.400666+00:00"
-  },
-  "67c707c8f4151d82402a812bfb03c8f000a01a16e25ef84934ef9e14e21dac4c": {
-    "url": "BellumActaNews/174552",
-    "title": "Venezuelan Earthquake Devastation: Hotel Eduard Collapses in La Guaira",
-    "published": "2026-06-25T03:57:41.928793+00:00"
-  },
-  "79b510371ac040a46b1d82aa162d18d9b0ad7d607ef983ee8430640e73b6286f": {
-    "url": "BellumActaNews/174556",
-    "title": "Venezuela Earthquake Devastation: La Guaira Buildings Collapse",
-    "published": "2026-06-25T03:56:28.290591+00:00"
-  },
-  "fd80219934f4b9f86f296baf68589e815f17c5ddf9b4a5ed9717a3dcfb7b7e4c": {
-    "url": "DDGeopolitics/187426",
-    "title": "La Guaira Devastation: Fires and Destruction in Venezuela's Coastal State",
-    "published": "2026-06-25T03:55:58.465229+00:00"
-  },
-  "1ef8a1a415061c0cbd3fa311611e6d45d46ffe4041e2db645727e588d44e1bae": {
-    "url": "QudsNen/228807",
-    "title": "Israeli Tanks Fire into Khan Younis, Gaza Strip",
-    "published": "2026-06-25T03:55:29.080277+00:00"
-  },
-  "cc01ce0641edee6da674fce8a6d3e7c36968f00b989a25d84abd07863d288bad": {
-    "url": "QudsNen/228818",
-    "title": "Gaza Student Overcomes Adversity to Earn Master's Degree",
-    "published": "2026-06-25T03:55:27.981706+00:00"
-  },
-  "83dc6509c137f567e8dd86f7a17abf3cbe23108d2a94d0bb77779b122dce42a2": {
-    "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/trump-meets-munitions-makers-amid-push-to-replenish-weapons-stockpiles/",
-    "title": "Trump meets munitions makers amid push to replenish weapons stockpiles",
-    "published": "2026-06-25T03:01:22+00:00"
-  },
-  "d3033c8ceb6805b88f570b1756c4f897dcefb160a547f5dff04590bfbe122d64": {
-    "url": "https://www.rt.com/news/642088-trump-disappointed-nato-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Trump says he is disappointed with most NATO members over Iran",
-    "published": "2026-06-25T02:40:26+00:00"
-  },
-  "e12e13d8289b069a88d28ae12edf21ed9f0052078a9dda3a9f410068d2ed2b9b": {
-    "url": "mod_russia_en/27765",
-    "title": "Russian Drone Strike Hits Ukrainian Power Substation in Kazanka",
-    "published": "2026-06-24T23:17:16.601216+00:00"
   }
 }
