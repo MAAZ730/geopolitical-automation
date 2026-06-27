@@ -1,4 +1,49 @@
 {
+  "b9e335cd1faa44c7cf7e48c9b04c06d67246fbb6f010f5845815afed10ea2216": {
+    "url": "Slavyangrad/167664",
+    "title": "Volgograd Attacked by Enemy Missiles",
+    "published": "2026-06-27T03:49:40.596362+00:00"
+  },
+  "af573f60656473cb100a15f04bf37a2e440846e1d35ec6047c2175dd2f6609ba": {
+    "url": "Slavyangrad/167669",
+    "title": "Zaporozhye Under Fire: Industrial Facilities and Gas Stations Hit in Airstrikes",
+    "published": "2026-06-27T03:49:33.719150+00:00"
+  },
+  "21631fff737a6e352b3d4ffc677c74f236d4f91d8c36c647022b1e6796cd2905": {
+    "url": "intelslava/89397",
+    "title": "Protests Erupt in Beirut Following Lebanon-Israel Agreement",
+    "published": "2026-06-27T03:49:09.102590+00:00"
+  },
+  "45e09d9131edb3f365620216464b62572e82cdf46642cee7937a828d4f667199": {
+    "url": "intelslava/89401",
+    "title": "Lebanon Protests Erupt Amid Israel Framework Agreement",
+    "published": "2026-06-27T03:48:41.117782+00:00"
+  },
+  "f52e38ad93ae133c05cb448d463c9c5e2068d22bceeff06fb1d7b5c1eb70ac7b": {
+    "url": "Middle_East_Spectator/33935",
+    "title": "US-Iran Tensions Escalate in Strait of Hormuz",
+    "published": "2026-06-27T03:47:37.878265+00:00"
+  },
+  "8db608ee5684ff881b526f7f7ab92d2b5d71a54f8b5011d6304ff82f5a66547d": {
+    "url": "thecradlemedia/62866",
+    "title": "Syrian Grand Mufti Ahmed Badr al-Din Hassoun on trial in Damascus",
+    "published": "2026-06-27T03:47:36.188449+00:00"
+  },
+  "103a4718f2547ead4b59c653a0c0cdcd367ef119dbb0e50b144d772d97eabdb0": {
+    "url": "https://tass.com/world/2152275",
+    "title": "Iranian army announces strikes against US forces in Middle East",
+    "published": "2026-06-27T02:10:00+00:00"
+  },
+  "c5828b7502e0ddb9ee282fa02cffba5ec2e6c90e6905b08ecb069a82a2929c59": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
+    "title": "Trump justifies strikes on Iran amid ceasefire",
+    "published": "2026-06-27T00:16:58+00:00"
+  },
+  "467a5434881fb81145f06e013fa205dc7df9408875c83b6c55ea4f82e171b51d": {
+    "url": "https://www.rt.com/news/642255-iran-us-strikes-lebanon-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US and Iran trade strikes, Hezbollah warns of \u2018civil war\u2019 over Israel-Lebanon deal: Live updates",
+    "published": "2026-06-27T00:13:36+00:00"
+  },
   "249ff6e341e2ecad36fafbe426f9580e573760d7febc33fcb3e5d0278f698c47": {
     "url": "intelslava/89405",
     "title": "Pro-Hezbollah Protesters Block Road to Beirut Airport",
@@ -248,6 +293,11 @@
     "url": "thecradlemedia/62808",
     "title": "US Film Sparks Controversy with Anti-Islamic Propaganda",
     "published": "2026-06-26T11:19:24.685550+00:00"
+  },
+  "ea02f5b2834fc807e12c32445f7259739b6d225ec9e905c182c7da6e47252c15": {
+    "url": "https://en.irna.ir/news/86193140/Hezbollah-chief-hails-Islamabad-MoU-as-defeat-for-US-Israeli",
+    "title": "Hezbollah chief hails Islamabad MoU as defeat for US, Israeli regime",
+    "published": "2026-06-26T10:42:37+00:00"
   },
   "d5d5329749798374fc6d2bd7fb9a3099fa29c20bfe50d68dba539bf24e654097": {
     "url": "https://www.defensenews.com/global/europe/2026/06/26/german-counter-drone-startup-tytan-eyes-3000-interceptors-per-month-in-new-factory/",
@@ -698,55 +748,5 @@
     "url": "mod_russia_en/27765",
     "title": "Russian Drone Strike Hits Ukrainian Power Substation in Kazanka",
     "published": "2026-06-24T23:17:16.601216+00:00"
-  },
-  "52f41e04745270891d3f6a3a399bcf3937458049722868b0a337d54a515c315f": {
-    "url": "Slavyangrad/167469",
-    "title": "Dobropolye Bridge Strike: Ukrainian Serviceman Hit",
-    "published": "2026-06-24T23:16:39.524562+00:00"
-  },
-  "6dc9573ef95684502a163ab35dd587bd8715d11af66d0042e707d0713a30bf29": {
-    "url": "presstv/195490",
-    "title": "US President Trump Deflects Blame for Mianab School Drone Attack",
-    "published": "2026-06-24T23:15:19.848907+00:00"
-  },
-  "0166575638d9e3684ede7f24b4a577033b4c2b5b5c820ee5f3df5b3dd9ce8c0e": {
-    "url": "QudsNen/228809",
-    "title": "Israeli Naval Fire Hits Refugee Tents in Khan Younis",
-    "published": "2026-06-24T23:12:56.077298+00:00"
-  },
-  "0878b6bc50971cb5d2959b227aa7f3d9813b90fd69ad4a64d5115402742a3655": {
-    "url": "QudsNen/228810",
-    "title": "Israel Withholds $11 Billion in Palestinian Funds, PA Seeks International Intervention",
-    "published": "2026-06-24T23:10:53.391390+00:00"
-  },
-  "61ad6d17bb88e208065ca77a4c8d56febe48e7598a6715062ce6ee1d26db1648": {
-    "url": "thecradlemedia/62695",
-    "title": "Switzerland Seeks Second Air Defense System Amid Security Concerns",
-    "published": "2026-06-24T23:10:48.810278+00:00"
-  },
-  "2dadd7adbcad8d448aa19769b4efecbb892dc10e734c59fd6c62b271561b46f4": {
-    "url": "Slavyangrad/167446",
-    "title": "Russian Drones Strike US-Backed Air Defense System in Ukraine",
-    "published": "2026-06-24T21:46:16.131848+00:00"
-  },
-  "9c7b7ed7b70ab71c9737138cf4648df4dbcfea757673cd71bc5d4f4749bef681": {
-    "url": "Slavyangrad/167463",
-    "title": "Russian Airstrikes Intensify Near Slavyansk",
-    "published": "2026-06-24T21:45:00.480994+00:00"
-  },
-  "b87ba1c5d03195028258e6d9b4b32805fce4c9eaf90ec4f9831be529a00e0e56": {
-    "url": "presstv/195487",
-    "title": "NATO Chief Reveals Italy's Secret Role in US-Iran Operation",
-    "published": "2026-06-24T21:43:57.137895+00:00"
-  },
-  "c1f989a1bbec212a0be3645719c9c1e2ce0c5885516fbe84559f0f1e1e5f608b": {
-    "url": "QudsNen/228802",
-    "title": "Israeli Drone Strike Kills Two in Kfarreman, Lebanon",
-    "published": "2026-06-24T21:42:16.206932+00:00"
-  },
-  "a03a7173b43a63fffe33fbd96cc3c5a3ec53ed511a2e0201933bf1187673e0d8": {
-    "url": "thecradlemedia/62697",
-    "title": "US and Iran Agree to Ceasefire Amid Fears of War Escalation",
-    "published": "2026-06-24T21:41:55.557802+00:00"
   }
 }

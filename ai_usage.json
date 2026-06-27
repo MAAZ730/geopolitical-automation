@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4239,
+  "total_calls": 4243,
   "tiers": {
-    "groq": 4220,
+    "groq": 4224,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-23T20:23:13.917161+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-23T20:23:47.702092+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-23T20:24:38.422080+00:00",
-      "tier": "groq",
-      "article": "Adapting to Uncertainty in the Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-06-23T20:24:54.660018+00:00",
-      "tier": "groq",
-      "article": "Iran to continue diplomatic efforts to boost ties"
-    },
     {
       "timestamp": "2026-06-23T23:13:34.142831+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-26T23:13:16.706092+00:00",
       "tier": "groq",
       "article": "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory"
+    },
+    {
+      "timestamp": "2026-06-27T03:46:20.530274+00:00",
+      "tier": "groq",
+      "article": "US and Iran trade strikes, Hezbollah warns of \u2018civil war\u2019 over Israel-Lebanon deal: Live updates"
+    },
+    {
+      "timestamp": "2026-06-27T03:46:59.856079+00:00",
+      "tier": "groq",
+      "article": "Trump justifies strikes on Iran amid ceasefire"
+    },
+    {
+      "timestamp": "2026-06-27T03:47:16.215967+00:00",
+      "tier": "groq",
+      "article": "Iranian army announces strikes against US forces in Middle East"
+    },
+    {
+      "timestamp": "2026-06-27T03:47:33.873938+00:00",
+      "tier": "groq",
+      "article": "Hezbollah chief hails Islamabad MoU as defeat for US, Israeli regime"
     }
   ]
 }
