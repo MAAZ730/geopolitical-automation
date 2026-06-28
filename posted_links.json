@@ -1,4 +1,34 @@
 {
+  "d191eae7fe6d1b2ed04eaa86f1580105dd8c0c82bfa833c2eb13adc0d8c20848": {
+    "url": "warmonitors/44722",
+    "title": "Car Explosion Rocks Israeli City, Leaving One Critically Injured",
+    "published": "2026-06-28T15:27:51.866034+00:00"
+  },
+  "d9b0a03c122c6e1d96ec49f7e079b07c9890b6506a1db228cde6d66867bf61cd": {
+    "url": "QudsNen/229177",
+    "title": "Palestinian Man Killed in Israeli Drone Strike in Gaza's Beit Lahia",
+    "published": "2026-06-28T15:27:26.823208+00:00"
+  },
+  "26e820802e26fd73f991bae688081feb1eab29a5aceaa5554c6527bbb339eeaf": {
+    "url": "QudsNen/229180",
+    "title": "Israeli Forces Detain Palestinians in Anata Raid",
+    "published": "2026-06-28T15:26:04.281548+00:00"
+  },
+  "7e5f7cc37858513cdb289707dacc35b27355d0293de22ccc17d7b34a71c1cf8a": {
+    "url": "QudsNen/229181",
+    "title": "Gaza City Mural Honours Detained Doctor",
+    "published": "2026-06-28T15:25:21.509275+00:00"
+  },
+  "8249476de7f5feb977fcea5a6a325f95e92e66593e58ddc5dc6d0560ddb7ec0f": {
+    "url": "thecradlemedia/62956",
+    "title": "Iran and Lebanon Urge Swift Implementation of Lebanon War Clause Amid Israel Framework Deal",
+    "published": "2026-06-28T15:24:38.858087+00:00"
+  },
+  "ab00c3c373ef1741d1b9fd966df746193db4a3650235153a6d82f6cc14d27ff2": {
+    "url": "thecradlemedia/62957",
+    "title": "Iraq Seeks to Boost Oil Exports via Turkey Amid Hormuz Disruption",
+    "published": "2026-06-28T15:24:37.860631+00:00"
+  },
   "16fb01aa83c5f8a8385ab6240b6fc768a6cc4fb592fa7672e688ee7c7bb3634a": {
     "url": "DDGeopolitics/187674",
     "title": "Iraq Arrests Politicians in Anti-Corruption Sweep Amid US Pressure",
@@ -28,6 +58,16 @@
     "url": "thecradlemedia/62953",
     "title": "Iran Urges Implementation of Lebanon Ceasefire Clause",
     "published": "2026-06-28T13:57:16.842442+00:00"
+  },
+  "6f57b696349a8e0c79d024632681c28cf5fba7ca3f594312caf474c21797ba23": {
+    "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
+    "title": "Ukraine says it attacked two Russian oil refineries",
+    "published": "2026-06-28T13:36:15+00:00"
+  },
+  "809c85d73399f95adb195716e0397c8356088ce17106a2819210a8271720fd45": {
+    "url": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss",
+    "title": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
+    "published": "2026-06-28T13:17:40+00:00"
   },
   "e2fb07148cbc3ca327b0072bffede9bf5febcc9cb997b9f7df570a2727cffcd2": {
     "url": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
@@ -133,6 +173,11 @@
     "url": "https://en.mehrnews.com/news/245677/IRGC-Navy-warns-US-bases-will-experience-hell",
     "title": "IRGC Navy warns US bases will 'experience hell'",
     "published": "2026-06-28T05:51:37+00:00"
+  },
+  "3dfa0951d6ac86ad0be232b68bcd232d04249f74b045241e46c4e63b91eba6ea": {
+    "url": "https://en.mehrnews.com/news/245676/Iran-Foreign-Ministry-issues-statement-after-fresh-US-attacks",
+    "title": "Iran Foreign Ministry issues statement after fresh US attacks",
+    "published": "2026-06-28T05:38:39+00:00"
   },
   "a520005a1585d9edc4c8a62b6b8000954dffe35b3a31d00017a946cc5df575ce": {
     "url": "BellumActaNews/174640",
@@ -328,6 +373,11 @@
     "url": "thecradlemedia/62925",
     "title": "Hezbollah Leader Rejects Lebanon-Israel Agreement",
     "published": "2026-06-27T17:19:13.478223+00:00"
+  },
+  "7e00c13d958b0885b70d8bd7d5fc56c2047e0dea461d7b1bf6912c3d04d7e93e": {
+    "url": "https://www.tehrantimes.com/news/527678/Iran-Pakistan-deepen-strategic-partnership-as-Pezeshkian-visit",
+    "title": "Iran, Pakistan boost ties with Pezeshkian's visit",
+    "published": "2026-06-27T17:05:00+00:00"
   },
   "4a36af399c87e792ed68f59014bda86b429b8a10ef8c7598c69bd8bf76718247": {
     "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/politics/2152227",
     "title": "Russia hits Ukrainian warehouse, gas station, temporary duty station",
     "published": "2026-06-26T20:37:00+00:00"
-  },
-  "3611142805e93907da79a23424f925a9e538c35ef629f7ee322c2d8aae23ef6e": {
-    "url": "mod_russia_en/27809",
-    "title": "Russian Logistics Hub Hit by Ukrainian Drone Strike",
-    "published": "2026-06-26T20:05:11.885183+00:00"
-  },
-  "c323dce860907f07874348a4f5f8462995fa208d94b89e79661d19c2bedc7ffc": {
-    "url": "Slavyangrad/167626",
-    "title": "Ukraine Suspends Commander of Assault Regiment Amid Torture Allegations",
-    "published": "2026-06-26T20:04:11.143048+00:00"
-  },
-  "abd138aac6e70c7393a6e637a753e8a7d48e3bd60dc708a175e4dfaa1cd7f241": {
-    "url": "Slavyangrad/167632",
-    "title": "Russia Launches Overnight Strikes on Ukrainian Military Targets",
-    "published": "2026-06-26T20:01:10.108658+00:00"
-  },
-  "8b8abb92354bd21b5fd5565d8fab14623b908bb7a2504392b7862a6912d143d5": {
-    "url": "DDGeopolitics/187542",
-    "title": "Russia Destroys Trains with Geran Drones in Eastern Ukraine",
-    "published": "2026-06-26T20:00:48.720732+00:00"
-  },
-  "3ef25cafe5a1eacb6743c79f2f652b8acfc083a127d0ef6c1fd986eccf7c8345": {
-    "url": "thecradlemedia/62857",
-    "title": "ICC Sues Trump Over Sanctions Against War Crimes Investigators",
-    "published": "2026-06-26T19:57:54.497868+00:00"
-  },
-  "ba4c6a70a7ffcdda55b9e2879c2a9d1a584a89bf12b61a490973bba4eef3a89f": {
-    "url": "thecradlemedia/62858",
-    "title": "Hezbollah Rejects Washington Agreement, Warns of Civil War",
-    "published": "2026-06-26T19:57:53.464579+00:00"
-  },
-  "62cb6bb8f3ec025422ce2b3a31e1011d6ed0a731244fe4c880edc4a2310fb1eb": {
-    "url": "https://tass.com/world/2152201",
-    "title": "Iran refutes reports of direct line of communication with US on Strait of Hormuz",
-    "published": "2026-06-26T19:43:38+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Iran-US Ceasefire Deal Excludes Lebanon Amid Escalating Israeli Strikes",
-    "published": "2026-06-26T18:02:23.944026+00:00"
-  },
-  "7fc3dc8cffaca3208888f6ced4b8be6240acab38a93126125fe0c777e6ebcc11": {
-    "url": "DDGeopolitics/187522",
-    "title": "Plane Crashes into China's Tallest Building in Beijing",
-    "published": "2026-06-26T17:59:35.992697+00:00"
-  },
-  "f58c3285780123479730b143a0beedcb9a59d97374afcbf348cb2a400a3653f2": {
-    "url": "QudsNen/228976",
-    "title": "Israeli Drone Strikes Vehicle in Central Gaza Strip",
-    "published": "2026-06-26T17:58:53.755999+00:00"
   }
 }
