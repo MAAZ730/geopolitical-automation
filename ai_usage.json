@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4287,
+  "total_calls": 4291,
   "tiers": {
-    "groq": 4268,
+    "groq": 4272,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-25T10:48:37.736294+00:00",
-      "tier": "groq",
-      "article": "The U.S. Navy\u2019s Subsea Rare Earth Vulnerability"
-    },
-    {
-      "timestamp": "2026-06-25T10:49:20.835408+00:00",
-      "tier": "groq",
-      "article": "Overnight drone attacks on Russia cause casualties in Crimea, spark fire at oil depot"
-    },
-    {
-      "timestamp": "2026-06-25T10:49:38.427055+00:00",
-      "tier": "groq",
-      "article": "At least 164 dead and 971 injured in updated toll of Venzuela powerful quakes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-25T10:49:54.256200+00:00",
-      "tier": "groq",
-      "article": "Iranian, Saudi FMs discuss peace talks progress"
-    },
     {
       "timestamp": "2026-06-25T14:39:45.965921+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-28T11:52:08.343436+00:00",
       "tier": "groq",
       "article": "Russia destroys up to platoon of Ukrainian troops in Novoskelevatoye"
+    },
+    {
+      "timestamp": "2026-06-28T13:55:59.972054+00:00",
+      "tier": "groq",
+      "article": "US strikes Iran for second day: Is it a violation of war powers resolution?"
+    },
+    {
+      "timestamp": "2026-06-28T13:56:38.265952+00:00",
+      "tier": "groq",
+      "article": "Araghchi warns against \u2018interference\u2019 in Hormuz after IRGC responds to new US violations"
+    },
+    {
+      "timestamp": "2026-06-28T13:56:55.484493+00:00",
+      "tier": "groq",
+      "article": "Foreign Ministry: Latest strikes on southern Iran show US has no regard for its commitments"
+    },
+    {
+      "timestamp": "2026-06-28T13:57:11.596549+00:00",
+      "tier": "groq",
+      "article": "Russian troops liberate settlement of Novoskelevatoye in Dnepropetrovsk region \u2014 top brass"
     }
   ]
 }
