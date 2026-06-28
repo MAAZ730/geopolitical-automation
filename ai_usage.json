@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4279,
+  "total_calls": 4283,
   "tiers": {
-    "groq": 4260,
+    "groq": 4264,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-25T03:54:14.836240+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-25T03:54:48.047380+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-25T03:55:04.312712+00:00",
-      "tier": "groq",
-      "article": "UN chief\u2019s report overlooks near-daily Ukrainian attacks on Russian children \u2014 mission"
-    },
-    {
-      "timestamp": "2026-06-25T03:55:22.925884+00:00",
-      "tier": "groq",
-      "article": "An Israeli soldier was lightly wounded in an explosion that occurred in southern Lebanon last night, and investigations have been still ongoing underway to determine the circumstances of the incident: Yedioth Ahronoth - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-06-25T07:50:25.894384+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-28T04:12:08.889721+00:00",
       "tier": "groq",
       "article": "Death toll from Venezuela quake exceeds 900"
+    },
+    {
+      "timestamp": "2026-06-28T08:57:45.035001+00:00",
+      "tier": "groq",
+      "article": "Iran minister announces memorial initiatives for Minab school attack victims"
+    },
+    {
+      "timestamp": "2026-06-28T08:58:28.659875+00:00",
+      "tier": "groq",
+      "article": "Iran war day 121: IRGC hits Kuwait, Bahrain after US attacks near Hormuz"
+    },
+    {
+      "timestamp": "2026-06-28T08:59:16.885331+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy warns US bases will 'experience hell'"
+    },
+    {
+      "timestamp": "2026-06-28T08:59:34.480160+00:00",
+      "tier": "groq",
+      "article": "Fourth Minsk Conference on Eurasian Security to take place on November 3-4 \u2014 Russian MFA"
     }
   ]
 }
