@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4303,
+  "total_calls": 4307,
   "tiers": {
-    "groq": 4284,
+    "groq": 4288,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-25T23:23:58.012926+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: An airstrike by hostile Israeli warplanes targeted the town of Beit Yahoun in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-25T23:24:36.159343+00:00",
-      "tier": "groq",
-      "article": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked"
-    },
-    {
-      "timestamp": "2026-06-25T23:25:21.196521+00:00",
-      "tier": "groq",
-      "article": "Israel strikes southern Lebanon again, breaching ceasefire"
-    },
-    {
-      "timestamp": "2026-06-25T23:25:37.959839+00:00",
-      "tier": "groq",
-      "article": "Trump meets munitions makers amid push to replenish weapons stockpiles"
-    },
     {
       "timestamp": "2026-06-26T04:03:00.345925+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-28T19:27:33.120884+00:00",
       "tier": "groq",
       "article": "Finland finalizes lifting ban on nuclear weapons deployment"
+    },
+    {
+      "timestamp": "2026-06-28T21:05:55.419304+00:00",
+      "tier": "groq",
+      "article": "One Serious Injury in Tel Aviv Car Blast, the 2nd Such Explosion in Central \u2018Israel\u2019 within Hours: Israeli Media - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-28T21:06:14.399579+00:00",
+      "tier": "groq",
+      "article": "Three firefighters killed in US wildfires along Colorado\u2013Utah border"
+    },
+    {
+      "timestamp": "2026-06-28T21:06:39.717122+00:00",
+      "tier": "groq",
+      "article": "US in search of quick, low-cost missile production options after Iran operation \u2014 media"
+    },
+    {
+      "timestamp": "2026-06-28T21:06:58.222719+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone downed while approaching Moscow \u2014 mayor"
     }
   ]
 }

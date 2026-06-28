@@ -1,4 +1,34 @@
 {
+  "a9f2300b51b5fe20169a6430cff5f6791a11b7c42cedd77005f4103ae4076a3f": {
+    "url": "BellumActaNews/174670",
+    "title": "Israeli Finance Minister Warns of Hamas Control in West Bank",
+    "published": "2026-06-28T21:12:17.635395+00:00"
+  },
+  "cfd215230dfc0a28a14dd2a7231ba6f060aa0502da28941feb38d7c2f723ada1": {
+    "url": "warmonitors/44732",
+    "title": "Explosions Erupt in Majdal Zun, Southern Lebanon",
+    "published": "2026-06-28T21:10:58.656384+00:00"
+  },
+  "def5e875e3bb17ddffb7999ac53840b8031ce4dd998b5f86213f5b100277b0b7": {
+    "url": "DDGeopolitics/187711",
+    "title": "Putin Accuses Ukraine of Conducting Information Operation in Russian Territory",
+    "published": "2026-06-28T21:10:31.233656+00:00"
+  },
+  "11950e156b6e459c785c9285cb9f87bf001a8e83d4e7c1f9ee2e3be5d4e80038": {
+    "url": "Middle_East_Spectator/33972",
+    "title": "Yemen's Houthis Mobilize Amid Fears of Saudi Aggression",
+    "published": "2026-06-28T21:07:31.205210+00:00"
+  },
+  "e1be09c6106a9b55ed496d8861dedec1627fa56a53109b5396852451e802c8e9": {
+    "url": "thecradlemedia/62948",
+    "title": "Israel Sells Advanced Defence Systems to Qatar and Saudi Arabia Amid Diplomatic Tensions",
+    "published": "2026-06-28T21:07:29.564249+00:00"
+  },
+  "5b3aa4b93027dcc6f85fbdf9daedc9f17da8e972c677d8e1baedbd091d6ae35d": {
+    "url": "thecradlemedia/62966",
+    "title": "Explosion Rocks Majdal Zoun After Israeli Demolition",
+    "published": "2026-06-28T21:07:28.548182+00:00"
+  },
   "6a75b6a8906e8634368f30af2adfec5d8e149051656c3857a9474b876533be47": {
     "url": "intelslava/89484",
     "title": "Russian-Backed Forces Target Ukrainian Logistics in Krasny Liman",
@@ -69,6 +99,11 @@
     "title": "Iran to respond more forcefully to MoU violations after 2nd night of fire exchange with US",
     "published": "2026-06-28T17:00:03+00:00"
   },
+  "e224fe1b3977be8317ef015175af58a5b711de13a35c4c22fc214737b50f41e0": {
+    "url": "https://english.almanar.com.lb/article/98227/",
+    "title": "One Serious Injury in Tel Aviv Car Blast, the 2nd Such Explosion in Central \u2018Israel\u2019 within Hours: Israeli Media - Al-Manar TV Lebanon",
+    "published": "2026-06-28T16:11:57+00:00"
+  },
   "d191eae7fe6d1b2ed04eaa86f1580105dd8c0c82bfa833c2eb13adc0d8c20848": {
     "url": "warmonitors/44722",
     "title": "Car Explosion Rocks Israeli City, Leaving One Critically Injured",
@@ -99,6 +134,11 @@
     "title": "Iraq Seeks to Boost Oil Exports via Turkey Amid Hormuz Disruption",
     "published": "2026-06-28T15:24:37.860631+00:00"
   },
+  "da0687377d3ced5563ead614eaff31c0dafa0b57ab78799722803d813acd03e4": {
+    "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss",
+    "title": "Three firefighters killed in US wildfires along Colorado\u2013Utah border",
+    "published": "2026-06-28T15:16:10+00:00"
+  },
   "16fb01aa83c5f8a8385ab6240b6fc768a6cc4fb592fa7672e688ee7c7bb3634a": {
     "url": "DDGeopolitics/187674",
     "title": "Iraq Arrests Politicians in Anti-Corruption Sweep Amid US Pressure",
@@ -128,6 +168,11 @@
     "url": "thecradlemedia/62953",
     "title": "Iran Urges Implementation of Lebanon Ceasefire Clause",
     "published": "2026-06-28T13:57:16.842442+00:00"
+  },
+  "a2bc8ff5638bc8f02da452122e214a8de9a23de89caccd07a2d7fc3e7cdf646d": {
+    "url": "https://tass.com/economy/2152623",
+    "title": "US in search of quick, low-cost missile production options after Iran operation \u2014 media",
+    "published": "2026-06-28T13:41:08+00:00"
   },
   "6f57b696349a8e0c79d024632681c28cf5fba7ca3f594312caf474c21797ba23": {
     "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
@@ -353,6 +398,11 @@
     "url": "https://tass.com/world/2152475",
     "title": "US attacks targets in Iran in response to attack on a tanker \u2014 Axios journalist",
     "published": "2026-06-27T22:11:25+00:00"
+  },
+  "ec6420b364f96b4cbc9b6b6725b6fde3e2a6f9fed5b1c52f0df2394c7e1d4772": {
+    "url": "https://tass.com/politics/2152469",
+    "title": "Ukrainian drone downed while approaching Moscow \u2014 mayor",
+    "published": "2026-06-27T21:48:31+00:00"
   },
   "e0bd930e2d870daf9e4eb448d0b16d91e8584fc20f96c71e7298d35c9034dac0": {
     "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/245627/CENTCOM-reports-attacking-targets-in-Iran",
     "title": "CENTCOM reports attacking targets in Iran",
     "published": "2026-06-27T03:54:08+00:00"
-  },
-  "b9e335cd1faa44c7cf7e48c9b04c06d67246fbb6f010f5845815afed10ea2216": {
-    "url": "Slavyangrad/167664",
-    "title": "Volgograd Attacked by Enemy Missiles",
-    "published": "2026-06-27T03:49:40.596362+00:00"
-  },
-  "af573f60656473cb100a15f04bf37a2e440846e1d35ec6047c2175dd2f6609ba": {
-    "url": "Slavyangrad/167669",
-    "title": "Zaporozhye Under Fire: Industrial Facilities and Gas Stations Hit in Airstrikes",
-    "published": "2026-06-27T03:49:33.719150+00:00"
-  },
-  "21631fff737a6e352b3d4ffc677c74f236d4f91d8c36c647022b1e6796cd2905": {
-    "url": "intelslava/89397",
-    "title": "Protests Erupt in Beirut Following Lebanon-Israel Agreement",
-    "published": "2026-06-27T03:49:09.102590+00:00"
-  },
-  "45e09d9131edb3f365620216464b62572e82cdf46642cee7937a828d4f667199": {
-    "url": "intelslava/89401",
-    "title": "Lebanon Protests Erupt Amid Israel Framework Agreement",
-    "published": "2026-06-27T03:48:41.117782+00:00"
-  },
-  "f52e38ad93ae133c05cb448d463c9c5e2068d22bceeff06fb1d7b5c1eb70ac7b": {
-    "url": "Middle_East_Spectator/33935",
-    "title": "US-Iran Tensions Escalate in Strait of Hormuz",
-    "published": "2026-06-27T03:47:37.878265+00:00"
-  },
-  "8db608ee5684ff881b526f7f7ab92d2b5d71a54f8b5011d6304ff82f5a66547d": {
-    "url": "thecradlemedia/62866",
-    "title": "Syrian Grand Mufti Ahmed Badr al-Din Hassoun on trial in Damascus",
-    "published": "2026-06-27T03:47:36.188449+00:00"
-  },
-  "103a4718f2547ead4b59c653a0c0cdcd367ef119dbb0e50b144d772d97eabdb0": {
-    "url": "https://tass.com/world/2152275",
-    "title": "Iranian army announces strikes against US forces in Middle East",
-    "published": "2026-06-27T02:10:00+00:00"
-  },
-  "a292332b856e965088a3d151e5a7cf456255fc0af83ab458a24cdcfe2e423a03": {
-    "url": "https://tass.com/politics/2152273",
-    "title": "Russian forces thwart Kiev\u2019s counterattack near Krasny Liman \u2014 military expert",
-    "published": "2026-06-27T01:58:19+00:00"
-  },
-  "c5828b7502e0ddb9ee282fa02cffba5ec2e6c90e6905b08ecb069a82a2929c59": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
-    "title": "Trump justifies strikes on Iran amid ceasefire",
-    "published": "2026-06-27T00:16:58+00:00"
-  },
-  "467a5434881fb81145f06e013fa205dc7df9408875c83b6c55ea4f82e171b51d": {
-    "url": "https://www.rt.com/news/642255-iran-us-strikes-lebanon-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US and Iran trade strikes, Hezbollah warns of \u2018civil war\u2019 over Israel-Lebanon deal: Live updates",
-    "published": "2026-06-27T00:13:36+00:00"
   }
 }
