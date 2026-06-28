@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4283,
+  "total_calls": 4287,
   "tiers": {
-    "groq": 4264,
+    "groq": 4268,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-25T07:50:25.894384+00:00",
-      "tier": "groq",
-      "article": "Drone attacks near Baghdad airport raise security concerns"
-    },
-    {
-      "timestamp": "2026-06-25T07:50:42.368201+00:00",
-      "tier": "groq",
-      "article": "UNIFIL calls for halt to military escalation in Southern Lebanon"
-    },
-    {
-      "timestamp": "2026-06-25T07:50:58.767562+00:00",
-      "tier": "groq",
-      "article": "UAE, Saudi Arabia intercept Iranian missiles and drones"
-    },
-    {
-      "timestamp": "2026-06-25T07:51:14.910206+00:00",
-      "tier": "groq",
-      "article": "Board of Peace to meet in Cyprus from June 30 to July 1 \u2014 portal"
-    },
     {
       "timestamp": "2026-06-25T10:48:37.736294+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-28T08:59:34.480160+00:00",
       "tier": "groq",
       "article": "Fourth Minsk Conference on Eurasian Security to take place on November 3-4 \u2014 Russian MFA"
+    },
+    {
+      "timestamp": "2026-06-28T11:51:03.262975+00:00",
+      "tier": "groq",
+      "article": "Tehran Condemns US Strikes as \u201cBarbaric,\u201d Accuses Washington of Renouncing Commitments - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-28T11:51:21.802713+00:00",
+      "tier": "groq",
+      "article": "\u2018US trying to find its way out of MoU with Iran\u2019"
+    },
+    {
+      "timestamp": "2026-06-28T11:51:52.158787+00:00",
+      "tier": "groq",
+      "article": "Iran attacks Kuwait and Bahrain in response to US strikes"
+    },
+    {
+      "timestamp": "2026-06-28T11:52:08.343436+00:00",
+      "tier": "groq",
+      "article": "Russia destroys up to platoon of Ukrainian troops in Novoskelevatoye"
     }
   ]
 }

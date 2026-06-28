@@ -1,4 +1,44 @@
 {
+  "b78f9e9300a359b77b56a74c4d8abf5353b92b91f8c694151817300d60000347": {
+    "url": "thecradlemedia/62938",
+    "title": "Iraqi Security Forces Arrest Senior Officials in Anti-Corruption Raids",
+    "published": "2026-06-28T11:58:04.622860+00:00"
+  },
+  "83e3585a706973da6b1afa9ea7e3b81c7a8ae9dbbaf34ecf5b6e254cadec9300": {
+    "url": "thecradlemedia/62941",
+    "title": "Car Bomb Rocks Holon, Israel Amid Wider Wave of Violence",
+    "published": "2026-06-28T11:57:29.417711+00:00"
+  },
+  "2db2a08e0c60966c17dea2e80a6ea5d56da3a0c1ab59195d6b973209a88a810a": {
+    "url": "thecradlemedia/62942",
+    "title": "Israeli Forces Ambushed in Southern Lebanon",
+    "published": "2026-06-28T11:57:10.889019+00:00"
+  },
+  "80240e74e2e03c71b9234904639ed04cb356c57f830cb60deb52da57126bab0b": {
+    "url": "thecradlemedia/62943",
+    "title": "Iran Calls for Regional Security Framework, Vows to Reopen Strait of Hormuz",
+    "published": "2026-06-28T11:57:10.191674+00:00"
+  },
+  "b42b9b37f74b164687e796bdd47efebcee8b3263d042098366e076a99b400627": {
+    "url": "thecradlemedia/62944",
+    "title": "IRGC Warns US of Forceful Response to Ceasefire Violations",
+    "published": "2026-06-28T11:54:47.750835+00:00"
+  },
+  "68d7e78557f26c5d5f4161c41767cc0fdf8ef71ff06f56fbfcd1575b793cac92": {
+    "url": "thecradlemedia/62945",
+    "title": "Israeli Drone Strike Kills Two in Northern Gaza",
+    "published": "2026-06-28T11:52:12.384142+00:00"
+  },
+  "203bf1017d719f5a4fd737ea6a7c0fdec26c41f95da15014ed41cff9a9ef0b32": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
+    "title": "\u2018US trying to find its way out of MoU with Iran\u2019",
+    "published": "2026-06-28T10:30:45+00:00"
+  },
+  "f48bee556a52de8720dfccd547f64780df8404b38a958206f60e5eb510b5fa10": {
+    "url": "https://english.almanar.com.lb/article/97997/",
+    "title": "Tehran Condemns US Strikes as \u201cBarbaric,\u201d Accuses Washington of Renouncing Commitments - Al-Manar TV Lebanon",
+    "published": "2026-06-28T09:19:21+00:00"
+  },
   "253bfcc4d1c115ab00a48a8f3a7cbded3110425f5a8b06ca4b570ade54fb7245": {
     "url": "Slavyangrad/167734",
     "title": "Russia Launches Iskander-K Missiles in Central Kiev",
@@ -28,6 +68,11 @@
     "url": "QudsNen/229124",
     "title": "Israel Imposes Property Taxes on Churches in Occupied Jerusalem",
     "published": "2026-06-28T08:59:44.829652+00:00"
+  },
+  "87854c4c754d206c450a94b921b58a132c5527be5ab6ad528ad186d5767a34a2": {
+    "url": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
+    "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
+    "published": "2026-06-28T08:39:48+00:00"
   },
   "bb863216f14c2bce0b90a3a1485d3b6830167b2e45aac50221a88698cf7bd37a": {
     "url": "https://www.tehrantimes.com/news/527686/Iran-minister-announces-memorial-initiatives-for-Minab-school",
@@ -323,6 +368,11 @@
     "url": "https://tass.com/emergencies/2152383",
     "title": "Number of people injured in Ukrainian strike on memorial complex near Taganrog up to 12",
     "published": "2026-06-27T12:37:15+00:00"
+  },
+  "65bde75d37dd469b3af77a95b14cc3290d72b31403e5837d788ca80a2843ae0c": {
+    "url": "https://tass.com/defense/2152385",
+    "title": "Russia destroys up to platoon of Ukrainian troops in Novoskelevatoye",
+    "published": "2026-06-27T12:33:10+00:00"
   },
   "b530d45911f455075c4578e9798dbc4f5a478191884a7408b0a102a65475740b": {
     "url": "https://www.rt.com/news/642277-iran-us-hormuz-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -698,55 +748,5 @@
     "url": "https://english.almanar.com.lb/article/97602/",
     "title": "Amnesty: Four Months after Horrific Minab School Airstrike by USA,\u00a0Accountability Delayed\u00a0 - Al-Manar TV Lebanon",
     "published": "2026-06-26T16:21:50+00:00"
-  },
-  "4aaaba2fb49b0d4246632b9c64d12a8b0beaebf5ed5b7d850303b9237a5ba474": {
-    "url": "https://www.tehrantimes.com/news/527637/The-blood-of-Minab-America-s-war-on-Iran-and-the-world-s-silence",
-    "title": "The blood of Minab: America\u2019s war on Iran and the world\u2019s silence",
-    "published": "2026-06-26T15:36:48+00:00"
-  },
-  "be55a8e3e004001aca4c79797c553b81975166b6114765eaedd7264f8766e01f": {
-    "url": "QudsNen/228952",
-    "title": "Israeli Forces Detain Palestinian in East Jerusalem",
-    "published": "2026-06-26T14:41:19.734899+00:00"
-  },
-  "dd20c54c7503b6f137829aee386301782628017bb5f89a041b61d49d65eaf952": {
-    "url": "QudsNen/228964",
-    "title": "Israeli Forces Clash with Palestinian Bus Driver in East Jerusalem",
-    "published": "2026-06-26T14:39:42.217304+00:00"
-  },
-  "f0004ec21c46ca57eaf47030d4a1f5437d6a38749ead4fd4490be299b4f2d879": {
-    "url": "thecradlemedia/62822",
-    "title": "Israeli Military Claims Hezbollah Fighters Killed in Southern Lebanon",
-    "published": "2026-06-26T14:37:07.862310+00:00"
-  },
-  "e980cc81dd66eacacac60a48b1d8491d67c0b10379a7988e63ef6bb0121803a4": {
-    "url": "thecradlemedia/62825",
-    "title": "Turkish Contractors Set to Dominate Ukraine's Post-War Reconstruction",
-    "published": "2026-06-26T14:35:59.571302+00:00"
-  },
-  "5659018c34b4bbb61ae0fddabacba532a28369e657770654f120cbf4feab5882": {
-    "url": "thecradlemedia/62827",
-    "title": "Gaza Mourns Qassam Commander Walid Haniyeh",
-    "published": "2026-06-26T14:35:57.465290+00:00"
-  },
-  "c4493440484d8cd4374813a551fd9ae650f93bc899383edbc752364c94026daa": {
-    "url": "thecradlemedia/62830",
-    "title": "Oman Issues Emergency Maritime Protocols for Strait of Hormuz",
-    "published": "2026-06-26T14:33:15.947618+00:00"
-  },
-  "3064669c1ecc5ed0b7ab02d8fd5bf2e2bc114db29f646f4c283b95651efb5922": {
-    "url": "https://tass.com/emergencies/2152085",
-    "title": "Powerful earthquake hits central Japan",
-    "published": "2026-06-26T14:18:45+00:00"
-  },
-  "743ab446d977e517954f32a814a7b5545f4fdaaa9123d7c1e246b760caa85afc": {
-    "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
-    "title": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know",
-    "published": "2026-06-26T14:04:34+00:00"
-  },
-  "5e733dd709d97ef2d4c613cf6affe461d9da63bee38f829750e965fd9cc42d43": {
-    "url": "https://en.mehrnews.com/news/245626/How-40-day-war-challenged-US-global-standing",
-    "title": "How Iran war challenged US global standing",
-    "published": "2026-06-26T14:03:39+00:00"
   }
 }
