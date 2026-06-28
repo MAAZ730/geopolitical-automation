@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4299,
+  "total_calls": 4303,
   "tiers": {
-    "groq": 4280,
+    "groq": 4284,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-25T21:47:05.427045+00:00",
-      "tier": "groq",
-      "article": "Video| Hezbollah\u2019s High-quality Missiles Strike Israeli Enemy\u2019s Soldiers and Vehicles in South Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-25T21:47:45.056546+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s top strike-drone maker moves into ballistic missile defense"
-    },
-    {
-      "timestamp": "2026-06-25T21:48:01.454091+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s newest strike weapon drifts into Russia on the wind"
-    },
-    {
-      "timestamp": "2026-06-25T21:48:17.619933+00:00",
-      "tier": "groq",
-      "article": "Trump says he is disappointed with most NATO members over Iran"
-    },
     {
       "timestamp": "2026-06-25T23:23:58.012926+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-28T17:21:15.001884+00:00",
       "tier": "groq",
       "article": "When the American arsonist wears a rescue uniform in Venezuela"
+    },
+    {
+      "timestamp": "2026-06-28T19:25:51.729976+00:00",
+      "tier": "groq",
+      "article": "US \u2018very nature is to break promises\u2019 \u2013 Iran\u2019s IRGC"
+    },
+    {
+      "timestamp": "2026-06-28T19:26:28.586265+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks leave one civilian dead in Russia\u2019s Belgorod Region in past day"
+    },
+    {
+      "timestamp": "2026-06-28T19:27:14.415473+00:00",
+      "tier": "groq",
+      "article": "Kuwait\u2019s Defense Ministry reports interception of two ballistic missiles"
+    },
+    {
+      "timestamp": "2026-06-28T19:27:33.120884+00:00",
+      "tier": "groq",
+      "article": "Finland finalizes lifting ban on nuclear weapons deployment"
     }
   ]
 }
