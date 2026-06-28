@@ -1,4 +1,44 @@
 {
+  "21fe0cf9e9ff30175e3e08f5fe9d18b373fc52a3a3bdf87ed14888bbc58f63dc": {
+    "url": "Slavyangrad/167791",
+    "title": "Russian Forces Strike Zaporozhye Industrial Zone with FAB Glide Bombs",
+    "published": "2026-06-28T23:13:32.348325+00:00"
+  },
+  "8fa009f8add4cba92b34f07135951c30dcdfd62845677b1e3fee6e89a7084330": {
+    "url": "Slavyangrad/167798",
+    "title": "Russia Foils Alleged Ukrainian Terror Plot in Crimea",
+    "published": "2026-06-28T23:13:23.247866+00:00"
+  },
+  "b16eae7706cbe7d0b967511e02612d4170cbd08cccb9b87d6fb60d6c4bf32219": {
+    "url": "presstv/196047",
+    "title": "Israeli Airstrikes Hit Majdal Zoun in Southern Lebanon",
+    "published": "2026-06-28T23:10:15.698554+00:00"
+  },
+  "76e7279693d8acca6b0fd9b19a6a8b214ed4390e840ecf1dd2620a9bec7bef0a": {
+    "url": "QudsNen/229219",
+    "title": "Israeli Tanks Advance on Wadi Gaza",
+    "published": "2026-06-28T23:09:20.885071+00:00"
+  },
+  "9d14ea0cb4379c67413ee7239c1544b001d27198cee8a709dc9a6d8d58c9e718": {
+    "url": "QudsNen/229221",
+    "title": "Israeli Settlement Expansion Continues in West Bank",
+    "published": "2026-06-28T23:08:23.228066+00:00"
+  },
+  "5c214dbc7ef9683fcb6283c99672c8fb8e687f1c4cfe7a53a53c5fa3303b2ca0": {
+    "url": "QudsNen/229222",
+    "title": "Israeli Artillery Targets Al-Bureij Refugee Camp in Gaza",
+    "published": "2026-06-28T23:08:22.119611+00:00"
+  },
+  "ac5696744c5740669d13865fce82c0790dddec42b66f12b32001548e09bd2bde": {
+    "url": "https://www.rt.com/news/642325-plane-crash-france-dead/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Eleven dead in plane crash in France",
+    "published": "2026-06-28T21:53:38+00:00"
+  },
+  "5d5cc6fc5cbeb4f574099e772daaff59bf9cd31bb515b79479b708580f2fb7c6": {
+    "url": "https://tass.com/world/2152763",
+    "title": "United States, Iran agreed to stop strikes \u2014 Axios",
+    "published": "2026-06-28T21:14:16+00:00"
+  },
   "a9f2300b51b5fe20169a6430cff5f6791a11b7c42cedd77005f4103ae4076a3f": {
     "url": "BellumActaNews/174670",
     "title": "Israeli Finance Minister Warns of Hamas Control in West Bank",
@@ -344,10 +384,20 @@
     "title": "US Airstrikes Hit Iranian Coastal Military Targets",
     "published": "2026-06-28T04:13:51.754365+00:00"
   },
+  "76e739e29bffc393ae29cb5a92176fd64c4679d0a3df270146c75ae72dcefc8e": {
+    "url": "https://tass.com/emergencies/2152527",
+    "title": "At least one killed by falling drone fragments in south Russia",
+    "published": "2026-06-28T04:07:47+00:00"
+  },
   "155879490f96d003122ef74c9630180382519ab2a91fdf991f8e33a2854df307": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
     "title": "Gulf countries attacked after US launches second round of strikes on Iran",
     "published": "2026-06-28T03:40:58+00:00"
+  },
+  "5edb056908c24371d4a9a5f02933c987805f4ee555fd9262983b71841efb0276": {
+    "url": "https://tass.com/emergencies/2152509",
+    "title": "Falling drone fragments start fire on territory of oil refinery in south Russia",
+    "published": "2026-06-28T01:49:29+00:00"
   },
   "f440272829b2468c7f438e0971b9953b0d6e9d6eb2205092b9a86fa6bbecc190": {
     "url": "https://tass.com/world/2152505",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/245649/Iran-denounces-US-airstrikes-against-southern-coastal-areas",
     "title": "Iran FM denounces US violation of ceasefire, MoU",
     "published": "2026-06-27T07:44:55+00:00"
-  },
-  "2c18f0fcb10e65240527b4455ba0c443576ffe4949f2b2d9d46a79e127b73dc1": {
-    "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-    "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-    "published": "2026-06-27T07:20:15+00:00"
-  },
-  "5e8695c5045fe51cc797cea56dd8f2a1ef49355b34ff598918a34e738afa7690": {
-    "url": "mod_russia_en/27812",
-    "title": "Russian Forces Strike Ukrainian Militant Positions in Dnepropetrovsk Region",
-    "published": "2026-06-27T07:03:37.915046+00:00"
-  },
-  "9c7eeee872bffbb548c5e5c653b43fca77a869fd94646256bf9bb34529367898": {
-    "url": "Slavyangrad/167685",
-    "title": "Ukrainian SBU Agent Accused of Plotting US Independence Day Attack",
-    "published": "2026-06-27T07:02:26.642454+00:00"
-  },
-  "e54bd3341fee9db49c8e1ca94316016205e042780fefbf645678ee09cda62f77": {
-    "url": "Slavyangrad/167688",
-    "title": "Russian Airstrikes Hit AFU Deployment Points at Slavyansk Thermal Power Plant",
-    "published": "2026-06-27T07:01:43.538183+00:00"
-  },
-  "e77e9b5196598cb8fc0ca16a3328a41e9c8e5ab145d7c346af3952f23b916613": {
-    "url": "presstv/195825",
-    "title": "IRGC Targets US Military Positions in Region Amid Tensions",
-    "published": "2026-06-27T07:01:00.423204+00:00"
-  },
-  "7570315ee13617fcf6ef7bca7e798f78d15532674263b9bc102c1e459115487b": {
-    "url": "QudsNen/229007",
-    "title": "Israeli Forces Ransack Homes in Occupied West Bank Village",
-    "published": "2026-06-27T06:59:14.498855+00:00"
-  },
-  "89459888813df70aef31a856dabc6c897577a72b1193f3384284be8eac2f923e": {
-    "url": "QudsNen/229014",
-    "title": "Hezbollah Leader Rejects Lebanon-Israel Framework Agreement",
-    "published": "2026-06-27T06:59:13.427599+00:00"
-  },
-  "4a669324bf1177be5fbbbf3d745b4506c80c891633984d68e41ec6e56f2121e3": {
-    "url": "https://en.irna.ir/news/86193537/IRGC-Navy-strikes-US-military-positions-after-American-aggression",
-    "title": "IRGC Navy strikes US military positions after American aggression",
-    "published": "2026-06-27T05:56:39+00:00"
-  },
-  "fd23f680f139d3b83ec91df4b2d54daca47cac1fecde004753773f03521a223d": {
-    "url": "https://tass.com/politics/2152293",
-    "title": "European security concept \"has gone bankrupt, collapsed spectacularly\" \u2014 Russian MFA",
-    "published": "2026-06-27T05:32:04+00:00"
-  },
-  "e8c2f63c5fc161cc038629d606c25bf1983b3185009c39f2db8c9815aef67ada": {
-    "url": "https://en.mehrnews.com/news/245627/CENTCOM-reports-attacking-targets-in-Iran",
-    "title": "CENTCOM reports attacking targets in Iran",
-    "published": "2026-06-27T03:54:08+00:00"
   }
 }

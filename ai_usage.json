@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4307,
+  "total_calls": 4311,
   "tiers": {
-    "groq": 4288,
+    "groq": 4292,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-26T04:03:00.345925+00:00",
-      "tier": "groq",
-      "article": "Deadly heatwave sweeps Europe"
-    },
-    {
-      "timestamp": "2026-06-26T04:03:35.897833+00:00",
-      "tier": "groq",
-      "article": "Massive Ukrainian drone attack on Russia\u2019s Tula Region leaves woman injured \u2014 governor"
-    },
-    {
-      "timestamp": "2026-06-26T04:04:29.300905+00:00",
-      "tier": "groq",
-      "article": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye"
-    },
-    {
-      "timestamp": "2026-06-26T04:05:17.533461+00:00",
-      "tier": "groq",
-      "article": "NATO must be held to account for role in aggression on Iran"
-    },
     {
       "timestamp": "2026-06-26T08:04:03.620277+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-28T21:06:58.222719+00:00",
       "tier": "groq",
       "article": "Ukrainian drone downed while approaching Moscow \u2014 mayor"
+    },
+    {
+      "timestamp": "2026-06-28T23:06:39.480252+00:00",
+      "tier": "groq",
+      "article": "United States, Iran agreed to stop strikes \u2014 Axios"
+    },
+    {
+      "timestamp": "2026-06-28T23:07:14.084897+00:00",
+      "tier": "groq",
+      "article": "Eleven dead in plane crash in France"
+    },
+    {
+      "timestamp": "2026-06-28T23:07:59.544632+00:00",
+      "tier": "groq",
+      "article": "At least one killed by falling drone fragments in south Russia"
+    },
+    {
+      "timestamp": "2026-06-28T23:08:16.652422+00:00",
+      "tier": "groq",
+      "article": "Falling drone fragments start fire on territory of oil refinery in south Russia"
     }
   ]
 }
