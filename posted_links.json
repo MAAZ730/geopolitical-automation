@@ -1,4 +1,39 @@
 {
+  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
+    "url": "CensoredMen/203",
+    "title": "Israel Intensifies Strikes in Lebanon Amid Iran-US Ceasefire",
+    "published": "2026-06-28T17:26:42.758118+00:00"
+  },
+  "06c1512e28e36f39fac4b9bded52d8bd313791ae5d32dd53c48ece80d4d6854b": {
+    "url": "presstv/196026",
+    "title": "Multiple Fatalities in Dual Car Bombings in Holon and Tel Aviv",
+    "published": "2026-06-28T17:24:10.712577+00:00"
+  },
+  "a98982ef79159e588f9afb53850a6945015b31a502fab9ce83620a27ba5607ef": {
+    "url": "DDGeopolitics/187685",
+    "title": "Russia Cracks Down on Filming of Military Strikes in Ukraine",
+    "published": "2026-06-28T17:23:19.148995+00:00"
+  },
+  "f0af907ff00182a6c33133d972799805c56f156556217fe2d90db8c75acb2969": {
+    "url": "QudsNen/229198",
+    "title": "Israeli Forces Detain Palestinian in West Bank Raid",
+    "published": "2026-06-28T17:21:45.580413+00:00"
+  },
+  "eed7b11af1554efa3508f2ff762c43fbb977332e682ececf0ac7d21a05799719": {
+    "url": "thecradlemedia/62958",
+    "title": "Hezbollah Claims Fatal Attack on Israeli Golani Brigade Commander",
+    "published": "2026-06-28T17:21:25.233130+00:00"
+  },
+  "c315562b8ca709cbee1b64ab87ba3574b861857600475e8457c1613f3f43acf4": {
+    "url": "thecradlemedia/62959",
+    "title": "Israel Sells Advanced Defense Systems to Qatar, Saudi Arabia",
+    "published": "2026-06-28T17:21:19.294258+00:00"
+  },
+  "f2f472e6e4b553d8a96fc584617c65effc45e7db3114c4681206ba07896af103": {
+    "url": "https://www.tehrantimes.com/news/527715/Iran-to-respond-more-forcefully-to-MoU-violations-after-2nd-night",
+    "title": "Iran to respond more forcefully to MoU violations after 2nd night of fire exchange with US",
+    "published": "2026-06-28T17:00:03+00:00"
+  },
   "d191eae7fe6d1b2ed04eaa86f1580105dd8c0c82bfa833c2eb13adc0d8c20848": {
     "url": "warmonitors/44722",
     "title": "Car Explosion Rocks Israeli City, Leaving One Critically Injured",
@@ -169,10 +204,20 @@
     "title": "Iran war day 121: IRGC hits Kuwait, Bahrain after US attacks near Hormuz",
     "published": "2026-06-28T06:14:45+00:00"
   },
+  "f138cf4f76d08ac30e3153f6fffc8a57aaf070469cda8bde88264e2cb7a0697a": {
+    "url": "https://en.mehrnews.com/news/245678/Three-security-personnel-killed-in-attack-in-Karachi",
+    "title": "Three security personnel killed in attack in Karachi",
+    "published": "2026-06-28T05:59:15+00:00"
+  },
   "87a6872e7cb2589e65b225e625ab125f8eaa3f74578917e775b9aa1356ebe787": {
     "url": "https://en.mehrnews.com/news/245677/IRGC-Navy-warns-US-bases-will-experience-hell",
     "title": "IRGC Navy warns US bases will 'experience hell'",
     "published": "2026-06-28T05:51:37+00:00"
+  },
+  "3f03594b07539762802def5324936c931ef7eab5deb622282471f4942dcc0b76": {
+    "url": "https://en.irna.ir/news/86194524/IRGC-says-it-conducted-missile-drone-operation-in-response-to",
+    "title": "IRGC says it conducted missile, drone operation in response to US attacks",
+    "published": "2026-06-28T05:45:06+00:00"
   },
   "3dfa0951d6ac86ad0be232b68bcd232d04249f74b045241e46c4e63b91eba6ea": {
     "url": "https://en.mehrnews.com/news/245676/Iran-Foreign-Ministry-issues-statement-after-fresh-US-attacks",
@@ -338,6 +383,11 @@
     "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
     "title": "Kenya rights groups say protesters found dumped, tortured after arrests",
     "published": "2026-06-27T18:46:23+00:00"
+  },
+  "3b2e06c92cbc65f8aa97caf6488b96bb91339d7c9af87a2cc7fb589f4d39775e": {
+    "url": "https://www.tehrantimes.com/news/527676/When-the-American-arsonist-wears-a-rescue-uniform-in-Venezuela",
+    "title": "When the American arsonist wears a rescue uniform in Venezuela",
+    "published": "2026-06-27T18:09:26+00:00"
   },
   "38c0900fc6d802a678513db6be29efd3a104f85a6fe2a7a882386f5f353484f3": {
     "url": "https://www.tehrantimes.com/news/527683/US-bombs-diplomacy-yet-again",
@@ -698,55 +748,5 @@
     "url": "https://www.defensenews.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
     "title": "US strikes Iranian missile, drone, radar sites",
     "published": "2026-06-26T22:08:28+00:00"
-  },
-  "ed2608d74ae1fcd7fa146719643487f7788b58c05bb02f847f13a7a579b52b8a": {
-    "url": "DDGeopolitics/187553",
-    "title": "Lebanon Protests Erupt Over Israel Deal",
-    "published": "2026-06-26T21:28:55.782700+00:00"
-  },
-  "3736a2c72600550e0d9c40dc354d9e772f63b7009668f245f1a7cd17ed52c9b0": {
-    "url": "DDGeopolitics/187557",
-    "title": "Lebanese Protests Erupt Over Israel Deal",
-    "published": "2026-06-26T21:28:25.215807+00:00"
-  },
-  "40ccc11347b160135eb9d097e51be6e879a5218812bf61955a2efa75b663c0f6": {
-    "url": "Middle_East_Spectator/33921",
-    "title": "Lebanon-Israel Talks Spark Protests in Beirut",
-    "published": "2026-06-26T21:27:55.093055+00:00"
-  },
-  "c5d5d98b2d8cdbf3bb8e35b886d08972164f87aa9b2669d2925c6bfc50b4a11d": {
-    "url": "Middle_East_Spectator/33926",
-    "title": "Israel's Alleged Plan to Spark Civil War in Lebanon",
-    "published": "2026-06-26T21:27:33.036700+00:00"
-  },
-  "126b6d5715a412180848645ed28ff90e06ff092e90d79770434f875475e127f6": {
-    "url": "thecradlemedia/62844",
-    "title": "Iranian Crew Members Repatriated from Pakistan After US Seizure",
-    "published": "2026-06-26T21:26:38.155049+00:00"
-  },
-  "cbb23b8e39c9636503e980b2a5f2d1aa899a5e659b3b9bbc89a0f173df577d57": {
-    "url": "thecradlemedia/62856",
-    "title": "Israel, Lebanon Agree on US-Brokered Framework Deal Amid Ongoing Tensions",
-    "published": "2026-06-26T21:26:36.878201+00:00"
-  },
-  "d184180ecdf0db55bab4641fbcc2747140bea1f1a906decb91f1ebd713b95d5a": {
-    "url": "https://tass.com/world/2152243",
-    "title": "US servicemen confirm strikes on Iran",
-    "published": "2026-06-26T21:25:00+00:00"
-  },
-  "fb72cbfe69eb56473eda6332a810960f8d3b748068e338025cec04863eba7e9d": {
-    "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-    "title": "US conducts strikes on Iran after attack on cargo ship",
-    "published": "2026-06-26T21:05:16+00:00"
-  },
-  "b733b6f49a024b5cdb628ddd442ce7a02bab22cb8e566ac2a4bb13857dec94c2": {
-    "url": "https://www.rt.com/news/642253-us-military-conducts-strikes-against-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US strikes Iran after attack on commercial ship",
-    "published": "2026-06-26T20:44:23+00:00"
-  },
-  "415c48bbbe6715d3bcdf121546987da91caf5b7f4eb881ef2bd0012ae1b87dd8": {
-    "url": "https://tass.com/politics/2152227",
-    "title": "Russia hits Ukrainian warehouse, gas station, temporary duty station",
-    "published": "2026-06-26T20:37:00+00:00"
   }
 }
