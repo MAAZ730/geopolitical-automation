@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4319,
+  "total_calls": 4323,
   "tiers": {
-    "groq": 4300,
+    "groq": 4304,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-26T14:31:55.013114+00:00",
-      "tier": "groq",
-      "article": "Aid groups urge swift action to avert \u2018atrocities\u2019 in Sudan\u2019s el-Obeid"
-    },
-    {
-      "timestamp": "2026-06-26T14:32:38.484125+00:00",
-      "tier": "groq",
-      "article": "Iran slams the GCC and the US for \u2018interventionist\u2019 statement: What we know"
-    },
-    {
-      "timestamp": "2026-06-26T14:32:54.442430+00:00",
-      "tier": "groq",
-      "article": "One civilian killed as munition detonates in Russia\u2019s Belgorod Region"
-    },
-    {
-      "timestamp": "2026-06-26T14:33:12.708458+00:00",
-      "tier": "groq",
-      "article": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production"
-    },
     {
       "timestamp": "2026-06-26T17:54:23.401861+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-29T11:10:43.167608+00:00",
       "tier": "groq",
       "article": "Mayor of Zaporozhye nuke plant host city dismisses evacuation reports"
+    },
+    {
+      "timestamp": "2026-06-29T15:55:25.325792+00:00",
+      "tier": "groq",
+      "article": "Why Pakistan\u2019s Afghan air strikes aren\u2019t stopping armed attacks"
+    },
+    {
+      "timestamp": "2026-06-29T15:55:41.613976+00:00",
+      "tier": "groq",
+      "article": "Putin says Ukraine attacks won\u2019t halt Russian advance"
+    },
+    {
+      "timestamp": "2026-06-29T15:56:00.490407+00:00",
+      "tier": "groq",
+      "article": "Condemnations as Israeli Occupation Attacks Southern Syria Anew - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-29T15:56:37.147952+00:00",
+      "tier": "groq",
+      "article": "Kiarostami\u2019s \u201cCertified Copy\u201d to be shown at Karlovy Vary International Film Festival"
     }
   ]
 }
