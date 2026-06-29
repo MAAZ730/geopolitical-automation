@@ -1,4 +1,44 @@
 {
+  "3047ceb8d718bf42f2f53351b2f5b3ea1142c163ae49ad9d5b880e7dd8a3b134": {
+    "url": "mod_russia_en/27836",
+    "title": "Russian Forces Destroy Enemy Vehicles with Electronic Warfare System in Krasny Liman",
+    "published": "2026-06-29T04:26:39.703519+00:00"
+  },
+  "9cf56da97e9e35cd4f46d74194687be3adab1f8ce3c6a069ad489afae32924ee": {
+    "url": "Slavyangrad/167833",
+    "title": "Ukraine Conflict: Zaporozhye Lubricants Plant Hit in Precision Drone Strike",
+    "published": "2026-06-29T04:25:47.531747+00:00"
+  },
+  "968ed2caa288313e441693cce211b4a627b56f142bb5714f94e0ee5e8148380b": {
+    "url": "DDGeopolitics/187716",
+    "title": "Saudi-Loyal Tribes Mobilize Against AnsarAllah in Yemen",
+    "published": "2026-06-29T04:21:26.641711+00:00"
+  },
+  "c3afc3a650a3ad73767eabc4239040679ebd05b575f8a1f2af06d755a8f12b6c": {
+    "url": "DDGeopolitics/187717",
+    "title": "Yemen Tribes Mobilize Against Saudi Aggression Amid Fears of New Offensives",
+    "published": "2026-06-29T04:20:07.176921+00:00"
+  },
+  "fb6d86dbafe9681e98b78d35935387ccb1467f27c81f23f5d6db32acc1140877": {
+    "url": "QudsNen/229223",
+    "title": "Slovenia's New Government Abandons Palestine Recognition",
+    "published": "2026-06-29T04:17:12.946078+00:00"
+  },
+  "ef1a1bcbfd37baf9225327593473a0c3ba5150361e8bca267af1a907c3aa6db8": {
+    "url": "QudsNen/229225",
+    "title": "Gaza Strip Agriculture Devastated by Conflict",
+    "published": "2026-06-29T04:17:10.492171+00:00"
+  },
+  "e02fe235f2ab62259cd238ab95b971d942db7642d7a6a461de59377c18762bbb": {
+    "url": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
+    "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
+    "published": "2026-06-29T03:55:02+00:00"
+  },
+  "40abfbd78cd4cb3cfeb8dba5c8ab15896956a98cd4e17d91e945dc0acd347f3f": {
+    "url": "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border?traffic_source=rss",
+    "title": "Pakistan says its security forces killed 29 fighters along Afghan border",
+    "published": "2026-06-29T01:06:44+00:00"
+  },
   "21fe0cf9e9ff30175e3e08f5fe9d18b373fc52a3a3bdf87ed14888bbc58f63dc": {
     "url": "Slavyangrad/167791",
     "title": "Russian Forces Strike Zaporozhye Industrial Zone with FAB Glide Bombs",
@@ -133,6 +173,11 @@
     "url": "thecradlemedia/62959",
     "title": "Israel Sells Advanced Defense Systems to Qatar, Saudi Arabia",
     "published": "2026-06-28T17:21:19.294258+00:00"
+  },
+  "3213b4e8ec78a3914797a1017b0f42471d5642e5f732785ab8712ceaed6055e7": {
+    "url": "https://www.tehrantimes.com/news/527718/Iran-pledges-to-pursue-accountability-for-Sardasht-chemical-attack",
+    "title": "Iran pledges to pursue accountability for Sardasht chemical attack",
+    "published": "2026-06-28T17:07:01+00:00"
   },
   "f2f472e6e4b553d8a96fc584617c65effc45e7db3114c4681206ba07896af103": {
     "url": "https://www.tehrantimes.com/news/527715/Iran-to-respond-more-forcefully-to-MoU-violations-after-2nd-night",
@@ -353,6 +398,11 @@
     "url": "https://en.mehrnews.com/news/245676/Iran-Foreign-Ministry-issues-statement-after-fresh-US-attacks",
     "title": "Iran Foreign Ministry issues statement after fresh US attacks",
     "published": "2026-06-28T05:38:39+00:00"
+  },
+  "a04439475fb03c49eaf15cdea326a877168a40d109dc7fc8002beb7c7411aa11": {
+    "url": "https://tass.com/emergencies/2152521",
+    "title": "Venezuelan journalist projects earthquake death toll to count in tens of thousands",
+    "published": "2026-06-28T04:17:17+00:00"
   },
   "a520005a1585d9edc4c8a62b6b8000954dffe35b3a31d00017a946cc5df575ce": {
     "url": "BellumActaNews/174640",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/187604",
     "title": "US Commentators Disagree on Status of Iran's Nuclear Program",
     "published": "2026-06-27T10:30:56.572768+00:00"
-  },
-  "a5319f59a436c233cc5e1062b8636b47d69eae881e2358f4370ea31f72f259cd": {
-    "url": "QudsNen/229020",
-    "title": "Israeli Airstrike Kills Palestinian Police Officers in Gaza",
-    "published": "2026-06-27T10:24:53.055605+00:00"
-  },
-  "d657678c3f26f4f94236e971f6ffb2e228176d715473f677a22f295d69c8e29d": {
-    "url": "QudsNen/229024",
-    "title": "Gaza City Residents Find Solace in FIFA World Cup Amidst Devastation",
-    "published": "2026-06-27T10:22:23.506329+00:00"
-  },
-  "2b76d327ee73e9e4203968850847efe5deaa25924b777c414741a3aa8972f219": {
-    "url": "thecradlemedia/62882",
-    "title": "Israeli Military Expansion in Gaza Amid Ongoing Ceasefire Violations",
-    "published": "2026-06-27T10:16:21.808420+00:00"
-  },
-  "5695929d2123e117ff2061540472c16c3dd12548f254b0ca2843af6710e11fe7": {
-    "url": "thecradlemedia/62889",
-    "title": "US-Iran Conflict Escalates as Bahrain Accuses Iran of Drone Attack",
-    "published": "2026-06-27T10:16:19.355292+00:00"
-  },
-  "e85801804e63f485954ff024c3d4f47a5df397034c4c6f02f5e41c461723cf54": {
-    "url": "https://tass.com/politics/2152319",
-    "title": "Fourth Minsk Conference on Eurasian Security to take place on November 3-4 \u2014 Russian MFA",
-    "published": "2026-06-27T09:25:05+00:00"
-  },
-  "9527ecb9c02b8569671ed5fdfcd410f6a0b4e18257f74474e6a64b09a6143bdb": {
-    "url": "https://en.irna.ir/news/86193875/US-assaults-on-Iranian-coastal-facilities-violate-war-end-MoU",
-    "title": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran",
-    "published": "2026-06-27T08:58:58+00:00"
-  },
-  "611b54944fe479850bc184817db472780a2858ac6f1cbd11738e99654ce11512": {
-    "url": "https://en.mehrnews.com/news/245653/Death-toll-from-Venezuela-quake-exceeds-900",
-    "title": "Death toll from Venezuela quake exceeds 900",
-    "published": "2026-06-27T08:13:03+00:00"
-  },
-  "3214606e51091ee2fd782262e14e5ccd4353d2938a74ae6e0cf658f45d6fc4ec": {
-    "url": "https://english.almanar.com.lb/article/97697/",
-    "title": "US Strike Triggers Iranian Retaliation Targeting American Positions - Al-Manar TV Lebanon",
-    "published": "2026-06-27T08:08:22+00:00"
-  },
-  "eaf79f980983d4c16832705907ae7b49bed9d87455006fd1f53f6416ee733197": {
-    "url": "https://tass.com/politics/2152311",
-    "title": "Drones that attacked Moscow assembled through cooperation of NATO countries \u2014 expert",
-    "published": "2026-06-27T07:56:35+00:00"
-  },
-  "a84b4df1a99e2d8bdeaa0442472d4cde65d141f4f6d92e2208bdeddcc78d64c9": {
-    "url": "https://en.mehrnews.com/news/245649/Iran-denounces-US-airstrikes-against-southern-coastal-areas",
-    "title": "Iran FM denounces US violation of ceasefire, MoU",
-    "published": "2026-06-27T07:44:55+00:00"
   }
 }
