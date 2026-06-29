@@ -1,4 +1,49 @@
 {
+  "9d5bf07f394793902eec1d9d00101be32eb39cb0f070519c80536cf00487abad": {
+    "url": "DDGeopolitics/187738",
+    "title": "Ukraine Infrastructure Suffers from Prolonged Heatwave",
+    "published": "2026-06-29T11:13:54.240864+00:00"
+  },
+  "1210921c864b1beeefa4978247b6abb6811c0419f15a1ca8a5cbeb3e62fa9178": {
+    "url": "QudsNen/229248",
+    "title": "Israeli Forces Demolish School in Gaza Strip",
+    "published": "2026-06-29T11:13:19.403555+00:00"
+  },
+  "ea1220d937c3f09af864bccaafcf67847832fb310fb9d2359a3772dce5297f11": {
+    "url": "thecradlemedia/62988",
+    "title": "Israeli Artillery Shelling Targets Deir Siryan in South Lebanon",
+    "published": "2026-06-29T11:12:12.080075+00:00"
+  },
+  "c9e6e80e0ffc0bf676a950ef3b76a5424556e3342437472f391f194d95f5795d": {
+    "url": "thecradlemedia/62992",
+    "title": "Israel Deploys Drones in Occupied West Bank to Intimidate Palestinians",
+    "published": "2026-06-29T11:11:40.436311+00:00"
+  },
+  "3033eaf98073094110c76650adac7a1ebde8f0d0c5b05e446ee0d0be50105f8b": {
+    "url": "thecradlemedia/62995",
+    "title": "Oil Prices Rise Amid Temporary Halt in US-Iran Hostilities",
+    "published": "2026-06-29T11:11:39.502889+00:00"
+  },
+  "713e30dac5e711e4372ef1b95a19947e4e2a1695807afd9f1198e45fde676a42": {
+    "url": "thecradlemedia/62996",
+    "title": "Israeli Drones Deploy Thermal Balloons in South Lebanon",
+    "published": "2026-06-29T11:11:37.819728+00:00"
+  },
+  "cf4e9e70758960cfee0581a9888b1886583ea089ac1dd7110068758940d1b2da": {
+    "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
+    "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
+    "published": "2026-06-29T09:58:08+00:00"
+  },
+  "30994d4ed1a8ce7d5fb6bb6e26d00a9c823e62e1be47e3ddfc155833a8134f3e": {
+    "url": "https://english.almanar.com.lb/article/98437/",
+    "title": "Hezbollah Issues New Warning over Fresh Israeli Violations - Al-Manar TV Lebanon",
+    "published": "2026-06-29T09:49:35+00:00"
+  },
+  "2e721fa48810f569645007538698afdfb66b79ba93b6af0e3f2e6513667659bd": {
+    "url": "https://warontherocks.com/a-new-force-posture-concept-for-europeanizing-extended-nuclear-deterrence/",
+    "title": "A New Force Posture Concept for Europeanizing Extended Nuclear Deterrence",
+    "published": "2026-06-29T07:30:58+00:00"
+  },
   "3047ceb8d718bf42f2f53351b2f5b3ea1142c163ae49ad9d5b880e7dd8a3b134": {
     "url": "mod_russia_en/27836",
     "title": "Russian Forces Destroy Enemy Vehicles with Electronic Warfare System in Krasny Liman",
@@ -308,6 +353,11 @@
     "url": "thecradlemedia/62945",
     "title": "Israeli Drone Strike Kills Two in Northern Gaza",
     "published": "2026-06-28T11:52:12.384142+00:00"
+  },
+  "ee1185b87c154d2e1511b1d002e214a0eca5312ba230eaa3632caedf0b5e63e8": {
+    "url": "https://tass.com/society/2152615",
+    "title": "Mayor of Zaporozhye nuke plant host city dismisses evacuation reports",
+    "published": "2026-06-28T11:32:49+00:00"
   },
   "203bf1017d719f5a4fd737ea6a7c0fdec26c41f95da15014ed41cff9a9ef0b32": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/62906",
     "title": "British Medical Association Rejects IHRA Definition Amid Concerns Over Censorship",
     "published": "2026-06-27T13:50:48.858418+00:00"
-  },
-  "03d69da310ef0c77633a95a41ed9f3e294760e0d4fc7b744b2072e3c5e4d1503": {
-    "url": "thecradlemedia/62912",
-    "title": "CENTCOM Vows to Protect Commercial Shipping in Strait of Hormuz",
-    "published": "2026-06-27T13:50:46.499985+00:00"
-  },
-  "5c529ec0f5f9f6d8b1c36f76cd85fcc9f987d1a12ae2ab1751e93bbeaf8ddb8c": {
-    "url": "https://thecradle.co/articles-id/38475",
-    "title": "Iran announces new retaliatory strikes on US targets following latest ceasefire violations",
-    "published": "2026-06-27T13:12:54+00:00"
-  },
-  "d28468220c52136a5ff93adcdc3cac538b5fff558deb7f76d0387700aa4c2e4c": {
-    "url": "https://en.mehrnews.com/news/245663/Security-forces-kill-8-terrorists-in-SW-Pakistan-ops",
-    "title": "Security forces kill 8 terrorists in SW Pakistan ops.",
-    "published": "2026-06-27T13:07:52+00:00"
-  },
-  "0723e450d92818fb0183a872fa90ee5fae60a119d6a5a6312bd0cc57977fd4f2": {
-    "url": "https://tass.com/emergencies/2152383",
-    "title": "Number of people injured in Ukrainian strike on memorial complex near Taganrog up to 12",
-    "published": "2026-06-27T12:37:15+00:00"
-  },
-  "65bde75d37dd469b3af77a95b14cc3290d72b31403e5837d788ca80a2843ae0c": {
-    "url": "https://tass.com/defense/2152385",
-    "title": "Russia destroys up to platoon of Ukrainian troops in Novoskelevatoye",
-    "published": "2026-06-27T12:33:10+00:00"
-  },
-  "b530d45911f455075c4578e9798dbc4f5a478191884a7408b0a102a65475740b": {
-    "url": "https://www.rt.com/news/642277-iran-us-hormuz-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US and Iran exchange strikes first time since signing interim peace deal",
-    "published": "2026-06-27T11:47:39+00:00"
-  },
-  "11f95acec1398d716e8ec3093fa0664bbcbaa191616d59fd3f74fcd22ef8decf": {
-    "url": "https://english.almanar.com.lb/article/97722/",
-    "title": "Iran: Brutal US Attacks Blatant Violation of MoU - Al-Manar TV Lebanon",
-    "published": "2026-06-27T10:36:35+00:00"
-  },
-  "d0d2b286fc9628ac4cb11c9ada42526551ec9b3f425f9897e5600a29e6eb3170": {
-    "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
-    "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-    "published": "2026-06-27T10:32:24+00:00"
-  },
-  "bc61e4474ddca59179ceac2db6822191e0b937291c97a9ad9a3385c1fae8bdaf": {
-    "url": "Slavyangrad/167692",
-    "title": "Russian Airstrikes Hit Ukrainian Drone Command Post in Kherson",
-    "published": "2026-06-27T10:31:25.505528+00:00"
-  },
-  "24740869f57d93f3bfb9337c42abd8069888e60374e02170ea44f74aaf536e57": {
-    "url": "DDGeopolitics/187604",
-    "title": "US Commentators Disagree on Status of Iran's Nuclear Program",
-    "published": "2026-06-27T10:30:56.572768+00:00"
   }
 }

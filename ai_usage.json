@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4315,
+  "total_calls": 4319,
   "tiers": {
-    "groq": 4296,
+    "groq": 4300,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-26T11:14:56.402735+00:00",
-      "tier": "groq",
-      "article": "North Korea conducts major weapons tests; South training \u2018drone warriors\u2019"
-    },
-    {
-      "timestamp": "2026-06-26T11:15:33.647314+00:00",
-      "tier": "groq",
-      "article": "Iran vows never to forget or forgive Leader\u2019s assassination"
-    },
-    {
-      "timestamp": "2026-06-26T11:16:22.878983+00:00",
-      "tier": "groq",
-      "article": "Europe 'getting a taste' for producing UAVs for Ukrainian strikes against Russia \u2014 expert"
-    },
-    {
-      "timestamp": "2026-06-26T11:16:41.468966+00:00",
-      "tier": "groq",
-      "article": "US and Iran clash over Hormuz transit fees"
-    },
     {
       "timestamp": "2026-06-26T14:31:55.013114+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-29T04:17:01.141603+00:00",
       "tier": "groq",
       "article": "Iran pledges to pursue accountability for Sardasht chemical attack"
+    },
+    {
+      "timestamp": "2026-06-29T11:08:53.418574+00:00",
+      "tier": "groq",
+      "article": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?"
+    },
+    {
+      "timestamp": "2026-06-29T11:09:34.573736+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Issues New Warning over Fresh Israeli Violations - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-29T11:10:27.110846+00:00",
+      "tier": "groq",
+      "article": "A New Force Posture Concept for Europeanizing Extended Nuclear Deterrence"
+    },
+    {
+      "timestamp": "2026-06-29T11:10:43.167608+00:00",
+      "tier": "groq",
+      "article": "Mayor of Zaporozhye nuke plant host city dismisses evacuation reports"
     }
   ]
 }
