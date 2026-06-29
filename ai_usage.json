@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4323,
+  "total_calls": 4327,
   "tiers": {
-    "groq": 4304,
+    "groq": 4308,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-26T17:54:23.401861+00:00",
-      "tier": "groq",
-      "article": "Amnesty: Four Months after Horrific Minab School Airstrike by USA,\u00a0Accountability Delayed\u00a0 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-26T17:55:05.618871+00:00",
-      "tier": "groq",
-      "article": "Iran urges UN to hold US, Israel accountable for deadly strike on Minab school"
-    },
-    {
-      "timestamp": "2026-06-26T17:55:25.061935+00:00",
-      "tier": "groq",
-      "article": "The blood of Minab: America\u2019s war on Iran and the world\u2019s silence"
-    },
-    {
-      "timestamp": "2026-06-26T17:57:02.356448+00:00",
-      "tier": "groq",
-      "article": "Houthi congratulates Iran's victory over US, Zionist regime"
-    },
     {
       "timestamp": "2026-06-26T19:54:38.244637+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-29T15:56:37.147952+00:00",
       "tier": "groq",
       "article": "Kiarostami\u2019s \u201cCertified Copy\u201d to be shown at Karlovy Vary International Film Festival"
+    },
+    {
+      "timestamp": "2026-06-29T18:14:04.023992+00:00",
+      "tier": "groq",
+      "article": "Pakistan launches retaliatory airstrikes in Afghanistan after terror attacks"
+    },
+    {
+      "timestamp": "2026-06-29T18:14:40.780420+00:00",
+      "tier": "groq",
+      "article": "Israeli army strikes three Hezbollah command centers in response to ceasefire violations"
+    },
+    {
+      "timestamp": "2026-06-29T18:15:27.751415+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike drone storage facility in Kharkov"
+    },
+    {
+      "timestamp": "2026-06-29T18:15:47.390725+00:00",
+      "tier": "groq",
+      "article": "History will not forget perpetrators, supporters of Sardasht chemical bombing: Iran envoy"
     }
   ]
 }
