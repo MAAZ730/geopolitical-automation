@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4331,
+  "total_calls": 4335,
   "tiers": {
-    "groq": 4312,
+    "groq": 4316,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-26T21:24:58.777541+00:00",
-      "tier": "groq",
-      "article": "US strikes Iran after attack on commercial ship"
-    },
-    {
-      "timestamp": "2026-06-26T21:25:36.870346+00:00",
-      "tier": "groq",
-      "article": "US conducts strikes on Iran after attack on cargo ship"
-    },
-    {
-      "timestamp": "2026-06-26T21:25:52.972071+00:00",
-      "tier": "groq",
-      "article": "Russia hits Ukrainian warehouse, gas station, temporary duty station"
-    },
-    {
-      "timestamp": "2026-06-26T21:26:32.975516+00:00",
-      "tier": "groq",
-      "article": "Efforts intensified in Venezuela as quake death toll hits 235"
-    },
     {
       "timestamp": "2026-06-26T23:12:15.994350+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-29T21:42:57.885853+00:00",
       "tier": "groq",
       "article": "Macron, MBS discuss US-Iran escalation"
+    },
+    {
+      "timestamp": "2026-06-29T23:04:27.695274+00:00",
+      "tier": "groq",
+      "article": "US says it has agreed to 'stand down' after exchange of strikes with Iran"
+    },
+    {
+      "timestamp": "2026-06-29T23:04:43.783841+00:00",
+      "tier": "groq",
+      "article": "Isfahan unveils tourism roadmap, plans heritage restoration after recent damage"
+    },
+    {
+      "timestamp": "2026-06-29T23:05:20.948454+00:00",
+      "tier": "groq",
+      "article": "Total of 124 vessels transited Strait of Hormuz in four days \u2014 CNN"
+    },
+    {
+      "timestamp": "2026-06-29T23:06:10.648942+00:00",
+      "tier": "groq",
+      "article": "Iran proves it can control Hormuz Strait, former US lawmaker says"
     }
   ]
 }
