@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4327,
+  "total_calls": 4331,
   "tiers": {
-    "groq": 4308,
+    "groq": 4312,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-26T19:54:38.244637+00:00",
-      "tier": "groq",
-      "article": "Iran denies unfrozen assets will be spent on US foodstuffs"
-    },
-    {
-      "timestamp": "2026-06-26T19:55:19.870574+00:00",
-      "tier": "groq",
-      "article": "How Iran war challenged US global standing"
-    },
-    {
-      "timestamp": "2026-06-26T19:56:10.812739+00:00",
-      "tier": "groq",
-      "article": "Iran issues fresh warnings over Israeli military activity and presence in Lebanon"
-    },
-    {
-      "timestamp": "2026-06-26T19:57:47.797862+00:00",
-      "tier": "groq",
-      "article": "Europe's bloody hands revealed"
-    },
     {
       "timestamp": "2026-06-26T21:24:58.777541+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-29T18:15:47.390725+00:00",
       "tier": "groq",
       "article": "History will not forget perpetrators, supporters of Sardasht chemical bombing: Iran envoy"
+    },
+    {
+      "timestamp": "2026-06-29T21:40:52.725754+00:00",
+      "tier": "groq",
+      "article": "Iraq sets September deadline for resistance factions to disarm"
+    },
+    {
+      "timestamp": "2026-06-29T21:41:26.289413+00:00",
+      "tier": "groq",
+      "article": "Iran honors \u2018pioneer of public diplomacy\u2019 assassinated in US-Israeli strike"
+    },
+    {
+      "timestamp": "2026-06-29T21:42:12.199919+00:00",
+      "tier": "groq",
+      "article": "Pakistani strikes kill dozens of Afghan villagers"
+    },
+    {
+      "timestamp": "2026-06-29T21:42:57.885853+00:00",
+      "tier": "groq",
+      "article": "Macron, MBS discuss US-Iran escalation"
     }
   ]
 }
