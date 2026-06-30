@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4351,
+  "total_calls": 4355,
   "tiers": {
-    "groq": 4332,
+    "groq": 4336,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T13:49:28.280927+00:00",
-      "tier": "groq",
-      "article": "Number of people injured in Ukrainian strike on memorial complex near Taganrog up to 12"
-    },
-    {
-      "timestamp": "2026-06-27T13:50:04.676267+00:00",
-      "tier": "groq",
-      "article": "Iran: Brutal US Attacks Blatant Violation of MoU - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-27T13:50:24.382463+00:00",
-      "tier": "groq",
-      "article": "US and Iran exchange strikes first time since signing interim peace deal"
-    },
-    {
-      "timestamp": "2026-06-27T13:50:42.007604+00:00",
-      "tier": "groq",
-      "article": "Powerful earthquake hits central Japan"
-    },
     {
       "timestamp": "2026-06-27T15:21:24.623961+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-30T14:30:09.334173+00:00",
       "tier": "groq",
       "article": "Sheikh Hasina vows to return to Bangladesh this year despite death sentence"
+    },
+    {
+      "timestamp": "2026-06-30T17:59:18.749224+00:00",
+      "tier": "groq",
+      "article": "Defense chief vows \u2018decisive\u2019 response to any ceasefire breach by US"
+    },
+    {
+      "timestamp": "2026-06-30T18:00:03.667868+00:00",
+      "tier": "groq",
+      "article": "How severe is Russia\u2019s energy shortage because of Ukrainian strikes?"
+    },
+    {
+      "timestamp": "2026-06-30T18:00:20.411825+00:00",
+      "tier": "groq",
+      "article": "Militants from Sudan attack city in CAR, Russian specialists carry out airstrike"
+    },
+    {
+      "timestamp": "2026-06-30T18:00:59.484447+00:00",
+      "tier": "groq",
+      "article": "No country allowed to intervene in demining in Hormuz"
     }
   ]
 }
