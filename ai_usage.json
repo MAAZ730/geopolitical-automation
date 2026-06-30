@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4359,
+  "total_calls": 4363,
   "tiers": {
-    "groq": 4340,
+    "groq": 4344,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T17:17:20.179407+00:00",
-      "tier": "groq",
-      "article": "Drones that attacked Moscow assembled through cooperation of NATO countries \u2014 expert"
-    },
-    {
-      "timestamp": "2026-06-27T17:17:53.956141+00:00",
-      "tier": "groq",
-      "article": "Security forces kill 8 terrorists in SW Pakistan ops."
-    },
-    {
-      "timestamp": "2026-06-27T17:18:47.924839+00:00",
-      "tier": "groq",
-      "article": "Trump sees himself \u2018most powerful man that the planet has ever known\u2019"
-    },
-    {
-      "timestamp": "2026-06-27T17:19:06.801627+00:00",
-      "tier": "groq",
-      "article": "Russian forces thwart Kiev\u2019s counterattack near Krasny Liman \u2014 military expert"
-    },
     {
       "timestamp": "2026-06-27T19:28:08.939770+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-30T20:15:07.977025+00:00",
       "tier": "groq",
       "article": "Hong Kong\u2019s first batches of free PLA ship tour tickets gone within minutes"
+    },
+    {
+      "timestamp": "2026-06-30T23:19:23.550892+00:00",
+      "tier": "groq",
+      "article": "What is birthright citizenship, and what does the Supreme Court ruling say?"
+    },
+    {
+      "timestamp": "2026-06-30T23:19:39.612379+00:00",
+      "tier": "groq",
+      "article": "Israeli army eliminates Islamic Jihad commander involved in hostage-taking"
+    },
+    {
+      "timestamp": "2026-06-30T23:20:13.952806+00:00",
+      "tier": "groq",
+      "article": "Five humanitarian workers killed in convoy ambush in South Sudan"
+    },
+    {
+      "timestamp": "2026-06-30T23:20:30.145894+00:00",
+      "tier": "groq",
+      "article": "Iraq ready to host US-Iran talks: Envoy"
     }
   ]
 }

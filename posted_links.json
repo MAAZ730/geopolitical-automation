@@ -1,4 +1,39 @@
 {
+  "af7e64acac213996984f358d583613c059d111eb251e8bd6e8736385617046cc": {
+    "url": "Slavyangrad/167960",
+    "title": "Russian Strikes Cause Widespread Power Outages Across Ukraine",
+    "published": "2026-06-30T23:25:14.355838+00:00"
+  },
+  "8d5a1b3615ce94fe3b3060cec11b04a530e8e6162765c1b0b10de6afcb773c3e": {
+    "url": "Slavyangrad/167972",
+    "title": "Bavarian Special Forces Demonstrate War Readiness in Nuremberg",
+    "published": "2026-06-30T23:24:11.143070+00:00"
+  },
+  "3c55d485b9f5720c6283ddbfe490262306835b7ff1502d650064f86146627b6c": {
+    "url": "intelslava/89587",
+    "title": "Russia Targets Ukrainian Power Infrastructure with Geran-4 Loitering Munitions",
+    "published": "2026-06-30T23:23:36.293508+00:00"
+  },
+  "c96fe2c615e57bdfdaa6badbfc88a5182274ee316a4e38fc46ed48377f391683": {
+    "url": "presstv/196319",
+    "title": "US, Iran, Lebanon Form Trilateral Committee to Monitor Lebanon Peace Agreement",
+    "published": "2026-06-30T23:22:23.585513+00:00"
+  },
+  "b637108d320dc616a21b9a9b0f8c602de7a09413cdd600214915fdbbf11c1480": {
+    "url": "QudsNen/229458",
+    "title": "Israeli Artillery Strikes Al-Bureij Refugee Camp in Gaza",
+    "published": "2026-06-30T23:20:37.673235+00:00"
+  },
+  "9f0e79e83789c0623d8fadb14b176a9a5ec3cf3c532a85147b4b30105ef954c0": {
+    "url": "QudsNen/229460",
+    "title": "Israeli Forces Close Palestinian Charity in Nablus",
+    "published": "2026-06-30T23:20:36.589647+00:00"
+  },
+  "67bbb9ac76299b89d350a1fe56114a9348065115b1f49acf876b31a6c9494a03": {
+    "url": "https://www.aljazeera.com/news/2026/6/30/what-is-birthright-citizenship-and-what-does-the-supreme-court-ruling-say?traffic_source=rss",
+    "title": "What is birthright citizenship, and what does the Supreme Court ruling say?",
+    "published": "2026-06-30T21:30:43+00:00"
+  },
   "1898d70cedc2a4ff38e4da00001c0e73fa7d23a3edaa43373a505698ccd92e57": {
     "url": "intelslava/89579",
     "title": "Moscow Region Residential Building Hit in Ukrainian Drone Attack",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/63129",
     "title": "Israeli Munition Kills Lebanese Man in Touline",
     "published": "2026-06-30T20:15:11.196059+00:00"
+  },
+  "643a7ee82e641b6cb8d28ae9f9da1202e43320cafdfe22e9748e5147bfedf4e4": {
+    "url": "https://www.aljazeera.com/news/2026/6/30/five-humanitarian-workers-killed-in-convoy-ambush-in-south-sudan?traffic_source=rss",
+    "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
+    "published": "2026-06-30T20:03:13+00:00"
   },
   "92d86900e5d6ddb2a1f55d55596bab0687706807f3182991a9f519d2df630b0b": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
@@ -83,6 +123,11 @@
     "url": "https://tass.com/politics/2153669",
     "title": "Kiev's sponsors refuse to respond to deaths of children in Russia in airstrikes \u2014 MP",
     "published": "2026-06-30T15:52:26+00:00"
+  },
+  "4deb069b4d6346b3fd3f7a9cfbdc6bad932998d663c04e482db708facc619168": {
+    "url": "https://tass.com/world/2153639",
+    "title": "Israeli army eliminates Islamic Jihad commander involved in hostage-taking",
+    "published": "2026-06-30T14:42:39+00:00"
   },
   "443cc0c33cb990a84a09236fde9d25bf08b34905ba52b1b6ce426b24c9db57b6": {
     "url": "DDGeopolitics/187825",
@@ -223,6 +268,11 @@
     "url": "https://en.mehrnews.com/news/245745/Israeli-strikes-kill-eight-in-Gaza-overall-toll-tops-73-000",
     "title": "Israeli strikes kill eight in Gaza, overall toll tops 73,000",
     "published": "2026-06-30T04:58:26+00:00"
+  },
+  "6919c068c5e352df3cb5a0ebefb63651558879f75945d2e561ccb0a569122524": {
+    "url": "https://en.mehrnews.com/news/245744/Iraq-ready-to-host-US-Iran-talks-Envoy",
+    "title": "Iraq ready to host US-Iran talks: Envoy",
+    "published": "2026-06-30T04:37:29+00:00"
   },
   "ebf228b3e1511d61210d37694e90d6a5cf38e77f846821685b8e562effb56f20": {
     "url": "Slavyangrad/167899",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/187685",
     "title": "Russia Cracks Down on Filming of Military Strikes in Ukraine",
     "published": "2026-06-28T17:23:19.148995+00:00"
-  },
-  "f0af907ff00182a6c33133d972799805c56f156556217fe2d90db8c75acb2969": {
-    "url": "QudsNen/229198",
-    "title": "Israeli Forces Detain Palestinian in West Bank Raid",
-    "published": "2026-06-28T17:21:45.580413+00:00"
-  },
-  "eed7b11af1554efa3508f2ff762c43fbb977332e682ececf0ac7d21a05799719": {
-    "url": "thecradlemedia/62958",
-    "title": "Hezbollah Claims Fatal Attack on Israeli Golani Brigade Commander",
-    "published": "2026-06-28T17:21:25.233130+00:00"
-  },
-  "c315562b8ca709cbee1b64ab87ba3574b861857600475e8457c1613f3f43acf4": {
-    "url": "thecradlemedia/62959",
-    "title": "Israel Sells Advanced Defense Systems to Qatar, Saudi Arabia",
-    "published": "2026-06-28T17:21:19.294258+00:00"
-  },
-  "61e63f7bafb9225c6f5713aa735736a4317399a0b0a52cd4736b70594f1660f1": {
-    "url": "https://www.tehrantimes.com/news/527690/Kiarostami-s-Certified-Copy-to-be-shown-at-Karlovy-Vary-International",
-    "title": "Kiarostami\u2019s \u201cCertified Copy\u201d to be shown at Karlovy Vary International Film Festival",
-    "published": "2026-06-28T17:19:02+00:00"
-  },
-  "3213b4e8ec78a3914797a1017b0f42471d5642e5f732785ab8712ceaed6055e7": {
-    "url": "https://www.tehrantimes.com/news/527718/Iran-pledges-to-pursue-accountability-for-Sardasht-chemical-attack",
-    "title": "Iran pledges to pursue accountability for Sardasht chemical attack",
-    "published": "2026-06-28T17:07:01+00:00"
-  },
-  "f2f472e6e4b553d8a96fc584617c65effc45e7db3114c4681206ba07896af103": {
-    "url": "https://www.tehrantimes.com/news/527715/Iran-to-respond-more-forcefully-to-MoU-violations-after-2nd-night",
-    "title": "Iran to respond more forcefully to MoU violations after 2nd night of fire exchange with US",
-    "published": "2026-06-28T17:00:03+00:00"
-  },
-  "e224fe1b3977be8317ef015175af58a5b711de13a35c4c22fc214737b50f41e0": {
-    "url": "https://english.almanar.com.lb/article/98227/",
-    "title": "One Serious Injury in Tel Aviv Car Blast, the 2nd Such Explosion in Central \u2018Israel\u2019 within Hours: Israeli Media - Al-Manar TV Lebanon",
-    "published": "2026-06-28T16:11:57+00:00"
-  },
-  "d191eae7fe6d1b2ed04eaa86f1580105dd8c0c82bfa833c2eb13adc0d8c20848": {
-    "url": "warmonitors/44722",
-    "title": "Car Explosion Rocks Israeli City, Leaving One Critically Injured",
-    "published": "2026-06-28T15:27:51.866034+00:00"
-  },
-  "d9b0a03c122c6e1d96ec49f7e079b07c9890b6506a1db228cde6d66867bf61cd": {
-    "url": "QudsNen/229177",
-    "title": "Palestinian Man Killed in Israeli Drone Strike in Gaza's Beit Lahia",
-    "published": "2026-06-28T15:27:26.823208+00:00"
-  },
-  "26e820802e26fd73f991bae688081feb1eab29a5aceaa5554c6527bbb339eeaf": {
-    "url": "QudsNen/229180",
-    "title": "Israeli Forces Detain Palestinians in Anata Raid",
-    "published": "2026-06-28T15:26:04.281548+00:00"
   }
 }
