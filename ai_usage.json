@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4347,
+  "total_calls": 4351,
   "tiers": {
-    "groq": 4328,
+    "groq": 4332,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T10:15:08.279726+00:00",
-      "tier": "groq",
-      "article": "Iran war day 120: Tehran condemns US strikes, says it violates MoU"
-    },
-    {
-      "timestamp": "2026-06-27T10:15:24.423643+00:00",
-      "tier": "groq",
-      "article": "US Strike Triggers Iranian Retaliation Targeting American Positions - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-27T10:15:44.467818+00:00",
-      "tier": "groq",
-      "article": "Trump meets US arms dealers in bid to replenish dwindling Pentagon stocks"
-    },
-    {
-      "timestamp": "2026-06-27T10:16:10.663037+00:00",
-      "tier": "groq",
-      "article": "Anton Khlopkov: The hardest part of a US-Iran nuclear deal still lies ahead"
-    },
     {
       "timestamp": "2026-06-27T13:49:28.280927+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-30T11:17:49.367927+00:00",
       "tier": "groq",
       "article": "US Army wants up to 100 drone boats to fill watercraft gap in Pacific"
+    },
+    {
+      "timestamp": "2026-06-30T14:28:50.904299+00:00",
+      "tier": "groq",
+      "article": "Gaza: Mother and Infant Daughter Martyred in Israeli Strikes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-30T14:29:29.792329+00:00",
+      "tier": "groq",
+      "article": "French politician accuses Kiev of plotting assassination attempt on entrepreneur in Monaco"
+    },
+    {
+      "timestamp": "2026-06-30T14:29:49.527310+00:00",
+      "tier": "groq",
+      "article": "One of three injured in Monaco explosion remains in critical condition \u2014 prosecutor"
+    },
+    {
+      "timestamp": "2026-06-30T14:30:09.334173+00:00",
+      "tier": "groq",
+      "article": "Sheikh Hasina vows to return to Bangladesh this year despite death sentence"
     }
   ]
 }
