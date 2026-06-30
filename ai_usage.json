@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4339,
+  "total_calls": 4343,
   "tiers": {
-    "groq": 4320,
+    "groq": 4324,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T03:46:20.530274+00:00",
-      "tier": "groq",
-      "article": "US and Iran trade strikes, Hezbollah warns of \u2018civil war\u2019 over Israel-Lebanon deal: Live updates"
-    },
-    {
-      "timestamp": "2026-06-27T03:46:59.856079+00:00",
-      "tier": "groq",
-      "article": "Trump justifies strikes on Iran amid ceasefire"
-    },
-    {
-      "timestamp": "2026-06-27T03:47:16.215967+00:00",
-      "tier": "groq",
-      "article": "Iranian army announces strikes against US forces in Middle East"
-    },
-    {
-      "timestamp": "2026-06-27T03:47:33.873938+00:00",
-      "tier": "groq",
-      "article": "Hezbollah chief hails Islamabad MoU as defeat for US, Israeli regime"
-    },
     {
       "timestamp": "2026-06-27T06:58:02.299640+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-30T03:58:27.047285+00:00",
       "tier": "groq",
       "article": "IN BRIEF: No injuries reported as Russia downs total of 209 Ukrainian drones overnight"
+    },
+    {
+      "timestamp": "2026-06-30T07:59:27.764126+00:00",
+      "tier": "groq",
+      "article": "Israeli strikes kill eight in Gaza, overall toll tops 73,000"
+    },
+    {
+      "timestamp": "2026-06-30T08:00:03.215925+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks kill over 40 Russians, including two children, over week \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-06-30T08:00:20.901023+00:00",
+      "tier": "groq",
+      "article": "Six-month-old baby killed outside Moscow as Russia downs 419 Ukrainian drones"
+    },
+    {
+      "timestamp": "2026-06-30T08:00:38.388559+00:00",
+      "tier": "groq",
+      "article": "Qatar condemns Israeli incursions in Syria"
     }
   ]
 }
