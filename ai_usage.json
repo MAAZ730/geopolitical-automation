@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4343,
+  "total_calls": 4347,
   "tiers": {
-    "groq": 4324,
+    "groq": 4328,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T06:58:02.299640+00:00",
-      "tier": "groq",
-      "article": "IRGC Navy strikes US military positions after American aggression"
-    },
-    {
-      "timestamp": "2026-06-27T06:58:19.681725+00:00",
-      "tier": "groq",
-      "article": "Israel and Lebanon reach framework agreement"
-    },
-    {
-      "timestamp": "2026-06-27T06:58:48.081392+00:00",
-      "tier": "groq",
-      "article": "CENTCOM reports attacking targets in Iran"
-    },
-    {
-      "timestamp": "2026-06-27T06:59:06.138042+00:00",
-      "tier": "groq",
-      "article": "Uzbekistan hails de-escalation efforts in West Asia"
-    },
     {
       "timestamp": "2026-06-27T10:15:08.279726+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-30T08:00:38.388559+00:00",
       "tier": "groq",
       "article": "Qatar condemns Israeli incursions in Syria"
+    },
+    {
+      "timestamp": "2026-06-30T11:16:54.039395+00:00",
+      "tier": "groq",
+      "article": "Israeli forces combing southern Lebanese border town of Majdal Zoun amid heavy machine-gun fire and stun grenade strike: Al-Manar reporter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-06-30T11:17:10.256484+00:00",
+      "tier": "groq",
+      "article": "Syrian president urges Israel to withdraw troops following strikes in southern country"
+    },
+    {
+      "timestamp": "2026-06-30T11:17:28.660427+00:00",
+      "tier": "groq",
+      "article": "Man in Gaza survives double tap Israeli strike on vehicle"
+    },
+    {
+      "timestamp": "2026-06-30T11:17:49.367927+00:00",
+      "tier": "groq",
+      "article": "US Army wants up to 100 drone boats to fill watercraft gap in Pacific"
     }
   ]
 }
