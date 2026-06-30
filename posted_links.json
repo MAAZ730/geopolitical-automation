@@ -1,4 +1,39 @@
 {
+  "1898d70cedc2a4ff38e4da00001c0e73fa7d23a3edaa43373a505698ccd92e57": {
+    "url": "intelslava/89579",
+    "title": "Moscow Region Residential Building Hit in Ukrainian Drone Attack",
+    "published": "2026-06-30T20:22:24.340768+00:00"
+  },
+  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
+    "url": "CensoredMen/189",
+    "title": "Iran Fires Missiles at Israeli Territory",
+    "published": "2026-06-30T20:21:42.857269+00:00"
+  },
+  "ed04998b64590a3fef9615e51612dac06599085f81e3e1f71fd57b0086ae2219": {
+    "url": "presstv/196304",
+    "title": "US Military Targets Iranian Vessel in Persian Gulf",
+    "published": "2026-06-30T20:18:49.126637+00:00"
+  },
+  "e3ae3e23d314edda4cc98ba08e745f5a76dee2466b07d796f73ea79d26903993": {
+    "url": "DDGeopolitics/187842",
+    "title": "Russian Geran-4 Drones Target Power Infrastructure Over Dniepr River",
+    "published": "2026-06-30T20:16:14.334576+00:00"
+  },
+  "158cf439450e93c0277bdcb02de83b46731ebba3e557cfb1a3b7e706e21cfb74": {
+    "url": "Middle_East_Spectator/33996",
+    "title": "US Military Dominance Under Strain as China Expands Fleet",
+    "published": "2026-06-30T20:15:13.266269+00:00"
+  },
+  "b9d60e52f67cacd245156fc5f8543b49976406d438a84de18f5568df101aabb1": {
+    "url": "thecradlemedia/63129",
+    "title": "Israeli Munition Kills Lebanese Man in Touline",
+    "published": "2026-06-30T20:15:11.196059+00:00"
+  },
+  "92d86900e5d6ddb2a1f55d55596bab0687706807f3182991a9f519d2df630b0b": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
+    "title": "Russia\u2019s fuel crisis deepens following Ukrainian drone strikes",
+    "published": "2026-06-30T19:29:43+00:00"
+  },
   "321bcb564edb24546bf26d2f8f422d2fc97e20396c4fff89e0727d380ef53b98": {
     "url": "DDGeopolitics/187844",
     "title": "Israeli Rescue Teams Arrive in Venezuela Amid Gaza Conflict",
@@ -34,10 +69,20 @@
     "title": "Defense chief vows \u2018decisive\u2019 response to any ceasefire breach by US",
     "published": "2026-06-30T17:09:43+00:00"
   },
+  "66d0dc781755f8cf32847abaff3ea99a39a2ae965ef409ddc8836946b1bcec6e": {
+    "url": "https://tass.com/world/2153679",
+    "title": "US Supreme Court strikes down Trump\u2019s executive order limiting birthright citizenship",
+    "published": "2026-06-30T16:36:02+00:00"
+  },
   "95bbc0a9d312cb6fff79e33defd335542d8aada4683a5b320af56af950f46a8a": {
     "url": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes?traffic_source=rss",
     "title": "How severe is Russia\u2019s energy shortage because of Ukrainian strikes?",
     "published": "2026-06-30T16:31:28+00:00"
+  },
+  "65d7a05abe1bf8e30cdf987c87faaf9b6d24d0ee19ed470e5ecabb2bdb84988c": {
+    "url": "https://tass.com/politics/2153669",
+    "title": "Kiev's sponsors refuse to respond to deaths of children in Russia in airstrikes \u2014 MP",
+    "published": "2026-06-30T15:52:26+00:00"
   },
   "443cc0c33cb990a84a09236fde9d25bf08b34905ba52b1b6ce426b24c9db57b6": {
     "url": "DDGeopolitics/187825",
@@ -208,6 +253,11 @@
     "url": "Middle_East_Spectator/33985",
     "title": "Iran's Ayatollah Alireza Arafi Backs Disarmament of Artificial Intelligence",
     "published": "2026-06-30T03:58:31.365843+00:00"
+  },
+  "cdbe0c57a6dd6906176b06b8f69692032f35adee1c0885b52654d3225ce8ea29": {
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3358836/hong-kongs-first-batch-free-pla-ship-tour-tickets-gone-within-4-minutes?utm_source=rss_feed",
+    "title": "Hong Kong\u2019s first batches of free PLA ship tour tickets gone within minutes",
+    "published": "2026-06-30T03:27:21+00:00"
   },
   "f1290d799a90db63997f59635c750afa9e3157cb0d6dd97f655556d0f1e53be5": {
     "url": "https://www.aljazeera.com/news/2026/6/30/police-hunt-for-suspect-after-three-wounded-in-monaco?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "QudsNen/229180",
     "title": "Israeli Forces Detain Palestinians in Anata Raid",
     "published": "2026-06-28T15:26:04.281548+00:00"
-  },
-  "7e5f7cc37858513cdb289707dacc35b27355d0293de22ccc17d7b34a71c1cf8a": {
-    "url": "QudsNen/229181",
-    "title": "Gaza City Mural Honours Detained Doctor",
-    "published": "2026-06-28T15:25:21.509275+00:00"
-  },
-  "8249476de7f5feb977fcea5a6a325f95e92e66593e58ddc5dc6d0560ddb7ec0f": {
-    "url": "thecradlemedia/62956",
-    "title": "Iran and Lebanon Urge Swift Implementation of Lebanon War Clause Amid Israel Framework Deal",
-    "published": "2026-06-28T15:24:38.858087+00:00"
-  },
-  "ab00c3c373ef1741d1b9fd966df746193db4a3650235153a6d82f6cc14d27ff2": {
-    "url": "thecradlemedia/62957",
-    "title": "Iraq Seeks to Boost Oil Exports via Turkey Amid Hormuz Disruption",
-    "published": "2026-06-28T15:24:37.860631+00:00"
-  },
-  "da0687377d3ced5563ead614eaff31c0dafa0b57ab78799722803d813acd03e4": {
-    "url": "https://www.aljazeera.com/news/2026/6/28/three-firefighters-killed-in-us-wildfires-along-colorado-utah?traffic_source=rss",
-    "title": "Three firefighters killed in US wildfires along Colorado\u2013Utah border",
-    "published": "2026-06-28T15:16:10+00:00"
-  },
-  "16fb01aa83c5f8a8385ab6240b6fc768a6cc4fb592fa7672e688ee7c7bb3634a": {
-    "url": "DDGeopolitics/187674",
-    "title": "Iraq Arrests Politicians in Anti-Corruption Sweep Amid US Pressure",
-    "published": "2026-06-28T14:01:54.179879+00:00"
-  },
-  "a9cba9ceb8e451bd29349991ede8c7124d93039a5a4f02cd6899f004a43a40e0": {
-    "url": "QudsNen/229151",
-    "title": "Palestinian Man Killed in Israeli Airstrike Laid to Rest in Gaza City",
-    "published": "2026-06-28T14:01:00.019942+00:00"
-  },
-  "fa79de92b1880d7c5877a3daaea303c772a3c212cecbd977e7968877702c2f63": {
-    "url": "QudsNen/229156",
-    "title": "Israeli Settlers Establish New Outpost in Al-Mughayyir Village",
-    "published": "2026-06-28T13:59:24.502865+00:00"
-  },
-  "d6e551ddfaa36672d3a359ab2c6b92675f9c8a8a5ac36654b0b1a75d4c5e699e": {
-    "url": "QudsNen/229157",
-    "title": "Israeli Settlers Clash with Palestinians in West Bank",
-    "published": "2026-06-28T13:58:50.754204+00:00"
-  },
-  "933b45d1ee78c64368097f2e20c12ac3b4a5fff860765f35d72cbeede322abea": {
-    "url": "thecradlemedia/62951",
-    "title": "Israeli Forces Launch Ground Incursion into Southern Syria",
-    "published": "2026-06-28T13:57:17.930380+00:00"
-  },
-  "8d13b9874f31c5a29a089480425584f73c03553ffb8e48e9c34f869e672b9a6b": {
-    "url": "thecradlemedia/62953",
-    "title": "Iran Urges Implementation of Lebanon Ceasefire Clause",
-    "published": "2026-06-28T13:57:16.842442+00:00"
   }
 }

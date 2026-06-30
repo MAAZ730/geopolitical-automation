@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4355,
+  "total_calls": 4359,
   "tiers": {
-    "groq": 4336,
+    "groq": 4340,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T15:21:24.623961+00:00",
-      "tier": "groq",
-      "article": "Iran announces new retaliatory strikes on US targets following latest ceasefire violations"
-    },
-    {
-      "timestamp": "2026-06-27T15:21:41.719820+00:00",
-      "tier": "groq",
-      "article": "US, Iran trade strikes: What to know, will it unravel the MoU?"
-    },
-    {
-      "timestamp": "2026-06-27T15:22:14.292260+00:00",
-      "tier": "groq",
-      "article": "Iran FM denounces US violation of ceasefire, MoU"
-    },
-    {
-      "timestamp": "2026-06-27T15:23:01.452399+00:00",
-      "tier": "groq",
-      "article": "Trump accuses Iran of violating ceasefire with US"
-    },
     {
       "timestamp": "2026-06-27T17:17:20.179407+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-30T18:00:59.484447+00:00",
       "tier": "groq",
       "article": "No country allowed to intervene in demining in Hormuz"
+    },
+    {
+      "timestamp": "2026-06-30T20:13:37.324819+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s fuel crisis deepens following Ukrainian drone strikes"
+    },
+    {
+      "timestamp": "2026-06-30T20:14:10.389945+00:00",
+      "tier": "groq",
+      "article": "US Supreme Court strikes down Trump\u2019s executive order limiting birthright citizenship"
+    },
+    {
+      "timestamp": "2026-06-30T20:14:29.551439+00:00",
+      "tier": "groq",
+      "article": "Kiev's sponsors refuse to respond to deaths of children in Russia in airstrikes \u2014 MP"
+    },
+    {
+      "timestamp": "2026-06-30T20:15:07.977025+00:00",
+      "tier": "groq",
+      "article": "Hong Kong\u2019s first batches of free PLA ship tour tickets gone within minutes"
     }
   ]
 }
