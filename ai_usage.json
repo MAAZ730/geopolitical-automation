@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4335,
+  "total_calls": 4339,
   "tiers": {
-    "groq": 4316,
+    "groq": 4320,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-26T23:12:15.994350+00:00",
-      "tier": "groq",
-      "article": "US strikes Iranian missile, drone, radar sites"
-    },
-    {
-      "timestamp": "2026-06-26T23:12:32.071737+00:00",
-      "tier": "groq",
-      "article": "US servicemen confirm strikes on Iran"
-    },
-    {
-      "timestamp": "2026-06-26T23:12:57.111092+00:00",
-      "tier": "groq",
-      "article": "US ready to discuss disagreements with Iran, but to respond to violence \u2014 JD Vance"
-    },
-    {
-      "timestamp": "2026-06-26T23:13:16.706092+00:00",
-      "tier": "groq",
-      "article": "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory"
-    },
     {
       "timestamp": "2026-06-27T03:46:20.530274+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-29T23:06:10.648942+00:00",
       "tier": "groq",
       "article": "Iran proves it can control Hormuz Strait, former US lawmaker says"
+    },
+    {
+      "timestamp": "2026-06-30T03:56:50.824944+00:00",
+      "tier": "groq",
+      "article": "Russia informs UN of identified suspects in strike on bus carrying Belarusian children"
+    },
+    {
+      "timestamp": "2026-06-30T03:57:26.216341+00:00",
+      "tier": "groq",
+      "article": "Zelensky moves to real terror against Belarus \u2014 deputy foreign minister"
+    },
+    {
+      "timestamp": "2026-06-30T03:57:44.732993+00:00",
+      "tier": "groq",
+      "article": "Police hunt for suspect after three wounded in Monaco blast"
+    },
+    {
+      "timestamp": "2026-06-30T03:58:27.047285+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: No injuries reported as Russia downs total of 209 Ukrainian drones overnight"
     }
   ]
 }
