@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4375,
+  "total_calls": 4379,
   "tiers": {
-    "groq": 4356,
+    "groq": 4360,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-28T04:10:28.254736+00:00",
-      "tier": "groq",
-      "article": "Gulf countries attacked after US launches second round of strikes on Iran"
-    },
-    {
-      "timestamp": "2026-06-28T04:11:00.917733+00:00",
-      "tier": "groq",
-      "article": "IRGC delivers retaliatory strike on key US infrastructure in Kuwait, Bahrain"
-    },
-    {
-      "timestamp": "2026-06-28T04:11:50.989157+00:00",
-      "tier": "groq",
-      "article": "Trump threatens to destroy Iran as US conducts new strikes (VIDEO)"
-    },
-    {
-      "timestamp": "2026-06-28T04:12:08.889721+00:00",
-      "tier": "groq",
-      "article": "Death toll from Venezuela quake exceeds 900"
-    },
     {
       "timestamp": "2026-06-28T08:57:45.035001+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-01T12:38:24.441612+00:00",
       "tier": "groq",
       "article": "Loud car explosion reported in Haifa"
+    },
+    {
+      "timestamp": "2026-07-01T16:30:58.540856+00:00",
+      "tier": "groq",
+      "article": "After Afghanistan fires drones into Pakistan, what\u2019s next?"
+    },
+    {
+      "timestamp": "2026-07-01T16:31:39.678308+00:00",
+      "tier": "groq",
+      "article": "Afghanistan claims airstrikes inside Pakistan after cross-border escalation"
+    },
+    {
+      "timestamp": "2026-07-01T16:31:57.284991+00:00",
+      "tier": "groq",
+      "article": "World not to be allowed to forget Minab school massacre"
+    },
+    {
+      "timestamp": "2026-07-01T16:32:15.612676+00:00",
+      "tier": "groq",
+      "article": "Art installation in Minab becomes symbol of collective remembrance"
     }
   ]
 }

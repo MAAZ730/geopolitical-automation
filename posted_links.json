@@ -1,4 +1,44 @@
 {
+  "6c5a028b97bf78bba9553c2273738f175b770b8ae4aa65bdf276ac3114d6194f": {
+    "url": "intelslava/89608",
+    "title": "Russia Launches Strike on Kramatorsk, Ukraine",
+    "published": "2026-07-01T16:36:18.926853+00:00"
+  },
+  "f9aa44ed331b90e7dfb217ac75bf894e5786c96ce0b6d8eee79d0b0df0de156c": {
+    "url": "QudsNen/229544",
+    "title": "Israeli Settlers Seize Palestinian Home in Atara Village",
+    "published": "2026-07-01T16:35:36.590863+00:00"
+  },
+  "0eb3c0273559c779ff9c2e35639a0a59f09bc6d2b0ee394756472a81f660739f": {
+    "url": "thecradlemedia/63177",
+    "title": "Israeli Forces Conduct Raid in Iraq Burin, West Bank",
+    "published": "2026-07-01T16:33:00.207419+00:00"
+  },
+  "5b23be0cb4bf88e849210e30839b5121dfa7c370ecc0727056e011aef64d0540": {
+    "url": "thecradlemedia/63190",
+    "title": "Israeli Forces Conduct Sweep Operation in Southern Lebanon",
+    "published": "2026-07-01T16:32:49.011302+00:00"
+  },
+  "acaa4a19f75503146f3d5c20149aef2cdba3c11dab1a9943d08bc3425e99f699": {
+    "url": "thecradlemedia/63192",
+    "title": "Israeli Forces Detain Palestinian Healthcare Activists in West Bank Raids",
+    "published": "2026-07-01T16:32:24.349557+00:00"
+  },
+  "8d1c4749e7f1eb38338b51567388a97e663affe0dcef3cf56532f374ca507aa8": {
+    "url": "thecradlemedia/63193",
+    "title": "Israeli Military Scrambles Jets Over Mediterranean Amid Hijack Alert Mix-Up",
+    "published": "2026-07-01T16:32:19.959914+00:00"
+  },
+  "d895b75e1b924021d703663fb641363b73caaa6f28f9f057b8c406786e3894b3": {
+    "url": "https://www.aljazeera.com/news/2026/7/1/after-afghanistan-fires-drones-into-pakistan-whats-next?traffic_source=rss",
+    "title": "After Afghanistan fires drones into Pakistan, what\u2019s next?",
+    "published": "2026-07-01T14:14:16+00:00"
+  },
+  "49ef5a4f02f330e0cc165c19996f48994369d12899cf1f00091d9d412e9102e2": {
+    "url": "https://www.rt.com/india/642440-afghanistan-pakistan-drone-isis/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Afghanistan claims airstrikes inside Pakistan after cross-border escalation",
+    "published": "2026-07-01T13:30:57+00:00"
+  },
   "ae7b0d8b0501f411b1809af6863ccff4f7c4575502507ef0a6470e81c0e9fc4f": {
     "url": "intelslava/89594",
     "title": "Drone Attacks Hit Russian Enterprises in Penza",
@@ -83,6 +123,11 @@
     "url": "https://tass.com/politics/2153851",
     "title": "Russia\u2019s Battlegroup Center deploys latest BM-70 drones with 100 km strike range",
     "published": "2026-07-01T08:27:54+00:00"
+  },
+  "9738f4018f02a0b3cc6987ca7aef6863b8fb8ac99a282fd3ac2ab477ad2b2590": {
+    "url": "https://en.mehrnews.com/news/245784/World-not-to-be-allowed-to-forget-Minab-school-massacre",
+    "title": "World not to be allowed to forget Minab school massacre",
+    "published": "2026-07-01T07:42:30+00:00"
   },
   "e33ae7bf31cc275e568341350a98b71b0301f76481bdac331ba71f3a171b6b2e": {
     "url": "https://en.mehrnews.com/news/245776/Leaked-Israeli-report-shows-Iran-strikes-true-cost",
@@ -233,6 +278,11 @@
     "url": "https://www.defensenews.com/news/your-military/2026/06/30/the-us-army-goes-into-the-breach-without-soldiers/",
     "title": "The US Army goes into the breach \u2014 without soldiers",
     "published": "2026-06-30T17:55:31+00:00"
+  },
+  "e52dbfaf65819c290b7aaaef8c9d7b8f15ca978865ff2a53f44cdc6db0966b51": {
+    "url": "https://www.tehrantimes.com/news/527769/Art-installation-in-Minab-becomes-symbol-of-collective-remembrance",
+    "title": "Art installation in Minab becomes symbol of collective remembrance",
+    "published": "2026-06-30T17:16:47+00:00"
   },
   "5f07123b4523fe2ca43d7b209233947f75f25c446f6eac4e76215f8750e576fb": {
     "url": "https://tass.com/world/2153693",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/world/2152901",
     "title": "Total of 124 vessels transited Strait of Hormuz in four days \u2014 CNN",
     "published": "2026-06-29T10:13:35+00:00"
-  },
-  "007342ad3aa770aa97066b8585c11a6e5a45873b65bd0de5dee5a8e21522ee13": {
-    "url": "https://tass.com/world/2152897",
-    "title": "Iran proves it can control Hormuz Strait, former US lawmaker says",
-    "published": "2026-06-29T09:59:34+00:00"
-  },
-  "cf4e9e70758960cfee0581a9888b1886583ea089ac1dd7110068758940d1b2da": {
-    "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
-    "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-    "published": "2026-06-29T09:58:08+00:00"
-  },
-  "30994d4ed1a8ce7d5fb6bb6e26d00a9c823e62e1be47e3ddfc155833a8134f3e": {
-    "url": "https://english.almanar.com.lb/article/98437/",
-    "title": "Hezbollah Issues New Warning over Fresh Israeli Violations - Al-Manar TV Lebanon",
-    "published": "2026-06-29T09:49:35+00:00"
-  },
-  "65ed486f762126cd67efddfda093b854d8709d7a79610f247ed90d3c55d78d51": {
-    "url": "https://tass.com/world/2152839",
-    "title": "Israeli army strikes three Hezbollah command centers in response to ceasefire violations",
-    "published": "2026-06-29T08:21:07+00:00"
-  },
-  "4e535094e5c4b5bee01b7d333346a63072c8468beb9c70c8a92f2363f8d3ca5d": {
-    "url": "https://en.mehrnews.com/news/245717/Macron-MBS-discuss-US-Iran-escalation",
-    "title": "Macron, MBS discuss US-Iran escalation",
-    "published": "2026-06-29T08:12:21+00:00"
-  },
-  "2e721fa48810f569645007538698afdfb66b79ba93b6af0e3f2e6513667659bd": {
-    "url": "https://warontherocks.com/a-new-force-posture-concept-for-europeanizing-extended-nuclear-deterrence/",
-    "title": "A New Force Posture Concept for Europeanizing Extended Nuclear Deterrence",
-    "published": "2026-06-29T07:30:58+00:00"
-  },
-  "9eea9a69bc92c4af01a6e59ab510869748d8f04ca01bb78d30d471b213e2c328": {
-    "url": "https://en.irna.ir/news/86195579/History-will-not-forget-perpetrators-supporters-of-Sardasht",
-    "title": "History will not forget perpetrators, supporters of Sardasht chemical bombing: Iran envoy",
-    "published": "2026-06-29T06:58:40+00:00"
-  },
-  "3047ceb8d718bf42f2f53351b2f5b3ea1142c163ae49ad9d5b880e7dd8a3b134": {
-    "url": "mod_russia_en/27836",
-    "title": "Russian Forces Destroy Enemy Vehicles with Electronic Warfare System in Krasny Liman",
-    "published": "2026-06-29T04:26:39.703519+00:00"
-  },
-  "9cf56da97e9e35cd4f46d74194687be3adab1f8ce3c6a069ad489afae32924ee": {
-    "url": "Slavyangrad/167833",
-    "title": "Ukraine Conflict: Zaporozhye Lubricants Plant Hit in Precision Drone Strike",
-    "published": "2026-06-29T04:25:47.531747+00:00"
-  },
-  "968ed2caa288313e441693cce211b4a627b56f142bb5714f94e0ee5e8148380b": {
-    "url": "DDGeopolitics/187716",
-    "title": "Saudi-Loyal Tribes Mobilize Against AnsarAllah in Yemen",
-    "published": "2026-06-29T04:21:26.641711+00:00"
   }
 }
