@@ -1,4 +1,34 @@
 {
+  "5a816a895b5b16f120526189a288f09dd967e4de68da8d71f82658c40d4a3a70": {
+    "url": "Slavyangrad/168042",
+    "title": "NATO Summit to Urge Putin to Negotiate with Ukraine",
+    "published": "2026-07-01T23:29:48.526837+00:00"
+  },
+  "bf9a3079b5e3a5d2eb2bf43ba914c161f728cd2ed03efa2622d44c91ce1ce243": {
+    "url": "intelslava/89626",
+    "title": "Russia Launches Large-Scale Aerial Assault on Kyiv",
+    "published": "2026-07-01T23:27:03.479970+00:00"
+  },
+  "c64636c68e50c80126683b4960196b8961efad33791592aba52aa971433a7429": {
+    "url": "intelslava/89628",
+    "title": "Russian Missiles Arrive in Kyiv Amid Ongoing Conflict",
+    "published": "2026-07-01T23:26:07.147531+00:00"
+  },
+  "41df3ad26f332a28a2610fddc07f2533ce8e23162edd0a8c753682d45fe3fd4f": {
+    "url": "DDGeopolitics/187910",
+    "title": "Russia Deploys Geran-5 Drone with Air-to-Air Missile Capability in Ukraine",
+    "published": "2026-07-01T23:24:15.461954+00:00"
+  },
+  "3f465c22c1d436a30ef2dcc25c76fecb9a412f682ba72179e0d62b9dad64cee6": {
+    "url": "QudsNen/229576",
+    "title": "Israeli Forces Detain Five Palestinian Women in West Bank Raids",
+    "published": "2026-07-01T23:23:36.427123+00:00"
+  },
+  "e8925a371d78f0d161dabda048228f82eb4c9d276780a9dd9389e1b1cc5a99e4": {
+    "url": "thecradlemedia/63181",
+    "title": "Israel Accused of Systematic Sexual Violence Against Palestinians",
+    "published": "2026-07-01T23:23:29.809744+00:00"
+  },
   "36bcd5fb4df0b07d31443b0f1bf3635ad51ed47dd9df30655ce12694b71db1b3": {
     "url": "intelslava/89618",
     "title": "Russian Ballistic Missile Strike Destroys Odessa Industrial Facility",
@@ -79,6 +109,11 @@
     "title": "Iran vows justice for Leader's assassination",
     "published": "2026-07-01T17:29:39+00:00"
   },
+  "d2f3e5ac6388026b7f95f21ead99e818ae862649133e587c9be2bb90dd47c268": {
+    "url": "https://www.tehrantimes.com/news/527820/The-modern-golem-of-Silicon-Valley-demands-a-ritual-sacrifice",
+    "title": "The modern golem of Silicon Valley demands a ritual sacrifice of innocence",
+    "published": "2026-07-01T16:51:49+00:00"
+  },
   "c160c6207f5ac33d28a70109d9e358d1161b1c6fb1d65e6396f5d7a46f514bba": {
     "url": "https://www.tehrantimes.com/news/527812/A-Martyr-Never-Dies-Brazilian-cartoonist-reflects-on-illustrating",
     "title": "\"A Martyr Never Dies\": Brazilian cartoonist reflects on illustrating Iran's supreme leader",
@@ -113,6 +148,16 @@
     "url": "thecradlemedia/63193",
     "title": "Israeli Military Scrambles Jets Over Mediterranean Amid Hijack Alert Mix-Up",
     "published": "2026-07-01T16:32:19.959914+00:00"
+  },
+  "7f73a09e2c558c72a7bfb905f8d82aee0dd8d7985f1f0187d7813e65704ae4c2": {
+    "url": "https://www.rt.com/news/642448-libya-us-fix-break/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Washington thinks it can fix Libya. It may be about to break it again instead",
+    "published": "2026-07-01T16:29:43+00:00"
+  },
+  "4e08903f6fc5a698a3449b4683f3c0e5658cd39f1ad407fbf1d0c10cb6d1412e": {
+    "url": "https://tass.com/politics/2154099",
+    "title": "Russia to take response measures over deployment of US missile systems in Japan \u2014 MFA",
+    "published": "2026-07-01T15:43:52+00:00"
   },
   "3cf22bd64ddc86dce2c56b318943cf1db18a9b58eceea30d18e5cd2288ac2e5e": {
     "url": "https://english.almanar.com.lb/article/99377/",
@@ -163,6 +208,11 @@
     "url": "https://thecradle.co/articles-id/38538",
     "title": "Trump weighs resuming \u2018all-out war\u2019 on Iran, chooses diplomacy \u2018for now\u2019: Report",
     "published": "2026-07-01T12:03:19+00:00"
+  },
+  "9be76646f4e4434424865c405e9b5b5cd75b20e916c4fe317cef8fa7baea63f7": {
+    "url": "https://thecradle.co/articles-id/38534",
+    "title": "Syrian forces uproot 1,000 families as part of new \u2018sectarian displacement campaign\u2019",
+    "published": "2026-07-01T10:25:08+00:00"
   },
   "1a9dcd52d4d47d2844ec51a05d6edb06c9d4862304b5bc1a5657b04cd1b28062": {
     "url": "QudsNen/229495",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/187771",
     "title": "U.S. Politician Sparks Controversy with Marxist Accusations",
     "published": "2026-06-29T18:21:53.209264+00:00"
-  },
-  "c1db82e8530b956d79da9f7322fe7b10f482a35fb29f2d5889a815a9bca4a02f": {
-    "url": "DDGeopolitics/187773",
-    "title": "Drone Attack Hits Zaporozhye Regional Military Administration Building",
-    "published": "2026-06-29T18:18:55.701123+00:00"
-  },
-  "64190b26283e15cb7f5606bba2e9ab3de62fdd87c418efea195998b286a9833c": {
-    "url": "QudsNen/229299",
-    "title": "Israeli Drone Strike Targets Tent in Al-Mawasi, Khan Younis",
-    "published": "2026-06-29T18:18:36.930472+00:00"
-  },
-  "f135b0fac76fb4b945508fd873d3c8df655030186437d797c3d726bccb2c6e5f": {
-    "url": "QudsNen/229300",
-    "title": "Israeli Drone Strike Kills Palestinians in Khan Younis",
-    "published": "2026-06-29T18:16:51.851012+00:00"
-  },
-  "b0ecb0481bb1d88aaaa2de87cf17bcb97f46d54ca2fdd2bb173a13398c9733d1": {
-    "url": "thecradlemedia/63042",
-    "title": "CPJ Launches Review of Gaza Journalist Deaths Amid Palestinian Criticism",
-    "published": "2026-06-29T18:15:53.437199+00:00"
-  },
-  "1e3a527cc19aa758b6fc692dd016962a8b6d00bd2c23ba78710047cb2602191c": {
-    "url": "thecradlemedia/63043",
-    "title": "Lebanon's Government Detains Resistance Figures Amid Cooperation with Neighboring Power",
-    "published": "2026-06-29T18:15:51.787633+00:00"
-  },
-  "b080458da986024730e37f104d6dc0eaaa2b2418d0d8ed28fae29d517275b073": {
-    "url": "QudsNen/229276",
-    "title": "Israeli Settlers Establish New Outpost in Occupied West Bank",
-    "published": "2026-06-29T16:04:21.444388+00:00"
-  },
-  "01b3319fa02bd1d79e16da85ab419003a6b60e0780ce7ee039980dc72c0e268b": {
-    "url": "thecradlemedia/63027",
-    "title": "Israeli Forces Fatally Shoot Palestinian Teen in West Bank Raid",
-    "published": "2026-06-29T16:03:41.616288+00:00"
-  },
-  "47af0602d9979cfaade6cde33a0618bafe8575cdbe1546d18593eb6cbd10715b": {
-    "url": "thecradlemedia/63030",
-    "title": "US Military Operations Fuel New Era of War Profiteering",
-    "published": "2026-06-29T16:01:48.215789+00:00"
-  },
-  "de649d1131a18399af71d66a0e5de52c48053a71f70b8f95057f5a98d46600f0": {
-    "url": "thecradlemedia/63032",
-    "title": "Bayer Linked to Israeli Use of White Phosphorus and Glyphosate in Lebanon",
-    "published": "2026-06-29T15:59:23.169141+00:00"
-  },
-  "cea8bde6ad156e9e513a5ee244c87dc66737867723d555b00d111f6eb5e5a4df": {
-    "url": "thecradlemedia/63036",
-    "title": "Explosion Rocks Southern Lebanon's Beaufort Castle",
-    "published": "2026-06-29T15:59:21.697737+00:00"
   }
 }
