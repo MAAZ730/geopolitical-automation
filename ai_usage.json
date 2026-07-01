@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4371,
+  "total_calls": 4375,
   "tiers": {
-    "groq": 4352,
+    "groq": 4356,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T23:08:25.808957+00:00",
-      "tier": "groq",
-      "article": "Israel strikes southern Lebanon as Hezbollah condemns new deal "
-    },
-    {
-      "timestamp": "2026-06-27T23:09:03.393560+00:00",
-      "tier": "groq",
-      "article": "CENTCOM confirms new strikes on military sites in Iran"
-    },
-    {
-      "timestamp": "2026-06-27T23:09:49.488586+00:00",
-      "tier": "groq",
-      "article": "US attacks targets in Iran in response to attack on a tanker \u2014 Axios journalist"
-    },
-    {
-      "timestamp": "2026-06-27T23:10:37.526527+00:00",
-      "tier": "groq",
-      "article": "European security concept \"has gone bankrupt, collapsed spectacularly\" \u2014 Russian MFA"
-    },
     {
       "timestamp": "2026-06-28T04:10:28.254736+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-01T09:55:54.687664+00:00",
       "tier": "groq",
       "article": "Mehran emerges as Iran's western logistics powerhouse"
+    },
+    {
+      "timestamp": "2026-07-01T12:37:20.451689+00:00",
+      "tier": "groq",
+      "article": "Trump weighs resuming \u2018all-out war\u2019 on Iran, chooses diplomacy \u2018for now\u2019: Report"
+    },
+    {
+      "timestamp": "2026-07-01T12:37:39.665135+00:00",
+      "tier": "groq",
+      "article": "Israel tests Iron Dome with Iron Beam, pairing missiles with laser pulses for air defense"
+    },
+    {
+      "timestamp": "2026-07-01T12:38:04.823938+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s Battlegroup Center deploys latest BM-70 drones with 100 km strike range"
+    },
+    {
+      "timestamp": "2026-07-01T12:38:24.441612+00:00",
+      "tier": "groq",
+      "article": "Loud car explosion reported in Haifa"
     }
   ]
 }
