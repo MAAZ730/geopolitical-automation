@@ -1,4 +1,34 @@
 {
+  "8a15ab4746d2be210bff2649fa4a11cc42ec8c18f7df56d9e6049a80f4d06ea9": {
+    "url": "presstv/196334",
+    "title": "Ukrainian Missile Strike Hits Russian Arms Plant in Volgograd",
+    "published": "2026-07-01T04:19:57.775601+00:00"
+  },
+  "5db95b1348b0928d7072d4b1e3cc2805db9aa978031c8ddeaaced5af635e4559": {
+    "url": "presstv/196335",
+    "title": "Iraqi Forces Scramble to Down Rogue Drone Over Baghdad",
+    "published": "2026-07-01T04:18:19.931172+00:00"
+  },
+  "67f4e11aa202167a073d302d5c208737f4c59b4ff7d8535a0f4123bfb4045bdf": {
+    "url": "presstv/196336",
+    "title": "Israeli Forces Clash with Palestinians in Ramallah",
+    "published": "2026-07-01T04:18:02.187393+00:00"
+  },
+  "4a6eb639fe73886e637aac1740bd5937deae75f09301fdd9932fa8697247f02e": {
+    "url": "QudsNen/229447",
+    "title": "Unexploded Israeli Munition Kills Lebanese Civilian in Touline",
+    "published": "2026-07-01T04:17:39.272736+00:00"
+  },
+  "2785d22803832249a33093f5e0a9d69ceedf6a0d8a91bd35551daf550516b7a9": {
+    "url": "QudsNen/229454",
+    "title": "Israel's Negev Prison Tightens Restrictions on Palestinian Detainees",
+    "published": "2026-07-01T04:17:37.813050+00:00"
+  },
+  "76464598bcc78ab5e40e49a93670ebd9963663b0c2b0c8f8893cd494809d336f": {
+    "url": "Middle_East_Spectator/34001",
+    "title": "Drone Targets US Embassy in Baghdad",
+    "published": "2026-07-01T04:17:33.860018+00:00"
+  },
   "af7e64acac213996984f358d583613c059d111eb251e8bd6e8736385617046cc": {
     "url": "Slavyangrad/167960",
     "title": "Russian Strikes Cause Widespread Power Outages Across Ukraine",
@@ -69,6 +99,11 @@
     "title": "Five humanitarian workers killed in convoy ambush in South Sudan",
     "published": "2026-06-30T20:03:13+00:00"
   },
+  "d828654fcf4aa84cda2733263c9c2f922e61470391094576e05f7ff67835e7f5": {
+    "url": "https://www.rt.com/news/642415-one-killed-car-bombing-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "One killed in car bombing in Israel",
+    "published": "2026-06-30T19:45:37+00:00"
+  },
   "92d86900e5d6ddb2a1f55d55596bab0687706807f3182991a9f519d2df630b0b": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/6/30/russias-fuel-crisis-deepens-following-ukrainian-drone-strikes?traffic_source=rss",
     "title": "Russia\u2019s fuel crisis deepens following Ukrainian drone strikes",
@@ -103,6 +138,16 @@
     "url": "thecradlemedia/63126",
     "title": "US Citizen to Face Charges in Israel for Alleged Iran Espionage",
     "published": "2026-06-30T18:01:06.378452+00:00"
+  },
+  "aede83c0b461485c3babe50cacc159fd1b0afdd5449c491901a485c6657e6e37": {
+    "url": "https://www.defensenews.com/news/your-military/2026/06/30/the-us-army-goes-into-the-breach-without-soldiers/",
+    "title": "The US Army goes into the breach \u2014 without soldiers",
+    "published": "2026-06-30T17:55:31+00:00"
+  },
+  "5f07123b4523fe2ca43d7b209233947f75f25c446f6eac4e76215f8750e576fb": {
+    "url": "https://tass.com/world/2153693",
+    "title": "Ukraine may be involved in assassination attempt on Yermolayev \u2014 newspaper",
+    "published": "2026-06-30T17:12:03+00:00"
   },
   "2ee0d316212f6f81227b3c909d7d8a88150635d9a8fbfae25095e29d25a351de": {
     "url": "https://www.tehrantimes.com/news/527789/Defense-chief-vows-decisive-response-to-any-ceasefire-breach",
@@ -268,6 +313,11 @@
     "url": "https://en.mehrnews.com/news/245745/Israeli-strikes-kill-eight-in-Gaza-overall-toll-tops-73-000",
     "title": "Israeli strikes kill eight in Gaza, overall toll tops 73,000",
     "published": "2026-06-30T04:58:26+00:00"
+  },
+  "f675e4219798d61cd7a45be8560ced81bc5edfd48eda754076e11816c2473d01": {
+    "url": "https://www.rt.com/news/642363-europe-heatwave-eu-france/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "How the heatwave crippled Europe",
+    "published": "2026-06-30T04:47:09+00:00"
   },
   "6919c068c5e352df3cb5a0ebefb63651558879f75945d2e561ccb0a569122524": {
     "url": "https://en.mehrnews.com/news/245744/Iraq-ready-to-host-US-Iran-talks-Envoy",
@@ -698,55 +748,5 @@
     "url": "https://www.rt.com/news/642323-ukraine-attacks-wont-stop-russian-advance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Putin says Ukraine attacks won\u2019t halt Russian advance",
     "published": "2026-06-28T20:54:42+00:00"
-  },
-  "6a75b6a8906e8634368f30af2adfec5d8e149051656c3857a9474b876533be47": {
-    "url": "intelslava/89484",
-    "title": "Russian-Backed Forces Target Ukrainian Logistics in Krasny Liman",
-    "published": "2026-06-28T19:37:12.617647+00:00"
-  },
-  "5f2f07da56d61353a0ba03cdbca9be6109518ac85887eeb2f4eb01eb5d78f54b": {
-    "url": "presstv/196037",
-    "title": "US-Iran Diplomatic Tensions Escalate Amid Ongoing Negotiations",
-    "published": "2026-06-28T19:33:16.643931+00:00"
-  },
-  "7308c61e80f7d2a7dc926cbdae5b2f18b1a3a0837e5394237972ac436e470fc1": {
-    "url": "BellumActaNews/174662",
-    "title": "Kurdistan PJAK Militant Deploys Modified AK-74 Assault Rifle",
-    "published": "2026-06-28T19:30:32.565188+00:00"
-  },
-  "88b37a8b6c55d668c506a2eda8b06ffcf458d86d76ca189efe17b1bf60d7deb3": {
-    "url": "BellumActaNews/174663",
-    "title": "Iraqi Forces Raid Baghdad's Green Zone, Arrest Prominent Politician",
-    "published": "2026-06-28T19:29:07.387308+00:00"
-  },
-  "f455039d8fdfa7a0a40aa75703379aeaec73f3581beeece839a635b247019aab": {
-    "url": "thecradlemedia/62950",
-    "title": "Iran Strikes Back at US Bases in Kuwait and Bahrain",
-    "published": "2026-06-28T19:27:40.700026+00:00"
-  },
-  "e63136a5d310ca7211b217bb5d37d59fb4de9df8088c18bb3a3f1ed2e5d4defd": {
-    "url": "thecradlemedia/62964",
-    "title": "Israeli Airstrikes Hit Mayfadoun and Nabatieh al-Fawqa in South Lebanon",
-    "published": "2026-06-28T19:27:40.014294+00:00"
-  },
-  "758841510ab655bb8728a2e6c4cd5cc2f9382073fd000ae62168dd73ba1235f1": {
-    "url": "https://www.rt.com/news/642317-us-nature-break-promises-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US \u2018very nature is to break promises\u2019 \u2013 Iran\u2019s IRGC",
-    "published": "2026-06-28T17:46:35+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel Intensifies Strikes in Lebanon Amid Iran-US Ceasefire",
-    "published": "2026-06-28T17:26:42.758118+00:00"
-  },
-  "06c1512e28e36f39fac4b9bded52d8bd313791ae5d32dd53c48ece80d4d6854b": {
-    "url": "presstv/196026",
-    "title": "Multiple Fatalities in Dual Car Bombings in Holon and Tel Aviv",
-    "published": "2026-06-28T17:24:10.712577+00:00"
-  },
-  "a98982ef79159e588f9afb53850a6945015b31a502fab9ce83620a27ba5607ef": {
-    "url": "DDGeopolitics/187685",
-    "title": "Russia Cracks Down on Filming of Military Strikes in Ukraine",
-    "published": "2026-06-28T17:23:19.148995+00:00"
   }
 }

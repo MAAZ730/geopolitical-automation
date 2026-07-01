@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4363,
+  "total_calls": 4367,
   "tiers": {
-    "groq": 4344,
+    "groq": 4348,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T19:28:08.939770+00:00",
-      "tier": "groq",
-      "article": "US bombs MoU"
-    },
-    {
-      "timestamp": "2026-06-27T19:28:51.893934+00:00",
-      "tier": "groq",
-      "article": "Kenya rights groups say protesters found dumped, tortured after arrests"
-    },
-    {
-      "timestamp": "2026-06-27T19:29:37.935051+00:00",
-      "tier": "groq",
-      "article": "Iran refutes reports of direct line of communication with US on Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-06-27T19:29:56.344235+00:00",
-      "tier": "groq",
-      "article": "US assaults on Iranian coastal facilities violate war-end MoU: Tehran"
-    },
     {
       "timestamp": "2026-06-27T21:10:31.252235+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-06-30T23:20:30.145894+00:00",
       "tier": "groq",
       "article": "Iraq ready to host US-Iran talks: Envoy"
+    },
+    {
+      "timestamp": "2026-07-01T04:13:47.820172+00:00",
+      "tier": "groq",
+      "article": "One killed in car bombing in Israel"
+    },
+    {
+      "timestamp": "2026-07-01T04:14:28.150349+00:00",
+      "tier": "groq",
+      "article": "The US Army goes into the breach \u2014 without soldiers"
+    },
+    {
+      "timestamp": "2026-07-01T04:15:19.481508+00:00",
+      "tier": "groq",
+      "article": "Ukraine may be involved in assassination attempt on Yermolayev \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-07-01T04:15:39.302229+00:00",
+      "tier": "groq",
+      "article": "How the heatwave crippled Europe"
     }
   ]
 }
