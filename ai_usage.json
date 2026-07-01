@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4383,
+  "total_calls": 4387,
   "tiers": {
-    "groq": 4364,
+    "groq": 4368,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-28T11:51:03.262975+00:00",
-      "tier": "groq",
-      "article": "Tehran Condemns US Strikes as \u201cBarbaric,\u201d Accuses Washington of Renouncing Commitments - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-28T11:51:21.802713+00:00",
-      "tier": "groq",
-      "article": "\u2018US trying to find its way out of MoU with Iran\u2019"
-    },
-    {
-      "timestamp": "2026-06-28T11:51:52.158787+00:00",
-      "tier": "groq",
-      "article": "Iran attacks Kuwait and Bahrain in response to US strikes"
-    },
-    {
-      "timestamp": "2026-06-28T11:52:08.343436+00:00",
-      "tier": "groq",
-      "article": "Russia destroys up to platoon of Ukrainian troops in Novoskelevatoye"
-    },
     {
       "timestamp": "2026-06-28T13:55:59.972054+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-01T20:04:25.725833+00:00",
       "tier": "groq",
       "article": "Qatar, US discuss Iran deal, Lebanon ceasefire"
+    },
+    {
+      "timestamp": "2026-07-01T21:47:09.482023+00:00",
+      "tier": "groq",
+      "article": "Israel kills three Palestinians in Gaza despite \u2018ceasefire\u2019"
+    },
+    {
+      "timestamp": "2026-07-01T21:47:26.133077+00:00",
+      "tier": "groq",
+      "article": "Health Emergency Operations Center: The cumulative death toll from the Israeli aggression between March 2 and July 1 is 4,297 people martyred and 12,196 injured - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-01T21:47:43.289785+00:00",
+      "tier": "groq",
+      "article": "Iran vows justice for Leader's assassination"
+    },
+    {
+      "timestamp": "2026-07-01T21:48:03.559480+00:00",
+      "tier": "groq",
+      "article": "Spain records over 1,000 heat-related June deaths"
     }
   ]
 }
