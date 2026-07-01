@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4367,
+  "total_calls": 4371,
   "tiers": {
-    "groq": 4348,
+    "groq": 4352,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-27T21:10:31.252235+00:00",
-      "tier": "groq",
-      "article": "Ukrainian strikes on Donetsk People's Republic kill two civilians over past 24 hours"
-    },
-    {
-      "timestamp": "2026-06-27T21:11:10.874178+00:00",
-      "tier": "groq",
-      "article": "Hezbollah rejects Israel-Lebanon agreement as Israeli attacks hit south"
-    },
-    {
-      "timestamp": "2026-06-27T21:12:02.160843+00:00",
-      "tier": "groq",
-      "article": "Brother and sister killed in Israeli attack on Gaza \u2018safe zone\u2019"
-    },
-    {
-      "timestamp": "2026-06-27T21:12:18.150930+00:00",
-      "tier": "groq",
-      "article": "Netanyahu praises agreement on Lebanon as 'blow to Iran,' vows not to withdraw troops"
-    },
     {
       "timestamp": "2026-06-27T23:08:25.808957+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-01T04:15:39.302229+00:00",
       "tier": "groq",
       "article": "How the heatwave crippled Europe"
+    },
+    {
+      "timestamp": "2026-07-01T09:54:17.317887+00:00",
+      "tier": "groq",
+      "article": "Leaked Israeli report shows Iran strikes' true cost"
+    },
+    {
+      "timestamp": "2026-07-01T09:54:55.841177+00:00",
+      "tier": "groq",
+      "article": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery"
+    },
+    {
+      "timestamp": "2026-07-01T09:55:12.023240+00:00",
+      "tier": "groq",
+      "article": "Aftermath of Ukrainian drone attack on Russian regions, 179 downed drones"
+    },
+    {
+      "timestamp": "2026-07-01T09:55:54.687664+00:00",
+      "tier": "groq",
+      "article": "Mehran emerges as Iran's western logistics powerhouse"
     }
   ]
 }
