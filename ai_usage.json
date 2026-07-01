@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4379,
+  "total_calls": 4383,
   "tiers": {
-    "groq": 4360,
+    "groq": 4364,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-28T08:57:45.035001+00:00",
-      "tier": "groq",
-      "article": "Iran minister announces memorial initiatives for Minab school attack victims"
-    },
-    {
-      "timestamp": "2026-06-28T08:58:28.659875+00:00",
-      "tier": "groq",
-      "article": "Iran war day 121: IRGC hits Kuwait, Bahrain after US attacks near Hormuz"
-    },
-    {
-      "timestamp": "2026-06-28T08:59:16.885331+00:00",
-      "tier": "groq",
-      "article": "IRGC Navy warns US bases will 'experience hell'"
-    },
-    {
-      "timestamp": "2026-06-28T08:59:34.480160+00:00",
-      "tier": "groq",
-      "article": "Fourth Minsk Conference on Eurasian Security to take place on November 3-4 \u2014 Russian MFA"
-    },
     {
       "timestamp": "2026-06-28T11:51:03.262975+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-01T16:32:15.612676+00:00",
       "tier": "groq",
       "article": "Art installation in Minab becomes symbol of collective remembrance"
+    },
+    {
+      "timestamp": "2026-07-01T20:03:25.892752+00:00",
+      "tier": "groq",
+      "article": "\"A Martyr Never Dies\": Brazilian cartoonist reflects on illustrating Iran's supreme leader"
+    },
+    {
+      "timestamp": "2026-07-01T20:03:43.535286+00:00",
+      "tier": "groq",
+      "article": "Zionist Enemy Wreaks Havoc in South Lebanon: Air Raids, Bombings, Fires - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-01T20:04:02.426695+00:00",
+      "tier": "groq",
+      "article": "Iran's missile and drone capabilities remain 'non-negotiable,' defense chief says"
+    },
+    {
+      "timestamp": "2026-07-01T20:04:25.725833+00:00",
+      "tier": "groq",
+      "article": "Qatar, US discuss Iran deal, Lebanon ceasefire"
     }
   ]
 }
