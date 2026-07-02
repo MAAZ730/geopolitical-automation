@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4391,
+  "total_calls": 4395,
   "tiers": {
-    "groq": 4372,
+    "groq": 4376,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-28T15:23:14.011727+00:00",
-      "tier": "groq",
-      "article": "Ukraine says it attacked two Russian oil refineries"
-    },
-    {
-      "timestamp": "2026-06-28T15:23:56.997059+00:00",
-      "tier": "groq",
-      "article": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?"
-    },
-    {
-      "timestamp": "2026-06-28T15:24:13.082786+00:00",
-      "tier": "groq",
-      "article": "Iran Foreign Ministry issues statement after fresh US attacks"
-    },
-    {
-      "timestamp": "2026-06-28T15:24:32.610785+00:00",
-      "tier": "groq",
-      "article": "Iran, Pakistan boost ties with Pezeshkian's visit"
-    },
     {
       "timestamp": "2026-06-28T17:19:34.815812+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-01T23:23:25.436383+00:00",
       "tier": "groq",
       "article": "Syrian forces uproot 1,000 families as part of new \u2018sectarian displacement campaign\u2019"
+    },
+    {
+      "timestamp": "2026-07-02T03:52:32.249923+00:00",
+      "tier": "groq",
+      "article": "Kyiv attacked after Ukraine\u2019s Zelenskyy warns of \u2018massive Russian strike\u2019"
+    },
+    {
+      "timestamp": "2026-07-02T03:53:13.252735+00:00",
+      "tier": "groq",
+      "article": "Germany expands its exoatmospheric missile shield with second Arrow-3 deployment"
+    },
+    {
+      "timestamp": "2026-07-02T03:53:29.577037+00:00",
+      "tier": "groq",
+      "article": "Russia-Ukraine prisoner swap, Western pressure on ICRC: top diplomat\u2019s key statements"
+    },
+    {
+      "timestamp": "2026-07-02T03:54:13.024656+00:00",
+      "tier": "groq",
+      "article": "Nord Stream blasts suspect charged with \u2018war crimes\u2019 in Germany \u2013 media"
     }
   ]
 }
