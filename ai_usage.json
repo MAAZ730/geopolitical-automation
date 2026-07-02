@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4415,
+  "total_calls": 4419,
   "tiers": {
-    "groq": 4396,
+    "groq": 4400,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-29T11:08:53.418574+00:00",
-      "tier": "groq",
-      "article": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?"
-    },
-    {
-      "timestamp": "2026-06-29T11:09:34.573736+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Issues New Warning over Fresh Israeli Violations - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-29T11:10:27.110846+00:00",
-      "tier": "groq",
-      "article": "A New Force Posture Concept for Europeanizing Extended Nuclear Deterrence"
-    },
-    {
-      "timestamp": "2026-06-29T11:10:43.167608+00:00",
-      "tier": "groq",
-      "article": "Mayor of Zaporozhye nuke plant host city dismisses evacuation reports"
-    },
     {
       "timestamp": "2026-06-29T15:55:25.325792+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-02T19:33:28.547263+00:00",
       "tier": "groq",
       "article": "Russian couple gets engaged on top of Empire State Building (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-07-02T21:14:16.789078+00:00",
+      "tier": "groq",
+      "article": "Bus drivers, passengers hit by Ukrainian drone brought to Belarus \u2014 authorities"
+    },
+    {
+      "timestamp": "2026-07-02T21:14:49.143264+00:00",
+      "tier": "groq",
+      "article": "Two Belarusian bus drivers injured in drone attack near Bryansk \u2014 TV"
+    },
+    {
+      "timestamp": "2026-07-02T21:15:08.615838+00:00",
+      "tier": "groq",
+      "article": "Fake bomb drone crashes near Russian Embassy in Sweden"
+    },
+    {
+      "timestamp": "2026-07-02T21:15:52.354613+00:00",
+      "tier": "groq",
+      "article": "'Two weeks after her death I got a call': Thousands of Gaza patients still waiting for evacuation"
     }
   ]
 }
