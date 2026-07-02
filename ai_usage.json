@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4407,
+  "total_calls": 4411,
   "tiers": {
-    "groq": 4388,
+    "groq": 4392,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-28T23:06:39.480252+00:00",
-      "tier": "groq",
-      "article": "United States, Iran agreed to stop strikes \u2014 Axios"
-    },
-    {
-      "timestamp": "2026-06-28T23:07:14.084897+00:00",
-      "tier": "groq",
-      "article": "Eleven dead in plane crash in France"
-    },
-    {
-      "timestamp": "2026-06-28T23:07:59.544632+00:00",
-      "tier": "groq",
-      "article": "At least one killed by falling drone fragments in south Russia"
-    },
-    {
-      "timestamp": "2026-06-28T23:08:16.652422+00:00",
-      "tier": "groq",
-      "article": "Falling drone fragments start fire on territory of oil refinery in south Russia"
-    },
     {
       "timestamp": "2026-06-29T04:14:38.536180+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-02T14:12:09.141815+00:00",
       "tier": "groq",
       "article": "Israel is carrying out 'reproductive genocide' against Palestinians, new report finds"
+    },
+    {
+      "timestamp": "2026-07-02T17:54:31.688492+00:00",
+      "tier": "groq",
+      "article": "Russia bombards Kyiv in one of war\u2019s biggest strikes, at least 21 people killed"
+    },
+    {
+      "timestamp": "2026-07-02T17:55:17.342415+00:00",
+      "tier": "groq",
+      "article": "What\u2019s behind the deadly bombing of a crowded Damascus cafe?"
+    },
+    {
+      "timestamp": "2026-07-02T17:56:05.808799+00:00",
+      "tier": "groq",
+      "article": "Five killed in Damascus cafe bombing (EXCLUSIVE VIDEO)"
+    },
+    {
+      "timestamp": "2026-07-02T17:56:25.538692+00:00",
+      "tier": "groq",
+      "article": "UK officers face misconduct probe in Henry Nowak case"
     }
   ]
 }
