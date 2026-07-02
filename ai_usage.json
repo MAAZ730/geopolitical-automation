@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4411,
+  "total_calls": 4415,
   "tiers": {
-    "groq": 4392,
+    "groq": 4396,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-29T04:14:38.536180+00:00",
-      "tier": "groq",
-      "article": "Pakistan says its security forces killed 29 fighters along Afghan border"
-    },
-    {
-      "timestamp": "2026-06-29T04:15:21.120391+00:00",
-      "tier": "groq",
-      "article": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening"
-    },
-    {
-      "timestamp": "2026-06-29T04:16:09.400425+00:00",
-      "tier": "groq",
-      "article": "Venezuelan journalist projects earthquake death toll to count in tens of thousands"
-    },
-    {
-      "timestamp": "2026-06-29T04:17:01.141603+00:00",
-      "tier": "groq",
-      "article": "Iran pledges to pursue accountability for Sardasht chemical attack"
-    },
     {
       "timestamp": "2026-06-29T11:08:53.418574+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-02T17:56:25.538692+00:00",
       "tier": "groq",
       "article": "UK officers face misconduct probe in Henry Nowak case"
+    },
+    {
+      "timestamp": "2026-07-02T19:32:18.112512+00:00",
+      "tier": "groq",
+      "article": "Identity of EU negotiator irrelevant as long as EU demands Russia's capitulation \u2014 MFA"
+    },
+    {
+      "timestamp": "2026-07-02T19:32:52.988333+00:00",
+      "tier": "groq",
+      "article": "Kiev deliberately targeted bus carrying Belarusians in Bryansk Region \u2014 Russian envoy"
+    },
+    {
+      "timestamp": "2026-07-02T19:33:11.011924+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: What we know about Ukrainian drone attack on Minsk-Anapa bus in Bryansk Region"
+    },
+    {
+      "timestamp": "2026-07-02T19:33:28.547263+00:00",
+      "tier": "groq",
+      "article": "Russian couple gets engaged on top of Empire State Building (VIDEOS)"
     }
   ]
 }
