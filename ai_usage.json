@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4403,
+  "total_calls": 4407,
   "tiers": {
-    "groq": 4384,
+    "groq": 4388,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-28T21:05:55.419304+00:00",
-      "tier": "groq",
-      "article": "One Serious Injury in Tel Aviv Car Blast, the 2nd Such Explosion in Central \u2018Israel\u2019 within Hours: Israeli Media - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-28T21:06:14.399579+00:00",
-      "tier": "groq",
-      "article": "Three firefighters killed in US wildfires along Colorado\u2013Utah border"
-    },
-    {
-      "timestamp": "2026-06-28T21:06:39.717122+00:00",
-      "tier": "groq",
-      "article": "US in search of quick, low-cost missile production options after Iran operation \u2014 media"
-    },
-    {
-      "timestamp": "2026-06-28T21:06:58.222719+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drone downed while approaching Moscow \u2014 mayor"
-    },
     {
       "timestamp": "2026-06-28T23:06:39.480252+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-02T10:47:50.545698+00:00",
       "tier": "groq",
       "article": "Video purportedly shows Ukrainian unit running down Russian Shahed. The US is paying attention."
+    },
+    {
+      "timestamp": "2026-07-02T14:11:14.857398+00:00",
+      "tier": "groq",
+      "article": "Iran warns US, Israel against strikes during supreme leader farewell ceremonies"
+    },
+    {
+      "timestamp": "2026-07-02T14:11:33.297962+00:00",
+      "tier": "groq",
+      "article": "Kremlin briefing covers Russia's massive strike on Ukraine, EU's confrontation with Moscow"
+    },
+    {
+      "timestamp": "2026-07-02T14:11:50.639010+00:00",
+      "tier": "groq",
+      "article": "Russia begins testing new Svarog pro AI-assisted interceptor drone in combat"
+    },
+    {
+      "timestamp": "2026-07-02T14:12:09.141815+00:00",
+      "tier": "groq",
+      "article": "Israel is carrying out 'reproductive genocide' against Palestinians, new report finds"
     }
   ]
 }
