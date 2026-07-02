@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4395,
+  "total_calls": 4399,
   "tiers": {
-    "groq": 4376,
+    "groq": 4380,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-28T17:19:34.815812+00:00",
-      "tier": "groq",
-      "article": "Iran to respond more forcefully to MoU violations after 2nd night of fire exchange with US"
-    },
-    {
-      "timestamp": "2026-06-28T17:20:13.546278+00:00",
-      "tier": "groq",
-      "article": "Three security personnel killed in attack in Karachi"
-    },
-    {
-      "timestamp": "2026-06-28T17:20:58.677013+00:00",
-      "tier": "groq",
-      "article": "IRGC says it conducted missile, drone operation in response to US attacks"
-    },
-    {
-      "timestamp": "2026-06-28T17:21:15.001884+00:00",
-      "tier": "groq",
-      "article": "When the American arsonist wears a rescue uniform in Venezuela"
-    },
     {
       "timestamp": "2026-06-28T19:25:51.729976+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-02T03:54:13.024656+00:00",
       "tier": "groq",
       "article": "Nord Stream blasts suspect charged with \u2018war crimes\u2019 in Germany \u2013 media"
+    },
+    {
+      "timestamp": "2026-07-02T07:36:23.501339+00:00",
+      "tier": "groq",
+      "article": "The Blind Spots in Chinese Military Studies"
+    },
+    {
+      "timestamp": "2026-07-02T07:37:03.023180+00:00",
+      "tier": "groq",
+      "article": "Russian forces deliver retaliatory massive strike on Ukraine \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-02T07:37:51.683564+00:00",
+      "tier": "groq",
+      "article": "New Escalation on the Golan Frontier: Israeli Shells Hit Agricultural Belt in Daraa - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-02T07:38:09.409979+00:00",
+      "tier": "groq",
+      "article": "Talks on Strait of Hormuz based on Oman-proposed plan \u2014 TV"
     }
   ]
 }
