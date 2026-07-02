@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4419,
+  "total_calls": 4423,
   "tiers": {
-    "groq": 4400,
+    "groq": 4404,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-29T15:55:25.325792+00:00",
-      "tier": "groq",
-      "article": "Why Pakistan\u2019s Afghan air strikes aren\u2019t stopping armed attacks"
-    },
-    {
-      "timestamp": "2026-06-29T15:55:41.613976+00:00",
-      "tier": "groq",
-      "article": "Putin says Ukraine attacks won\u2019t halt Russian advance"
-    },
-    {
-      "timestamp": "2026-06-29T15:56:00.490407+00:00",
-      "tier": "groq",
-      "article": "Condemnations as Israeli Occupation Attacks Southern Syria Anew - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-29T15:56:37.147952+00:00",
-      "tier": "groq",
-      "article": "Kiarostami\u2019s \u201cCertified Copy\u201d to be shown at Karlovy Vary International Film Festival"
-    },
     {
       "timestamp": "2026-06-29T18:14:04.023992+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-02T21:15:52.354613+00:00",
       "tier": "groq",
       "article": "'Two weeks after her death I got a call': Thousands of Gaza patients still waiting for evacuation"
+    },
+    {
+      "timestamp": "2026-07-02T23:11:29.963914+00:00",
+      "tier": "groq",
+      "article": "Three in serious condition after drone strike on bus in Lugansk People\u2019s Republic"
+    },
+    {
+      "timestamp": "2026-07-02T23:12:08.747631+00:00",
+      "tier": "groq",
+      "article": "\u2018Ukrainian woman\u2019 identified as suspect in Monaco bomb attack \u2013 media"
+    },
+    {
+      "timestamp": "2026-07-02T23:12:56.947406+00:00",
+      "tier": "groq",
+      "article": "Zelensky complains that Kiev received not a single of 200 promised air defense missiles"
+    },
+    {
+      "timestamp": "2026-07-02T23:13:15.174562+00:00",
+      "tier": "groq",
+      "article": "Iran slams Israel\u2019s public threat against Ayatollah Khamenei"
     }
   ]
 }
