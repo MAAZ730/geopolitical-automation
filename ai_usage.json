@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4447,
+  "total_calls": 4451,
   "tiers": {
-    "groq": 4428,
+    "groq": 4432,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-30T14:28:50.904299+00:00",
-      "tier": "groq",
-      "article": "Gaza: Mother and Infant Daughter Martyred in Israeli Strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-06-30T14:29:29.792329+00:00",
-      "tier": "groq",
-      "article": "French politician accuses Kiev of plotting assassination attempt on entrepreneur in Monaco"
-    },
-    {
-      "timestamp": "2026-06-30T14:29:49.527310+00:00",
-      "tier": "groq",
-      "article": "One of three injured in Monaco explosion remains in critical condition \u2014 prosecutor"
-    },
-    {
-      "timestamp": "2026-06-30T14:30:09.334173+00:00",
-      "tier": "groq",
-      "article": "Sheikh Hasina vows to return to Bangladesh this year despite death sentence"
-    },
     {
       "timestamp": "2026-06-30T17:59:18.749224+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-03T19:31:29.432114+00:00",
       "tier": "groq",
       "article": "Bomb blast at central Damascus cafe kills nine, state media say"
+    },
+    {
+      "timestamp": "2026-07-03T21:13:26.067618+00:00",
+      "tier": "groq",
+      "article": "Citizens, officials mourn son-in-law of martyred Leader at Tehran funeral"
+    },
+    {
+      "timestamp": "2026-07-03T21:14:08.071508+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s advance collapses in Ukraine, \u201840,000\u2019 troops killed in June"
+    },
+    {
+      "timestamp": "2026-07-03T21:15:01.142522+00:00",
+      "tier": "groq",
+      "article": "Iran tells UN that US aggression, not Iranian action, is threat to peace"
+    },
+    {
+      "timestamp": "2026-07-03T21:15:19.298420+00:00",
+      "tier": "groq",
+      "article": "Iran not to allow US interfere in Strait of Hormuz"
     }
   ]
 }
