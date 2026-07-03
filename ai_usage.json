@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4427,
+  "total_calls": 4431,
   "tiers": {
-    "groq": 4408,
+    "groq": 4412,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-29T21:40:52.725754+00:00",
-      "tier": "groq",
-      "article": "Iraq sets September deadline for resistance factions to disarm"
-    },
-    {
-      "timestamp": "2026-06-29T21:41:26.289413+00:00",
-      "tier": "groq",
-      "article": "Iran honors \u2018pioneer of public diplomacy\u2019 assassinated in US-Israeli strike"
-    },
-    {
-      "timestamp": "2026-06-29T21:42:12.199919+00:00",
-      "tier": "groq",
-      "article": "Pakistani strikes kill dozens of Afghan villagers"
-    },
-    {
-      "timestamp": "2026-06-29T21:42:57.885853+00:00",
-      "tier": "groq",
-      "article": "Macron, MBS discuss US-Iran escalation"
-    },
     {
       "timestamp": "2026-06-29T23:04:27.695274+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-03T03:35:29.870651+00:00",
       "tier": "groq",
       "article": "Gharibabadi: Hormuz defined under Iran\u2019s command, not Washington\u2019s"
+    },
+    {
+      "timestamp": "2026-07-03T07:26:38.707657+00:00",
+      "tier": "groq",
+      "article": "Millions to Mourn: Iran Begins Epic Farewell to Martyred Supreme Leader as Global Dignitaries Flock to Tehran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-03T07:27:18.615347+00:00",
+      "tier": "groq",
+      "article": "Woman killed by Ukrainian projectile in Belgorod"
+    },
+    {
+      "timestamp": "2026-07-03T07:28:08.298247+00:00",
+      "tier": "groq",
+      "article": "Explosive-laden Ukrainian drone crashes in T\u00fcrkiye\u2019s Trabzon province \u2013 media"
+    },
+    {
+      "timestamp": "2026-07-03T07:28:59.483513+00:00",
+      "tier": "groq",
+      "article": "Iran warns US and Israel against attacks on Khamenei funeral"
     }
   ]
 }
