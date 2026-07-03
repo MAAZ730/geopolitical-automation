@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4439,
+  "total_calls": 4443,
   "tiers": {
-    "groq": 4420,
+    "groq": 4424,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-30T07:59:27.764126+00:00",
-      "tier": "groq",
-      "article": "Israeli strikes kill eight in Gaza, overall toll tops 73,000"
-    },
-    {
-      "timestamp": "2026-06-30T08:00:03.215925+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks kill over 40 Russians, including two children, over week \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-06-30T08:00:20.901023+00:00",
-      "tier": "groq",
-      "article": "Six-month-old baby killed outside Moscow as Russia downs 419 Ukrainian drones"
-    },
-    {
-      "timestamp": "2026-06-30T08:00:38.388559+00:00",
-      "tier": "groq",
-      "article": "Qatar condemns Israeli incursions in Syria"
-    },
     {
       "timestamp": "2026-06-30T11:16:54.039395+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-03T14:16:54.533817+00:00",
       "tier": "groq",
       "article": "Germany\u2019s rotten center is heading for a reckoning"
+    },
+    {
+      "timestamp": "2026-07-03T17:36:41.863226+00:00",
+      "tier": "groq",
+      "article": "Over 4,300 killed in Israeli strikes since March 2 Lebanon escalation \u2014 health ministry"
+    },
+    {
+      "timestamp": "2026-07-03T17:37:15.138471+00:00",
+      "tier": "groq",
+      "article": "Strike on market deadliest Ukrainian attack on civilians in Tokmak, authorities say"
+    },
+    {
+      "timestamp": "2026-07-03T17:37:33.741428+00:00",
+      "tier": "groq",
+      "article": "Iran says US still avoids accountability on anniversary of Iran Air Flight 655 downing"
+    },
+    {
+      "timestamp": "2026-07-03T17:38:12.926848+00:00",
+      "tier": "groq",
+      "article": "US diplomat wants to turn Taiwan into \u2018hornet\u2019s nest of drones\u2019"
     }
   ]
 }
