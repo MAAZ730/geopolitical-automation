@@ -1,4 +1,39 @@
 {
+  "b4300933a0f2f31d19e0be36b3f766564acb819ce15ecb76a0cd666d19e68710": {
+    "url": "QudsNen/229747",
+    "title": "Israeli Settlers Clash with Foreign Activists in West Bank",
+    "published": "2026-07-03T10:48:42.959446+00:00"
+  },
+  "59a9eac601d4dc31fde57db9262638174318800221d35862e4b53602ee736337": {
+    "url": "QudsNen/229749",
+    "title": "Israeli Settlers Assault Foreign Activists in West Bank",
+    "published": "2026-07-03T10:47:09.780785+00:00"
+  },
+  "3fb22a26c52fd63dd31852bb6772dc4bbd368f1d3f7ae6a19a72f7c96353ddeb": {
+    "url": "QudsNen/229750",
+    "title": "Israeli Settlers Confront Palestinian Landowners and Activists in Abu Falah",
+    "published": "2026-07-03T10:46:20.439894+00:00"
+  },
+  "556e860fc597acd72d1e3768880da07332603b36db1ef8e419142a544332954f": {
+    "url": "thecradlemedia/63285",
+    "title": "Gaza's Healthcare System on Brink of Collapse Amid Israeli Blockade",
+    "published": "2026-07-03T10:45:03.702447+00:00"
+  },
+  "0f533f21f968e6def52040ca66b27f1cfd6bb584b2003aca4a0c54eb3693fe82": {
+    "url": "thecradlemedia/63287",
+    "title": "Israeli Drone Drops Sonic Device in Al-Mansouri, Lebanon",
+    "published": "2026-07-03T10:44:56.472399+00:00"
+  },
+  "298839af1423789fbfac3538af2dbbb2ddac1aa2127cb5b5193c24b2c2e28ddf": {
+    "url": "thecradlemedia/63288",
+    "title": "ICC Streamlines Removal Process for Chief Prosecutor Amid Sanctions and Misconduct Allegations",
+    "published": "2026-07-03T10:43:52.863833+00:00"
+  },
+  "a11b79d12fa2d25ba22a1d065dc8c1ca34db95eba3ee81fcfdce6298b147caac": {
+    "url": "https://www.aljazeera.com/news/2026/7/3/four-killed-in-ukraine-a-day-after-deadliest-russian-attacks-this-year?traffic_source=rss",
+    "title": "Four killed in Ukraine a day after deadliest Russian attacks this year",
+    "published": "2026-07-03T09:26:27+00:00"
+  },
   "eaf34ea360282658eb3fba039ba47ade5ad3b6389666304c810326d0d6fa0838": {
     "url": "DDGeopolitics/188018",
     "title": "Ukraine Criticizes Effectiveness of German Skynex Air Defense System in Repelling Drone Attack",
@@ -24,10 +59,20 @@
     "title": "Drone Targets US Embassy in Baghdad's Green Zone",
     "published": "2026-07-03T07:33:05.719566+00:00"
   },
+  "f9da2f9997015fb412adc9444b98186d9621ee48c6d156f4d05ad5d70888b7a3": {
+    "url": "https://tass.com/politics/2154851",
+    "title": "Missile strike on Belgorod, fire near Smolensk, 155 UAVs target Russia: new attack",
+    "published": "2026-07-03T07:31:05+00:00"
+  },
   "ea154ac4bfe72974f42a7bad42c6bfe9d8eb029511a3e9bf440af8f9d07b654c": {
     "url": "thecradlemedia/63267",
     "title": "Israeli Strike Hits Lebanon's Tyre District",
     "published": "2026-07-03T07:30:57.262027+00:00"
+  },
+  "08193cbf52b3b91751090e04a7c4af691306f02879c3923628c675ae0b8d69f2": {
+    "url": "https://tass.com/emergencies/2154847",
+    "title": "One person killed, two more injured in Ukraine\u2019s drone attack on Bryansk Region",
+    "published": "2026-07-03T07:28:35+00:00"
   },
   "ee97b57ca7755177baba819f068aa4c794800a529eaef430df90eacb9b85e3ea": {
     "url": "https://english.almanar.com.lb/article/99797/",
@@ -303,6 +348,11 @@
     "url": "https://www.rt.com/news/642483-drone-fake-bomb-sweden-russian-embassy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Fake bomb drone crashes near Russian Embassy in Sweden",
     "published": "2026-07-02T11:33:19+00:00"
+  },
+  "2cd1c0c083e6545a6ce51285e09f69171f6f218d3ba4f765f6337c40a96f973b": {
+    "url": "https://thecradle.co/articles-id/38557",
+    "title": "Syrian FM visits Beirut, signals \u2018openness\u2019 to talks with Hezbollah",
+    "published": "2026-07-02T11:25:01+00:00"
   },
   "4334099f739e918f320ec34d0a7b2b5b5101951e6ee63a8735a705e89647a537": {
     "url": "https://tass.com/politics/2154455",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/politics/2153979",
     "title": "Russia-Ukraine prisoner swap, Western pressure on ICRC: top diplomat\u2019s key statements",
     "published": "2026-07-01T12:24:54+00:00"
-  },
-  "475215c9313a181c96253487c6bb1f85d6a7af780a6f963735daa3695b6996fc": {
-    "url": "https://thecradle.co/articles-id/38538",
-    "title": "Trump weighs resuming \u2018all-out war\u2019 on Iran, chooses diplomacy \u2018for now\u2019: Report",
-    "published": "2026-07-01T12:03:19+00:00"
-  },
-  "752c926a26230c729df70755fa2e2e1a93dcc7678d9ccdc6d4d8e944abc4df21": {
-    "url": "https://www.defensenews.com/global/europe/2026/07/01/germany-expands-its-exoatmospheric-missile-shield-with-second-arrow-3-deployment/",
-    "title": "Germany expands its exoatmospheric missile shield with second Arrow-3 deployment",
-    "published": "2026-07-01T11:40:11+00:00"
-  },
-  "9be76646f4e4434424865c405e9b5b5cd75b20e916c4fe317cef8fa7baea63f7": {
-    "url": "https://thecradle.co/articles-id/38534",
-    "title": "Syrian forces uproot 1,000 families as part of new \u2018sectarian displacement campaign\u2019",
-    "published": "2026-07-01T10:25:08+00:00"
-  },
-  "1a9dcd52d4d47d2844ec51a05d6edb06c9d4862304b5bc1a5657b04cd1b28062": {
-    "url": "QudsNen/229495",
-    "title": "Israeli Airstrike Hits Gaza City, Multiple Casualties Reported",
-    "published": "2026-07-01T10:04:33.492431+00:00"
-  },
-  "a78fe78dd4f21e85d9e115b895d318888c153b82cc45dd70f4175c461898e6b8": {
-    "url": "QudsNen/229501",
-    "title": "Funeral Procession Held for Palestinians Killed in Israeli Airstrikes in Khan Younis",
-    "published": "2026-07-01T10:02:48.402007+00:00"
-  },
-  "696b1fdc34b84960642de9ce8ed7783a6be4790fe107b7fad8bc70c7200d4574": {
-    "url": "QudsNen/229507",
-    "title": "Israeli Drone Strike in Gaza City Kills Two, Injures 20",
-    "published": "2026-07-01T10:00:12.168440+00:00"
-  },
-  "0487f3bcb6befa639e29547ba9531cc48659a88228f8460d008b1113f8dfb834": {
-    "url": "QudsNen/229509",
-    "title": "Israeli Forces Clash with Palestinian Mourners in Jerusalem Funeral",
-    "published": "2026-07-01T09:59:16.562741+00:00"
-  },
-  "a968a8b92bf4a2933b4a69feec23a521f3fe59e0cf66b41f962822682d259e1c": {
-    "url": "thecradlemedia/63144",
-    "title": "Israel Reaffirms Commitment to Security Zones in Lebanon, Syria, and Gaza",
-    "published": "2026-07-01T09:56:16.242364+00:00"
-  },
-  "c826b88b5de9f7980ff99f4fc28b16a02d9875fd8e350873ae614cdd6e66b080": {
-    "url": "thecradlemedia/63145",
-    "title": "Iran-US Technical Talks Resume in Doha Amid Calls for US Compliance",
-    "published": "2026-07-01T09:56:08.139697+00:00"
-  },
-  "9343cd5a15dc70cee92b19714b9f6b2441d0af770a577fc1722194de4fac6ab8": {
-    "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
-    "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
-    "published": "2026-07-01T09:38:06+00:00"
   }
 }

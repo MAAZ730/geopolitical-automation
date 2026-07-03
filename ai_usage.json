@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4431,
+  "total_calls": 4435,
   "tiers": {
-    "groq": 4412,
+    "groq": 4416,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-29T23:04:27.695274+00:00",
-      "tier": "groq",
-      "article": "US says it has agreed to 'stand down' after exchange of strikes with Iran"
-    },
-    {
-      "timestamp": "2026-06-29T23:04:43.783841+00:00",
-      "tier": "groq",
-      "article": "Isfahan unveils tourism roadmap, plans heritage restoration after recent damage"
-    },
-    {
-      "timestamp": "2026-06-29T23:05:20.948454+00:00",
-      "tier": "groq",
-      "article": "Total of 124 vessels transited Strait of Hormuz in four days \u2014 CNN"
-    },
-    {
-      "timestamp": "2026-06-29T23:06:10.648942+00:00",
-      "tier": "groq",
-      "article": "Iran proves it can control Hormuz Strait, former US lawmaker says"
-    },
     {
       "timestamp": "2026-06-30T03:56:50.824944+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-03T07:28:59.483513+00:00",
       "tier": "groq",
       "article": "Iran warns US and Israel against attacks on Khamenei funeral"
+    },
+    {
+      "timestamp": "2026-07-03T10:42:01.254795+00:00",
+      "tier": "groq",
+      "article": "Missile strike on Belgorod, fire near Smolensk, 155 UAVs target Russia: new attack"
+    },
+    {
+      "timestamp": "2026-07-03T10:42:44.720914+00:00",
+      "tier": "groq",
+      "article": "Four killed in Ukraine a day after deadliest Russian attacks this year"
+    },
+    {
+      "timestamp": "2026-07-03T10:43:30.801783+00:00",
+      "tier": "groq",
+      "article": "One person killed, two more injured in Ukraine\u2019s drone attack on Bryansk Region"
+    },
+    {
+      "timestamp": "2026-07-03T10:43:49.170405+00:00",
+      "tier": "groq",
+      "article": "Syrian FM visits Beirut, signals \u2018openness\u2019 to talks with Hezbollah"
     }
   ]
 }
