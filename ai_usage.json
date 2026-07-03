@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4423,
+  "total_calls": 4427,
   "tiers": {
-    "groq": 4404,
+    "groq": 4408,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-29T18:14:04.023992+00:00",
-      "tier": "groq",
-      "article": "Pakistan launches retaliatory airstrikes in Afghanistan after terror attacks"
-    },
-    {
-      "timestamp": "2026-06-29T18:14:40.780420+00:00",
-      "tier": "groq",
-      "article": "Israeli army strikes three Hezbollah command centers in response to ceasefire violations"
-    },
-    {
-      "timestamp": "2026-06-29T18:15:27.751415+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike drone storage facility in Kharkov"
-    },
-    {
-      "timestamp": "2026-06-29T18:15:47.390725+00:00",
-      "tier": "groq",
-      "article": "History will not forget perpetrators, supporters of Sardasht chemical bombing: Iran envoy"
-    },
     {
       "timestamp": "2026-06-29T21:40:52.725754+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-02T23:13:15.174562+00:00",
       "tier": "groq",
       "article": "Iran slams Israel\u2019s public threat against Ayatollah Khamenei"
+    },
+    {
+      "timestamp": "2026-07-03T03:33:48.563664+00:00",
+      "tier": "groq",
+      "article": "Kiev troops shell DPR 15 times in past day, one killed"
+    },
+    {
+      "timestamp": "2026-07-03T03:34:26.088605+00:00",
+      "tier": "groq",
+      "article": "US Navy seeks to boost production of new anti-radar missile "
+    },
+    {
+      "timestamp": "2026-07-03T03:35:12.110406+00:00",
+      "tier": "groq",
+      "article": "Explosion hits Damascus, causing casualties \u2014 TV"
+    },
+    {
+      "timestamp": "2026-07-03T03:35:29.870651+00:00",
+      "tier": "groq",
+      "article": "Gharibabadi: Hormuz defined under Iran\u2019s command, not Washington\u2019s"
     }
   ]
 }
