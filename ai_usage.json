@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4435,
+  "total_calls": 4439,
   "tiers": {
-    "groq": 4416,
+    "groq": 4420,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-30T03:56:50.824944+00:00",
-      "tier": "groq",
-      "article": "Russia informs UN of identified suspects in strike on bus carrying Belarusian children"
-    },
-    {
-      "timestamp": "2026-06-30T03:57:26.216341+00:00",
-      "tier": "groq",
-      "article": "Zelensky moves to real terror against Belarus \u2014 deputy foreign minister"
-    },
-    {
-      "timestamp": "2026-06-30T03:57:44.732993+00:00",
-      "tier": "groq",
-      "article": "Police hunt for suspect after three wounded in Monaco blast"
-    },
-    {
-      "timestamp": "2026-06-30T03:58:27.047285+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: No injuries reported as Russia downs total of 209 Ukrainian drones overnight"
-    },
     {
       "timestamp": "2026-06-30T07:59:27.764126+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-03T10:43:49.170405+00:00",
       "tier": "groq",
       "article": "Syrian FM visits Beirut, signals \u2018openness\u2019 to talks with Hezbollah"
+    },
+    {
+      "timestamp": "2026-07-03T14:15:16.953375+00:00",
+      "tier": "groq",
+      "article": "Funeral ceremony for martyr Leader Ayatollah Khamenei officially begins"
+    },
+    {
+      "timestamp": "2026-07-03T14:15:54.310425+00:00",
+      "tier": "groq",
+      "article": "Five dead, 18 injured: what is known about Ukrainian attack on Zaporozhye market"
+    },
+    {
+      "timestamp": "2026-07-03T14:16:12.304222+00:00",
+      "tier": "groq",
+      "article": "Global Tribute: Imam Khomeini\u2019s household pays tribute to martyred Leader"
+    },
+    {
+      "timestamp": "2026-07-03T14:16:54.533817+00:00",
+      "tier": "groq",
+      "article": "Germany\u2019s rotten center is heading for a reckoning"
     }
   ]
 }
