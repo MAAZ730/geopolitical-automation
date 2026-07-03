@@ -1,4 +1,44 @@
 {
+  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
+    "url": "CensoredMen/203",
+    "title": "Israel Escalates Strikes in Lebanon Amid Ceasefire Tensions",
+    "published": "2026-07-03T19:41:57.673735+00:00"
+  },
+  "e70d9ec9cc58f4f2659f86ff82ca946d8eadf0db2563c1c63308d5b10c25e432": {
+    "url": "presstv/196767",
+    "title": "IRGC Vows Crushing Retaliation Against Enemy Miscalculation",
+    "published": "2026-07-03T19:39:25.258637+00:00"
+  },
+  "b210f6b9207ed809d37d862944bfd469c85eebf1d7f1c53fd6f4c279392f5060": {
+    "url": "presstv/196770",
+    "title": "IRGC Commander Majid Mousavi at Ayatollah Khamenei's Funeral",
+    "published": "2026-07-03T19:37:46.397374+00:00"
+  },
+  "8058a03e6ed384bf471920f621da632b4d84032d62099fc323a26aa211deebc6": {
+    "url": "BellumActaNews/174760",
+    "title": "Iranian Supreme Leader's Funeral Attracts Hamas Leaders",
+    "published": "2026-07-03T19:36:45.141395+00:00"
+  },
+  "4db87f6d6059aea30721c790264de647761a0eace264ea524259fe7cc7ecb73c": {
+    "url": "thecradlemedia/63341",
+    "title": "Yemen Repels Saudi Airliner Threat, Mass Mobilizations Continue",
+    "published": "2026-07-03T19:31:42.786480+00:00"
+  },
+  "e7ab7af1a69eef5aa3fdadf5602d5fc0a884214e406bf4f542792ff61f5adafa": {
+    "url": "thecradlemedia/63342",
+    "title": "US Military Confronts Munitions Shortage After Iran Conflict",
+    "published": "2026-07-03T19:31:35.891651+00:00"
+  },
+  "026573cef391f64d4df61c9025d92923be1b3bd044b1961f5cb5488d19870c87": {
+    "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+    "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+    "published": "2026-07-03T18:39:31+00:00"
+  },
+  "867aab0f8c112d941893405fcb72319f3a1eb4f6f36d1bbb785c1d93e496c86d": {
+    "url": "https://tass.com/world/2155211",
+    "title": "Houthis claim missile strikes on Saudi aircraft over Yemen",
+    "published": "2026-07-03T18:08:50+00:00"
+  },
   "0bed443430da020c7d7f5f446db8c81ba94d87ffc2d51bb3cbcd04d5190e0979": {
     "url": "BellumActaNews/174752",
     "title": "Germany Charges Ukrainian National in Nord Stream Pipeline Sabotage Case",
@@ -43,6 +83,11 @@
     "url": "https://tass.com/emergencies/2155161",
     "title": "Strike on market deadliest Ukrainian attack on civilians in Tokmak, authorities say",
     "published": "2026-07-03T14:58:08+00:00"
+  },
+  "63bae8bf2c8d639ae3cd0deb638c19909ad40c7236d6c1d070d31acb650d70b1": {
+    "url": "https://tass.com/politics/2155143",
+    "title": "Russia strongly condemns brutal Ukrainian strike on Tokmak \u2014 diplomat",
+    "published": "2026-07-03T14:28:10+00:00"
   },
   "2e219ae2a5432b307bd858550bb0bddbce7343a487fac9f3480beb83c5bde17d": {
     "url": "intelslava/89704",
@@ -163,6 +208,11 @@
     "url": "https://tass.com/emergencies/2154847",
     "title": "One person killed, two more injured in Ukraine\u2019s drone attack on Bryansk Region",
     "published": "2026-07-03T07:28:35+00:00"
+  },
+  "d8d0cc2114454150a025727816b97113ced9eeacb263e5f3c533ebc9e5f1f9d5": {
+    "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+    "title": "Bomb blast at central Damascus cafe kills nine, state media say",
+    "published": "2026-07-03T06:42:14+00:00"
   },
   "ee97b57ca7755177baba819f068aa4c794800a529eaef430df90eacb9b85e3ea": {
     "url": "https://english.almanar.com.lb/article/99797/",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/63189",
     "title": "Strait of Hormuz Remains Warlike Operations Zone Until July 9",
     "published": "2026-07-01T20:04:45.614799+00:00"
-  },
-  "e927500c55d9d73e993df25d0b9dd0b91bc82065b844f7ae7f93f8205d5eb5fc": {
-    "url": "thecradlemedia/63195",
-    "title": "Israeli Drone Strike Hits Nabatieh al-Fawqa in Southern Lebanon",
-    "published": "2026-07-01T20:04:44.430242+00:00"
-  },
-  "1bc6ed6f2f79e4b2f25cfbf1a724a7cb98600879d887b5de2b7adcfda07b9790": {
-    "url": "thecradlemedia/63198",
-    "title": "Israel Upgrades Iron Dome Missile Defense System",
-    "published": "2026-07-01T20:04:30.286861+00:00"
-  },
-  "8dbab9d2ace3ab36bde107f988b68c51af4109d8c5622960ddae9cfe2a6a54f2": {
-    "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
-    "title": "Israel kills three Palestinians in Gaza despite \u2018ceasefire\u2019",
-    "published": "2026-07-01T19:29:52+00:00"
-  },
-  "5d3f089a0998d374e01bd5177a4ca5d482dc5f15003f0fd6e3a0a1b4dc061a9d": {
-    "url": "https://english.almanar.com.lb/article/99427/",
-    "title": "Zionist Enemy Wreaks Havoc in South Lebanon: Air Raids, Bombings, Fires - Al-Manar TV Lebanon",
-    "published": "2026-07-01T19:21:12+00:00"
-  },
-  "d1859027485bd47f0893d8239a1c92ddfa7bc300a3fa88b6d8c1c380587223d9": {
-    "url": "https://www.rt.com/news/642444-uk-nowak-stabbing-police-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "UK officers face misconduct probe in Henry Nowak case",
-    "published": "2026-07-01T17:54:36+00:00"
-  },
-  "fe25cac2880dba4cc3f0c0b78b868b866bdd527e39f66e5072a94be58ab177c1": {
-    "url": "https://www.tehrantimes.com/news/527823/Iran-s-missile-and-drone-capabilities-remain-non-negotiable",
-    "title": "Iran's missile and drone capabilities remain 'non-negotiable,' defense chief says",
-    "published": "2026-07-01T17:38:10+00:00"
-  },
-  "7015b212c5b0cbb8f3e32283ed9448a897c25293d180e89cc4f919787832cdaf": {
-    "url": "https://www.tehrantimes.com/news/527822/Iran-vows-justice-for-Leader-s-assassination",
-    "title": "Iran vows justice for Leader's assassination",
-    "published": "2026-07-01T17:29:39+00:00"
-  },
-  "d2f3e5ac6388026b7f95f21ead99e818ae862649133e587c9be2bb90dd47c268": {
-    "url": "https://www.tehrantimes.com/news/527820/The-modern-golem-of-Silicon-Valley-demands-a-ritual-sacrifice",
-    "title": "The modern golem of Silicon Valley demands a ritual sacrifice of innocence",
-    "published": "2026-07-01T16:51:49+00:00"
-  },
-  "c160c6207f5ac33d28a70109d9e358d1161b1c6fb1d65e6396f5d7a46f514bba": {
-    "url": "https://www.tehrantimes.com/news/527812/A-Martyr-Never-Dies-Brazilian-cartoonist-reflects-on-illustrating",
-    "title": "\"A Martyr Never Dies\": Brazilian cartoonist reflects on illustrating Iran's supreme leader",
-    "published": "2026-07-01T16:42:47+00:00"
-  },
-  "6c5a028b97bf78bba9553c2273738f175b770b8ae4aa65bdf276ac3114d6194f": {
-    "url": "intelslava/89608",
-    "title": "Russia Launches Strike on Kramatorsk, Ukraine",
-    "published": "2026-07-01T16:36:18.926853+00:00"
   }
 }
