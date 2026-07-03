@@ -1,4 +1,34 @@
 {
+  "a024d94e51cc671b9076465caab74f25d2b6beabf7687eee2b86b96ccf4a3a0b": {
+    "url": "CyberspecNews/111068",
+    "title": "Russia Develops Domestic Air Defense System",
+    "published": "2026-07-03T23:20:29.274199+00:00"
+  },
+  "828b1b7b625826d78f32bdfa062ff5b396f6dcc275d90a4a8cd0dd25e370239c": {
+    "url": "Slavyangrad/168242",
+    "title": "Explosions Disrupt Services in Belgorod, Russia",
+    "published": "2026-07-03T23:19:37.446954+00:00"
+  },
+  "f6c71ed24fd733d7c8aa458fc5b9381fd83e318b2f323d0b55861393b7c7e1d9": {
+    "url": "Slavyangrad/168243",
+    "title": "Russian Forces Secure Key Settlement in Ukraine's Dnepropetrovsk Region",
+    "published": "2026-07-03T23:18:44.289598+00:00"
+  },
+  "def565a383243dc2907f3eeaa8e4305cfad96a9d70309e894a9180c91d040e8c": {
+    "url": "QudsNen/229803",
+    "title": "Government Expands Powers Under National Security Bill",
+    "published": "2026-07-03T23:13:28.026094+00:00"
+  },
+  "6aeb581fd9b3a004772d1f56c9c3eb7510eb8df6c31bd12c8b3e9251d8a9cdaf": {
+    "url": "QudsNen/229811",
+    "title": "Israeli Airstrike Hits Eastern Gaza City",
+    "published": "2026-07-03T23:13:26.926418+00:00"
+  },
+  "9700c1e3327c870710de9bc90d25e1f981dd48e00f9ffad6b41e47b36f92dc8f": {
+    "url": "QudsNen/229816",
+    "title": "Settlers Clash with Palestinians in Masafer Yatta",
+    "published": "2026-07-03T23:13:25.619010+00:00"
+  },
   "a2f05083bcd410cc3953da638fbd743ab5bfe57b3e6946d61d94a7eb1c3b40d1": {
     "url": "Slavyangrad/168226",
     "title": "Putin Under Pressure to End Ukraine Conflict",
@@ -124,6 +154,11 @@
     "title": "Strike on market deadliest Ukrainian attack on civilians in Tokmak, authorities say",
     "published": "2026-07-03T14:58:08+00:00"
   },
+  "3bb0b0c30ea745e61c620bf46c08541f965e7018697548175c7a1cf2645b7990": {
+    "url": "https://tass.com/world/2155159",
+    "title": "Israeli army reports strikes on ten Hezbollah facilities in Lebanon",
+    "published": "2026-07-03T14:53:24+00:00"
+  },
   "63bae8bf2c8d639ae3cd0deb638c19909ad40c7236d6c1d070d31acb650d70b1": {
     "url": "https://tass.com/politics/2155143",
     "title": "Russia strongly condemns brutal Ukrainian strike on Tokmak \u2014 diplomat",
@@ -174,6 +209,11 @@
     "title": "Five dead, 18 injured: what is known about Ukrainian attack on Zaporozhye market",
     "published": "2026-07-03T11:40:56+00:00"
   },
+  "9ddcab32795230b261663fafa866d7063931935e8455ab7d794d5679b03c7446": {
+    "url": "https://en.mehrnews.com/news/245845/CENTCOM-weighs-regional-bases-relocation-after-Iran-war",
+    "title": "CENTCOM weighs regional bases relocation after Iran war",
+    "published": "2026-07-03T11:30:31+00:00"
+  },
   "22cc875d28622d933f7a89d5240d3f207d11b04bb801938bcef50bfafdbbc762": {
     "url": "https://www.tehrantimes.com/news/527831/Funeral-ceremony-for-martyr-Leader-Ayatollah-Khamenei-officially",
     "title": "Funeral ceremony for martyr Leader Ayatollah Khamenei officially begins",
@@ -214,10 +254,20 @@
     "title": "Four killed in Ukraine a day after deadliest Russian attacks this year",
     "published": "2026-07-03T09:26:27+00:00"
   },
+  "93c55150e46354e6af925f8933d41dc1076be5ea42e41caa41db1310e4d38494": {
+    "url": "https://en.mehrnews.com/news/245842/Israel-planned-to-assassinate-Iranian-negotiators-Report",
+    "title": "Israel planned to assassinate Iranian negotiators: Report",
+    "published": "2026-07-03T08:25:10+00:00"
+  },
   "0d2bfcf5cef264252a06b864deb52078af57b3ca48c54082f2f00c6564770e07": {
     "url": "https://en.mehrnews.com/news/245841/Iran-not-to-allow-US-interfere-in-Strait-of-Hormuz",
     "title": "Iran not to allow US interfere in Strait of Hormuz",
     "published": "2026-07-03T08:08:32+00:00"
+  },
+  "b4a83cc69c55a66785d5b5faa12a38bc2d827905cd7788398757c05cbeb83868": {
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3359304/hong-kong-students-tour-pla-navy-warships-lesson-national-defence?utm_source=rss_feed",
+    "title": "Hong Kong students tour PLA Navy warships for lesson on national defence",
+    "published": "2026-07-03T08:06:04+00:00"
   },
   "eaf34ea360282658eb3fba039ba47ade5ad3b6389666304c810326d0d6fa0838": {
     "url": "DDGeopolitics/188018",
@@ -698,55 +748,5 @@
     "url": "QudsNen/229575",
     "title": "Israeli Artillery Strikes Agricultural Land in Quneitra Countryside",
     "published": "2026-07-02T03:57:17.911796+00:00"
-  },
-  "5b1814d0e9ea77990e6100919dc41b8469995fa26e392e7f58152085e0fdd997": {
-    "url": "QudsNen/229588",
-    "title": "US House to Vote on Amendment to Block Israel Military Aid",
-    "published": "2026-07-02T03:57:16.816709+00:00"
-  },
-  "0b4c3e89f53386071bc229ebf34dd1c9edb2cbc125923e6870934d8f9f342baa": {
-    "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
-    "title": "Kyiv attacked after Ukraine\u2019s Zelenskyy warns of \u2018massive Russian strike\u2019",
-    "published": "2026-07-02T02:15:06+00:00"
-  },
-  "29d823bfe71bf160b805ec19b7b41d2ee6299b09648aa9c3485c7c6643955842": {
-    "url": "https://www.rt.com/news/642471-empire-state-russian-marriage-proposal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Russian couple gets engaged on top of Empire State Building (VIDEOS)",
-    "published": "2026-07-02T00:47:21+00:00"
-  },
-  "5a816a895b5b16f120526189a288f09dd967e4de68da8d71f82658c40d4a3a70": {
-    "url": "Slavyangrad/168042",
-    "title": "NATO Summit to Urge Putin to Negotiate with Ukraine",
-    "published": "2026-07-01T23:29:48.526837+00:00"
-  },
-  "bf9a3079b5e3a5d2eb2bf43ba914c161f728cd2ed03efa2622d44c91ce1ce243": {
-    "url": "intelslava/89626",
-    "title": "Russia Launches Large-Scale Aerial Assault on Kyiv",
-    "published": "2026-07-01T23:27:03.479970+00:00"
-  },
-  "c64636c68e50c80126683b4960196b8961efad33791592aba52aa971433a7429": {
-    "url": "intelslava/89628",
-    "title": "Russian Missiles Arrive in Kyiv Amid Ongoing Conflict",
-    "published": "2026-07-01T23:26:07.147531+00:00"
-  },
-  "41df3ad26f332a28a2610fddc07f2533ce8e23162edd0a8c753682d45fe3fd4f": {
-    "url": "DDGeopolitics/187910",
-    "title": "Russia Deploys Geran-5 Drone with Air-to-Air Missile Capability in Ukraine",
-    "published": "2026-07-01T23:24:15.461954+00:00"
-  },
-  "3f465c22c1d436a30ef2dcc25c76fecb9a412f682ba72179e0d62b9dad64cee6": {
-    "url": "QudsNen/229576",
-    "title": "Israeli Forces Detain Five Palestinian Women in West Bank Raids",
-    "published": "2026-07-01T23:23:36.427123+00:00"
-  },
-  "e8925a371d78f0d161dabda048228f82eb4c9d276780a9dd9389e1b1cc5a99e4": {
-    "url": "thecradlemedia/63181",
-    "title": "Israel Accused of Systematic Sexual Violence Against Palestinians",
-    "published": "2026-07-01T23:23:29.809744+00:00"
-  },
-  "36bcd5fb4df0b07d31443b0f1bf3635ad51ed47dd9df30655ce12694b71db1b3": {
-    "url": "intelslava/89618",
-    "title": "Russian Ballistic Missile Strike Destroys Odessa Industrial Facility",
-    "published": "2026-07-01T21:51:03.811043+00:00"
   }
 }

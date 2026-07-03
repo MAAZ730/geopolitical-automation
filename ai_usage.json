@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4451,
+  "total_calls": 4455,
   "tiers": {
-    "groq": 4432,
+    "groq": 4436,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-30T17:59:18.749224+00:00",
-      "tier": "groq",
-      "article": "Defense chief vows \u2018decisive\u2019 response to any ceasefire breach by US"
-    },
-    {
-      "timestamp": "2026-06-30T18:00:03.667868+00:00",
-      "tier": "groq",
-      "article": "How severe is Russia\u2019s energy shortage because of Ukrainian strikes?"
-    },
-    {
-      "timestamp": "2026-06-30T18:00:20.411825+00:00",
-      "tier": "groq",
-      "article": "Militants from Sudan attack city in CAR, Russian specialists carry out airstrike"
-    },
-    {
-      "timestamp": "2026-06-30T18:00:59.484447+00:00",
-      "tier": "groq",
-      "article": "No country allowed to intervene in demining in Hormuz"
-    },
     {
       "timestamp": "2026-06-30T20:13:37.324819+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-03T21:15:19.298420+00:00",
       "tier": "groq",
       "article": "Iran not to allow US interfere in Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-07-03T23:10:34.268527+00:00",
+      "tier": "groq",
+      "article": "CENTCOM weighs regional bases relocation after Iran war"
+    },
+    {
+      "timestamp": "2026-07-03T23:11:13.476555+00:00",
+      "tier": "groq",
+      "article": "Israeli army reports strikes on ten Hezbollah facilities in Lebanon"
+    },
+    {
+      "timestamp": "2026-07-03T23:11:31.945638+00:00",
+      "tier": "groq",
+      "article": "Hong Kong students tour PLA Navy warships for lesson on national defence"
+    },
+    {
+      "timestamp": "2026-07-03T23:12:07.909900+00:00",
+      "tier": "groq",
+      "article": "Israel planned to assassinate Iranian negotiators: Report"
     }
   ]
 }
