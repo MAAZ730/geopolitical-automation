@@ -1,4 +1,39 @@
 {
+  "c8652f3bded8d5d8c386a3aa72cba30aa18368784f7b01d518991385db8db5df": {
+    "url": "militarywave/24234",
+    "title": "Russian Troops Capture Key Ukrainian Stronghold in Donbass",
+    "published": "2026-07-04T21:06:08.626625+00:00"
+  },
+  "f34bea233844e9c239868c9f3467ae673beca7831d7727591bcc16bfae688402": {
+    "url": "militarywave/24235",
+    "title": "Shaolin Monastery Wushu School Train Young Disciples",
+    "published": "2026-07-04T21:05:12.200783+00:00"
+  },
+  "25a2991c2554a392e120ebe305243906da628c10c446adb8d492ca328636e2f2": {
+    "url": "QudsNen/229908",
+    "title": "Gaza Strip Mourns Loss of Palestinian Youth",
+    "published": "2026-07-04T21:04:12.973146+00:00"
+  },
+  "07379141d0050ab0a9a05d33e01209d24e8fda87f41958a6df899cc4c2f7bc82": {
+    "url": "QudsNen/229920",
+    "title": "Israeli Artillery Strikes Eastern Al-Buraij Camp in Central Gaza Strip",
+    "published": "2026-07-04T21:04:11.408947+00:00"
+  },
+  "4d89b3717448b9bb1ec640ab87c5bcb3e128323deb7a28ce96d1ea3013589780": {
+    "url": "QudsNen/229924",
+    "title": "Settler Vehicle Collision in Qummas Area",
+    "published": "2026-07-04T21:04:09.833497+00:00"
+  },
+  "bf954471e4929db76d9a3702ecac4c64882c88393b140a4b9e7cdd36a275d191": {
+    "url": "Middle_East_Spectator/34123",
+    "title": "Protesters in Iran Chant Anti-American Slogans During Funeral Procession",
+    "published": "2026-07-04T21:03:15.247600+00:00"
+  },
+  "9b53271f8d127e73c9817384d2ec0729a99375e4903e6694fd3c9533f48ec4e5": {
+    "url": "https://tass.com/emergencies/2155767",
+    "title": "Death toll from Venezuelan earthquake up to 2,954",
+    "published": "2026-07-04T20:45:53+00:00"
+  },
   "43c4f692b9001b84c6abae63ad49b2f75fca7686ec0f90bb3f95878aef870613": {
     "url": "Slavyangrad/168304",
     "title": "Fire Engulfs Chernomorsk After Aerial Missile Strike Near Odessa",
@@ -14,6 +49,11 @@
     "title": "Israeli Drone Strike Hits Northern Gaza Strip",
     "published": "2026-07-04T19:26:28.656419+00:00"
   },
+  "51fdcdba0a7125cef18b1f49c75d12dc57e2c1d7daf53a951940b3f28296c2f8": {
+    "url": "https://english.almanar.com.lb/article/100432/",
+    "title": "Al-Manar correspondent: An Israeli drone attacked the town of Mansouri in southern Lebanon - Al-Manar TV Lebanon",
+    "published": "2026-07-04T19:26:18+00:00"
+  },
   "9f669ab51b1b3dd5121bc31036eacf224c0f54a82608f766087501a1e35acc0f": {
     "url": "QudsNen/229913",
     "title": "Palestinian Doctor at Risk of Death in Israeli Prison Interrogation",
@@ -28,6 +68,11 @@
     "url": "Middle_East_Spectator/34107",
     "title": "Iran Appoints New Commander for Revolutionary Guard Corps Navy",
     "published": "2026-07-04T19:24:19.750768+00:00"
+  },
+  "f7c77c72bdcb4f82c739ca952d0db72dfe809ca3ac7e905facc2cc6742e23bb1": {
+    "url": "https://www.aljazeera.com/video/inside-story/2026/7/4/will-economic-pressure-move-the-kremlin-towards-talks-with-kyiv?traffic_source=rss",
+    "title": "Will economic pressure move the Kremlin towards talks with Kyiv?",
+    "published": "2026-07-04T19:19:18+00:00"
   },
   "d74991ef8a5d71df87854dc7d53e4360eebe31cb745cc7d357b397b925f6a681": {
     "url": "mod_russia_en/28023",
@@ -273,6 +318,11 @@
     "url": "QudsNen/229828",
     "title": "Israeli Settlers Open Fire on Palestinian Homes in Wadi Al-Shaer",
     "published": "2026-07-04T03:31:03.075045+00:00"
+  },
+  "915a6dfeacefa27b8925333535d90facb3cf6ca92debccb07465ea6c78249e6f": {
+    "url": "https://tass.com/politics/2155445",
+    "title": "Trump in for difficult two years in case of Republican defeat in November \u2014 senator",
+    "published": "2026-07-04T01:28:00+00:00"
   },
   "6db85b8b117eab14b38bde01d9a230f383c6669d84ef81e8e7da6e7eb9fe3c6c": {
     "url": "https://tass.com/world/2155429",
@@ -698,55 +748,5 @@
     "url": "BellumActaNews/174741",
     "title": "Tibetan Activist Dies After Self-Immolation Outside UN Headquarters in New York",
     "published": "2026-07-03T03:37:01.308014+00:00"
-  },
-  "acfb6b021029f744b7b34e1aed476f66b9e3decd76deeef9d9cbb3edbdd4069a": {
-    "url": "QudsNen/229722",
-    "title": "Israeli Airstrike Hits Southern Lebanon",
-    "published": "2026-07-03T03:35:35.717481+00:00"
-  },
-  "7ea4240a981a9588521f0c4a22ca8d34cbcbc14a4f9717ac1ed0d6248bcc70dc": {
-    "url": "QudsNen/229733",
-    "title": "Israeli Tanks Fire into Eastern Gaza City",
-    "published": "2026-07-03T03:35:34.685674+00:00"
-  },
-  "b0a80d555901f23ae0541aad0b999dabb7574469a4c5a43573a7618c32c4735e": {
-    "url": "https://tass.com/politics/2154793",
-    "title": "Kiev troops shell DPR 15 times in past day, one killed",
-    "published": "2026-07-03T00:51:54+00:00"
-  },
-  "80f66fea1f12610fe9e5db62c8e1dc25e50b3c3fc7373df18ad242097dd75865": {
-    "url": "https://www.rt.com/news/642513-taiwan-drone-hornet-nest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US diplomat wants to turn Taiwan into \u2018hornet\u2019s nest of drones\u2019",
-    "published": "2026-07-03T00:47:49+00:00"
-  },
-  "2a5ae65bd3577f7425cebeeb992b2c3d44a2f2136e6c93c4d771afbe3ba2b408": {
-    "url": "intelslava/89698",
-    "title": "Turkish-Made Drone Destroys UAE-Backed UCAV Over Sudanese Town",
-    "published": "2026-07-02T23:23:31.184286+00:00"
-  },
-  "5c8f130af63e9326cc4e58db2413ea8d535818b53ee55094d62e4e924bae9f89": {
-    "url": "presstv/196600",
-    "title": "Israeli Airstrike Targets Seddiqin in Southern Lebanon",
-    "published": "2026-07-02T23:22:08.638297+00:00"
-  },
-  "4319ac213f8814bf4332d52116f68f89d3e90dc6d135d5995180dd8c36d6e542": {
-    "url": "warmonitors/44771",
-    "title": "Israeli Strike Hits South Lebanon, Secondary Explosions Reported",
-    "published": "2026-07-02T23:17:11.719982+00:00"
-  },
-  "1755b44eb187abc72bce8a9eecd64db6545e84717c572e6eec4f880b07efebd2": {
-    "url": "QudsNen/229723",
-    "title": "Israeli Airstrike Hits Southern Lebanon",
-    "published": "2026-07-02T23:15:17.465212+00:00"
-  },
-  "4b1f33240cfb601cd2a943d4381eb4780f7b5ce8399933c8871573fd2b6601a6": {
-    "url": "Middle_East_Spectator/34011",
-    "title": "IDF Delegation Arrives in Venezuela Amid Regime Change",
-    "published": "2026-07-02T23:13:21.317526+00:00"
-  },
-  "1984eed5c1d293f96bbc14a1054ab23b5bc9f28d9d8642b29fe0b4230a773050": {
-    "url": "Middle_East_Spectator/34014",
-    "title": "Iran's Supreme Leader Ayatollah Ali Khamenei in Final Farewell",
-    "published": "2026-07-02T23:13:20.037751+00:00"
   }
 }
