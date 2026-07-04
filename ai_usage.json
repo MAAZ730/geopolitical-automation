@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4475,
+  "total_calls": 4479,
   "tiers": {
-    "groq": 4456,
+    "groq": 4460,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-01T16:30:58.540856+00:00",
-      "tier": "groq",
-      "article": "After Afghanistan fires drones into Pakistan, what\u2019s next?"
-    },
-    {
-      "timestamp": "2026-07-01T16:31:39.678308+00:00",
-      "tier": "groq",
-      "article": "Afghanistan claims airstrikes inside Pakistan after cross-border escalation"
-    },
-    {
-      "timestamp": "2026-07-01T16:31:57.284991+00:00",
-      "tier": "groq",
-      "article": "World not to be allowed to forget Minab school massacre"
-    },
-    {
-      "timestamp": "2026-07-01T16:32:15.612676+00:00",
-      "tier": "groq",
-      "article": "Art installation in Minab becomes symbol of collective remembrance"
-    },
     {
       "timestamp": "2026-07-01T20:03:25.892752+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-04T15:12:06.999106+00:00",
       "tier": "groq",
       "article": "Securing access to Cook Islands\u2019 critical minerals top priority \u2013 new US envoy"
+    },
+    {
+      "timestamp": "2026-07-04T17:12:16.232518+00:00",
+      "tier": "groq",
+      "article": "Intl. journalists visit damaged Golestan Palace in downtown Tehran"
+    },
+    {
+      "timestamp": "2026-07-04T17:12:55.864183+00:00",
+      "tier": "groq",
+      "article": "Russian Navy must guarantee critical damage to enemy \u2014 Maritime Board chief"
+    },
+    {
+      "timestamp": "2026-07-04T17:13:13.984684+00:00",
+      "tier": "groq",
+      "article": "Iran slams foreign interference in Sudan, calls for solution"
+    },
+    {
+      "timestamp": "2026-07-04T17:13:55.128479+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Gharibabadi Warns Against Military \u201cAdventurism\u201d in Strait of Hormuz - Al-Manar TV Lebanon"
     }
   ]
 }
