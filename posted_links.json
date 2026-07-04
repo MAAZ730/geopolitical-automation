@@ -1,4 +1,34 @@
 {
+  "417b6929bf233430199caf7b925dbc070210ab857dc12072b865c1a443420b6e": {
+    "url": "BellumActaNews/174777",
+    "title": "Japan Celebrates 250th US Anniversary with Drone Show in Tokyo",
+    "published": "2026-07-04T06:59:38.682846+00:00"
+  },
+  "93226a2626fadbcb5d57f2d1f9f53db17340c335b227d1c6b4854784141cc6a9": {
+    "url": "BellumActaNews/174785",
+    "title": "Pope Leo XIV Speaks on Unity and Peace Ahead of US 250th Anniversary",
+    "published": "2026-07-04T06:57:40.628683+00:00"
+  },
+  "4c797ed648e0eaa5c2b508ad765b8b3dff1dce1894062f2505da1c88238ac68b": {
+    "url": "DDGeopolitics/188093",
+    "title": "Sahel States Sever Ties with ICC, Citing Neocolonial Repression",
+    "published": "2026-07-04T06:55:38.386256+00:00"
+  },
+  "729d66fd6c7a5469bca01ded70cc104bfeda307926acf3053768eaadb9f72a43": {
+    "url": "DDGeopolitics/188094",
+    "title": "Ukrainian Authorities Leave Thousands Trapped in Eastern Donbass Cities",
+    "published": "2026-07-04T06:55:37.058744+00:00"
+  },
+  "6e9a900bf8dda83a35fa1ae699d4016f3379343e964b66e1b63850162357a4b4": {
+    "url": "QudsNen/229832",
+    "title": "Israeli Airstrike Targets Location near Ali Al-Taher Hill in Lebanon",
+    "published": "2026-07-04T06:55:00.339123+00:00"
+  },
+  "cceab9f640895fff8e49ad580506fa94c10d57d68eeb53ab11cf7bfe173defab": {
+    "url": "QudsNen/229834",
+    "title": "Israeli Settlers, Military Raids Palestinian Sheep Farms in Deir Jarir",
+    "published": "2026-07-04T06:54:58.950283+00:00"
+  },
   "22c4b2edf04d8298ca74374750bf658a066787681cc0806c18ed2eb9745f6f25": {
     "url": "Slavyangrad/168246",
     "title": "Russian Airstrikes Hit Ukrainian Positions in Alekseevo-Druzhkovka and Krasny Liman",
@@ -69,6 +99,11 @@
     "title": "Russian strikes reduce Ukraine's ability to make missiles \u2014 chief of general staff",
     "published": "2026-07-03T23:05:01+00:00"
   },
+  "6d6727b2136299a9efac79764e5b3d2b5142cc77fa36f8ad3c693ba6afac312f": {
+    "url": "https://tass.com/politics/2155409",
+    "title": "Putin highlights need to continue massive strikes on Ukrainian defense industry sites",
+    "published": "2026-07-03T22:15:01+00:00"
+  },
   "a2f05083bcd410cc3953da638fbd743ab5bfe57b3e6946d61d94a7eb1c3b40d1": {
     "url": "Slavyangrad/168226",
     "title": "Putin Under Pressure to End Ukraine Conflict",
@@ -104,6 +139,11 @@
     "title": "Citizens, officials mourn son-in-law of martyred Leader at Tehran funeral",
     "published": "2026-07-03T20:38:31+00:00"
   },
+  "a6af819cfcbfb88fc4d28ec079cb455730a8c4d8467e68091337f2647d769916": {
+    "url": "https://www.tehrantimes.com/news/527861/Pezeshkian-in-talks-with-world-leaders-vows-Iran-will-not",
+    "title": "Pezeshkian, in talks with world leaders, vows Iran 'will not bow to any bully'",
+    "published": "2026-07-03T20:25:42+00:00"
+  },
   "877547606c516c1dc8668ca80991c0c6a2fbf2ca3d6f15e58b976b4a1a44de47": {
     "url": "https://www.tehrantimes.com/news/527859/Iran-tells-UN-that-US-aggression-not-Iranian-action-is-threat",
     "title": "Iran tells UN that US aggression, not Iranian action, is threat to peace",
@@ -128,6 +168,11 @@
     "url": "BellumActaNews/174760",
     "title": "Iranian Supreme Leader's Funeral Attracts Hamas Leaders",
     "published": "2026-07-03T19:36:45.141395+00:00"
+  },
+  "20718cb219b2db7fd9449e51c7d596960c9bc6a380060c754787b223cb763872": {
+    "url": "https://tass.com/world/2155233",
+    "title": "Iran shows journalists UNESCO-listed palace damaged by US, Israeli strike",
+    "published": "2026-07-03T19:31:59+00:00"
   },
   "4db87f6d6059aea30721c790264de647761a0eace264ea524259fe7cc7ecb73c": {
     "url": "thecradlemedia/63341",
@@ -248,6 +293,11 @@
     "url": "https://tass.com/politics/2155099",
     "title": "Russian troops liberate 11 communities in Ukraine operation over week \u2014 top brass",
     "published": "2026-07-03T13:15:42+00:00"
+  },
+  "a135f2a2354069a0a32b9af8c2f79e24cc19908fc57890731ef395bd7eec84d7": {
+    "url": "https://www.rt.com/news/642534-uk-mp-russian-cartoon-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "UK MPs seek ban on Russian cartoon \u2018Masha and the Bear\u2019",
+    "published": "2026-07-03T12:00:19+00:00"
   },
   "87ebc8777408b3fa57e2e2d282439b18d0d2774d67f8b15a00f16a1e8de4b720": {
     "url": "https://tass.com/politics/2155039",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/politics/2154355",
     "title": "Russian forces hit Kiev facility that manufactures Flamingo missile control systems",
     "published": "2026-07-02T09:03:11+00:00"
-  },
-  "e81f62de0de22ab2aa65c1c19331dc1caea332beb071d3a2f5214c75940d5182": {
-    "url": "https://tass.com/politics/2154327",
-    "title": "IN BRIEF: What is known about Russian massive retaliatory strike against Ukraine",
-    "published": "2026-07-02T08:28:29+00:00"
-  },
-  "20b4f7a23211158b16b32663f8d03b62fe3ba36995498ffb743bf9bcb4b06183": {
-    "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
-    "title": "\u2018The crisis is deep\u2019: The view from Russia as fuel shortages worsen",
-    "published": "2026-07-02T08:06:59+00:00"
-  },
-  "11807d50bfc9fc4acbd4b86bf87606713e9e90577b65fb449b71ab35f7cfe384": {
-    "url": "https://www.rt.com/news/642475-ukrainian-drone-explodes-turkey/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Explosive-laden Ukrainian drone crashes in T\u00fcrkiye\u2019s Trabzon province \u2013 media",
-    "published": "2026-07-02T07:56:49+00:00"
-  },
-  "e23b95e6f8c0e9fe0d87b42ccbc26a6e1aedfaf8f99b4de35bb3fc99f26a36e8": {
-    "url": "BellumActaNews/174710",
-    "title": "UNRWA Faces Existential Crisis Amid Funding Shortfalls",
-    "published": "2026-07-02T07:42:23.156834+00:00"
-  },
-  "aeb9be9a796d835ef5e8d6c19c9b162b1694305088216e9d3dc6ddd654792477": {
-    "url": "DDGeopolitics/187945",
-    "title": "Israel Deploys Foreign Force to Police Gaza 'Shelters' Amid Military Buildup",
-    "published": "2026-07-02T07:42:20.549555+00:00"
-  },
-  "f015293f6e1ac2c24198112637d48d5df05de8bed2be2c5dfb47d0e2034cea8e": {
-    "url": "DDGeopolitics/187947",
-    "title": "Missile Strike Hits Near Kiev Metro Station",
-    "published": "2026-07-02T07:42:19.289552+00:00"
-  },
-  "8c7c37db8708861b5bbd2c92dde6f065e5973c85d766ccda8a0ac4d52b3cdb32": {
-    "url": "DDGeopolitics/187954",
-    "title": "Russian Forces Launch Coordinated Missile Strike on Kyiv",
-    "published": "2026-07-02T07:42:04.372457+00:00"
-  },
-  "02ccdade2aea9b96ff0f553b521aeac7f6eeb116d62c50b8f596e4fb51d3c76e": {
-    "url": "DDGeopolitics/187955",
-    "title": "Estonia's National Security Advisor Implicated in Ukraine-Russia Tensions",
-    "published": "2026-07-02T07:41:43.043417+00:00"
-  },
-  "77590460fb6664c15fb0955fed28c3a92c332eec2a56aaea93fcc4a749c7fd5e": {
-    "url": "QudsNen/229609",
-    "title": "Israeli Occupation Forces Raid Kafr Aqab",
-    "published": "2026-07-02T07:38:40.711335+00:00"
-  },
-  "a2181c7827011443a0830a7b8cca817895cb8c99686d2f6c55aaa56e60667ac3": {
-    "url": "https://warontherocks.com/the-blind-spots-in-chinese-military-studies/",
-    "title": "The Blind Spots in Chinese Military Studies",
-    "published": "2026-07-02T07:30:31+00:00"
   }
 }

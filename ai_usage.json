@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4459,
+  "total_calls": 4463,
   "tiers": {
-    "groq": 4440,
+    "groq": 4444,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-30T23:19:23.550892+00:00",
-      "tier": "groq",
-      "article": "What is birthright citizenship, and what does the Supreme Court ruling say?"
-    },
-    {
-      "timestamp": "2026-06-30T23:19:39.612379+00:00",
-      "tier": "groq",
-      "article": "Israeli army eliminates Islamic Jihad commander involved in hostage-taking"
-    },
-    {
-      "timestamp": "2026-06-30T23:20:13.952806+00:00",
-      "tier": "groq",
-      "article": "Five humanitarian workers killed in convoy ambush in South Sudan"
-    },
-    {
-      "timestamp": "2026-06-30T23:20:30.145894+00:00",
-      "tier": "groq",
-      "article": "Iraq ready to host US-Iran talks: Envoy"
-    },
     {
       "timestamp": "2026-07-01T04:13:47.820172+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-04T03:30:40.356020+00:00",
       "tier": "groq",
       "article": "Merz\u2019s ratings drop to record low of 13%"
+    },
+    {
+      "timestamp": "2026-07-04T06:52:21.930920+00:00",
+      "tier": "groq",
+      "article": "Putin highlights need to continue massive strikes on Ukrainian defense industry sites"
+    },
+    {
+      "timestamp": "2026-07-04T06:53:02.030136+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian, in talks with world leaders, vows Iran 'will not bow to any bully'"
+    },
+    {
+      "timestamp": "2026-07-04T06:53:20.613491+00:00",
+      "tier": "groq",
+      "article": "Iran shows journalists UNESCO-listed palace damaged by US, Israeli strike"
+    },
+    {
+      "timestamp": "2026-07-04T06:54:02.418455+00:00",
+      "tier": "groq",
+      "article": "UK MPs seek ban on Russian cartoon \u2018Masha and the Bear\u2019"
     }
   ]
 }
