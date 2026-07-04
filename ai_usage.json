@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4487,
+  "total_calls": 4491,
   "tiers": {
-    "groq": 4468,
+    "groq": 4472,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-01T23:21:35.184930+00:00",
-      "tier": "groq",
-      "article": "The modern golem of Silicon Valley demands a ritual sacrifice of innocence"
-    },
-    {
-      "timestamp": "2026-07-01T23:22:20.434166+00:00",
-      "tier": "groq",
-      "article": "Washington thinks it can fix Libya. It may be about to break it again instead"
-    },
-    {
-      "timestamp": "2026-07-01T23:23:06.930374+00:00",
-      "tier": "groq",
-      "article": "Russia to take response measures over deployment of US missile systems in Japan \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-07-01T23:23:25.436383+00:00",
-      "tier": "groq",
-      "article": "Syrian forces uproot 1,000 families as part of new \u2018sectarian displacement campaign\u2019"
-    },
     {
       "timestamp": "2026-07-02T03:52:32.249923+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-04T21:02:35.039878+00:00",
       "tier": "groq",
       "article": "Trump in for difficult two years in case of Republican defeat in November \u2014 senator"
+    },
+    {
+      "timestamp": "2026-07-04T23:02:59.050937+00:00",
+      "tier": "groq",
+      "article": "Battlegroup South\u2019s storm troopers complete Konstantinovka cleansing from Ukrainian army"
+    },
+    {
+      "timestamp": "2026-07-04T23:03:32.097267+00:00",
+      "tier": "groq",
+      "article": "Italian Group: Iran shattered hegemony of warmongering thugs in world"
+    },
+    {
+      "timestamp": "2026-07-04T23:04:18.072736+00:00",
+      "tier": "groq",
+      "article": "Has the US reckoned with its own history?"
+    },
+    {
+      "timestamp": "2026-07-04T23:04:34.044449+00:00",
+      "tier": "groq",
+      "article": "Iranian university inks MOUs with Italian, Cypriot universities\u00a0"
     }
   ]
 }
