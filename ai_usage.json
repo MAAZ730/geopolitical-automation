@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4455,
+  "total_calls": 4459,
   "tiers": {
-    "groq": 4436,
+    "groq": 4440,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-06-30T20:13:37.324819+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s fuel crisis deepens following Ukrainian drone strikes"
-    },
-    {
-      "timestamp": "2026-06-30T20:14:10.389945+00:00",
-      "tier": "groq",
-      "article": "US Supreme Court strikes down Trump\u2019s executive order limiting birthright citizenship"
-    },
-    {
-      "timestamp": "2026-06-30T20:14:29.551439+00:00",
-      "tier": "groq",
-      "article": "Kiev's sponsors refuse to respond to deaths of children in Russia in airstrikes \u2014 MP"
-    },
-    {
-      "timestamp": "2026-06-30T20:15:07.977025+00:00",
-      "tier": "groq",
-      "article": "Hong Kong\u2019s first batches of free PLA ship tour tickets gone within minutes"
-    },
     {
       "timestamp": "2026-06-30T23:19:23.550892+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-03T23:12:07.909900+00:00",
       "tier": "groq",
       "article": "Israel planned to assassinate Iranian negotiators: Report"
+    },
+    {
+      "timestamp": "2026-07-04T03:28:54.840597+00:00",
+      "tier": "groq",
+      "article": "Iran begins week-long funeral for Supreme Leader Ali Khamenei"
+    },
+    {
+      "timestamp": "2026-07-04T03:29:35.391437+00:00",
+      "tier": "groq",
+      "article": "Russian strikes reduce Ukraine's ability to make missiles \u2014 chief of general staff"
+    },
+    {
+      "timestamp": "2026-07-04T03:29:54.276981+00:00",
+      "tier": "groq",
+      "article": "Russian troops liberate 11 communities in Ukraine operation over week \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-04T03:30:40.356020+00:00",
+      "tier": "groq",
+      "article": "Merz\u2019s ratings drop to record low of 13%"
     }
   ]
 }
