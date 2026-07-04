@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4463,
+  "total_calls": 4467,
   "tiers": {
-    "groq": 4444,
+    "groq": 4448,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-01T04:13:47.820172+00:00",
-      "tier": "groq",
-      "article": "One killed in car bombing in Israel"
-    },
-    {
-      "timestamp": "2026-07-01T04:14:28.150349+00:00",
-      "tier": "groq",
-      "article": "The US Army goes into the breach \u2014 without soldiers"
-    },
-    {
-      "timestamp": "2026-07-01T04:15:19.481508+00:00",
-      "tier": "groq",
-      "article": "Ukraine may be involved in assassination attempt on Yermolayev \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-07-01T04:15:39.302229+00:00",
-      "tier": "groq",
-      "article": "How the heatwave crippled Europe"
-    },
     {
       "timestamp": "2026-07-01T09:54:17.317887+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-04T06:54:02.418455+00:00",
       "tier": "groq",
       "article": "UK MPs seek ban on Russian cartoon \u2018Masha and the Bear\u2019"
+    },
+    {
+      "timestamp": "2026-07-04T10:16:47.199619+00:00",
+      "tier": "groq",
+      "article": "Mali\u2019s army says rebels launch new attacks on towns and cities"
+    },
+    {
+      "timestamp": "2026-07-04T10:17:27.735664+00:00",
+      "tier": "groq",
+      "article": "Israel forces kill over 21,500 children in Gaza in 1,000 days"
+    },
+    {
+      "timestamp": "2026-07-04T10:18:13.860652+00:00",
+      "tier": "groq",
+      "article": "Venezuela earthquake death toll climbs to 2,645, with 12,666 injured - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-04T10:19:05.409173+00:00",
+      "tier": "groq",
+      "article": "Replacement of oil revenues with mining resources should be pursued: minister"
     }
   ]
 }
