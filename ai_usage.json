@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4479,
+  "total_calls": 4483,
   "tiers": {
-    "groq": 4460,
+    "groq": 4464,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-01T20:03:25.892752+00:00",
-      "tier": "groq",
-      "article": "\"A Martyr Never Dies\": Brazilian cartoonist reflects on illustrating Iran's supreme leader"
-    },
-    {
-      "timestamp": "2026-07-01T20:03:43.535286+00:00",
-      "tier": "groq",
-      "article": "Zionist Enemy Wreaks Havoc in South Lebanon: Air Raids, Bombings, Fires - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-01T20:04:02.426695+00:00",
-      "tier": "groq",
-      "article": "Iran's missile and drone capabilities remain 'non-negotiable,' defense chief says"
-    },
-    {
-      "timestamp": "2026-07-01T20:04:25.725833+00:00",
-      "tier": "groq",
-      "article": "Qatar, US discuss Iran deal, Lebanon ceasefire"
-    },
     {
       "timestamp": "2026-07-01T21:47:09.482023+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-04T17:13:55.128479+00:00",
       "tier": "groq",
       "article": "Iran\u2019s Gharibabadi Warns Against Military \u201cAdventurism\u201d in Strait of Hormuz - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-04T19:21:38.556409+00:00",
+      "tier": "groq",
+      "article": "Thousands of Iranians rally in Tehran, chanting 'death to America,' 'Khamenei leader'"
+    },
+    {
+      "timestamp": "2026-07-04T19:22:13.058918+00:00",
+      "tier": "groq",
+      "article": "More than 200 UAVs headed toward Moscow Region over past 24 hours \u2014 mayor"
+    },
+    {
+      "timestamp": "2026-07-04T19:22:32.916621+00:00",
+      "tier": "groq",
+      "article": "Medvedev does not rule out creation of community of states subjected to illegal sanctions"
+    },
+    {
+      "timestamp": "2026-07-04T19:22:52.874502+00:00",
+      "tier": "groq",
+      "article": "Foundation for Sacred Defense works  preservation condemns Western silence on Flight 655 anniversary"
     }
   ]
 }

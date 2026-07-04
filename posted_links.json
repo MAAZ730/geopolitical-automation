@@ -1,4 +1,34 @@
 {
+  "43c4f692b9001b84c6abae63ad49b2f75fca7686ec0f90bb3f95878aef870613": {
+    "url": "Slavyangrad/168304",
+    "title": "Fire Engulfs Chernomorsk After Aerial Missile Strike Near Odessa",
+    "published": "2026-07-04T19:29:44.265411+00:00"
+  },
+  "3966a3fa1203c1d103239482110c169369805ebde3ed519bd871605b58c656c4": {
+    "url": "BellumActaNews/174797",
+    "title": "US Bombers Conduct Flyover in New York City for 250th Anniversary Celebrations",
+    "published": "2026-07-04T19:29:25.416996+00:00"
+  },
+  "acfe13f263cf6bf84909b0467055d0b256a8904258e4c1cd1dcb19584baee6df": {
+    "url": "QudsNen/229907",
+    "title": "Israeli Drone Strike Hits Northern Gaza Strip",
+    "published": "2026-07-04T19:26:28.656419+00:00"
+  },
+  "9f669ab51b1b3dd5121bc31036eacf224c0f54a82608f766087501a1e35acc0f": {
+    "url": "QudsNen/229913",
+    "title": "Palestinian Doctor at Risk of Death in Israeli Prison Interrogation",
+    "published": "2026-07-04T19:25:19.777338+00:00"
+  },
+  "c4947c39b1847dc3f5a0a47bd8fe5d1d508a00201e3e597679778e255a59ffd1": {
+    "url": "QudsNen/229915",
+    "title": "Israeli Airstrike Hits Abu Shrek Roundabout in Gaza Strip",
+    "published": "2026-07-04T19:25:17.995505+00:00"
+  },
+  "b8bfa8a4c58b7e130b661dd7ed1d923608690f2989119d73cb291a222fb644f8": {
+    "url": "Middle_East_Spectator/34107",
+    "title": "Iran Appoints New Commander for Revolutionary Guard Corps Navy",
+    "published": "2026-07-04T19:24:19.750768+00:00"
+  },
   "d74991ef8a5d71df87854dc7d53e4360eebe31cb745cc7d357b397b925f6a681": {
     "url": "mod_russia_en/28023",
     "title": "Russian Airstrikes Hit Ukrainian Positions in Donetsk and Sumy",
@@ -119,6 +149,11 @@
     "title": "PLA Navy officer recalls dramatic Sudan evacuation at Hong Kong barracks open day",
     "published": "2026-07-04T10:47:43+00:00"
   },
+  "c1a56fd21ee87fad167cd8606a88fc8f62370d7833c63fe94ca5377e381c4720": {
+    "url": "https://tass.com/politics/2155651",
+    "title": "Medvedev does not rule out creation of community of states subjected to illegal sanctions",
+    "published": "2026-07-04T10:44:43+00:00"
+  },
   "73e0b92c960862169f509542b3745831ce199f739f7302d89cf276150717a3c1": {
     "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
     "title": "Ukraine hits oil and military facilities near Russia\u2019s St Petersburg",
@@ -163,6 +198,11 @@
     "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
     "title": "Mali\u2019s army says rebels launch new attacks on towns and cities",
     "published": "2026-07-04T09:14:56+00:00"
+  },
+  "838c2f6878a041ce3ac4de70463f0637ba8f0a64d8af3df07173ae58d0dbb726": {
+    "url": "https://tass.com/emergencies/2155587",
+    "title": "More than 200 UAVs headed toward Moscow Region over past 24 hours \u2014 mayor",
+    "published": "2026-07-04T08:46:29+00:00"
   },
   "417b6929bf233430199caf7b925dbc070210ab857dc12072b865c1a443420b6e": {
     "url": "BellumActaNews/174777",
@@ -233,6 +273,11 @@
     "url": "QudsNen/229828",
     "title": "Israeli Settlers Open Fire on Palestinian Homes in Wadi Al-Shaer",
     "published": "2026-07-04T03:31:03.075045+00:00"
+  },
+  "6db85b8b117eab14b38bde01d9a230f383c6669d84ef81e8e7da6e7eb9fe3c6c": {
+    "url": "https://tass.com/world/2155429",
+    "title": "Thousands of Iranians rally in Tehran, chanting 'death to America,' 'Khamenei leader'",
+    "published": "2026-07-03T23:22:03+00:00"
   },
   "a024d94e51cc671b9076465caab74f25d2b6beabf7687eee2b86b96ccf4a3a0b": {
     "url": "CyberspecNews/111068",
@@ -308,6 +353,11 @@
     "url": "Middle_East_Spectator/34089",
     "title": "IRGC Commander Visits Imam Khomeini Shrine Amid Conflict",
     "published": "2026-07-03T21:15:24.000017+00:00"
+  },
+  "e143b4e9624293f021f4360a28d9fea8b6685db48ca38dee684fec0432bf7d79": {
+    "url": "https://www.tehrantimes.com/news/527841/Foundation-for-Sacred-Defense-works-preservation-condemns-Western",
+    "title": "Foundation for Sacred Defense works  preservation condemns Western silence on Flight 655 anniversary",
+    "published": "2026-07-03T20:51:46+00:00"
   },
   "c27ba23428e052ddfe133c3f9d95f0a9c8a5f0f7f8767186e7e81e1ba0af2d7a": {
     "url": "https://www.tehrantimes.com/news/527863/Citizens-officials-mourn-son-in-law-of-martyred-Leader-at-Tehran",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/34014",
     "title": "Iran's Supreme Leader Ayatollah Ali Khamenei in Final Farewell",
     "published": "2026-07-02T23:13:20.037751+00:00"
-  },
-  "591f6bc7c4e6501004dd1bb3eef8d964c4a9c63d2f7e26d139deeb89346a744d": {
-    "url": "https://www.rt.com/news/642510-monaco-bomb-suspect-identified/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "\u2018Ukrainian woman\u2019 identified as suspect in Monaco bomb attack \u2013 media",
-    "published": "2026-07-02T21:40:19+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Demolish Last Litani River Bridge",
-    "published": "2026-07-02T21:19:58.187891+00:00"
-  },
-  "4157f09b80740c3b777022c7df70ff639215a1c4499165a93872f3cd321daf20": {
-    "url": "presstv/196593",
-    "title": "Israeli Airstrike Targets Baraachit in Southern Lebanon",
-    "published": "2026-07-02T21:19:38.036531+00:00"
-  },
-  "65dd30c7c7b26a2aa9a6259bdfc6173b1c886f910a214efed285f850bdaba0ea": {
-    "url": "DDGeopolitics/187996",
-    "title": "Damascus Cafe Explosion: Multiple Fatalities Reported Near Ministry of Justice Building",
-    "published": "2026-07-02T21:16:26.100946+00:00"
-  },
-  "4da3cd0ecb44206668a2b09c38fb0c450a9294811000f0d209f08c752e6ec2f4": {
-    "url": "QudsNen/229710",
-    "title": "Israeli Airstrike Hits Baraachit in Southern Lebanon",
-    "published": "2026-07-02T21:16:06.748360+00:00"
-  },
-  "21f54eb3e2afcb5f792e088df5db90d6396728ab16d68446608abbac7c4765cd": {
-    "url": "Middle_East_Spectator/34019",
-    "title": "Iran's Supreme Leader Ayatollah Ali Khamenei Laid to Rest",
-    "published": "2026-07-02T21:15:57.516900+00:00"
-  },
-  "725750aab972d476c44a2211bdaf1e7ae4c761f63b6ba3d89ee457a18aa9f75c": {
-    "url": "thecradlemedia/63252",
-    "title": "Lebanon's Aoun Seeks UN Support for Ceasefire and Army Deployment",
-    "published": "2026-07-02T21:15:55.515566+00:00"
-  },
-  "405ebe44a6e904f76d4077492031d66e1d9bb0ff60c54c26c489070804880830": {
-    "url": "https://tass.com/politics/2154769",
-    "title": "Three in serious condition after drone strike on bus in Lugansk People\u2019s Republic",
-    "published": "2026-07-02T21:12:21+00:00"
-  },
-  "1051d1c97721484125cfbba88f3cf77f622b1b1823f4737de12319d7e6d2dc7c": {
-    "url": "presstv/196570",
-    "title": "Cuba Warns of Unified Resistance to US Attack",
-    "published": "2026-07-02T19:40:37.367987+00:00"
-  },
-  "e8cc9d351e8ff713fdc1b1e77a35fedf5cf50c2e2121056259fb8951a05c1c7f": {
-    "url": "BellumActaNews/174715",
-    "title": "Damascus Explosion Leaves Trail of Destruction",
-    "published": "2026-07-02T19:39:39.518477+00:00"
   }
 }
