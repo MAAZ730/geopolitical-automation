@@ -1,4 +1,49 @@
 {
+  "04ab12b8924a75c4f5aa404c767e1cb7e31b4699f6d40b73d03cd843a5175e45": {
+    "url": "Slavyangrad/168288",
+    "title": "Russian Forces Destroy Ukrainian Drone Storage Hangar Near Zeleny Yar",
+    "published": "2026-07-04T13:50:21.780464+00:00"
+  },
+  "7728b46ce5db94632579894d90aa3005b21a3f9158d6f0379cfdf7c4912e040d": {
+    "url": "warmonitors/44794",
+    "title": "Taliban Commander Killed in Ongoing Conflict",
+    "published": "2026-07-04T13:49:15.865595+00:00"
+  },
+  "40cebdec5ce88cd47935e3f3f990eb5a00cac29214a356b13981391f0847ef47": {
+    "url": "DDGeopolitics/188115",
+    "title": "Iranians Defiant in Face of Adversity: Anti-American and Anti-Israeli Protests",
+    "published": "2026-07-04T13:48:53.402359+00:00"
+  },
+  "eadbd7b58c46654c00edc6e4f509f88c21f19dd1e34536e5e4331363bc8f27d3": {
+    "url": "QudsNen/229870",
+    "title": "Israeli Drone Strike Hits Civilians in Eastern Gaza City",
+    "published": "2026-07-04T13:48:00.102629+00:00"
+  },
+  "3a928235a8ecd99595d2e645d5a49db812737bcf73f759ed89b45df960be8da9": {
+    "url": "thecradlemedia/63378",
+    "title": "UK Warships to Conduct Mine-Clearing in Strait of Hormuz",
+    "published": "2026-07-04T13:45:08.717189+00:00"
+  },
+  "cf9cfd1f62aad706c4d4d50aea85ed7eda282e8393b70559e193da0a41ce2b75": {
+    "url": "thecradlemedia/63381",
+    "title": "Three Missing Men Recovered in Southern Lebanon",
+    "published": "2026-07-04T13:45:07.056037+00:00"
+  },
+  "8ee7bb12fdede4829a7546c2ad83d2ff23f2059bc0cf3337bb327d068f50dd40": {
+    "url": "https://tass.com/emergencies/2155663",
+    "title": "Number of injured in Ukrainian strike on Tokmak market rises to 21",
+    "published": "2026-07-04T12:30:25+00:00"
+  },
+  "512b01dd40827bdbe400f1700d99eaf45b4a75ce6d274badcf90ff2d4ec0763a": {
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3359420/pla-navy-officer-recalls-dramatic-sudan-evacuation-hong-kong-barracks-open-day?utm_source=rss_feed",
+    "title": "PLA Navy officer recalls dramatic Sudan evacuation at Hong Kong barracks open day",
+    "published": "2026-07-04T10:47:43+00:00"
+  },
+  "73e0b92c960862169f509542b3745831ce199f739f7302d89cf276150717a3c1": {
+    "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
+    "title": "Ukraine hits oil and military facilities near Russia\u2019s St Petersburg",
+    "published": "2026-07-04T10:29:19+00:00"
+  },
   "d1eb492fc8407e217f279ffa957dae3cca5a0e86bd5f5f19fa13dcd5373ef688": {
     "url": "presstv/196863",
     "title": "Ukrainian Drones Strike Russian Naval Base and Oil Terminal",
@@ -313,6 +358,11 @@
     "url": "Middle_East_Spectator/34061",
     "title": "Hamas Delegation Pays Respects to Ayatollah Khamenei in Tehran",
     "published": "2026-07-03T14:18:55.050946+00:00"
+  },
+  "a475f553a8ec98e2020b3decd6573ed202e25b04beac2ee3b34134a29bfa7abf": {
+    "url": "https://tass.com/defense/2155137",
+    "title": "Mnogotochiye counter-drone cartridges supplied to Russian troops \u2014 Rostec",
+    "published": "2026-07-03T14:18:15+00:00"
   },
   "805edd74008722d98cfefad3070818e16747c93db076f912d9bc2fd40a94b96b": {
     "url": "thecradlemedia/63314",
@@ -698,55 +748,5 @@
     "url": "QudsNen/229654",
     "title": "Israeli Forces Clash with Palestinians in Qalqilya Raid",
     "published": "2026-07-02T14:17:08.286977+00:00"
-  },
-  "bc2117f135233a3b5eb91e6a51929a7ea9515964fb763b0c5102e86e01c4ab9b": {
-    "url": "Middle_East_Spectator/34007",
-    "title": "Bombing Rocks Damascus Caf\u00e9",
-    "published": "2026-07-02T14:15:24.548546+00:00"
-  },
-  "a9bec547923a231ba0d55f6802e97169f5733e2388b78f137eaa777dfb1dd985": {
-    "url": "thecradlemedia/63233",
-    "title": "Lebanon Under Fire: Israeli Military Conducts Series of Attacks in Southern Region",
-    "published": "2026-07-02T14:12:49.775070+00:00"
-  },
-  "77f67e0ee9d7092b30885543cc39bcdc8a76020d60f708b34c3637ec27f2360f": {
-    "url": "thecradlemedia/63237",
-    "title": "Explosion Rocks Damascus Coffee Shop Near Justice Palace",
-    "published": "2026-07-02T14:12:36.162956+00:00"
-  },
-  "3a03e28ba3c46bd38b65f2cddad7eed96623f9bb47a586738fc12981332a8d9b": {
-    "url": "thecradlemedia/63240",
-    "title": "Kuwait Petroleum Corporation Invites Investors to Bolster Pipeline Stake Bids",
-    "published": "2026-07-02T14:12:14.753042+00:00"
-  },
-  "47720dc4db72fd92cdf4626cb93ebea712e34efbfa451de505365f1a73da7377": {
-    "url": "thecradlemedia/63241",
-    "title": "Israeli Military Personnel Arrive in Venezuela Amid Criticism",
-    "published": "2026-07-02T14:12:13.610502+00:00"
-  },
-  "902df92875cfeb355cd775d9c461302b90cf64544a662c30ad08cd3ef5eb5320": {
-    "url": "https://tass.com/emergencies/2154597",
-    "title": "Bus drivers, passengers hit by Ukrainian drone brought to Belarus \u2014 authorities",
-    "published": "2026-07-02T13:55:36+00:00"
-  },
-  "975844c6b353a791bc28229890dd8599e60152463d29cc624a1b15385bfe70db": {
-    "url": "https://tass.com/emergencies/2154549",
-    "title": "Explosion hits Damascus, causing casualties \u2014 TV",
-    "published": "2026-07-02T13:14:11+00:00"
-  },
-  "c43cd431a2813b6f4eea2622e3aca2561ba4f74aa622613215d71d02b5ee04d0": {
-    "url": "https://tass.com/emergencies/2154521",
-    "title": "Two Belarusian bus drivers injured in drone attack near Bryansk \u2014 TV",
-    "published": "2026-07-02T12:37:48+00:00"
-  },
-  "d8553b268ca4a9958c0528dbfab4ad700d80895a0834d6ab006c1e5ad25e59d2": {
-    "url": "https://tass.com/world/2154519",
-    "title": "Iran warns US, Israel against strikes during supreme leader farewell ceremonies",
-    "published": "2026-07-02T12:36:56+00:00"
-  },
-  "032708e8f539221dbf8d4f8bc9bb05354813a10cc28f13210947e0407b9aa9a5": {
-    "url": "https://www.rt.com/news/642483-drone-fake-bomb-sweden-russian-embassy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Fake bomb drone crashes near Russian Embassy in Sweden",
-    "published": "2026-07-02T11:33:19+00:00"
   }
 }

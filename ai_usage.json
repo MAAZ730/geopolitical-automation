@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4467,
+  "total_calls": 4471,
   "tiers": {
-    "groq": 4448,
+    "groq": 4452,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-01T09:54:17.317887+00:00",
-      "tier": "groq",
-      "article": "Leaked Israeli report shows Iran strikes' true cost"
-    },
-    {
-      "timestamp": "2026-07-01T09:54:55.841177+00:00",
-      "tier": "groq",
-      "article": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery"
-    },
-    {
-      "timestamp": "2026-07-01T09:55:12.023240+00:00",
-      "tier": "groq",
-      "article": "Aftermath of Ukrainian drone attack on Russian regions, 179 downed drones"
-    },
-    {
-      "timestamp": "2026-07-01T09:55:54.687664+00:00",
-      "tier": "groq",
-      "article": "Mehran emerges as Iran's western logistics powerhouse"
-    },
     {
       "timestamp": "2026-07-01T12:37:20.451689+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-04T10:19:05.409173+00:00",
       "tier": "groq",
       "article": "Replacement of oil revenues with mining resources should be pursued: minister"
+    },
+    {
+      "timestamp": "2026-07-04T13:42:42.643646+00:00",
+      "tier": "groq",
+      "article": "Number of injured in Ukrainian strike on Tokmak market rises to 21"
+    },
+    {
+      "timestamp": "2026-07-04T13:43:23.313833+00:00",
+      "tier": "groq",
+      "article": "Ukraine hits oil and military facilities near Russia\u2019s St Petersburg"
+    },
+    {
+      "timestamp": "2026-07-04T13:44:11.357788+00:00",
+      "tier": "groq",
+      "article": "PLA Navy officer recalls dramatic Sudan evacuation at Hong Kong barracks open day"
+    },
+    {
+      "timestamp": "2026-07-04T13:44:59.234805+00:00",
+      "tier": "groq",
+      "article": "Mnogotochiye counter-drone cartridges supplied to Russian troops \u2014 Rostec"
     }
   ]
 }
