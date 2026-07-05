@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4499,
+  "total_calls": 4503,
   "tiers": {
-    "groq": 4480,
+    "groq": 4484,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-02T10:46:37.915326+00:00",
-      "tier": "groq",
-      "article": "Russian forces hit Kiev facility that manufactures Flamingo missile control systems"
-    },
-    {
-      "timestamp": "2026-07-02T10:47:17.492408+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: What is known about Russian massive retaliatory strike against Ukraine"
-    },
-    {
-      "timestamp": "2026-07-02T10:47:34.460132+00:00",
-      "tier": "groq",
-      "article": "\u2018The crisis is deep\u2019: The view from Russia as fuel shortages worsen"
-    },
-    {
-      "timestamp": "2026-07-02T10:47:50.545698+00:00",
-      "tier": "groq",
-      "article": "Video purportedly shows Ukrainian unit running down Russian Shahed. The US is paying attention."
-    },
     {
       "timestamp": "2026-07-02T14:11:14.857398+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T07:32:50.820353+00:00",
       "tier": "groq",
       "article": "Hamas delegation meets Araghchi, voices solidarity with Iran after war"
+    },
+    {
+      "timestamp": "2026-07-05T10:21:18.763064+00:00",
+      "tier": "groq",
+      "article": "Why the new Lebanon framework deal could collapse before peace begins"
+    },
+    {
+      "timestamp": "2026-07-05T10:22:01.442933+00:00",
+      "tier": "groq",
+      "article": "Israeli Aggression Continues Across Southern Lebanon as Border Villages Come Under Heavy Fire - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-05T10:22:52.876357+00:00",
+      "tier": "groq",
+      "article": "Scandal erupts in Poland over \u2018secret\u2019 Patriot missile delivery to Ukraine"
+    },
+    {
+      "timestamp": "2026-07-05T10:23:39.254554+00:00",
+      "tier": "groq",
+      "article": "Seventy-two drones destroyed in Leningrad Region"
     }
   ]
 }
