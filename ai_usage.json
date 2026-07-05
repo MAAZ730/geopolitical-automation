@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4523,
+  "total_calls": 4527,
   "tiers": {
-    "groq": 4504,
+    "groq": 4508,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-03T03:33:48.563664+00:00",
-      "tier": "groq",
-      "article": "Kiev troops shell DPR 15 times in past day, one killed"
-    },
-    {
-      "timestamp": "2026-07-03T03:34:26.088605+00:00",
-      "tier": "groq",
-      "article": "US Navy seeks to boost production of new anti-radar missile "
-    },
-    {
-      "timestamp": "2026-07-03T03:35:12.110406+00:00",
-      "tier": "groq",
-      "article": "Explosion hits Damascus, causing casualties \u2014 TV"
-    },
-    {
-      "timestamp": "2026-07-03T03:35:29.870651+00:00",
-      "tier": "groq",
-      "article": "Gharibabadi: Hormuz defined under Iran\u2019s command, not Washington\u2019s"
-    },
     {
       "timestamp": "2026-07-03T07:26:38.707657+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T21:07:16.439810+00:00",
       "tier": "groq",
       "article": "Ships use Iran-desingated route in Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-07-05T23:05:08.742889+00:00",
+      "tier": "groq",
+      "article": "Palestinian baby dies in West Bank after Israel blocks urgent medical care"
+    },
+    {
+      "timestamp": "2026-07-05T23:05:43.885680+00:00",
+      "tier": "groq",
+      "article": "Drone found on Turkish coast \u2014 news agency"
+    },
+    {
+      "timestamp": "2026-07-05T23:06:04.144608+00:00",
+      "tier": "groq",
+      "article": "Strange paradox of the modern war"
+    },
+    {
+      "timestamp": "2026-07-05T23:06:43.581590+00:00",
+      "tier": "groq",
+      "article": "Russia looks forward to Witkoff and Kushner\u2019s visit \u2014 Kremlin"
     }
   ]
 }
