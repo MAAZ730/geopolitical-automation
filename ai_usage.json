@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4511,
+  "total_calls": 4515,
   "tiers": {
-    "groq": 4492,
+    "groq": 4496,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-02T19:32:18.112512+00:00",
-      "tier": "groq",
-      "article": "Identity of EU negotiator irrelevant as long as EU demands Russia's capitulation \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-07-02T19:32:52.988333+00:00",
-      "tier": "groq",
-      "article": "Kiev deliberately targeted bus carrying Belarusians in Bryansk Region \u2014 Russian envoy"
-    },
-    {
-      "timestamp": "2026-07-02T19:33:11.011924+00:00",
-      "tier": "groq",
-      "article": "FACTBOX: What we know about Ukrainian drone attack on Minsk-Anapa bus in Bryansk Region"
-    },
-    {
-      "timestamp": "2026-07-02T19:33:28.547263+00:00",
-      "tier": "groq",
-      "article": "Russian couple gets engaged on top of Empire State Building (VIDEOS)"
-    },
     {
       "timestamp": "2026-07-02T21:14:16.789078+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T15:18:09.320460+00:00",
       "tier": "groq",
       "article": "Russian Armed Forces establish control over four settlements in Kharkov Region \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-05T17:17:56.272108+00:00",
+      "tier": "groq",
+      "article": "50 Houthi fighters killed in renewed clashes in Yemen"
+    },
+    {
+      "timestamp": "2026-07-05T17:18:12.845045+00:00",
+      "tier": "groq",
+      "article": "Yemen&#039;s Ansarallah kills over a dozen troops in \u2018deadliest\u2019 attack on Saudi-led coalition in years"
+    },
+    {
+      "timestamp": "2026-07-05T17:18:41.349614+00:00",
+      "tier": "groq",
+      "article": "Humble and righteous: From birth to final breath"
+    },
+    {
+      "timestamp": "2026-07-05T17:19:30.586548+00:00",
+      "tier": "groq",
+      "article": "EU is moving from \u2018let\u2019s trade\u2019 to \u2018let\u2019s go to war\u2019, ex-Austrian FM Karin Kneissl says"
     }
   ]
 }
