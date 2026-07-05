@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4519,
+  "total_calls": 4523,
   "tiers": {
-    "groq": 4500,
+    "groq": 4504,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-02T23:11:29.963914+00:00",
-      "tier": "groq",
-      "article": "Three in serious condition after drone strike on bus in Lugansk People\u2019s Republic"
-    },
-    {
-      "timestamp": "2026-07-02T23:12:08.747631+00:00",
-      "tier": "groq",
-      "article": "\u2018Ukrainian woman\u2019 identified as suspect in Monaco bomb attack \u2013 media"
-    },
-    {
-      "timestamp": "2026-07-02T23:12:56.947406+00:00",
-      "tier": "groq",
-      "article": "Zelensky complains that Kiev received not a single of 200 promised air defense missiles"
-    },
-    {
-      "timestamp": "2026-07-02T23:13:15.174562+00:00",
-      "tier": "groq",
-      "article": "Iran slams Israel\u2019s public threat against Ayatollah Khamenei"
-    },
     {
       "timestamp": "2026-07-03T03:33:48.563664+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T19:26:47.334606+00:00",
       "tier": "groq",
       "article": "Polish Defense Ministry to disclose information about military supplies to Kiev"
+    },
+    {
+      "timestamp": "2026-07-05T21:05:54.253316+00:00",
+      "tier": "groq",
+      "article": "\"We will not leave assasins to run away with their crime\""
+    },
+    {
+      "timestamp": "2026-07-05T21:06:36.267257+00:00",
+      "tier": "groq",
+      "article": "Storm threat triggers chaotic evacuation ahead of Trump\u2019s speech (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-07-05T21:06:55.375854+00:00",
+      "tier": "groq",
+      "article": "Police chief: Enemies have no choice but to understand resistance\u2019s strength"
+    },
+    {
+      "timestamp": "2026-07-05T21:07:16.439810+00:00",
+      "tier": "groq",
+      "article": "Ships use Iran-desingated route in Hormuz Strait"
     }
   ]
 }
