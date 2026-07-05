@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4495,
+  "total_calls": 4499,
   "tiers": {
-    "groq": 4476,
+    "groq": 4480,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-02T07:36:23.501339+00:00",
-      "tier": "groq",
-      "article": "The Blind Spots in Chinese Military Studies"
-    },
-    {
-      "timestamp": "2026-07-02T07:37:03.023180+00:00",
-      "tier": "groq",
-      "article": "Russian forces deliver retaliatory massive strike on Ukraine \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-07-02T07:37:51.683564+00:00",
-      "tier": "groq",
-      "article": "New Escalation on the Golan Frontier: Israeli Shells Hit Agricultural Belt in Daraa - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-02T07:38:09.409979+00:00",
-      "tier": "groq",
-      "article": "Talks on Strait of Hormuz based on Oman-proposed plan \u2014 TV"
-    },
     {
       "timestamp": "2026-07-02T10:46:37.915326+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T03:45:08.132117+00:00",
       "tier": "groq",
       "article": "Martyred Leader saw Islamic unity as bulwark against enemies, official says"
+    },
+    {
+      "timestamp": "2026-07-05T07:31:21.456693+00:00",
+      "tier": "groq",
+      "article": "Medvedev calls Bab el-Mandeb Strait Iran\u2019s 'thermonuclear weapon'"
+    },
+    {
+      "timestamp": "2026-07-05T07:31:56.359744+00:00",
+      "tier": "groq",
+      "article": "In photos: Farewell ceremony for martyred Leader in Tehran (4)"
+    },
+    {
+      "timestamp": "2026-07-05T07:32:12.261385+00:00",
+      "tier": "groq",
+      "article": "Hamas hails Iran's victory in war as win for Resistance"
+    },
+    {
+      "timestamp": "2026-07-05T07:32:50.820353+00:00",
+      "tier": "groq",
+      "article": "Hamas delegation meets Araghchi, voices solidarity with Iran after war"
     }
   ]
 }
