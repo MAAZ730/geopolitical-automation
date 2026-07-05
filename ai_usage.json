@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4503,
+  "total_calls": 4507,
   "tiers": {
-    "groq": 4484,
+    "groq": 4488,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-02T14:11:14.857398+00:00",
-      "tier": "groq",
-      "article": "Iran warns US, Israel against strikes during supreme leader farewell ceremonies"
-    },
-    {
-      "timestamp": "2026-07-02T14:11:33.297962+00:00",
-      "tier": "groq",
-      "article": "Kremlin briefing covers Russia's massive strike on Ukraine, EU's confrontation with Moscow"
-    },
-    {
-      "timestamp": "2026-07-02T14:11:50.639010+00:00",
-      "tier": "groq",
-      "article": "Russia begins testing new Svarog pro AI-assisted interceptor drone in combat"
-    },
-    {
-      "timestamp": "2026-07-02T14:12:09.141815+00:00",
-      "tier": "groq",
-      "article": "Israel is carrying out 'reproductive genocide' against Palestinians, new report finds"
-    },
     {
       "timestamp": "2026-07-02T17:54:31.688492+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T10:23:39.254554+00:00",
       "tier": "groq",
       "article": "Seventy-two drones destroyed in Leningrad Region"
+    },
+    {
+      "timestamp": "2026-07-05T13:49:19.407287+00:00",
+      "tier": "groq",
+      "article": "Kim Jong-un oversees strategic cruise missile test from North Korea\u2019s newest destroyer"
+    },
+    {
+      "timestamp": "2026-07-05T13:50:00.518752+00:00",
+      "tier": "groq",
+      "article": "The epitome of resistance against bullies and hegemons"
+    },
+    {
+      "timestamp": "2026-07-05T13:50:48.507678+00:00",
+      "tier": "groq",
+      "article": "Any Mistake Will Be Crushing: Iran\u2019s Army Warns Enemies as Ceasefire Sparks Military Buildup - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-05T13:51:07.791227+00:00",
+      "tier": "groq",
+      "article": "Rights groups warn Abu Safiya at risk of slow death in Israeli prison - Al-Manar TV Lebanon"
     }
   ]
 }
