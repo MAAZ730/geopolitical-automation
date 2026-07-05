@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4507,
+  "total_calls": 4511,
   "tiers": {
-    "groq": 4488,
+    "groq": 4492,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-02T17:54:31.688492+00:00",
-      "tier": "groq",
-      "article": "Russia bombards Kyiv in one of war\u2019s biggest strikes, at least 21 people killed"
-    },
-    {
-      "timestamp": "2026-07-02T17:55:17.342415+00:00",
-      "tier": "groq",
-      "article": "What\u2019s behind the deadly bombing of a crowded Damascus cafe?"
-    },
-    {
-      "timestamp": "2026-07-02T17:56:05.808799+00:00",
-      "tier": "groq",
-      "article": "Five killed in Damascus cafe bombing (EXCLUSIVE VIDEO)"
-    },
-    {
-      "timestamp": "2026-07-02T17:56:25.538692+00:00",
-      "tier": "groq",
-      "article": "UK officers face misconduct probe in Henry Nowak case"
-    },
     {
       "timestamp": "2026-07-02T19:32:18.112512+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T13:51:07.791227+00:00",
       "tier": "groq",
       "article": "Rights groups warn Abu Safiya at risk of slow death in Israeli prison - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-05T15:16:23.657417+00:00",
+      "tier": "groq",
+      "article": "Iran's supreme leader absent as senior officials attend ayatollah's funeral"
+    },
+    {
+      "timestamp": "2026-07-05T15:17:04.528382+00:00",
+      "tier": "groq",
+      "article": "Poland needs to think about security while producing drones for Ukraine \u2014 Kremlin"
+    },
+    {
+      "timestamp": "2026-07-05T15:17:53.397940+00:00",
+      "tier": "groq",
+      "article": "At least 15 Yemeni government troops killed in Hodeidah fighting"
+    },
+    {
+      "timestamp": "2026-07-05T15:18:09.320460+00:00",
+      "tier": "groq",
+      "article": "Russian Armed Forces establish control over four settlements in Kharkov Region \u2014 top brass"
     }
   ]
 }
