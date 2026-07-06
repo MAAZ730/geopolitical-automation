@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4535,
+  "total_calls": 4539,
   "tiers": {
-    "groq": 4516,
+    "groq": 4520,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-03T14:15:16.953375+00:00",
-      "tier": "groq",
-      "article": "Funeral ceremony for martyr Leader Ayatollah Khamenei officially begins"
-    },
-    {
-      "timestamp": "2026-07-03T14:15:54.310425+00:00",
-      "tier": "groq",
-      "article": "Five dead, 18 injured: what is known about Ukrainian attack on Zaporozhye market"
-    },
-    {
-      "timestamp": "2026-07-03T14:16:12.304222+00:00",
-      "tier": "groq",
-      "article": "Global Tribute: Imam Khomeini\u2019s household pays tribute to martyred Leader"
-    },
-    {
-      "timestamp": "2026-07-03T14:16:54.533817+00:00",
-      "tier": "groq",
-      "article": "Germany\u2019s rotten center is heading for a reckoning"
-    },
     {
       "timestamp": "2026-07-03T17:36:41.863226+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-06T08:28:21.034303+00:00",
       "tier": "groq",
       "article": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say"
+    },
+    {
+      "timestamp": "2026-07-06T13:52:22.939891+00:00",
+      "tier": "groq",
+      "article": "Four Palestinians Martyred, Others Injured as Israeli Occupation Proceeds Gaza Ceasefire Violations - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-06T13:52:59.019385+00:00",
+      "tier": "groq",
+      "article": "Russian air defenses intercept Ukrainian strike drones\u2019 attack in Siberia\u2019s Omsk"
+    },
+    {
+      "timestamp": "2026-07-06T13:53:17.465321+00:00",
+      "tier": "groq",
+      "article": "South Lebanon Under Continued Israeli Fire as Drone Strike and Demolitions Reported - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-06T13:53:57.388068+00:00",
+      "tier": "groq",
+      "article": "Mourners fly red flags, calling for avenging Leader's blood"
     }
   ]
 }
