@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4539,
+  "total_calls": 4543,
   "tiers": {
-    "groq": 4520,
+    "groq": 4524,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-03T17:36:41.863226+00:00",
-      "tier": "groq",
-      "article": "Over 4,300 killed in Israeli strikes since March 2 Lebanon escalation \u2014 health ministry"
-    },
-    {
-      "timestamp": "2026-07-03T17:37:15.138471+00:00",
-      "tier": "groq",
-      "article": "Strike on market deadliest Ukrainian attack on civilians in Tokmak, authorities say"
-    },
-    {
-      "timestamp": "2026-07-03T17:37:33.741428+00:00",
-      "tier": "groq",
-      "article": "Iran says US still avoids accountability on anniversary of Iran Air Flight 655 downing"
-    },
-    {
-      "timestamp": "2026-07-03T17:38:12.926848+00:00",
-      "tier": "groq",
-      "article": "US diplomat wants to turn Taiwan into \u2018hornet\u2019s nest of drones\u2019"
-    },
     {
       "timestamp": "2026-07-03T19:29:52.169170+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-06T13:53:57.388068+00:00",
       "tier": "groq",
       "article": "Mourners fly red flags, calling for avenging Leader's blood"
+    },
+    {
+      "timestamp": "2026-07-06T16:53:44.840649+00:00",
+      "tier": "groq",
+      "article": "Lebanon latest: Teacher killed by Israeli airstrike"
+    },
+    {
+      "timestamp": "2026-07-06T16:54:00.960763+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: Over 600 Ukrainian drones shot down over Russian regions overnight"
+    },
+    {
+      "timestamp": "2026-07-06T16:54:18.709440+00:00",
+      "tier": "groq",
+      "article": "Israeli attack on vehicle in Lebanon kills at least four"
+    },
+    {
+      "timestamp": "2026-07-06T16:54:34.626116+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s West battlegroup disrupts Ukrainian troop rotation near Krasny Liman"
     }
   ]
 }

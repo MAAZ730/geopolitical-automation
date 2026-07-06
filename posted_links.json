@@ -1,4 +1,49 @@
 {
+  "461b437b99685d330429392b9be1cd1052a4b605f2fd53a16bc345170a8da9d3": {
+    "url": "DDGeopolitics/188265",
+    "title": "Russia-Ukraine Conflict: Rutti Frutti Reports No Warnings Issued to Ukrainian Forces",
+    "published": "2026-07-06T16:57:00.724359+00:00"
+  },
+  "814ee7da3188102fcfa200035fc00fcee2f9bc34e28bae03f1ccdacf61c26311": {
+    "url": "DDGeopolitics/188271",
+    "title": "Ukraine Industrial Facility Hit by Devastating Secondary Explosion",
+    "published": "2026-07-06T16:56:02.716509+00:00"
+  },
+  "ccca2cd2d69d2470fcd5ddf146098e76db1969b91a8bddeb499ab5d2f9f3f677": {
+    "url": "QudsNen/230178",
+    "title": "Israeli Artillery Targets Kabrikha in Southern Lebanon",
+    "published": "2026-07-06T16:55:10.322242+00:00"
+  },
+  "7a1fa5ec1c0ff68f93ba154bdeae23476d403904c543e0cfbbc4b89ec676ae4a": {
+    "url": "thecradlemedia/63489",
+    "title": "Iranians Demand Vengeance During Khamenei Funeral Procession",
+    "published": "2026-07-06T16:54:57.835339+00:00"
+  },
+  "68a730b13394cde700506bdedc5104937cfb9ee0fb1a3770398ecaf2396bb2f6": {
+    "url": "thecradlemedia/63490",
+    "title": "Israeli Artillery Shells Target Qabrikha in Southern Lebanon",
+    "published": "2026-07-06T16:54:56.437819+00:00"
+  },
+  "df536823eee3b9c314d81f1df59dee463bd7ef4c8362bad9ad6c8ee3f3eacc82": {
+    "url": "thecradlemedia/63495",
+    "title": "Iran's Bushehr Nuclear Plant Resumes Operations After Military Strikes",
+    "published": "2026-07-06T16:54:43.781018+00:00"
+  },
+  "4605138f96c65d637d20223672568caf124ca1d389e97c059f191d973264b5a3": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/lebanon-latest-teacher-killed-by-israeli-airstrike-2?traffic_source=rss",
+    "title": "Lebanon latest: Teacher killed by Israeli airstrike",
+    "published": "2026-07-06T16:10:09+00:00"
+  },
+  "bc931e19e3333f1467dd60f4136b14e1407991fbe8f200908a8a8d448c394a75": {
+    "url": "https://tass.com/politics/2156425",
+    "title": "FACTBOX: Over 600 Ukrainian drones shot down over Russian regions overnight",
+    "published": "2026-07-06T14:47:05+00:00"
+  },
+  "bbb6062df1ded813704e16b3c1fbbb625887e4670089da9a14893645e90f9757": {
+    "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four?traffic_source=rss",
+    "title": "Israeli attack on vehicle in Lebanon kills at least four",
+    "published": "2026-07-06T14:22:31+00:00"
+  },
   "26ff929d54c1a05e2358f3de331b99c10bb89c1baf526b4e4914e2a6a42df170": {
     "url": "BellumActaNews/174919",
     "title": "US Commerce Secretary Seeks FIFA Intervention in Balogun Red-Card Case",
@@ -118,6 +163,11 @@
     "url": "Middle_East_Spectator/34191",
     "title": "Thousands Converge on Tehran for Funeral Procession",
     "published": "2026-07-06T03:56:39.754668+00:00"
+  },
+  "9ac8afa8e72033e7314e4fc1ca70225904673f22973ca3b668deea867b9a0be8": {
+    "url": "https://tass.com/defense/2156001",
+    "title": "Russia\u2019s West battlegroup disrupts Ukrainian troop rotation near Krasny Liman",
+    "published": "2026-07-06T03:10:38+00:00"
   },
   "25e7742151ad878cb2afdda4c84bde4fa3632ffc467d56f1cfc68e658c890d46": {
     "url": "intelslava/89776",
@@ -698,55 +748,5 @@
     "url": "Slavyangrad/168294",
     "title": "Kharkov Logistics Hub Destroyed in Strike",
     "published": "2026-07-04T17:16:01.974163+00:00"
-  },
-  "4f28de700ee0f38735b9f208c50d5f14229907fdeba250fc4ecea9b35ad20160": {
-    "url": "Slavyangrad/168297",
-    "title": "Drone Strike Hits Gas Station in Poltava Region, Ukraine",
-    "published": "2026-07-04T17:15:35.346548+00:00"
-  },
-  "387668ea22bd899b8cee1125ab2723b3e63f278a785ddb20975c8b18602d73ff": {
-    "url": "intelslava/89725",
-    "title": "Middle Eastern Trading Channel Reports Significant Success with Gold Market Focus",
-    "published": "2026-07-04T17:14:59.726517+00:00"
-  },
-  "5cf1cff1c0bd0c7c7a035aa03416f8a50616987d0662a2f09c2ee8bcc7ce8105": {
-    "url": "thecradlemedia/63374",
-    "title": "Israeli National Faces War Crimes Complaint in Rome",
-    "published": "2026-07-04T17:14:14.127455+00:00"
-  },
-  "d35ce8830714b475aad664321cbd0a012a7b305fb3a07a4094963c5743734810": {
-    "url": "thecradlemedia/63392",
-    "title": "Israeli Soldier Faces War Crimes Complaint over Gaza Demolitions",
-    "published": "2026-07-04T17:14:05.036178+00:00"
-  },
-  "f9a6fc32c1c825cad70c616ee691d6bb03b88c2440218550f85bdbf17628f694": {
-    "url": "https://tass.com/defense/2155719",
-    "title": "Russian Armed Forces establish control over four settlements in Kharkov Region \u2014 top brass",
-    "published": "2026-07-04T16:30:31+00:00"
-  },
-  "d667804283ce742770f38111166c42008625d5927942d2959974f495d0b80c00": {
-    "url": "https://en.irna.ir/news/86200806/Martyred-Leader-saw-Islamic-unity-as-bulwark-against-enemies",
-    "title": "Martyred Leader saw Islamic unity as bulwark against enemies, official says",
-    "published": "2026-07-04T16:21:09+00:00"
-  },
-  "2284c3e8ac3fdd1a55cdfb713f18946fe003aff168154e224f51f66f61433069": {
-    "url": "https://www.tehrantimes.com/news/527871/Intl-journalists-visit-damaged-Golestan-Palace-in-downtown-Tehran",
-    "title": "Intl. journalists visit damaged Golestan Palace in downtown Tehran",
-    "published": "2026-07-04T15:52:52+00:00"
-  },
-  "8bc953cac2f28f2149af72eb719f62563f4884a37c53024ef8deb42ba1a4cda3": {
-    "url": "Slavyangrad/168290",
-    "title": "Russian Airstrikes Hit Ukrainian Military Positions in Sumy Region",
-    "published": "2026-07-04T15:17:54.086091+00:00"
-  },
-  "331b00518530d149a08f10e767b3845dbff80c7ae05f79652fe5d3cb724a92aa": {
-    "url": "intelslava/89724",
-    "title": "Ukrainian Forces Down Kamikaze Drone on Donetsk-Mariupol Route",
-    "published": "2026-07-04T15:16:50.471940+00:00"
-  },
-  "fcd0513edb37d71cbf960a73f5693291dc693330909edb7e13b5a8e0791ea84f": {
-    "url": "thecradlemedia/63377",
-    "title": "Egypt Coach Dedicates World Cup Victory to Palestinian People",
-    "published": "2026-07-04T15:15:37.901329+00:00"
   }
 }
