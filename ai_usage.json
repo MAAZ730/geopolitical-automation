@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4527,
+  "total_calls": 4531,
   "tiers": {
-    "groq": 4508,
+    "groq": 4512,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-03T07:26:38.707657+00:00",
-      "tier": "groq",
-      "article": "Millions to Mourn: Iran Begins Epic Farewell to Martyred Supreme Leader as Global Dignitaries Flock to Tehran - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-03T07:27:18.615347+00:00",
-      "tier": "groq",
-      "article": "Woman killed by Ukrainian projectile in Belgorod"
-    },
-    {
-      "timestamp": "2026-07-03T07:28:08.298247+00:00",
-      "tier": "groq",
-      "article": "Explosive-laden Ukrainian drone crashes in T\u00fcrkiye\u2019s Trabzon province \u2013 media"
-    },
-    {
-      "timestamp": "2026-07-03T07:28:59.483513+00:00",
-      "tier": "groq",
-      "article": "Iran warns US and Israel against attacks on Khamenei funeral"
-    },
     {
       "timestamp": "2026-07-03T10:42:01.254795+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-05T23:06:43.581590+00:00",
       "tier": "groq",
       "article": "Russia looks forward to Witkoff and Kushner\u2019s visit \u2014 Kremlin"
+    },
+    {
+      "timestamp": "2026-07-06T03:54:26.434361+00:00",
+      "tier": "groq",
+      "article": "Ukrainian forces attack DPR territory 22 times over past day"
+    },
+    {
+      "timestamp": "2026-07-06T03:55:06.851327+00:00",
+      "tier": "groq",
+      "article": "How Iran's new regime is very different to what came before"
+    },
+    {
+      "timestamp": "2026-07-06T03:55:53.673096+00:00",
+      "tier": "groq",
+      "article": "Iran army spox vows crushing response to any miscalculation"
+    },
+    {
+      "timestamp": "2026-07-06T03:56:12.151016+00:00",
+      "tier": "groq",
+      "article": "Regional resistance factions meet with Iran FM on sidelines of Khamenei\u2019s funeral"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "0ad2eb0d8c21dfd06840933a95a38b234639722af4a0baeb08771dd267575c9e": {
+    "url": "DDGeopolitics/188223",
+    "title": "Secondary Explosions Erupt in Kiev After Strike",
+    "published": "2026-07-06T03:59:29.314792+00:00"
+  },
+  "1899691b50d1fdccb311939d2c1462dad939ae3b1bf80d9804a061cbc7168cf2": {
+    "url": "DDGeopolitics/188225",
+    "title": "Kiev Strike Leaves Trail of Secondary Explosions",
+    "published": "2026-07-06T03:58:13.748966+00:00"
+  },
+  "0d4c702ea649a60bde1d1ecc45d7ddaadc935008c27285b87484b0866526685a": {
+    "url": "QudsNen/230096",
+    "title": "Gaza Conservatory Reopens Amid Destruction",
+    "published": "2026-07-06T03:57:47.636677+00:00"
+  },
+  "2a80538163c77c8ec8b85db112409cc1705a74d42dcc1f1a3100f95ee9f7ee3c": {
+    "url": "QudsNen/230097",
+    "title": "Israeli Airstrike Hits Residential Building in Tel al-Hawa Neighborhood, Gaza City",
+    "published": "2026-07-06T03:56:45.241379+00:00"
+  },
+  "a1819421fc63be0d3aea0207179053a564a4f050ab6fdfcfc7e580ebebe72c7c": {
+    "url": "QudsNen/230099",
+    "title": "Israeli Forces Destroy Gaza Memorial Photos in Jaffa",
+    "published": "2026-07-06T03:56:43.700176+00:00"
+  },
+  "2dca45f97d67b602b0acfefd4a74a853d6ec47a42b69be5d6de80b1ffd5bd7cf": {
+    "url": "Middle_East_Spectator/34191",
+    "title": "Thousands Converge on Tehran for Funeral Procession",
+    "published": "2026-07-06T03:56:39.754668+00:00"
+  },
   "25e7742151ad878cb2afdda4c84bde4fa3632ffc467d56f1cfc68e658c890d46": {
     "url": "intelslava/89776",
     "title": "Russia Launches Missile Strikes on Kyiv, Ukraine",
@@ -18,6 +48,11 @@
     "url": "DDGeopolitics/188208",
     "title": "Missile Strike Hits Kiev Amid Ongoing Russia-Ukraine Conflict",
     "published": "2026-07-05T23:10:10.087121+00:00"
+  },
+  "84eb9fcd81ad0cb471f6e689741d4bca31e849a015490969de8f4d8b481b65fc": {
+    "url": "https://tass.com/politics/2155975",
+    "title": "Ukrainian forces attack DPR territory 22 times over past day",
+    "published": "2026-07-05T23:09:46+00:00"
   },
   "7368070a6b8823add8e24d85d407b63bf0057f4afb78f784fb1a3bd58ea73a21": {
     "url": "QudsNen/230082",
@@ -249,6 +284,11 @@
     "title": "At least 15 Yemeni government troops killed in Hodeidah fighting",
     "published": "2026-07-05T13:46:32+00:00"
   },
+  "8ff68bf82464b4aa6148a933ab6b706c683a03d82373c1a2465b2673eddbfb8e": {
+    "url": "https://en.mehrnews.com/news/245937/Iran-army-spox-vows-crushing-response-to-any-miscalculation",
+    "title": "Iran army spox vows crushing response to any miscalculation",
+    "published": "2026-07-05T12:50:59+00:00"
+  },
   "cdfe8d17d844625d3d5ef29f858148011ed7ce7ef644bd979473c8c3f6d4ee1f": {
     "url": "https://english.almanar.com.lb/article/100582/",
     "title": "Any Mistake Will Be Crushing: Iran\u2019s Army Warns Enemies as Ceasefire Sparks Military Buildup - Al-Manar TV Lebanon",
@@ -263,6 +303,11 @@
     "url": "https://english.almanar.com.lb/article/100552/",
     "title": "Rights groups warn Abu Safiya at risk of slow death in Israeli prison - Al-Manar TV Lebanon",
     "published": "2026-07-05T12:22:38+00:00"
+  },
+  "f50f28286b49f1fb959e91d3bd12706230b6051a4f102fce7a22d2b428171fc8": {
+    "url": "https://thecradle.co/articles-id/38608",
+    "title": "Regional resistance factions meet with Iran FM on sidelines of Khamenei\u2019s funeral",
+    "published": "2026-07-05T11:44:41+00:00"
   },
   "030ba6faae1114c72923a77d3c4d18c03a38c338e22670277e224522f77214cc": {
     "url": "https://www.rt.com/news/642590-north-korea-kim-test-destroyer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -358,6 +403,11 @@
     "url": "https://en.irna.ir/news/86201216/Hamas-delegation-meets-Araghchi-voices-solidarity-with-Iran",
     "title": "Hamas delegation meets Araghchi, voices solidarity with Iran after war",
     "published": "2026-07-05T05:50:55+00:00"
+  },
+  "29b8831654774e3317079bced44e6c1b29cb25aee84d79aab8badafa36379eea": {
+    "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+    "title": "How Iran's new regime is very different to what came before",
+    "published": "2026-07-05T05:40:07+00:00"
   },
   "0ac081872e0f8460c7ac71c9ae4df1dcbe02ac40b7fd3f029cdd7fcfa60981e8": {
     "url": "Slavyangrad/168334",
@@ -698,55 +748,5 @@
     "url": "warmonitors/44790",
     "title": "Iran Mourns Supreme Leader Ayatollah Ali Khamenei Following Reported Airstrike",
     "published": "2026-07-04T10:24:21.359334+00:00"
-  },
-  "a05a5b992715e20d0d54b2c680827f0d074eaf504be7fc944936eae3206f3b14": {
-    "url": "thecradlemedia/63351",
-    "title": "Iran Resumes Oil Export Talks with Japanese Buyers",
-    "published": "2026-07-04T10:23:37.831455+00:00"
-  },
-  "1a6403c8017f58a0fb53c32ef9852ff2db45b8140cfe53be90b8de9dce12a646": {
-    "url": "thecradlemedia/63352",
-    "title": "Yemeni Forces Foil Saudi Attempt to Intercept Iranian Civilian Aircraft",
-    "published": "2026-07-04T10:23:35.706540+00:00"
-  },
-  "53ba4d6f1712013307da3fbe7e73f3f31cc65ee7eaeb0282d166e3ca4884ce28": {
-    "url": "thecradlemedia/63356",
-    "title": "Israeli Forces Conduct Machine Gun Sweep in Southern Lebanon",
-    "published": "2026-07-04T10:23:34.341236+00:00"
-  },
-  "eb4a0e85b1a750f7fa7bab9168c23e8752df26e8be22c5b5e264d7401046c560": {
-    "url": "thecradlemedia/63358",
-    "title": "Israeli Settlers Foiled in Flag-Raising Attempt in Masafer Yatta",
-    "published": "2026-07-04T10:21:53.857697+00:00"
-  },
-  "73d9fd02abd1cf5a989c2f2b3ed95435c822c4a122120d0a5fed0d6db4d16adf": {
-    "url": "https://en.mehrnews.com/news/245895/Israel-forces-kill-over-21-500-children-in-Gaza-in-1-000-days",
-    "title": "Israel forces kill over 21,500 children in Gaza in 1,000 days",
-    "published": "2026-07-04T09:47:41+00:00"
-  },
-  "87342807e8c3ec2d99d7e77fa27b0da9764fcb658a1cd0fd95ee32a7ade0eb8a": {
-    "url": "https://www.aljazeera.com/news/2026/7/4/armed-fighters-attack-multiple-towns-across-mali?traffic_source=rss",
-    "title": "Mali\u2019s army says rebels launch new attacks on towns and cities",
-    "published": "2026-07-04T09:14:56+00:00"
-  },
-  "7fd52ac208b4aa3c500c9c9877341e5429e8c263f628d52d2096655a7ac9c472": {
-    "url": "https://tass.com/politics/2155529",
-    "title": "Medvedev calls Bab el-Mandeb Strait Iran\u2019s 'thermonuclear weapon'",
-    "published": "2026-07-04T08:50:59+00:00"
-  },
-  "838c2f6878a041ce3ac4de70463f0637ba8f0a64d8af3df07173ae58d0dbb726": {
-    "url": "https://tass.com/emergencies/2155587",
-    "title": "More than 200 UAVs headed toward Moscow Region over past 24 hours \u2014 mayor",
-    "published": "2026-07-04T08:46:29+00:00"
-  },
-  "417b6929bf233430199caf7b925dbc070210ab857dc12072b865c1a443420b6e": {
-    "url": "BellumActaNews/174777",
-    "title": "Japan Celebrates 250th US Anniversary with Drone Show in Tokyo",
-    "published": "2026-07-04T06:59:38.682846+00:00"
-  },
-  "93226a2626fadbcb5d57f2d1f9f53db17340c335b227d1c6b4854784141cc6a9": {
-    "url": "BellumActaNews/174785",
-    "title": "Pope Leo XIV Speaks on Unity and Peace Ahead of US 250th Anniversary",
-    "published": "2026-07-04T06:57:40.628683+00:00"
   }
 }
