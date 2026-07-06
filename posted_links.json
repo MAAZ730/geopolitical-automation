@@ -1,4 +1,39 @@
 {
+  "5d1b230ab2bf4e992a17679e894384878a817c6697f9eaccea8cb87dca654923": {
+    "url": "mod_russia_en/28070",
+    "title": "Russian Airstrikes Hit Ukrainian Military Targets in Kharkov Region",
+    "published": "2026-07-06T23:26:32.470323+00:00"
+  },
+  "08a76d6904cec43a9e0ab7952e2645e76d3bdafc23d4140559362ce284b0de22": {
+    "url": "Slavyangrad/168551",
+    "title": "Russian Aerial Bombardment Hits Kharkiv Region",
+    "published": "2026-07-06T23:25:49.856913+00:00"
+  },
+  "b4838a4f25d4bbf618f267de4bd750868f213c6c8c56df65da0606290dbdc62f": {
+    "url": "boris_rozhin/217311",
+    "title": "Zaporizhzhia Residents Warned of Increased Security Risks",
+    "published": "2026-07-06T23:22:07.992200+00:00"
+  },
+  "41339ec9ca65afbf16891d241dba8e6cac3ae788845b18c403e035cc2ed8773f": {
+    "url": "intelslava/89839",
+    "title": "Trump Optimistic on Ukraine Conflict Resolution Amid Putin Pressure",
+    "published": "2026-07-06T23:20:37.529266+00:00"
+  },
+  "fb3898599294a61a724524b40dc03ad538bccb277891ae9c32c26c1ef6e07f17": {
+    "url": "thecradlemedia/63488",
+    "title": "Trump Threatens Iran with Military Action if No Deal is Reached",
+    "published": "2026-07-06T23:14:26.967733+00:00"
+  },
+  "ca3ee5e70d841b384813d964baf5983e014ea0971b045768665f7bef002dc052": {
+    "url": "thecradlemedia/63496",
+    "title": "Israel Blocks US-Backed Technocrats from Entering Gaza Amid Escalating Tensions",
+    "published": "2026-07-06T23:14:19.179352+00:00"
+  },
+  "04c036bd7615f18ced198dd0d7d938d747102a495d1f765451495bb83e061a14": {
+    "url": "https://www.rt.com/news/642652-poland-missiles-ukraine-scandal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Poland hunts for whistleblowers who exposed secret arms deliveries to Kiev",
+    "published": "2026-07-06T22:54:51+00:00"
+  },
   "99883178d1931f82037fadad93df4d44419627f986c7369b17a3302815d27ce5": {
     "url": "intelslava/89842",
     "title": "Russia-Ukraine Conflict: Aerial Bombardment in Kharkov Region",
@@ -8,6 +43,11 @@
     "url": "BellumActaNews/174937",
     "title": "IRGC Commander-in-Chief Vahidi Attends Funeral Prayer for Supreme Leader Khamenei",
     "published": "2026-07-06T20:12:03.206997+00:00"
+  },
+  "9f8d623cce93e98781da697adcdf85d3a85bd418763e315683887f9b1573e76f": {
+    "url": "https://tass.com/politics/2156539",
+    "title": "Russian rights commissioner sends appeals to UN over Ukrainian drone attack on bus",
+    "published": "2026-07-06T20:09:17+00:00"
   },
   "1d5514e23599c9763cea9464d9b60d1cc8a2b2b603eebc04351fc1614de86635": {
     "url": "DDGeopolitics/188279",
@@ -124,6 +164,11 @@
     "title": "Russian air defenses intercept Ukrainian strike drones\u2019 attack in Siberia\u2019s Omsk",
     "published": "2026-07-06T13:44:01+00:00"
   },
+  "d28224cdc31c77149e15144b3ca9602ddc4df257b90925c4c891995d2e4661f6": {
+    "url": "https://thecradle.co/articles-id/38626",
+    "title": "China test-launches nuclear-capable ballistic missile in Pacific Ocean",
+    "published": "2026-07-06T13:38:00+00:00"
+  },
   "d0b96ecba4198d07e6ae3b024f038849ac250b70b175b45989aae7eed206bdbb": {
     "url": "https://english.almanar.com.lb/article/100732/",
     "title": "South Lebanon Under Continued Israeli Fire as Drone Strike and Demolitions Reported - Al-Manar TV Lebanon",
@@ -178,6 +223,11 @@
     "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
     "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
     "published": "2026-07-06T06:35:50+00:00"
+  },
+  "ac8849f74ea8099f20820dfe5df93310e3b7f15229a114b41f0d7a3cdb7a2804": {
+    "url": "https://en.mehrnews.com/news/245953/Russia-China-Joint-Sea-2026-drills-open-in-Qingdao",
+    "title": "Russia-China Joint Sea-2026 drills open in Qingdao",
+    "published": "2026-07-06T05:48:04+00:00"
   },
   "daffe1df6ae622100d06107684060a0330772de2fc093d6cf96f091736cab434": {
     "url": "https://en.mehrnews.com/news/245950/US-Israel-forced-to-recognize-Iran-s-allies-in-Resistance",
@@ -698,55 +748,5 @@
     "url": "QudsNen/229908",
     "title": "Gaza Strip Mourns Loss of Palestinian Youth",
     "published": "2026-07-04T21:04:12.973146+00:00"
-  },
-  "07379141d0050ab0a9a05d33e01209d24e8fda87f41958a6df899cc4c2f7bc82": {
-    "url": "QudsNen/229920",
-    "title": "Israeli Artillery Strikes Eastern Al-Buraij Camp in Central Gaza Strip",
-    "published": "2026-07-04T21:04:11.408947+00:00"
-  },
-  "4d89b3717448b9bb1ec640ab87c5bcb3e128323deb7a28ce96d1ea3013589780": {
-    "url": "QudsNen/229924",
-    "title": "Settler Vehicle Collision in Qummas Area",
-    "published": "2026-07-04T21:04:09.833497+00:00"
-  },
-  "bf954471e4929db76d9a3702ecac4c64882c88393b140a4b9e7cdd36a275d191": {
-    "url": "Middle_East_Spectator/34123",
-    "title": "Protesters in Iran Chant Anti-American Slogans During Funeral Procession",
-    "published": "2026-07-04T21:03:15.247600+00:00"
-  },
-  "9b53271f8d127e73c9817384d2ec0729a99375e4903e6694fd3c9533f48ec4e5": {
-    "url": "https://tass.com/emergencies/2155767",
-    "title": "Death toll from Venezuelan earthquake up to 2,954",
-    "published": "2026-07-04T20:45:53+00:00"
-  },
-  "feb45c8d3b1244a482f7104084dcb5caa386fd61ea2c30c421aa836351a30e5e": {
-    "url": "https://www.rt.com/news/642585-iran-ayatollah-khamenei-mourning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iranian mourners call for revenge for slain supreme leader (VIDEOS)",
-    "published": "2026-07-04T20:45:42+00:00"
-  },
-  "2b93efbe7c08d68b4d5e0a875834a4d2b411b6986935a190480f98a5235850c7": {
-    "url": "https://en.irna.ir/news/86201038/Italian-Group-Iran-shattered-hegemony-of-warmongering-thugs",
-    "title": "Italian Group: Iran shattered hegemony of warmongering thugs in world",
-    "published": "2026-07-04T19:30:54+00:00"
-  },
-  "3ba7b34d14a71beeb2edee468bf444a2a40e3b36f7b50ca3a48bedb8d2577316": {
-    "url": "https://www.aljazeera.com/video/upfront/2026/7/4/has-the-us-reckoned-with-its-own-history?traffic_source=rss",
-    "title": "Has the US reckoned with its own history?",
-    "published": "2026-07-04T19:30:00+00:00"
-  },
-  "43c4f692b9001b84c6abae63ad49b2f75fca7686ec0f90bb3f95878aef870613": {
-    "url": "Slavyangrad/168304",
-    "title": "Fire Engulfs Chernomorsk After Aerial Missile Strike Near Odessa",
-    "published": "2026-07-04T19:29:44.265411+00:00"
-  },
-  "3966a3fa1203c1d103239482110c169369805ebde3ed519bd871605b58c656c4": {
-    "url": "BellumActaNews/174797",
-    "title": "US Bombers Conduct Flyover in New York City for 250th Anniversary Celebrations",
-    "published": "2026-07-04T19:29:25.416996+00:00"
-  },
-  "acfe13f263cf6bf84909b0467055d0b256a8904258e4c1cd1dcb19584baee6df": {
-    "url": "QudsNen/229907",
-    "title": "Israeli Drone Strike Hits Northern Gaza Strip",
-    "published": "2026-07-04T19:26:28.656419+00:00"
   }
 }

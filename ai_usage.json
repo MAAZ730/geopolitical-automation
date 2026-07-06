@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4547,
+  "total_calls": 4551,
   "tiers": {
-    "groq": 4528,
+    "groq": 4532,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-03T21:13:26.067618+00:00",
-      "tier": "groq",
-      "article": "Citizens, officials mourn son-in-law of martyred Leader at Tehran funeral"
-    },
-    {
-      "timestamp": "2026-07-03T21:14:08.071508+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s advance collapses in Ukraine, \u201840,000\u2019 troops killed in June"
-    },
-    {
-      "timestamp": "2026-07-03T21:15:01.142522+00:00",
-      "tier": "groq",
-      "article": "Iran tells UN that US aggression, not Iranian action, is threat to peace"
-    },
-    {
-      "timestamp": "2026-07-03T21:15:19.298420+00:00",
-      "tier": "groq",
-      "article": "Iran not to allow US interfere in Strait of Hormuz"
-    },
     {
       "timestamp": "2026-07-03T23:10:34.268527+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-06T20:05:56.898611+00:00",
       "tier": "groq",
       "article": "US, Israel forced to recognize Iran's allies in Resistance"
+    },
+    {
+      "timestamp": "2026-07-06T23:11:59.146111+00:00",
+      "tier": "groq",
+      "article": "Russian rights commissioner sends appeals to UN over Ukrainian drone attack on bus"
+    },
+    {
+      "timestamp": "2026-07-06T23:12:32.791653+00:00",
+      "tier": "groq",
+      "article": "China test-launches nuclear-capable ballistic missile in Pacific Ocean"
+    },
+    {
+      "timestamp": "2026-07-06T23:13:22.326320+00:00",
+      "tier": "groq",
+      "article": "Poland hunts for whistleblowers who exposed secret arms deliveries to Kiev"
+    },
+    {
+      "timestamp": "2026-07-06T23:14:09.324610+00:00",
+      "tier": "groq",
+      "article": "Russia-China Joint Sea-2026 drills open in Qingdao"
     }
   ]
 }
