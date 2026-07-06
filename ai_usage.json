@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4543,
+  "total_calls": 4547,
   "tiers": {
-    "groq": 4524,
+    "groq": 4528,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-03T19:29:52.169170+00:00",
-      "tier": "groq",
-      "article": "Houthis claim missile strikes on Saudi aircraft over Yemen"
-    },
-    {
-      "timestamp": "2026-07-03T19:30:33.028272+00:00",
-      "tier": "groq",
-      "article": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei"
-    },
-    {
-      "timestamp": "2026-07-03T19:30:49.026461+00:00",
-      "tier": "groq",
-      "article": "Russia strongly condemns brutal Ukrainian strike on Tokmak \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-07-03T19:31:29.432114+00:00",
-      "tier": "groq",
-      "article": "Bomb blast at central Damascus cafe kills nine, state media say"
-    },
     {
       "timestamp": "2026-07-03T21:13:26.067618+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-06T16:54:34.626116+00:00",
       "tier": "groq",
       "article": "Russia\u2019s West battlegroup disrupts Ukrainian troop rotation near Krasny Liman"
+    },
+    {
+      "timestamp": "2026-07-06T20:04:40.107773+00:00",
+      "tier": "groq",
+      "article": "Three women killed in deadliest Israeli attack on Lebanon since ceasefire"
+    },
+    {
+      "timestamp": "2026-07-06T20:05:22.540923+00:00",
+      "tier": "groq",
+      "article": "Russian strikes kill 20, exposing Ukraine\u2019s air-defense shortage "
+    },
+    {
+      "timestamp": "2026-07-06T20:05:38.967600+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike over 150 Ukrainian army deployment sites in past day \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-06T20:05:56.898611+00:00",
+      "tier": "groq",
+      "article": "US, Israel forced to recognize Iran's allies in Resistance"
     }
   ]
 }
