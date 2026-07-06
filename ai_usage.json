@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4531,
+  "total_calls": 4535,
   "tiers": {
-    "groq": 4512,
+    "groq": 4516,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-03T10:42:01.254795+00:00",
-      "tier": "groq",
-      "article": "Missile strike on Belgorod, fire near Smolensk, 155 UAVs target Russia: new attack"
-    },
-    {
-      "timestamp": "2026-07-03T10:42:44.720914+00:00",
-      "tier": "groq",
-      "article": "Four killed in Ukraine a day after deadliest Russian attacks this year"
-    },
-    {
-      "timestamp": "2026-07-03T10:43:30.801783+00:00",
-      "tier": "groq",
-      "article": "One person killed, two more injured in Ukraine\u2019s drone attack on Bryansk Region"
-    },
-    {
-      "timestamp": "2026-07-03T10:43:49.170405+00:00",
-      "tier": "groq",
-      "article": "Syrian FM visits Beirut, signals \u2018openness\u2019 to talks with Hezbollah"
-    },
     {
       "timestamp": "2026-07-03T14:15:16.953375+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-06T03:56:12.151016+00:00",
       "tier": "groq",
       "article": "Regional resistance factions meet with Iran FM on sidelines of Khamenei\u2019s funeral"
+    },
+    {
+      "timestamp": "2026-07-06T08:27:10.058150+00:00",
+      "tier": "groq",
+      "article": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones"
+    },
+    {
+      "timestamp": "2026-07-06T08:27:27.842524+00:00",
+      "tier": "groq",
+      "article": "China missile test draws criticism from Australia, New Zealand, Japan"
+    },
+    {
+      "timestamp": "2026-07-06T08:28:03.036762+00:00",
+      "tier": "groq",
+      "article": "Iran turns Hormuz Strait into strategic lever against rivals"
+    },
+    {
+      "timestamp": "2026-07-06T08:28:21.034303+00:00",
+      "tier": "groq",
+      "article": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say"
     }
   ]
 }

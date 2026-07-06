@@ -1,4 +1,49 @@
 {
+  "c076194b76dfb766f78ffc2a103c983902522d3c2a3f27332df67da109209417": {
+    "url": "BellumActaNews/174929",
+    "title": "Russian Missile Hits Roshen Corporation Headquarters in Kyiv",
+    "published": "2026-07-06T08:35:05.897403+00:00"
+  },
+  "9af191c7d5ff67a09e92b436a279ec17569706879d9cd2a49b3600ff5d0b9ede": {
+    "url": "DDGeopolitics/188233",
+    "title": "Russian Military Targets Ukraine's Zhulian Machine-Building Plant",
+    "published": "2026-07-06T08:34:22.575121+00:00"
+  },
+  "7c8540803b158e738262e5804877a9201258b961fe591e36b3053332992b58c8": {
+    "url": "DDGeopolitics/188237",
+    "title": "Ukraine Launches Counterattack Against Russian Forces in Kiev",
+    "published": "2026-07-06T08:32:44.618958+00:00"
+  },
+  "344de766369030803b6d381240d1ab81291fba9b212e53fad26817d301617776": {
+    "url": "DDGeopolitics/188247",
+    "title": "Russia Launches Airstrikes on Kiev, Ukraine Amid Escalating Conflict",
+    "published": "2026-07-06T08:30:45.702149+00:00"
+  },
+  "e5a3264e83373c2cacc7d99239b0fe6f02e5da5617c62361544a4a05cd49d82b": {
+    "url": "QudsNen/230123",
+    "title": "Israeli Drone Strike Hits Tent in Southern Gaza Strip",
+    "published": "2026-07-06T08:28:29.190306+00:00"
+  },
+  "d24ead0eb5d9d664f886df4f6d4322a5ae1f2756c7cf6e32191974b8bfc922b5": {
+    "url": "thecradlemedia/63430",
+    "title": "Israel Cabinet Defies Supreme Court Ruling on Broadcast Regulator",
+    "published": "2026-07-06T08:28:25.350909+00:00"
+  },
+  "d7f6ab63d125169616d7651ce9ac8cb4d1b8682acb5a30193e3cf4e34775be4d": {
+    "url": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss",
+    "title": "China missile test draws criticism from Australia, New Zealand, Japan",
+    "published": "2026-07-06T07:28:48+00:00"
+  },
+  "27bd37612fdd7f8d3dc517e87ab6fcfaa31ec4a115948cab93cab68b77eb5527": {
+    "url": "https://tass.com/politics/2156077",
+    "title": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones",
+    "published": "2026-07-06T07:14:24+00:00"
+  },
+  "f9e84cf22ea80237aebdf576cc38cb21fe0f03b197ffcd994a9bc8f8d3a3c3d8": {
+    "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
+    "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
+    "published": "2026-07-06T06:35:50+00:00"
+  },
   "0ad2eb0d8c21dfd06840933a95a38b234639722af4a0baeb08771dd267575c9e": {
     "url": "DDGeopolitics/188223",
     "title": "Secondary Explosions Erupt in Kiev After Strike",
@@ -308,6 +353,11 @@
     "url": "https://thecradle.co/articles-id/38608",
     "title": "Regional resistance factions meet with Iran FM on sidelines of Khamenei\u2019s funeral",
     "published": "2026-07-05T11:44:41+00:00"
+  },
+  "a686b1adef83c66c0244bcb594194b23a67207c72dbe60ee3b6ed431d0a0935f": {
+    "url": "https://en.mehrnews.com/news/245933/Iran-turns-Hormuz-Strait-into-strategic-lever-against-rivals",
+    "title": "Iran turns Hormuz Strait into strategic lever against rivals",
+    "published": "2026-07-05T11:31:24+00:00"
   },
   "030ba6faae1114c72923a77d3c4d18c03a38c338e22670277e224522f77214cc": {
     "url": "https://www.rt.com/news/642590-north-korea-kim-test-destroyer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -698,55 +748,5 @@
     "url": "QudsNen/229870",
     "title": "Israeli Drone Strike Hits Civilians in Eastern Gaza City",
     "published": "2026-07-04T13:48:00.102629+00:00"
-  },
-  "3a928235a8ecd99595d2e645d5a49db812737bcf73f759ed89b45df960be8da9": {
-    "url": "thecradlemedia/63378",
-    "title": "UK Warships to Conduct Mine-Clearing in Strait of Hormuz",
-    "published": "2026-07-04T13:45:08.717189+00:00"
-  },
-  "cf9cfd1f62aad706c4d4d50aea85ed7eda282e8393b70559e193da0a41ce2b75": {
-    "url": "thecradlemedia/63381",
-    "title": "Three Missing Men Recovered in Southern Lebanon",
-    "published": "2026-07-04T13:45:07.056037+00:00"
-  },
-  "8ee7bb12fdede4829a7546c2ad83d2ff23f2059bc0cf3337bb327d068f50dd40": {
-    "url": "https://tass.com/emergencies/2155663",
-    "title": "Number of injured in Ukrainian strike on Tokmak market rises to 21",
-    "published": "2026-07-04T12:30:25+00:00"
-  },
-  "4290815fbfad0ff9507114733a2ab024b71a370ce3b0347371ceb75a6eebe34e": {
-    "url": "https://english.almanar.com.lb/article/100242/",
-    "title": "Iran\u2019s Gharibabadi Warns Against Military \u201cAdventurism\u201d in Strait of Hormuz - Al-Manar TV Lebanon",
-    "published": "2026-07-04T11:34:26+00:00"
-  },
-  "2e2d8859e18389f9143020f8637add531d7984e5bf9d8245be3d346d02190937": {
-    "url": "https://tass.com/emergencies/2155657",
-    "title": "Seventy-two drones destroyed in Leningrad Region",
-    "published": "2026-07-04T11:28:46+00:00"
-  },
-  "512b01dd40827bdbe400f1700d99eaf45b4a75ce6d274badcf90ff2d4ec0763a": {
-    "url": "https://www.scmp.com/news/hong-kong/politics/article/3359420/pla-navy-officer-recalls-dramatic-sudan-evacuation-hong-kong-barracks-open-day?utm_source=rss_feed",
-    "title": "PLA Navy officer recalls dramatic Sudan evacuation at Hong Kong barracks open day",
-    "published": "2026-07-04T10:47:43+00:00"
-  },
-  "c1a56fd21ee87fad167cd8606a88fc8f62370d7833c63fe94ca5377e381c4720": {
-    "url": "https://tass.com/politics/2155651",
-    "title": "Medvedev does not rule out creation of community of states subjected to illegal sanctions",
-    "published": "2026-07-04T10:44:43+00:00"
-  },
-  "73e0b92c960862169f509542b3745831ce199f739f7302d89cf276150717a3c1": {
-    "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
-    "title": "Ukraine hits oil and military facilities near Russia\u2019s St Petersburg",
-    "published": "2026-07-04T10:29:19+00:00"
-  },
-  "d1eb492fc8407e217f279ffa957dae3cca5a0e86bd5f5f19fa13dcd5373ef688": {
-    "url": "presstv/196863",
-    "title": "Ukrainian Drones Strike Russian Naval Base and Oil Terminal",
-    "published": "2026-07-04T10:25:38.916354+00:00"
-  },
-  "f956a1ede6c3e24c91421402ef12e8b378431c58795cb6192767317da70acd8a": {
-    "url": "warmonitors/44790",
-    "title": "Iran Mourns Supreme Leader Ayatollah Ali Khamenei Following Reported Airstrike",
-    "published": "2026-07-04T10:24:21.359334+00:00"
   }
 }
