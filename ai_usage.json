@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4575,
+  "total_calls": 4579,
   "tiers": {
-    "groq": 4556,
+    "groq": 4560,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T17:12:16.232518+00:00",
-      "tier": "groq",
-      "article": "Intl. journalists visit damaged Golestan Palace in downtown Tehran"
-    },
-    {
-      "timestamp": "2026-07-04T17:12:55.864183+00:00",
-      "tier": "groq",
-      "article": "Russian Navy must guarantee critical damage to enemy \u2014 Maritime Board chief"
-    },
-    {
-      "timestamp": "2026-07-04T17:13:13.984684+00:00",
-      "tier": "groq",
-      "article": "Iran slams foreign interference in Sudan, calls for solution"
-    },
-    {
-      "timestamp": "2026-07-04T17:13:55.128479+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Gharibabadi Warns Against Military \u201cAdventurism\u201d in Strait of Hormuz - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-07-04T19:21:38.556409+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-07T21:30:45.475135+00:00",
       "tier": "groq",
       "article": "Iran lashes out at German FM\u2019s rhetoric on Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-07-07T23:09:59.467014+00:00",
+      "tier": "groq",
+      "article": "US resumes \u2018powerful strikes\u2019 on Iran after tanker attacks (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-07-07T23:10:42.884255+00:00",
+      "tier": "groq",
+      "article": "US says strikes launched as explosions heard in southern Iran"
+    },
+    {
+      "timestamp": "2026-07-07T23:11:34.444887+00:00",
+      "tier": "groq",
+      "article": "US Navy fears ballistic missile subs can be hit by drones, anti-tank rockets"
+    },
+    {
+      "timestamp": "2026-07-07T23:11:50.594885+00:00",
+      "tier": "groq",
+      "article": "Tanker reportedly hit by projectile off Oman"
     }
   ]
 }
