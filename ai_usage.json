@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4555,
+  "total_calls": 4559,
   "tiers": {
-    "groq": 4536,
+    "groq": 4540,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T03:28:54.840597+00:00",
-      "tier": "groq",
-      "article": "Iran begins week-long funeral for Supreme Leader Ali Khamenei"
-    },
-    {
-      "timestamp": "2026-07-04T03:29:35.391437+00:00",
-      "tier": "groq",
-      "article": "Russian strikes reduce Ukraine's ability to make missiles \u2014 chief of general staff"
-    },
-    {
-      "timestamp": "2026-07-04T03:29:54.276981+00:00",
-      "tier": "groq",
-      "article": "Russian troops liberate 11 communities in Ukraine operation over week \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-07-04T03:30:40.356020+00:00",
-      "tier": "groq",
-      "article": "Merz\u2019s ratings drop to record low of 13%"
-    },
     {
       "timestamp": "2026-07-04T06:52:21.930920+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-07T03:45:14.030765+00:00",
       "tier": "groq",
       "article": "A Catholic Security Scholar\u2019s Case for Responsible Military AI"
+    },
+    {
+      "timestamp": "2026-07-07T07:43:04.859873+00:00",
+      "tier": "groq",
+      "article": "A Nation Bids Farewell: Millions Pack Qom for Funeral Prayers of Martyred Leader Imam Khamenei in Qom - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-07T07:43:49.853463+00:00",
+      "tier": "groq",
+      "article": "Palestine weekly: One thousand days of genocide in Gaza"
+    },
+    {
+      "timestamp": "2026-07-07T07:44:38.929770+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks kill 38 Russian civilians, including child, in past week \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-07-07T07:45:31.582061+00:00",
+      "tier": "groq",
+      "article": "Difference in objective function; a framework for understanding economic thought of martyred Leader"
     }
   ]
 }
