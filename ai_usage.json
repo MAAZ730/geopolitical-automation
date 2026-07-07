@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4559,
+  "total_calls": 4563,
   "tiers": {
-    "groq": 4540,
+    "groq": 4544,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T06:52:21.930920+00:00",
-      "tier": "groq",
-      "article": "Putin highlights need to continue massive strikes on Ukrainian defense industry sites"
-    },
-    {
-      "timestamp": "2026-07-04T06:53:02.030136+00:00",
-      "tier": "groq",
-      "article": "Pezeshkian, in talks with world leaders, vows Iran 'will not bow to any bully'"
-    },
-    {
-      "timestamp": "2026-07-04T06:53:20.613491+00:00",
-      "tier": "groq",
-      "article": "Iran shows journalists UNESCO-listed palace damaged by US, Israeli strike"
-    },
-    {
-      "timestamp": "2026-07-04T06:54:02.418455+00:00",
-      "tier": "groq",
-      "article": "UK MPs seek ban on Russian cartoon \u2018Masha and the Bear\u2019"
-    },
     {
       "timestamp": "2026-07-04T10:16:47.199619+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-07T07:45:31.582061+00:00",
       "tier": "groq",
       "article": "Difference in objective function; a framework for understanding economic thought of martyred Leader"
+    },
+    {
+      "timestamp": "2026-07-07T11:13:21.624163+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks on medical facilities constitute serious war crime \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-07-07T11:13:55.610941+00:00",
+      "tier": "groq",
+      "article": "Palestinian martyred, others injured as Israeli drone strikes near entrance to Al-Sumoud refugee camp, west of Gaza\u2019s Khan Younis: Palestinian media - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-07T11:14:48.017922+00:00",
+      "tier": "groq",
+      "article": "Gathering Clouds: Building Digital Strategic Depth in the Compute Age"
+    },
+    {
+      "timestamp": "2026-07-07T11:15:04.181877+00:00",
+      "tier": "groq",
+      "article": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal"
     }
   ]
 }
