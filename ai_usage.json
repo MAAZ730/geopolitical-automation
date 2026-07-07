@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4563,
+  "total_calls": 4567,
   "tiers": {
-    "groq": 4544,
+    "groq": 4548,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T10:16:47.199619+00:00",
-      "tier": "groq",
-      "article": "Mali\u2019s army says rebels launch new attacks on towns and cities"
-    },
-    {
-      "timestamp": "2026-07-04T10:17:27.735664+00:00",
-      "tier": "groq",
-      "article": "Israel forces kill over 21,500 children in Gaza in 1,000 days"
-    },
-    {
-      "timestamp": "2026-07-04T10:18:13.860652+00:00",
-      "tier": "groq",
-      "article": "Venezuela earthquake death toll climbs to 2,645, with 12,666 injured - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-04T10:19:05.409173+00:00",
-      "tier": "groq",
-      "article": "Replacement of oil revenues with mining resources should be pursued: minister"
-    },
     {
       "timestamp": "2026-07-04T13:42:42.643646+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-07T11:15:04.181877+00:00",
       "tier": "groq",
       "article": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal"
+    },
+    {
+      "timestamp": "2026-07-07T14:45:06.136407+00:00",
+      "tier": "groq",
+      "article": "Kiev lit the fuse \u2013 Russia lit up Kiev"
+    },
+    {
+      "timestamp": "2026-07-07T14:45:47.111750+00:00",
+      "tier": "groq",
+      "article": "Russian forces hit rail locomotives, trucks in Dnepropetrovsk Region \u2014 Defense Ministry"
+    },
+    {
+      "timestamp": "2026-07-07T14:46:05.454255+00:00",
+      "tier": "groq",
+      "article": "Lebanon PM Offers Condolences to Family of Martyred School Principal in Nabatieh, Calls for Immediate Israeli Withdrawal - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-07T14:46:39.493975+00:00",
+      "tier": "groq",
+      "article": "Israel demands Beirut bar &#039;unacceptable&#039; Lebanese army officers from deploying south"
     }
   ]
 }
