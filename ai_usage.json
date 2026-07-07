@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4567,
+  "total_calls": 4571,
   "tiers": {
-    "groq": 4548,
+    "groq": 4552,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T13:42:42.643646+00:00",
-      "tier": "groq",
-      "article": "Number of injured in Ukrainian strike on Tokmak market rises to 21"
-    },
-    {
-      "timestamp": "2026-07-04T13:43:23.313833+00:00",
-      "tier": "groq",
-      "article": "Ukraine hits oil and military facilities near Russia\u2019s St Petersburg"
-    },
-    {
-      "timestamp": "2026-07-04T13:44:11.357788+00:00",
-      "tier": "groq",
-      "article": "PLA Navy officer recalls dramatic Sudan evacuation at Hong Kong barracks open day"
-    },
-    {
-      "timestamp": "2026-07-04T13:44:59.234805+00:00",
-      "tier": "groq",
-      "article": "Mnogotochiye counter-drone cartridges supplied to Russian troops \u2014 Rostec"
-    },
     {
       "timestamp": "2026-07-04T15:10:31.665063+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-07T14:46:39.493975+00:00",
       "tier": "groq",
       "article": "Israel demands Beirut bar &#039;unacceptable&#039; Lebanese army officers from deploying south"
+    },
+    {
+      "timestamp": "2026-07-07T18:03:51.450141+00:00",
+      "tier": "groq",
+      "article": "US will lift sanctions on Turkey, possibly sell F-35 fighter jets, Trump says"
+    },
+    {
+      "timestamp": "2026-07-07T18:04:29.073683+00:00",
+      "tier": "groq",
+      "article": "Rick Sanchez examines Russia\u2019s strikes on Kiev and liberation of Konstantinovka (VIDEO)"
+    },
+    {
+      "timestamp": "2026-07-07T18:05:14.436843+00:00",
+      "tier": "groq",
+      "article": "Sharaa hosts Macron as terror attack hits Syrian capital"
+    },
+    {
+      "timestamp": "2026-07-07T18:05:31.820872+00:00",
+      "tier": "groq",
+      "article": "Canada picks Germany\u2019s TKMS for historic submarine buy, in nod to Europe"
     }
   ]
 }
