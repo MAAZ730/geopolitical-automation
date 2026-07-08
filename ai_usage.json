@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4607,
+  "total_calls": 4611,
   "tiers": {
-    "groq": 4588,
+    "groq": 4592,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T15:16:23.657417+00:00",
-      "tier": "groq",
-      "article": "Iran's supreme leader absent as senior officials attend ayatollah's funeral"
-    },
-    {
-      "timestamp": "2026-07-05T15:17:04.528382+00:00",
-      "tier": "groq",
-      "article": "Poland needs to think about security while producing drones for Ukraine \u2014 Kremlin"
-    },
-    {
-      "timestamp": "2026-07-05T15:17:53.397940+00:00",
-      "tier": "groq",
-      "article": "At least 15 Yemeni government troops killed in Hodeidah fighting"
-    },
-    {
-      "timestamp": "2026-07-05T15:18:09.320460+00:00",
-      "tier": "groq",
-      "article": "Russian Armed Forces establish control over four settlements in Kharkov Region \u2014 top brass"
-    },
     {
       "timestamp": "2026-07-05T17:17:56.272108+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T21:15:35.033972+00:00",
       "tier": "groq",
       "article": "IRGC downs US MQ-9 drone over southern Iran"
+    },
+    {
+      "timestamp": "2026-07-08T23:16:24.486891+00:00",
+      "tier": "groq",
+      "article": "Deadly strikes in Gaza leave 5 dead, children wounded"
+    },
+    {
+      "timestamp": "2026-07-08T23:16:57.086461+00:00",
+      "tier": "groq",
+      "article": "US expands military strikes on Iran after Trump says he\u2019ll \u2018hit them hard\u2019"
+    },
+    {
+      "timestamp": "2026-07-08T23:17:13.212868+00:00",
+      "tier": "groq",
+      "article": "US deploys some 20 warships, auxiliary vessels in Arabian Sea \u2014 TV"
+    },
+    {
+      "timestamp": "2026-07-08T23:17:50.247171+00:00",
+      "tier": "groq",
+      "article": "Iran's chief negotiator slams US violations of MoU"
     }
   ]
 }
