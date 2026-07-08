@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4587,
+  "total_calls": 4591,
   "tiers": {
-    "groq": 4568,
+    "groq": 4572,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T23:02:59.050937+00:00",
-      "tier": "groq",
-      "article": "Battlegroup South\u2019s storm troopers complete Konstantinovka cleansing from Ukrainian army"
-    },
-    {
-      "timestamp": "2026-07-04T23:03:32.097267+00:00",
-      "tier": "groq",
-      "article": "Italian Group: Iran shattered hegemony of warmongering thugs in world"
-    },
-    {
-      "timestamp": "2026-07-04T23:04:18.072736+00:00",
-      "tier": "groq",
-      "article": "Has the US reckoned with its own history?"
-    },
-    {
-      "timestamp": "2026-07-04T23:04:34.044449+00:00",
-      "tier": "groq",
-      "article": "Iranian university inks MOUs with Italian, Cypriot universities\u00a0"
-    },
     {
       "timestamp": "2026-07-05T03:42:53.275929+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T06:35:25.279414+00:00",
       "tier": "groq",
       "article": "China urges US to lift Cuba sanctions, says Washington\u2019s blockade has no basis in international law"
+    },
+    {
+      "timestamp": "2026-07-08T10:24:27.144013+00:00",
+      "tier": "groq",
+      "article": "US commanders ignored intelligence warnings before strike on Iranian girls\u2019 school \u2013 CNN"
+    },
+    {
+      "timestamp": "2026-07-08T10:24:44.633981+00:00",
+      "tier": "groq",
+      "article": "US strikes in Iran target air defenses, missile depots, drone launch sites \u2014 Axios"
+    },
+    {
+      "timestamp": "2026-07-08T10:25:13.843292+00:00",
+      "tier": "groq",
+      "article": "Russia strikes Ukrainian military industry in Kiev"
+    },
+    {
+      "timestamp": "2026-07-08T10:26:03.847426+00:00",
+      "tier": "groq",
+      "article": "US support for NATO slips after Trump criticism \u2013 poll"
     }
   ]
 }
