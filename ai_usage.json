@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4603,
+  "total_calls": 4607,
   "tiers": {
-    "groq": 4584,
+    "groq": 4588,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T13:49:19.407287+00:00",
-      "tier": "groq",
-      "article": "Kim Jong-un oversees strategic cruise missile test from North Korea\u2019s newest destroyer"
-    },
-    {
-      "timestamp": "2026-07-05T13:50:00.518752+00:00",
-      "tier": "groq",
-      "article": "The epitome of resistance against bullies and hegemons"
-    },
-    {
-      "timestamp": "2026-07-05T13:50:48.507678+00:00",
-      "tier": "groq",
-      "article": "Any Mistake Will Be Crushing: Iran\u2019s Army Warns Enemies as Ceasefire Sparks Military Buildup - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-05T13:51:07.791227+00:00",
-      "tier": "groq",
-      "article": "Rights groups warn Abu Safiya at risk of slow death in Israeli prison - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-07-05T15:16:23.657417+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T19:41:41.437270+00:00",
       "tier": "groq",
       "article": "Trump dismisses Netanyahu\u2019s concerns over potential F-35 sale to T\u00fcrkiye"
+    },
+    {
+      "timestamp": "2026-07-08T21:13:46.829222+00:00",
+      "tier": "groq",
+      "article": "China shows snazzy clip of DF-17 missile on state TV in show of force"
+    },
+    {
+      "timestamp": "2026-07-08T21:14:27.230403+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes 85 US targets in Bahrain, Kuwait"
+    },
+    {
+      "timestamp": "2026-07-08T21:15:19.198503+00:00",
+      "tier": "groq",
+      "article": "US says conducting new wave of strikes on Iran as ceasefire falters"
+    },
+    {
+      "timestamp": "2026-07-08T21:15:35.033972+00:00",
+      "tier": "groq",
+      "article": "IRGC downs US MQ-9 drone over southern Iran"
     }
   ]
 }
