@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4595,
+  "total_calls": 4599,
   "tiers": {
-    "groq": 4576,
+    "groq": 4580,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T07:31:21.456693+00:00",
-      "tier": "groq",
-      "article": "Medvedev calls Bab el-Mandeb Strait Iran\u2019s 'thermonuclear weapon'"
-    },
-    {
-      "timestamp": "2026-07-05T07:31:56.359744+00:00",
-      "tier": "groq",
-      "article": "In photos: Farewell ceremony for martyred Leader in Tehran (4)"
-    },
-    {
-      "timestamp": "2026-07-05T07:32:12.261385+00:00",
-      "tier": "groq",
-      "article": "Hamas hails Iran's victory in war as win for Resistance"
-    },
-    {
-      "timestamp": "2026-07-05T07:32:50.820353+00:00",
-      "tier": "groq",
-      "article": "Hamas delegation meets Araghchi, voices solidarity with Iran after war"
-    },
     {
       "timestamp": "2026-07-05T10:21:18.763064+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T14:25:05.239262+00:00",
       "tier": "groq",
       "article": "Eight NATO allies launch HALO satellite constellation initiative"
+    },
+    {
+      "timestamp": "2026-07-08T17:40:39.999601+00:00",
+      "tier": "groq",
+      "article": "Pentagon officials \u2018ignored warnings\u2019 of outdated intel ahead of Minab school massacre: Report"
+    },
+    {
+      "timestamp": "2026-07-08T17:41:16.155832+00:00",
+      "tier": "groq",
+      "article": "Pakistan military says 42 killed in fighter attacks in Balochistan"
+    },
+    {
+      "timestamp": "2026-07-08T17:41:32.372287+00:00",
+      "tier": "groq",
+      "article": "Humiliation and escalation: Decoding Trump's new offensive against Iran"
+    },
+    {
+      "timestamp": "2026-07-08T17:41:50.365934+00:00",
+      "tier": "groq",
+      "article": "River of tears: A nation's defiance and a superpower's confusion\u00a0"
     }
   ]
 }
