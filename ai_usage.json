@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4599,
+  "total_calls": 4603,
   "tiers": {
-    "groq": 4580,
+    "groq": 4584,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T10:21:18.763064+00:00",
-      "tier": "groq",
-      "article": "Why the new Lebanon framework deal could collapse before peace begins"
-    },
-    {
-      "timestamp": "2026-07-05T10:22:01.442933+00:00",
-      "tier": "groq",
-      "article": "Israeli Aggression Continues Across Southern Lebanon as Border Villages Come Under Heavy Fire - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-05T10:22:52.876357+00:00",
-      "tier": "groq",
-      "article": "Scandal erupts in Poland over \u2018secret\u2019 Patriot missile delivery to Ukraine"
-    },
-    {
-      "timestamp": "2026-07-05T10:23:39.254554+00:00",
-      "tier": "groq",
-      "article": "Seventy-two drones destroyed in Leningrad Region"
-    },
     {
       "timestamp": "2026-07-05T13:49:19.407287+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T17:41:50.365934+00:00",
       "tier": "groq",
       "article": "River of tears: A nation's defiance and a superpower's confusion\u00a0"
+    },
+    {
+      "timestamp": "2026-07-08T19:40:07.381843+00:00",
+      "tier": "groq",
+      "article": "Iran warns of harsher response to any new US attacks"
+    },
+    {
+      "timestamp": "2026-07-08T19:40:42.630367+00:00",
+      "tier": "groq",
+      "article": "Iran Army carries out drone attack on US bases in Bahrain"
+    },
+    {
+      "timestamp": "2026-07-08T19:40:58.851318+00:00",
+      "tier": "groq",
+      "article": "US did not strike Kazakh-leased site in Iranian port, Astana says"
+    },
+    {
+      "timestamp": "2026-07-08T19:41:41.437270+00:00",
+      "tier": "groq",
+      "article": "Trump dismisses Netanyahu\u2019s concerns over potential F-35 sale to T\u00fcrkiye"
     }
   ]
 }
