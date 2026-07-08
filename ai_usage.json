@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4583,
+  "total_calls": 4587,
   "tiers": {
-    "groq": 4564,
+    "groq": 4568,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T21:01:26.838305+00:00",
-      "tier": "groq",
-      "article": "Will economic pressure move the Kremlin towards talks with Kyiv?"
-    },
-    {
-      "timestamp": "2026-07-04T21:01:58.960264+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent: An Israeli drone attacked the town of Mansouri in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-04T21:02:15.837422+00:00",
-      "tier": "groq",
-      "article": "Death toll from Venezuelan earthquake up to 2,954"
-    },
-    {
-      "timestamp": "2026-07-04T21:02:35.039878+00:00",
-      "tier": "groq",
-      "article": "Trump in for difficult two years in case of Republican defeat in November \u2014 senator"
-    },
     {
       "timestamp": "2026-07-04T23:02:59.050937+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T02:57:45.426903+00:00",
       "tier": "groq",
       "article": "Venezuela earthquake death toll tops 3,500"
+    },
+    {
+      "timestamp": "2026-07-08T06:33:41.867312+00:00",
+      "tier": "groq",
+      "article": "IRGC says retaliatory strikes hit 85 US military targets, MQ-9 drone downed"
+    },
+    {
+      "timestamp": "2026-07-08T06:34:19.892720+00:00",
+      "tier": "groq",
+      "article": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels"
+    },
+    {
+      "timestamp": "2026-07-08T06:35:06.135946+00:00",
+      "tier": "groq",
+      "article": "US says 80 targets hit in fresh attacks against Iran"
+    },
+    {
+      "timestamp": "2026-07-08T06:35:25.279414+00:00",
+      "tier": "groq",
+      "article": "China urges US to lift Cuba sanctions, says Washington\u2019s blockade has no basis in international law"
     }
   ]
 }
