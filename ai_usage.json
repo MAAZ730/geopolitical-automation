@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4579,
+  "total_calls": 4583,
   "tiers": {
-    "groq": 4560,
+    "groq": 4564,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-04T19:21:38.556409+00:00",
-      "tier": "groq",
-      "article": "Thousands of Iranians rally in Tehran, chanting 'death to America,' 'Khamenei leader'"
-    },
-    {
-      "timestamp": "2026-07-04T19:22:13.058918+00:00",
-      "tier": "groq",
-      "article": "More than 200 UAVs headed toward Moscow Region over past 24 hours \u2014 mayor"
-    },
-    {
-      "timestamp": "2026-07-04T19:22:32.916621+00:00",
-      "tier": "groq",
-      "article": "Medvedev does not rule out creation of community of states subjected to illegal sanctions"
-    },
-    {
-      "timestamp": "2026-07-04T19:22:52.874502+00:00",
-      "tier": "groq",
-      "article": "Foundation for Sacred Defense works  preservation condemns Western silence on Flight 655 anniversary"
-    },
     {
       "timestamp": "2026-07-04T21:01:26.838305+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-07T23:11:50.594885+00:00",
       "tier": "groq",
       "article": "Tanker reportedly hit by projectile off Oman"
+    },
+    {
+      "timestamp": "2026-07-08T02:56:12.059631+00:00",
+      "tier": "groq",
+      "article": "Russian missiles strike Ukraine\u2019s capital, Kyiv, for third time in a week"
+    },
+    {
+      "timestamp": "2026-07-08T02:56:50.565164+00:00",
+      "tier": "groq",
+      "article": "US begins striking Iran \u2014 CENTCOM"
+    },
+    {
+      "timestamp": "2026-07-08T02:57:08.594627+00:00",
+      "tier": "groq",
+      "article": "US strikes on Iran \u2018won't be over for a bit\u2019 \u2014 CNN source"
+    },
+    {
+      "timestamp": "2026-07-08T02:57:45.426903+00:00",
+      "tier": "groq",
+      "article": "Venezuela earthquake death toll tops 3,500"
     }
   ]
 }
