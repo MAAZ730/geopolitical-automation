@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4591,
+  "total_calls": 4595,
   "tiers": {
-    "groq": 4572,
+    "groq": 4576,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T03:42:53.275929+00:00",
-      "tier": "groq",
-      "article": "Putin congratulates Trump on 250th anniversary of US independence"
-    },
-    {
-      "timestamp": "2026-07-05T03:43:33.185343+00:00",
-      "tier": "groq",
-      "article": "This immigrant served in the US military. Now he faces deportation"
-    },
-    {
-      "timestamp": "2026-07-05T03:44:22.229456+00:00",
-      "tier": "groq",
-      "article": "Medvedev praises Konstantinovka\u2019s liberation as crucial to achieving special op goals"
-    },
-    {
-      "timestamp": "2026-07-05T03:45:08.132117+00:00",
-      "tier": "groq",
-      "article": "Martyred Leader saw Islamic unity as bulwark against enemies, official says"
-    },
     {
       "timestamp": "2026-07-05T07:31:21.456693+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T10:26:03.847426+00:00",
       "tier": "groq",
       "article": "US support for NATO slips after Trump criticism \u2013 poll"
+    },
+    {
+      "timestamp": "2026-07-08T14:23:20.284309+00:00",
+      "tier": "groq",
+      "article": "Gaza aid worker killed minutes before World Cup screening he organised"
+    },
+    {
+      "timestamp": "2026-07-08T14:23:55.923950+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone strike on Krasnodar-Melitopol passenger bus: what we know"
+    },
+    {
+      "timestamp": "2026-07-08T14:24:48.047647+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers"
+    },
+    {
+      "timestamp": "2026-07-08T14:25:05.239262+00:00",
+      "tier": "groq",
+      "article": "Eight NATO allies launch HALO satellite constellation initiative"
     }
   ]
 }
