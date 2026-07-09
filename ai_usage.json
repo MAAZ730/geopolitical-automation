@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4615,
+  "total_calls": 4619,
   "tiers": {
-    "groq": 4596,
+    "groq": 4600,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T19:25:18.723032+00:00",
-      "tier": "groq",
-      "article": "Judiciary chief vows to pursue justice for martyred Leader"
-    },
-    {
-      "timestamp": "2026-07-05T19:25:34.703282+00:00",
-      "tier": "groq",
-      "article": "Iranian mourners call for revenge for slain supreme leader (VIDEOS)"
-    },
-    {
-      "timestamp": "2026-07-05T19:26:00.803687+00:00",
-      "tier": "groq",
-      "article": "West\u2019s help to Kiev makes special military operation real war \u2014 Kremlin"
-    },
-    {
-      "timestamp": "2026-07-05T19:26:47.334606+00:00",
-      "tier": "groq",
-      "article": "Polish Defense Ministry to disclose information about military supplies to Kiev"
-    },
     {
       "timestamp": "2026-07-05T21:05:54.253316+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-09T03:38:52.802797+00:00",
       "tier": "groq",
       "article": "Trump declares US-Iran ceasefire \u2018over\u2019"
+    },
+    {
+      "timestamp": "2026-07-09T07:52:13.687981+00:00",
+      "tier": "groq",
+      "article": "US launches cruise missile attack on targets in northern Iran"
+    },
+    {
+      "timestamp": "2026-07-09T07:52:46.632411+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes US military bases in Kuwait and Bahrain after American assaults"
+    },
+    {
+      "timestamp": "2026-07-09T07:53:37.722668+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Tehran-Mashhad Railway Suspended after US Attack - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-09T07:54:27.056711+00:00",
+      "tier": "groq",
+      "article": "US and Denmark clash over Greenland again"
     }
   ]
 }
