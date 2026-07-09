@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4619,
+  "total_calls": 4623,
   "tiers": {
-    "groq": 4600,
+    "groq": 4604,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T21:05:54.253316+00:00",
-      "tier": "groq",
-      "article": "\"We will not leave assasins to run away with their crime\""
-    },
-    {
-      "timestamp": "2026-07-05T21:06:36.267257+00:00",
-      "tier": "groq",
-      "article": "Storm threat triggers chaotic evacuation ahead of Trump\u2019s speech (VIDEOS)"
-    },
-    {
-      "timestamp": "2026-07-05T21:06:55.375854+00:00",
-      "tier": "groq",
-      "article": "Police chief: Enemies have no choice but to understand resistance\u2019s strength"
-    },
-    {
-      "timestamp": "2026-07-05T21:07:16.439810+00:00",
-      "tier": "groq",
-      "article": "Ships use Iran-desingated route in Hormuz Strait"
-    },
     {
       "timestamp": "2026-07-05T23:05:08.742889+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-09T07:54:27.056711+00:00",
       "tier": "groq",
       "article": "US and Denmark clash over Greenland again"
+    },
+    {
+      "timestamp": "2026-07-09T11:00:33.759299+00:00",
+      "tier": "groq",
+      "article": "Amnesty International Accuses \u2018Israel\u2019 of War Crimes Over Lebanon Strikes That Wiped Out Entire Families - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-09T11:01:11.671471+00:00",
+      "tier": "groq",
+      "article": "FM denounces fresh US attacks against Iran as grave war crime"
+    },
+    {
+      "timestamp": "2026-07-09T11:02:05.274314+00:00",
+      "tier": "groq",
+      "article": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response"
+    },
+    {
+      "timestamp": "2026-07-09T11:02:21.282947+00:00",
+      "tier": "groq",
+      "article": "Mining in thought of Martyr Leader; from capacity, advantages of mining to replacing oil"
     }
   ]
 }
