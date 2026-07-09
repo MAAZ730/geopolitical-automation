@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4639,
+  "total_calls": 4643,
   "tiers": {
-    "groq": 4620,
+    "groq": 4624,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-06T16:53:44.840649+00:00",
-      "tier": "groq",
-      "article": "Lebanon latest: Teacher killed by Israeli airstrike"
-    },
-    {
-      "timestamp": "2026-07-06T16:54:00.960763+00:00",
-      "tier": "groq",
-      "article": "FACTBOX: Over 600 Ukrainian drones shot down over Russian regions overnight"
-    },
-    {
-      "timestamp": "2026-07-06T16:54:18.709440+00:00",
-      "tier": "groq",
-      "article": "Israeli attack on vehicle in Lebanon kills at least four"
-    },
-    {
-      "timestamp": "2026-07-06T16:54:34.626116+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s West battlegroup disrupts Ukrainian troop rotation near Krasny Liman"
-    },
     {
       "timestamp": "2026-07-06T20:04:40.107773+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-09T21:40:54.698104+00:00",
       "tier": "groq",
       "article": "Tehran summons UK envoy over accusations leveled against Iran"
+    },
+    {
+      "timestamp": "2026-07-09T23:17:15.123840+00:00",
+      "tier": "groq",
+      "article": "Russian troops strike Ukrainian army\u2019s logistics centers, energy sites in past day"
+    },
+    {
+      "timestamp": "2026-07-09T23:17:33.135868+00:00",
+      "tier": "groq",
+      "article": "US strikes kill three people, injure 15 others in Iranian city of Sirik \u2014 agency"
+    },
+    {
+      "timestamp": "2026-07-09T23:17:51.348632+00:00",
+      "tier": "groq",
+      "article": "Patriot missile production cycle to take years to fill out \u2014 Ukrainian Defense Ministry"
+    },
+    {
+      "timestamp": "2026-07-09T23:18:16.400756+00:00",
+      "tier": "groq",
+      "article": "Scott Ritter: NATO is spending itself into oblivion"
     }
   ]
 }

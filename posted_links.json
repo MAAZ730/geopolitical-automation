@@ -1,4 +1,34 @@
 {
+  "113edffd6d8d86c1f93ea28c3246d25c3b271ab6383aa5b78caf0111fef6b0be": {
+    "url": "militarywave/24290",
+    "title": "Iranian Film Festival Honors RT.Doc for Countering Western Propaganda",
+    "published": "2026-07-09T23:26:01.417178+00:00"
+  },
+  "e32d229e8932d8118c7a84d6144a6d5d4968b45d12e1ea8af264a006c2033190": {
+    "url": "militarywave/24296",
+    "title": "Ural Federal District Envoy Congratulates RT.Doc on 15th Anniversary",
+    "published": "2026-07-09T23:24:16.492931+00:00"
+  },
+  "6412cfa1efbb881594382bc79a76b8105e157dacca9cf85904b2316c506518d1": {
+    "url": "militarywave/24301",
+    "title": "Italian Journalist Commends News Outlet for Uncovering Hidden Truths at Bologna Festival",
+    "published": "2026-07-09T23:21:33.281889+00:00"
+  },
+  "14766dfe49ba12fdc72ebc460448e38ea39ad5e0e985f2590869ceda9ad07dc5": {
+    "url": "QudsNen/230607",
+    "title": "Israeli Soldier Kills Gaza Aid Driver Amid Coordinated Humanitarian Convoy",
+    "published": "2026-07-09T23:18:48.218416+00:00"
+  },
+  "86607555356e868d2038a7023020befb936d52308d79a9e94fef724c4b88783f": {
+    "url": "QudsNen/230612",
+    "title": "UK Lawyer Warns of ICC Integrity Risk in Khan Disciplinary Process",
+    "published": "2026-07-09T23:18:47.007946+00:00"
+  },
+  "f2e59b68a3bedff6d13bcd02c84f1d50c0ec6501fbd72dc7c4ccde99b43b0bb9": {
+    "url": "QudsNen/230618",
+    "title": "Israeli Forces Raid Al-Mughayyir, Injure Six Palestinians",
+    "published": "2026-07-09T23:18:45.845947+00:00"
+  },
   "f72afe8e5aa9bb8ad0183d19bb60d6f5145229b8b2055f4cad2f8a8f86fe33cd": {
     "url": "BellumActaNews/175123",
     "title": "Hezbollah Holds Symbolic Funeral in Ghaziyeh to Honor Iran's Late Leader",
@@ -144,6 +174,11 @@
     "title": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative",
     "published": "2026-07-09T14:33:09+00:00"
   },
+  "6ae8927dad2f8e51689bc929dca3eb291145a3237e6319c044a688e668b132b8": {
+    "url": "https://tass.com/economy/2158227",
+    "title": "Patriot missile production cycle to take years to fill out \u2014 Ukrainian Defense Ministry",
+    "published": "2026-07-09T13:56:28+00:00"
+  },
   "969a821e20e1ed140ac29754fdba2889f41b11fa22f67deb943d3f299d781f87": {
     "url": "https://english.almanar.com.lb/article/102227/",
     "title": "Sirens Sound in Jordan, US Embassy Staff Ordered to Shelter - Al-Manar TV Lebanon",
@@ -163,6 +198,16 @@
     "url": "https://thecradle.co/articles-id/38692",
     "title": "Iranian missiles hit US base in Jordan as IRGC continues retaliatory ops",
     "published": "2026-07-09T12:33:03+00:00"
+  },
+  "cf245b6fb843a6778cad8d7e723dc15dc5a3806a56da6f0380ccd8ff3c67ce37": {
+    "url": "https://tass.com/politics/2158159",
+    "title": "Russian troops strike Ukrainian army\u2019s logistics centers, energy sites in past day",
+    "published": "2026-07-09T12:30:29+00:00"
+  },
+  "aa8b27a9ae9955950698e2c3d2731eaa96f9fdf6e2a2f356d08b399d6d305747": {
+    "url": "https://tass.com/world/2158141",
+    "title": "US strikes kill three people, injure 15 others in Iranian city of Sirik \u2014 agency",
+    "published": "2026-07-09T12:09:48+00:00"
   },
   "4a39077780cf81fad98efd09fec85f2b0f56ac9e03f68101fa48f0d64122cedf": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
@@ -203,6 +248,11 @@
     "url": "https://en.mehrnews.com/news/246048/FM-denounces-fresh-US-attacks-against-Iran-as-grave-war-crime",
     "title": "FM denounces fresh US attacks against Iran as grave war crime",
     "published": "2026-07-09T10:47:19+00:00"
+  },
+  "e27c6450d94b9c87c27dc5075ed1bdc63fc9a56d889d81ec86a66ce313a6b86d": {
+    "url": "https://www.rt.com/news/642797-nato-military-spending-oblivion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Scott Ritter: NATO is spending itself into oblivion",
+    "published": "2026-07-09T10:24:18+00:00"
   },
   "5dbf9f8d2f6ef62c35674ab727f7a5501aa545419435dddcc4ba73d06e43c8cf": {
     "url": "https://english.almanar.com.lb/article/102017/",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/188386",
     "title": "Kiev Under Fire: Ballistic Missiles Strike Ukrainian Capital",
     "published": "2026-07-08T02:58:34.694350+00:00"
-  },
-  "5c441cff08d242949952f2ecff1cceac387857578d97cfa6341d78da1b1890cd": {
-    "url": "QudsNen/230349",
-    "title": "Israeli Tanks Open Fire in Al-Bureij Refugee Camp, Gaza Strip",
-    "published": "2026-07-08T02:58:03.901392+00:00"
-  },
-  "b741fb22da8218de99991f89a078657f3f53d3e2ac4b17e02a29c41e7d2f367b": {
-    "url": "Middle_East_Spectator/34330",
-    "title": "Iran Confirms Launch of Anti-Ship Missiles in Persian Gulf",
-    "published": "2026-07-08T02:57:55.797773+00:00"
-  },
-  "513d247d8bcfb3b6de2d30f23c1e8cbad644c25970a846e449e1bea3ba46302d": {
-    "url": "DDGeopolitics/188389",
-    "title": "US Conducts Airstrikes Against Iranian Targets Amid Tensions",
-    "published": "2026-07-07T23:14:27.793039+00:00"
-  },
-  "91cd11ceef293468b749358b41be35c960e76483f0bc593019e3e7a15d940ff2": {
-    "url": "QudsNen/230331",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-07-07T23:13:32.547850+00:00"
-  },
-  "3606a4265b6e1a2e3a9475a37d12de45171794104efe0b6b57b211e2f70d1939": {
-    "url": "Middle_East_Spectator/34295",
-    "title": "IRGC Navy Speedboat Attacked in Tahuyeh",
-    "published": "2026-07-07T23:12:54.958956+00:00"
-  },
-  "63eaa98cad3258bf69a5fa4b03f8dc434d4a6f8082725df903c8f0259cfbe203": {
-    "url": "Middle_East_Spectator/34297",
-    "title": "CENTCOM Strikes Target Iranian Interests",
-    "published": "2026-07-07T23:12:53.966013+00:00"
-  },
-  "38a51ec266f983889aaced2d3c6b6b8f46963a327ecd6047913a499cb9db6945": {
-    "url": "Middle_East_Spectator/34300",
-    "title": "US Airstrike Hits Shaheed Haqqani Port in Bandar Abbas",
-    "published": "2026-07-07T23:12:53.279520+00:00"
-  },
-  "9734d2b88ae29348619ad8440ff1735a8950513f6e0e45271612eead283cd6a8": {
-    "url": "thecradlemedia/63594",
-    "title": "US Missiles Strike Shahid Haghani Port in Bandar Abbas",
-    "published": "2026-07-07T23:12:38.100776+00:00"
-  },
-  "1da8fc5ae2a4e59e9702efd1198ca323ae2d613e8c6dc13d65242d9532019f88": {
-    "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week?traffic_source=rss",
-    "title": "Russian missiles strike Ukraine\u2019s capital, Kyiv, for third time in a week",
-    "published": "2026-07-07T22:53:35+00:00"
-  },
-  "4fcf6ac473c6180e9dc763543a862727857d01f5d2efef1aa9c6ffe43ad0016e": {
-    "url": "https://tass.com/world/2157181",
-    "title": "US strikes on Iran \u2018won't be over for a bit\u2019 \u2014 CNN source",
-    "published": "2026-07-07T22:31:42+00:00"
   }
 }
