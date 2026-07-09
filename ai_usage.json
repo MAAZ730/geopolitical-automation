@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4635,
+  "total_calls": 4639,
   "tiers": {
-    "groq": 4616,
+    "groq": 4620,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-06T13:52:22.939891+00:00",
-      "tier": "groq",
-      "article": "Four Palestinians Martyred, Others Injured as Israeli Occupation Proceeds Gaza Ceasefire Violations - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-06T13:52:59.019385+00:00",
-      "tier": "groq",
-      "article": "Russian air defenses intercept Ukrainian strike drones\u2019 attack in Siberia\u2019s Omsk"
-    },
-    {
-      "timestamp": "2026-07-06T13:53:17.465321+00:00",
-      "tier": "groq",
-      "article": "South Lebanon Under Continued Israeli Fire as Drone Strike and Demolitions Reported - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-06T13:53:57.388068+00:00",
-      "tier": "groq",
-      "article": "Mourners fly red flags, calling for avenging Leader's blood"
-    },
     {
       "timestamp": "2026-07-06T16:53:44.840649+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-09T20:02:40.810942+00:00",
       "tier": "groq",
       "article": "Iran condemns Trump\u2019s \u2018vulgar\u2019 remarks as US strikes resume"
+    },
+    {
+      "timestamp": "2026-07-09T21:39:40.553660+00:00",
+      "tier": "groq",
+      "article": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike"
+    },
+    {
+      "timestamp": "2026-07-09T21:40:20.684801+00:00",
+      "tier": "groq",
+      "article": "Sound of explosion in Bushehr caused by air defense engagement"
+    },
+    {
+      "timestamp": "2026-07-09T21:40:38.663862+00:00",
+      "tier": "groq",
+      "article": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative"
+    },
+    {
+      "timestamp": "2026-07-09T21:40:54.698104+00:00",
+      "tier": "groq",
+      "article": "Tehran summons UK envoy over accusations leveled against Iran"
     }
   ]
 }
