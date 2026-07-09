@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4631,
+  "total_calls": 4635,
   "tiers": {
-    "groq": 4612,
+    "groq": 4616,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-06T08:27:10.058150+00:00",
-      "tier": "groq",
-      "article": "One killed in Crimea, two injured in Yaroslavl as Russian air defenses down 519 drones"
-    },
-    {
-      "timestamp": "2026-07-06T08:27:27.842524+00:00",
-      "tier": "groq",
-      "article": "China missile test draws criticism from Australia, New Zealand, Japan"
-    },
-    {
-      "timestamp": "2026-07-06T08:28:03.036762+00:00",
-      "tier": "groq",
-      "article": "Iran turns Hormuz Strait into strategic lever against rivals"
-    },
-    {
-      "timestamp": "2026-07-06T08:28:21.034303+00:00",
-      "tier": "groq",
-      "article": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say"
-    },
     {
       "timestamp": "2026-07-06T13:52:22.939891+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-09T18:00:57.539647+00:00",
       "tier": "groq",
       "article": "US has no choice but to recognize 'new order' in Hormuz: MP"
+    },
+    {
+      "timestamp": "2026-07-09T20:00:57.884801+00:00",
+      "tier": "groq",
+      "article": "Israeli attacks on Gaza kill 10 people in 24 hours despite \u2018ceasefire\u2019"
+    },
+    {
+      "timestamp": "2026-07-09T20:01:37.152090+00:00",
+      "tier": "groq",
+      "article": "Sirens Sound in Jordan, US Embassy Staff Ordered to Shelter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-09T20:02:24.616312+00:00",
+      "tier": "groq",
+      "article": "Germany to buy US Tomahawks in shift toward own long-range capability"
+    },
+    {
+      "timestamp": "2026-07-09T20:02:40.810942+00:00",
+      "tier": "groq",
+      "article": "Iran condemns Trump\u2019s \u2018vulgar\u2019 remarks as US strikes resume"
     }
   ]
 }
