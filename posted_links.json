@@ -1,4 +1,34 @@
 {
+  "2b57167a53ebffa87d4a0cc052b521f2b4701c0d5ae7a2a8a7c35edd3ee3cf33": {
+    "url": "DDGeopolitics/188556",
+    "title": "Iranian Protesters Chant 'Revenge' at Imam Reza Shrine in Mashhad",
+    "published": "2026-07-09T18:07:21.917660+00:00"
+  },
+  "91f0e246c07aa4ad77c18f12c83599e7d7472d798d2da7a6ab12e18648430cf6": {
+    "url": "DDGeopolitics/188558",
+    "title": "Russian Strike on Vizar Plant in Kiev Leaves Trail of Destruction",
+    "published": "2026-07-09T18:06:07.404519+00:00"
+  },
+  "448c4d4b019423dac596c1bdb30f053430c14d6bb7b0203bada4747b24d36854": {
+    "url": "DDGeopolitics/188566",
+    "title": "Iranians Chant Anti-Government Slogans at Imam Reza Shrine Funeral",
+    "published": "2026-07-09T18:04:26.011017+00:00"
+  },
+  "d9b37f72e9e01c504551471ce003300d10fb7e2e22b920ead3e13d797cbd5c14": {
+    "url": "QudsNen/230592",
+    "title": "Settler Violence Erupts in Deir Jarir",
+    "published": "2026-07-09T18:01:27.452766+00:00"
+  },
+  "32f9ab9d0a0da45fafd7e06de56742749f781e094c7136f162e3a0a06ee6da47": {
+    "url": "thecradlemedia/63759",
+    "title": "Israel Conducts Aerial Campaign Against South Lebanon Villages",
+    "published": "2026-07-09T18:01:03.235076+00:00"
+  },
+  "59eaa43795505d33a27c4d418cefbac8025d418933db366e1e83edac38b726d0": {
+    "url": "thecradlemedia/63760",
+    "title": "Trump's Ties to Arms Firms Profiting from Iran Conflict",
+    "published": "2026-07-09T18:01:02.196489+00:00"
+  },
   "72693944e32ae04db89b85dd78cbaf40bd013e6cdf02df528cad7e19050a33c0": {
     "url": "QudsNen/230561",
     "title": "Israeli Drone Strike Kills Palestinian in Gaza City",
@@ -28,6 +58,16 @@
     "url": "thecradlemedia/63754",
     "title": "Iran's Late Supreme Leader and Family Members Laid to Rest in Mashhad",
     "published": "2026-07-09T15:28:26.269622+00:00"
+  },
+  "b28e4dab98f728fa2e9d78f9fc1c5e05e84bead38d0a8c76d791874b7168a6d9": {
+    "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+    "title": "US-Iran strikes: Strait of Hormuz ship traffic falls steeply",
+    "published": "2026-07-09T14:41:54+00:00"
+  },
+  "789f26fbce35e6ee3d0ef6e2d18c6ca4ae21bbceca8b58dfb2c541d47f306e47": {
+    "url": "https://tass.com/defense/2158189",
+    "title": "Aist reconnaissance-strike system was demonstrated in Kazan",
+    "published": "2026-07-09T13:06:35+00:00"
   },
   "e47481e6a8769d93451b6116835a2096da9e1b183dac1655fd2cd9086e23a1c1": {
     "url": "https://thecradle.co/articles-id/38692",
@@ -123,6 +163,11 @@
     "url": "https://en.irna.ir/news/86204627/IRGC-strikes-US-military-bases-in-Kuwait-and-Bahrain-after-American",
     "title": "IRGC strikes US military bases in Kuwait and Bahrain after American assaults",
     "published": "2026-07-09T06:12:27+00:00"
+  },
+  "264319d429596da844b41c36d6dbdedff272c0bd2ae7603957ba22db494431c2": {
+    "url": "https://en.mehrnews.com/news/246040/Rail-traffic-btw-Tehran-Mashhad-disrupted-after-US-attacks",
+    "title": "Rail traffic btw Tehran, Mashhad disrupted after US attacks",
+    "published": "2026-07-09T06:02:23+00:00"
   },
   "de269bb4ca538a8c70a65388fac3fc119ea47c412d19d9b37c9cdd4fe3856267": {
     "url": "https://en.mehrnews.com/news/246039/US-launches-cruise-missile-attack-on-targets-in-northern-Iran",
@@ -283,6 +328,11 @@
     "url": "Middle_East_Spectator/34372",
     "title": "Iran Downs US MQ-9 Reaper Drone Amid Ongoing Military Strikes",
     "published": "2026-07-08T19:41:51.409334+00:00"
+  },
+  "fc1722603a639997388a49a88957c73316fdffdb2c256148ce9c9019154f3725": {
+    "url": "https://en.mehrnews.com/news/246031/US-has-no-choice-but-to-recognize-new-order-in-Hormuz-MP",
+    "title": "US has no choice but to recognize 'new order' in Hormuz: MP",
+    "published": "2026-07-08T18:07:36+00:00"
   },
   "558f4888dcaf19e4e43f33c07280f9e50b159161f7b62dba434e121b1b6d498d": {
     "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/63558",
     "title": "Trump Signals Possible F-35 Sale to Turkiye Amid Strong Bilateral Ties",
     "published": "2026-07-07T14:52:04.234553+00:00"
-  },
-  "22c65ab91212094007a8fc188f43fc8a542a7a691074003413ec1147af80c622": {
-    "url": "thecradlemedia/63565",
-    "title": "Israeli Forces Kill Four Civilians in Nabatieh Shelling",
-    "published": "2026-07-07T14:49:59.744748+00:00"
-  },
-  "91cd56b9a64454c29978c040da300407e5fa041224731687698a0d790891a304": {
-    "url": "https://www.defensenews.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/",
-    "title": "US will lift sanctions on Turkey, possibly sell F-35 fighter jets, Trump says",
-    "published": "2026-07-07T14:49:03+00:00"
-  },
-  "6496f3ed5884fde9caf0a9d3b6203529d58757d9b498df562f2c12cae9005f64": {
-    "url": "thecradlemedia/63570",
-    "title": "Tanker Sustains Minor Damage in Strait of Hormuz UAV Incident",
-    "published": "2026-07-07T14:46:59.733303+00:00"
-  },
-  "5ddb86da5dc98f5d9ce0b6c6c11d53a066806851aba9a203aff575a4f4e5d9a1": {
-    "url": "thecradlemedia/63576",
-    "title": "Turkey Commits to Acquiring Long-Range Atmaca Cruise Missiles",
-    "published": "2026-07-07T14:46:50.770060+00:00"
-  },
-  "6c0fad4a2f189f931a0ff39176221506afd6139878542b4e6bf5f70ac45e8e27": {
-    "url": "https://english.almanar.com.lb/article/101227/",
-    "title": "Lebanon PM Offers Condolences to Family of Martyred School Principal in Nabatieh, Calls for Immediate Israeli Withdrawal - Al-Manar TV Lebanon",
-    "published": "2026-07-07T14:10:24+00:00"
-  },
-  "ef91b83f2be6e3c68b2a20d25d761f1667206ad478b0f6a1cd838e584fabb39c": {
-    "url": "https://www.rt.com/news/642677-kiev-moscow-drone-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Kiev lit the fuse \u2013 Russia lit up Kiev",
-    "published": "2026-07-07T13:46:33+00:00"
-  },
-  "8c5d03fc09da9f3b0b102f18f419b2110bd6c8875479f184165e57b12fa634d3": {
-    "url": "https://tass.com/politics/2156855",
-    "title": "Russian forces hit rail locomotives, trucks in Dnepropetrovsk Region \u2014 Defense Ministry",
-    "published": "2026-07-07T12:40:46+00:00"
-  },
-  "85603b50d1e8da5836e2e2384f4dc3a96fa4db2ddcf00966dd35915a8815e2e8": {
-    "url": "https://www.rt.com/news/642663-rick-sanchez-russia-kiev-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Rick Sanchez examines Russia\u2019s strikes on Kiev and liberation of Konstantinovka (VIDEO)",
-    "published": "2026-07-07T11:26:20+00:00"
-  },
-  "a4dd86e4d70102215fc3cf5fc4611786ccd69c8ed051ae306efe53cb78391de2": {
-    "url": "DDGeopolitics/188305",
-    "title": "US to Produce Abrams Tanks and Missiles in Europe Amid Defense Efforts",
-    "published": "2026-07-07T11:23:23.521324+00:00"
-  },
-  "3d71ab1064a251af48c7faa5de23553f78306598d3a35ca9542160f6b69625f6": {
-    "url": "DDGeopolitics/188314",
-    "title": "NATO Boosts Artillery Shell Production Capacity",
-    "published": "2026-07-07T11:21:20.999289+00:00"
   }
 }

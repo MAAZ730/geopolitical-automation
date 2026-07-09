@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4627,
+  "total_calls": 4631,
   "tiers": {
-    "groq": 4608,
+    "groq": 4612,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-06T03:54:26.434361+00:00",
-      "tier": "groq",
-      "article": "Ukrainian forces attack DPR territory 22 times over past day"
-    },
-    {
-      "timestamp": "2026-07-06T03:55:06.851327+00:00",
-      "tier": "groq",
-      "article": "How Iran's new regime is very different to what came before"
-    },
-    {
-      "timestamp": "2026-07-06T03:55:53.673096+00:00",
-      "tier": "groq",
-      "article": "Iran army spox vows crushing response to any miscalculation"
-    },
-    {
-      "timestamp": "2026-07-06T03:56:12.151016+00:00",
-      "tier": "groq",
-      "article": "Regional resistance factions meet with Iran FM on sidelines of Khamenei\u2019s funeral"
-    },
     {
       "timestamp": "2026-07-06T08:27:10.058150+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-09T15:27:39.465094+00:00",
       "tier": "groq",
       "article": "UK police shield rape suspects from furious crowd in Scotland"
+    },
+    {
+      "timestamp": "2026-07-09T17:59:38.687508+00:00",
+      "tier": "groq",
+      "article": "US-Iran strikes: Strait of Hormuz ship traffic falls steeply"
+    },
+    {
+      "timestamp": "2026-07-09T18:00:20.902069+00:00",
+      "tier": "groq",
+      "article": "Rail traffic btw Tehran, Mashhad disrupted after US attacks"
+    },
+    {
+      "timestamp": "2026-07-09T18:00:38.911341+00:00",
+      "tier": "groq",
+      "article": "Aist reconnaissance-strike system was demonstrated in Kazan"
+    },
+    {
+      "timestamp": "2026-07-09T18:00:57.539647+00:00",
+      "tier": "groq",
+      "article": "US has no choice but to recognize 'new order' in Hormuz: MP"
     }
   ]
 }
