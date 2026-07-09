@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4611,
+  "total_calls": 4615,
   "tiers": {
-    "groq": 4592,
+    "groq": 4596,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-05T17:17:56.272108+00:00",
-      "tier": "groq",
-      "article": "50 Houthi fighters killed in renewed clashes in Yemen"
-    },
-    {
-      "timestamp": "2026-07-05T17:18:12.845045+00:00",
-      "tier": "groq",
-      "article": "Yemen&#039;s Ansarallah kills over a dozen troops in \u2018deadliest\u2019 attack on Saudi-led coalition in years"
-    },
-    {
-      "timestamp": "2026-07-05T17:18:41.349614+00:00",
-      "tier": "groq",
-      "article": "Humble and righteous: From birth to final breath"
-    },
-    {
-      "timestamp": "2026-07-05T17:19:30.586548+00:00",
-      "tier": "groq",
-      "article": "EU is moving from \u2018let\u2019s trade\u2019 to \u2018let\u2019s go to war\u2019, ex-Austrian FM Karin Kneissl says"
-    },
     {
       "timestamp": "2026-07-05T19:25:18.723032+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-08T23:17:50.247171+00:00",
       "tier": "groq",
       "article": "Iran's chief negotiator slams US violations of MoU"
+    },
+    {
+      "timestamp": "2026-07-09T03:37:37.819672+00:00",
+      "tier": "groq",
+      "article": "Trumps says US will deliver 20 strikes on Iran in response of each of its attacks"
+    },
+    {
+      "timestamp": "2026-07-09T03:38:16.518556+00:00",
+      "tier": "groq",
+      "article": "US resumes strikes on Iran"
+    },
+    {
+      "timestamp": "2026-07-09T03:38:34.794994+00:00",
+      "tier": "groq",
+      "article": "Explosions reported in south Iran as result of US strikes"
+    },
+    {
+      "timestamp": "2026-07-09T03:38:52.802797+00:00",
+      "tier": "groq",
+      "article": "Trump declares US-Iran ceasefire \u2018over\u2019"
     }
   ]
 }
