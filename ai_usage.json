@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4659,
+  "total_calls": 4663,
   "tiers": {
-    "groq": 4640,
+    "groq": 4644,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-07T11:13:21.624163+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks on medical facilities constitute serious war crime \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-07-07T11:13:55.610941+00:00",
-      "tier": "groq",
-      "article": "Palestinian martyred, others injured as Israeli drone strikes near entrance to Al-Sumoud refugee camp, west of Gaza\u2019s Khan Younis: Palestinian media - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-07T11:14:48.017922+00:00",
-      "tier": "groq",
-      "article": "Gathering Clouds: Building Digital Strategic Depth in the Compute Age"
-    },
-    {
-      "timestamp": "2026-07-07T11:15:04.181877+00:00",
-      "tier": "groq",
-      "article": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal"
-    },
     {
       "timestamp": "2026-07-07T14:45:06.136407+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T14:37:44.133305+00:00",
       "tier": "groq",
       "article": "Israel wipes out villages in south Lebanon, says &#039;no need for permission&#039; to maintain occupation"
+    },
+    {
+      "timestamp": "2026-07-10T17:52:14.622855+00:00",
+      "tier": "groq",
+      "article": "Israeli drones strike Lebanon despite US-brokered framework deal"
+    },
+    {
+      "timestamp": "2026-07-10T17:52:57.714713+00:00",
+      "tier": "groq",
+      "article": "Iran condemns fresh US strikes, warns of retaliation while pursuing regional diplomacy"
+    },
+    {
+      "timestamp": "2026-07-10T17:53:43.394637+00:00",
+      "tier": "groq",
+      "article": "Qatari wealth fund vetoes Volkswagen plan to build missiles for Israel"
+    },
+    {
+      "timestamp": "2026-07-10T17:54:01.588540+00:00",
+      "tier": "groq",
+      "article": "How T\u00fcrkiye went from problem child to power broker in NATO"
     }
   ]
 }
