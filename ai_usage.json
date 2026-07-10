@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4655,
+  "total_calls": 4659,
   "tiers": {
-    "groq": 4636,
+    "groq": 4640,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-07T07:43:04.859873+00:00",
-      "tier": "groq",
-      "article": "A Nation Bids Farewell: Millions Pack Qom for Funeral Prayers of Martyred Leader Imam Khamenei in Qom - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-07T07:43:49.853463+00:00",
-      "tier": "groq",
-      "article": "Palestine weekly: One thousand days of genocide in Gaza"
-    },
-    {
-      "timestamp": "2026-07-07T07:44:38.929770+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks kill 38 Russian civilians, including child, in past week \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-07-07T07:45:31.582061+00:00",
-      "tier": "groq",
-      "article": "Difference in objective function; a framework for understanding economic thought of martyred Leader"
-    },
     {
       "timestamp": "2026-07-07T11:13:21.624163+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T11:02:16.187548+00:00",
       "tier": "groq",
       "article": "Araghchi spoke with his Turkish, Omani counterparts on Hormuz"
+    },
+    {
+      "timestamp": "2026-07-10T14:36:24.915485+00:00",
+      "tier": "groq",
+      "article": "Iran strongly condemns deadly terrorist attacks in Pakistan"
+    },
+    {
+      "timestamp": "2026-07-10T14:37:06.462447+00:00",
+      "tier": "groq",
+      "article": "Russian troops liberate seven communities in Ukraine operation over week \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-10T14:37:25.338142+00:00",
+      "tier": "groq",
+      "article": "Deputy PM Novak reports fuel shortages in Russia due to drone strikes on refineries"
+    },
+    {
+      "timestamp": "2026-07-10T14:37:44.133305+00:00",
+      "tier": "groq",
+      "article": "Israel wipes out villages in south Lebanon, says &#039;no need for permission&#039; to maintain occupation"
     }
   ]
 }

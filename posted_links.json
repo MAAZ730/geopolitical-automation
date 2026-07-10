@@ -1,4 +1,49 @@
 {
+  "e2cc2e5f8a57f39a2fe060755c64d28970058b39364308de01237b6ae96d986f": {
+    "url": "intelslava/90155",
+    "title": "Fire Engulfs Kiev Region After Drone Strike",
+    "published": "2026-07-10T14:43:10.499310+00:00"
+  },
+  "498d49118a38242fb6e986253d40bfc8c27a782af2123ee468758a330f1afaf9": {
+    "url": "militarywave/24304",
+    "title": "Russian Soldier Defends Captured Stronghold for Three Weeks",
+    "published": "2026-07-10T14:42:40.023093+00:00"
+  },
+  "0bc9eb95241596e9a2b8a08d56f4eb6e8769f76b8465dd78b0682cb09ade3df2": {
+    "url": "militarywave/24307",
+    "title": "French Intelligence Sinks Greenpeace's Rainbow Warrior in Auckland Harbor",
+    "published": "2026-07-10T14:40:04.003135+00:00"
+  },
+  "2dc596e46c5945bed4f246048bd0ea24483d9b374c3deacdb1c67ced74c8a607": {
+    "url": "thecradlemedia/63802",
+    "title": "Israeli Settler Allegedly Drives Sheep into Palestinian Olive Groves in Huwara",
+    "published": "2026-07-10T14:39:12.839315+00:00"
+  },
+  "2f23a463aca9c5eeba1b779a5ffb3596583bff24054004f46ff3c843266e0621": {
+    "url": "thecradlemedia/63816",
+    "title": "Israeli Forces Detain Palestinian Nurse Amid Gaza Hospital Raid",
+    "published": "2026-07-10T14:37:54.981236+00:00"
+  },
+  "ce708e69cad73574a1d62bffbc5ca9ffeaaff7c5a7818262d2befebb78246e2c": {
+    "url": "thecradlemedia/63817",
+    "title": "Qatar Blocks Volkswagen-Israel Defense Deal Over Diplomatic Tensions",
+    "published": "2026-07-10T14:37:48.686962+00:00"
+  },
+  "67d3ae02e2d1a918bb076038ae864b50c0c059e54d3d5bbcf675b10a143d30be": {
+    "url": "https://en.mehrnews.com/news/246073/Iran-strongly-condemns-deadly-terrorist-attacks-in-Pakistan",
+    "title": "Iran strongly condemns deadly terrorist attacks in Pakistan",
+    "published": "2026-07-10T12:48:57+00:00"
+  },
+  "b8cfd17f1e4bcc0292beb4c7e6c3b18d678b00ae4da4ac7f71e708575bf00a80": {
+    "url": "https://tass.com/politics/2158715",
+    "title": "Russian troops liberate seven communities in Ukraine operation over week \u2014 top brass",
+    "published": "2026-07-10T12:46:18+00:00"
+  },
+  "d3cfecceeacea809ecb1da337cc48cdd4ef2048bd8d6d9d5074e2a835b4fc3a9": {
+    "url": "https://tass.com/economy/2158691",
+    "title": "Deputy PM Novak reports fuel shortages in Russia due to drone strikes on refineries",
+    "published": "2026-07-10T12:14:51+00:00"
+  },
   "3fe6a791d6732887c833fac4dce4c0f8729b0688e803751011e1fac0f4d6bb0d": {
     "url": "DDGeopolitics/188597",
     "title": "Drone Strike Ignites Fire in Kiev Region",
@@ -288,6 +333,11 @@
     "url": "thecradlemedia/63754",
     "title": "Iran's Late Supreme Leader and Family Members Laid to Rest in Mashhad",
     "published": "2026-07-09T15:28:26.269622+00:00"
+  },
+  "9a0ea9f80d94823048f6216115d5963fe1afc09aaa3d216a0988561129e7cebb": {
+    "url": "https://thecradle.co/articles-id/38700",
+    "title": "Israel wipes out villages in south Lebanon, says &#039;no need for permission&#039; to maintain occupation",
+    "published": "2026-07-09T15:12:07+00:00"
   },
   "6b7023b5905c19b1d00b5d1369346e33b1ead64650ea79b4a6d8b2f16f8c387a": {
     "url": "https://en.mehrnews.com/news/246059/Araghchi-spoke-with-his-Turkish-Omani-counterparts-on-Hormuz",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/188462",
     "title": "US Approves License for Ukraine to Produce Patriot Missiles",
     "published": "2026-07-08T14:28:06.241036+00:00"
-  },
-  "9538ecf4ff5e5ce4a80eebd0288fe5d1c705eab0026e01626ed3e6a9ddcd2e4f": {
-    "url": "Middle_East_Spectator/34378",
-    "title": "US President Trump Accuses Japan of Missile Strike on Aircraft Carrier",
-    "published": "2026-07-08T14:26:32.631254+00:00"
-  },
-  "5a320315af00192989bd0d3db9a9f577c4f0845084f119e1801308db8c873481": {
-    "url": "thecradlemedia/63655",
-    "title": "US-Iran Tensions Escalate Amid Renewed Attacks",
-    "published": "2026-07-08T14:26:00.769086+00:00"
-  },
-  "359f0043dfcd6468e60ab3702522c311fed6bfcef222ab99d6b70fa88a91929f": {
-    "url": "thecradlemedia/63663",
-    "title": "UK Protesters Target Elbit Systems' Staffordshire Factory",
-    "published": "2026-07-08T14:25:59.150647+00:00"
-  },
-  "88359e05ccb4f6410381f0cee6b851ea2f5b4f1c614b6b3231402ade9c4bd7dd": {
-    "url": "thecradlemedia/63664",
-    "title": "Gaza Strip: Israeli Drone Strike Kills Four, Including Child",
-    "published": "2026-07-08T14:25:08.845731+00:00"
-  },
-  "2d4062971123af0029878d6d0de4a3293558518fbd27ce229e14668a132d70a9": {
-    "url": "https://thecradle.co/articles-id/38674",
-    "title": "Pentagon officials \u2018ignored warnings\u2019 of outdated intel ahead of Minab school massacre: Report",
-    "published": "2026-07-08T14:24:38+00:00"
-  },
-  "260de3c2f5263b1a342f4b9161c2124c1ef213d8ef08c8f68084c59821959101": {
-    "url": "https://tass.com/world/2157565",
-    "title": "US did not strike Kazakh-leased site in Iranian port, Astana says",
-    "published": "2026-07-08T13:41:07+00:00"
-  },
-  "d7a7741517b7901c230d3b756d13869b8660de7c2ea46ca77e215e6014c1d65f": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
-    "title": "Gaza aid worker killed minutes before World Cup screening he organised",
-    "published": "2026-07-08T12:36:43+00:00"
-  },
-  "be1eaef505724d692bce05090510d2648eff1bc67625b0d8a67fb6531f525829": {
-    "url": "https://tass.com/politics/2157487",
-    "title": "Ukrainian drone strike on Krasnodar-Melitopol passenger bus: what we know",
-    "published": "2026-07-08T12:36:38+00:00"
-  },
-  "41939ef4f4e0a8a1eebd13188612f9a29201506c6aefae997a8f24e20b1d0d68": {
-    "url": "https://www.tehrantimes.com/news/527966/Mining-in-thought-of-Martyr-Leader-from-capacity-advantages",
-    "title": "Mining in thought of Martyr Leader; from capacity, advantages of mining to replacing oil",
-    "published": "2026-07-08T11:14:38+00:00"
-  },
-  "724d819f0efd0fe6dcd11f72025c93e0b84b13ad5bf52d97d9325392d921fede": {
-    "url": "DDGeopolitics/188443",
-    "title": "EU Member States Limit Military Assistance to Ukraine Amid Ongoing Conflict",
-    "published": "2026-07-08T10:33:59.458809+00:00"
   }
 }
