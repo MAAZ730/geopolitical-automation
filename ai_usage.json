@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4643,
+  "total_calls": 4647,
   "tiers": {
-    "groq": 4624,
+    "groq": 4628,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-06T20:04:40.107773+00:00",
-      "tier": "groq",
-      "article": "Three women killed in deadliest Israeli attack on Lebanon since ceasefire"
-    },
-    {
-      "timestamp": "2026-07-06T20:05:22.540923+00:00",
-      "tier": "groq",
-      "article": "Russian strikes kill 20, exposing Ukraine\u2019s air-defense shortage "
-    },
-    {
-      "timestamp": "2026-07-06T20:05:38.967600+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike over 150 Ukrainian army deployment sites in past day \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-07-06T20:05:56.898611+00:00",
-      "tier": "groq",
-      "article": "US, Israel forced to recognize Iran's allies in Resistance"
-    },
     {
       "timestamp": "2026-07-06T23:11:59.146111+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-09T23:18:16.400756+00:00",
       "tier": "groq",
       "article": "Scott Ritter: NATO is spending itself into oblivion"
+    },
+    {
+      "timestamp": "2026-07-10T03:41:19.819106+00:00",
+      "tier": "groq",
+      "article": "Iranian missiles pound enemy command-and-control center in West Asia: IRGC"
+    },
+    {
+      "timestamp": "2026-07-10T03:41:53.798850+00:00",
+      "tier": "groq",
+      "article": "Key US infrastructures in Kuwait, Bahrain hit in retaliation"
+    },
+    {
+      "timestamp": "2026-07-10T03:42:11.426281+00:00",
+      "tier": "groq",
+      "article": "Martyred Leader\u2019s funeral to go down in humanity\u2019s memory"
+    },
+    {
+      "timestamp": "2026-07-10T03:42:46.679958+00:00",
+      "tier": "groq",
+      "article": "Foreign Ministry: US attacks on southern and eastern Iran constitute war crimes"
     }
   ]
 }
