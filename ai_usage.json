@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4671,
+  "total_calls": 4675,
   "tiers": {
-    "groq": 4652,
+    "groq": 4656,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-07T21:29:37.448465+00:00",
-      "tier": "groq",
-      "article": "Lithuania receives another batch of Spike LR2 anti-tank missiles from Germany"
-    },
-    {
-      "timestamp": "2026-07-07T21:30:11.067536+00:00",
-      "tier": "groq",
-      "article": "Europe to have servicing center for Patriot missiles \u2014 Polish defense minister"
-    },
-    {
-      "timestamp": "2026-07-07T21:30:29.509895+00:00",
-      "tier": "groq",
-      "article": "Polish defense giant PGZ to produce Anduril\u2019s Barracuda cruise missile"
-    },
-    {
-      "timestamp": "2026-07-07T21:30:45.475135+00:00",
-      "tier": "groq",
-      "article": "Iran lashes out at German FM\u2019s rhetoric on Hormuz Strait"
-    },
     {
       "timestamp": "2026-07-07T23:09:59.467014+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T21:10:58.705842+00:00",
       "tier": "groq",
       "article": "Self-driving car turns teens over to police (VIDEO)"
+    },
+    {
+      "timestamp": "2026-07-10T23:03:42.039295+00:00",
+      "tier": "groq",
+      "article": "Israel prepared for any scenarios, either defensive or offensive \u2014 defense minister"
+    },
+    {
+      "timestamp": "2026-07-10T23:04:22.794557+00:00",
+      "tier": "groq",
+      "article": "Why Trump\u2019s Patriot license will be useless for Ukraine"
+    },
+    {
+      "timestamp": "2026-07-10T23:05:10.432142+00:00",
+      "tier": "groq",
+      "article": "NATO\u2019s claims on Iran nuke, Strait of Hormuz \u2018baseless\""
+    },
+    {
+      "timestamp": "2026-07-10T23:05:28.923124+00:00",
+      "tier": "groq",
+      "article": "Top Official Warns of Retaliation for Attacks on Iran\u2019s Infrastructure: \u2018Israel\u2019 Would Be Targeted - Al-Manar TV Lebanon"
     }
   ]
 }
