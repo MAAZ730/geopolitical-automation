@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4647,
+  "total_calls": 4651,
   "tiers": {
-    "groq": 4628,
+    "groq": 4632,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-06T23:11:59.146111+00:00",
-      "tier": "groq",
-      "article": "Russian rights commissioner sends appeals to UN over Ukrainian drone attack on bus"
-    },
-    {
-      "timestamp": "2026-07-06T23:12:32.791653+00:00",
-      "tier": "groq",
-      "article": "China test-launches nuclear-capable ballistic missile in Pacific Ocean"
-    },
-    {
-      "timestamp": "2026-07-06T23:13:22.326320+00:00",
-      "tier": "groq",
-      "article": "Poland hunts for whistleblowers who exposed secret arms deliveries to Kiev"
-    },
-    {
-      "timestamp": "2026-07-06T23:14:09.324610+00:00",
-      "tier": "groq",
-      "article": "Russia-China Joint Sea-2026 drills open in Qingdao"
-    },
     {
       "timestamp": "2026-07-07T03:43:39.168479+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T03:42:46.679958+00:00",
       "tier": "groq",
       "article": "Foreign Ministry: US attacks on southern and eastern Iran constitute war crimes"
+    },
+    {
+      "timestamp": "2026-07-10T07:39:23.453918+00:00",
+      "tier": "groq",
+      "article": "Southern Lebanon: Israeli Escalation Leaves Several Wounded in Ceasefire Breaches - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-10T07:39:56.090746+00:00",
+      "tier": "groq",
+      "article": "White House claims \u2018commitment\u2019 to Iran MoU as Israel preps for war"
+    },
+    {
+      "timestamp": "2026-07-10T07:40:43.987380+00:00",
+      "tier": "groq",
+      "article": "US prepared for potential strikes on Iran, conducting diplomacy for now \u2014 TV"
+    },
+    {
+      "timestamp": "2026-07-10T07:41:02.698114+00:00",
+      "tier": "groq",
+      "article": "Slain Iranian leader Khamenei's burial ceremony begins in Mashhad"
     }
   ]
 }
