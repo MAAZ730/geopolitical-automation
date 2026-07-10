@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4651,
+  "total_calls": 4655,
   "tiers": {
-    "groq": 4632,
+    "groq": 4636,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-07T03:43:39.168479+00:00",
-      "tier": "groq",
-      "article": "Ukrainian forces lose at least 37 gas stations in week and half"
-    },
-    {
-      "timestamp": "2026-07-07T03:44:13.120189+00:00",
-      "tier": "groq",
-      "article": "Hamas Calls for Intensifying Pressures on Israeli Enemy to Stop Crimes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-07T03:44:58.087509+00:00",
-      "tier": "groq",
-      "article": "Path of resistance against occupation and oppression to continue: Hamas member"
-    },
-    {
-      "timestamp": "2026-07-07T03:45:14.030765+00:00",
-      "tier": "groq",
-      "article": "A Catholic Security Scholar\u2019s Case for Responsible Military AI"
-    },
     {
       "timestamp": "2026-07-07T07:43:04.859873+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T07:41:02.698114+00:00",
       "tier": "groq",
       "article": "Slain Iranian leader Khamenei's burial ceremony begins in Mashhad"
+    },
+    {
+      "timestamp": "2026-07-10T11:00:36.840738+00:00",
+      "tier": "groq",
+      "article": "New US strikes on Iran receive unofficial designation Operation \"Bitch Slap\" \u2014 NYP"
+    },
+    {
+      "timestamp": "2026-07-10T11:01:11.645617+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent reports Israeli drone strike in the southern Lebanese town of Kfar Remman in Nabatieh district - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-10T11:01:57.521141+00:00",
+      "tier": "groq",
+      "article": "Maritime navigation center damaged in US strike on Iran's Chabahar port"
+    },
+    {
+      "timestamp": "2026-07-10T11:02:16.187548+00:00",
+      "tier": "groq",
+      "article": "Araghchi spoke with his Turkish, Omani counterparts on Hormuz"
     }
   ]
 }
