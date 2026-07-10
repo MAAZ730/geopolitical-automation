@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4667,
+  "total_calls": 4671,
   "tiers": {
-    "groq": 4648,
+    "groq": 4652,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-07T18:03:51.450141+00:00",
-      "tier": "groq",
-      "article": "US will lift sanctions on Turkey, possibly sell F-35 fighter jets, Trump says"
-    },
-    {
-      "timestamp": "2026-07-07T18:04:29.073683+00:00",
-      "tier": "groq",
-      "article": "Rick Sanchez examines Russia\u2019s strikes on Kiev and liberation of Konstantinovka (VIDEO)"
-    },
-    {
-      "timestamp": "2026-07-07T18:05:14.436843+00:00",
-      "tier": "groq",
-      "article": "Sharaa hosts Macron as terror attack hits Syrian capital"
-    },
-    {
-      "timestamp": "2026-07-07T18:05:31.820872+00:00",
-      "tier": "groq",
-      "article": "Canada picks Germany\u2019s TKMS for historic submarine buy, in nod to Europe"
-    },
     {
       "timestamp": "2026-07-07T21:29:37.448465+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T19:41:34.421222+00:00",
       "tier": "groq",
       "article": "Huge crowds in Mashhad for burial of Iran's late supreme leader"
+    },
+    {
+      "timestamp": "2026-07-10T21:08:45.417096+00:00",
+      "tier": "groq",
+      "article": "Zaporozhye nuke survived over 400 Ukrainian drone attacks since mid-March \u2014 Rosatom"
+    },
+    {
+      "timestamp": "2026-07-10T21:09:26.199692+00:00",
+      "tier": "groq",
+      "article": "Russian attacks kill five as Ukraine continues to target oil infrastructure"
+    },
+    {
+      "timestamp": "2026-07-10T21:10:11.569389+00:00",
+      "tier": "groq",
+      "article": "Lebanon historic sites destroyed by Israeli strikes"
+    },
+    {
+      "timestamp": "2026-07-10T21:10:58.705842+00:00",
+      "tier": "groq",
+      "article": "Self-driving car turns teens over to police (VIDEO)"
     }
   ]
 }
