@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4663,
+  "total_calls": 4667,
   "tiers": {
-    "groq": 4644,
+    "groq": 4648,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-07T14:45:06.136407+00:00",
-      "tier": "groq",
-      "article": "Kiev lit the fuse \u2013 Russia lit up Kiev"
-    },
-    {
-      "timestamp": "2026-07-07T14:45:47.111750+00:00",
-      "tier": "groq",
-      "article": "Russian forces hit rail locomotives, trucks in Dnepropetrovsk Region \u2014 Defense Ministry"
-    },
-    {
-      "timestamp": "2026-07-07T14:46:05.454255+00:00",
-      "tier": "groq",
-      "article": "Lebanon PM Offers Condolences to Family of Martyred School Principal in Nabatieh, Calls for Immediate Israeli Withdrawal - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-07T14:46:39.493975+00:00",
-      "tier": "groq",
-      "article": "Israel demands Beirut bar &#039;unacceptable&#039; Lebanese army officers from deploying south"
-    },
     {
       "timestamp": "2026-07-07T18:03:51.450141+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T17:54:01.588540+00:00",
       "tier": "groq",
       "article": "How T\u00fcrkiye went from problem child to power broker in NATO"
+    },
+    {
+      "timestamp": "2026-07-10T19:39:53.779024+00:00",
+      "tier": "groq",
+      "article": "An Israeli drone strike targeted the area between Nabatieh al-Fawqa and Kfar Tebnit: Al-Manar reporter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-10T19:40:26.099576+00:00",
+      "tier": "groq",
+      "article": "Trump says he ordered unprecedented strike against Iran if he is assassinated"
+    },
+    {
+      "timestamp": "2026-07-10T19:41:17.821732+00:00",
+      "tier": "groq",
+      "article": "Zelenskyy taps European allies to build Freya, a cheaper Patriot-alternative to Russia\u2019s ballistic missiles"
+    },
+    {
+      "timestamp": "2026-07-10T19:41:34.421222+00:00",
+      "tier": "groq",
+      "article": "Huge crowds in Mashhad for burial of Iran's late supreme leader"
     }
   ]
 }

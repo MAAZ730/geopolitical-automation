@@ -1,4 +1,34 @@
 {
+  "aa53a4df706fc25a6dc5291fe0be68a5b629d9c030dbfb9d3b3363a657cc9987": {
+    "url": "intelslava/90169",
+    "title": "Russian Drone Destroys Ukrainian Armored Vehicle in Eastern Ukraine",
+    "published": "2026-07-10T19:46:21.071637+00:00"
+  },
+  "ad539ac5a7eb7f462bb13df98b95e0d72ad877f5501e17014e807d72220b1ae3": {
+    "url": "intelslava/90171",
+    "title": "Ukraine Infrastructure Facility Damaged in Strike",
+    "published": "2026-07-10T19:44:47.536246+00:00"
+  },
+  "f2e99cdf2f3594800348e7bd1593a438bdbf7316749d34ceae750ee5466f6d7d": {
+    "url": "intelslava/90186",
+    "title": "Russian Airstrikes Hit Ukrainian Positions in Donetsk and Kharkiv",
+    "published": "2026-07-10T19:44:32.898117+00:00"
+  },
+  "a460546284a87db7496d8b33dbad249ac6f7f6c341e346cd31e66d3c3b6d3a80": {
+    "url": "QudsNen/230684",
+    "title": "Israeli Drones Strike Palestinian Homes in Gaza",
+    "published": "2026-07-10T19:42:57.956854+00:00"
+  },
+  "d5f861dac114bcbe15b259cce86ae91ae6ae07d06523980ab4d2222470cbf593": {
+    "url": "thecradlemedia/63831",
+    "title": "Trump Declares Ceasefire 'Over' Amid Ongoing Tensions with Iran",
+    "published": "2026-07-10T19:41:51.151649+00:00"
+  },
+  "929b49781669f22756499cbfc40cd9beeff17f3d3aac3f60163242a877747d91": {
+    "url": "thecradlemedia/63838",
+    "title": "Russia, Turkey Discuss S-400 Resale to Gulf States Amid F-35 Conditions",
+    "published": "2026-07-10T19:41:41.873943+00:00"
+  },
   "b37a99725db6c20a084bfa690fe0a9cbe9acffe90d26263e9ad02c02b62fc364": {
     "url": "QudsNen/230686",
     "title": "Israeli Settlers Clash with Palestinians in Occupied West Bank",
@@ -13,6 +43,11 @@
     "url": "QudsNen/230696",
     "title": "Egyptian Coach Inspires Gaza Solidarity Mural",
     "published": "2026-07-10T17:56:41.659836+00:00"
+  },
+  "b2355318dc6883891c2b107b6ada6582f70ed3b74e0b495d7db5229960804bf6": {
+    "url": "https://english.almanar.com.lb/article/102757/",
+    "title": "An Israeli drone strike targeted the area between Nabatieh al-Fawqa and Kfar Tebnit: Al-Manar reporter - Al-Manar TV Lebanon",
+    "published": "2026-07-10T17:55:38+00:00"
   },
   "dc9d1ba13145bdecca5cf6855492666ac61dada60260ada1e7f694fa5ce97f47": {
     "url": "thecradlemedia/63834",
@@ -29,10 +64,20 @@
     "title": "Syrian Forces Claim to Disrupt ISIS Cell Behind Damascus Bombings",
     "published": "2026-07-10T17:54:07.235307+00:00"
   },
+  "43d22905803f8ea3c64ba8a86c972172084be969ccde2b805c1eadd7dbe45aed": {
+    "url": "https://www.defensenews.com/industry/techwatch/2026/07/10/zelenskyy-taps-european-allies-to-build-freya-a-cheaper-patriot-alternative-to-russias-ballistic-missiles/",
+    "title": "Zelenskyy taps European allies to build Freya, a cheaper Patriot-alternative to Russia\u2019s ballistic missiles",
+    "published": "2026-07-10T17:33:27+00:00"
+  },
   "7477c75b485bccdcba98ba63d9477e3e9a415a72ed9c934cfa25ba9c589e42fc": {
     "url": "https://www.tehrantimes.com/news/528028/Iran-condemns-fresh-US-strikes-warns-of-retaliation-while-pursuing",
     "title": "Iran condemns fresh US strikes, warns of retaliation while pursuing regional diplomacy",
     "published": "2026-07-10T16:18:42+00:00"
+  },
+  "7f666876771f39decc4bc853d7515d5adbae2847b20611aadc0e2e4d5a47d83c": {
+    "url": "https://tass.com/world/2158837",
+    "title": "Trump says he ordered unprecedented strike against Iran if he is assassinated",
+    "published": "2026-07-10T16:17:30+00:00"
   },
   "af36b101c470c38d1ae0357f7e4716aeee96c10f0ec9ea066a5c82565f88e1fe": {
     "url": "https://thecradle.co/articles-id/38727",
@@ -238,6 +283,11 @@
     "url": "QudsNen/230618",
     "title": "Israeli Forces Raid Al-Mughayyir, Injure Six Palestinians",
     "published": "2026-07-09T23:18:45.845947+00:00"
+  },
+  "a09e22b52f03a617424a5704e14698dc2c902a9c01b32459be4ad90946ac2a72": {
+    "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+    "title": "Huge crowds in Mashhad for burial of Iran's late supreme leader",
+    "published": "2026-07-09T23:18:18+00:00"
   },
   "f72afe8e5aa9bb8ad0183d19bb60d6f5145229b8b2055f4cad2f8a8f86fe33cd": {
     "url": "BellumActaNews/175123",
@@ -698,55 +748,5 @@
     "url": "https://www.rt.com/news/642781-us-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "US resumes strikes on Iran",
     "published": "2026-07-08T20:28:54+00:00"
-  },
-  "5bc323c13db93d400561400249996d2688b2c80cea7fa590b24d98de98785b48": {
-    "url": "BellumActaNews/175048",
-    "title": "Trump Calls for Accelerated Efforts to Meet 5% Target in Ankara",
-    "published": "2026-07-08T19:47:55.602004+00:00"
-  },
-  "282c8e057041ece9239375a32e1d9dbca5152f7ef578694ed9dbfa00ff99d834": {
-    "url": "BellumActaNews/175053",
-    "title": "Israeli Airstrike Kills Hamas Commander in Southern Gaza",
-    "published": "2026-07-08T19:45:22.451954+00:00"
-  },
-  "9f5237b5bbe7af56d9cc01db6293e9391ee6906c8f78a31d1bbbf25ac8310042": {
-    "url": "QudsNen/230458",
-    "title": "Israeli Forces Conduct Airstrike in Western Gaza City",
-    "published": "2026-07-08T19:45:03.623283+00:00"
-  },
-  "97b2e7e05a7c42834c52b49679699f6eec228ebdc45b7956415860beacbe7e1f": {
-    "url": "QudsNen/230462",
-    "title": "Israeli Airstrike Targets Tent in Khan Younis, Gaza Strip",
-    "published": "2026-07-08T19:42:51.889579+00:00"
-  },
-  "171ed8d5eda61f00ff88b463d2e0f7f89393d6aa7b48452ff8bec74bcbdc0460": {
-    "url": "QudsNen/230469",
-    "title": "West Bank Settlers Intensify Attacks on Palestinian Farmland",
-    "published": "2026-07-08T19:42:01.227801+00:00"
-  },
-  "5996e9600ef2dab6432718c53add513811dda04c31cb7fe395e961f487159d8f": {
-    "url": "Middle_East_Spectator/34372",
-    "title": "Iran Downs US MQ-9 Reaper Drone Amid Ongoing Military Strikes",
-    "published": "2026-07-08T19:41:51.409334+00:00"
-  },
-  "fc1722603a639997388a49a88957c73316fdffdb2c256148ce9c9019154f3725": {
-    "url": "https://en.mehrnews.com/news/246031/US-has-no-choice-but-to-recognize-new-order-in-Hormuz-MP",
-    "title": "US has no choice but to recognize 'new order' in Hormuz: MP",
-    "published": "2026-07-08T18:07:36+00:00"
-  },
-  "558f4888dcaf19e4e43f33c07280f9e50b159161f7b62dba434e121b1b6d498d": {
-    "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-    "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
-    "published": "2026-07-08T18:05:31+00:00"
-  },
-  "db4847b725252d366e0bfedde0d45f616226d5a070905e9bc654ffb3418cb937": {
-    "url": "QudsNen/230437",
-    "title": "Israeli Drone Strike Hits Vehicle in Gaza City",
-    "published": "2026-07-08T17:47:12.219413+00:00"
-  },
-  "07d826233bac16189bead518fc8bb918ea47dd2644ee993d99f9f0e355ca5a07": {
-    "url": "QudsNen/230439",
-    "title": "Israeli Forces Seize Homes and Warehouses in Qaryout, West Bank",
-    "published": "2026-07-08T17:45:24.779919+00:00"
   }
 }
