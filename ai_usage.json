@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4679,
+  "total_calls": 4683,
   "tiers": {
-    "groq": 4660,
+    "groq": 4664,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T02:56:12.059631+00:00",
-      "tier": "groq",
-      "article": "Russian missiles strike Ukraine\u2019s capital, Kyiv, for third time in a week"
-    },
-    {
-      "timestamp": "2026-07-08T02:56:50.565164+00:00",
-      "tier": "groq",
-      "article": "US begins striking Iran \u2014 CENTCOM"
-    },
-    {
-      "timestamp": "2026-07-08T02:57:08.594627+00:00",
-      "tier": "groq",
-      "article": "US strikes on Iran \u2018won't be over for a bit\u2019 \u2014 CNN source"
-    },
-    {
-      "timestamp": "2026-07-08T02:57:45.426903+00:00",
-      "tier": "groq",
-      "article": "Venezuela earthquake death toll tops 3,500"
-    },
     {
       "timestamp": "2026-07-08T06:33:41.867312+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T02:55:35.976719+00:00",
       "tier": "groq",
       "article": "US secret services helped plot thwarted attack on airfield in Rostov-on-Don \u2014 expert"
+    },
+    {
+      "timestamp": "2026-07-11T06:19:33.815487+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike military-industrial complex enterprises in Kiev \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-11T06:20:10.017278+00:00",
+      "tier": "groq",
+      "article": "Trump threatens to \u2018destroy\u2019 Iran over assassination fears"
+    },
+    {
+      "timestamp": "2026-07-11T06:20:56.561623+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s Battlegroup West destroys 108 Ukrainian heavy quadcopters over past 24 hours"
+    },
+    {
+      "timestamp": "2026-07-11T06:21:14.647486+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s security chief warns any attack on infrastructure will be retaliated"
     }
   ]
 }
