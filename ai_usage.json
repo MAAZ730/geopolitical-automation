@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4711,
+  "total_calls": 4715,
   "tiers": {
-    "groq": 4692,
+    "groq": 4696,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-09T03:37:37.819672+00:00",
-      "tier": "groq",
-      "article": "Trumps says US will deliver 20 strikes on Iran in response of each of its attacks"
-    },
-    {
-      "timestamp": "2026-07-09T03:38:16.518556+00:00",
-      "tier": "groq",
-      "article": "US resumes strikes on Iran"
-    },
-    {
-      "timestamp": "2026-07-09T03:38:34.794994+00:00",
-      "tier": "groq",
-      "article": "Explosions reported in south Iran as result of US strikes"
-    },
-    {
-      "timestamp": "2026-07-09T03:38:52.802797+00:00",
-      "tier": "groq",
-      "article": "Trump declares US-Iran ceasefire \u2018over\u2019"
-    },
     {
       "timestamp": "2026-07-09T07:52:13.687981+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T20:57:29.442109+00:00",
       "tier": "groq",
       "article": "Iran\u2019s drone production output tripled during US-Israeli war"
+    },
+    {
+      "timestamp": "2026-07-11T22:56:23.738182+00:00",
+      "tier": "groq",
+      "article": "Iran envoy slams UNSC for holding western-backed meeting"
+    },
+    {
+      "timestamp": "2026-07-11T22:56:42.687023+00:00",
+      "tier": "groq",
+      "article": "NATO sees no evidence of Russia preparing to attack Baltic states \u2014 The Times"
+    },
+    {
+      "timestamp": "2026-07-11T22:57:14.428426+00:00",
+      "tier": "groq",
+      "article": "Russia establishes control over settlement of Bachevsk in Sumy region \u2014 defense ministry"
+    },
+    {
+      "timestamp": "2026-07-11T22:58:01.868431+00:00",
+      "tier": "groq",
+      "article": "NATO early warning and control plane spotted off Black Sea coast"
     }
   ]
 }
