@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4691,
+  "total_calls": 4695,
   "tiers": {
-    "groq": 4672,
+    "groq": 4676,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T14:23:20.284309+00:00",
-      "tier": "groq",
-      "article": "Gaza aid worker killed minutes before World Cup screening he organised"
-    },
-    {
-      "timestamp": "2026-07-08T14:23:55.923950+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drone strike on Krasnodar-Melitopol passenger bus: what we know"
-    },
-    {
-      "timestamp": "2026-07-08T14:24:48.047647+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Overnight drone attacks on Russia kill civilian, damage tankers"
-    },
-    {
-      "timestamp": "2026-07-08T14:25:05.239262+00:00",
-      "tier": "groq",
-      "article": "Eight NATO allies launch HALO satellite constellation initiative"
-    },
     {
       "timestamp": "2026-07-08T17:40:39.999601+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T11:12:24.264183+00:00",
       "tier": "groq",
       "article": "Iran warns US it will retaliate to its attacks \u2014 senior security official"
+    },
+    {
+      "timestamp": "2026-07-11T13:26:20.872320+00:00",
+      "tier": "groq",
+      "article": "Russian forces effectively strike Ukrainian port facilities \u2014 defense ministry"
+    },
+    {
+      "timestamp": "2026-07-11T13:26:53.005880+00:00",
+      "tier": "groq",
+      "article": "Israeli Air Raids Target Al-Mansouri, Bombings Rock Houla in South Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-11T13:27:11.244393+00:00",
+      "tier": "groq",
+      "article": "Mali reveals Al-Qaeda extremists in the Sahel receive training, drones from Ukraine"
+    },
+    {
+      "timestamp": "2026-07-11T13:27:47.631803+00:00",
+      "tier": "groq",
+      "article": "Gaza Toll Surpasses 73,000 as Health Ministry Warns of Ambulance Fleet Collapse - Al-Manar TV Lebanon"
     }
   ]
 }
