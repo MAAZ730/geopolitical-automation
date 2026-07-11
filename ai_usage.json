@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4703,
+  "total_calls": 4707,
   "tiers": {
-    "groq": 4684,
+    "groq": 4688,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T21:13:46.829222+00:00",
-      "tier": "groq",
-      "article": "China shows snazzy clip of DF-17 missile on state TV in show of force"
-    },
-    {
-      "timestamp": "2026-07-08T21:14:27.230403+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes 85 US targets in Bahrain, Kuwait"
-    },
-    {
-      "timestamp": "2026-07-08T21:15:19.198503+00:00",
-      "tier": "groq",
-      "article": "US says conducting new wave of strikes on Iran as ceasefire falters"
-    },
-    {
-      "timestamp": "2026-07-08T21:15:35.033972+00:00",
-      "tier": "groq",
-      "article": "IRGC downs US MQ-9 drone over southern Iran"
-    },
     {
       "timestamp": "2026-07-08T23:16:24.486891+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T17:06:15.201720+00:00",
       "tier": "groq",
       "article": "Iran Tripled Drone Production Output during US\u2013Israeli Aggression: Caretaker Defense Minister - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-11T19:11:16.280622+00:00",
+      "tier": "groq",
+      "article": "Those responsible for martyring Leader will face justice: MP"
+    },
+    {
+      "timestamp": "2026-07-11T19:11:54.977046+00:00",
+      "tier": "groq",
+      "article": "Europe\u2019s missile buildup: What NATO\u2019s Ankara summit set in motion"
+    },
+    {
+      "timestamp": "2026-07-11T19:12:47.983349+00:00",
+      "tier": "groq",
+      "article": "The martyred Leader's killers will never die in peace"
+    },
+    {
+      "timestamp": "2026-07-11T19:13:05.783211+00:00",
+      "tier": "groq",
+      "article": "Kiev troops bombard Donetsk People\u2019s Republic seven times over past day"
     }
   ]
 }
