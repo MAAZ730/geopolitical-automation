@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4707,
+  "total_calls": 4711,
   "tiers": {
-    "groq": 4688,
+    "groq": 4692,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T23:16:24.486891+00:00",
-      "tier": "groq",
-      "article": "Deadly strikes in Gaza leave 5 dead, children wounded"
-    },
-    {
-      "timestamp": "2026-07-08T23:16:57.086461+00:00",
-      "tier": "groq",
-      "article": "US expands military strikes on Iran after Trump says he\u2019ll \u2018hit them hard\u2019"
-    },
-    {
-      "timestamp": "2026-07-08T23:17:13.212868+00:00",
-      "tier": "groq",
-      "article": "US deploys some 20 warships, auxiliary vessels in Arabian Sea \u2014 TV"
-    },
-    {
-      "timestamp": "2026-07-08T23:17:50.247171+00:00",
-      "tier": "groq",
-      "article": "Iran's chief negotiator slams US violations of MoU"
-    },
     {
       "timestamp": "2026-07-09T03:37:37.819672+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T19:13:05.783211+00:00",
       "tier": "groq",
       "article": "Kiev troops bombard Donetsk People\u2019s Republic seven times over past day"
+    },
+    {
+      "timestamp": "2026-07-11T20:56:18.559266+00:00",
+      "tier": "groq",
+      "article": "Thousands gather in Srebrenica to mark 31 years since genocide"
+    },
+    {
+      "timestamp": "2026-07-11T20:56:34.800269+00:00",
+      "tier": "groq",
+      "article": "US, Saudi Arabian top diplomats discuss security cooperation \u2014 US Department of State"
+    },
+    {
+      "timestamp": "2026-07-11T20:57:11.450757+00:00",
+      "tier": "groq",
+      "article": "Bluster to mask defeat: Trump\u2019s rhetoric exposes US-Israeli disarray in face of Iranian resilience"
+    },
+    {
+      "timestamp": "2026-07-11T20:57:29.442109+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s drone production output tripled during US-Israeli war"
     }
   ]
 }
