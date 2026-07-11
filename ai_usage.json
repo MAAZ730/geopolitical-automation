@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4675,
+  "total_calls": 4679,
   "tiers": {
-    "groq": 4656,
+    "groq": 4660,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-07T23:09:59.467014+00:00",
-      "tier": "groq",
-      "article": "US resumes \u2018powerful strikes\u2019 on Iran after tanker attacks (VIDEOS)"
-    },
-    {
-      "timestamp": "2026-07-07T23:10:42.884255+00:00",
-      "tier": "groq",
-      "article": "US says strikes launched as explosions heard in southern Iran"
-    },
-    {
-      "timestamp": "2026-07-07T23:11:34.444887+00:00",
-      "tier": "groq",
-      "article": "US Navy fears ballistic missile subs can be hit by drones, anti-tank rockets"
-    },
-    {
-      "timestamp": "2026-07-07T23:11:50.594885+00:00",
-      "tier": "groq",
-      "article": "Tanker reportedly hit by projectile off Oman"
-    },
     {
       "timestamp": "2026-07-08T02:56:12.059631+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-10T23:05:28.923124+00:00",
       "tier": "groq",
       "article": "Top Official Warns of Retaliation for Attacks on Iran\u2019s Infrastructure: \u2018Israel\u2019 Would Be Targeted - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-11T02:54:23.125226+00:00",
+      "tier": "groq",
+      "article": "Zaporizhzhia\u2019s mayor says Russian advance reaches city\u2019s outskirts"
+    },
+    {
+      "timestamp": "2026-07-11T02:54:59.251978+00:00",
+      "tier": "groq",
+      "article": "US demands Iran declare Strait of Hormuz fully open \u2013 Axios"
+    },
+    {
+      "timestamp": "2026-07-11T02:55:16.990524+00:00",
+      "tier": "groq",
+      "article": "Over 800 commercial vessels pass through Strait of Hormuz since early May \u2014 US command"
+    },
+    {
+      "timestamp": "2026-07-11T02:55:35.976719+00:00",
+      "tier": "groq",
+      "article": "US secret services helped plot thwarted attack on airfield in Rostov-on-Don \u2014 expert"
     }
   ]
 }
