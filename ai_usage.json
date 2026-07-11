@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4687,
+  "total_calls": 4691,
   "tiers": {
-    "groq": 4668,
+    "groq": 4672,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T10:24:27.144013+00:00",
-      "tier": "groq",
-      "article": "US commanders ignored intelligence warnings before strike on Iranian girls\u2019 school \u2013 CNN"
-    },
-    {
-      "timestamp": "2026-07-08T10:24:44.633981+00:00",
-      "tier": "groq",
-      "article": "US strikes in Iran target air defenses, missile depots, drone launch sites \u2014 Axios"
-    },
-    {
-      "timestamp": "2026-07-08T10:25:13.843292+00:00",
-      "tier": "groq",
-      "article": "Russia strikes Ukrainian military industry in Kiev"
-    },
-    {
-      "timestamp": "2026-07-08T10:26:03.847426+00:00",
-      "tier": "groq",
-      "article": "US support for NATO slips after Trump criticism \u2013 poll"
-    },
     {
       "timestamp": "2026-07-08T14:23:20.284309+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T09:42:31.784949+00:00",
       "tier": "groq",
       "article": "Iran not let US interfere in Strait of Hormuz: Senior cleric"
+    },
+    {
+      "timestamp": "2026-07-11T11:10:48.774993+00:00",
+      "tier": "groq",
+      "article": "Russian air defense forces down 2 bombs, 2 missiles, 445 UAVs over past day \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-11T11:11:27.510507+00:00",
+      "tier": "groq",
+      "article": "Ukraine won\u2019t produce Patriot missiles despite Trump\u2019s promise \u2013 Reuters"
+    },
+    {
+      "timestamp": "2026-07-11T11:11:45.059423+00:00",
+      "tier": "groq",
+      "article": "NATO reconnaissance aircraft flying over Black Sea has relocated to Baltic states"
+    },
+    {
+      "timestamp": "2026-07-11T11:12:24.264183+00:00",
+      "tier": "groq",
+      "article": "Iran warns US it will retaliate to its attacks \u2014 senior security official"
     }
   ]
 }
