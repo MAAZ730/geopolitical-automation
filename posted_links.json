@@ -1,4 +1,49 @@
 {
+  "2d8162b16c92001c42a29448c17cc111d800802557a7144c71260b027b654fcb": {
+    "url": "QudsNen/230749",
+    "title": "Israeli Forces Clash with Residents in Al-Mughayir Raid",
+    "published": "2026-07-11T09:47:29.988530+00:00"
+  },
+  "6f396a52237b4426d5535482a9fbbcd200e6c3e1522de3d2d110c9e54656680c": {
+    "url": "QudsNen/230750",
+    "title": "Israeli Settlers Clash with Palestinian Workers in West Bank",
+    "published": "2026-07-11T09:46:08.352564+00:00"
+  },
+  "df32c2e861a48d5b9e5d1dc00079cbb72c39fc092d41b3b62db79ab63bf526b9": {
+    "url": "thecradlemedia/63850",
+    "title": "US Eases Export Restrictions on UAE Amid Strategic Cooperation",
+    "published": "2026-07-11T09:44:34.207459+00:00"
+  },
+  "b32cac545665e3bf85dd2cee680ee2bed8cf4a6b99e9ee88bb2810fd30cf60f0": {
+    "url": "thecradlemedia/63851",
+    "title": "Iranian Foreign Ministry Praises Military Vigilance Amid Summer Heat",
+    "published": "2026-07-11T09:44:32.942781+00:00"
+  },
+  "0b95adfff1159ed1e9a201ad07484cdc18728f9b3124a63214f9d5b451f2f445": {
+    "url": "thecradlemedia/63854",
+    "title": "Israeli Settlers Clash with Palestinians in West Bank Village",
+    "published": "2026-07-11T09:44:31.000761+00:00"
+  },
+  "3401ffcb494ac3124cc049a48a2168884b3555f7ad703640773d6b84b3187735": {
+    "url": "thecradlemedia/63855",
+    "title": "Iranian Missile Strikes Hit US Airbase in Jordan",
+    "published": "2026-07-11T09:42:47.283552+00:00"
+  },
+  "7c0ad4456d609b33eefc04f7384ed38382f29a963cca8d9db14999abe7ea25d7": {
+    "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+    "title": "Russian missile attacks wound 11 in Kyiv",
+    "published": "2026-07-11T08:53:23+00:00"
+  },
+  "8de71aa091bf61b26f1f32d9f7300a730a51951ad854409a8ee7baf46ae5e173": {
+    "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+    "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+    "published": "2026-07-11T08:04:57+00:00"
+  },
+  "90b81f15a46d201670d0f9a95ef40745444b503f23f9e06cf77e254503570b4f": {
+    "url": "https://tass.com/defense/2158965",
+    "title": "Russian forces strike three ports, two enterprises in Kiev during overnight attack",
+    "published": "2026-07-11T07:40:44+00:00"
+  },
   "262435f8edcff4c9245dddcd16303963461c50fa1bbb34e20c1e815ad35effd7": {
     "url": "Slavyangrad/168988",
     "title": "China Lands Rocket Stage on Sea Platform in Historic First",
@@ -313,6 +358,11 @@
     "url": "https://tass.com/economy/2158691",
     "title": "Deputy PM Novak reports fuel shortages in Russia due to drone strikes on refineries",
     "published": "2026-07-10T12:14:51+00:00"
+  },
+  "e6e1adff7ee484274f97ab35a4b463f7f03a4b76933fa50e99e6bbb95f0e72e6": {
+    "url": "https://en.mehrnews.com/news/246070/Iran-not-let-US-interfere-in-Strait-of-Hormuz-Senior-cleric",
+    "title": "Iran not let US interfere in Strait of Hormuz: Senior cleric",
+    "published": "2026-07-10T11:08:00+00:00"
   },
   "3fe6a791d6732887c833fac4dce4c0f8729b0688e803751011e1fac0f4d6bb0d": {
     "url": "DDGeopolitics/188597",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/world/2158141",
     "title": "US strikes kill three people, injure 15 others in Iranian city of Sirik \u2014 agency",
     "published": "2026-07-09T12:09:48+00:00"
-  },
-  "4a39077780cf81fad98efd09fec85f2b0f56ac9e03f68101fa48f0d64122cedf": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
-    "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
-    "published": "2026-07-09T11:23:34+00:00"
-  },
-  "5aa4dcba33f850fd8ce6079c8f17ef9b1704c50fd0cabc1170bf44fa804465fd": {
-    "url": "BellumActaNews/175092",
-    "title": "Iran Fires Ballistic Missiles at Bahrain from Bushehr Province",
-    "published": "2026-07-09T11:07:29.161321+00:00"
-  },
-  "63d351d38210d21e30bb44ec1729cc5505ccdace5bb51923f361f7bce47c90eb": {
-    "url": "Middle_East_Spectator/34475",
-    "title": "Iran Launches Ballistic Missiles at Jordanian Airbase",
-    "published": "2026-07-09T11:03:52.033124+00:00"
-  },
-  "b7ee7349e89fb43cc850d575f79592425881923ae9512696e8df660fa8e42035": {
-    "url": "Middle_East_Spectator/34483",
-    "title": "US Air Defense Activated at Jordan Base Amid Unidentified Aerial Threat",
-    "published": "2026-07-09T11:03:37.898605+00:00"
-  },
-  "4c64d42601284808f237d7067e80fd3329ceb6eb82c48ab323a37112ebe87bdc": {
-    "url": "thecradlemedia/63711",
-    "title": "Erdogan Gifts NATO Leaders Engraved Revolvers at Ankara Summit",
-    "published": "2026-07-09T11:02:42.233938+00:00"
-  },
-  "9cc0b89e5dc5c4a9071b5cfc17b3525cacd4ad922d11a7daad04dff91ee68ce2": {
-    "url": "thecradlemedia/63712",
-    "title": "Iran Strikes US Bases Across Persian Gulf in Retaliation for Overnight US Strikes",
-    "published": "2026-07-09T11:02:40.615107+00:00"
-  },
-  "9441258b2fb93d78c53899d9a434f7cff152f43c04877756fb6a3745bab1716b": {
-    "url": "thecradlemedia/63718",
-    "title": "Iran Fires Missiles at US Targets in Kuwait and Jordan",
-    "published": "2026-07-09T11:02:39.347914+00:00"
-  },
-  "2b09beef7cd4c999fcfbc69fb4e2f82334cddfacf00981677cc49add9f7eaacb": {
-    "url": "https://en.mehrnews.com/news/246048/FM-denounces-fresh-US-attacks-against-Iran-as-grave-war-crime",
-    "title": "FM denounces fresh US attacks against Iran as grave war crime",
-    "published": "2026-07-09T10:47:19+00:00"
-  },
-  "e27c6450d94b9c87c27dc5075ed1bdc63fc9a56d889d81ec86a66ce313a6b86d": {
-    "url": "https://www.rt.com/news/642797-nato-military-spending-oblivion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Scott Ritter: NATO is spending itself into oblivion",
-    "published": "2026-07-09T10:24:18+00:00"
-  },
-  "93f858203fa42330572353d665ebf7da9549d033c8ff3a68777c63c3784768b9": {
-    "url": "https://en.irna.ir/news/86204827/Foreign-Ministry-US-attacks-on-southern-and-eastern-Iran-constitute",
-    "title": "Foreign Ministry: US attacks on southern and eastern Iran constitute war crimes",
-    "published": "2026-07-09T10:12:27+00:00"
   }
 }

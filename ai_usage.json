@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4683,
+  "total_calls": 4687,
   "tiers": {
-    "groq": 4664,
+    "groq": 4668,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T06:33:41.867312+00:00",
-      "tier": "groq",
-      "article": "IRGC says retaliatory strikes hit 85 US military targets, MQ-9 drone downed"
-    },
-    {
-      "timestamp": "2026-07-08T06:34:19.892720+00:00",
-      "tier": "groq",
-      "article": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels"
-    },
-    {
-      "timestamp": "2026-07-08T06:35:06.135946+00:00",
-      "tier": "groq",
-      "article": "US says 80 targets hit in fresh attacks against Iran"
-    },
-    {
-      "timestamp": "2026-07-08T06:35:25.279414+00:00",
-      "tier": "groq",
-      "article": "China urges US to lift Cuba sanctions, says Washington\u2019s blockade has no basis in international law"
-    },
     {
       "timestamp": "2026-07-08T10:24:27.144013+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T06:21:14.647486+00:00",
       "tier": "groq",
       "article": "Iran\u2019s security chief warns any attack on infrastructure will be retaliated"
+    },
+    {
+      "timestamp": "2026-07-11T09:40:45.715656+00:00",
+      "tier": "groq",
+      "article": "Russian missile attacks wound 11 in Kyiv"
+    },
+    {
+      "timestamp": "2026-07-11T09:41:21.936878+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike three ports, two enterprises in Kiev during overnight attack"
+    },
+    {
+      "timestamp": "2026-07-11T09:42:15.648947+00:00",
+      "tier": "groq",
+      "article": "Trump threatens Iran after chants for his death erupted at Khamenei funeral"
+    },
+    {
+      "timestamp": "2026-07-11T09:42:31.784949+00:00",
+      "tier": "groq",
+      "article": "Iran not let US interfere in Strait of Hormuz: Senior cleric"
     }
   ]
 }
