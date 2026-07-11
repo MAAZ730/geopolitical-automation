@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4695,
+  "total_calls": 4699,
   "tiers": {
-    "groq": 4676,
+    "groq": 4680,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T17:40:39.999601+00:00",
-      "tier": "groq",
-      "article": "Pentagon officials \u2018ignored warnings\u2019 of outdated intel ahead of Minab school massacre: Report"
-    },
-    {
-      "timestamp": "2026-07-08T17:41:16.155832+00:00",
-      "tier": "groq",
-      "article": "Pakistan military says 42 killed in fighter attacks in Balochistan"
-    },
-    {
-      "timestamp": "2026-07-08T17:41:32.372287+00:00",
-      "tier": "groq",
-      "article": "Humiliation and escalation: Decoding Trump's new offensive against Iran"
-    },
-    {
-      "timestamp": "2026-07-08T17:41:50.365934+00:00",
-      "tier": "groq",
-      "article": "River of tears: A nation's defiance and a superpower's confusion\u00a0"
-    },
     {
       "timestamp": "2026-07-08T19:40:07.381843+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T13:27:47.631803+00:00",
       "tier": "groq",
       "article": "Gaza Toll Surpasses 73,000 as Health Ministry Warns of Ambulance Fleet Collapse - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-11T14:59:49.223994+00:00",
+      "tier": "groq",
+      "article": "Israeli airstrike targets a vehicle on the Wadi Gaza bridge, leaving a Palestinian martyr and several injuries: reports - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-11T15:00:22.304640+00:00",
+      "tier": "groq",
+      "article": "Ukrainian expert dismisses US pledge about Patriot missile license as `marketing move\u2019"
+    },
+    {
+      "timestamp": "2026-07-11T15:01:08.842906+00:00",
+      "tier": "groq",
+      "article": "Russian UAV solutions are head and shoulders above foreign counterparts \u2014 expert"
+    },
+    {
+      "timestamp": "2026-07-11T15:01:56.248957+00:00",
+      "tier": "groq",
+      "article": "Russian MP calls Dutch desecration of Soviet war memorial attempt to erase history"
     }
   ]
 }
