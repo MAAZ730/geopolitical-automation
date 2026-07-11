@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4699,
+  "total_calls": 4703,
   "tiers": {
-    "groq": 4680,
+    "groq": 4684,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-08T19:40:07.381843+00:00",
-      "tier": "groq",
-      "article": "Iran warns of harsher response to any new US attacks"
-    },
-    {
-      "timestamp": "2026-07-08T19:40:42.630367+00:00",
-      "tier": "groq",
-      "article": "Iran Army carries out drone attack on US bases in Bahrain"
-    },
-    {
-      "timestamp": "2026-07-08T19:40:58.851318+00:00",
-      "tier": "groq",
-      "article": "US did not strike Kazakh-leased site in Iranian port, Astana says"
-    },
-    {
-      "timestamp": "2026-07-08T19:41:41.437270+00:00",
-      "tier": "groq",
-      "article": "Trump dismisses Netanyahu\u2019s concerns over potential F-35 sale to T\u00fcrkiye"
-    },
     {
       "timestamp": "2026-07-08T21:13:46.829222+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T15:01:56.248957+00:00",
       "tier": "groq",
       "article": "Russian MP calls Dutch desecration of Soviet war memorial attempt to erase history"
+    },
+    {
+      "timestamp": "2026-07-11T17:04:33.048941+00:00",
+      "tier": "groq",
+      "article": "Over one thousand exhibits presented at Drone Expo in Kazan"
+    },
+    {
+      "timestamp": "2026-07-11T17:05:08.022664+00:00",
+      "tier": "groq",
+      "article": "How US actions breached Islamabad MoU, creating legal basis for reciprocal measures"
+    },
+    {
+      "timestamp": "2026-07-11T17:05:55.940700+00:00",
+      "tier": "groq",
+      "article": "US early warning aircraft spotted near Persian Gulf"
+    },
+    {
+      "timestamp": "2026-07-11T17:06:15.201720+00:00",
+      "tier": "groq",
+      "article": "Iran Tripled Drone Production Output during US\u2013Israeli Aggression: Caretaker Defense Minister - Al-Manar TV Lebanon"
     }
   ]
 }
