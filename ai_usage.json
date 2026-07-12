@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4715,
+  "total_calls": 4719,
   "tiers": {
-    "groq": 4696,
+    "groq": 4700,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-09T07:52:13.687981+00:00",
-      "tier": "groq",
-      "article": "US launches cruise missile attack on targets in northern Iran"
-    },
-    {
-      "timestamp": "2026-07-09T07:52:46.632411+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes US military bases in Kuwait and Bahrain after American assaults"
-    },
-    {
-      "timestamp": "2026-07-09T07:53:37.722668+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Tehran-Mashhad Railway Suspended after US Attack - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-09T07:54:27.056711+00:00",
-      "tier": "groq",
-      "article": "US and Denmark clash over Greenland again"
-    },
     {
       "timestamp": "2026-07-09T11:00:33.759299+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-11T22:58:01.868431+00:00",
       "tier": "groq",
       "article": "NATO early warning and control plane spotted off Black Sea coast"
+    },
+    {
+      "timestamp": "2026-07-12T03:19:54.403733+00:00",
+      "tier": "groq",
+      "article": "Kiev air defenses fail to cope with Russia\u2019s new strikes \u2014 Le Monde"
+    },
+    {
+      "timestamp": "2026-07-12T03:20:34.863054+00:00",
+      "tier": "groq",
+      "article": "US launches fresh strikes as Iran closes Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-07-12T03:20:50.895044+00:00",
+      "tier": "groq",
+      "article": "US launches third wave of strikes against Iran"
+    },
+    {
+      "timestamp": "2026-07-12T03:21:35.077764+00:00",
+      "tier": "groq",
+      "article": "Tehran rejects US talks request, slams MoU violations"
     }
   ]
 }
