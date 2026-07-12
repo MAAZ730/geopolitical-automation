@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4727,
+  "total_calls": 4731,
   "tiers": {
-    "groq": 4708,
+    "groq": 4712,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-09T17:59:38.687508+00:00",
-      "tier": "groq",
-      "article": "US-Iran strikes: Strait of Hormuz ship traffic falls steeply"
-    },
-    {
-      "timestamp": "2026-07-09T18:00:20.902069+00:00",
-      "tier": "groq",
-      "article": "Rail traffic btw Tehran, Mashhad disrupted after US attacks"
-    },
-    {
-      "timestamp": "2026-07-09T18:00:38.911341+00:00",
-      "tier": "groq",
-      "article": "Aist reconnaissance-strike system was demonstrated in Kazan"
-    },
-    {
-      "timestamp": "2026-07-09T18:00:57.539647+00:00",
-      "tier": "groq",
-      "article": "US has no choice but to recognize 'new order' in Hormuz: MP"
-    },
     {
       "timestamp": "2026-07-09T20:00:57.884801+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T09:57:46.050505+00:00",
       "tier": "groq",
       "article": "Iran chairs event at UN headquarters on Intl. Day of Combating Sand and Dust Storms"
+    },
+    {
+      "timestamp": "2026-07-12T11:13:56.521228+00:00",
+      "tier": "groq",
+      "article": "IRGC releases video of retaliatory missile strikes"
+    },
+    {
+      "timestamp": "2026-07-12T11:14:27.164434+00:00",
+      "tier": "groq",
+      "article": "IRGC, Iranian army launch regionwide retaliation in response to latest US strikes"
+    },
+    {
+      "timestamp": "2026-07-12T11:15:14.336467+00:00",
+      "tier": "groq",
+      "article": "Russian strikes hit Odtrans logistics center, Odessa port infrastructure"
+    },
+    {
+      "timestamp": "2026-07-12T11:15:33.649684+00:00",
+      "tier": "groq",
+      "article": "'Israel' continues to violate truce by bombing S. Lebanon"
     }
   ]
 }

@@ -1,4 +1,39 @@
 {
+  "cefa42f5f378f5e7a198f9e4894bd762da985871d4791aefd47c745c031afa9d": {
+    "url": "intelslava/90298",
+    "title": "Kharkiv Gas Stations Hit in Russian Drone Strikes",
+    "published": "2026-07-12T11:20:23.137785+00:00"
+  },
+  "299067bc893bdb341a3dac84490556405ec86267af2720aa67e0a74292fbc939": {
+    "url": "QudsNen/230866",
+    "title": "Gaza Ambulance Services Disrupted Amid Ongoing Conflict",
+    "published": "2026-07-12T11:19:28.275160+00:00"
+  },
+  "cc1193f259fc7f6748831880bf0240abd27cf4c4d629abe97ec06d06570ed5cb": {
+    "url": "QudsNen/230877",
+    "title": "Israeli Settler Assaults Elderly Palestinian in Occupied West Bank",
+    "published": "2026-07-12T11:19:26.799122+00:00"
+  },
+  "cacfc45b39d078337b72f2be8feba2e09ff2d1993412381ef20f00f7b2dc9cc6": {
+    "url": "QudsNen/230881",
+    "title": "Israeli Airstrikes Hit Western Gaza City",
+    "published": "2026-07-12T11:18:28.533556+00:00"
+  },
+  "f1ad6652e6e3d9a7db5d23e2f8d9b06b43c81639ae6cfab489dc1e0057a11c93": {
+    "url": "Middle_East_Spectator/34664",
+    "title": "US Senator Lindsey Graham Dies at 71",
+    "published": "2026-07-12T11:18:12.471409+00:00"
+  },
+  "780b52a2ac219768417638e871b647f2459a33b63a24add1a3965fcacec03838": {
+    "url": "Middle_East_Spectator/34665",
+    "title": "US Senator Lindsey Graham Dies at 71",
+    "published": "2026-07-12T11:18:11.052599+00:00"
+  },
+  "5eb32feec4dab2bce5b277cb9d5889b63886572de0fc08bac5e0f4bc1e95ff9b": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-releases-video-of-retaliatory-missile-strikes?traffic_source=rss",
+    "title": "IRGC releases video of retaliatory missile strikes",
+    "published": "2026-07-12T11:07:26+00:00"
+  },
   "b8ec64c17b23bb356fba0a122aaf8ddba4caf78fe1043d6b8461216e27a013e3": {
     "url": "intelslava/90301",
     "title": "Israel Prepares for Potential Military Operation Against Iran",
@@ -34,10 +69,20 @@
     "title": "Iran Pounds US Bases in Region, Closes Strait of Hormuz in Retaliation of New US Attacks - Al-Manar TV Lebanon",
     "published": "2026-07-12T08:20:09+00:00"
   },
+  "368773ac26ac8eb47a11b942c9fd55aa97445fe8a1a7d16493235c18dda45621": {
+    "url": "https://thecradle.co/articles-id/38743",
+    "title": "IRGC, Iranian army launch regionwide retaliation in response to latest US strikes",
+    "published": "2026-07-12T08:15:05+00:00"
+  },
   "4c6481f995824dcb9f1080b93030bbcda2b9f7ffb81573a16c13dfbc9f8bc44b": {
     "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
     "title": "US attacks Iran overnight; Tehran targets US sites in the region",
     "published": "2026-07-12T07:53:41+00:00"
+  },
+  "3a2ddaebfd3b33f6d6ee8e578a906979cf4752275543b885c414938bac5732b2": {
+    "url": "https://tass.com/defense/2159131",
+    "title": "Russian strikes hit Odtrans logistics center, Odessa port infrastructure",
+    "published": "2026-07-12T07:40:58+00:00"
   },
   "a23278e21e47d7ead219033dd02e248d5e452d45bbd1647949c7dc00ca3bb6c5": {
     "url": "https://en.irna.ir/news/86206862/Iranian-Armed-Forces-conduct-drone-missile-attacks-on-US-bases",
@@ -369,6 +414,11 @@
     "title": "Israeli Airstrikes Hit Mansouri, Lebanon",
     "published": "2026-07-11T13:28:58.601884+00:00"
   },
+  "9819db911c265ef025614e4d79bc748aedf650ca0f4bdadb58177314a817a1a5": {
+    "url": "https://en.mehrnews.com/news/246102/Israel-continues-to-violate-truce-by-bombing-S-Lebanon",
+    "title": "'Israel' continues to violate truce by bombing S. Lebanon",
+    "published": "2026-07-11T13:09:13+00:00"
+  },
   "d6cebed14e79ff30b6875a1c4d4ca30343ce3437e28ca11ba226eb37c1b62918": {
     "url": "https://en.mehrnews.com/news/246101/Iran-s-drone-production-output-tripled-during-US-Israeli-war",
     "title": "Iran\u2019s drone production output tripled during US-Israeli war",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/63838",
     "title": "Russia, Turkey Discuss S-400 Resale to Gulf States Amid F-35 Conditions",
     "published": "2026-07-10T19:41:41.873943+00:00"
-  },
-  "b37a99725db6c20a084bfa690fe0a9cbe9acffe90d26263e9ad02c02b62fc364": {
-    "url": "QudsNen/230686",
-    "title": "Israeli Settlers Clash with Palestinians in Occupied West Bank",
-    "published": "2026-07-10T17:58:01.942452+00:00"
-  },
-  "6fbdbcc674d3fe41056bf88d7af35dedad434a6826cebd96b59dbd2739b6c12b": {
-    "url": "QudsNen/230689",
-    "title": "Israeli Occupation Forces Establish New Settlement Outpost on Mount Ebal",
-    "published": "2026-07-10T17:57:21.864209+00:00"
-  },
-  "4ec2d67ee909edea393cc83e5d8fc14b9e9f948681f6558711f28abd3e1d32f9": {
-    "url": "QudsNen/230696",
-    "title": "Egyptian Coach Inspires Gaza Solidarity Mural",
-    "published": "2026-07-10T17:56:41.659836+00:00"
-  },
-  "b2355318dc6883891c2b107b6ada6582f70ed3b74e0b495d7db5229960804bf6": {
-    "url": "https://english.almanar.com.lb/article/102757/",
-    "title": "An Israeli drone strike targeted the area between Nabatieh al-Fawqa and Kfar Tebnit: Al-Manar reporter - Al-Manar TV Lebanon",
-    "published": "2026-07-10T17:55:38+00:00"
-  },
-  "dc9d1ba13145bdecca5cf6855492666ac61dada60260ada1e7f694fa5ce97f47": {
-    "url": "thecradlemedia/63834",
-    "title": "Qatari Fund Blocks German-Israel Missile Deal Amid Russia Tensions",
-    "published": "2026-07-10T17:55:14.942981+00:00"
-  },
-  "197ece669acb69bd9f9eeb8d17678b5c8007576e605f8781a7be9e2d91b40f3f": {
-    "url": "thecradlemedia/63835",
-    "title": "Berlin Police Clash with Protesters Outside Rheinmetall Facility",
-    "published": "2026-07-10T17:55:13.348595+00:00"
-  },
-  "6f3bff4f95f0fa75e90d95987131cfa2914088136196825db56945845a65f578": {
-    "url": "thecradlemedia/63837",
-    "title": "Syrian Forces Claim to Disrupt ISIS Cell Behind Damascus Bombings",
-    "published": "2026-07-10T17:54:07.235307+00:00"
-  },
-  "502c67e6884b0b11a93045d68738c4fd12e5bb9b087d70621cc7a2466a4a7e13": {
-    "url": "https://tass.com/world/2158855",
-    "title": "US early warning aircraft spotted near Persian Gulf",
-    "published": "2026-07-10T17:46:02+00:00"
-  },
-  "43d22905803f8ea3c64ba8a86c972172084be969ccde2b805c1eadd7dbe45aed": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/10/zelenskyy-taps-european-allies-to-build-freya-a-cheaper-patriot-alternative-to-russias-ballistic-missiles/",
-    "title": "Zelenskyy taps European allies to build Freya, a cheaper Patriot-alternative to Russia\u2019s ballistic missiles",
-    "published": "2026-07-10T17:33:27+00:00"
-  },
-  "4eefe5c7ca32184ca3189c2e8e77a18eee72dfb471b3a913127f9adb12046c84": {
-    "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss",
-    "title": "Russian attacks kill five as Ukraine continues to target oil infrastructure",
-    "published": "2026-07-10T17:21:35+00:00"
   }
 }
