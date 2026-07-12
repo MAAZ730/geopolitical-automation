@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4735,
+  "total_calls": 4739,
   "tiers": {
-    "groq": 4716,
+    "groq": 4720,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-09T21:39:40.553660+00:00",
-      "tier": "groq",
-      "article": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike"
-    },
-    {
-      "timestamp": "2026-07-09T21:40:20.684801+00:00",
-      "tier": "groq",
-      "article": "Sound of explosion in Bushehr caused by air defense engagement"
-    },
-    {
-      "timestamp": "2026-07-09T21:40:38.663862+00:00",
-      "tier": "groq",
-      "article": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative"
-    },
-    {
-      "timestamp": "2026-07-09T21:40:54.698104+00:00",
-      "tier": "groq",
-      "article": "Tehran summons UK envoy over accusations leveled against Iran"
-    },
     {
       "timestamp": "2026-07-09T23:17:15.123840+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T13:28:25.386213+00:00",
       "tier": "groq",
       "article": "Ali Khamenei\u2019s funeral shows why Iran\u2019s system did not collapse"
+    },
+    {
+      "timestamp": "2026-07-12T15:00:14.665686+00:00",
+      "tier": "groq",
+      "article": "Oman hands over note of protest to Iranian ambassador following drone attacks"
+    },
+    {
+      "timestamp": "2026-07-12T15:00:48.345807+00:00",
+      "tier": "groq",
+      "article": "Palestinian Red Crescent: Two martyred, several wounded in Israeli drone strike on Gaza City\u2019s Sabra neighborhood - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-12T15:01:34.392158+00:00",
+      "tier": "groq",
+      "article": "Russian forces hit fishing vessel used for launching Kiev\u2019s USVs in Odessa port"
+    },
+    {
+      "timestamp": "2026-07-12T15:01:51.592132+00:00",
+      "tier": "groq",
+      "article": "Araghchi meets Omani counterpart to discuss Hormuz shipping arrangements\u00a0"
     }
   ]
 }
