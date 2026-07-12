@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4723,
+  "total_calls": 4727,
   "tiers": {
-    "groq": 4704,
+    "groq": 4708,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-09T15:26:04.729683+00:00",
-      "tier": "groq",
-      "article": "Deadly US strikes trigger Iranian attacks on Gulf states"
-    },
-    {
-      "timestamp": "2026-07-09T15:26:20.656261+00:00",
-      "tier": "groq",
-      "article": "Iranian missiles hit US base in Jordan as IRGC continues retaliatory ops"
-    },
-    {
-      "timestamp": "2026-07-09T15:26:50.221653+00:00",
-      "tier": "groq",
-      "article": "New wave of US strikes, Iran's response: situation in Middle East"
-    },
-    {
-      "timestamp": "2026-07-09T15:27:39.465094+00:00",
-      "tier": "groq",
-      "article": "UK police shield rape suspects from furious crowd in Scotland"
-    },
     {
       "timestamp": "2026-07-09T17:59:38.687508+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T06:40:16.092983+00:00",
       "tier": "groq",
       "article": "Blast heard east of Tehran due to disposal of munitions"
+    },
+    {
+      "timestamp": "2026-07-12T09:56:21.400517+00:00",
+      "tier": "groq",
+      "article": "US attacks Iran overnight; Tehran targets US sites in the region"
+    },
+    {
+      "timestamp": "2026-07-12T09:57:07.229653+00:00",
+      "tier": "groq",
+      "article": "Iran Pounds US Bases in Region, Closes Strait of Hormuz in Retaliation of New US Attacks - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-12T09:57:28.230395+00:00",
+      "tier": "groq",
+      "article": "Iranian Armed Forces conduct drone, missile attacks on US bases in region"
+    },
+    {
+      "timestamp": "2026-07-12T09:57:46.050505+00:00",
+      "tier": "groq",
+      "article": "Iran chairs event at UN headquarters on Intl. Day of Combating Sand and Dust Storms"
     }
   ]
 }
