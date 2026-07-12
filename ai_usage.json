@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4747,
+  "total_calls": 4751,
   "tiers": {
-    "groq": 4728,
+    "groq": 4732,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-10T07:39:23.453918+00:00",
-      "tier": "groq",
-      "article": "Southern Lebanon: Israeli Escalation Leaves Several Wounded in Ceasefire Breaches - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-10T07:39:56.090746+00:00",
-      "tier": "groq",
-      "article": "White House claims \u2018commitment\u2019 to Iran MoU as Israel preps for war"
-    },
-    {
-      "timestamp": "2026-07-10T07:40:43.987380+00:00",
-      "tier": "groq",
-      "article": "US prepared for potential strikes on Iran, conducting diplomacy for now \u2014 TV"
-    },
-    {
-      "timestamp": "2026-07-10T07:41:02.698114+00:00",
-      "tier": "groq",
-      "article": "Slain Iranian leader Khamenei's burial ceremony begins in Mashhad"
-    },
     {
       "timestamp": "2026-07-10T11:00:36.840738+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T19:14:48.007725+00:00",
       "tier": "groq",
       "article": "Only Iran, Oman entitled to decide on Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-07-12T20:54:10.225880+00:00",
+      "tier": "groq",
+      "article": "Nine dead as Russia and Ukraine trade drone and missile salvos"
+    },
+    {
+      "timestamp": "2026-07-12T20:54:51.745494+00:00",
+      "tier": "groq",
+      "article": "Responding to enemy attacks with heavy blows to US strategic infrastructure"
+    },
+    {
+      "timestamp": "2026-07-12T20:55:09.278694+00:00",
+      "tier": "groq",
+      "article": "Supermarket in Zaporozhye Region attacked by Ukrainian drone"
+    },
+    {
+      "timestamp": "2026-07-12T20:55:45.326002+00:00",
+      "tier": "groq",
+      "article": "Oman suggests organizing two separate maritime routes in Strait of Hormuz \u2014 TV"
     }
   ]
 }
