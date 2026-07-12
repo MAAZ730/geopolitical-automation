@@ -1,4 +1,34 @@
 {
+  "3ed8822184f5209ef80c54affca44c76cba7cc94ecbd5007c5c0905c13b5ee83": {
+    "url": "Middle_East_Spectator/34683",
+    "title": "Kuwait Blazes After Mysterious Explosions",
+    "published": "2026-07-12T17:11:47.379573+00:00"
+  },
+  "a25b0fc6bde236ebf06a8646bd61dca3247a5ff94949cf1fcf530a2b1ee98bd4": {
+    "url": "Middle_East_Spectator/34693",
+    "title": "Jordan's Prince Hassan Airbase Suffers Drone Strike Damage",
+    "published": "2026-07-12T17:11:08.763005+00:00"
+  },
+  "5970044aa5c0553b0033e4c39e1d300f7e296d45db02a3727eae61cfe21a8b03": {
+    "url": "Middle_East_Spectator/34697",
+    "title": "Iran Denies Breach of Nuclear Deal After Drone Strike on US Ship",
+    "published": "2026-07-12T17:10:37.301320+00:00"
+  },
+  "019d8324077a25a7d4d3175b0eac0fccd8b5313291c43e3e3804581a68c73ca5": {
+    "url": "thecradlemedia/63928",
+    "title": "Iran Reiterates Priority on Revenge and Control of Strait of Hormuz",
+    "published": "2026-07-12T17:07:44.810524+00:00"
+  },
+  "267bdefefbe01007560497142a65330ef24efc69dc24edfec4e40284d13785ba": {
+    "url": "thecradlemedia/63940",
+    "title": "US, Iraq, and Syria to Revive Kirkuk-Baniyas Oil Pipeline",
+    "published": "2026-07-12T17:07:43.898567+00:00"
+  },
+  "808208b2f444285f0390f3f49c954c8f92931a1f3a98d638778a1a2ead535b56": {
+    "url": "thecradlemedia/63941",
+    "title": "Iran Launches Missile Strikes on US Assets in Kuwait",
+    "published": "2026-07-12T17:07:42.856358+00:00"
+  },
   "ba16911220c3f298dea32e76569e855c0418e2789b501a1e477e1103e758850b": {
     "url": "QudsNen/230929",
     "title": "Israeli Airstrike Targets Residential Block in Gaza City's Al-Sabra Neighborhood",
@@ -164,6 +194,11 @@
     "title": "Iranian Armed Forces conduct drone, missile attacks on US bases in region",
     "published": "2026-07-12T07:36:17+00:00"
   },
+  "96e400b0d0a14675b2a6ad3e6ad8f14ea8775b3273d66f7b36d0a24e909fe3c4": {
+    "url": "https://tass.com/defense/2159125",
+    "title": "Russian strikes hit port infrastructure in Odessa, Chernomorsk",
+    "published": "2026-07-12T06:49:34+00:00"
+  },
   "e237794e4f898f06b5f8ced516f40a37a96ab375123c95003a3c4fc919b6864c": {
     "url": "intelslava/90282",
     "title": "US Fifth Fleet Base in Bahrain Hit by Missile and Drone Attack",
@@ -249,6 +284,11 @@
     "title": "Kiev air defenses fail to cope with Russia\u2019s new strikes \u2014 Le Monde",
     "published": "2026-07-12T02:52:14+00:00"
   },
+  "8b6e192fb7bcb1c5555044ceada10657e93c3a65f300afbe826c5a544f58ec94": {
+    "url": "https://tass.com/world/2159085",
+    "title": "Iran begins series of strikes at US targets in Middle East \u2014 TV",
+    "published": "2026-07-12T02:29:52+00:00"
+  },
   "38e1fc9e526f70176e9110caebca2d55ea2efbb7bdfa658f5978591788f63394": {
     "url": "https://tass.com/world/2159083",
     "title": "Pentagon\u2019s chief says Iran is paying for its bad choice",
@@ -263,6 +303,11 @@
     "url": "https://tass.com/world/2159073",
     "title": "Over 10 blasts heard in Iranian city of Bandar-e-Jask \u2014 IRIB",
     "published": "2026-07-12T01:07:51+00:00"
+  },
+  "15fb4d1e0d7c739000ebcdb4a1384b1a801aa31d93d24b9933a32c34515ac67a": {
+    "url": "https://tass.com/world/2159061",
+    "title": "US delivers strikes on Iranian targets in Strait of Hormuz area \u2014 Axios journalist",
+    "published": "2026-07-11T23:57:37+00:00"
   },
   "c4eb7352dcd1422310798ec9d1f5ec4a162c297977e18facefceae4a39531e93": {
     "url": "https://www.rt.com/news/642902-us-third-night-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -378,6 +423,11 @@
     "url": "https://www.rt.com/news/642891-natos-missile-summit-ankara/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Europe\u2019s missile buildup: What NATO\u2019s Ankara summit set in motion",
     "published": "2026-07-11T18:02:17+00:00"
+  },
+  "454f66418eed5ee5cccf15226de5db449fa6b7bf03dd6d6516fc9fe559ee6b8e": {
+    "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+    "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+    "published": "2026-07-11T18:00:09+00:00"
   },
   "626d980f071a4ec622fb083a94abb40c60eda39215fae7fa74cd5a91555eec5e": {
     "url": "https://www.tehrantimes.com/news/528060/Bluster-to-mask-defeat-Trump-s-rhetoric-exposes-US-Israeli-disarray",
@@ -698,55 +748,5 @@
     "url": "Slavyangrad/168978",
     "title": "Russian Airstrikes Hit Ukrainian Positions in Eastern Ukraine",
     "published": "2026-07-11T03:01:07.118825+00:00"
-  },
-  "9bbf5299d9ec19ee1fe7431fd88971b6e3475a4cec9fb7d9669df9fff62cf29c": {
-    "url": "presstv/198158",
-    "title": "Israeli Settlers Attack Palestinian Area in Masafer Yatta",
-    "published": "2026-07-11T02:59:23.448717+00:00"
-  },
-  "95661dff9b9164fc35166e34151a7a53056881b717f45e422409ea703027e259": {
-    "url": "DDGeopolitics/188624",
-    "title": "Kiev Under Ballistic Missile Attack",
-    "published": "2026-07-11T02:58:27.421128+00:00"
-  },
-  "22bea4be3275e2b72e8633245ccf50420d171dfc0975347bfc222307fc5a1b68": {
-    "url": "QudsNen/230721",
-    "title": "Settlers Attack Palestinian Civilians in Hebron's Masafer Yatta",
-    "published": "2026-07-11T02:58:13.356724+00:00"
-  },
-  "20a98ae78044083cebcf12b99f38033c9fea093d47bfe60f37e11d3d4678de27": {
-    "url": "QudsNen/230722",
-    "title": "Israeli Tanks Fire into Eastern Gaza City Neighborhood",
-    "published": "2026-07-11T02:55:45.740107+00:00"
-  },
-  "e2958eee4d57b1e0973dda9009c3ef30ef39f9197720b56a2bd95ccb2a47fcf5": {
-    "url": "Middle_East_Spectator/34535",
-    "title": "US, Israel Differ on Iran Strike Involvement",
-    "published": "2026-07-11T02:55:42.310493+00:00"
-  },
-  "66cfeb28d747f2e6ed126a0b42a0a0d5feb43252f7888adef62d6f73e4dcbb80": {
-    "url": "https://www.rt.com/news/642878-iran-hormuz-reopen-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US demands Iran declare Strait of Hormuz fully open \u2013 Axios",
-    "published": "2026-07-11T01:36:39+00:00"
-  },
-  "8b4fe12811f60c332f515ae1a6104c00054e6f06aa9ed0d4093072ee69a05b47": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
-    "title": "Zaporizhzhia\u2019s mayor says Russian advance reaches city\u2019s outskirts",
-    "published": "2026-07-11T01:12:46+00:00"
-  },
-  "c4b948e686e8296baf802d9d80b3e5838bfbb8ba0793ba098862cb5058c9fe38": {
-    "url": "https://tass.com/world/2158925",
-    "title": "US, Saudi Arabian top diplomats discuss security cooperation \u2014 US Department of State",
-    "published": "2026-07-10T23:31:57+00:00"
-  },
-  "da9e0ea45afc93f4ed0f492b1aeb52f58a8aa217661fd88ab48f605363faba59": {
-    "url": "Slavyangrad/168961",
-    "title": "NATO Prepares Long-Range Precision Strike Capabilities to Counter Russian Forces in Ukraine",
-    "published": "2026-07-10T23:13:28.194697+00:00"
-  },
-  "59651c765e4a019a5be86426f1acb60548a0b4b635d7e9ca54ad2c5b551f23e3": {
-    "url": "Slavyangrad/168966",
-    "title": "Poroshenko Sanctions Appeal Rejected Amid EU Integration Concerns",
-    "published": "2026-07-10T23:11:01.898976+00:00"
   }
 }
