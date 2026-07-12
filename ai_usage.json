@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4719,
+  "total_calls": 4723,
   "tiers": {
-    "groq": 4700,
+    "groq": 4704,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-09T11:00:33.759299+00:00",
-      "tier": "groq",
-      "article": "Amnesty International Accuses \u2018Israel\u2019 of War Crimes Over Lebanon Strikes That Wiped Out Entire Families - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-09T11:01:11.671471+00:00",
-      "tier": "groq",
-      "article": "FM denounces fresh US attacks against Iran as grave war crime"
-    },
-    {
-      "timestamp": "2026-07-09T11:02:05.274314+00:00",
-      "tier": "groq",
-      "article": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response"
-    },
-    {
-      "timestamp": "2026-07-09T11:02:21.282947+00:00",
-      "tier": "groq",
-      "article": "Mining in thought of Martyr Leader; from capacity, advantages of mining to replacing oil"
-    },
     {
       "timestamp": "2026-07-09T15:26:04.729683+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T03:21:35.077764+00:00",
       "tier": "groq",
       "article": "Tehran rejects US talks request, slams MoU violations"
+    },
+    {
+      "timestamp": "2026-07-12T06:39:16.950547+00:00",
+      "tier": "groq",
+      "article": "Iran launches attacks across the Gulf after more US strikes"
+    },
+    {
+      "timestamp": "2026-07-12T06:39:33.068259+00:00",
+      "tier": "groq",
+      "article": "US completes series of strikes on Iran, third this week \u2014 CENTCOM"
+    },
+    {
+      "timestamp": "2026-07-12T06:39:56.539479+00:00",
+      "tier": "groq",
+      "article": "Pentagon\u2019s chief says Iran is paying for its bad choice"
+    },
+    {
+      "timestamp": "2026-07-12T06:40:16.092983+00:00",
+      "tier": "groq",
+      "article": "Blast heard east of Tehran due to disposal of munitions"
     }
   ]
 }
