@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4731,
+  "total_calls": 4735,
   "tiers": {
-    "groq": 4712,
+    "groq": 4716,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-09T20:00:57.884801+00:00",
-      "tier": "groq",
-      "article": "Israeli attacks on Gaza kill 10 people in 24 hours despite \u2018ceasefire\u2019"
-    },
-    {
-      "timestamp": "2026-07-09T20:01:37.152090+00:00",
-      "tier": "groq",
-      "article": "Sirens Sound in Jordan, US Embassy Staff Ordered to Shelter - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-09T20:02:24.616312+00:00",
-      "tier": "groq",
-      "article": "Germany to buy US Tomahawks in shift toward own long-range capability"
-    },
-    {
-      "timestamp": "2026-07-09T20:02:40.810942+00:00",
-      "tier": "groq",
-      "article": "Iran condemns Trump\u2019s \u2018vulgar\u2019 remarks as US strikes resume"
-    },
     {
       "timestamp": "2026-07-09T21:39:40.553660+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T11:15:33.649684+00:00",
       "tier": "groq",
       "article": "'Israel' continues to violate truce by bombing S. Lebanon"
+    },
+    {
+      "timestamp": "2026-07-12T13:26:53.480907+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes US carrier logistics, fueling platforms in Oman in retaliatory operation"
+    },
+    {
+      "timestamp": "2026-07-12T13:27:25.503100+00:00",
+      "tier": "groq",
+      "article": "Over 10 blasts heard in Iranian city of Bandar-e-Jask \u2014 IRIB"
+    },
+    {
+      "timestamp": "2026-07-12T13:27:45.452322+00:00",
+      "tier": "groq",
+      "article": "UAE air defenses repel missile, drone attack from Iran \u2014 ministry"
+    },
+    {
+      "timestamp": "2026-07-12T13:28:25.386213+00:00",
+      "tier": "groq",
+      "article": "Ali Khamenei\u2019s funeral shows why Iran\u2019s system did not collapse"
     }
   ]
 }

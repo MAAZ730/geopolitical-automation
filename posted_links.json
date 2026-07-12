@@ -1,4 +1,34 @@
 {
+  "3d0d1f997e2aacbedc2ca63f1d1e9ba2ed0d365f203c366f6fa0ad119ae9cd64": {
+    "url": "QudsNen/230916",
+    "title": "Israeli Settlers Expand Pastoral Outpost Near Ma'azi Jaba",
+    "published": "2026-07-12T13:33:09.973646+00:00"
+  },
+  "e8be3ada2f847b5736d8e28867952266f1526903cf886a4549a8d1dec4fb971b": {
+    "url": "QudsNen/230926",
+    "title": "Gaza City Under Heavy Israeli Airstrikes",
+    "published": "2026-07-12T13:32:41.462753+00:00"
+  },
+  "143f45dda9ab8e4ecb8cfb984bf781ee224188bd1f93283cda9ed8ec74e98900": {
+    "url": "Middle_East_Spectator/34670",
+    "title": "Iran's IRGC Launches Ballistic Missiles at US Military Bases in the Middle East",
+    "published": "2026-07-12T13:32:13.424084+00:00"
+  },
+  "99dc038e75ed2613d98de828b3ab734f13e0d232e642025e70b77e92b9ec649c": {
+    "url": "thecradlemedia/63931",
+    "title": "US CENTCOM Assures Strait of Hormuz Remains Open to International Shipping",
+    "published": "2026-07-12T13:29:10.094520+00:00"
+  },
+  "38be41ed673af75c3b53f067b85b6efabadec8cc5747714e4135cecfd77a5442": {
+    "url": "thecradlemedia/63932",
+    "title": "Israeli Drone Strike Hits Gaza City's Al-Sabra Neighborhood",
+    "published": "2026-07-12T13:29:09.204865+00:00"
+  },
+  "509df9e33ae61fb53d201116bccb5bb09ef54db538c6177a821ea372c2736b58": {
+    "url": "thecradlemedia/63934",
+    "title": "Turkish-Made Radar System Sparks Israeli Concerns in Syria",
+    "published": "2026-07-12T13:28:31.948729+00:00"
+  },
   "cefa42f5f378f5e7a198f9e4894bd762da985871d4791aefd47c745c031afa9d": {
     "url": "intelslava/90298",
     "title": "Kharkiv Gas Stations Hit in Russian Drone Strikes",
@@ -119,6 +149,11 @@
     "title": "US Senator Lindsey Graham Dies After Brief Illness",
     "published": "2026-07-12T06:40:21.358446+00:00"
   },
+  "158184332dc157c502d70872b2b3acb48f863658f3fb1d09db6b5f9d5a5aa9dd": {
+    "url": "https://en.irna.ir/news/86206752/IRGC-strikes-US-carrier-logistics-fueling-platforms-in-Oman",
+    "title": "IRGC strikes US carrier logistics, fueling platforms in Oman in retaliatory operation",
+    "published": "2026-07-12T06:35:41+00:00"
+  },
   "c67f9aa3df4df4969b707ca4957e8728f3a1370636d8d5179eb0d51d1e89da9f": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
     "title": "Iran launches attacks across the Gulf after more US strikes",
@@ -159,6 +194,11 @@
     "title": "IRGC Claims Responsibility for Missile Strike on Jordanian Airbase",
     "published": "2026-07-12T03:21:39.519912+00:00"
   },
+  "103fbb6139da09cb1c805576d79ed0153bd0f6a3d7d21592d55715a60cb72eee": {
+    "url": "https://tass.com/world/2159097",
+    "title": "UAE air defenses repel missile, drone attack from Iran \u2014 ministry",
+    "published": "2026-07-12T03:08:57+00:00"
+  },
   "ea8aecd6b8bf43b73da7074e1b3789508af24c87f7d67ee36327a91f9b45aea2": {
     "url": "https://tass.com/world/2159091",
     "title": "Kiev air defenses fail to cope with Russia\u2019s new strikes \u2014 Le Monde",
@@ -173,6 +213,11 @@
     "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
     "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
     "published": "2026-07-12T01:55:03+00:00"
+  },
+  "b50b7543844710a3918a9b6e2975609f416c1a596372d7fa29bb0f598b3d9475": {
+    "url": "https://tass.com/world/2159073",
+    "title": "Over 10 blasts heard in Iranian city of Bandar-e-Jask \u2014 IRIB",
+    "published": "2026-07-12T01:07:51+00:00"
   },
   "c4eb7352dcd1422310798ec9d1f5ec4a162c297977e18facefceae4a39531e93": {
     "url": "https://www.rt.com/news/642902-us-third-night-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -333,6 +378,11 @@
     "url": "https://tass.com/world/2159011",
     "title": "NATO sees no evidence of Russia preparing to attack Baltic states \u2014 The Times",
     "published": "2026-07-11T16:16:40+00:00"
+  },
+  "68a4c4d100cb13756651114bd86c660068bbeef728049b8fb08a8d6d4bb212be": {
+    "url": "https://www.rt.com/news/642889-sea-of-mourners-ali-khamenei/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Ali Khamenei\u2019s funeral shows why Iran\u2019s system did not collapse",
+    "published": "2026-07-11T16:03:46+00:00"
   },
   "ecda2905d18fdd6647b00b20a164b0b1de25e022371428c81c8a00b91114439a": {
     "url": "https://english.almanar.com.lb/article/103097/",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/63822",
     "title": "France Accused of Supporting Al-Qaeda in Mali's Sahel Region",
     "published": "2026-07-10T21:11:04.187716+00:00"
-  },
-  "f9d25f7fc024b416c4b32cc0007c1005beb0c59ec371d4a81e32c0c81b3b132e": {
-    "url": "thecradlemedia/63827",
-    "title": "British Documentarian Louis Theroux Hosts Premiere of Gaza Medical Documentary 'Life Support'",
-    "published": "2026-07-10T21:11:03.500625+00:00"
-  },
-  "92a176c307580ca7363499ded08f7400a6aa82ecf7ac061700d754739723b6ed": {
-    "url": "https://tass.com/world/2158915",
-    "title": "Israel prepared for any scenarios, either defensive or offensive \u2014 defense minister",
-    "published": "2026-07-10T21:00:39+00:00"
-  },
-  "d8b361eb08ea942d2a44c275ec39df912dade5b90a33373d1950283ca93dd319": {
-    "url": "https://tass.com/politics/2158913",
-    "title": "Zaporozhye nuke survived over 400 Ukrainian drone attacks since mid-March \u2014 Rosatom",
-    "published": "2026-07-10T20:56:33+00:00"
-  },
-  "e1b39c937fb2bdcaae34617c7fcf794f5e9b956ef53c1509117cb552bc2e021a": {
-    "url": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
-    "title": "Lebanon historic sites destroyed by Israeli strikes",
-    "published": "2026-07-10T20:33:08+00:00"
-  },
-  "aa53a4df706fc25a6dc5291fe0be68a5b629d9c030dbfb9d3b3363a657cc9987": {
-    "url": "intelslava/90169",
-    "title": "Russian Drone Destroys Ukrainian Armored Vehicle in Eastern Ukraine",
-    "published": "2026-07-10T19:46:21.071637+00:00"
-  },
-  "ad539ac5a7eb7f462bb13df98b95e0d72ad877f5501e17014e807d72220b1ae3": {
-    "url": "intelslava/90171",
-    "title": "Ukraine Infrastructure Facility Damaged in Strike",
-    "published": "2026-07-10T19:44:47.536246+00:00"
-  },
-  "f2e99cdf2f3594800348e7bd1593a438bdbf7316749d34ceae750ee5466f6d7d": {
-    "url": "intelslava/90186",
-    "title": "Russian Airstrikes Hit Ukrainian Positions in Donetsk and Kharkiv",
-    "published": "2026-07-10T19:44:32.898117+00:00"
-  },
-  "a460546284a87db7496d8b33dbad249ac6f7f6c341e346cd31e66d3c3b6d3a80": {
-    "url": "QudsNen/230684",
-    "title": "Israeli Drones Strike Palestinian Homes in Gaza",
-    "published": "2026-07-10T19:42:57.956854+00:00"
-  },
-  "d5f861dac114bcbe15b259cce86ae91ae6ae07d06523980ab4d2222470cbf593": {
-    "url": "thecradlemedia/63831",
-    "title": "Trump Declares Ceasefire 'Over' Amid Ongoing Tensions with Iran",
-    "published": "2026-07-10T19:41:51.151649+00:00"
-  },
-  "929b49781669f22756499cbfc40cd9beeff17f3d3aac3f60163242a877747d91": {
-    "url": "thecradlemedia/63838",
-    "title": "Russia, Turkey Discuss S-400 Resale to Gulf States Amid F-35 Conditions",
-    "published": "2026-07-10T19:41:41.873943+00:00"
   }
 }
