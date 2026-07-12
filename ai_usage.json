@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4751,
+  "total_calls": 4755,
   "tiers": {
-    "groq": 4732,
+    "groq": 4736,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-10T11:00:36.840738+00:00",
-      "tier": "groq",
-      "article": "New US strikes on Iran receive unofficial designation Operation \"Bitch Slap\" \u2014 NYP"
-    },
-    {
-      "timestamp": "2026-07-10T11:01:11.645617+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent reports Israeli drone strike in the southern Lebanese town of Kfar Remman in Nabatieh district - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-10T11:01:57.521141+00:00",
-      "tier": "groq",
-      "article": "Maritime navigation center damaged in US strike on Iran's Chabahar port"
-    },
-    {
-      "timestamp": "2026-07-10T11:02:16.187548+00:00",
-      "tier": "groq",
-      "article": "Araghchi spoke with his Turkish, Omani counterparts on Hormuz"
-    },
     {
       "timestamp": "2026-07-10T14:36:24.915485+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T20:55:45.326002+00:00",
       "tier": "groq",
       "article": "Oman suggests organizing two separate maritime routes in Strait of Hormuz \u2014 TV"
+    },
+    {
+      "timestamp": "2026-07-12T22:56:37.354519+00:00",
+      "tier": "groq",
+      "article": "US resumes strikes against Iran after latest Hormuz attacks"
+    },
+    {
+      "timestamp": "2026-07-12T22:57:13.418669+00:00",
+      "tier": "groq",
+      "article": "Iran says strikes on US facilities constitute legitimate self-defense"
+    },
+    {
+      "timestamp": "2026-07-12T22:58:00.185703+00:00",
+      "tier": "groq",
+      "article": "IRGC destroys US command centre at Jordan base"
+    },
+    {
+      "timestamp": "2026-07-12T22:58:47.306602+00:00",
+      "tier": "groq",
+      "article": "Iran keeps Strait of Hormuz closed amid standoff with US"
     }
   ]
 }

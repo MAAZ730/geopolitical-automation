@@ -1,4 +1,44 @@
 {
+  "f27f2324eebf79ce0ff202c08a15f941740ce90559195db7b4e2afec8bddfe7b": {
+    "url": "DDGeopolitics/188793",
+    "title": "US Deploys HIMARS Missile Systems from Kuwait Amid Tensions with Iran",
+    "published": "2026-07-12T23:01:26.173916+00:00"
+  },
+  "1c1ddb7c7accc2b2b263624f6bf3c5ab22d49ef773c0d3f20b7007d4a36f0cef": {
+    "url": "QudsNen/231002",
+    "title": "Settler's Dog Attacks Palestinian Child in Hebron",
+    "published": "2026-07-12T23:00:53.824689+00:00"
+  },
+  "e519e451739d8ef4a70c3797e055d16a01999d472b3b829ec529963473921e9a": {
+    "url": "Middle_East_Spectator/34713",
+    "title": "US, Iran Engage in Military Confrontation in Strait of Hormuz",
+    "published": "2026-07-12T23:00:06.119529+00:00"
+  },
+  "82a67f5c906db4b33833bbac53cf01d86bc0230a1fcaab0794a9ba6b96cbc985": {
+    "url": "Middle_East_Spectator/34719",
+    "title": "Iranian Air Defenses Activated Over Kermanshah",
+    "published": "2026-07-12T23:00:04.965581+00:00"
+  },
+  "1b950420a3eb805447fe475f0248cfb88501a9a4ad712aed938f1ed19c3c947d": {
+    "url": "thecradlemedia/63943",
+    "title": "US Launches Airstrikes on Southern Iran Targets",
+    "published": "2026-07-12T22:59:49.437471+00:00"
+  },
+  "9ecee447978497d884259358671ee114d7d3b285a24e04e3f98226c7a9bc08f8": {
+    "url": "thecradlemedia/63946",
+    "title": "US-Iran Tensions Escalate as Washington Accused of Breaching Ceasefire",
+    "published": "2026-07-12T22:58:52.002272+00:00"
+  },
+  "430bef897dddf475a93bc7df83e3a76a8a294773c13053a431eb068186f53ac8": {
+    "url": "https://tass.com/world/2159245",
+    "title": "Iran says strikes on US facilities constitute legitimate self-defense",
+    "published": "2026-07-12T21:50:34+00:00"
+  },
+  "be8c48df985f3428ca5201e9cde5d6128263d21128baca63959a1384b6cb47b3": {
+    "url": "https://www.rt.com/news/642926-us-fourth-wave-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US resumes strikes against Iran after latest Hormuz attacks",
+    "published": "2026-07-12T21:31:39+00:00"
+  },
   "9c18806d95a9dbe63859aafcddcb0d0ca6498c0dbdde6e4538e8879945e4c49b": {
     "url": "militarywave/24340",
     "title": "French Activist Commends RT.Doc's Coverage of Donbass Conflict",
@@ -329,6 +369,11 @@
     "title": "Iran launches attacks across the Gulf after more US strikes",
     "published": "2026-07-12T04:59:27+00:00"
   },
+  "99fd51eaaa86e2fd1be344760e74a3102ea61fe954b02763f4438b7ebdcecbfd": {
+    "url": "https://en.mehrnews.com/news/246114/IRGC-destroys-US-command-centre-at-Jordan-base",
+    "title": "IRGC destroys US command centre at Jordan base",
+    "published": "2026-07-12T04:01:27+00:00"
+  },
   "a94b24d8c9b517ca0ea3554cb09909413772bba5d201f108d7300c785dbd61cc": {
     "url": "https://tass.com/world/2159105",
     "title": "US completes series of strikes on Iran, third this week \u2014 CENTCOM",
@@ -403,6 +448,11 @@
     "url": "https://www.rt.com/news/642902-us-third-night-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "US launches third wave of strikes against Iran",
     "published": "2026-07-11T23:57:33+00:00"
+  },
+  "fa4861df57526478f9c4fea2481336ac9cf239147ce70592506ebe03fcc50252": {
+    "url": "https://www.rt.com/news/642900-iran-closes-hormuz-again/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran keeps Strait of Hormuz closed amid standoff with US",
+    "published": "2026-07-11T23:06:38+00:00"
   },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
@@ -698,55 +748,5 @@
     "url": "militarywave/24324",
     "title": "US Military Expansion Plans in Greenland Raise Concerns Over Displacement",
     "published": "2026-07-11T11:15:10.426708+00:00"
-  },
-  "014aa62d19f9c806fc0954186f32144c3f44f96ff227154a5d856aef82bdf390": {
-    "url": "DDGeopolitics/188634",
-    "title": "Russia Targets Kiev Defense Industry in Drone Strike",
-    "published": "2026-07-11T11:13:33.930598+00:00"
-  },
-  "792ab5e8145cb619fe6fa2fa1c09548ac49346ae53802b8be899a3b1d95b469c": {
-    "url": "DDGeopolitics/188640",
-    "title": "Iranian Ballistic Missiles Strike US Air Base in Jordan",
-    "published": "2026-07-11T11:13:28.732161+00:00"
-  },
-  "e8895d433653acd6b4ae2ddafaba73cd6282dbb7f9e698c2d09cdfcd07d72ddc": {
-    "url": "QudsNen/230745",
-    "title": "Israeli Forces, Settlers Attempt to Raid Abu Atta Family Home in Al-Mughayir",
-    "published": "2026-07-11T11:13:16.609815+00:00"
-  },
-  "2a7bbabe27c1d47ccb42c909075108539b0cb7f3311d8b9db5ece7e41f5343dc": {
-    "url": "thecradlemedia/63870",
-    "title": "Iran's Supreme Leader Mojtaba Khamenei Leads Funeral Procession for Late Father",
-    "published": "2026-07-11T11:12:31.379057+00:00"
-  },
-  "ea42cc3431cc8e347672ab6e0753970f7ed3c963e7d963769f1e6cad38c6f2dc": {
-    "url": "thecradlemedia/63872",
-    "title": "Israeli Artillery Strikes Southern Lebanese Towns",
-    "published": "2026-07-11T11:12:29.515636+00:00"
-  },
-  "79b1e2b22f591dc22bf44731dbb10a3325cb49d06bb6aeff8b42d293b8abbee8": {
-    "url": "https://en.irna.ir/news/86206314/How-US-actions-breached-Islamabad-MoU-creating-legal-basis-for",
-    "title": "How US actions breached Islamabad MoU, creating legal basis for reciprocal measures",
-    "published": "2026-07-11T11:08:00+00:00"
-  },
-  "360a182fb051e2cbdfafe944ed1c48b1939425c739de51490e57478bb3878c14": {
-    "url": "https://www.rt.com/news/642886-ukraine-patriot-trump-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Ukraine won\u2019t produce Patriot missiles despite Trump\u2019s promise \u2013 Reuters",
-    "published": "2026-07-11T10:48:18+00:00"
-  },
-  "03b306ea652ae2ed9304a5c4612270f7879377ff7ba03496a4b010ce7a179d65": {
-    "url": "https://tass.com/defense/2158985",
-    "title": "Russia establishes control over settlement of Bachevsk in Sumy region \u2014 defense ministry",
-    "published": "2026-07-11T10:33:43+00:00"
-  },
-  "d94ff05456ea4dcceef804e18f2921c71a61f857ba246a5c719f3f032f828c11": {
-    "url": "https://tass.com/defense/2158981",
-    "title": "Russian air defense forces down 2 bombs, 2 missiles, 445 UAVs over past day \u2014 top brass",
-    "published": "2026-07-11T10:10:29+00:00"
-  },
-  "2d8162b16c92001c42a29448c17cc111d800802557a7144c71260b027b654fcb": {
-    "url": "QudsNen/230749",
-    "title": "Israeli Forces Clash with Residents in Al-Mughayir Raid",
-    "published": "2026-07-11T09:47:29.988530+00:00"
   }
 }
