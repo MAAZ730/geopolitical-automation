@@ -1,4 +1,49 @@
 {
+  "e8e05425e14e715e48f2af84a93a95bd7529ad0ede1c50284fe2279b8ad298d7": {
+    "url": "DDGeopolitics/188756",
+    "title": "US Naval Vessels Strike Iranian Drone and Missile Launch Sites in Southern Iran",
+    "published": "2026-07-12T19:19:13.492754+00:00"
+  },
+  "002653fadf86984ba65c0ba68648c0175d7d68614db957bbf99be4833a40831d": {
+    "url": "DDGeopolitics/188761",
+    "title": "U.S. Airstrike Hits Near Iran's Bushehr Nuclear Power Plant",
+    "published": "2026-07-12T19:18:53.809923+00:00"
+  },
+  "38a6410acb731ece7b82b052b96a52c6a3e74a6f4a25ed03dcdcbe378f63daa0": {
+    "url": "QudsNen/230975",
+    "title": "Gaza City Residential Block Hit in Israeli Airstrikes",
+    "published": "2026-07-12T19:18:50.119618+00:00"
+  },
+  "1a9a9643f2783b3004df28700d9b571d76194b121bf712365a95deeb3c743b9d": {
+    "url": "QudsNen/230978",
+    "title": "Netanyahu Praises US Senator Graham's Support Amid Gaza Conflict",
+    "published": "2026-07-12T19:17:28.482362+00:00"
+  },
+  "3ad540af3d10f83513468c16590fad2b2b36be0d21861e3513931eef44cba966": {
+    "url": "QudsNen/230990",
+    "title": "Israeli Forces Detain Freed Palestinian Detainee in West Bank Raid",
+    "published": "2026-07-12T19:15:03.595383+00:00"
+  },
+  "06bc02274a02e5dbf6fb1250c6f491bf7d03d6c6d737df4c52b5a2a4e978dff7": {
+    "url": "Middle_East_Spectator/34690",
+    "title": "Explosions Rock Southern Iran",
+    "published": "2026-07-12T19:14:56.200837+00:00"
+  },
+  "223edd276a6858bf6006aadb4fb9240c8d539ea80439f77c848dff6b8f8eb460": {
+    "url": "https://www.rt.com/news/642922-iran-himars-attack-kuwait/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iranian drone strikes destroyed US HIMARS launchers in Kuwait \u2013 media",
+    "published": "2026-07-12T18:44:14+00:00"
+  },
+  "380c0be8c2ab8dcce7c5ba9f0b493b0d9f6c116188b1af604169581b9f744b80": {
+    "url": "https://www.tehrantimes.com/news/528101/Hormuz-locked-Iran-crushes-US-military-might",
+    "title": "Hormuz locked: Iran crushes US military might",
+    "published": "2026-07-12T17:45:25+00:00"
+  },
+  "27e125b5e7e542ef0297f26b158c46c9a1ffe62944d7f24d1cbe1f2424caab13": {
+    "url": "https://www.tehrantimes.com/news/528102/The-MoU-is-dead-the-real-war-resumes",
+    "title": "The MoU is dead, the real war resumes",
+    "published": "2026-07-12T17:42:41+00:00"
+  },
   "3ed8822184f5209ef80c54affca44c76cba7cc94ecbd5007c5c0905c13b5ee83": {
     "url": "Middle_East_Spectator/34683",
     "title": "Kuwait Blazes After Mysterious Explosions",
@@ -379,6 +424,11 @@
     "title": "UK Charities Fund Settlements through Cultural Programmes",
     "published": "2026-07-11T20:57:38.012655+00:00"
   },
+  "c90c446827ab28dcf7a830db5418ccb6c980046cdf4622897234bd5ae09bd1b0": {
+    "url": "https://en.mehrnews.com/news/246111/Only-Iran-Oman-entitled-to-decide-on-Hormuz-Strait",
+    "title": "Only Iran, Oman entitled to decide on Hormuz Strait",
+    "published": "2026-07-11T19:50:29+00:00"
+  },
   "b9af5fc8d9d7fc28e47b44333601ce299356857896204551eaadc4e7146d9106": {
     "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
     "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
@@ -698,55 +748,5 @@
     "url": "Slavyangrad/168988",
     "title": "China Lands Rocket Stage on Sea Platform in Historic First",
     "published": "2026-07-11T06:25:43.057718+00:00"
-  },
-  "5ed6845255e3d7475a956d40de142387d98bd7f8d7d3b98232477acf115473f2": {
-    "url": "Slavyangrad/168991",
-    "title": "Russia Launches S-400 Missile Strikes on Kiev, Ukraine",
-    "published": "2026-07-11T06:25:10.807520+00:00"
-  },
-  "f640241850bd195130b75b4c71aff626637c01f5961c60046460a0063fbcef59": {
-    "url": "presstv/198178",
-    "title": "Iran President Warns US Violations Threaten Regional Peace Amid Pakistan Mediation",
-    "published": "2026-07-11T06:24:41.306037+00:00"
-  },
-  "0abaebd794278c8a5e8bdc96b5e9299ea9bba1862a334a6ec7ee6beafcee89fb": {
-    "url": "QudsNen/230732",
-    "title": "Israeli Forces Raid Palestinian Home in Occupied West Bank",
-    "published": "2026-07-11T06:22:18.481978+00:00"
-  },
-  "0afe0bc54ee407968468b62fa605745cf05dce0c6a499ca2f7121d754a216444": {
-    "url": "QudsNen/230735",
-    "title": "Israeli Forces Abduct Palestinian Ex-Detainee in Nablus Raid",
-    "published": "2026-07-11T06:22:17.325508+00:00"
-  },
-  "805e8977e412c72d0a7323caff52f65a7d09dddd5c812a45c8c59719e050e94f": {
-    "url": "QudsNen/230737",
-    "title": "Israeli Forces Raid Home in Masafer Yatta, Threaten Detention and Demolition",
-    "published": "2026-07-11T06:21:19.253814+00:00"
-  },
-  "f4306a665bbf6563b6c18a5cd4d0188d56cb760d01bd4ab7716216c1003c8b46": {
-    "url": "https://tass.com/defense/2158953",
-    "title": "Russian forces strike military-industrial complex enterprises in Kiev \u2014 top brass",
-    "published": "2026-07-11T05:59:41+00:00"
-  },
-  "3b5765ca4ecf7d44dfd3c6f9076eef1513836930d50f3b377a1fb5ac889fdd6c": {
-    "url": "https://en.mehrnews.com/news/246083/Tehran-rejects-US-talks-request-slams-MoU-violations",
-    "title": "Tehran rejects US talks request, slams MoU violations",
-    "published": "2026-07-11T05:34:54+00:00"
-  },
-  "15bd79a0f74bbd3406be5d733b4c3c7a5bf2cfe9b5771fc38683c858dbc1e7ab": {
-    "url": "https://en.mehrnews.com/news/246080/Iran-envoy-slams-UNSC-for-holding-western-backed-meeting",
-    "title": "Iran envoy slams UNSC for holding western-backed meeting",
-    "published": "2026-07-11T04:47:46+00:00"
-  },
-  "bad828812a6669cc048161f36c76359de61e407be045a19999a284690a56317f": {
-    "url": "https://www.rt.com/news/642880-trump-iran-threat-1000-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Trump threatens to \u2018destroy\u2019 Iran over assassination fears",
-    "published": "2026-07-11T04:29:20+00:00"
-  },
-  "62b9e597628fd826f6fc003319a5f2ed18804a1f4776c3504c07f76de1fbf6b6": {
-    "url": "Slavyangrad/168978",
-    "title": "Russian Airstrikes Hit Ukrainian Positions in Eastern Ukraine",
-    "published": "2026-07-11T03:01:07.118825+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4743,
+  "total_calls": 4747,
   "tiers": {
-    "groq": 4724,
+    "groq": 4728,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-10T03:41:19.819106+00:00",
-      "tier": "groq",
-      "article": "Iranian missiles pound enemy command-and-control center in West Asia: IRGC"
-    },
-    {
-      "timestamp": "2026-07-10T03:41:53.798850+00:00",
-      "tier": "groq",
-      "article": "Key US infrastructures in Kuwait, Bahrain hit in retaliation"
-    },
-    {
-      "timestamp": "2026-07-10T03:42:11.426281+00:00",
-      "tier": "groq",
-      "article": "Martyred Leader\u2019s funeral to go down in humanity\u2019s memory"
-    },
-    {
-      "timestamp": "2026-07-10T03:42:46.679958+00:00",
-      "tier": "groq",
-      "article": "Foreign Ministry: US attacks on southern and eastern Iran constitute war crimes"
-    },
     {
       "timestamp": "2026-07-10T07:39:23.453918+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-12T17:06:56.146871+00:00",
       "tier": "groq",
       "article": "US Democrat Ro Khanna says he was detained by armed Israeli settlers"
+    },
+    {
+      "timestamp": "2026-07-12T19:12:09.384401+00:00",
+      "tier": "groq",
+      "article": "Iranian drone strikes destroyed US HIMARS launchers in Kuwait \u2013 media"
+    },
+    {
+      "timestamp": "2026-07-12T19:12:52.027755+00:00",
+      "tier": "groq",
+      "article": "Hormuz locked: Iran crushes US military might"
+    },
+    {
+      "timestamp": "2026-07-12T19:13:11.056093+00:00",
+      "tier": "groq",
+      "article": "The MoU is dead, the real war resumes"
+    },
+    {
+      "timestamp": "2026-07-12T19:14:48.007725+00:00",
+      "tier": "groq",
+      "article": "Only Iran, Oman entitled to decide on Hormuz Strait"
     }
   ]
 }
