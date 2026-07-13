@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4779,
+  "total_calls": 4783,
   "tiers": {
-    "groq": 4760,
+    "groq": 4764,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T06:19:33.815487+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike military-industrial complex enterprises in Kiev \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-07-11T06:20:10.017278+00:00",
-      "tier": "groq",
-      "article": "Trump threatens to \u2018destroy\u2019 Iran over assassination fears"
-    },
-    {
-      "timestamp": "2026-07-11T06:20:56.561623+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s Battlegroup West destroys 108 Ukrainian heavy quadcopters over past 24 hours"
-    },
-    {
-      "timestamp": "2026-07-11T06:21:14.647486+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s security chief warns any attack on infrastructure will be retaliated"
-    },
     {
       "timestamp": "2026-07-11T09:40:45.715656+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-13T19:41:38.210804+00:00",
       "tier": "groq",
       "article": "Europe records over 10,000 excess deaths during late-June heatwave"
+    },
+    {
+      "timestamp": "2026-07-13T21:01:55.918043+00:00",
+      "tier": "groq",
+      "article": "Yemeni Houthis report attacking Abha Airport in Saudi Arabia"
+    },
+    {
+      "timestamp": "2026-07-13T21:02:34.639054+00:00",
+      "tier": "groq",
+      "article": "Lawmakers demand Pentagon release findings from probe of Iran school strike"
+    },
+    {
+      "timestamp": "2026-07-13T21:02:50.914452+00:00",
+      "tier": "groq",
+      "article": "US and Iran reveal results of latest strike exchange"
+    },
+    {
+      "timestamp": "2026-07-13T21:03:35.299759+00:00",
+      "tier": "groq",
+      "article": "Russian kamikaze drone crew eliminates large network of Ukrainian fortifications"
     }
   ]
 }
