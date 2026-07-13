@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4767,
+  "total_calls": 4771,
   "tiers": {
-    "groq": 4748,
+    "groq": 4752,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-10T21:08:45.417096+00:00",
-      "tier": "groq",
-      "article": "Zaporozhye nuke survived over 400 Ukrainian drone attacks since mid-March \u2014 Rosatom"
-    },
-    {
-      "timestamp": "2026-07-10T21:09:26.199692+00:00",
-      "tier": "groq",
-      "article": "Russian attacks kill five as Ukraine continues to target oil infrastructure"
-    },
-    {
-      "timestamp": "2026-07-10T21:10:11.569389+00:00",
-      "tier": "groq",
-      "article": "Lebanon historic sites destroyed by Israeli strikes"
-    },
-    {
-      "timestamp": "2026-07-10T21:10:58.705842+00:00",
-      "tier": "groq",
-      "article": "Self-driving car turns teens over to police (VIDEO)"
-    },
     {
       "timestamp": "2026-07-10T23:03:42.039295+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-13T11:17:26.436235+00:00",
       "tier": "groq",
       "article": "Technology promotion, focus of industrial units reconstruction"
+    },
+    {
+      "timestamp": "2026-07-13T14:43:16.441119+00:00",
+      "tier": "groq",
+      "article": "Yemen says Saudi strike on Sanaa airport ends de-escalation phase"
+    },
+    {
+      "timestamp": "2026-07-13T14:43:51.450548+00:00",
+      "tier": "groq",
+      "article": "Houthis blame Riyadh for the strikes on Sanaa airport"
+    },
+    {
+      "timestamp": "2026-07-13T14:44:09.554311+00:00",
+      "tier": "groq",
+      "article": "Russia keeps modernizing its Armed Forces, says Putin"
+    },
+    {
+      "timestamp": "2026-07-13T14:44:50.154563+00:00",
+      "tier": "groq",
+      "article": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74"
     }
   ]
 }
