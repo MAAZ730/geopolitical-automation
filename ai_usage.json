@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4759,
+  "total_calls": 4763,
   "tiers": {
-    "groq": 4740,
+    "groq": 4744,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-10T17:52:14.622855+00:00",
-      "tier": "groq",
-      "article": "Israeli drones strike Lebanon despite US-brokered framework deal"
-    },
-    {
-      "timestamp": "2026-07-10T17:52:57.714713+00:00",
-      "tier": "groq",
-      "article": "Iran condemns fresh US strikes, warns of retaliation while pursuing regional diplomacy"
-    },
-    {
-      "timestamp": "2026-07-10T17:53:43.394637+00:00",
-      "tier": "groq",
-      "article": "Qatari wealth fund vetoes Volkswagen plan to build missiles for Israel"
-    },
-    {
-      "timestamp": "2026-07-10T17:54:01.588540+00:00",
-      "tier": "groq",
-      "article": "How T\u00fcrkiye went from problem child to power broker in NATO"
-    },
     {
       "timestamp": "2026-07-10T19:39:53.779024+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-13T03:23:09.633048+00:00",
       "tier": "groq",
       "article": "Five drones taken down while approaching Moscow"
+    },
+    {
+      "timestamp": "2026-07-13T06:56:52.215927+00:00",
+      "tier": "groq",
+      "article": "Air defenses repel attack by 81 drones over Moscow Region \u2014 governor"
+    },
+    {
+      "timestamp": "2026-07-13T06:57:10.757877+00:00",
+      "tier": "groq",
+      "article": "IRGC Announces Retaliatory Strikes on US Facilities in Jordan, Bahrain, and Kuwait - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-13T06:57:39.353605+00:00",
+      "tier": "groq",
+      "article": "Russian Armed Forces hit ferry in Chernomorsk port \u2014 Defense Ministry"
+    },
+    {
+      "timestamp": "2026-07-13T06:57:57.980282+00:00",
+      "tier": "groq",
+      "article": "Woman dies, four wounded as Ukrainian drone hits Energodar bus stop"
     }
   ]
 }
