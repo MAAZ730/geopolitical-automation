@@ -1,4 +1,39 @@
 {
+  "5b9521ffb6d9499f0240fc931f0a82ad7bdfcbc6250604051f517ec929559d8b": {
+    "url": "DDGeopolitics/188866",
+    "title": "US Forces Conduct Drone Strike on Iranian Naval Base",
+    "published": "2026-07-13T19:44:55.728698+00:00"
+  },
+  "e9e4500e8326781dc65ecbf6aeaa97e1aebd9c7a4d7c21421eade04a3c0eba1d": {
+    "url": "QudsNen/231094",
+    "title": "Israeli Forces Employ Phosphorus Munitions in Southern Lebanon",
+    "published": "2026-07-13T19:43:38.785644+00:00"
+  },
+  "56133b69aa0f2f0105eb9303554acabfa8c58984a4586b65dd140fb3be3c5195": {
+    "url": "QudsNen/231101",
+    "title": "Gaza Conflict Memorial Embroiders Names of 300 Infant Victims",
+    "published": "2026-07-13T19:42:51.768862+00:00"
+  },
+  "c53a5284f0e0c6b8eadb941d41eebbafb4ba1e3ed7b9234853ebe2612426d55e": {
+    "url": "QudsNen/231110",
+    "title": "Iran Tensions Fuel Oil Price Spike",
+    "published": "2026-07-13T19:42:50.371243+00:00"
+  },
+  "180821c774de1727e0f804e946c0b968940ae8803cbd7f83b28e7c9213247189": {
+    "url": "Middle_East_Spectator/34802",
+    "title": "Missiles Sighted Above King Khalid Airbase in Saudi Arabia",
+    "published": "2026-07-13T19:42:47.392023+00:00"
+  },
+  "b2bc5dd251f73da340a6d5ec95bc58d2f8eec71c4967f62fc1909db0c609645f": {
+    "url": "Middle_East_Spectator/34807",
+    "title": "Saudi Air Defenses Intercept Missiles Above King Khalid Airbase",
+    "published": "2026-07-13T19:42:10.832193+00:00"
+  },
+  "16ea08255ae689736e069e4ada89f730823639af62432323fbf0c84fbb545178": {
+    "url": "https://english.almanar.com.lb/article/103877/",
+    "title": "Yemeni Drones, Ballistic Missiles Strike Abha International Airport in Response to Saudi Aggression - Al-Manar TV Lebanon",
+    "published": "2026-07-13T19:14:40+00:00"
+  },
   "3b4789c8275d08c6b41fa5056e4e6187c5173d8a09596aee3661a17d2a5d154e": {
     "url": "warmonitors/44952",
     "title": "CENTCOM Releases Footage of Strike on Iranian Submarine and Ship Maintenance Facility",
@@ -38,6 +73,16 @@
     "url": "https://www.tehrantimes.com/news/528142/Hormuz-belongs-to-us-not-foreigners-Iran-says",
     "title": "\"Hormuz belongs to us, not foreigners,\" Iran says\u00a0",
     "published": "2026-07-13T17:34:16+00:00"
+  },
+  "7f82b9cb95458a9ffa8f04798d3f6628a3c04176f93ed31b87c2b471d7731c19": {
+    "url": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss",
+    "title": "Staff at DR Congo Ebola centre strike as virus continues spreading",
+    "published": "2026-07-13T17:33:53+00:00"
+  },
+  "9070b00128da20eaca2a4291913cd152f75b092ed44260c83c7a733de1b32074": {
+    "url": "https://www.defensenews.com/news/your-military/2026/07/13/sea-drones-strike-iranian-port-in-combat-first-for-us-navy/",
+    "title": "Sea drones strike Iranian port in combat first for US",
+    "published": "2026-07-13T17:07:19+00:00"
   },
   "66c49ae644f20189048f46d84b9c2b49d61b988a0146d154f4573da643b92d83": {
     "url": "thecradlemedia/63995",
@@ -133,6 +178,11 @@
     "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
     "title": "US and Iran trade strikes as ceasefire comes under growing strain",
     "published": "2026-07-13T09:01:48+00:00"
+  },
+  "4de59cc865a182c3f99524a1addc7ae37e1180b35613861750b72545c2094a49": {
+    "url": "https://www.rt.com/news/642929-europe-records-10000-excess-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Europe records over 10,000 excess deaths during late-June heatwave",
+    "published": "2026-07-13T07:02:20+00:00"
   },
   "e58695649d86e6e223bb4e83241c0e523b32ed81da413a6390034be3c39eb4e7": {
     "url": "DDGeopolitics/188802",
@@ -698,55 +748,5 @@
     "url": "https://www.rt.com/news/642902-us-third-night-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "US launches third wave of strikes against Iran",
     "published": "2026-07-11T23:57:33+00:00"
-  },
-  "fa4861df57526478f9c4fea2481336ac9cf239147ce70592506ebe03fcc50252": {
-    "url": "https://www.rt.com/news/642900-iran-closes-hormuz-again/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran keeps Strait of Hormuz closed amid standoff with US",
-    "published": "2026-07-11T23:06:38+00:00"
-  },
-  "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
-    "url": "CensoredMen/189",
-    "title": "Iran Fires Missiles into Israeli Territory",
-    "published": "2026-07-11T23:05:23.075226+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Lebanon Excluded from Iran Ceasefire Agreement as Israel Escalates Strikes",
-    "published": "2026-07-11T23:02:27.074094+00:00"
-  },
-  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
-    "url": "CensoredMen/205",
-    "title": "Israel Threatens to Destroy Final Bridge Linking Lebanon's North and South",
-    "published": "2026-07-11T22:59:51.038360+00:00"
-  },
-  "e749ee063b8e1799f42e7af8423edc74f81177271082a254438f2f56744fce35": {
-    "url": "QudsNen/230831",
-    "title": "Luxembourg Teacher Fired Over Gaza Conflict Posts",
-    "published": "2026-07-11T22:59:26.454003+00:00"
-  },
-  "e6a91c26fa224f75c8f625e3c9fdee6138dfaf7dbe0985964f7442c83e6c5a1b": {
-    "url": "QudsNen/230832",
-    "title": "Israeli Artillery Strikes Eastern Al-Bureij in Gaza",
-    "published": "2026-07-11T22:59:24.767351+00:00"
-  },
-  "c046a17aedd787a906348d7487adfabba31b1d40a79e6d03182bc6b51c2d5624": {
-    "url": "QudsNen/230841",
-    "title": "Berlin Police Detain Pro-Palestinian Protesters",
-    "published": "2026-07-11T22:59:23.268166+00:00"
-  },
-  "541fa5ddcea6e84d707fd7a4bef2e4c715b8e69b3f3063629adfe1b87a208809": {
-    "url": "https://tass.com/world/2159047",
-    "title": "NATO early warning and control plane spotted off Black Sea coast",
-    "published": "2026-07-11T22:24:04+00:00"
-  },
-  "a1796139f987f57ff1cda0cc03355922d46c0a4e06e0011fada1df22bb3a7637": {
-    "url": "https://tass.com/world/2159045",
-    "title": "Oman suggests organizing two separate maritime routes in Strait of Hormuz \u2014 TV",
-    "published": "2026-07-11T22:03:56+00:00"
-  },
-  "0e7d2b8eef61834ff0c369ad23bcaed888d5a33fce87e2ba555ae70643f634da": {
-    "url": "mod_russia_en/28171",
-    "title": "Russian Forces Conduct Propaganda Operation in Zaporozhye Region",
-    "published": "2026-07-11T21:04:02.736119+00:00"
   }
 }
