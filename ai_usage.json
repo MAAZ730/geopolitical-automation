@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4763,
+  "total_calls": 4767,
   "tiers": {
-    "groq": 4744,
+    "groq": 4748,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-10T19:39:53.779024+00:00",
-      "tier": "groq",
-      "article": "An Israeli drone strike targeted the area between Nabatieh al-Fawqa and Kfar Tebnit: Al-Manar reporter - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-10T19:40:26.099576+00:00",
-      "tier": "groq",
-      "article": "Trump says he ordered unprecedented strike against Iran if he is assassinated"
-    },
-    {
-      "timestamp": "2026-07-10T19:41:17.821732+00:00",
-      "tier": "groq",
-      "article": "Zelenskyy taps European allies to build Freya, a cheaper Patriot-alternative to Russia\u2019s ballistic missiles"
-    },
-    {
-      "timestamp": "2026-07-10T19:41:34.421222+00:00",
-      "tier": "groq",
-      "article": "Huge crowds in Mashhad for burial of Iran's late supreme leader"
-    },
     {
       "timestamp": "2026-07-10T21:08:45.417096+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-13T06:57:57.980282+00:00",
       "tier": "groq",
       "article": "Woman dies, four wounded as Ukrainian drone hits Energodar bus stop"
+    },
+    {
+      "timestamp": "2026-07-13T11:15:38.376059+00:00",
+      "tier": "groq",
+      "article": "US and Iran trade strikes as ceasefire comes under growing strain"
+    },
+    {
+      "timestamp": "2026-07-13T11:16:18.564665+00:00",
+      "tier": "groq",
+      "article": "Iran Warns of \u2018Regret-Inducing\u2019 Counterstrikes: \u2018No Action Against Us Will Go Unanswered\u2019 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-13T11:17:06.255354+00:00",
+      "tier": "groq",
+      "article": "Russian forces advance toward Druzhkovka despite Ukrainian air counterstrikes \u2014 DPR head"
+    },
+    {
+      "timestamp": "2026-07-13T11:17:26.436235+00:00",
+      "tier": "groq",
+      "article": "Technology promotion, focus of industrial units reconstruction"
     }
   ]
 }
