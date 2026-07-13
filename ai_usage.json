@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4771,
+  "total_calls": 4775,
   "tiers": {
-    "groq": 4752,
+    "groq": 4756,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-10T23:03:42.039295+00:00",
-      "tier": "groq",
-      "article": "Israel prepared for any scenarios, either defensive or offensive \u2014 defense minister"
-    },
-    {
-      "timestamp": "2026-07-10T23:04:22.794557+00:00",
-      "tier": "groq",
-      "article": "Why Trump\u2019s Patriot license will be useless for Ukraine"
-    },
-    {
-      "timestamp": "2026-07-10T23:05:10.432142+00:00",
-      "tier": "groq",
-      "article": "NATO\u2019s claims on Iran nuke, Strait of Hormuz \u2018baseless\""
-    },
-    {
-      "timestamp": "2026-07-10T23:05:28.923124+00:00",
-      "tier": "groq",
-      "article": "Top Official Warns of Retaliation for Attacks on Iran\u2019s Infrastructure: \u2018Israel\u2019 Would Be Targeted - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-07-11T02:54:23.125226+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-13T14:44:50.154563+00:00",
       "tier": "groq",
       "article": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74"
+    },
+    {
+      "timestamp": "2026-07-13T17:57:53.527159+00:00",
+      "tier": "groq",
+      "article": "Iran says US pressure on Oman &#039;obstructing&#039; joint Hormuz management"
+    },
+    {
+      "timestamp": "2026-07-13T17:58:31.279736+00:00",
+      "tier": "groq",
+      "article": "\"Hormuz belongs to us, not foreigners,\" Iran says\u00a0"
+    },
+    {
+      "timestamp": "2026-07-13T17:58:50.422557+00:00",
+      "tier": "groq",
+      "article": "How the US could use Iraq to open a new front against Iran next"
+    },
+    {
+      "timestamp": "2026-07-13T17:59:38.822722+00:00",
+      "tier": "groq",
+      "article": "Lindsey Graham is dead, but the warmongering system he served lives on"
     }
   ]
 }

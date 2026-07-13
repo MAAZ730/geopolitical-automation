@@ -1,4 +1,44 @@
 {
+  "3b4789c8275d08c6b41fa5056e4e6187c5173d8a09596aee3661a17d2a5d154e": {
+    "url": "warmonitors/44952",
+    "title": "CENTCOM Releases Footage of Strike on Iranian Submarine and Ship Maintenance Facility",
+    "published": "2026-07-13T18:03:16.769189+00:00"
+  },
+  "ac5a77f89f5aedc5a435634d6fdcc82ddff918b68b906e2deb8af0ceff3addc6": {
+    "url": "QudsNen/231088",
+    "title": "Israeli Military Raids and Extremist Settler Activity in Syrian Border Region",
+    "published": "2026-07-13T18:02:09.383657+00:00"
+  },
+  "26bbed74af9d328a37a5efd2b3fccdc445ec366b67644350ab384ee3a5878c8b": {
+    "url": "QudsNen/231089",
+    "title": "Israeli Drone Strike Hits Civilians in Al-Nusierat Refugee Camp, Gaza Strip",
+    "published": "2026-07-13T18:01:21.659335+00:00"
+  },
+  "596ff8ebf0f41ef0e33f2ce5272c706ea0e1d2880c4280cd19b638320509a502": {
+    "url": "Middle_East_Spectator/34784",
+    "title": "US Releases Footage of Naval Drone Strikes on Iranian Military Facilities",
+    "published": "2026-07-13T18:00:48.975385+00:00"
+  },
+  "94b7327b7c890fe697ded2bda4814337e3b0d537a47c6f4d3c77a7910f0faab8": {
+    "url": "thecradlemedia/64014",
+    "title": "Israeli Settlement Expansion in Occupied East Jerusalem Sparks Palestinian Condemnation",
+    "published": "2026-07-13T17:59:44.916939+00:00"
+  },
+  "f0a32f49a22446470c8b37496070f8e0f677a88703b1af2328d3eaafc87bd1bc": {
+    "url": "thecradlemedia/64026",
+    "title": "Yemen Fires Missiles at Saudi Arabia",
+    "published": "2026-07-13T17:59:43.184085+00:00"
+  },
+  "2cd48ce5c81062ae4b7c19a9d6395c3e544b90d5baef4c977bd6b6ab3e4aecfb": {
+    "url": "https://www.rt.com/news/642957-americas-next-strike-on-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "How the US could use Iraq to open a new front against Iran next",
+    "published": "2026-07-13T17:51:04+00:00"
+  },
+  "370259d8614d468c93c775b0ce4815bfa47afb00af2af72c95961448b2f56f4e": {
+    "url": "https://www.tehrantimes.com/news/528142/Hormuz-belongs-to-us-not-foreigners-Iran-says",
+    "title": "\"Hormuz belongs to us, not foreigners,\" Iran says\u00a0",
+    "published": "2026-07-13T17:34:16+00:00"
+  },
   "66c49ae644f20189048f46d84b9c2b49d61b988a0146d154f4573da643b92d83": {
     "url": "thecradlemedia/63995",
     "title": "Saudi Airstrikes Target Iranian Airliner in Yemen",
@@ -43,6 +83,11 @@
     "url": "https://tass.com/world/2159589",
     "title": "Houthis blame Riyadh for the strikes on Sanaa airport",
     "published": "2026-07-13T13:05:57+00:00"
+  },
+  "41ce6ceafec03147f35ec9327afb4430de0eb5edd5cf89cb467eb3e393457f44": {
+    "url": "https://thecradle.co/articles-id/38755",
+    "title": "Iran says US pressure on Oman &#039;obstructing&#039; joint Hormuz management",
+    "published": "2026-07-13T11:27:49+00:00"
   },
   "64914673512a399e7f357cdac36b1dea515e8c8f1a82e3a05d3984de8ea913ec": {
     "url": "thecradlemedia/63974",
@@ -243,6 +288,11 @@
     "url": "Middle_East_Spectator/34700",
     "title": "U.S. Airstrike Hits Near Iran's Bushehr Nuclear Power Plant",
     "published": "2026-07-12T20:55:57.256887+00:00"
+  },
+  "9196281236199efeccf8e1a282746b9f5874c0f1e980400d9ad972061c062210": {
+    "url": "https://www.rt.com/news/642923-lindsey-graham-was-monster/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Lindsey Graham is dead, but the warmongering system he served lives on",
+    "published": "2026-07-12T20:39:53+00:00"
   },
   "033a00c4c33290d8ee2da621b340433e9a2106e47703b10f05c83da771a1cab2": {
     "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "mod_russia_en/28171",
     "title": "Russian Forces Conduct Propaganda Operation in Zaporozhye Region",
     "published": "2026-07-11T21:04:02.736119+00:00"
-  },
-  "dfc95fc3a8e0df4e0283a11b8108383b22caf2e4cefae53f06bf206162362711": {
-    "url": "Slavyangrad/169062",
-    "title": "Ukraine Drone Offensive Hits Russian Positions in Zaporozhye",
-    "published": "2026-07-11T21:03:17.569396+00:00"
-  },
-  "b5b4b389dbcc86db6df1a21fa272ab402e6f0d4e75d020f993809260d46ce0e2": {
-    "url": "Slavyangrad/169072",
-    "title": "Ukrainian Forces Compromised in Krasny Liman Operation",
-    "published": "2026-07-11T21:01:43.376872+00:00"
-  },
-  "96bfeb728fe8124a9bc3b27d75e1ae871f1d81e51608b4851b025974b1a23b1a": {
-    "url": "Slavyangrad/169074",
-    "title": "Germany and Ukraine Agree to Jointly Produce Bars Jet Drones",
-    "published": "2026-07-11T20:59:17.885285+00:00"
-  },
-  "7faf2defbd016e334adea2b07ae8385ed609252286eec3dabbd6ed5364076ca4": {
-    "url": "QudsNen/230834",
-    "title": "Israeli Aerial Strike Hits Eastern Gaza City",
-    "published": "2026-07-11T20:57:39.414133+00:00"
-  },
-  "3e73c19c15920e5e2cb144ecd5aa84e27a44040264244a235141f2bbb894961d": {
-    "url": "QudsNen/230835",
-    "title": "UK Charities Fund Settlements through Cultural Programmes",
-    "published": "2026-07-11T20:57:38.012655+00:00"
-  },
-  "c90c446827ab28dcf7a830db5418ccb6c980046cdf4622897234bd5ae09bd1b0": {
-    "url": "https://en.mehrnews.com/news/246111/Only-Iran-Oman-entitled-to-decide-on-Hormuz-Strait",
-    "title": "Only Iran, Oman entitled to decide on Hormuz Strait",
-    "published": "2026-07-11T19:50:29+00:00"
-  },
-  "b9af5fc8d9d7fc28e47b44333601ce299356857896204551eaadc4e7146d9106": {
-    "url": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
-    "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
-    "published": "2026-07-11T19:25:59+00:00"
-  },
-  "be00420deb6322e19137a8f83d0f4a7d9c131d4e51ab9d65892e830bff890a2e": {
-    "url": "intelslava/90209",
-    "title": "Russian Forces Repel Overnight Drone Attacks, Engage Ukrainian Troops in Multiple Directions",
-    "published": "2026-07-11T19:15:41.341453+00:00"
-  },
-  "007e5492dec0659109e76bdf8f2f9fc7c8b72d5bea6e88a5a77fb392727deae4": {
-    "url": "intelslava/90217",
-    "title": "Iran Fires Ballistic Missiles at Muwaffaq Salti Air Base in Jordan",
-    "published": "2026-07-11T19:15:19.168236+00:00"
-  },
-  "d5913e4516394d1e8d4d49e07308ec4bc150dbbb9ec022ad3c088502f8ecdafe": {
-    "url": "intelslava/90220",
-    "title": "Russian Loitering Munition Strikes Oil Depot in Pereyaslav, Ukraine",
-    "published": "2026-07-11T19:15:18.089261+00:00"
   }
 }
