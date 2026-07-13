@@ -1,4 +1,19 @@
 {
+  "3a3b229d7f3b40ae7aac166e2d0bb48ac28629fab2985db53a52ab61d67fded1": {
+    "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+    "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+    "published": "2026-07-13T22:47:52+00:00"
+  },
+  "782ec6102decd40790856436a779fb9e11a72d3e23a05dc1e818dbd912c7374d": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+    "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+    "published": "2026-07-13T20:48:18+00:00"
+  },
+  "4dc4994e09e5076db78a901617d4a91ded339d35f32f441742a043bff0900f6a": {
+    "url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
+    "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
+    "published": "2026-07-13T20:41:27+00:00"
+  },
   "9cad51b3f950ba982d6763dc4108d707c057cda79d41c11c7a202a816ab65868": {
     "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
     "title": "Lawmakers demand Pentagon release findings from probe of Iran school strike",
@@ -193,6 +208,11 @@
     "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
     "title": "US and Iran trade strikes as ceasefire comes under growing strain",
     "published": "2026-07-13T09:01:48+00:00"
+  },
+  "3d80e14403bda5c4ce9c2638e1f9484484acb51dd7c76a25ce566238d2ea2fc2": {
+    "url": "https://tass.com/politics/2159377",
+    "title": "Russia\u2019s Battlegroup South UAVs disrupt Ukrainian ammunition supplies in Druzhkovka",
+    "published": "2026-07-13T08:51:55+00:00"
   },
   "9145f961c1c28d9411c3baf0ba2830319f8070b9d2f6fc27519fe7b9e6cffca1": {
     "url": "https://tass.com/politics/2159367",
@@ -728,25 +748,5 @@
     "url": "Middle_East_Spectator/34627",
     "title": "IRGC Claims Responsibility for Missile Strike on Jordanian Airbase",
     "published": "2026-07-12T03:21:39.519912+00:00"
-  },
-  "103fbb6139da09cb1c805576d79ed0153bd0f6a3d7d21592d55715a60cb72eee": {
-    "url": "https://tass.com/world/2159097",
-    "title": "UAE air defenses repel missile, drone attack from Iran \u2014 ministry",
-    "published": "2026-07-12T03:08:57+00:00"
-  },
-  "ea8aecd6b8bf43b73da7074e1b3789508af24c87f7d67ee36327a91f9b45aea2": {
-    "url": "https://tass.com/world/2159091",
-    "title": "Kiev air defenses fail to cope with Russia\u2019s new strikes \u2014 Le Monde",
-    "published": "2026-07-12T02:52:14+00:00"
-  },
-  "8b6e192fb7bcb1c5555044ceada10657e93c3a65f300afbe826c5a544f58ec94": {
-    "url": "https://tass.com/world/2159085",
-    "title": "Iran begins series of strikes at US targets in Middle East \u2014 TV",
-    "published": "2026-07-12T02:29:52+00:00"
-  },
-  "38e1fc9e526f70176e9110caebca2d55ea2efbb7bdfa658f5978591788f63394": {
-    "url": "https://tass.com/world/2159083",
-    "title": "Pentagon\u2019s chief says Iran is paying for its bad choice",
-    "published": "2026-07-12T02:25:48+00:00"
   }
 }

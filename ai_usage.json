@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4783,
+  "total_calls": 4787,
   "tiers": {
-    "groq": 4764,
+    "groq": 4768,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T09:40:45.715656+00:00",
-      "tier": "groq",
-      "article": "Russian missile attacks wound 11 in Kyiv"
-    },
-    {
-      "timestamp": "2026-07-11T09:41:21.936878+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike three ports, two enterprises in Kiev during overnight attack"
-    },
-    {
-      "timestamp": "2026-07-11T09:42:15.648947+00:00",
-      "tier": "groq",
-      "article": "Trump threatens Iran after chants for his death erupted at Khamenei funeral"
-    },
-    {
-      "timestamp": "2026-07-11T09:42:31.784949+00:00",
-      "tier": "groq",
-      "article": "Iran not let US interfere in Strait of Hormuz: Senior cleric"
-    },
     {
       "timestamp": "2026-07-11T11:10:48.774993+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-13T21:03:35.299759+00:00",
       "tier": "groq",
       "article": "Russian kamikaze drone crew eliminates large network of Ukrainian fortifications"
+    },
+    {
+      "timestamp": "2026-07-13T23:00:30.696210+00:00",
+      "tier": "groq",
+      "article": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles"
+    },
+    {
+      "timestamp": "2026-07-13T23:01:09.620806+00:00",
+      "tier": "groq",
+      "article": "US strikes Iranian ship with drone boats in first-of-its-kind attack"
+    },
+    {
+      "timestamp": "2026-07-13T23:02:03.189917+00:00",
+      "tier": "groq",
+      "article": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz"
+    },
+    {
+      "timestamp": "2026-07-13T23:02:19.197872+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s Battlegroup South UAVs disrupt Ukrainian ammunition supplies in Druzhkovka"
     }
   ]
 }
