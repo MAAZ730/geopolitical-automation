@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4803,
+  "total_calls": 4807,
   "tiers": {
-    "groq": 4784,
+    "groq": 4788,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T19:11:16.280622+00:00",
-      "tier": "groq",
-      "article": "Those responsible for martyring Leader will face justice: MP"
-    },
-    {
-      "timestamp": "2026-07-11T19:11:54.977046+00:00",
-      "tier": "groq",
-      "article": "Europe\u2019s missile buildup: What NATO\u2019s Ankara summit set in motion"
-    },
-    {
-      "timestamp": "2026-07-11T19:12:47.983349+00:00",
-      "tier": "groq",
-      "article": "The martyred Leader's killers will never die in peace"
-    },
-    {
-      "timestamp": "2026-07-11T19:13:05.783211+00:00",
-      "tier": "groq",
-      "article": "Kiev troops bombard Donetsk People\u2019s Republic seven times over past day"
-    },
     {
       "timestamp": "2026-07-11T20:56:18.559266+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T13:54:10.411315+00:00",
       "tier": "groq",
       "article": "Iran to continue control over Hormuz with might: IRGC spox"
+    },
+    {
+      "timestamp": "2026-07-14T15:28:20.744696+00:00",
+      "tier": "groq",
+      "article": "Israeli strikes killed nine Palestinians so far today, including child and woman: Health sources in Gaza - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-14T15:28:52.343075+00:00",
+      "tier": "groq",
+      "article": "India summons Iranian diplomat over missile killing of seafarer"
+    },
+    {
+      "timestamp": "2026-07-14T15:29:39.100556+00:00",
+      "tier": "groq",
+      "article": "Less than half of Americans support US strikes on Iran, poll shows"
+    },
+    {
+      "timestamp": "2026-07-14T15:30:24.375600+00:00",
+      "tier": "groq",
+      "article": "Washington launches campaign to dismantle, isolate ICC"
     }
   ]
 }
