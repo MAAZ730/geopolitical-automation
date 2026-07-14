@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4799,
+  "total_calls": 4803,
   "tiers": {
-    "groq": 4780,
+    "groq": 4784,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T17:04:33.048941+00:00",
-      "tier": "groq",
-      "article": "Over one thousand exhibits presented at Drone Expo in Kazan"
-    },
-    {
-      "timestamp": "2026-07-11T17:05:08.022664+00:00",
-      "tier": "groq",
-      "article": "How US actions breached Islamabad MoU, creating legal basis for reciprocal measures"
-    },
-    {
-      "timestamp": "2026-07-11T17:05:55.940700+00:00",
-      "tier": "groq",
-      "article": "US early warning aircraft spotted near Persian Gulf"
-    },
-    {
-      "timestamp": "2026-07-11T17:06:15.201720+00:00",
-      "tier": "groq",
-      "article": "Iran Tripled Drone Production Output during US\u2013Israeli Aggression: Caretaker Defense Minister - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-07-11T19:11:16.280622+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T10:06:11.970605+00:00",
       "tier": "groq",
       "article": "German court convicts Iraqi couple of enslaving Yazidi girls "
+    },
+    {
+      "timestamp": "2026-07-14T13:52:34.181680+00:00",
+      "tier": "groq",
+      "article": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport"
+    },
+    {
+      "timestamp": "2026-07-14T13:52:50.572551+00:00",
+      "tier": "groq",
+      "article": "Israeli strike on police post in Gaza kills seven, officials say"
+    },
+    {
+      "timestamp": "2026-07-14T13:53:23.953470+00:00",
+      "tier": "groq",
+      "article": "US raids kills family members of Iranian park ranger in south"
+    },
+    {
+      "timestamp": "2026-07-14T13:54:10.411315+00:00",
+      "tier": "groq",
+      "article": "Iran to continue control over Hormuz with might: IRGC spox"
     }
   ]
 }
