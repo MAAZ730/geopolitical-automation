@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4787,
+  "total_calls": 4791,
   "tiers": {
-    "groq": 4768,
+    "groq": 4772,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T11:10:48.774993+00:00",
-      "tier": "groq",
-      "article": "Russian air defense forces down 2 bombs, 2 missiles, 445 UAVs over past day \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-07-11T11:11:27.510507+00:00",
-      "tier": "groq",
-      "article": "Ukraine won\u2019t produce Patriot missiles despite Trump\u2019s promise \u2013 Reuters"
-    },
-    {
-      "timestamp": "2026-07-11T11:11:45.059423+00:00",
-      "tier": "groq",
-      "article": "NATO reconnaissance aircraft flying over Black Sea has relocated to Baltic states"
-    },
-    {
-      "timestamp": "2026-07-11T11:12:24.264183+00:00",
-      "tier": "groq",
-      "article": "Iran warns US it will retaliate to its attacks \u2014 senior security official"
-    },
     {
       "timestamp": "2026-07-11T13:26:20.872320+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-13T23:02:19.197872+00:00",
       "tier": "groq",
       "article": "Russia\u2019s Battlegroup South UAVs disrupt Ukrainian ammunition supplies in Druzhkovka"
+    },
+    {
+      "timestamp": "2026-07-14T02:43:48.830536+00:00",
+      "tier": "groq",
+      "article": "Military targets to be focus of new wave of US strikes on Iran \u2014 CNN"
+    },
+    {
+      "timestamp": "2026-07-14T02:44:20.333390+00:00",
+      "tier": "groq",
+      "article": "Several facilities near Iran\u2019s Omidiyeh damaged by US strikes on region \u2014 agency"
+    },
+    {
+      "timestamp": "2026-07-14T02:44:38.681466+00:00",
+      "tier": "groq",
+      "article": "US military aircraft spotted over Persian Gulf amid Trump\u2019s threats of strikes on Iran"
+    },
+    {
+      "timestamp": "2026-07-14T02:45:16.070280+00:00",
+      "tier": "groq",
+      "article": "Europe lags behind in space race amid rocket shortage \u2014 Bloomberg"
     }
   ]
 }
