@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4795,
+  "total_calls": 4799,
   "tiers": {
-    "groq": 4776,
+    "groq": 4780,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T14:59:49.223994+00:00",
-      "tier": "groq",
-      "article": "Israeli airstrike targets a vehicle on the Wadi Gaza bridge, leaving a Palestinian martyr and several injuries: reports - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-11T15:00:22.304640+00:00",
-      "tier": "groq",
-      "article": "Ukrainian expert dismisses US pledge about Patriot missile license as `marketing move\u2019"
-    },
-    {
-      "timestamp": "2026-07-11T15:01:08.842906+00:00",
-      "tier": "groq",
-      "article": "Russian UAV solutions are head and shoulders above foreign counterparts \u2014 expert"
-    },
-    {
-      "timestamp": "2026-07-11T15:01:56.248957+00:00",
-      "tier": "groq",
-      "article": "Russian MP calls Dutch desecration of Soviet war memorial attempt to erase history"
-    },
     {
       "timestamp": "2026-07-11T17:04:33.048941+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T06:15:29.077384+00:00",
       "tier": "groq",
       "article": "Canada to plug surveillance gaps with Aussie over-the-horizon radar"
+    },
+    {
+      "timestamp": "2026-07-14T10:04:35.850002+00:00",
+      "tier": "groq",
+      "article": "Russian forces deliver overnight precision strikes on Ukrainian military-industrial sites"
+    },
+    {
+      "timestamp": "2026-07-14T10:05:14.451411+00:00",
+      "tier": "groq",
+      "article": "Revolutionary Guard Calls on Jordanians to Expel US Forces - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-14T10:05:33.774743+00:00",
+      "tier": "groq",
+      "article": "Iran destroys US military facilities, radars, barracks in retaliatory strikes"
+    },
+    {
+      "timestamp": "2026-07-14T10:06:11.970605+00:00",
+      "tier": "groq",
+      "article": "German court convicts Iraqi couple of enslaving Yazidi girls "
     }
   ]
 }
