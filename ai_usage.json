@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4807,
+  "total_calls": 4811,
   "tiers": {
-    "groq": 4788,
+    "groq": 4792,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T20:56:18.559266+00:00",
-      "tier": "groq",
-      "article": "Thousands gather in Srebrenica to mark 31 years since genocide"
-    },
-    {
-      "timestamp": "2026-07-11T20:56:34.800269+00:00",
-      "tier": "groq",
-      "article": "US, Saudi Arabian top diplomats discuss security cooperation \u2014 US Department of State"
-    },
-    {
-      "timestamp": "2026-07-11T20:57:11.450757+00:00",
-      "tier": "groq",
-      "article": "Bluster to mask defeat: Trump\u2019s rhetoric exposes US-Israeli disarray in face of Iranian resilience"
-    },
-    {
-      "timestamp": "2026-07-11T20:57:29.442109+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s drone production output tripled during US-Israeli war"
-    },
     {
       "timestamp": "2026-07-11T22:56:23.738182+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T15:30:24.375600+00:00",
       "tier": "groq",
       "article": "Washington launches campaign to dismantle, isolate ICC"
+    },
+    {
+      "timestamp": "2026-07-14T17:20:26.004721+00:00",
+      "tier": "groq",
+      "article": "WHO warns DR Congo Ebola outbreak may be double the official tally"
+    },
+    {
+      "timestamp": "2026-07-14T17:21:04.059037+00:00",
+      "tier": "groq",
+      "article": "What\u2019s behind the Sanaa Airport attack and latest Yemen tensions?"
+    },
+    {
+      "timestamp": "2026-07-14T17:21:21.030333+00:00",
+      "tier": "groq",
+      "article": "US completes five-hour wave of strikes against Iran \u2014 Central Command"
+    },
+    {
+      "timestamp": "2026-07-14T17:21:56.599526+00:00",
+      "tier": "groq",
+      "article": "Over 50,000 US troops currently deployed across Middle East \u2014 Central Command"
     }
   ]
 }
