@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4811,
+  "total_calls": 4815,
   "tiers": {
-    "groq": 4792,
+    "groq": 4796,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T22:56:23.738182+00:00",
-      "tier": "groq",
-      "article": "Iran envoy slams UNSC for holding western-backed meeting"
-    },
-    {
-      "timestamp": "2026-07-11T22:56:42.687023+00:00",
-      "tier": "groq",
-      "article": "NATO sees no evidence of Russia preparing to attack Baltic states \u2014 The Times"
-    },
-    {
-      "timestamp": "2026-07-11T22:57:14.428426+00:00",
-      "tier": "groq",
-      "article": "Russia establishes control over settlement of Bachevsk in Sumy region \u2014 defense ministry"
-    },
-    {
-      "timestamp": "2026-07-11T22:58:01.868431+00:00",
-      "tier": "groq",
-      "article": "NATO early warning and control plane spotted off Black Sea coast"
-    },
     {
       "timestamp": "2026-07-12T03:19:54.403733+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T17:21:56.599526+00:00",
       "tier": "groq",
       "article": "Over 50,000 US troops currently deployed across Middle East \u2014 Central Command"
+    },
+    {
+      "timestamp": "2026-07-14T19:27:08.789574+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike military facilities in Kiev, Odessa Region \u2014 Defense Ministry"
+    },
+    {
+      "timestamp": "2026-07-14T19:27:40.832611+00:00",
+      "tier": "groq",
+      "article": "Israel Katz seeks pardon for soldier who killed Palestinian"
+    },
+    {
+      "timestamp": "2026-07-14T19:28:25.683199+00:00",
+      "tier": "groq",
+      "article": "Dozens of Iranian MPs declare Islamabad MoU &#039;dead,&#039; vow revenge for Khamenei killing"
+    },
+    {
+      "timestamp": "2026-07-14T19:28:43.903207+00:00",
+      "tier": "groq",
+      "article": "IRGC: One MQ1 drone destroyed in Strait of Hormuz"
     }
   ]
 }
