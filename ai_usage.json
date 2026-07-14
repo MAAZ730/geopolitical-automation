@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4819,
+  "total_calls": 4823,
   "tiers": {
-    "groq": 4800,
+    "groq": 4804,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-12T06:39:16.950547+00:00",
-      "tier": "groq",
-      "article": "Iran launches attacks across the Gulf after more US strikes"
-    },
-    {
-      "timestamp": "2026-07-12T06:39:33.068259+00:00",
-      "tier": "groq",
-      "article": "US completes series of strikes on Iran, third this week \u2014 CENTCOM"
-    },
-    {
-      "timestamp": "2026-07-12T06:39:56.539479+00:00",
-      "tier": "groq",
-      "article": "Pentagon\u2019s chief says Iran is paying for its bad choice"
-    },
-    {
-      "timestamp": "2026-07-12T06:40:16.092983+00:00",
-      "tier": "groq",
-      "article": "Blast heard east of Tehran due to disposal of munitions"
-    },
     {
       "timestamp": "2026-07-12T09:56:21.400517+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T21:04:19.081302+00:00",
       "tier": "groq",
       "article": "Iran executes two ISIL terrorists for armed plot"
+    },
+    {
+      "timestamp": "2026-07-14T23:01:50.609994+00:00",
+      "tier": "groq",
+      "article": "Iran hits US bases, assets in Kuwait"
+    },
+    {
+      "timestamp": "2026-07-14T23:02:29.660236+00:00",
+      "tier": "groq",
+      "article": "US reimposes blockade on Iranian ports, launches more strikes"
+    },
+    {
+      "timestamp": "2026-07-14T23:02:45.694913+00:00",
+      "tier": "groq",
+      "article": "Iran strikes deal with UAE to return Iranian fishermen detained in Emirati waters"
+    },
+    {
+      "timestamp": "2026-07-14T23:03:04.251122+00:00",
+      "tier": "groq",
+      "article": "Action for security of Hormuz\u2019 bill introduced in parliament"
     }
   ]
 }

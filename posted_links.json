@@ -1,4 +1,34 @@
 {
+  "34b1acbe27acdfc01293597296412118d4994fc494bbc9ed164a24000cef7bbc": {
+    "url": "warmonitors/44984",
+    "title": "Rainbet.com: Non-KYC Crypto Casino and Sportsbook",
+    "published": "2026-07-14T23:08:17.109153+00:00"
+  },
+  "19b176ed439d1752d203e1d917794c94cfa32f97bb264143983447804a1d1ab9": {
+    "url": "DDGeopolitics/188958",
+    "title": "Trump Suggests Expanded Russia Sanctions to Target Iran and Hezbollah",
+    "published": "2026-07-14T23:06:17.285005+00:00"
+  },
+  "751625d791fbe23883b49fb005f8b510f07a6e16c36b81f96114a3eeb7dc9890": {
+    "url": "DDGeopolitics/188959",
+    "title": "Missile Strikes Hit US Bases in Bahrain",
+    "published": "2026-07-14T23:04:08.294001+00:00"
+  },
+  "2cf86d0b72b7e7b208fa42c7851cec7aeaeb4d29ef9a362eaaeab61b03a9bc34": {
+    "url": "DDGeopolitics/188976",
+    "title": "Iran Launches Drone Strike on US Base in Jordan",
+    "published": "2026-07-14T23:03:46.507768+00:00"
+  },
+  "230b59c2e4e65fed216efea2a57571d02190663ae57f6e0a81d9b1a368fedbec": {
+    "url": "QudsNen/231226",
+    "title": "Israeli Occupation Forces Conduct Aerial Bombardment in Khan Younis",
+    "published": "2026-07-14T23:03:12.393680+00:00"
+  },
+  "1b72017e4095383d3ae14aca7f6184f3b373436cbe0cc639de04cb66747d8dc7": {
+    "url": "Middle_East_Spectator/34911",
+    "title": "U.S. Airstrikes Target Sirik Telecommunications Tower",
+    "published": "2026-07-14T23:03:09.443658+00:00"
+  },
   "52ce88dd3990937597a420fdefd45717486f5796b8d90eddd02b0ccce793c888": {
     "url": "DDGeopolitics/188960",
     "title": "Bahrain Activates Air Defenses Amid Unidentified Aerial Threat",
@@ -33,6 +63,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
     "title": "What is Iran\u2019s Pickaxe Mountain?",
     "published": "2026-07-14T20:27:40+00:00"
+  },
+  "0c71fd7802428683f8fd8989483200ccd44739fdea2a8385e48c0b5202cd8214": {
+    "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
+    "title": "US reimposes blockade on Iranian ports, launches more strikes",
+    "published": "2026-07-14T19:47:33+00:00"
   },
   "27a572cc7ada0c946d3400ee4d7e487b31fdf5314a80924e5cc0ad1ca41e4722": {
     "url": "QudsNen/231210",
@@ -144,6 +179,11 @@
     "title": "Czech Republic Explores Acquisition of Israeli Air Defense Systems",
     "published": "2026-07-14T15:30:30.318873+00:00"
   },
+  "d1c12f8e2490917c7b47a5ea788854a8cadcd024760c99a941454fc20337d124": {
+    "url": "https://tass.com/world/2160181",
+    "title": "Iran strikes deal with UAE to return Iranian fishermen detained in Emirati waters",
+    "published": "2026-07-14T15:13:50+00:00"
+  },
   "e32f150d15bd634706b69e836f568bf0b1c8065e7d9deec8a77e84947b0e9b3a": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
     "title": "India summons Iranian diplomat over missile killing of seafarer",
@@ -219,10 +259,20 @@
     "title": "Revolutionary Guard Calls on Jordanians to Expel US Forces - Al-Manar TV Lebanon",
     "published": "2026-07-14T08:29:39+00:00"
   },
+  "e536151e92bbd7d4cdaa6db1fb900fe43611786d7dae653cc1b90665b152279f": {
+    "url": "https://en.mehrnews.com/news/246183/Action-for-security-of-Hormuz-bill-introduced-in-parliament",
+    "title": "Action for security of Hormuz\u2019 bill introduced in parliament",
+    "published": "2026-07-14T08:02:01+00:00"
+  },
   "4e496502561c9e091ad706dfce26c48b729433b16acade4180318dea3ae6768c": {
     "url": "https://tass.com/politics/2159933",
     "title": "Russian forces deliver overnight precision strikes on Ukrainian military-industrial sites",
     "published": "2026-07-14T07:59:45+00:00"
+  },
+  "17faa92db9655299b90f7c28687a7b349e1f422885735abf26d4f3e1481ab635": {
+    "url": "https://en.irna.ir/news/86208666/Iran-hits-US-bases-assets-in-Kuwait",
+    "title": "Iran hits US bases, assets in Kuwait",
+    "published": "2026-07-14T07:38:58+00:00"
   },
   "e729287bdaccaddb3c94c1ff84bd4879216b325e6a5fdf019ac6f977eae9d4b4": {
     "url": "https://en.irna.ir/news/86208675/Iran-destroys-US-military-facilities-radars-barracks-in-retaliatory",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
     "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
     "published": "2026-07-12T19:53:03+00:00"
-  },
-  "e8e05425e14e715e48f2af84a93a95bd7529ad0ede1c50284fe2279b8ad298d7": {
-    "url": "DDGeopolitics/188756",
-    "title": "US Naval Vessels Strike Iranian Drone and Missile Launch Sites in Southern Iran",
-    "published": "2026-07-12T19:19:13.492754+00:00"
-  },
-  "002653fadf86984ba65c0ba68648c0175d7d68614db957bbf99be4833a40831d": {
-    "url": "DDGeopolitics/188761",
-    "title": "U.S. Airstrike Hits Near Iran's Bushehr Nuclear Power Plant",
-    "published": "2026-07-12T19:18:53.809923+00:00"
-  },
-  "38a6410acb731ece7b82b052b96a52c6a3e74a6f4a25ed03dcdcbe378f63daa0": {
-    "url": "QudsNen/230975",
-    "title": "Gaza City Residential Block Hit in Israeli Airstrikes",
-    "published": "2026-07-12T19:18:50.119618+00:00"
-  },
-  "1a9a9643f2783b3004df28700d9b571d76194b121bf712365a95deeb3c743b9d": {
-    "url": "QudsNen/230978",
-    "title": "Netanyahu Praises US Senator Graham's Support Amid Gaza Conflict",
-    "published": "2026-07-12T19:17:28.482362+00:00"
-  },
-  "3ad540af3d10f83513468c16590fad2b2b36be0d21861e3513931eef44cba966": {
-    "url": "QudsNen/230990",
-    "title": "Israeli Forces Detain Freed Palestinian Detainee in West Bank Raid",
-    "published": "2026-07-12T19:15:03.595383+00:00"
-  },
-  "06bc02274a02e5dbf6fb1250c6f491bf7d03d6c6d737df4c52b5a2a4e978dff7": {
-    "url": "Middle_East_Spectator/34690",
-    "title": "Explosions Rock Southern Iran",
-    "published": "2026-07-12T19:14:56.200837+00:00"
-  },
-  "223edd276a6858bf6006aadb4fb9240c8d539ea80439f77c848dff6b8f8eb460": {
-    "url": "https://www.rt.com/news/642922-iran-himars-attack-kuwait/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iranian drone strikes destroyed US HIMARS launchers in Kuwait \u2013 media",
-    "published": "2026-07-12T18:44:14+00:00"
-  },
-  "380c0be8c2ab8dcce7c5ba9f0b493b0d9f6c116188b1af604169581b9f744b80": {
-    "url": "https://www.tehrantimes.com/news/528101/Hormuz-locked-Iran-crushes-US-military-might",
-    "title": "Hormuz locked: Iran crushes US military might",
-    "published": "2026-07-12T17:45:25+00:00"
-  },
-  "c103705f4047d85848d8a3beb1ce7bf77d357a57eb79cffc8a34a7c4efba6aa8": {
-    "url": "https://www.tehrantimes.com/news/528103/Responding-to-enemy-attacks-with-heavy-blows-to-US-strategic",
-    "title": "Responding to enemy attacks with heavy blows to US strategic infrastructure",
-    "published": "2026-07-12T17:43:25+00:00"
-  },
-  "886cbecfd69e95ea6418b9a10e0173a8b867f9b80a2bd55b1e9252abc6b0ca69": {
-    "url": "https://tass.com/emergencies/2159187",
-    "title": "Supermarket in Zaporozhye Region attacked by Ukrainian drone",
-    "published": "2026-07-12T17:43:07+00:00"
   }
 }
