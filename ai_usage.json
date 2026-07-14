@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4791,
+  "total_calls": 4795,
   "tiers": {
-    "groq": 4772,
+    "groq": 4776,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-11T13:26:20.872320+00:00",
-      "tier": "groq",
-      "article": "Russian forces effectively strike Ukrainian port facilities \u2014 defense ministry"
-    },
-    {
-      "timestamp": "2026-07-11T13:26:53.005880+00:00",
-      "tier": "groq",
-      "article": "Israeli Air Raids Target Al-Mansouri, Bombings Rock Houla in South Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-11T13:27:11.244393+00:00",
-      "tier": "groq",
-      "article": "Mali reveals Al-Qaeda extremists in the Sahel receive training, drones from Ukraine"
-    },
-    {
-      "timestamp": "2026-07-11T13:27:47.631803+00:00",
-      "tier": "groq",
-      "article": "Gaza Toll Surpasses 73,000 as Health Ministry Warns of Ambulance Fleet Collapse - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-07-11T14:59:49.223994+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T02:45:16.070280+00:00",
       "tier": "groq",
       "article": "Europe lags behind in space race amid rocket shortage \u2014 Bloomberg"
+    },
+    {
+      "timestamp": "2026-07-14T06:13:43.474645+00:00",
+      "tier": "groq",
+      "article": "Decisive Retaliation: IRGC Unleashes Devastating Missile Strikes on US Fifth Fleet in Bahrain and Key Jordanian Airbase - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-14T06:14:02.211494+00:00",
+      "tier": "groq",
+      "article": "US bid to reopen Hormuz Strait falters after Iran missile strike on two UAE tankers - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-14T06:14:35.861328+00:00",
+      "tier": "groq",
+      "article": "US bombs Iran after Trump vows to \u2018hit them hard\u2019"
+    },
+    {
+      "timestamp": "2026-07-14T06:15:29.077384+00:00",
+      "tier": "groq",
+      "article": "Canada to plug surveillance gaps with Aussie over-the-horizon radar"
     }
   ]
 }
