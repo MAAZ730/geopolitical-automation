@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4815,
+  "total_calls": 4819,
   "tiers": {
-    "groq": 4796,
+    "groq": 4800,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-12T03:19:54.403733+00:00",
-      "tier": "groq",
-      "article": "Kiev air defenses fail to cope with Russia\u2019s new strikes \u2014 Le Monde"
-    },
-    {
-      "timestamp": "2026-07-12T03:20:34.863054+00:00",
-      "tier": "groq",
-      "article": "US launches fresh strikes as Iran closes Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-07-12T03:20:50.895044+00:00",
-      "tier": "groq",
-      "article": "US launches third wave of strikes against Iran"
-    },
-    {
-      "timestamp": "2026-07-12T03:21:35.077764+00:00",
-      "tier": "groq",
-      "article": "Tehran rejects US talks request, slams MoU violations"
-    },
     {
       "timestamp": "2026-07-12T06:39:16.950547+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T19:28:43.903207+00:00",
       "tier": "groq",
       "article": "IRGC: One MQ1 drone destroyed in Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-07-14T21:03:10.804606+00:00",
+      "tier": "groq",
+      "article": "What is Iran\u2019s Pickaxe Mountain?"
+    },
+    {
+      "timestamp": "2026-07-14T21:03:43.011584+00:00",
+      "tier": "groq",
+      "article": "Huge Explosions Reported in Kuwait, Bahrain: Mehr News Agency - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-14T21:04:00.847945+00:00",
+      "tier": "groq",
+      "article": "Guarding nature, losing family: American airstrike leaves Iranian park ranger alone amid the ruins"
+    },
+    {
+      "timestamp": "2026-07-14T21:04:19.081302+00:00",
+      "tier": "groq",
+      "article": "Iran executes two ISIL terrorists for armed plot"
     }
   ]
 }
