@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4855,
+  "total_calls": 4859,
   "tiers": {
-    "groq": 4836,
+    "groq": 4840,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T03:21:31.515911+00:00",
-      "tier": "groq",
-      "article": "Iran attacks US base in Jordan with missiles, drones \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-07-13T03:22:06.164707+00:00",
-      "tier": "groq",
-      "article": "Iran warns Gulf states against facilitating US attacks"
-    },
-    {
-      "timestamp": "2026-07-13T03:22:51.699481+00:00",
-      "tier": "groq",
-      "article": "US intercepts Iranian cruise missile, drone \u2014 media"
-    },
-    {
-      "timestamp": "2026-07-13T03:23:09.633048+00:00",
-      "tier": "groq",
-      "article": "Five drones taken down while approaching Moscow"
-    },
     {
       "timestamp": "2026-07-13T06:56:52.215927+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-15T21:09:37.108307+00:00",
       "tier": "groq",
       "article": "US senator proposes new birthright citizenship bill after Supreme Court ruling"
+    },
+    {
+      "timestamp": "2026-07-15T23:00:27.968604+00:00",
+      "tier": "groq",
+      "article": "US airstrikes in Iran kill 35 over past day, authorities say"
+    },
+    {
+      "timestamp": "2026-07-15T23:01:06.170064+00:00",
+      "tier": "groq",
+      "article": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'"
+    },
+    {
+      "timestamp": "2026-07-15T23:01:52.349240+00:00",
+      "tier": "groq",
+      "article": "Long-range Ukrainian strikes possible only with Western help \u2014 Russian Security Council"
+    },
+    {
+      "timestamp": "2026-07-15T23:02:40.935007+00:00",
+      "tier": "groq",
+      "article": "Venezuela\u2019s acting president expresses gratitude for Russia\u2019s solidarity \u2014 ambassador"
     }
   ]
 }

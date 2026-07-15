@@ -1,4 +1,49 @@
 {
+  "1df1f5a6300c2886126e7d2fcfdf0d596ceb83d9888231d32e6b2f052d6ee471": {
+    "url": "DDGeopolitics/189024",
+    "title": "Erbil Blasts: US Consulate Reportedly Targeted",
+    "published": "2026-07-15T23:05:01.128829+00:00"
+  },
+  "6ccf2321ff50e540aca8743c4fabe8c6b1574be319818d3fa3e82f9f80b2b124": {
+    "url": "DDGeopolitics/189035",
+    "title": "US Launches ATACMS Missiles from Kuwait towards Iran",
+    "published": "2026-07-15T23:04:49.320583+00:00"
+  },
+  "f4d8bea72504f19035e97b03b84eaf19a796bcad78620b713998ec1fcdd4cc7d": {
+    "url": "QudsNen/231363",
+    "title": "Israeli Airstrike Hits Palestinian Home in Al-Buraij Camp, Gaza Strip",
+    "published": "2026-07-15T23:04:32.476516+00:00"
+  },
+  "00301fe30b0d99b8b645aba2ca34c47f095d99be50cadb7b3b0f380f31fe428f": {
+    "url": "QudsNen/231374",
+    "title": "Israeli Military Vehicles Fire Toward Gaza City's Al-Zaitoun Neighborhood",
+    "published": "2026-07-15T23:03:32.112452+00:00"
+  },
+  "63a697ca0cb9751ac36e824822a8f3f2ffba3bb29decc31adb4c1717d8c86e5b": {
+    "url": "QudsNen/231376",
+    "title": "Gaza Strip Airstrikes Cause Widespread Destruction",
+    "published": "2026-07-15T23:02:48.606625+00:00"
+  },
+  "ef8329ba65fdc526e1d8e049a19721ca842dbbf074cc38c9befc5f394c0ec18c": {
+    "url": "Middle_East_Spectator/34964",
+    "title": "Explosions Rock Kuwait",
+    "published": "2026-07-15T23:02:45.788139+00:00"
+  },
+  "743721ea736157c7114ae6da56b504ec4b90fbd37943bd8d53b950e16abbfc24": {
+    "url": "https://tass.com/politics/2160827",
+    "title": "Long-range Ukrainian strikes possible only with Western help \u2014 Russian Security Council",
+    "published": "2026-07-15T22:52:33+00:00"
+  },
+  "4b62caba610f4ecb0fabe637123e0f41ebbe6876f9cceccfe92426da2f3b57e6": {
+    "url": "https://tass.com/world/2160825",
+    "title": "US airstrikes in Iran kill 35 over past day, authorities say",
+    "published": "2026-07-15T22:29:59+00:00"
+  },
+  "579fb9a150e4896e9c96b794bd09d9748541f4e236e987c106d5fb75808119e7": {
+    "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+    "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+    "published": "2026-07-15T21:55:04+00:00"
+  },
   "06733cdc5ea8bb6c382367b1addb70334921c5f623b42cb211532d4accd1ee02": {
     "url": "QudsNen/231360",
     "title": "Israeli Drone Drops Incendiary Bomb in Southern Lebanon",
@@ -223,6 +268,11 @@
     "url": "https://en.mehrnews.com/news/246228/Trump-s-vicious-cycle-of-threats-against-Iran",
     "title": "Trump\u2019s vicious cycle of threats against Iran",
     "published": "2026-07-15T09:02:35+00:00"
+  },
+  "1ad558cdc2c0e1bf2645a777ad30f362e5a844c501e1f2ab33f6a8087c71d371": {
+    "url": "https://tass.com/emergencies/2160457",
+    "title": "Venezuela\u2019s acting president expresses gratitude for Russia\u2019s solidarity \u2014 ambassador",
+    "published": "2026-07-15T08:56:47+00:00"
   },
   "c9916877da6df1b44df732bf67dcb607918461760904c7c833ee47ab168e34bf": {
     "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/246178/Iran-executes-two-ISIL-terrorists-for-armed-plot",
     "title": "Iran executes two ISIL terrorists for armed plot",
     "published": "2026-07-14T05:38:27+00:00"
-  },
-  "94b53982a818aa9df3c409382a5b6347af5173bb6444782f1ddddc6d7a13996f": {
-    "url": "https://tass.com/politics/2159879",
-    "title": "Russian forces strike military facilities in Kiev, Odessa Region \u2014 Defense Ministry",
-    "published": "2026-07-14T05:29:01+00:00"
-  },
-  "a33729bbc8ae6762c6e77bf6ae4acbdb93e9c53a5f2701ceeef014a633381921": {
-    "url": "https://tass.com/world/2159855",
-    "title": "Over 50,000 US troops currently deployed across Middle East \u2014 Central Command",
-    "published": "2026-07-14T03:19:32+00:00"
-  },
-  "b0df0a6610d841a1769dd558a3cc2ce1714c29287ac0c5f1313b334b05f4649c": {
-    "url": "https://tass.com/world/2159853",
-    "title": "US completes five-hour wave of strikes against Iran \u2014 Central Command",
-    "published": "2026-07-14T03:14:10+00:00"
-  },
-  "5fca4a7cc416652adc411b6725d950e51a5a58b2b483e4e5f749752b23f31727": {
-    "url": "https://tass.com/world/2159831",
-    "title": "Several facilities near Iran\u2019s Omidiyeh damaged by US strikes on region \u2014 agency",
-    "published": "2026-07-14T00:57:11+00:00"
-  },
-  "0998d5548ec21acc164c5a4a141feaa774caefd85322ba0ce9fb20138babdda6": {
-    "url": "https://tass.com/world/2159799",
-    "title": "US military aircraft spotted over Persian Gulf amid Trump\u2019s threats of strikes on Iran",
-    "published": "2026-07-13T23:13:53+00:00"
-  },
-  "4de04d6611eb8962d27097b6a459afcb7a4dd728182a6174d8a026e55b09a8c6": {
-    "url": "https://tass.com/world/2159819",
-    "title": "Military targets to be focus of new wave of US strikes on Iran \u2014 CNN",
-    "published": "2026-07-13T23:01:05+00:00"
-  },
-  "3a3b229d7f3b40ae7aac166e2d0bb48ac28629fab2985db53a52ab61d67fded1": {
-    "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-    "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-    "published": "2026-07-13T22:47:52+00:00"
-  },
-  "c3589fb856781660a258d9fa42ef2c338a66901645418c0eab6b4848b861d28c": {
-    "url": "https://www.rt.com/news/642969-us-iran-war-updates/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US bombs Iran after Trump vows to \u2018hit them hard\u2019",
-    "published": "2026-07-13T22:11:21+00:00"
-  },
-  "782ec6102decd40790856436a779fb9e11a72d3e23a05dc1e818dbd912c7374d": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
-    "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
-    "published": "2026-07-13T20:48:18+00:00"
-  },
-  "4dc4994e09e5076db78a901617d4a91ded339d35f32f441742a043bff0900f6a": {
-    "url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
-    "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
-    "published": "2026-07-13T20:41:27+00:00"
   }
 }
