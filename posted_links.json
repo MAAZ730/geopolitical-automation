@@ -1,4 +1,39 @@
 {
+  "e25e51941bce3435c2d4a568b4ad7d2156fb8bb68df90ce6b95ae33dd730c226": {
+    "url": "QudsNen/231339",
+    "title": "Israeli Occupation Forces Conduct Aerial Strike in Deir Al-Balah, Gaza Strip",
+    "published": "2026-07-15T19:29:05.062577+00:00"
+  },
+  "703a3385b1708016e0be1737c10ad4be69b1334621373f4cba90273a3d996f42": {
+    "url": "QudsNen/231342",
+    "title": "Israeli Airstrikes Hit Gaza Strip Refugee Camp",
+    "published": "2026-07-15T19:27:29.014399+00:00"
+  },
+  "8c1535062707535642f6869b1fbb9c636c7880e3d7bc0a35ff87c803091f0ebb": {
+    "url": "QudsNen/231344",
+    "title": "Israeli Airstrike Hits Residential Building in Deir Al-Balah, Gaza Strip",
+    "published": "2026-07-15T19:26:24.707134+00:00"
+  },
+  "7b43c8466b7cae1c54585cf3eb82d14539e27291b983d84b486e6e29ec47463a": {
+    "url": "QudsNen/231346",
+    "title": "Israeli Airstrike Hits Palestinian Home in Al-Maghazi Refugee Camp, Gaza Strip",
+    "published": "2026-07-15T19:25:06.696558+00:00"
+  },
+  "ced220e5f6cf4f1b6d26a0fbbb446a21b7a4e11951d91ac9cfe05d12519a35c0": {
+    "url": "thecradlemedia/64220",
+    "title": "Iran Reports Surge in Foreign Vessel Traffic Through Hormuz Before US-Iran Tensions Escalate",
+    "published": "2026-07-15T19:23:05.415719+00:00"
+  },
+  "11a1e3a8304db62e155e34d7fbe0e74f7f6206d2ec9d7b620c1e781e77cc466f": {
+    "url": "thecradlemedia/64234",
+    "title": "Hormuz Strait Tensions Test Iran-Oman Alliance",
+    "published": "2026-07-15T19:20:02.153285+00:00"
+  },
+  "40121bf98135cd44bfb4f6cdc022ec1cee387985b702234c5b2edab50c401a8f": {
+    "url": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
+    "title": "Mapping the latest US strikes across Iran",
+    "published": "2026-07-15T17:38:54+00:00"
+  },
   "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
     "url": "CensoredMen/203",
     "title": "Israel Intensifies Strikes on Lebanon Amid Ceasefire Tensions",
@@ -144,6 +179,11 @@
     "title": "Washington intensifies strikes on Iran as IRGC hits back at US assets in West Asia",
     "published": "2026-07-15T09:36:36+00:00"
   },
+  "85ec7cb45413b484a9bfda33514c9ba8589f287aecddcde383c4c9f849428f25": {
+    "url": "https://tass.com/politics/2160465",
+    "title": "Ukrainian military strikes passenger bus with drone in Gorlovka, DPR",
+    "published": "2026-07-15T09:19:48+00:00"
+  },
   "c9916877da6df1b44df732bf67dcb607918461760904c7c833ee47ab168e34bf": {
     "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
     "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
@@ -168,6 +208,11 @@
     "url": "https://en.mehrnews.com/news/246223/Iran-army-vows-revenge-for-US-attack-on-barracks",
     "title": "Iran Army vows revenge for US attack on barracks",
     "published": "2026-07-15T07:32:43+00:00"
+  },
+  "7ec1365e597ceefe20969be9bd106b13ea0f6d2b5a95fc8da03d753d891846b4": {
+    "url": "https://tass.com/politics/2160421",
+    "title": "IN BRIEF: What is known about Russian strikes on Ukrainian ports",
+    "published": "2026-07-15T07:10:07+00:00"
   },
   "a6d64e09c9d73c988a9a5985d48e1771e9c524485d783d403005f350fd4663ac": {
     "url": "https://en.mehrnews.com/news/246219/US-attack-on-park-ranger-post-new-example-of-war-crime",
@@ -253,6 +298,11 @@
     "url": "Middle_East_Spectator/34927",
     "title": "IRGC Targets Kuwait Warehouse in Operation Nasr",
     "published": "2026-07-15T02:45:39.195643+00:00"
+  },
+  "8be411d66c00150a773e55663bd2267b93e9acb8124e9d9ff8fbee4bef608059": {
+    "url": "https://www.rt.com/news/643068-nato-nuclear-sharing-disaster/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "European NATO members increasingly want nukes on Russia\u2019s border",
+    "published": "2026-07-15T01:49:23+00:00"
   },
   "d324642bd9dd04fa2713dde81beebaa19ac060b33cfb50b2dc8f6a9fcedfc140": {
     "url": "https://tass.com/world/2160335",
@@ -698,55 +748,5 @@
     "url": "https://english.almanar.com.lb/article/103877/",
     "title": "Yemeni Drones, Ballistic Missiles Strike Abha International Airport in Response to Saudi Aggression - Al-Manar TV Lebanon",
     "published": "2026-07-13T19:14:40+00:00"
-  },
-  "3b4789c8275d08c6b41fa5056e4e6187c5173d8a09596aee3661a17d2a5d154e": {
-    "url": "warmonitors/44952",
-    "title": "CENTCOM Releases Footage of Strike on Iranian Submarine and Ship Maintenance Facility",
-    "published": "2026-07-13T18:03:16.769189+00:00"
-  },
-  "ac5a77f89f5aedc5a435634d6fdcc82ddff918b68b906e2deb8af0ceff3addc6": {
-    "url": "QudsNen/231088",
-    "title": "Israeli Military Raids and Extremist Settler Activity in Syrian Border Region",
-    "published": "2026-07-13T18:02:09.383657+00:00"
-  },
-  "26bbed74af9d328a37a5efd2b3fccdc445ec366b67644350ab384ee3a5878c8b": {
-    "url": "QudsNen/231089",
-    "title": "Israeli Drone Strike Hits Civilians in Al-Nusierat Refugee Camp, Gaza Strip",
-    "published": "2026-07-13T18:01:21.659335+00:00"
-  },
-  "596ff8ebf0f41ef0e33f2ce5272c706ea0e1d2880c4280cd19b638320509a502": {
-    "url": "Middle_East_Spectator/34784",
-    "title": "US Releases Footage of Naval Drone Strikes on Iranian Military Facilities",
-    "published": "2026-07-13T18:00:48.975385+00:00"
-  },
-  "94b7327b7c890fe697ded2bda4814337e3b0d537a47c6f4d3c77a7910f0faab8": {
-    "url": "thecradlemedia/64014",
-    "title": "Israeli Settlement Expansion in Occupied East Jerusalem Sparks Palestinian Condemnation",
-    "published": "2026-07-13T17:59:44.916939+00:00"
-  },
-  "f0a32f49a22446470c8b37496070f8e0f677a88703b1af2328d3eaafc87bd1bc": {
-    "url": "thecradlemedia/64026",
-    "title": "Yemen Fires Missiles at Saudi Arabia",
-    "published": "2026-07-13T17:59:43.184085+00:00"
-  },
-  "2cd48ce5c81062ae4b7c19a9d6395c3e544b90d5baef4c977bd6b6ab3e4aecfb": {
-    "url": "https://www.rt.com/news/642957-americas-next-strike-on-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "How the US could use Iraq to open a new front against Iran next",
-    "published": "2026-07-13T17:51:04+00:00"
-  },
-  "370259d8614d468c93c775b0ce4815bfa47afb00af2af72c95961448b2f56f4e": {
-    "url": "https://www.tehrantimes.com/news/528142/Hormuz-belongs-to-us-not-foreigners-Iran-says",
-    "title": "\"Hormuz belongs to us, not foreigners,\" Iran says\u00a0",
-    "published": "2026-07-13T17:34:16+00:00"
-  },
-  "7f82b9cb95458a9ffa8f04798d3f6628a3c04176f93ed31b87c2b471d7731c19": {
-    "url": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss",
-    "title": "Staff at DR Congo Ebola centre strike as virus continues spreading",
-    "published": "2026-07-13T17:33:53+00:00"
-  },
-  "9070b00128da20eaca2a4291913cd152f75b092ed44260c83c7a733de1b32074": {
-    "url": "https://www.defensenews.com/news/your-military/2026/07/13/sea-drones-strike-iranian-port-in-combat-first-for-us-navy/",
-    "title": "Sea drones strike Iranian port in combat first for US",
-    "published": "2026-07-13T17:07:19+00:00"
   }
 }

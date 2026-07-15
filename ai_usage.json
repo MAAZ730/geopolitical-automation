@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4847,
+  "total_calls": 4851,
   "tiers": {
-    "groq": 4828,
+    "groq": 4832,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-12T20:54:10.225880+00:00",
-      "tier": "groq",
-      "article": "Nine dead as Russia and Ukraine trade drone and missile salvos"
-    },
-    {
-      "timestamp": "2026-07-12T20:54:51.745494+00:00",
-      "tier": "groq",
-      "article": "Responding to enemy attacks with heavy blows to US strategic infrastructure"
-    },
-    {
-      "timestamp": "2026-07-12T20:55:09.278694+00:00",
-      "tier": "groq",
-      "article": "Supermarket in Zaporozhye Region attacked by Ukrainian drone"
-    },
-    {
-      "timestamp": "2026-07-12T20:55:45.326002+00:00",
-      "tier": "groq",
-      "article": "Oman suggests organizing two separate maritime routes in Strait of Hormuz \u2014 TV"
-    },
     {
       "timestamp": "2026-07-12T22:56:37.354519+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-15T17:23:25.192921+00:00",
       "tier": "groq",
       "article": "Lyse Doucet: Strait of Hormuz remains the fault line as the Iran and US drift back into war"
+    },
+    {
+      "timestamp": "2026-07-15T19:18:37.566096+00:00",
+      "tier": "groq",
+      "article": "Mapping the latest US strikes across Iran"
+    },
+    {
+      "timestamp": "2026-07-15T19:19:17.559391+00:00",
+      "tier": "groq",
+      "article": "Ukrainian military strikes passenger bus with drone in Gorlovka, DPR"
+    },
+    {
+      "timestamp": "2026-07-15T19:19:35.965020+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: What is known about Russian strikes on Ukrainian ports"
+    },
+    {
+      "timestamp": "2026-07-15T19:19:54.225166+00:00",
+      "tier": "groq",
+      "article": "European NATO members increasingly want nukes on Russia\u2019s border"
     }
   ]
 }
