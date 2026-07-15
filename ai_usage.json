@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4839,
+  "total_calls": 4843,
   "tiers": {
-    "groq": 4820,
+    "groq": 4824,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-12T17:04:47.345899+00:00",
-      "tier": "groq",
-      "article": "Russian strikes hit port infrastructure in Odessa, Chernomorsk"
-    },
-    {
-      "timestamp": "2026-07-12T17:05:20.982269+00:00",
-      "tier": "groq",
-      "article": "Iran begins series of strikes at US targets in Middle East \u2014 TV"
-    },
-    {
-      "timestamp": "2026-07-12T17:06:06.999451+00:00",
-      "tier": "groq",
-      "article": "US delivers strikes on Iranian targets in Strait of Hormuz area \u2014 Axios journalist"
-    },
-    {
-      "timestamp": "2026-07-12T17:06:56.146871+00:00",
-      "tier": "groq",
-      "article": "US Democrat Ro Khanna says he was detained by armed Israeli settlers"
-    },
     {
       "timestamp": "2026-07-12T19:12:09.384401+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-15T13:50:45.377241+00:00",
       "tier": "groq",
       "article": "Saudi spy drone targeted by Yemeni armed forces"
+    },
+    {
+      "timestamp": "2026-07-15T15:28:18.617277+00:00",
+      "tier": "groq",
+      "article": "Seven killed, 13 injured in US missile attack against Iranian Army base"
+    },
+    {
+      "timestamp": "2026-07-15T15:28:55.689968+00:00",
+      "tier": "groq",
+      "article": "Saudi Arabia Seeks Mediation with Yemen as Sana\u2019a Airport Strikes Raise Escalation Fears - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-15T15:29:16.078986+00:00",
+      "tier": "groq",
+      "article": "US attack on a park ranger post \u2018latest example of war crime\u2019"
+    },
+    {
+      "timestamp": "2026-07-15T15:29:58.578595+00:00",
+      "tier": "groq",
+      "article": "The flawed logic of Lindsay Graham: A pretext for destroying innocent people"
     }
   ]
 }
