@@ -1,4 +1,49 @@
 {
+  "bef8ed4a47cf45628ae0cbde0e7b4a7613c265045060077a81da8c43267cdb4c": {
+    "url": "BellumActaNews/175301",
+    "title": "IRGC Launches Ballistic Missiles from Tabriz, Iran",
+    "published": "2026-07-15T06:25:37.201853+00:00"
+  },
+  "8357f0b605077a2d30da0734ff866a47595881debe1d04364711aef792add635": {
+    "url": "BellumActaNews/175302",
+    "title": "Iran Launches Ballistic Missiles from Tabriz Amid Regional Tensions",
+    "published": "2026-07-15T06:24:27.316539+00:00"
+  },
+  "071dd3449194cd51caf56fb4378884b3a3ed76bbc933946a92f7b144a4a62665": {
+    "url": "DDGeopolitics/188978",
+    "title": "Iran Missile Launches Prompt Air Defense Alert in Jordan",
+    "published": "2026-07-15T06:23:19.441922+00:00"
+  },
+  "e009b5925cbad173fd8b64ddede05ab4a3dd5e698ef50c8948f7300ae00d3219": {
+    "url": "DDGeopolitics/188983",
+    "title": "Iran Launches Eighth Wave of Drone Strikes Against US Forces in Middle East",
+    "published": "2026-07-15T06:22:09.027736+00:00"
+  },
+  "c4f2d081fd827b60af398066e4f159bd747b200274f8899e4adbd68e20bd33e4": {
+    "url": "Middle_East_Spectator/34924",
+    "title": "Iranian Drone Strikes Warehouse in Kuwait",
+    "published": "2026-07-15T06:21:23.116852+00:00"
+  },
+  "d9e5655be74efff7d51e70fc99077547b617cefcb7aeb10fec2fd1aed42eb8b2": {
+    "url": "Middle_East_Spectator/34925",
+    "title": "Kuwait Industrial Town Hit by Iranian Drones",
+    "published": "2026-07-15T06:21:21.925882+00:00"
+  },
+  "d5e23d681c900d095a29acc5225bbd3728b6989da17467f2f79e8d49ceadc714": {
+    "url": "https://en.mehrnews.com/news/246211/VIDEO-Aftermath-of-Iran-attacks-on-US-base-in-Qatar",
+    "title": "VIDEO: Aftermath of Iran attacks on US Al-Udeid base",
+    "published": "2026-07-15T05:20:22+00:00"
+  },
+  "ea99c08fdf573fbccc7ac720e015576c0eb6cbb4c0a5d746b57af7f1b8a8455f": {
+    "url": "https://tass.com/world/2160379",
+    "title": "Trump, US administration officials discuss expanding Iran strikes \u2014 media",
+    "published": "2026-07-15T05:15:01+00:00"
+  },
+  "2842f8189253bcdeb6fe394b19cd38ece1d141b86713090b0ca8a48a266ed390": {
+    "url": "https://en.mehrnews.com/news/246210/Satellite-images-show-Iran-strike-damage-at-US-base-in-Qatar",
+    "title": "Satellite images show Iran strike damage at US base in Qatar",
+    "published": "2026-07-15T05:12:34+00:00"
+  },
   "21a9e0bc982161799d180f47f97aa74023842570ac813caf80c80dd770827de1": {
     "url": "DDGeopolitics/188981",
     "title": "Drone Strike in Kuwait: US Air Defenses Fail to Intercept",
@@ -298,6 +343,11 @@
     "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
     "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
     "published": "2026-07-14T10:02:43+00:00"
+  },
+  "8d45ab9539562baa4051eb9e144874d6cc1d904fcfa11e568da2aa264209d805": {
+    "url": "https://en.mehrnews.com/news/246185/Six-miscalculations-that-doomed-US-strategy-on-Iran",
+    "title": "Six miscalculations that doomed US strategy on Iran",
+    "published": "2026-07-14T08:45:04+00:00"
   },
   "71d7a4995d9e1de1fd90815b06ad4f82980d7f993c4dd030d97b9d617b21aa11": {
     "url": "https://en.mehrnews.com/news/246186/Iran-s-parliament-holds-1st-open-session-after-4-months",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/34755",
     "title": "Explosions and Interception Attempts Rock Bahrain",
     "published": "2026-07-13T03:24:14.709075+00:00"
-  },
-  "1fa9c97f9faa29c090db6f8fdebf027b23ee5ae4b7a952f3c58d7ffce94880d6": {
-    "url": "thecradlemedia/63950",
-    "title": "US Air Raids Hit Multiple Sites in Khuzestan Province",
-    "published": "2026-07-13T03:23:48.155257+00:00"
-  },
-  "e0cb2ee71f8ae4fd5bd389eebe70e8829b4dfd452163bc353ab610b686424815": {
-    "url": "https://tass.com/world/2159269",
-    "title": "Iran attacks US base in Jordan with missiles, drones \u2014 IRGC",
-    "published": "2026-07-13T02:36:14+00:00"
-  },
-  "cc5175361ef57f3f6e4260dde4957a7248f4111121ce34bd6f84ae4f1cab35ef": {
-    "url": "https://www.rt.com/news/642927-iran-tells-gulf-states-stop/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran warns Gulf states against facilitating US attacks",
-    "published": "2026-07-13T00:23:36+00:00"
-  },
-  "29b0e945154e0c724174f01b44474e0ffed7419aa8ef55cd11bc20db2d0b56ce": {
-    "url": "https://tass.com/world/2159253",
-    "title": "US intercepts Iranian cruise missile, drone \u2014 media",
-    "published": "2026-07-13T00:00:25+00:00"
-  },
-  "f27f2324eebf79ce0ff202c08a15f941740ce90559195db7b4e2afec8bddfe7b": {
-    "url": "DDGeopolitics/188793",
-    "title": "US Deploys HIMARS Missile Systems from Kuwait Amid Tensions with Iran",
-    "published": "2026-07-12T23:01:26.173916+00:00"
-  },
-  "1c1ddb7c7accc2b2b263624f6bf3c5ab22d49ef773c0d3f20b7007d4a36f0cef": {
-    "url": "QudsNen/231002",
-    "title": "Settler's Dog Attacks Palestinian Child in Hebron",
-    "published": "2026-07-12T23:00:53.824689+00:00"
-  },
-  "e519e451739d8ef4a70c3797e055d16a01999d472b3b829ec529963473921e9a": {
-    "url": "Middle_East_Spectator/34713",
-    "title": "US, Iran Engage in Military Confrontation in Strait of Hormuz",
-    "published": "2026-07-12T23:00:06.119529+00:00"
-  },
-  "82a67f5c906db4b33833bbac53cf01d86bc0230a1fcaab0794a9ba6b96cbc985": {
-    "url": "Middle_East_Spectator/34719",
-    "title": "Iranian Air Defenses Activated Over Kermanshah",
-    "published": "2026-07-12T23:00:04.965581+00:00"
-  },
-  "1b950420a3eb805447fe475f0248cfb88501a9a4ad712aed938f1ed19c3c947d": {
-    "url": "thecradlemedia/63943",
-    "title": "US Launches Airstrikes on Southern Iran Targets",
-    "published": "2026-07-12T22:59:49.437471+00:00"
-  },
-  "9ecee447978497d884259358671ee114d7d3b285a24e04e3f98226c7a9bc08f8": {
-    "url": "thecradlemedia/63946",
-    "title": "US-Iran Tensions Escalate as Washington Accused of Breaching Ceasefire",
-    "published": "2026-07-12T22:58:52.002272+00:00"
   }
 }
