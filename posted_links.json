@@ -1,4 +1,44 @@
 {
+  "21a9e0bc982161799d180f47f97aa74023842570ac813caf80c80dd770827de1": {
+    "url": "DDGeopolitics/188981",
+    "title": "Drone Strike in Kuwait: US Air Defenses Fail to Intercept",
+    "published": "2026-07-15T02:50:29.277280+00:00"
+  },
+  "38c59b474c023da5429d8391dddd1af8a5ffa27d87461c58fad847f7e9b72b94": {
+    "url": "QudsNen/231249",
+    "title": "Israeli Airstrike Kills Four in Central Gaza Strip",
+    "published": "2026-07-15T02:49:47.391070+00:00"
+  },
+  "266da20d79f93031cd0bc0e7bdd2d6189adc657e4c98d094a306bf47ec2ad853": {
+    "url": "QudsNen/231251",
+    "title": "Israeli Airstrike Hits Residential Building in Deir Al-Balah, Gaza Strip",
+    "published": "2026-07-15T02:49:22.264809+00:00"
+  },
+  "4acb7ae74f44d953bf4c76733f42b645e771f1abc5787ab105afb6976faa1fc8": {
+    "url": "Middle_East_Spectator/34912",
+    "title": "Iran Fires Ballistic Missiles at Jordan Amid Regional Tensions",
+    "published": "2026-07-15T02:46:52.889800+00:00"
+  },
+  "0b188767286a459e68ac62761214fbe39ea52b79cc48b203352d03a767260170": {
+    "url": "Middle_East_Spectator/34926",
+    "title": "IRGC Claims Strike on U.S.-Linked Logistics Hub in Kuwait",
+    "published": "2026-07-15T02:45:40.296482+00:00"
+  },
+  "e3441c87fdbe0be1ad8209e4a8bc0e6d4bfe447e5a31b77caf4bbf004a7df322": {
+    "url": "Middle_East_Spectator/34927",
+    "title": "IRGC Targets Kuwait Warehouse in Operation Nasr",
+    "published": "2026-07-15T02:45:39.195643+00:00"
+  },
+  "d324642bd9dd04fa2713dde81beebaa19ac060b33cfb50b2dc8f6a9fcedfc140": {
+    "url": "https://tass.com/world/2160335",
+    "title": "Kuwait activates air defenses to repel Iranian drone attack",
+    "published": "2026-07-15T01:17:09+00:00"
+  },
+  "a48c4383ceeb6380cc630960cb8ee4b007812e42f4ecca3ba5b74db0b3a2b019": {
+    "url": "https://www.defensenews.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
+    "title": "The US Navy is eyeing next-gen carrier-based drones. Here\u2019s what they might do.",
+    "published": "2026-07-14T23:56:55+00:00"
+  },
   "34b1acbe27acdfc01293597296412118d4994fc494bbc9ed164a24000cef7bbc": {
     "url": "warmonitors/44984",
     "title": "Rainbet.com: Non-KYC Crypto Casino and Sportsbook",
@@ -244,6 +284,11 @@
     "title": "Israeli strikes killed nine Palestinians so far today, including child and woman: Health sources in Gaza - Al-Manar TV Lebanon",
     "published": "2026-07-14T12:53:45+00:00"
   },
+  "2d3aedb49fd65585137dc6792b1297d1ac7ac7ac69945e2b3952954ba625e731": {
+    "url": "https://tass.com/politics/2160099",
+    "title": "Russian forces strike Ukrainian UAV assembly, storage sites in past day \u2014 top brass",
+    "published": "2026-07-14T12:05:09+00:00"
+  },
   "451e5a958769087325afd1b2a5eaad2af3c950f1215d42c6cd4fdff2a7479bd9": {
     "url": "https://en.mehrnews.com/news/246192/Three-martyred-in-US-attacks-on-Iran-s-Hormozgan-prov",
     "title": "US raids kills family members of Iranian park ranger in south",
@@ -253,6 +298,11 @@
     "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
     "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
     "published": "2026-07-14T10:02:43+00:00"
+  },
+  "71d7a4995d9e1de1fd90815b06ad4f82980d7f993c4dd030d97b9d617b21aa11": {
+    "url": "https://en.mehrnews.com/news/246186/Iran-s-parliament-holds-1st-open-session-after-4-months",
+    "title": "Iran\u2019s parliament holds 1st open session after 4 months",
+    "published": "2026-07-14T08:43:48+00:00"
   },
   "4caf974cfaa59ad1fc4cb5a92084d61550af18433b027df21a4e46e33e25cbf2": {
     "url": "https://english.almanar.com.lb/article/104047/",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/63946",
     "title": "US-Iran Tensions Escalate as Washington Accused of Breaching Ceasefire",
     "published": "2026-07-12T22:58:52.002272+00:00"
-  },
-  "430bef897dddf475a93bc7df83e3a76a8a294773c13053a431eb068186f53ac8": {
-    "url": "https://tass.com/world/2159245",
-    "title": "Iran says strikes on US facilities constitute legitimate self-defense",
-    "published": "2026-07-12T21:50:34+00:00"
-  },
-  "be8c48df985f3428ca5201e9cde5d6128263d21128baca63959a1384b6cb47b3": {
-    "url": "https://www.rt.com/news/642926-us-fourth-wave-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US resumes strikes against Iran after latest Hormuz attacks",
-    "published": "2026-07-12T21:31:39+00:00"
-  },
-  "9c18806d95a9dbe63859aafcddcb0d0ca6498c0dbdde6e4538e8879945e4c49b": {
-    "url": "militarywave/24340",
-    "title": "French Activist Commends RT.Doc's Coverage of Donbass Conflict",
-    "published": "2026-07-12T21:00:36.709976+00:00"
-  },
-  "f7220b8df3d4cb29340446fe0a13337b51e0047855a150300016df74c252e603": {
-    "url": "warmonitors/44942",
-    "title": "Cryptocurrency Casino and Sportsbook Rises to Top Despite Lack of Know-Your-Customer Requirements",
-    "published": "2026-07-12T20:59:11.454741+00:00"
-  },
-  "a314f2e7e6028d43aabbc89cb1fe6a0a9989066282cc9d2659b17157e6ba4037": {
-    "url": "DDGeopolitics/188773",
-    "title": "US-Israeli Airstrike Targets Iran's Aerospace Research Institute in Tehran",
-    "published": "2026-07-12T20:57:25.640960+00:00"
-  },
-  "0c267f5bfd15823a6f6b8a3cb041fb0564f1946deaa7d1afd2f6c16a25f804ef": {
-    "url": "QudsNen/230994",
-    "title": "Gaza City Journalist Injured in Israeli Airstrikes",
-    "published": "2026-07-12T20:56:01.448511+00:00"
-  },
-  "17a4a7fdbc1a4c514b75f06b23196517c0427b852f90556af6fef4408413207c": {
-    "url": "QudsNen/231000",
-    "title": "Gaza Strip: Israeli Artillery Strikes Al-Bureij Refugee Camp",
-    "published": "2026-07-12T20:56:00.254231+00:00"
-  },
-  "729068af7da44226a053585c8b35e2772a2214d6e5c5b12233d0b7d3c037d8de": {
-    "url": "Middle_East_Spectator/34700",
-    "title": "U.S. Airstrike Hits Near Iran's Bushehr Nuclear Power Plant",
-    "published": "2026-07-12T20:55:57.256887+00:00"
-  },
-  "9196281236199efeccf8e1a282746b9f5874c0f1e980400d9ad972061c062210": {
-    "url": "https://www.rt.com/news/642923-lindsey-graham-was-monster/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Lindsey Graham is dead, but the warmongering system he served lives on",
-    "published": "2026-07-12T20:39:53+00:00"
-  },
-  "033a00c4c33290d8ee2da621b340433e9a2106e47703b10f05c83da771a1cab2": {
-    "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
-    "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
-    "published": "2026-07-12T19:53:03+00:00"
   }
 }

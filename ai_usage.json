@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4823,
+  "total_calls": 4827,
   "tiers": {
-    "groq": 4804,
+    "groq": 4808,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-12T09:56:21.400517+00:00",
-      "tier": "groq",
-      "article": "US attacks Iran overnight; Tehran targets US sites in the region"
-    },
-    {
-      "timestamp": "2026-07-12T09:57:07.229653+00:00",
-      "tier": "groq",
-      "article": "Iran Pounds US Bases in Region, Closes Strait of Hormuz in Retaliation of New US Attacks - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-12T09:57:28.230395+00:00",
-      "tier": "groq",
-      "article": "Iranian Armed Forces conduct drone, missile attacks on US bases in region"
-    },
-    {
-      "timestamp": "2026-07-12T09:57:46.050505+00:00",
-      "tier": "groq",
-      "article": "Iran chairs event at UN headquarters on Intl. Day of Combating Sand and Dust Storms"
-    },
     {
       "timestamp": "2026-07-12T11:13:56.521228+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-14T23:03:04.251122+00:00",
       "tier": "groq",
       "article": "Action for security of Hormuz\u2019 bill introduced in parliament"
+    },
+    {
+      "timestamp": "2026-07-15T02:44:19.917017+00:00",
+      "tier": "groq",
+      "article": "Kuwait activates air defenses to repel Iranian drone attack"
+    },
+    {
+      "timestamp": "2026-07-15T02:44:58.146656+00:00",
+      "tier": "groq",
+      "article": "The US Navy is eyeing next-gen carrier-based drones. Here\u2019s what they might do."
+    },
+    {
+      "timestamp": "2026-07-15T02:45:14.422358+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike Ukrainian UAV assembly, storage sites in past day \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-15T02:45:33.088194+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s parliament holds 1st open session after 4 months"
     }
   ]
 }
