@@ -1,4 +1,39 @@
 {
+  "06733cdc5ea8bb6c382367b1addb70334921c5f623b42cb211532d4accd1ee02": {
+    "url": "QudsNen/231360",
+    "title": "Israeli Drone Drops Incendiary Bomb in Southern Lebanon",
+    "published": "2026-07-15T21:15:07.740891+00:00"
+  },
+  "846732691db538a2a67d6cfc0bb1237b8e430f16f864551604a9b4249a516df4": {
+    "url": "QudsNen/231361",
+    "title": "Israeli Forces Open Fire on Refugee Tents in Gaza's Al-Zaitoun Neighborhood",
+    "published": "2026-07-15T21:14:55.101667+00:00"
+  },
+  "9b9884282cfd79a433238ac11da2d5eab3daec3d5be8c60b6b93ff211bac5223": {
+    "url": "Middle_East_Spectator/34950",
+    "title": "Erbil Fires Erupt After Iranian Drone and Missile Strike",
+    "published": "2026-07-15T21:14:11.797164+00:00"
+  },
+  "a0a98ce18a7f00d2ce444a8e06879e5a322110f27ede973d2f06d68ed70fcd07": {
+    "url": "Middle_East_Spectator/34958",
+    "title": "US President Claims Success in Disabling Iran's Missile Capabilities",
+    "published": "2026-07-15T21:12:47.189029+00:00"
+  },
+  "10cd36f5e19972a11268c6929006ec6b62c96fc75c301c251c539cb0ae8d6ee9": {
+    "url": "thecradlemedia/64219",
+    "title": "Ahmadinejad Reasserts Presence at Khamenei Memorial Service Amid US Aggression",
+    "published": "2026-07-15T21:12:45.182704+00:00"
+  },
+  "1496ad7acd88ddfe67201423f569baf9539047b6501834371f38ce1d3658bbfb": {
+    "url": "thecradlemedia/64232",
+    "title": "Trump Backs Syria's al-Sharaa Over Israel in Hezbollah Standoff",
+    "published": "2026-07-15T21:12:43.525925+00:00"
+  },
+  "088246212932030dc9d33dd6dfc64849023800ceed19bd1cebbadc5563ce0547": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+    "title": "Russia pounds Ukraine with missile, drone strikes",
+    "published": "2026-07-15T19:59:48+00:00"
+  },
   "e25e51941bce3435c2d4a568b4ad7d2156fb8bb68df90ce6b95ae33dd730c226": {
     "url": "QudsNen/231339",
     "title": "Israeli Occupation Forces Conduct Aerial Strike in Deir Al-Balah, Gaza Strip",
@@ -184,6 +219,11 @@
     "title": "Ukrainian military strikes passenger bus with drone in Gorlovka, DPR",
     "published": "2026-07-15T09:19:48+00:00"
   },
+  "cb648fbe84156bab7ddd40ea8c820de23ad397911cd0545c7ef2fb9bfb3455c4": {
+    "url": "https://en.mehrnews.com/news/246228/Trump-s-vicious-cycle-of-threats-against-Iran",
+    "title": "Trump\u2019s vicious cycle of threats against Iran",
+    "published": "2026-07-15T09:02:35+00:00"
+  },
   "c9916877da6df1b44df732bf67dcb607918461760904c7c833ee47ab168e34bf": {
     "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
     "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
@@ -218,6 +258,11 @@
     "url": "https://en.mehrnews.com/news/246219/US-attack-on-park-ranger-post-new-example-of-war-crime",
     "title": "US attack on a park ranger post \u2018latest example of war crime\u2019",
     "published": "2026-07-15T07:06:33+00:00"
+  },
+  "25244bf31ebaf5126b38beb6a2704838a68e0794e24bb81e89b07ee1bf0eed92": {
+    "url": "https://en.irna.ir/news/86209753/IRGC-says-it-struck-US-military-sites-in-Bahrain-Jordan",
+    "title": "IRGC says it struck US military sites in Bahrain, Jordan",
+    "published": "2026-07-15T06:48:51+00:00"
   },
   "5fb11e3dd1a885f7c08980631bfb95bcfdb98103b4504782d5b06909091bf8bf": {
     "url": "https://en.irna.ir/news/86209660/IRGC-declares-strikes-on-US-military-facilities-in-Kuwait-during",
@@ -268,6 +313,11 @@
     "url": "https://en.mehrnews.com/news/246210/Satellite-images-show-Iran-strike-damage-at-US-base-in-Qatar",
     "title": "Satellite images show Iran strike damage at US base in Qatar",
     "published": "2026-07-15T05:12:34+00:00"
+  },
+  "585d7a6ad81f5d5f4153633ee43994cde1e00608faba5e0d93cce2ba488dab20": {
+    "url": "https://www.rt.com/news/643054-us-senator-bill-birthright-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US senator proposes new birthright citizenship bill after Supreme Court ruling",
+    "published": "2026-07-15T03:09:05+00:00"
   },
   "21a9e0bc982161799d180f47f97aa74023842570ac813caf80c80dd770827de1": {
     "url": "DDGeopolitics/188981",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
     "title": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
     "published": "2026-07-13T20:41:27+00:00"
-  },
-  "9cad51b3f950ba982d6763dc4108d707c057cda79d41c11c7a202a816ab65868": {
-    "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
-    "title": "Lawmakers demand Pentagon release findings from probe of Iran school strike",
-    "published": "2026-07-13T20:35:10+00:00"
-  },
-  "a6ab7f309eb9629987e8666051d014045ed586265c1a19b1a86468f6330c828f": {
-    "url": "https://www.rt.com/news/642966-iran-us-exchange-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US and Iran reveal results of latest strike exchange",
-    "published": "2026-07-13T20:34:28+00:00"
-  },
-  "5b9521ffb6d9499f0240fc931f0a82ad7bdfcbc6250604051f517ec929559d8b": {
-    "url": "DDGeopolitics/188866",
-    "title": "US Forces Conduct Drone Strike on Iranian Naval Base",
-    "published": "2026-07-13T19:44:55.728698+00:00"
-  },
-  "e9e4500e8326781dc65ecbf6aeaa97e1aebd9c7a4d7c21421eade04a3c0eba1d": {
-    "url": "QudsNen/231094",
-    "title": "Israeli Forces Employ Phosphorus Munitions in Southern Lebanon",
-    "published": "2026-07-13T19:43:38.785644+00:00"
-  },
-  "65740557a992f2698e32f741274d358e1932c16758ab22e4ffda27450281f5ee": {
-    "url": "https://tass.com/world/2159777",
-    "title": "Yemeni Houthis report attacking Abha Airport in Saudi Arabia",
-    "published": "2026-07-13T19:43:18+00:00"
-  },
-  "56133b69aa0f2f0105eb9303554acabfa8c58984a4586b65dd140fb3be3c5195": {
-    "url": "QudsNen/231101",
-    "title": "Gaza Conflict Memorial Embroiders Names of 300 Infant Victims",
-    "published": "2026-07-13T19:42:51.768862+00:00"
-  },
-  "c53a5284f0e0c6b8eadb941d41eebbafb4ba1e3ed7b9234853ebe2612426d55e": {
-    "url": "QudsNen/231110",
-    "title": "Iran Tensions Fuel Oil Price Spike",
-    "published": "2026-07-13T19:42:50.371243+00:00"
-  },
-  "180821c774de1727e0f804e946c0b968940ae8803cbd7f83b28e7c9213247189": {
-    "url": "Middle_East_Spectator/34802",
-    "title": "Missiles Sighted Above King Khalid Airbase in Saudi Arabia",
-    "published": "2026-07-13T19:42:47.392023+00:00"
-  },
-  "b2bc5dd251f73da340a6d5ec95bc58d2f8eec71c4967f62fc1909db0c609645f": {
-    "url": "Middle_East_Spectator/34807",
-    "title": "Saudi Air Defenses Intercept Missiles Above King Khalid Airbase",
-    "published": "2026-07-13T19:42:10.832193+00:00"
-  },
-  "16ea08255ae689736e069e4ada89f730823639af62432323fbf0c84fbb545178": {
-    "url": "https://english.almanar.com.lb/article/103877/",
-    "title": "Yemeni Drones, Ballistic Missiles Strike Abha International Airport in Response to Saudi Aggression - Al-Manar TV Lebanon",
-    "published": "2026-07-13T19:14:40+00:00"
   }
 }
