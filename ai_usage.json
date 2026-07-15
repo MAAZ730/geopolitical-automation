@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4835,
+  "total_calls": 4839,
   "tiers": {
-    "groq": 4816,
+    "groq": 4820,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-12T15:00:14.665686+00:00",
-      "tier": "groq",
-      "article": "Oman hands over note of protest to Iranian ambassador following drone attacks"
-    },
-    {
-      "timestamp": "2026-07-12T15:00:48.345807+00:00",
-      "tier": "groq",
-      "article": "Palestinian Red Crescent: Two martyred, several wounded in Israeli drone strike on Gaza City\u2019s Sabra neighborhood - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-12T15:01:34.392158+00:00",
-      "tier": "groq",
-      "article": "Russian forces hit fishing vessel used for launching Kiev\u2019s USVs in Odessa port"
-    },
-    {
-      "timestamp": "2026-07-12T15:01:51.592132+00:00",
-      "tier": "groq",
-      "article": "Araghchi meets Omani counterpart to discuss Hormuz shipping arrangements\u00a0"
-    },
     {
       "timestamp": "2026-07-12T17:04:47.345899+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-15T10:07:46.348684+00:00",
       "tier": "groq",
       "article": "Iran condemns UK\u2019s designation of IRGC as hostile, unjustified measure"
+    },
+    {
+      "timestamp": "2026-07-15T13:49:52.334246+00:00",
+      "tier": "groq",
+      "article": "IRGC declares strikes on US military facilities in Kuwait during Operation Nasr-2"
+    },
+    {
+      "timestamp": "2026-07-15T13:50:08.247093+00:00",
+      "tier": "groq",
+      "article": "Over 30 civilians killed in US strikes on southern Iran"
+    },
+    {
+      "timestamp": "2026-07-15T13:50:26.982191+00:00",
+      "tier": "groq",
+      "article": "Iran Army vows revenge for US attack on barracks"
+    },
+    {
+      "timestamp": "2026-07-15T13:50:45.377241+00:00",
+      "tier": "groq",
+      "article": "Saudi spy drone targeted by Yemeni armed forces"
     }
   ]
 }
