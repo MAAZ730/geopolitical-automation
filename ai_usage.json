@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4867,
+  "total_calls": 4871,
   "tiers": {
-    "groq": 4848,
+    "groq": 4852,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T14:43:16.441119+00:00",
-      "tier": "groq",
-      "article": "Yemen says Saudi strike on Sanaa airport ends de-escalation phase"
-    },
-    {
-      "timestamp": "2026-07-13T14:43:51.450548+00:00",
-      "tier": "groq",
-      "article": "Houthis blame Riyadh for the strikes on Sanaa airport"
-    },
-    {
-      "timestamp": "2026-07-13T14:44:09.554311+00:00",
-      "tier": "groq",
-      "article": "Russia keeps modernizing its Armed Forces, says Putin"
-    },
-    {
-      "timestamp": "2026-07-13T14:44:50.154563+00:00",
-      "tier": "groq",
-      "article": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74"
-    },
     {
       "timestamp": "2026-07-13T17:57:53.527159+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T06:26:02.115326+00:00",
       "tier": "groq",
       "article": "Trump threatens to bomb bridges and power plants in Iran unless talks resume"
+    },
+    {
+      "timestamp": "2026-07-16T10:11:49.819204+00:00",
+      "tier": "groq",
+      "article": "One civilian killed, several injured as air defenses down 375 drones over Russia"
+    },
+    {
+      "timestamp": "2026-07-16T10:12:27.603278+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Khatam Al-Anbia HQ Issues Stark Hormuz Warning, Threatens US of \u201cSuperior\u201d Strikes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-16T10:12:46.004462+00:00",
+      "tier": "groq",
+      "article": "Iran targets military bases as US launches wave of strikes"
+    },
+    {
+      "timestamp": "2026-07-16T10:13:25.015357+00:00",
+      "tier": "groq",
+      "article": "Rad-1 satellite to be unveiled soon, Iranian official says"
     }
   ]
 }
