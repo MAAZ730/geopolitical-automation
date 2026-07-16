@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4859,
+  "total_calls": 4863,
   "tiers": {
-    "groq": 4840,
+    "groq": 4844,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T06:56:52.215927+00:00",
-      "tier": "groq",
-      "article": "Air defenses repel attack by 81 drones over Moscow Region \u2014 governor"
-    },
-    {
-      "timestamp": "2026-07-13T06:57:10.757877+00:00",
-      "tier": "groq",
-      "article": "IRGC Announces Retaliatory Strikes on US Facilities in Jordan, Bahrain, and Kuwait - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-13T06:57:39.353605+00:00",
-      "tier": "groq",
-      "article": "Russian Armed Forces hit ferry in Chernomorsk port \u2014 Defense Ministry"
-    },
-    {
-      "timestamp": "2026-07-13T06:57:57.980282+00:00",
-      "tier": "groq",
-      "article": "Woman dies, four wounded as Ukrainian drone hits Energodar bus stop"
-    },
     {
       "timestamp": "2026-07-13T11:15:38.376059+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-15T23:02:40.935007+00:00",
       "tier": "groq",
       "article": "Venezuela\u2019s acting president expresses gratitude for Russia\u2019s solidarity \u2014 ambassador"
+    },
+    {
+      "timestamp": "2026-07-16T02:51:26.037261+00:00",
+      "tier": "groq",
+      "article": "US ends second series of strikes on Iran in 24 Hours \u2014 CENTCOM"
+    },
+    {
+      "timestamp": "2026-07-16T02:51:58.832533+00:00",
+      "tier": "groq",
+      "article": "US launches second wave of strikes on Iran \u2014 CENTCOM"
+    },
+    {
+      "timestamp": "2026-07-16T02:52:44.646835+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes 20 Russian vessels"
+    },
+    {
+      "timestamp": "2026-07-16T02:53:33.967595+00:00",
+      "tier": "groq",
+      "article": "Trump presses Netanyahu to withdraw Israeli troops from Syria and Lebanon \u2013 Axios"
     }
   ]
 }
