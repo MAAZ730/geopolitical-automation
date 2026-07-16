@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4879,
+  "total_calls": 4883,
   "tiers": {
-    "groq": 4860,
+    "groq": 4864,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T21:01:55.918043+00:00",
-      "tier": "groq",
-      "article": "Yemeni Houthis report attacking Abha Airport in Saudi Arabia"
-    },
-    {
-      "timestamp": "2026-07-13T21:02:34.639054+00:00",
-      "tier": "groq",
-      "article": "Lawmakers demand Pentagon release findings from probe of Iran school strike"
-    },
-    {
-      "timestamp": "2026-07-13T21:02:50.914452+00:00",
-      "tier": "groq",
-      "article": "US and Iran reveal results of latest strike exchange"
-    },
-    {
-      "timestamp": "2026-07-13T21:03:35.299759+00:00",
-      "tier": "groq",
-      "article": "Russian kamikaze drone crew eliminates large network of Ukrainian fortifications"
-    },
     {
       "timestamp": "2026-07-13T23:00:30.696210+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T15:47:25.083699+00:00",
       "tier": "groq",
       "article": "Iran condemns UK designation of IRGC"
+    },
+    {
+      "timestamp": "2026-07-16T17:23:52.628018+00:00",
+      "tier": "groq",
+      "article": "Iran urges southern neighbours to block US attacks"
+    },
+    {
+      "timestamp": "2026-07-16T17:24:33.989114+00:00",
+      "tier": "groq",
+      "article": "Trump\u2019s new Iran strikes won\u2019t end the war over the Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-07-16T17:25:19.894556+00:00",
+      "tier": "groq",
+      "article": "Children, schools, hospitals not safe from US war machine: Iranian official"
+    },
+    {
+      "timestamp": "2026-07-16T17:25:37.854719+00:00",
+      "tier": "groq",
+      "article": "Abbas Kiarostami to be commemorated at Cinema Museum"
     }
   ]
 }
