@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4875,
+  "total_calls": 4879,
   "tiers": {
-    "groq": 4856,
+    "groq": 4860,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T19:40:23.952951+00:00",
-      "tier": "groq",
-      "article": "Yemeni Drones, Ballistic Missiles Strike Abha International Airport in Response to Saudi Aggression - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-13T19:41:05.407368+00:00",
-      "tier": "groq",
-      "article": "Staff at DR Congo Ebola centre strike as virus continues spreading"
-    },
-    {
-      "timestamp": "2026-07-13T19:41:21.967365+00:00",
-      "tier": "groq",
-      "article": "Sea drones strike Iranian port in combat first for US"
-    },
-    {
-      "timestamp": "2026-07-13T19:41:38.210804+00:00",
-      "tier": "groq",
-      "article": "Europe records over 10,000 excess deaths during late-June heatwave"
-    },
     {
       "timestamp": "2026-07-13T21:01:55.918043+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T14:01:50.803750+00:00",
       "tier": "groq",
       "article": "EU backs new restrictions for military-age Ukrainian migrants"
+    },
+    {
+      "timestamp": "2026-07-16T15:46:28.859379+00:00",
+      "tier": "groq",
+      "article": "\u2018No trace left\u2019: Iran vows to wipe out US assets across region if Trump acts on new threats"
+    },
+    {
+      "timestamp": "2026-07-16T15:46:46.898664+00:00",
+      "tier": "groq",
+      "article": "Iran warns US of targeting all infrastructures in region"
+    },
+    {
+      "timestamp": "2026-07-16T15:47:06.743101+00:00",
+      "tier": "groq",
+      "article": "US strikes target Semnan airport"
+    },
+    {
+      "timestamp": "2026-07-16T15:47:25.083699+00:00",
+      "tier": "groq",
+      "article": "Iran condemns UK designation of IRGC"
     }
   ]
 }

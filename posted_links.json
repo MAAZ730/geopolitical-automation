@@ -1,4 +1,34 @@
 {
+  "a5e2558a6029c8ebdd04380c6c4b801ac5fc91854a4e8b6fadc6c47d4e217a7b": {
+    "url": "BellumActaNews/175347",
+    "title": "IRGC Launches Missile from Tabriz, Iran",
+    "published": "2026-07-16T16:01:09.871561+00:00"
+  },
+  "38becb456efe11f7e872a76da38015a02f67b3832b9288ff5d04474722166b0c": {
+    "url": "BellumActaNews/175358",
+    "title": "UAE Drone Shot Down Over Southern Iran Amid Reports of U.S.-Led Strikes",
+    "published": "2026-07-16T15:59:05.780980+00:00"
+  },
+  "de6d920182a23f837f0c019a77471e96d7e7e4be9834ea665af2319cd05aaf61": {
+    "url": "QudsNen/231442",
+    "title": "Israeli Occupation Forces Restrict Press Access in Nablus Raid",
+    "published": "2026-07-16T15:52:04.581495+00:00"
+  },
+  "7253e1b5feb1739206eb59860256c54135ab666399fe54741a2390519f678715": {
+    "url": "thecradlemedia/64294",
+    "title": "US Military Launches Testosterone Screening Programme for Troops",
+    "published": "2026-07-16T15:50:22.412723+00:00"
+  },
+  "1bb55bfb0dd384783c2f09e8a70a5337a0e341d3eeb18b939ff233de38b15499": {
+    "url": "thecradlemedia/64296",
+    "title": "Yemen's Ansarallah Leader Warns of Saudi-US-Israeli Threat",
+    "published": "2026-07-16T15:47:36.707165+00:00"
+  },
+  "0f4eead6d77ad710f0789d5ec71660ef9537174a0ad3bffb9f089a23b7a99bf1": {
+    "url": "thecradlemedia/64297",
+    "title": "Iran Seeks Compensation from Kushner and Witkoff over Alleged Insider Trading",
+    "published": "2026-07-16T15:47:29.527724+00:00"
+  },
   "f4604bfbdc8f0a41dc4a2bfe3c1a67a036ab77c457995d6cb6bd3cce29f49a40": {
     "url": "DDGeopolitics/189108",
     "title": "Ukraine Hit by Multiple Locomotive Strikes",
@@ -74,10 +104,20 @@
     "title": "US Vice President Accuses Israeli Officials of Sabotaging Iran Talks",
     "published": "2026-07-16T10:13:27.196366+00:00"
   },
+  "7bc01a91ad78f43639847dc9609c71b0299c4fc1e93611cc026c3d5a41c177e5": {
+    "url": "https://thecradle.co/articles-id/38827",
+    "title": "\u2018No trace left\u2019: Iran vows to wipe out US assets across region if Trump acts on new threats",
+    "published": "2026-07-16T09:53:41+00:00"
+  },
   "2f820b333263bf7ddd2a9521b15fd994d7ddf325f042456ab2cbd9ee973e1a8f": {
     "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
     "title": "Iran targets military bases as US launches wave of strikes",
     "published": "2026-07-16T08:50:02+00:00"
+  },
+  "c1071273f21a9001ae2cafab943d30f951226d7c9a566b8175cd80090a37cedb": {
+    "url": "https://en.irna.ir/news/86210772/Iran-warns-US-of-targeting-all-infrastructures-in-region",
+    "title": "Iran warns US of targeting all infrastructures in region",
+    "published": "2026-07-16T08:12:33+00:00"
   },
   "c6a8e407cac97e6675ea52abccf14dec23a88a7336b85c8ae1009681e271b354": {
     "url": "https://tass.com/politics/2160933",
@@ -103,6 +143,11 @@
     "url": "DDGeopolitics/189050",
     "title": "Iran Air Defenses Activated Near Tehran",
     "published": "2026-07-16T06:29:45.364820+00:00"
+  },
+  "235dab549704a302d1900c24676670712364bc535d92c52ab47c07122ecb8dbd": {
+    "url": "https://en.mehrnews.com/news/246251/US-strikes-target-Semnan-airport",
+    "title": "US strikes target Semnan airport",
+    "published": "2026-07-16T06:28:58+00:00"
   },
   "bff69b50213dc08d1abd1fe5d92cd9067a9fa3c8b08cd306af22441ce439e40f": {
     "url": "DDGeopolitics/189051",
@@ -328,6 +373,11 @@
     "url": "https://www.tehrantimes.com/news/528215/Iranian-government-Over-30-civilians-killed-in-recent-US-attacks",
     "title": "Iranian government: Over 30 civilians killed in recent US attacks",
     "published": "2026-07-15T17:16:49+00:00"
+  },
+  "7c09e0cb15aea97fef62c88a876453182563d0e9c0971334e8047c243bbc7144": {
+    "url": "https://www.tehrantimes.com/news/528225/Iran-condemns-UK-designation-of-IRGC",
+    "title": "Iran condemns UK designation of IRGC",
+    "published": "2026-07-15T17:15:53+00:00"
   },
   "385a7777ce5ea444613bb7511b73a9cd8ae5102a0ebe272438bc32542b400f2b": {
     "url": "https://www.tehrantimes.com/news/528222/Missiles-fired-in-Hormuz-ballots-shaken-in-America",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/34887",
     "title": "Iran Missile Launch from Shiraz Raises Security Concerns",
     "published": "2026-07-14T19:30:34.554966+00:00"
-  },
-  "54ffa8f44d622055ea51ec3af082ed960a28aae431e230b74a5e27cc9c90cf4e": {
-    "url": "Middle_East_Spectator/34889",
-    "title": "Bahrain Intercepts Iranian-Operated Drone, Fails to Destroy Target",
-    "published": "2026-07-14T19:30:10.447621+00:00"
-  },
-  "1fb5ce9f606beac0368ab8d566efc35ca38ed6671684607ea667c126df2700ec": {
-    "url": "Middle_East_Spectator/34897",
-    "title": "Drone Strike Hits Ma'ameer Industrial Zone in Bahrain",
-    "published": "2026-07-14T19:29:22.363404+00:00"
-  },
-  "ebd36226a2c6371273989aae054c46cf82b3c799562099d482035ee562a1bfdb": {
-    "url": "Middle_East_Spectator/34903",
-    "title": "IRGC Claims Drone Strike on Bahrain and Kuwait Bases",
-    "published": "2026-07-14T19:28:46.795123+00:00"
-  },
-  "879ca1be273915a381b889c184916553d8163036f8f67641b438688ab6abfb29": {
-    "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-    "title": "Lyse Doucet: Strait of Hormuz remains the fault line as the Iran and US drift back into war",
-    "published": "2026-07-14T19:13:49+00:00"
-  },
-  "55fb0e555b1411386d799ccb6e791f78a7e104234c34e6c5fb542d434bcb5a3b": {
-    "url": "https://www.tehrantimes.com/news/528187/The-flawed-logic-of-Lindsay-Graham-A-pretext-for-destroying",
-    "title": "The flawed logic of Lindsay Graham: A pretext for destroying innocent people",
-    "published": "2026-07-14T18:29:09+00:00"
-  },
-  "259896011f815e11f99d9ec804677eb5ef053416ec4296c3b3c2807b7409c20a": {
-    "url": "https://www.tehrantimes.com/news/528181/Israel-Katz-seeks-pardon-for-soldier-who-killed-Palestinian",
-    "title": "Israel Katz seeks pardon for soldier who killed Palestinian",
-    "published": "2026-07-14T18:17:20+00:00"
-  },
-  "7b78c3fb02f770a0b052d418674fc64a6307068dd7a85772293700cdcc41e359": {
-    "url": "https://english.almanar.com.lb/article/104297/",
-    "title": "Huge Explosions Reported in Kuwait, Bahrain: Mehr News Agency - Al-Manar TV Lebanon",
-    "published": "2026-07-14T18:16:34+00:00"
-  },
-  "a33c24b8f31951c9c7ea34f8cd39ccc0090b3ab12a5f9bc851d95c8441feb7de": {
-    "url": "https://en.irna.ir/news/86209469/Saudi-spy-drone-targeted-by-Yemeni-armed-forces",
-    "title": "Saudi spy drone targeted by Yemeni armed forces",
-    "published": "2026-07-14T17:38:35+00:00"
-  },
-  "f59273e298cbadde35cdd7a2061ce41a33ea43685bf8b2ad692fc6b9682b2fcf": {
-    "url": "https://www.tehrantimes.com/news/528182/Guarding-nature-losing-family-American-airstrike-leaves-Iranian",
-    "title": "Guarding nature, losing family: American airstrike leaves Iranian park ranger alone amid the ruins",
-    "published": "2026-07-14T17:34:03+00:00"
-  },
-  "e784605474a777c3c8427e1fbb983d467dedfaf876e64229ab5cf7a73a49beb7": {
-    "url": "BellumActaNews/175275",
-    "title": "Trump Threatens Military Action Against Iran Over Strait of Hormuz",
-    "published": "2026-07-14T17:28:13.656533+00:00"
   }
 }
