@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4871,
+  "total_calls": 4875,
   "tiers": {
-    "groq": 4852,
+    "groq": 4856,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T17:57:53.527159+00:00",
-      "tier": "groq",
-      "article": "Iran says US pressure on Oman &#039;obstructing&#039; joint Hormuz management"
-    },
-    {
-      "timestamp": "2026-07-13T17:58:31.279736+00:00",
-      "tier": "groq",
-      "article": "\"Hormuz belongs to us, not foreigners,\" Iran says\u00a0"
-    },
-    {
-      "timestamp": "2026-07-13T17:58:50.422557+00:00",
-      "tier": "groq",
-      "article": "How the US could use Iraq to open a new front against Iran next"
-    },
-    {
-      "timestamp": "2026-07-13T17:59:38.822722+00:00",
-      "tier": "groq",
-      "article": "Lindsey Graham is dead, but the warmongering system he served lives on"
-    },
     {
       "timestamp": "2026-07-13T19:40:23.952951+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T10:13:25.015357+00:00",
       "tier": "groq",
       "article": "Rad-1 satellite to be unveiled soon, Iranian official says"
+    },
+    {
+      "timestamp": "2026-07-16T14:00:14.203359+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz: US fires at oil tanker as new Iran blockade begins"
+    },
+    {
+      "timestamp": "2026-07-16T14:00:52.616004+00:00",
+      "tier": "groq",
+      "article": "Iran claims strikes on US bases, warns of wider attacks on region"
+    },
+    {
+      "timestamp": "2026-07-16T14:01:08.667038+00:00",
+      "tier": "groq",
+      "article": "Tehran slams US strike near children's hospital in Ahvaz"
+    },
+    {
+      "timestamp": "2026-07-16T14:01:50.803750+00:00",
+      "tier": "groq",
+      "article": "EU backs new restrictions for military-age Ukrainian migrants"
     }
   ]
 }
