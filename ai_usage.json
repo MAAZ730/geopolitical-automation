@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4891,
+  "total_calls": 4895,
   "tiers": {
-    "groq": 4872,
+    "groq": 4876,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T06:13:43.474645+00:00",
-      "tier": "groq",
-      "article": "Decisive Retaliation: IRGC Unleashes Devastating Missile Strikes on US Fifth Fleet in Bahrain and Key Jordanian Airbase - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-14T06:14:02.211494+00:00",
-      "tier": "groq",
-      "article": "US bid to reopen Hormuz Strait falters after Iran missile strike on two UAE tankers - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-14T06:14:35.861328+00:00",
-      "tier": "groq",
-      "article": "US bombs Iran after Trump vows to \u2018hit them hard\u2019"
-    },
-    {
-      "timestamp": "2026-07-14T06:15:29.077384+00:00",
-      "tier": "groq",
-      "article": "Canada to plug surveillance gaps with Aussie over-the-horizon radar"
-    },
     {
       "timestamp": "2026-07-14T10:04:35.850002+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T21:07:25.696025+00:00",
       "tier": "groq",
       "article": "China blasts US targeting of Russian energy buyers"
+    },
+    {
+      "timestamp": "2026-07-16T23:02:15.741010+00:00",
+      "tier": "groq",
+      "article": "Israeli Strikes Kill Four Civilians in Gaza as Violations Mount - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-16T23:02:33.886682+00:00",
+      "tier": "groq",
+      "article": "Iran warns \u2018entire region will pay the price\u2019 as US bombs bridges (PHOTOS, VIDEOS)"
+    },
+    {
+      "timestamp": "2026-07-16T23:03:06.178140+00:00",
+      "tier": "groq",
+      "article": "No full US investigation into Iran school strike \u2014 media"
+    },
+    {
+      "timestamp": "2026-07-16T23:03:25.195803+00:00",
+      "tier": "groq",
+      "article": "American MQ-9 drone downed over Iran's Andimeshk"
     }
   ]
 }
