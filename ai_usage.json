@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4883,
+  "total_calls": 4887,
   "tiers": {
-    "groq": 4864,
+    "groq": 4868,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T23:00:30.696210+00:00",
-      "tier": "groq",
-      "article": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles"
-    },
-    {
-      "timestamp": "2026-07-13T23:01:09.620806+00:00",
-      "tier": "groq",
-      "article": "US strikes Iranian ship with drone boats in first-of-its-kind attack"
-    },
-    {
-      "timestamp": "2026-07-13T23:02:03.189917+00:00",
-      "tier": "groq",
-      "article": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz"
-    },
-    {
-      "timestamp": "2026-07-13T23:02:19.197872+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s Battlegroup South UAVs disrupt Ukrainian ammunition supplies in Druzhkovka"
-    },
     {
       "timestamp": "2026-07-14T02:43:48.830536+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T17:25:37.854719+00:00",
       "tier": "groq",
       "article": "Abbas Kiarostami to be commemorated at Cinema Museum"
+    },
+    {
+      "timestamp": "2026-07-16T19:18:46.065060+00:00",
+      "tier": "groq",
+      "article": "What could a US ground invasion of Iran look like?"
+    },
+    {
+      "timestamp": "2026-07-16T19:19:21.756656+00:00",
+      "tier": "groq",
+      "article": "RT crew witnesses Israeli strike in Lebanon"
+    },
+    {
+      "timestamp": "2026-07-16T19:20:07.587295+00:00",
+      "tier": "groq",
+      "article": "Russian forces hit vessel carrying cargo for Ukrainian army by Geran-2 drones in Black Sea"
+    },
+    {
+      "timestamp": "2026-07-16T19:20:26.426529+00:00",
+      "tier": "groq",
+      "article": "IRGC shoots down US Lucas drone over Bandar Abbas"
     }
   ]
 }
