@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4887,
+  "total_calls": 4891,
   "tiers": {
-    "groq": 4868,
+    "groq": 4872,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T02:43:48.830536+00:00",
-      "tier": "groq",
-      "article": "Military targets to be focus of new wave of US strikes on Iran \u2014 CNN"
-    },
-    {
-      "timestamp": "2026-07-14T02:44:20.333390+00:00",
-      "tier": "groq",
-      "article": "Several facilities near Iran\u2019s Omidiyeh damaged by US strikes on region \u2014 agency"
-    },
-    {
-      "timestamp": "2026-07-14T02:44:38.681466+00:00",
-      "tier": "groq",
-      "article": "US military aircraft spotted over Persian Gulf amid Trump\u2019s threats of strikes on Iran"
-    },
-    {
-      "timestamp": "2026-07-14T02:45:16.070280+00:00",
-      "tier": "groq",
-      "article": "Europe lags behind in space race amid rocket shortage \u2014 Bloomberg"
-    },
     {
       "timestamp": "2026-07-14T06:13:43.474645+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T19:20:26.426529+00:00",
       "tier": "groq",
       "article": "IRGC shoots down US Lucas drone over Bandar Abbas"
+    },
+    {
+      "timestamp": "2026-07-16T21:06:18.125962+00:00",
+      "tier": "groq",
+      "article": "Two people were killed, 11 wounded in DPR over day due to actions of Ukrainian military"
+    },
+    {
+      "timestamp": "2026-07-16T21:06:50.735409+00:00",
+      "tier": "groq",
+      "article": "US strikes Bandar Khomeini, destroying a bridge \u2014 Fars"
+    },
+    {
+      "timestamp": "2026-07-16T21:07:09.264308+00:00",
+      "tier": "groq",
+      "article": "Shahid Baqaei 2 Hospital in Ahvaz resumed operations: Health official"
+    },
+    {
+      "timestamp": "2026-07-16T21:07:25.696025+00:00",
+      "tier": "groq",
+      "article": "China blasts US targeting of Russian energy buyers"
     }
   ]
 }

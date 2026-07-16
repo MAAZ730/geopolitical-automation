@@ -1,4 +1,44 @@
 {
+  "ce137abfbf7ad03e371a50b556338a87c7ceff0585e1ed5ccbcc83e8ad19a4d5": {
+    "url": "DDGeopolitics/189139",
+    "title": "US Airstrikes Target Key Transportation Bridge in Southern Iran",
+    "published": "2026-07-16T21:12:47.005567+00:00"
+  },
+  "54600764650092cf9ccfb3c2cc344f264101160919ea4f92797ee48d4e4f50fc": {
+    "url": "QudsNen/231482",
+    "title": "Israeli Artillery Strikes Haddatha, Southern Lebanon",
+    "published": "2026-07-16T21:10:04.268235+00:00"
+  },
+  "b9c8c5858cd9f37893881c76e304019b922ff1403aa27129714d551ca2d1c105": {
+    "url": "QudsNen/231489",
+    "title": "Israeli Forces Open Fire on Palestinian Homes in Al-Bureij Refugee Camp",
+    "published": "2026-07-16T21:09:52.479709+00:00"
+  },
+  "7f57e86c7d68db217de4cfc0c9f2a3a5fcc9d2fc5cc6780857e1b11c06e6055c": {
+    "url": "QudsNen/231490",
+    "title": "Israeli Airstrikes Continue in Gaza Amid Claims of Ceasefire",
+    "published": "2026-07-16T21:09:38.766692+00:00"
+  },
+  "539d8a88799f0630e962cc7429f65d50a185054b26561b70a628b3c29f629434": {
+    "url": "Middle_East_Spectator/34985",
+    "title": "Explosions and Direct Impacts Rock Kuwait",
+    "published": "2026-07-16T21:07:31.731113+00:00"
+  },
+  "f919698e26ede28620768a68cb03d342b2f672239a28ee3cbb70280ce4fce4bf": {
+    "url": "thecradlemedia/64291",
+    "title": "US Military Examines Cuba Invasion Scenarios Amid Ongoing Diplomatic Efforts",
+    "published": "2026-07-16T21:07:30.003943+00:00"
+  },
+  "2f9f83219ff65de7c4f216c89cf307b779fe1c212b6b1722777a52cd438a9fa9": {
+    "url": "https://tass.com/world/2161297",
+    "title": "US strikes Bandar Khomeini, destroying a bridge \u2014 Fars",
+    "published": "2026-07-16T20:46:41+00:00"
+  },
+  "44dacbf13ed93393a0293f07f8e7f23767ef803f25e8553bea998b129664e5ea": {
+    "url": "https://tass.com/defense/2161293",
+    "title": "Two people were killed, 11 wounded in DPR over day due to actions of Ukrainian military",
+    "published": "2026-07-16T20:30:38+00:00"
+  },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
     "title": "Iran Fires Missiles at Israel Amid Heightened Tensions",
@@ -118,6 +158,11 @@
     "url": "https://tass.com/defense/2161207",
     "title": "Russian forces hit vessel carrying cargo for Ukrainian army by Geran-2 drones in Black Sea",
     "published": "2026-07-16T15:20:00+00:00"
+  },
+  "a0c78409f4c0f2b3ef874423bee437c173368aabb8da2531d6f5806e71304470": {
+    "url": "https://en.irna.ir/news/86211017/Shahid-Baqaei-2-Hospital-in-Ahvaz-resumed-operations-Health",
+    "title": "Shahid Baqaei 2 Hospital in Ahvaz resumed operations: Health official",
+    "published": "2026-07-16T14:43:53+00:00"
   },
   "f4604bfbdc8f0a41dc4a2bfe3c1a67a036ab77c457995d6cb6bd3cce29f49a40": {
     "url": "DDGeopolitics/189108",
@@ -263,6 +308,11 @@
     "url": "https://tass.com/world/2160855",
     "title": "IRGC strikes US Al-Azraq Air Base in Jordan \u2014 Mehr agency",
     "published": "2026-07-16T03:25:54+00:00"
+  },
+  "14d1820946b4ea203e32a8aa3385b7ed873c97b0083e85046125bf4780a17658": {
+    "url": "https://www.rt.com/news/643110-china-defends-firms-us-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "China blasts US targeting of Russian energy buyers",
+    "published": "2026-07-16T03:03:55+00:00"
   },
   "b5d30f5e8fe3b1d2ba390a0679b3b2b2754419503972324fb976ba59fea0aa19": {
     "url": "QudsNen/231380",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/34925",
     "title": "Kuwait Industrial Town Hit by Iranian Drones",
     "published": "2026-07-15T06:21:21.925882+00:00"
-  },
-  "d5e23d681c900d095a29acc5225bbd3728b6989da17467f2f79e8d49ceadc714": {
-    "url": "https://en.mehrnews.com/news/246211/VIDEO-Aftermath-of-Iran-attacks-on-US-base-in-Qatar",
-    "title": "VIDEO: Aftermath of Iran attacks on US Al-Udeid base",
-    "published": "2026-07-15T05:20:22+00:00"
-  },
-  "ea99c08fdf573fbccc7ac720e015576c0eb6cbb4c0a5d746b57af7f1b8a8455f": {
-    "url": "https://tass.com/world/2160379",
-    "title": "Trump, US administration officials discuss expanding Iran strikes \u2014 media",
-    "published": "2026-07-15T05:15:01+00:00"
-  },
-  "2842f8189253bcdeb6fe394b19cd38ece1d141b86713090b0ca8a48a266ed390": {
-    "url": "https://en.mehrnews.com/news/246210/Satellite-images-show-Iran-strike-damage-at-US-base-in-Qatar",
-    "title": "Satellite images show Iran strike damage at US base in Qatar",
-    "published": "2026-07-15T05:12:34+00:00"
-  },
-  "585d7a6ad81f5d5f4153633ee43994cde1e00608faba5e0d93cce2ba488dab20": {
-    "url": "https://www.rt.com/news/643054-us-senator-bill-birthright-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US senator proposes new birthright citizenship bill after Supreme Court ruling",
-    "published": "2026-07-15T03:09:05+00:00"
-  },
-  "21a9e0bc982161799d180f47f97aa74023842570ac813caf80c80dd770827de1": {
-    "url": "DDGeopolitics/188981",
-    "title": "Drone Strike in Kuwait: US Air Defenses Fail to Intercept",
-    "published": "2026-07-15T02:50:29.277280+00:00"
-  },
-  "38c59b474c023da5429d8391dddd1af8a5ffa27d87461c58fad847f7e9b72b94": {
-    "url": "QudsNen/231249",
-    "title": "Israeli Airstrike Kills Four in Central Gaza Strip",
-    "published": "2026-07-15T02:49:47.391070+00:00"
-  },
-  "266da20d79f93031cd0bc0e7bdd2d6189adc657e4c98d094a306bf47ec2ad853": {
-    "url": "QudsNen/231251",
-    "title": "Israeli Airstrike Hits Residential Building in Deir Al-Balah, Gaza Strip",
-    "published": "2026-07-15T02:49:22.264809+00:00"
-  },
-  "4acb7ae74f44d953bf4c76733f42b645e771f1abc5787ab105afb6976faa1fc8": {
-    "url": "Middle_East_Spectator/34912",
-    "title": "Iran Fires Ballistic Missiles at Jordan Amid Regional Tensions",
-    "published": "2026-07-15T02:46:52.889800+00:00"
-  },
-  "0b188767286a459e68ac62761214fbe39ea52b79cc48b203352d03a767260170": {
-    "url": "Middle_East_Spectator/34926",
-    "title": "IRGC Claims Strike on U.S.-Linked Logistics Hub in Kuwait",
-    "published": "2026-07-15T02:45:40.296482+00:00"
-  },
-  "e3441c87fdbe0be1ad8209e4a8bc0e6d4bfe447e5a31b77caf4bbf004a7df322": {
-    "url": "Middle_East_Spectator/34927",
-    "title": "IRGC Targets Kuwait Warehouse in Operation Nasr",
-    "published": "2026-07-15T02:45:39.195643+00:00"
   }
 }
