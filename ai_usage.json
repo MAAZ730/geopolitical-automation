@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4863,
+  "total_calls": 4867,
   "tiers": {
-    "groq": 4844,
+    "groq": 4848,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-13T11:15:38.376059+00:00",
-      "tier": "groq",
-      "article": "US and Iran trade strikes as ceasefire comes under growing strain"
-    },
-    {
-      "timestamp": "2026-07-13T11:16:18.564665+00:00",
-      "tier": "groq",
-      "article": "Iran Warns of \u2018Regret-Inducing\u2019 Counterstrikes: \u2018No Action Against Us Will Go Unanswered\u2019 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-13T11:17:06.255354+00:00",
-      "tier": "groq",
-      "article": "Russian forces advance toward Druzhkovka despite Ukrainian air counterstrikes \u2014 DPR head"
-    },
-    {
-      "timestamp": "2026-07-13T11:17:26.436235+00:00",
-      "tier": "groq",
-      "article": "Technology promotion, focus of industrial units reconstruction"
-    },
     {
       "timestamp": "2026-07-13T14:43:16.441119+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T02:53:33.967595+00:00",
       "tier": "groq",
       "article": "Trump presses Netanyahu to withdraw Israeli troops from Syria and Lebanon \u2013 Axios"
+    },
+    {
+      "timestamp": "2026-07-16T06:24:43.745772+00:00",
+      "tier": "groq",
+      "article": "Iranian Armed Forces Hit US Targets in Kuwait and Jordan, Vow Wider Retaliation - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-16T06:25:26.756772+00:00",
+      "tier": "groq",
+      "article": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal"
+    },
+    {
+      "timestamp": "2026-07-16T06:25:43.368811+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes US Al-Azraq Air Base in Jordan \u2014 Mehr agency"
+    },
+    {
+      "timestamp": "2026-07-16T06:26:02.115326+00:00",
+      "tier": "groq",
+      "article": "Trump threatens to bomb bridges and power plants in Iran unless talks resume"
     }
   ]
 }
