@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4903,
+  "total_calls": 4907,
   "tiers": {
-    "groq": 4884,
+    "groq": 4888,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T15:28:20.744696+00:00",
-      "tier": "groq",
-      "article": "Israeli strikes killed nine Palestinians so far today, including child and woman: Health sources in Gaza - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-14T15:28:52.343075+00:00",
-      "tier": "groq",
-      "article": "India summons Iranian diplomat over missile killing of seafarer"
-    },
-    {
-      "timestamp": "2026-07-14T15:29:39.100556+00:00",
-      "tier": "groq",
-      "article": "Less than half of Americans support US strikes on Iran, poll shows"
-    },
-    {
-      "timestamp": "2026-07-14T15:30:24.375600+00:00",
-      "tier": "groq",
-      "article": "Washington launches campaign to dismantle, isolate ICC"
-    },
     {
       "timestamp": "2026-07-14T17:20:26.004721+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T06:22:29.169405+00:00",
       "tier": "groq",
       "article": "US air radar, jet fuel pumps destroyed in Bahrain"
+    },
+    {
+      "timestamp": "2026-07-17T10:03:58.322524+00:00",
+      "tier": "groq",
+      "article": "US strikes on Iran's Hormozgan Province kill 8 civilians \u2014 media"
+    },
+    {
+      "timestamp": "2026-07-17T10:04:32.419954+00:00",
+      "tier": "groq",
+      "article": "Strike on Rapid UAV assembly plant to deplete Ukrainian forces in special op zone \u2014 expert"
+    },
+    {
+      "timestamp": "2026-07-17T10:04:50.644536+00:00",
+      "tier": "groq",
+      "article": "Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment"
+    },
+    {
+      "timestamp": "2026-07-17T10:05:06.780134+00:00",
+      "tier": "groq",
+      "article": "Iran to resist until US leaves region: Army spokesperson"
     }
   ]
 }
