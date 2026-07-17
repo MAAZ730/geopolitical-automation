@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4911,
+  "total_calls": 4915,
   "tiers": {
-    "groq": 4892,
+    "groq": 4896,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T19:27:08.789574+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike military facilities in Kiev, Odessa Region \u2014 Defense Ministry"
-    },
-    {
-      "timestamp": "2026-07-14T19:27:40.832611+00:00",
-      "tier": "groq",
-      "article": "Israel Katz seeks pardon for soldier who killed Palestinian"
-    },
-    {
-      "timestamp": "2026-07-14T19:28:25.683199+00:00",
-      "tier": "groq",
-      "article": "Dozens of Iranian MPs declare Islamabad MoU &#039;dead,&#039; vow revenge for Khamenei killing"
-    },
-    {
-      "timestamp": "2026-07-14T19:28:43.903207+00:00",
-      "tier": "groq",
-      "article": "IRGC: One MQ1 drone destroyed in Strait of Hormuz"
-    },
     {
       "timestamp": "2026-07-14T21:03:10.804606+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T13:48:19.867850+00:00",
       "tier": "groq",
       "article": "Pentagon readies plans for massive air assault on Cuba: Report"
+    },
+    {
+      "timestamp": "2026-07-17T15:19:57.926192+00:00",
+      "tier": "groq",
+      "article": "US Aggression Enters Sixth Night as Iran Civilian Death Toll Rises - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-17T15:20:37.283489+00:00",
+      "tier": "groq",
+      "article": "Further strikes unlikely to change Iran\u2019s stance \u2014 former US intelligence officer"
+    },
+    {
+      "timestamp": "2026-07-17T15:21:23.724610+00:00",
+      "tier": "groq",
+      "article": "VIDEO: US airstrike on Kohourestan bridge"
+    },
+    {
+      "timestamp": "2026-07-17T15:21:43.180210+00:00",
+      "tier": "groq",
+      "article": "IAEA chief failed to condemn Kiev\u2019s killing of ZNPP chief engineer \u2014 diplomat"
     }
   ]
 }
