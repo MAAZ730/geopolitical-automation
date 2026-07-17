@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4923,
+  "total_calls": 4927,
   "tiers": {
-    "groq": 4904,
+    "groq": 4908,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-15T02:44:19.917017+00:00",
-      "tier": "groq",
-      "article": "Kuwait activates air defenses to repel Iranian drone attack"
-    },
-    {
-      "timestamp": "2026-07-15T02:44:58.146656+00:00",
-      "tier": "groq",
-      "article": "The US Navy is eyeing next-gen carrier-based drones. Here\u2019s what they might do."
-    },
-    {
-      "timestamp": "2026-07-15T02:45:14.422358+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike Ukrainian UAV assembly, storage sites in past day \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-07-15T02:45:33.088194+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s parliament holds 1st open session after 4 months"
-    },
     {
       "timestamp": "2026-07-15T06:20:07.501753+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T19:19:31.456576+00:00",
       "tier": "groq",
       "article": "Warsaw charges Ukrainian with desecrating WWII memorials, blames Russia"
+    },
+    {
+      "timestamp": "2026-07-17T21:00:46.718128+00:00",
+      "tier": "groq",
+      "article": "Retaliatory strikes to continue until calm return to s. Iran"
+    },
+    {
+      "timestamp": "2026-07-17T21:01:06.453863+00:00",
+      "tier": "groq",
+      "article": "Commander of the Aerospace Force of the Islamic Revolutionary Guard Corps (IRGC), Brigadier General Sayyed Majid Mousavi: Our effective and precision strikes will continue until calm is restored - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-17T21:01:28.386176+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s Battlegroup North artillery destroys 15 Ukrainian UAV control centers overnight"
+    },
+    {
+      "timestamp": "2026-07-17T21:02:18.895804+00:00",
+      "tier": "groq",
+      "article": "UK complains to FIFA over Argentina\u2019s Falkland banner"
     }
   ]
 }

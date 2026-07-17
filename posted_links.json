@@ -1,4 +1,34 @@
 {
+  "43b48dc3899d1e2065a499ef17eb6839dabdff1472e0407899932c01726055f0": {
+    "url": "DDGeopolitics/189235",
+    "title": "Iran Targets Kurdish Opposition Bases in Iraqi Kurdistan",
+    "published": "2026-07-17T21:04:12.464492+00:00"
+  },
+  "f330abb0d7614df8c36ba97af85768cce93f3bd24ab063811a04b297bd75de11": {
+    "url": "DDGeopolitics/189241",
+    "title": "Iran Extends Missile and Drone Strikes Against US Base in Erbil",
+    "published": "2026-07-17T21:03:42.462228+00:00"
+  },
+  "e76f37ab89012c802b8b2fa5643c5070be77824c0959e409f1b72e285818ae4b": {
+    "url": "DDGeopolitics/189244",
+    "title": "Iran Claims Responsibility for Indian Ocean Military Operation",
+    "published": "2026-07-17T21:03:35.052822+00:00"
+  },
+  "30a788f90dbe51735fb99a27d9bb19526fbca87c07d30d26318339da29199821": {
+    "url": "QudsNen/231576",
+    "title": "Israeli Artillery Strikes Haddatha, Southern Lebanon",
+    "published": "2026-07-17T21:02:57.647880+00:00"
+  },
+  "c7e3102aa8b4b995ce85205690f0f26952fb9d97743d0ce2c4f08e1dd6596e68": {
+    "url": "QudsNen/231584",
+    "title": "US Journalist Max Blumenthal Detained at Dallas Airport",
+    "published": "2026-07-17T21:02:33.511898+00:00"
+  },
+  "74c267e4a5f8f12126c5638110879e3d57a584f83e0b53634ccd4a3941e54f8e": {
+    "url": "Middle_East_Spectator/35069",
+    "title": "Iran Claims Responsibility for Indian Ocean Strike",
+    "published": "2026-07-17T21:02:29.345951+00:00"
+  },
   "8394ec7e5a3b5a157e802b48c841e9f521cbadcfc91c09560473cfb6521d6813": {
     "url": "Middle_East_Spectator/35055",
     "title": "Iraqi Kurdish Base Hit by Secondary Explosions in Sulaymaniyah",
@@ -104,6 +134,11 @@
     "title": "Israeli Artillery Shelling Targets Markaba, South Lebanon",
     "published": "2026-07-17T15:21:50.680195+00:00"
   },
+  "b2eb87c3d329e00c9c8fefdfd8867978b385f959cd7a07b334a7cda076048a8c": {
+    "url": "https://en.mehrnews.com/news/246279/Retaliatory-strikes-to-continue-until-calm-return-to-s-Iran",
+    "title": "Retaliatory strikes to continue until calm return to s. Iran",
+    "published": "2026-07-17T14:22:41+00:00"
+  },
   "f24733a8f6bbad663491d89d5c8af8cc2374a4afe146ad735873b80b162936db": {
     "url": "https://tass.com/politics/2161693",
     "title": "Russian forces liberate Bachevsk community in Ukraine operation over week \u2014 top brass",
@@ -118,6 +153,11 @@
     "url": "QudsNen/231555",
     "title": "Israeli Forces Bombard Al-Nusierat Refugee Camp in Central Gaza Strip",
     "published": "2026-07-17T13:54:29.759117+00:00"
+  },
+  "f5624bf67289b5996b3a4a501961e97dfbdacc8fe301758e1c80ddba241cbd85": {
+    "url": "https://english.almanar.com.lb/article/105517/",
+    "title": "Commander of the Aerospace Force of the Islamic Revolutionary Guard Corps (IRGC), Brigadier General Sayyed Majid Mousavi: Our effective and precision strikes will continue until calm is restored - Al-Manar TV Lebanon",
+    "published": "2026-07-17T13:52:41+00:00"
   },
   "ba70cebd3d2e309f0c6c09714ec0c7ec61e10a80c4d6598d2629a035ce1e1af4": {
     "url": "thecradlemedia/64368",
@@ -138,6 +178,11 @@
     "url": "thecradlemedia/64384",
     "title": "Israeli Forces Target Kfar Tebnit in Southern Lebanon",
     "published": "2026-07-17T13:48:27.115558+00:00"
+  },
+  "c3fa98072f8045e3ef72d729f5ab5a9cc550569d14d5e532cb3edca8692fcb6e": {
+    "url": "https://tass.com/politics/2161675",
+    "title": "Russia\u2019s Battlegroup North artillery destroys 15 Ukrainian UAV control centers overnight",
+    "published": "2026-07-17T13:43:24+00:00"
   },
   "eeb4bc5d79aac9c59710d044d7e20245a9bfbc63a28635529df7651c98256b08": {
     "url": "https://tass.com/world/2161571",
@@ -253,6 +298,11 @@
     "url": "Middle_East_Spectator/35034",
     "title": "IRGC Claims Destruction of US Base in Kuwait",
     "published": "2026-07-17T06:22:39.899128+00:00"
+  },
+  "58b4a7c7e3daf3b11f0ab2e5fc51cc96805f0a387baa5fca4bcb331666963abc": {
+    "url": "https://www.rt.com/news/643132-fifa-uk-complaint-argentina/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "UK complains to FIFA over Argentina\u2019s Falkland banner",
+    "published": "2026-07-17T04:56:35+00:00"
   },
   "9b17b22be053e7a8331b3829b4d88887d808b9aa75168b294baee5fa3a2e2b3f": {
     "url": "https://tass.com/world/2161373",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/246250/US-MQ-9-drone-over-Iran-s-Andimeshk",
     "title": "American MQ-9 drone downed over Iran's Andimeshk",
     "published": "2026-07-16T06:22:04+00:00"
-  },
-  "10f037466e5f175fbf703bc9e7f27b4ba01c220d87f548ea7233995a04730f17": {
-    "url": "https://english.almanar.com.lb/article/104797/",
-    "title": "Iranian Armed Forces Hit US Targets in Kuwait and Jordan, Vow Wider Retaliation - Al-Manar TV Lebanon",
-    "published": "2026-07-16T05:46:13+00:00"
-  },
-  "6c8b267f845abf16821f007116806a02cb8941dd254064af518f0f47b944953f": {
-    "url": "https://tass.com/world/2160855",
-    "title": "IRGC strikes US Al-Azraq Air Base in Jordan \u2014 Mehr agency",
-    "published": "2026-07-16T03:25:54+00:00"
-  },
-  "14d1820946b4ea203e32a8aa3385b7ed873c97b0083e85046125bf4780a17658": {
-    "url": "https://www.rt.com/news/643110-china-defends-firms-us-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "China blasts US targeting of Russian energy buyers",
-    "published": "2026-07-16T03:03:55+00:00"
-  },
-  "b5d30f5e8fe3b1d2ba390a0679b3b2b2754419503972324fb976ba59fea0aa19": {
-    "url": "QudsNen/231380",
-    "title": "US Missile Strike Hits Pediatric Cancer Hospital in Ahvaz, Iran",
-    "published": "2026-07-16T02:58:00.667805+00:00"
-  },
-  "8f7845d79582a3803f2535e2db9fd1edfec384fb31be22eb6311a795d7655deb": {
-    "url": "QudsNen/231385",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-07-16T02:57:35.643540+00:00"
-  },
-  "0204bc31659370547eabf55ea29f15deb545fb9b8ab6cd431979fc46183fac18": {
-    "url": "Middle_East_Spectator/34971",
-    "title": "Bahrain Intercepts Iranian Drones with Patriot Missile",
-    "published": "2026-07-16T02:57:32.804473+00:00"
-  },
-  "220e0d2aaee61da927bf554cd03dea91540247b900ee9314a4bf9b961426e3c2": {
-    "url": "Middle_East_Spectator/34972",
-    "title": "Iran Targets US Bases in Jordan with Ballistic Missiles",
-    "published": "2026-07-16T02:56:20.138175+00:00"
-  },
-  "dcf97cb343be83c66097b1823782223bac4de1092df99173f2caee3c323f719b": {
-    "url": "Middle_East_Spectator/34977",
-    "title": "Iran Air Defenses Activated Near Tehran Amid Unconfirmed Aerial Strike",
-    "published": "2026-07-16T02:55:59.581381+00:00"
-  },
-  "0c8e9f77be5ea83235d9b06b12fc24e90d7f865796b00d7e25aff3f7c1a04d3f": {
-    "url": "Middle_East_Spectator/34983",
-    "title": "IRGC Claims Responsibility for Kuwait Airbase Strike",
-    "published": "2026-07-16T02:53:38.912954+00:00"
-  },
-  "6eee5c308404b11a1682a4459221c5a20a231c7c65cafebe99158175a89b135a": {
-    "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
-    "title": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal",
-    "published": "2026-07-16T01:58:45+00:00"
   }
 }
