@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4915,
+  "total_calls": 4919,
   "tiers": {
-    "groq": 4896,
+    "groq": 4900,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T21:03:10.804606+00:00",
-      "tier": "groq",
-      "article": "What is Iran\u2019s Pickaxe Mountain?"
-    },
-    {
-      "timestamp": "2026-07-14T21:03:43.011584+00:00",
-      "tier": "groq",
-      "article": "Huge Explosions Reported in Kuwait, Bahrain: Mehr News Agency - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-14T21:04:00.847945+00:00",
-      "tier": "groq",
-      "article": "Guarding nature, losing family: American airstrike leaves Iranian park ranger alone amid the ruins"
-    },
-    {
-      "timestamp": "2026-07-14T21:04:19.081302+00:00",
-      "tier": "groq",
-      "article": "Iran executes two ISIL terrorists for armed plot"
-    },
     {
       "timestamp": "2026-07-14T23:01:50.609994+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T15:21:43.180210+00:00",
       "tier": "groq",
       "article": "IAEA chief failed to condemn Kiev\u2019s killing of ZNPP chief engineer \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-07-17T17:18:11.664673+00:00",
+      "tier": "groq",
+      "article": "Israeli attacks on Gaza kill 14, including mourners attending funeral"
+    },
+    {
+      "timestamp": "2026-07-17T17:18:27.611776+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Russian Armed Forces carry out further strikes on Ukrainian ports"
+    },
+    {
+      "timestamp": "2026-07-17T17:19:05.051333+00:00",
+      "tier": "groq",
+      "article": "Relentless strikes until peace returns to the southern coast"
+    },
+    {
+      "timestamp": "2026-07-17T17:19:57.452479+00:00",
+      "tier": "groq",
+      "article": "Global AI cooperation organization established with backing of Russia and China"
     }
   ]
 }
