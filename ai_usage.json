@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4899,
+  "total_calls": 4903,
   "tiers": {
-    "groq": 4880,
+    "groq": 4884,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T13:52:34.181680+00:00",
-      "tier": "groq",
-      "article": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport"
-    },
-    {
-      "timestamp": "2026-07-14T13:52:50.572551+00:00",
-      "tier": "groq",
-      "article": "Israeli strike on police post in Gaza kills seven, officials say"
-    },
-    {
-      "timestamp": "2026-07-14T13:53:23.953470+00:00",
-      "tier": "groq",
-      "article": "US raids kills family members of Iranian park ranger in south"
-    },
-    {
-      "timestamp": "2026-07-14T13:54:10.411315+00:00",
-      "tier": "groq",
-      "article": "Iran to continue control over Hormuz with might: IRGC spox"
-    },
     {
       "timestamp": "2026-07-14T15:28:20.744696+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T02:55:21.751866+00:00",
       "tier": "groq",
       "article": "Foreign Ministry summons UK envoy over IRGC blacklisting"
+    },
+    {
+      "timestamp": "2026-07-17T06:20:24.038267+00:00",
+      "tier": "groq",
+      "article": "Five bridges targeted by US strikes in Iran\u2019s Bandar-e Imam Khomeyni \u2014 Fars"
+    },
+    {
+      "timestamp": "2026-07-17T06:20:57.605726+00:00",
+      "tier": "groq",
+      "article": "Iran strikes US forces in Kuwait \u2014 Fars"
+    },
+    {
+      "timestamp": "2026-07-17T06:21:43.448718+00:00",
+      "tier": "groq",
+      "article": "Qatari air defenses repel missile attack"
+    },
+    {
+      "timestamp": "2026-07-17T06:22:29.169405+00:00",
+      "tier": "groq",
+      "article": "US air radar, jet fuel pumps destroyed in Bahrain"
     }
   ]
 }
