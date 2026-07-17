@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4895,
+  "total_calls": 4899,
   "tiers": {
-    "groq": 4876,
+    "groq": 4880,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T10:04:35.850002+00:00",
-      "tier": "groq",
-      "article": "Russian forces deliver overnight precision strikes on Ukrainian military-industrial sites"
-    },
-    {
-      "timestamp": "2026-07-14T10:05:14.451411+00:00",
-      "tier": "groq",
-      "article": "Revolutionary Guard Calls on Jordanians to Expel US Forces - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-14T10:05:33.774743+00:00",
-      "tier": "groq",
-      "article": "Iran destroys US military facilities, radars, barracks in retaliatory strikes"
-    },
-    {
-      "timestamp": "2026-07-14T10:06:11.970605+00:00",
-      "tier": "groq",
-      "article": "German court convicts Iraqi couple of enslaving Yazidi girls "
-    },
     {
       "timestamp": "2026-07-14T13:52:34.181680+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-16T23:03:25.195803+00:00",
       "tier": "groq",
       "article": "American MQ-9 drone downed over Iran's Andimeshk"
+    },
+    {
+      "timestamp": "2026-07-17T02:53:47.787789+00:00",
+      "tier": "groq",
+      "article": "Kuwaiti air defenses repel attack of Iranian drones, missiles"
+    },
+    {
+      "timestamp": "2026-07-17T02:54:27.563442+00:00",
+      "tier": "groq",
+      "article": "Iran says seven killed in latest US strikes, warns war \u2018will spread\u2019"
+    },
+    {
+      "timestamp": "2026-07-17T02:54:43.459597+00:00",
+      "tier": "groq",
+      "article": "US delivers missile strike on Iran\u2019s Bandar Lengeh \u2014 Mehr"
+    },
+    {
+      "timestamp": "2026-07-17T02:55:21.751866+00:00",
+      "tier": "groq",
+      "article": "Foreign Ministry summons UK envoy over IRGC blacklisting"
     }
   ]
 }
