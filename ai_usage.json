@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4919,
+  "total_calls": 4923,
   "tiers": {
-    "groq": 4900,
+    "groq": 4904,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T23:01:50.609994+00:00",
-      "tier": "groq",
-      "article": "Iran hits US bases, assets in Kuwait"
-    },
-    {
-      "timestamp": "2026-07-14T23:02:29.660236+00:00",
-      "tier": "groq",
-      "article": "US reimposes blockade on Iranian ports, launches more strikes"
-    },
-    {
-      "timestamp": "2026-07-14T23:02:45.694913+00:00",
-      "tier": "groq",
-      "article": "Iran strikes deal with UAE to return Iranian fishermen detained in Emirati waters"
-    },
-    {
-      "timestamp": "2026-07-14T23:03:04.251122+00:00",
-      "tier": "groq",
-      "article": "Action for security of Hormuz\u2019 bill introduced in parliament"
-    },
     {
       "timestamp": "2026-07-15T02:44:19.917017+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T17:19:57.452479+00:00",
       "tier": "groq",
       "article": "Global AI cooperation organization established with backing of Russia and China"
+    },
+    {
+      "timestamp": "2026-07-17T19:17:43.791042+00:00",
+      "tier": "groq",
+      "article": "Russian forces liberate Bachevsk community in Ukraine operation over week \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-07-17T19:18:24.455739+00:00",
+      "tier": "groq",
+      "article": "Iran strikes US base in Qatar, destroying radar system, aerial refueling tankers \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-07-17T19:19:13.264360+00:00",
+      "tier": "groq",
+      "article": "Oil tanker damaged by drone strikes near CPC terminal in Black Sea"
+    },
+    {
+      "timestamp": "2026-07-17T19:19:31.456576+00:00",
+      "tier": "groq",
+      "article": "Warsaw charges Ukrainian with desecrating WWII memorials, blames Russia"
     }
   ]
 }
