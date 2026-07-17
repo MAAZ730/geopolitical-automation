@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4907,
+  "total_calls": 4911,
   "tiers": {
-    "groq": 4888,
+    "groq": 4892,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-14T17:20:26.004721+00:00",
-      "tier": "groq",
-      "article": "WHO warns DR Congo Ebola outbreak may be double the official tally"
-    },
-    {
-      "timestamp": "2026-07-14T17:21:04.059037+00:00",
-      "tier": "groq",
-      "article": "What\u2019s behind the Sanaa Airport attack and latest Yemen tensions?"
-    },
-    {
-      "timestamp": "2026-07-14T17:21:21.030333+00:00",
-      "tier": "groq",
-      "article": "US completes five-hour wave of strikes against Iran \u2014 Central Command"
-    },
-    {
-      "timestamp": "2026-07-14T17:21:56.599526+00:00",
-      "tier": "groq",
-      "article": "Over 50,000 US troops currently deployed across Middle East \u2014 Central Command"
-    },
     {
       "timestamp": "2026-07-14T19:27:08.789574+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T10:05:06.780134+00:00",
       "tier": "groq",
       "article": "Iran to resist until US leaves region: Army spokesperson"
+    },
+    {
+      "timestamp": "2026-07-17T13:47:21.743870+00:00",
+      "tier": "groq",
+      "article": "Iran hits US positions in Syria, Jordan, Oman"
+    },
+    {
+      "timestamp": "2026-07-17T13:47:38.516960+00:00",
+      "tier": "groq",
+      "article": "Iran strikes US base in Syria in response to death of soldiers in Iranshahr"
+    },
+    {
+      "timestamp": "2026-07-17T13:48:01.646554+00:00",
+      "tier": "groq",
+      "article": "US to face harsh retribution if attacks on Iran\u2019s civilian facilities continue \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-07-17T13:48:19.867850+00:00",
+      "tier": "groq",
+      "article": "Pentagon readies plans for massive air assault on Cuba: Report"
     }
   ]
 }
