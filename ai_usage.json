@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4947,
+  "total_calls": 4951,
   "tiers": {
-    "groq": 4928,
+    "groq": 4932,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-15T19:18:37.566096+00:00",
-      "tier": "groq",
-      "article": "Mapping the latest US strikes across Iran"
-    },
-    {
-      "timestamp": "2026-07-15T19:19:17.559391+00:00",
-      "tier": "groq",
-      "article": "Ukrainian military strikes passenger bus with drone in Gorlovka, DPR"
-    },
-    {
-      "timestamp": "2026-07-15T19:19:35.965020+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: What is known about Russian strikes on Ukrainian ports"
-    },
-    {
-      "timestamp": "2026-07-15T19:19:54.225166+00:00",
-      "tier": "groq",
-      "article": "European NATO members increasingly want nukes on Russia\u2019s border"
-    },
     {
       "timestamp": "2026-07-15T21:07:25.638645+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T11:08:38.107326+00:00",
       "tier": "groq",
       "article": "Why do Lebanese authorities insist on the path of surrender?"
+    },
+    {
+      "timestamp": "2026-07-18T13:24:41.155769+00:00",
+      "tier": "groq",
+      "article": "At least 50 killed, 500 injured in US strikes in recent weeks \u2014 Iranian Health Ministry"
+    },
+    {
+      "timestamp": "2026-07-18T13:25:18.652570+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone attacks on Russia kill at least 8, wound dozens"
+    },
+    {
+      "timestamp": "2026-07-18T13:26:05.103309+00:00",
+      "tier": "groq",
+      "article": "Russian drone strike destroys fuel depot used by Ukrainian army in Chernigov Region"
+    },
+    {
+      "timestamp": "2026-07-18T13:26:57.811123+00:00",
+      "tier": "groq",
+      "article": "Israel failing to repair brutal reputation among Americans"
     }
   ]
 }
