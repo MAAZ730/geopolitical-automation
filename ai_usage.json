@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4963,
+  "total_calls": 4967,
   "tiers": {
-    "groq": 4944,
+    "groq": 4948,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T06:24:43.745772+00:00",
-      "tier": "groq",
-      "article": "Iranian Armed Forces Hit US Targets in Kuwait and Jordan, Vow Wider Retaliation - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-16T06:25:26.756772+00:00",
-      "tier": "groq",
-      "article": "Two killed in Russian missile fire on Kyiv after Ukraine-EU drone deal"
-    },
-    {
-      "timestamp": "2026-07-16T06:25:43.368811+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes US Al-Azraq Air Base in Jordan \u2014 Mehr agency"
-    },
-    {
-      "timestamp": "2026-07-16T06:26:02.115326+00:00",
-      "tier": "groq",
-      "article": "Trump threatens to bomb bridges and power plants in Iran unless talks resume"
-    },
     {
       "timestamp": "2026-07-16T10:11:49.819204+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T19:14:12.797407+00:00",
       "tier": "groq",
       "article": "US redirects four vessels since resumption of naval blockade against Iran"
+    },
+    {
+      "timestamp": "2026-07-18T20:53:58.353228+00:00",
+      "tier": "groq",
+      "article": "Two US troops killed and one missing after Iranian attack in Jordan"
+    },
+    {
+      "timestamp": "2026-07-18T20:54:36.417148+00:00",
+      "tier": "groq",
+      "article": "CENTCOM confirms casualties in Iran attack in Jordan"
+    },
+    {
+      "timestamp": "2026-07-18T20:54:54.719837+00:00",
+      "tier": "groq",
+      "article": "Strategic message to the US and its allies"
+    },
+    {
+      "timestamp": "2026-07-18T20:55:37.235311+00:00",
+      "tier": "groq",
+      "article": "NORAD fighters intercept aircraft violating flight restrictions over New York"
     }
   ]
 }
