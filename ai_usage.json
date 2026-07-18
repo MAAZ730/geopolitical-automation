@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4931,
+  "total_calls": 4935,
   "tiers": {
-    "groq": 4912,
+    "groq": 4916,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-15T10:06:05.200451+00:00",
-      "tier": "groq",
-      "article": "16 Martyrs in Gaza as Israeli Aggression Escalates on 279th Day of War - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-15T10:06:48.868665+00:00",
-      "tier": "groq",
-      "article": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea"
-    },
-    {
-      "timestamp": "2026-07-15T10:07:05.110619+00:00",
-      "tier": "groq",
-      "article": "US Aggression Unleashes Explosions Across Iranian Provinces - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-15T10:07:46.348684+00:00",
-      "tier": "groq",
-      "article": "Iran condemns UK\u2019s designation of IRGC as hostile, unjustified measure"
-    },
     {
       "timestamp": "2026-07-15T13:49:52.334246+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-17T22:55:53.479963+00:00",
       "tier": "groq",
       "article": "China denies Trump\u2019s election meddling claim"
+    },
+    {
+      "timestamp": "2026-07-18T02:46:15.037782+00:00",
+      "tier": "groq",
+      "article": "US troops injured in Iranian strikes \u2013 CBS"
+    },
+    {
+      "timestamp": "2026-07-18T02:46:33.687829+00:00",
+      "tier": "groq",
+      "article": "IRGC claims strikes on US drone depot and AI hub in Bahrain"
+    },
+    {
+      "timestamp": "2026-07-18T02:46:51.113558+00:00",
+      "tier": "groq",
+      "article": "Ahvaz children\u2019s cancer hospital resumes ops. after US strike"
+    },
+    {
+      "timestamp": "2026-07-18T02:47:17.518800+00:00",
+      "tier": "groq",
+      "article": "\u2018Iran\u2019s geopolitical position, capacities help SCO reinforce border security\u2019"
     }
   ]
 }
