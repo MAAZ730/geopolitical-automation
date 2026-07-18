@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4959,
+  "total_calls": 4963,
   "tiers": {
-    "groq": 4940,
+    "groq": 4944,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T02:51:26.037261+00:00",
-      "tier": "groq",
-      "article": "US ends second series of strikes on Iran in 24 Hours \u2014 CENTCOM"
-    },
-    {
-      "timestamp": "2026-07-16T02:51:58.832533+00:00",
-      "tier": "groq",
-      "article": "US launches second wave of strikes on Iran \u2014 CENTCOM"
-    },
-    {
-      "timestamp": "2026-07-16T02:52:44.646835+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes 20 Russian vessels"
-    },
-    {
-      "timestamp": "2026-07-16T02:53:33.967595+00:00",
-      "tier": "groq",
-      "article": "Trump presses Netanyahu to withdraw Israeli troops from Syria and Lebanon \u2013 Axios"
-    },
     {
       "timestamp": "2026-07-16T06:24:43.745772+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T17:05:00.058563+00:00",
       "tier": "groq",
       "article": "Iran declares US presence the sole cause of instability in the Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-07-18T19:12:26.140504+00:00",
+      "tier": "groq",
+      "article": "Two US service members killed in retaliatory Iranian strikes \u2013 Pentagon"
+    },
+    {
+      "timestamp": "2026-07-18T19:13:05.310557+00:00",
+      "tier": "groq",
+      "article": "US military says two service members killed in Iranian strike in Jordan"
+    },
+    {
+      "timestamp": "2026-07-18T19:13:54.588957+00:00",
+      "tier": "groq",
+      "article": "Leader\u2019s military advisor: Iran will shift to full-scale war if US strikes continue"
+    },
+    {
+      "timestamp": "2026-07-18T19:14:12.797407+00:00",
+      "tier": "groq",
+      "article": "US redirects four vessels since resumption of naval blockade against Iran"
     }
   ]
 }
