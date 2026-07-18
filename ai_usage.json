@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4951,
+  "total_calls": 4955,
   "tiers": {
-    "groq": 4932,
+    "groq": 4936,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-15T21:07:25.638645+00:00",
-      "tier": "groq",
-      "article": "Russia pounds Ukraine with missile, drone strikes"
-    },
-    {
-      "timestamp": "2026-07-15T21:07:56.747196+00:00",
-      "tier": "groq",
-      "article": "IRGC says it struck US military sites in Bahrain, Jordan"
-    },
-    {
-      "timestamp": "2026-07-15T21:08:48.860469+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s vicious cycle of threats against Iran"
-    },
-    {
-      "timestamp": "2026-07-15T21:09:37.108307+00:00",
-      "tier": "groq",
-      "article": "US senator proposes new birthright citizenship bill after Supreme Court ruling"
-    },
     {
       "timestamp": "2026-07-15T23:00:27.968604+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T13:26:57.811123+00:00",
       "tier": "groq",
       "article": "Israel failing to repair brutal reputation among Americans"
+    },
+    {
+      "timestamp": "2026-07-18T14:59:17.049347+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes US targets in Bahrain, declares Hormuz fully closed after halting vessels"
+    },
+    {
+      "timestamp": "2026-07-18T14:59:48.851153+00:00",
+      "tier": "groq",
+      "article": "Iran launches another drone strike on US air base in Bahrain \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-07-18T15:00:35.453556+00:00",
+      "tier": "groq",
+      "article": "Over 50 Iranians martyred in 7 days of US bombings"
+    },
+    {
+      "timestamp": "2026-07-18T15:00:53.942789+00:00",
+      "tier": "groq",
+      "article": "UK obesity linked to 600,000 fewer people in work \u2013 study"
     }
   ]
 }
