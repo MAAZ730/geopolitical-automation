@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4939,
+  "total_calls": 4943,
   "tiers": {
-    "groq": 4920,
+    "groq": 4924,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-15T15:28:18.617277+00:00",
-      "tier": "groq",
-      "article": "Seven killed, 13 injured in US missile attack against Iranian Army base"
-    },
-    {
-      "timestamp": "2026-07-15T15:28:55.689968+00:00",
-      "tier": "groq",
-      "article": "Saudi Arabia Seeks Mediation with Yemen as Sana\u2019a Airport Strikes Raise Escalation Fears - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-15T15:29:16.078986+00:00",
-      "tier": "groq",
-      "article": "US attack on a park ranger post \u2018latest example of war crime\u2019"
-    },
-    {
-      "timestamp": "2026-07-15T15:29:58.578595+00:00",
-      "tier": "groq",
-      "article": "The flawed logic of Lindsay Graham: A pretext for destroying innocent people"
-    },
     {
       "timestamp": "2026-07-15T17:21:03.100649+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T06:12:30.975906+00:00",
       "tier": "groq",
       "article": "Crowded Rally in Yemen\u2019s Saada Affirms Readiness to Face Saudi Escalation: Aggression for Aggression, Siege for Siege - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-18T09:37:51.414084+00:00",
+      "tier": "groq",
+      "article": "Twenty-five people injured in Ukrainian attack on warehouse in Russia\u2019s Tambov Region"
+    },
+    {
+      "timestamp": "2026-07-18T09:38:24.020191+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy launched drone and missile strikes on the US Navy\u2019s fuel support pier at Kuwait\u2019s Al Ahmadi Port and a concentration of US military aircraft at Bahrain\u2019s Sheikh Isa Air Base - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-18T09:39:15.455450+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy Pounds US Support Sites in Kuwait, Bahrain - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-18T09:39:34.357938+00:00",
+      "tier": "groq",
+      "article": "Iran, India standards bodies discuss technical cooperation"
     }
   ]
 }
