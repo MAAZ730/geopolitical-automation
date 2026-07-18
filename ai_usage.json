@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4967,
+  "total_calls": 4971,
   "tiers": {
-    "groq": 4948,
+    "groq": 4952,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T10:11:49.819204+00:00",
-      "tier": "groq",
-      "article": "One civilian killed, several injured as air defenses down 375 drones over Russia"
-    },
-    {
-      "timestamp": "2026-07-16T10:12:27.603278+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Khatam Al-Anbia HQ Issues Stark Hormuz Warning, Threatens US of \u201cSuperior\u201d Strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-16T10:12:46.004462+00:00",
-      "tier": "groq",
-      "article": "Iran targets military bases as US launches wave of strikes"
-    },
-    {
-      "timestamp": "2026-07-16T10:13:25.015357+00:00",
-      "tier": "groq",
-      "article": "Rad-1 satellite to be unveiled soon, Iranian official says"
-    },
     {
       "timestamp": "2026-07-16T14:00:14.203359+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T20:55:37.235311+00:00",
       "tier": "groq",
       "article": "NORAD fighters intercept aircraft violating flight restrictions over New York"
+    },
+    {
+      "timestamp": "2026-07-18T22:56:23.279201+00:00",
+      "tier": "groq",
+      "article": "Government spokesperson visits Ahvaz hospital after US strike"
+    },
+    {
+      "timestamp": "2026-07-18T22:57:00.279418+00:00",
+      "tier": "groq",
+      "article": "US resumes attacks on Iran \u2014 CENTCOM"
+    },
+    {
+      "timestamp": "2026-07-18T22:57:17.898165+00:00",
+      "tier": "groq",
+      "article": "Response to Ukrainian strikes on Wildberries warehouses to be harsh \u2014 Russian senator"
+    },
+    {
+      "timestamp": "2026-07-18T22:57:55.106346+00:00",
+      "tier": "groq",
+      "article": "Kiev seeks to destabilize ZNPP operations by killing chief engineer \u2014 LPR lawmaker"
     }
   ]
 }
