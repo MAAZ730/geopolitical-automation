@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4943,
+  "total_calls": 4947,
   "tiers": {
-    "groq": 4924,
+    "groq": 4928,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-15T17:21:03.100649+00:00",
-      "tier": "groq",
-      "article": "Missiles fired in Hormuz, ballots shaken in America"
-    },
-    {
-      "timestamp": "2026-07-15T17:21:45.798788+00:00",
-      "tier": "groq",
-      "article": "Iranian government: Over 30 civilians killed in recent US attacks"
-    },
-    {
-      "timestamp": "2026-07-15T17:22:31.329956+00:00",
-      "tier": "groq",
-      "article": "Washington intensifies strikes on Iran as IRGC hits back at US assets in West Asia"
-    },
-    {
-      "timestamp": "2026-07-15T17:23:25.192921+00:00",
-      "tier": "groq",
-      "article": "Lyse Doucet: Strait of Hormuz remains the fault line as the Iran and US drift back into war"
-    },
     {
       "timestamp": "2026-07-15T19:18:37.566096+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T09:39:34.357938+00:00",
       "tier": "groq",
       "article": "Iran, India standards bodies discuss technical cooperation"
+    },
+    {
+      "timestamp": "2026-07-18T11:07:28.964154+00:00",
+      "tier": "groq",
+      "article": "Araqchi Vows Iran Will Defend \u2018Every Inch\u2019 of Homeland after Deadly US Strike - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-18T11:07:47.013104+00:00",
+      "tier": "groq",
+      "article": "Southern Lebanon: \u2018Israel\u2019s\u2019 Relentless Onslaught Continues - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-18T11:08:19.151601+00:00",
+      "tier": "groq",
+      "article": "Tehran urges UN to halt US aggression immediately"
+    },
+    {
+      "timestamp": "2026-07-18T11:08:38.107326+00:00",
+      "tier": "groq",
+      "article": "Why do Lebanese authorities insist on the path of surrender?"
     }
   ]
 }
