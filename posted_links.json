@@ -1,4 +1,34 @@
 {
+  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
+    "url": "CensoredMen/203",
+    "title": "Israel Escalates Strikes in Lebanon Amid Ceasefire Dispute",
+    "published": "2026-07-18T17:13:12.523422+00:00"
+  },
+  "cda43201be3abee90ed9ed23d2aa2e3d17fbefeefacb3ab5661238a240f1b471": {
+    "url": "militarywave/24403",
+    "title": "RT.Doc Celebrates 15 Years of Investigative Journalism",
+    "published": "2026-07-18T17:10:39.426116+00:00"
+  },
+  "5e265a6b371f7ff44f540355ca6b01ded719209e2462e8543c08568b4c2c9d8b": {
+    "url": "DDGeopolitics/189351",
+    "title": "Russian Drone Strike Targets Terrorists in Tabrichat",
+    "published": "2026-07-18T17:08:04.245669+00:00"
+  },
+  "6bbd640b759e3ce9bf15ef5ba79c8a76d9b74c6e7d239bebfd9f97546c2a65cd": {
+    "url": "DDGeopolitics/189359",
+    "title": "Iranian Missiles Strike Jordanian Air Base",
+    "published": "2026-07-18T17:06:33.037260+00:00"
+  },
+  "c27bca064e7b105165e6cea648f3dc5e73bf609c3ffa850719c1a05490092a7b": {
+    "url": "thecradlemedia/64486",
+    "title": "Iran Disputes Allegations of Non-Compliance with International Agreements",
+    "published": "2026-07-18T17:05:06.072448+00:00"
+  },
+  "90551cca63bc19065ecbf38d6c087180c992f6af0d90e9f9acccbd2aeb17d3bc": {
+    "url": "thecradlemedia/64487",
+    "title": "Israeli Forces Conduct Airstrike in Kfar Tebnit, South Lebanon",
+    "published": "2026-07-18T17:05:04.928473+00:00"
+  },
   "bf8f3b2ab12e99d8e3b6aaf758bed527de88947f6bd338c8b9a99ec4ae76bb8b": {
     "url": "militarywave/24406",
     "title": "RT.Doc Celebrates 15 Years of Authentic Journalism Amid Accusations of Propaganda",
@@ -68,6 +98,16 @@
     "url": "https://tass.com/world/2161987",
     "title": "At least 50 killed, 500 injured in US strikes in recent weeks \u2014 Iranian Health Ministry",
     "published": "2026-07-18T13:01:17+00:00"
+  },
+  "0c6f23f18e29b6a01e680dad7a564234f8d06c54f0f166e99d130a56f626816d": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/ukrainian-strikes-hit-russian-logistics-center?traffic_source=rss",
+    "title": "Ukrainian strikes hit Russian logistics center",
+    "published": "2026-07-18T12:57:21+00:00"
+  },
+  "f8c09daacbc29f448ffc34f04d4ae43e2ad755806ef6e1a2f3aaaade4ff37c22": {
+    "url": "https://en.mehrnews.com/news/246311/Google-darkens-satellite-imagery-of-sites-hit-in-Kuwait",
+    "title": "Google darkens satellite imagery of sites hit in Kuwait",
+    "published": "2026-07-18T12:09:57+00:00"
   },
   "738e6a290424f5cd5d7482010236bfb93fa545c9afa838e90e99315fbace9062": {
     "url": "warmonitors/45030",
@@ -158,6 +198,11 @@
     "url": "https://tass.com/emergencies/2161935",
     "title": "Twenty-five people injured in Ukrainian attack on warehouse in Russia\u2019s Tambov Region",
     "published": "2026-07-18T07:11:54+00:00"
+  },
+  "3adaf5f51927753c1ee50d8c2f72c8102394bb5c2de0b1d220eb8d7a75cb4a92": {
+    "url": "https://tass.com/world/2161921",
+    "title": "IRGC forces strike US fuel terminal in Kuwait \u2014 agency",
+    "published": "2026-07-18T06:20:53+00:00"
   },
   "fd2071866c8ff792e656654b8d9c15498523dceac9f0a2abb67a95a06ff113f5": {
     "url": "QudsNen/231602",
@@ -378,6 +423,11 @@
     "url": "DDGeopolitics/189216",
     "title": "US Drone Recovered by Iranian Fishermen in Persian Gulf",
     "published": "2026-07-17T17:22:38.153790+00:00"
+  },
+  "41d8cfaaa238bdae8b206287e93ebf196950afe555e98cc9093c7787bacfe715": {
+    "url": "https://www.tehrantimes.com/news/528234/Iran-declares-US-presence-the-sole-cause-of-instability-in-the",
+    "title": "Iran declares US presence the sole cause of instability in the Strait of Hormuz",
+    "published": "2026-07-17T17:22:14+00:00"
   },
   "b215633abef8b5c34010e9afddbe6266e52db2206b1b1e9d5aa8dcaafaf0251b": {
     "url": "DDGeopolitics/189217",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/35004",
     "title": "Explosions Heard in Bahrain and Kuwait",
     "published": "2026-07-17T02:56:29.790288+00:00"
-  },
-  "743be8714dcf47388f49ee247fd7866c3d00c6614364185e5a6f461dfa177ea3": {
-    "url": "Middle_East_Spectator/35007",
-    "title": "Jordan Under Missile Attack: Regional Tensions Escalate",
-    "published": "2026-07-17T02:55:46.134384+00:00"
-  },
-  "adc03c85dbb8b9f6646611e50d71dea6a3a5e7e5de0ae72e61a67cfc443f7159": {
-    "url": "https://tass.com/world/2161325",
-    "title": "US delivers missile strike on Iran\u2019s Bandar Lengeh \u2014 Mehr",
-    "published": "2026-07-17T01:10:48+00:00"
-  },
-  "bfc953a2c925ecec5f1537be22750fae8c7d462f9ac2bf0e0b2e30cb4980bda2": {
-    "url": "https://tass.com/world/2161321",
-    "title": "Kuwaiti air defenses repel attack of Iranian drones, missiles",
-    "published": "2026-07-17T01:07:28+00:00"
-  },
-  "737ecab1327bfa3b8d923f126658d8868b5738cdace80c4f59195b13a16fddec": {
-    "url": "https://www.rt.com/news/643156-russia-china-ai-waico/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Global AI cooperation organization established with backing of Russia and China",
-    "published": "2026-07-17T00:22:14+00:00"
-  },
-  "c3c49d2ca1dbb264a473b8dd1e6e6b161c13de845d0ebcfa6095aa87c7975a05": {
-    "url": "QudsNen/231496",
-    "title": "Israeli Forces Open Fire on Civilian Homes in Southern Lebanon",
-    "published": "2026-07-16T23:08:15.291947+00:00"
-  },
-  "04c8ea63c94ffb4e7070b3070796925d5381646ddfeaeee84480eb5b8036ba3e": {
-    "url": "QudsNen/231500",
-    "title": "Israeli Airstrike Targets Al-Mansouri in Southern Lebanon",
-    "published": "2026-07-16T23:07:19.239018+00:00"
-  },
-  "dd70b0cc70681534a99267678296ecf8e20311bfbe74a83f6f629fe1b94bff26": {
-    "url": "QudsNen/231502",
-    "title": "Israeli Airstrike Hits Gaza Port",
-    "published": "2026-07-16T23:07:18.034416+00:00"
-  },
-  "ea94d9ba1918d4447de5932d9dd425e79ccfdcd25344064d896bd8684dd5308f": {
-    "url": "Middle_East_Spectator/34995",
-    "title": "Iran Targets US Missile Battery in Kuwait",
-    "published": "2026-07-16T23:07:14.695830+00:00"
-  },
-  "244c190c4ba0b59ce2349b3fb2e9a7019baf6219e43239cc39bb647b9c28d21b": {
-    "url": "Middle_East_Spectator/35000",
-    "title": "U.S. HIMARS System Destroys Target in Kuwait",
-    "published": "2026-07-16T23:06:38.918138+00:00"
-  },
-  "edf52f898501bbb958c2d6b0afc1c34314fbc8b0ab509f5a34bedfd0e7be6e88": {
-    "url": "thecradlemedia/64310",
-    "title": "US Conducts Precision Strikes on Iranian Bridges",
-    "published": "2026-07-16T23:06:15.987549+00:00"
   }
 }
