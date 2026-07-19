@@ -1,4 +1,34 @@
 {
+  "1347f5a02b4dc780ce1dd7565783ac879590dfe1eb096df7b8ea370b2b1dff5b": {
+    "url": "Slavyangrad/169965",
+    "title": "Russian Forces Strike Ukrainian Ports and Vessels Near Odessa",
+    "published": "2026-07-19T23:05:49.692753+00:00"
+  },
+  "37765e836669990a50b50f263e2de6f5130b2916ae856c26a30dbe44dcbbf92c": {
+    "url": "BellumActaNews/175554",
+    "title": "Iran Fires Ballistic Missiles at US Military Bases in Persian Gulf",
+    "published": "2026-07-19T23:05:16.280135+00:00"
+  },
+  "4bbcb3daf3ce33fded776cc81a1d5bc474966157c4196985d9a1829e310e4e97": {
+    "url": "BellumActaNews/175562",
+    "title": "Trump Congratulates Rodri on Unprecedented FIFA World Cup Honour",
+    "published": "2026-07-19T23:05:09.744704+00:00"
+  },
+  "1f077dd91309067949deffe7a0adba9ff81252696297cf8c94f311e540c0dbfe": {
+    "url": "BellumActaNews/175563",
+    "title": "Trump Congratulates Spanish Midfielder Rodri on FIFA World Cup Golden Ball Win",
+    "published": "2026-07-19T23:04:07.696940+00:00"
+  },
+  "51023175ded2d37bd39d545ab24ea2605e64b00f87c6d12f00daf47ef2de715a": {
+    "url": "QudsNen/231890",
+    "title": "Israeli Artillery Strikes Al-Bureij Refugee Camp in Gaza",
+    "published": "2026-07-19T23:02:57.479728+00:00"
+  },
+  "24a17d060a299bfa4aa562c15abecd9870776dd1407e6433bb24189eb29dc3ef": {
+    "url": "QudsNen/231893",
+    "title": "Hamas Official Congratulates Spain on FIFA World Cup Win",
+    "published": "2026-07-19T23:02:56.339533+00:00"
+  },
   "1825acdece82bab52530b7a78206d3671eb29325a11d58359b2c45d862ba456e": {
     "url": "intelslava/90955",
     "title": "Iran Ballistic Missile Launch from Markazi Province",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/64538",
     "title": "US Soldier Killed, Third Missing Service Member's Remains Recovered in Iraq",
     "published": "2026-07-19T21:00:53.589861+00:00"
+  },
+  "16581a9a28f4f4e33ef2cc890fb5fb8cb9c1b5f91e8bb2c4b7e1d90e89ea39d2": {
+    "url": "https://www.rt.com/news/643239-trump-iran-war-casualties-democrats-vietnam-afghanistan/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump resorts to whataboutism after Iranian strike kills two US troops",
+    "published": "2026-07-19T20:58:00+00:00"
   },
   "284561f58dd8690b891456d4df9e980da898919291b00b0606186aacafbb199c": {
     "url": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
@@ -68,6 +103,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
     "title": "At least 50 Malian soldiers killed in attack on military convoy",
     "published": "2026-07-19T18:27:58+00:00"
+  },
+  "652c95080c65d46d075c3803bb6e54df6d5f0e724bec2f88b242ecb6bffefb88": {
+    "url": "https://en.mehrnews.com/news/246350/Iran-strikes-on-US-bases-transformed-reg-security-structure",
+    "title": "Iran strikes on US bases transformed reg. security structure",
+    "published": "2026-07-19T18:19:21+00:00"
   },
   "80122fd915a5fd5b67431fffa905380e720a2c6f651158ec0957e593be77c6ff": {
     "url": "https://www.tehrantimes.com/news/528339/No-U-S-base-in-West-Asia-is-beyond-Iran-s-reach",
@@ -309,6 +349,11 @@
     "title": "US aggression against Iran \u2018gross violation of UN Charter\u2019",
     "published": "2026-07-19T07:24:13+00:00"
   },
+  "5e885e6a2298cffc2542594d9a195694c0b4cd8c674738da4c8feacfdc7d6304": {
+    "url": "https://en.mehrnews.com/news/246331/VIDEO-Damaged-tunnel-on-Bandar-Abbas-Sirjan-Road-reopened",
+    "title": "VIDEO: Damaged tunnel on Bandar Abbas-Sirjan Road reopened",
+    "published": "2026-07-19T06:47:17+00:00"
+  },
   "ac5458b3af7e568f8f19c3d05c90042d238c752cd431d4f11fafd79edfc1e81c": {
     "url": "BellumActaNews/175542",
     "title": "US Launches Eighth Wave of Airstrikes in Iran",
@@ -363,6 +408,11 @@
     "url": "https://tass.com/politics/2162105",
     "title": "US aims at double deterrence of Moscow, Beijing \u2014 Russian academician",
     "published": "2026-07-19T04:27:45+00:00"
+  },
+  "bdd3809a0a1a8bcab7a9053c2da7bd007e52146a2fb8fafc271cf3d2225c5421": {
+    "url": "https://en.mehrnews.com/news/246324/Iran-Iraq-FMs-discuss-regional-developments",
+    "title": "Iran, Iraq FMs discuss regional developments",
+    "published": "2026-07-19T04:07:04+00:00"
   },
   "c4453eb1d2b5432f99838476c9fd3ac2b41251a51afa600c7358955ad4016939": {
     "url": "DDGeopolitics/189408",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/189314",
     "title": "Ukrainian Cargo Ship Destroyed Near Zmeiny Island",
     "published": "2026-07-18T11:11:01.814382+00:00"
-  },
-  "a97a1ad62b5853aff27e9e9280ded2e8e19b0f86f94e3908dbd70aaf3b3be8c3": {
-    "url": "QudsNen/231636",
-    "title": "Israeli Airstrike Claims Life in Gaza City's Al-Zaytoun Neighborhood",
-    "published": "2026-07-18T11:10:14.220569+00:00"
-  },
-  "29254a3cc39146c66546153f81fa186a77f07e297eb449705d89bdad9ce3ec06": {
-    "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
-    "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
-    "published": "2026-07-18T11:10:09+00:00"
-  },
-  "a4788a66eca71549ebf3774b7397c42721135ac187065a4c58a12098aadec069": {
-    "url": "thecradlemedia/64459",
-    "title": "AIPAC Blacklists US Democrats Over Israel Aid Dispute",
-    "published": "2026-07-18T11:08:52.621773+00:00"
-  },
-  "4cecc0df7cdfc9441ab049a8eaaf581410fbbedc937e62982df990c923d8225d": {
-    "url": "thecradlemedia/64460",
-    "title": "Rising Anti-Semitic Attitudes Among Younger US Citizens, Survey Finds",
-    "published": "2026-07-18T11:08:43.490200+00:00"
-  },
-  "48c52d3866257dc925cb295d9ad678f78c7603b922399fab15e75ac33fbe12f4": {
-    "url": "https://english.almanar.com.lb/article/105672/",
-    "title": "Araqchi Vows Iran Will Defend \u2018Every Inch\u2019 of Homeland after Deadly US Strike - Al-Manar TV Lebanon",
-    "published": "2026-07-18T10:24:40+00:00"
-  },
-  "98416835235a8dcb0be9cfb69e80a76c8449a8d159627da3eb34a7a0f02ee495": {
-    "url": "https://english.almanar.com.lb/article/105647/",
-    "title": "Southern Lebanon: \u2018Israel\u2019s\u2019 Relentless Onslaught Continues - Al-Manar TV Lebanon",
-    "published": "2026-07-18T09:51:24+00:00"
-  },
-  "659ec9502eaf6f117c544a46407f59486a01bd85e278534b9c8339b60d27cb2a": {
-    "url": "DDGeopolitics/189290",
-    "title": "Missiles Strike Muwaffaq Salti Air Base in Jordan",
-    "published": "2026-07-18T09:42:22.123753+00:00"
-  },
-  "900ae525cb9c676495a157fbf01368a47a88453726587b880336b726831cd105": {
-    "url": "DDGeopolitics/189293",
-    "title": "Iran Targets U.S. Facilities in Bahrain with Combat Drones",
-    "published": "2026-07-18T09:41:34.012690+00:00"
-  },
-  "35953734f2cbf3163540f26f4501b78c35c5c2441d5f09a1cf07b2fb29e5d17e": {
-    "url": "thecradlemedia/64430",
-    "title": "IRGC Confirms Coordinated Missile and Drone Strike on US Targets in Gulf",
-    "published": "2026-07-18T09:40:22.643976+00:00"
-  },
-  "b098cfbb17d8c3cefaea8a7441c3ddf8f9f236ba00bf46c0e476d517de397ce0": {
-    "url": "thecradlemedia/64443",
-    "title": "Israeli Soldier Faces War Crimes Charges in Portugal Over Gaza Conflict",
-    "published": "2026-07-18T09:39:59.817203+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5007,
+  "total_calls": 5011,
   "tiers": {
-    "groq": 4988,
+    "groq": 4992,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T13:47:21.743870+00:00",
-      "tier": "groq",
-      "article": "Iran hits US positions in Syria, Jordan, Oman"
-    },
-    {
-      "timestamp": "2026-07-17T13:47:38.516960+00:00",
-      "tier": "groq",
-      "article": "Iran strikes US base in Syria in response to death of soldiers in Iranshahr"
-    },
-    {
-      "timestamp": "2026-07-17T13:48:01.646554+00:00",
-      "tier": "groq",
-      "article": "US to face harsh retribution if attacks on Iran\u2019s civilian facilities continue \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-07-17T13:48:19.867850+00:00",
-      "tier": "groq",
-      "article": "Pentagon readies plans for massive air assault on Cuba: Report"
-    },
     {
       "timestamp": "2026-07-17T15:19:57.926192+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T21:00:43.761513+00:00",
       "tier": "groq",
       "article": "US aims at double deterrence of Moscow, Beijing \u2014 Russian academician"
+    },
+    {
+      "timestamp": "2026-07-19T23:01:40.906823+00:00",
+      "tier": "groq",
+      "article": "Trump resorts to whataboutism after Iranian strike kills two US troops"
+    },
+    {
+      "timestamp": "2026-07-19T23:01:58.539550+00:00",
+      "tier": "groq",
+      "article": "Iran strikes on US bases transformed reg. security structure"
+    },
+    {
+      "timestamp": "2026-07-19T23:02:31.846172+00:00",
+      "tier": "groq",
+      "article": "VIDEO: Damaged tunnel on Bandar Abbas-Sirjan Road reopened"
+    },
+    {
+      "timestamp": "2026-07-19T23:02:49.596448+00:00",
+      "tier": "groq",
+      "article": "Iran, Iraq FMs discuss regional developments"
     }
   ]
 }
