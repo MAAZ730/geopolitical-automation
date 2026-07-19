@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4979,
+  "total_calls": 4983,
   "tiers": {
-    "groq": 4960,
+    "groq": 4964,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T17:23:52.628018+00:00",
-      "tier": "groq",
-      "article": "Iran urges southern neighbours to block US attacks"
-    },
-    {
-      "timestamp": "2026-07-16T17:24:33.989114+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s new Iran strikes won\u2019t end the war over the Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-07-16T17:25:19.894556+00:00",
-      "tier": "groq",
-      "article": "Children, schools, hospitals not safe from US war machine: Iranian official"
-    },
-    {
-      "timestamp": "2026-07-16T17:25:37.854719+00:00",
-      "tier": "groq",
-      "article": "Abbas Kiarostami to be commemorated at Cinema Museum"
-    },
     {
       "timestamp": "2026-07-16T19:18:46.065060+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T06:37:57.691704+00:00",
       "tier": "groq",
       "article": "Caspian port can offset pressures on southern Iranian ports: official"
+    },
+    {
+      "timestamp": "2026-07-19T09:57:13.066674+00:00",
+      "tier": "groq",
+      "article": "Ukraine says one of Russia\u2019s \u2018largest\u2019 missile attacks on Kyiv killed 1, injured 15 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-19T09:57:51.743210+00:00",
+      "tier": "groq",
+      "article": "US launches new Iran strikes after two soldiers killed: What\u2019s the latest?"
+    },
+    {
+      "timestamp": "2026-07-19T09:58:38.769542+00:00",
+      "tier": "groq",
+      "article": "Zelensky again requests air defense missiles amid massive strike on Kiev"
+    },
+    {
+      "timestamp": "2026-07-19T09:59:30.044817+00:00",
+      "tier": "groq",
+      "article": "\u2018TPO puts emphasis on development of regional trade, export\u2019"
     }
   ]
 }
