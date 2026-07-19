@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4987,
+  "total_calls": 4991,
   "tiers": {
-    "groq": 4968,
+    "groq": 4972,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T21:06:18.125962+00:00",
-      "tier": "groq",
-      "article": "Two people were killed, 11 wounded in DPR over day due to actions of Ukrainian military"
-    },
-    {
-      "timestamp": "2026-07-16T21:06:50.735409+00:00",
-      "tier": "groq",
-      "article": "US strikes Bandar Khomeini, destroying a bridge \u2014 Fars"
-    },
-    {
-      "timestamp": "2026-07-16T21:07:09.264308+00:00",
-      "tier": "groq",
-      "article": "Shahid Baqaei 2 Hospital in Ahvaz resumed operations: Health official"
-    },
-    {
-      "timestamp": "2026-07-16T21:07:25.696025+00:00",
-      "tier": "groq",
-      "article": "China blasts US targeting of Russian energy buyers"
-    },
     {
       "timestamp": "2026-07-16T23:02:15.741010+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T11:13:52.134666+00:00",
       "tier": "groq",
       "article": "US sanction bill against Russia will not affect India's ties with Russia \u2014 expert"
+    },
+    {
+      "timestamp": "2026-07-19T13:25:42.904090+00:00",
+      "tier": "groq",
+      "article": "Israel launches fresh attack on areas in southern Lebanon"
+    },
+    {
+      "timestamp": "2026-07-19T13:26:25.223367+00:00",
+      "tier": "groq",
+      "article": "Iranians suffer from power blackouts during war and heatwave"
+    },
+    {
+      "timestamp": "2026-07-19T13:27:10.044080+00:00",
+      "tier": "groq",
+      "article": "Israeli army announces the detection of an Iranian missile attack towards Aqaba and the possibility of alerts being activated in southern Jordan - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-19T13:27:26.859500+00:00",
+      "tier": "groq",
+      "article": "Iran suspends commitments under Islamabad MoU over US acts"
     }
   ]
 }
