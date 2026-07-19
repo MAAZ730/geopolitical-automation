@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4983,
+  "total_calls": 4987,
   "tiers": {
-    "groq": 4964,
+    "groq": 4968,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T19:18:46.065060+00:00",
-      "tier": "groq",
-      "article": "What could a US ground invasion of Iran look like?"
-    },
-    {
-      "timestamp": "2026-07-16T19:19:21.756656+00:00",
-      "tier": "groq",
-      "article": "RT crew witnesses Israeli strike in Lebanon"
-    },
-    {
-      "timestamp": "2026-07-16T19:20:07.587295+00:00",
-      "tier": "groq",
-      "article": "Russian forces hit vessel carrying cargo for Ukrainian army by Geran-2 drones in Black Sea"
-    },
-    {
-      "timestamp": "2026-07-16T19:20:26.426529+00:00",
-      "tier": "groq",
-      "article": "IRGC shoots down US Lucas drone over Bandar Abbas"
-    },
     {
       "timestamp": "2026-07-16T21:06:18.125962+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T09:59:30.044817+00:00",
       "tier": "groq",
       "article": "\u2018TPO puts emphasis on development of regional trade, export\u2019"
+    },
+    {
+      "timestamp": "2026-07-19T11:11:33.303350+00:00",
+      "tier": "groq",
+      "article": "Gaza: Two Martyrs, Injuries in Continued Israeli Violations of Ceasefire - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-19T11:12:10.292690+00:00",
+      "tier": "groq",
+      "article": "Ukraine loses military hardware, robotic systems and troops near Konstantinovka"
+    },
+    {
+      "timestamp": "2026-07-19T11:13:02.240146+00:00",
+      "tier": "groq",
+      "article": "US aggression against Iran \u2018gross violation of UN Charter\u2019"
+    },
+    {
+      "timestamp": "2026-07-19T11:13:52.134666+00:00",
+      "tier": "groq",
+      "article": "US sanction bill against Russia will not affect India's ties with Russia \u2014 expert"
     }
   ]
 }
