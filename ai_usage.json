@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4999,
+  "total_calls": 5003,
   "tiers": {
-    "groq": 4980,
+    "groq": 4984,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T06:20:24.038267+00:00",
-      "tier": "groq",
-      "article": "Five bridges targeted by US strikes in Iran\u2019s Bandar-e Imam Khomeyni \u2014 Fars"
-    },
-    {
-      "timestamp": "2026-07-17T06:20:57.605726+00:00",
-      "tier": "groq",
-      "article": "Iran strikes US forces in Kuwait \u2014 Fars"
-    },
-    {
-      "timestamp": "2026-07-17T06:21:43.448718+00:00",
-      "tier": "groq",
-      "article": "Qatari air defenses repel missile attack"
-    },
-    {
-      "timestamp": "2026-07-17T06:22:29.169405+00:00",
-      "tier": "groq",
-      "article": "US air radar, jet fuel pumps destroyed in Bahrain"
-    },
     {
       "timestamp": "2026-07-17T10:03:58.322524+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T17:05:04.066618+00:00",
       "tier": "groq",
       "article": "Moscow sees Japan\u2019s cooperation with Kiev as help in killing Russian civilians"
+    },
+    {
+      "timestamp": "2026-07-19T19:13:51.813966+00:00",
+      "tier": "groq",
+      "article": "Israeli army: Iranian Missile Attack Targets Aqaba in Jordan - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-19T19:14:24.953514+00:00",
+      "tier": "groq",
+      "article": "At least 50 Malian soldiers killed in attack on military convoy"
+    },
+    {
+      "timestamp": "2026-07-19T19:15:11.251947+00:00",
+      "tier": "groq",
+      "article": "Russia hits railway locomotive used by Ukrainian army"
+    },
+    {
+      "timestamp": "2026-07-19T19:15:29.961926+00:00",
+      "tier": "groq",
+      "article": "CDC links Taco Bell lettuce to Cyclospora outbreak across the US"
     }
   ]
 }
