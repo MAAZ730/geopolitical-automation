@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4995,
+  "total_calls": 4999,
   "tiers": {
-    "groq": 4976,
+    "groq": 4980,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T02:53:47.787789+00:00",
-      "tier": "groq",
-      "article": "Kuwaiti air defenses repel attack of Iranian drones, missiles"
-    },
-    {
-      "timestamp": "2026-07-17T02:54:27.563442+00:00",
-      "tier": "groq",
-      "article": "Iran says seven killed in latest US strikes, warns war \u2018will spread\u2019"
-    },
-    {
-      "timestamp": "2026-07-17T02:54:43.459597+00:00",
-      "tier": "groq",
-      "article": "US delivers missile strike on Iran\u2019s Bandar Lengeh \u2014 Mehr"
-    },
-    {
-      "timestamp": "2026-07-17T02:55:21.751866+00:00",
-      "tier": "groq",
-      "article": "Foreign Ministry summons UK envoy over IRGC blacklisting"
-    },
     {
       "timestamp": "2026-07-17T06:20:24.038267+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T15:00:21.387940+00:00",
       "tier": "groq",
       "article": "Entire MoU suspended due to US violations: Baghaei"
+    },
+    {
+      "timestamp": "2026-07-19T17:03:48.513950+00:00",
+      "tier": "groq",
+      "article": "50 martyred, 517 injured in US bombings: Iranian official"
+    },
+    {
+      "timestamp": "2026-07-19T17:04:26.230200+00:00",
+      "tier": "groq",
+      "article": "Iran rights body urges UN action after US strike of children hospital"
+    },
+    {
+      "timestamp": "2026-07-19T17:04:45.029214+00:00",
+      "tier": "groq",
+      "article": "Russian strike destroys plant producing equipment for Ukrainian armed forces in Kiev"
+    },
+    {
+      "timestamp": "2026-07-19T17:05:04.066618+00:00",
+      "tier": "groq",
+      "article": "Moscow sees Japan\u2019s cooperation with Kiev as help in killing Russian civilians"
     }
   ]
 }
