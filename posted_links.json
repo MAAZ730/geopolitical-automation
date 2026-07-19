@@ -1,4 +1,34 @@
 {
+  "20cfba3c023e4e835557a57843fb91c75fc9eb2e428b30b73024c83098b22398": {
+    "url": "QudsNen/231809",
+    "title": "Israeli Forces Storm Palestinian Village of Ein 'Arik",
+    "published": "2026-07-19T15:04:03.196533+00:00"
+  },
+  "bf0c09d876814d0485597ccc286e2e51bd2c2be104dc13f34e6098a8559dc1a1": {
+    "url": "Middle_East_Spectator/35187",
+    "title": "Missile Debris Falls in Eilat and Aqabah Airport",
+    "published": "2026-07-19T15:03:15.269028+00:00"
+  },
+  "436561effc88d95ca0090f4208894983a3e637486c2fd6a566b0dfb22eafb8d2": {
+    "url": "Middle_East_Spectator/35191",
+    "title": "Ballistics Sighted Over Kermanshah",
+    "published": "2026-07-19T15:01:22.544480+00:00"
+  },
+  "a10ef1c00b7af2df2b7616f2e7ca2e0c9f1b18169e4d58f576848f6976044eb0": {
+    "url": "Middle_East_Spectator/35192",
+    "title": "US Missile Strike Hits Darkhovein Nuclear Power Plant Site in Khuzestan",
+    "published": "2026-07-19T15:00:54.811202+00:00"
+  },
+  "93726e142e7a08ba82b64f9110ab035efd3c3cda6e840098cf5919c7763997e9": {
+    "url": "thecradlemedia/64530",
+    "title": "Jordanian Forces Intercept Iranian Missiles",
+    "published": "2026-07-19T15:00:52.993219+00:00"
+  },
+  "79e13a5e9f0113413ac81abc3185709465d826ace19d157df98cc10b6f87f107": {
+    "url": "thecradlemedia/64531",
+    "title": "US Reinforces Israeli Military Presence Amid Iran Tensions",
+    "published": "2026-07-19T15:00:27.538824+00:00"
+  },
   "2de36c82707e9c2998be4c5ba5a13dfed1c831ff6fd419da9bce2b15a19eb3a8": {
     "url": "Middle_East_Spectator/35176",
     "title": "Israel Launches Interceptors in Response to Jordanian Missile Interceptions",
@@ -29,6 +59,11 @@
     "title": "Iran Leader Slams US Aggression, Vows Continued Resistance",
     "published": "2026-07-19T13:27:30.638427+00:00"
   },
+  "5585daaa0ece9e40818db360a86fc125c03673c0fb8cdf49b7868cf321c594fd": {
+    "url": "https://tass.com/world/2162163",
+    "title": "Israel detects missile launch from Iran toward Jordan\u2019s Aqaba",
+    "published": "2026-07-19T13:10:56+00:00"
+  },
   "f7acb4f52d603deae464a97021a17be7579530ff095610a97cb69c877423ff88": {
     "url": "https://english.almanar.com.lb/article/106097/",
     "title": "Israeli army announces the detection of an Iranian missile attack towards Aqaba and the possibility of alerts being activated in southern Jordan - Al-Manar TV Lebanon",
@@ -38,6 +73,16 @@
     "url": "https://en.mehrnews.com/news/246343/Israel-launches-fresh-attack-on-areas-in-southern-Lebanon",
     "title": "Israel launches fresh attack on areas in southern Lebanon",
     "published": "2026-07-19T12:28:55+00:00"
+  },
+  "9637aa5840dbada7d6a0b185dee0216b077d6a7a34dc7e331b4f44ceb43413c0": {
+    "url": "https://en.mehrnews.com/news/246341/US-attacks-under-construction-nuclear-power-plant-in-SW-Iran",
+    "title": "US attacks under-construction nuclear power plant in SW Iran",
+    "published": "2026-07-19T12:02:55+00:00"
+  },
+  "7c19eb098172ec021e1026d53df075ac201be1e2ba240345fc03257353b6b417": {
+    "url": "https://tass.com/defense/2162153",
+    "title": "Russian army strikes transport and logistics infrastructure used by Ukrainian forces",
+    "published": "2026-07-19T11:32:31+00:00"
   },
   "9e4460c2a262ef0f61e8c2a72ea1e1dbcd021b5e03b0b7e50d94599d6e4342cf": {
     "url": "CensoredMen/189",
@@ -384,6 +429,11 @@
     "title": "Israeli Forces Conduct Airstrike in Kfar Tebnit, South Lebanon",
     "published": "2026-07-18T17:05:04.928473+00:00"
   },
+  "f57a88c09f3d41ec86acab5884a8bcd66309bfe700a8306f09545c03bddb8ace": {
+    "url": "https://en.mehrnews.com/news/246317/Entire-MoU-suspended-due-to-US-violations-Baghaei",
+    "title": "Entire MoU suspended due to US violations: Baghaei",
+    "published": "2026-07-18T16:01:26+00:00"
+  },
   "87cbb53b61646f22b8010c929b2c4876a4dedd6258c797e0a5a77cad2fe09c2f": {
     "url": "https://en.mehrnews.com/news/246315/Iran-suspends-commitments-under-Islamabad-MoU-over-US-acts",
     "title": "Iran suspends commitments under Islamabad MoU over US acts",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/emergencies/2161885",
     "title": "NORAD fighters intercept aircraft violating flight restrictions over New York",
     "published": "2026-07-18T01:02:28+00:00"
-  },
-  "48fb9890cbd45a0f5483dc4bab555acb454d771c95af475a8c421ed11a9c9cb5": {
-    "url": "https://www.rt.com/news/643193-iran-us-drone-ai-bahrain/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "IRGC claims strikes on US drone depot and AI hub in Bahrain",
-    "published": "2026-07-17T22:59:49+00:00"
-  },
-  "5e3d612a4fa73b955ee088239f3375ca06bf811e20090966a512b85bcf5b7f89": {
-    "url": "warmonitors/45023",
-    "title": "Iraq Blasts Rock Iranian Opposition Party Headquarters",
-    "published": "2026-07-17T22:59:33.186364+00:00"
-  },
-  "5c192f3c472d3b221e5f3de1f1406dd71f54aba1e59797d66a5dbaa06a29c0ee": {
-    "url": "DDGeopolitics/189254",
-    "title": "Iranian Missiles Strike US Base in Erbil, Iraq",
-    "published": "2026-07-17T22:58:05.012191+00:00"
-  },
-  "bfa1c94161accb2dbc11756f5a03f356fbe5fb8cfba20bf1bf38919561efbe0f": {
-    "url": "DDGeopolitics/189257",
-    "title": "IRGC Declares Strait of Hormuz Closed Amid US Tensions",
-    "published": "2026-07-17T22:57:40.660098+00:00"
-  },
-  "54232a2aac98d4d41d413625c9d3915164e60701a47cfd04a6d07d3f35ef3305": {
-    "url": "QudsNen/231589",
-    "title": "Israeli Artillery Strikes Al-Bureij Refugee Camp in Gaza",
-    "published": "2026-07-17T22:56:20.985232+00:00"
-  },
-  "75482b586212c9b81516863471ff719f30e3e66a0638356e8a4c1df7bc890c28": {
-    "url": "QudsNen/231598",
-    "title": "Britons Divided on Israel's Actions in Gaza Strip",
-    "published": "2026-07-17T22:56:19.173854+00:00"
-  },
-  "78eb293a88071070366a4ee97ac01c91c8d3257abe2aa7b81b8f46c462a4cc5b": {
-    "url": "Middle_East_Spectator/35080",
-    "title": "Iran Launches Ballistic Missiles in Multiple Locations",
-    "published": "2026-07-17T22:56:14.777860+00:00"
-  },
-  "16cbd7936c347225127a2ccd0900c5a8e0d83772667eb3709d0e73ddf084cd5a": {
-    "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
-    "title": "US launches seventh straight night of strikes on Iran",
-    "published": "2026-07-17T22:11:12+00:00"
-  },
-  "d53a189995d81c793350b89d76e9fd3686b8840aa1a2f0ed823b991c7e5a91d2": {
-    "url": "https://en.mehrnews.com/news/246283/US-unmanned-surface-vessel-depot-in-Bahrain-destroyed-IRGC",
-    "title": "US unmanned surface vessel depot in Bahrain destroyed: IRGC",
-    "published": "2026-07-17T21:55:11+00:00"
-  },
-  "43b48dc3899d1e2065a499ef17eb6839dabdff1472e0407899932c01726055f0": {
-    "url": "DDGeopolitics/189235",
-    "title": "Iran Targets Kurdish Opposition Bases in Iraqi Kurdistan",
-    "published": "2026-07-17T21:04:12.464492+00:00"
   }
 }

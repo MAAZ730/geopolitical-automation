@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4991,
+  "total_calls": 4995,
   "tiers": {
-    "groq": 4972,
+    "groq": 4976,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T23:02:15.741010+00:00",
-      "tier": "groq",
-      "article": "Israeli Strikes Kill Four Civilians in Gaza as Violations Mount - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-16T23:02:33.886682+00:00",
-      "tier": "groq",
-      "article": "Iran warns \u2018entire region will pay the price\u2019 as US bombs bridges (PHOTOS, VIDEOS)"
-    },
-    {
-      "timestamp": "2026-07-16T23:03:06.178140+00:00",
-      "tier": "groq",
-      "article": "No full US investigation into Iran school strike \u2014 media"
-    },
-    {
-      "timestamp": "2026-07-16T23:03:25.195803+00:00",
-      "tier": "groq",
-      "article": "American MQ-9 drone downed over Iran's Andimeshk"
-    },
     {
       "timestamp": "2026-07-17T02:53:47.787789+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T13:27:26.859500+00:00",
       "tier": "groq",
       "article": "Iran suspends commitments under Islamabad MoU over US acts"
+    },
+    {
+      "timestamp": "2026-07-19T14:59:26.695584+00:00",
+      "tier": "groq",
+      "article": "US attacks under-construction nuclear power plant in SW Iran"
+    },
+    {
+      "timestamp": "2026-07-19T14:59:44.857260+00:00",
+      "tier": "groq",
+      "article": "Israel detects missile launch from Iran toward Jordan\u2019s Aqaba"
+    },
+    {
+      "timestamp": "2026-07-19T15:00:02.921694+00:00",
+      "tier": "groq",
+      "article": "Russian army strikes transport and logistics infrastructure used by Ukrainian forces"
+    },
+    {
+      "timestamp": "2026-07-19T15:00:21.387940+00:00",
+      "tier": "groq",
+      "article": "Entire MoU suspended due to US violations: Baghaei"
     }
   ]
 }
