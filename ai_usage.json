@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4975,
+  "total_calls": 4979,
   "tiers": {
-    "groq": 4956,
+    "groq": 4960,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T15:46:28.859379+00:00",
-      "tier": "groq",
-      "article": "\u2018No trace left\u2019: Iran vows to wipe out US assets across region if Trump acts on new threats"
-    },
-    {
-      "timestamp": "2026-07-16T15:46:46.898664+00:00",
-      "tier": "groq",
-      "article": "Iran warns US of targeting all infrastructures in region"
-    },
-    {
-      "timestamp": "2026-07-16T15:47:06.743101+00:00",
-      "tier": "groq",
-      "article": "US strikes target Semnan airport"
-    },
-    {
-      "timestamp": "2026-07-16T15:47:25.083699+00:00",
-      "tier": "groq",
-      "article": "Iran condemns UK designation of IRGC"
-    },
     {
       "timestamp": "2026-07-16T17:23:52.628018+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T03:01:42.209822+00:00",
       "tier": "groq",
       "article": "No uprising expected in Ukraine over Fyodorov's dismissal \u2014 expert"
+    },
+    {
+      "timestamp": "2026-07-19T06:35:42.949554+00:00",
+      "tier": "groq",
+      "article": "US bombs Iran for eighth-straight night"
+    },
+    {
+      "timestamp": "2026-07-19T06:36:14.037707+00:00",
+      "tier": "groq",
+      "article": "At least one killed as Russian ballistic missiles hit Kyiv"
+    },
+    {
+      "timestamp": "2026-07-19T06:37:04.604308+00:00",
+      "tier": "groq",
+      "article": "US and Iran exchange strikes after two US deaths in Jordan attack"
+    },
+    {
+      "timestamp": "2026-07-19T06:37:57.691704+00:00",
+      "tier": "groq",
+      "article": "Caspian port can offset pressures on southern Iranian ports: official"
     }
   ]
 }
