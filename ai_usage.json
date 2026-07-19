@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5003,
+  "total_calls": 5007,
   "tiers": {
-    "groq": 4984,
+    "groq": 4988,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T10:03:58.322524+00:00",
-      "tier": "groq",
-      "article": "US strikes on Iran's Hormozgan Province kill 8 civilians \u2014 media"
-    },
-    {
-      "timestamp": "2026-07-17T10:04:32.419954+00:00",
-      "tier": "groq",
-      "article": "Strike on Rapid UAV assembly plant to deplete Ukrainian forces in special op zone \u2014 expert"
-    },
-    {
-      "timestamp": "2026-07-17T10:04:50.644536+00:00",
-      "tier": "groq",
-      "article": "Broken Drone, Far from Home: The Case for Overseas Autonomous System Sustainment"
-    },
-    {
-      "timestamp": "2026-07-17T10:05:06.780134+00:00",
-      "tier": "groq",
-      "article": "Iran to resist until US leaves region: Army spokesperson"
-    },
     {
       "timestamp": "2026-07-17T13:47:21.743870+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T19:15:29.961926+00:00",
       "tier": "groq",
       "article": "CDC links Taco Bell lettuce to Cyclospora outbreak across the US"
+    },
+    {
+      "timestamp": "2026-07-19T20:58:33.961761+00:00",
+      "tier": "groq",
+      "article": "No US base in West Asia is beyond Iran's reach"
+    },
+    {
+      "timestamp": "2026-07-19T20:59:08.982185+00:00",
+      "tier": "groq",
+      "article": "Twin earthquakes strike Peru killing at least five"
+    },
+    {
+      "timestamp": "2026-07-19T20:59:56.329664+00:00",
+      "tier": "groq",
+      "article": "US strikes Darhovin NPP under construction in Iran \u2014 Atomic Energy Organization"
+    },
+    {
+      "timestamp": "2026-07-19T21:00:43.761513+00:00",
+      "tier": "groq",
+      "article": "US aims at double deterrence of Moscow, Beijing \u2014 Russian academician"
     }
   ]
 }

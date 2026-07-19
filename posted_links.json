@@ -1,4 +1,39 @@
 {
+  "1825acdece82bab52530b7a78206d3671eb29325a11d58359b2c45d862ba456e": {
+    "url": "intelslava/90955",
+    "title": "Iran Ballistic Missile Launch from Markazi Province",
+    "published": "2026-07-19T21:05:02.815012+00:00"
+  },
+  "1d21a58cbe99f60af7da365daf9308c2a345aa641f640eb2dfded3b58e955605": {
+    "url": "CensoredMen/205",
+    "title": "Israel Threatens to Destroy Last Bridge Linking Lebanon's North and South",
+    "published": "2026-07-19T21:04:41.330612+00:00"
+  },
+  "98aeb96bf5f36b24838b4b32915521081045a3d0249d673414085c6aec3869fa": {
+    "url": "DDGeopolitics/189475",
+    "title": "Russian Forces Strike Vessel in Odessa Port with Geran-4 Drone",
+    "published": "2026-07-19T21:04:18.859866+00:00"
+  },
+  "bbb22f1a4686a9c8e84214a306802dd69bb74cf9ee19086c092ff3c75b76fe9f": {
+    "url": "QudsNen/231861",
+    "title": "Israel Courts Global Favor with Argentina World Cup Support",
+    "published": "2026-07-19T21:03:58.692307+00:00"
+  },
+  "04bc0bff513900d6c5de84d434023d228ece1d74a6d7664b852a23ad16ed780d": {
+    "url": "QudsNen/231867",
+    "title": "Israeli Artillery Strikes Al-Zaytoun Neighborhood in Gaza City",
+    "published": "2026-07-19T21:00:59.665098+00:00"
+  },
+  "a16d6f5ba297a5a3053d473edbe63ad67a8ab7962956c8b6d7a091371c4cc95c": {
+    "url": "thecradlemedia/64538",
+    "title": "US Soldier Killed, Third Missing Service Member's Remains Recovered in Iraq",
+    "published": "2026-07-19T21:00:53.589861+00:00"
+  },
+  "284561f58dd8690b891456d4df9e980da898919291b00b0606186aacafbb199c": {
+    "url": "https://www.aljazeera.com/news/2026/7/19/twin-earthquakes-strike-peru-killing-at-least-five?traffic_source=rss",
+    "title": "Twin earthquakes strike Peru killing at least five",
+    "published": "2026-07-19T20:11:51+00:00"
+  },
   "beb851a000786bc128fc63f9aec48ec9fd08da1cec232a0a2ce24f065c34561a": {
     "url": "militarywave/24421",
     "title": "Veteran Drone Operator Trades War for Quail Farming",
@@ -33,6 +68,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-50-malian-soldiers-killed-in-attack-on-military-convoy?traffic_source=rss",
     "title": "At least 50 Malian soldiers killed in attack on military convoy",
     "published": "2026-07-19T18:27:58+00:00"
+  },
+  "80122fd915a5fd5b67431fffa905380e720a2c6f651158ec0957e593be77c6ff": {
+    "url": "https://www.tehrantimes.com/news/528339/No-U-S-base-in-West-Asia-is-beyond-Iran-s-reach",
+    "title": "No US base in West Asia is beyond Iran's reach",
+    "published": "2026-07-19T17:34:04+00:00"
   },
   "d0de2ca192104a33d3a7485b4eb72b21c116f413fd5a5eb5b0825b26e2408c3a": {
     "url": "militarywave/24422",
@@ -158,6 +198,11 @@
     "url": "https://en.mehrnews.com/news/246341/US-attacks-under-construction-nuclear-power-plant-in-SW-Iran",
     "title": "US attacks under-construction nuclear power plant in SW Iran",
     "published": "2026-07-19T12:02:55+00:00"
+  },
+  "dca3a223691c6881fe5a9aa50c83b5c907271570a3058b22af168aed32b935e7": {
+    "url": "https://tass.com/world/2162155",
+    "title": "US strikes Darhovin NPP under construction in Iran \u2014 Atomic Energy Organization",
+    "published": "2026-07-19T11:42:49+00:00"
   },
   "7c19eb098172ec021e1026d53df075ac201be1e2ba240345fc03257353b6b417": {
     "url": "https://tass.com/defense/2162153",
@@ -313,6 +358,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
     "title": "At least one killed as Russian ballistic missiles hit Kyiv",
     "published": "2026-07-19T04:32:28+00:00"
+  },
+  "c0539520a6e1c0ac5f40e79df1941a82d3e91f4c190fb7b21e4869fe41d68c0b": {
+    "url": "https://tass.com/politics/2162105",
+    "title": "US aims at double deterrence of Moscow, Beijing \u2014 Russian academician",
+    "published": "2026-07-19T04:27:45+00:00"
   },
   "c4453eb1d2b5432f99838476c9fd3ac2b41251a51afa600c7358955ad4016939": {
     "url": "DDGeopolitics/189408",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/64443",
     "title": "Israeli Soldier Faces War Crimes Charges in Portugal Over Gaza Conflict",
     "published": "2026-07-18T09:39:59.817203+00:00"
-  },
-  "508973f7db36ebe017c35915d45effde103940f209a6e2f6959dec93ae89220e": {
-    "url": "thecradlemedia/64444",
-    "title": "Iran Missile Strike Hits US Fuel Depot at Jordan's Muwaffaq Salti Air Base",
-    "published": "2026-07-18T09:39:58.208190+00:00"
-  },
-  "b14c7b8cbbc84e92c8f8883c2f93b1d79c9f8dce814a008ef8e72530db63bf40": {
-    "url": "thecradlemedia/64448",
-    "title": "Jordan Intercepts 10 Iranian Missiles, Reports No Casualties or Damage",
-    "published": "2026-07-18T09:39:40.393677+00:00"
-  },
-  "04c61ed09548e17c1c226ab57c75a5b697531ec27304d61d7f05aa1d86f6c628": {
-    "url": "https://english.almanar.com.lb/article/105637/",
-    "title": "IRGC Navy Pounds US Support Sites in Kuwait, Bahrain - Al-Manar TV Lebanon",
-    "published": "2026-07-18T08:32:19+00:00"
-  },
-  "e0b8a6b8ac16b74867c2480658a266d1dae8b9fecbda875d8070503e85804ab8": {
-    "url": "https://tass.com/defense/2161947",
-    "title": "Russian drone strike destroys fuel depot used by Ukrainian army in Chernigov Region",
-    "published": "2026-07-18T07:58:09+00:00"
-  },
-  "0231ed7f09ca53a5516d8412205cdf67e578e3300aee9fcec72105d8214bc317": {
-    "url": "https://tass.com/emergencies/2161935",
-    "title": "Twenty-five people injured in Ukrainian attack on warehouse in Russia\u2019s Tambov Region",
-    "published": "2026-07-18T07:11:54+00:00"
-  },
-  "3adaf5f51927753c1ee50d8c2f72c8102394bb5c2de0b1d220eb8d7a75cb4a92": {
-    "url": "https://tass.com/world/2161921",
-    "title": "IRGC forces strike US fuel terminal in Kuwait \u2014 agency",
-    "published": "2026-07-18T06:20:53+00:00"
-  },
-  "fd2071866c8ff792e656654b8d9c15498523dceac9f0a2abb67a95a06ff113f5": {
-    "url": "QudsNen/231602",
-    "title": "Actor Brian Cox Breaks Silence on Gaza Conflict",
-    "published": "2026-07-18T06:20:09.664613+00:00"
-  },
-  "d47d02d158c26a8e152bf809a1d1b95372fe63edc2a24ab4e5b870d7a58516b2": {
-    "url": "https://tass.com/defense/2161915",
-    "title": "Russian forces carry out strikes on Ukrainian ports used for military cargo deliveries",
-    "published": "2026-07-18T06:18:55+00:00"
-  },
-  "9492a3de4bdcc7d923d9b3e96bb2be5a9b2bbbc1abac4191cfb642a122e8f687": {
-    "url": "QudsNen/231603",
-    "title": "Israeli Troops Intervene in Settler-Palestinian Clash in West Bank",
-    "published": "2026-07-18T06:17:39.306512+00:00"
-  },
-  "aa78fa6e2338728a88c9b7d90744b1a026db21c595f88418d70a51659e7e20b3": {
-    "url": "QudsNen/231605",
-    "title": "Israeli Tanks Open Fire in Gaza's Deir Al-Balah",
-    "published": "2026-07-18T06:15:10.914650+00:00"
   }
 }
