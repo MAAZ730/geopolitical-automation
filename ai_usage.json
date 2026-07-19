@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 4971,
+  "total_calls": 4975,
   "tiers": {
-    "groq": 4952,
+    "groq": 4956,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-16T14:00:14.203359+00:00",
-      "tier": "groq",
-      "article": "Strait of Hormuz: US fires at oil tanker as new Iran blockade begins"
-    },
-    {
-      "timestamp": "2026-07-16T14:00:52.616004+00:00",
-      "tier": "groq",
-      "article": "Iran claims strikes on US bases, warns of wider attacks on region"
-    },
-    {
-      "timestamp": "2026-07-16T14:01:08.667038+00:00",
-      "tier": "groq",
-      "article": "Tehran slams US strike near children's hospital in Ahvaz"
-    },
-    {
-      "timestamp": "2026-07-16T14:01:50.803750+00:00",
-      "tier": "groq",
-      "article": "EU backs new restrictions for military-age Ukrainian migrants"
-    },
     {
       "timestamp": "2026-07-16T15:46:28.859379+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-18T22:57:55.106346+00:00",
       "tier": "groq",
       "article": "Kiev seeks to destabilize ZNPP operations by killing chief engineer \u2014 LPR lawmaker"
+    },
+    {
+      "timestamp": "2026-07-19T02:59:58.436873+00:00",
+      "tier": "groq",
+      "article": "Damage visible at Iran bridges and water plant after US attacks"
+    },
+    {
+      "timestamp": "2026-07-19T03:00:31.275524+00:00",
+      "tier": "groq",
+      "article": "Russian forces carry out strikes on Ukrainian ports used for military cargo deliveries"
+    },
+    {
+      "timestamp": "2026-07-19T03:01:24.833016+00:00",
+      "tier": "groq",
+      "article": "Eight killed, 86 wounded in Moscow Region, near Tambov: aftermath of Ukrainian attacks"
+    },
+    {
+      "timestamp": "2026-07-19T03:01:42.209822+00:00",
+      "tier": "groq",
+      "article": "No uprising expected in Ukraine over Fyodorov's dismissal \u2014 expert"
     }
   ]
 }
