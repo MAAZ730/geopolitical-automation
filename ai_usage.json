@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5035,
+  "total_calls": 5039,
   "tiers": {
-    "groq": 5016,
+    "groq": 5020,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T06:10:23.503126+00:00",
-      "tier": "groq",
-      "article": "Seven killed, 24 injured in Ukrainian drone attack on Kotovsk"
-    },
-    {
-      "timestamp": "2026-07-18T06:10:55.995963+00:00",
-      "tier": "groq",
-      "article": "A seventh night of US strikes cuts water to villages in Iran\u2019s south"
-    },
-    {
-      "timestamp": "2026-07-18T06:11:43.190751+00:00",
-      "tier": "groq",
-      "article": "US strikes hit bridges, water plants in south Iran"
-    },
-    {
-      "timestamp": "2026-07-18T06:12:30.975906+00:00",
-      "tier": "groq",
-      "article": "Crowded Rally in Yemen\u2019s Saada Affirms Readiness to Face Saudi Escalation: Aggression for Aggression, Siege for Siege - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-07-18T09:37:51.414084+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-20T21:19:50.647918+00:00",
       "tier": "groq",
       "article": "US must recognize Iran as major regional power \u2013 Trump\u2019s ex-counterterror chief"
+    },
+    {
+      "timestamp": "2026-07-20T23:06:06.569771+00:00",
+      "tier": "groq",
+      "article": "Pentagon withheld Iran war injury data \u2013 NYT"
+    },
+    {
+      "timestamp": "2026-07-20T23:06:24.853901+00:00",
+      "tier": "groq",
+      "article": "IRGC says it carried out missile strike on US base in Kuwait"
+    },
+    {
+      "timestamp": "2026-07-20T23:06:53.412585+00:00",
+      "tier": "groq",
+      "article": "Pentagon identifies American soliders killed in Iranian attack in Jordan"
+    },
+    {
+      "timestamp": "2026-07-20T23:07:09.387287+00:00",
+      "tier": "groq",
+      "article": "IRGC destroys MQ-9 drone in western Iran"
     }
   ]
 }

@@ -1,4 +1,44 @@
 {
+  "d72b5cbb7466c8dd4b3f416b553c65226c3b814c5b3c85c261cb0a6bd0566f31": {
+    "url": "BellumActaNews/175633",
+    "title": "US CENTCOM Launches Ninth Consecutive Night of Strikes Against Iran",
+    "published": "2026-07-20T23:12:55.170800+00:00"
+  },
+  "ae2df77c53e613de760cbb391e64d78c4db5a0ba7648c0cdc05bb62b728f1831": {
+    "url": "BellumActaNews/175637",
+    "title": "USAF Conducts Airstrike on Imam Ali Base in Chabahar",
+    "published": "2026-07-20T23:10:53.640949+00:00"
+  },
+  "d20f64aa8873c0ab64f44398783d2cc071d6f421fd6fb0225a276632fdca4623": {
+    "url": "DDGeopolitics/189552",
+    "title": "Iran Missile Launches Trigger Air Defense Alert in Jordan",
+    "published": "2026-07-20T23:10:06.038850+00:00"
+  },
+  "b7d4f93335d4d536d745602dcc531cd9c2323e66772db5b5608dbdc6aa7b2d1c": {
+    "url": "QudsNen/232014",
+    "title": "Israeli Settlers Demand Gaza Settlements Amid Tensions",
+    "published": "2026-07-20T23:07:55.836549+00:00"
+  },
+  "a7f114c77bb9d235b20056dc5ff588e36a3a06aef44093db4dd762ea5d880c48": {
+    "url": "QudsNen/232023",
+    "title": "Israeli Tanks Open Fire in Gaza Strip",
+    "published": "2026-07-20T23:07:19.280688+00:00"
+  },
+  "8b7c6a9d6c59d2f6ac98c6925631c9b479e98518998ec7880b273a7bc29826db": {
+    "url": "QudsNen/232024",
+    "title": "Gaza Strip Under Israeli Airstrikes",
+    "published": "2026-07-20T23:07:16.814334+00:00"
+  },
+  "f418ec95f2b38e52200ebcaecc63f6d1147af71839f3ca0b75cf43381b97e331": {
+    "url": "https://www.rt.com/news/643276-pentagon-us-casualty-number-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Pentagon withheld Iran war injury data \u2013 NYT",
+    "published": "2026-07-20T23:01:38+00:00"
+  },
+  "31bbc120477b0d7c500e79258ab938a5e83aff8cc2f08aa3f8a18a0b8fa0dcf5": {
+    "url": "https://tass.com/world/2162781",
+    "title": "IRGC says it carried out missile strike on US base in Kuwait",
+    "published": "2026-07-20T23:00:44+00:00"
+  },
   "92ad8f38da44a440d0905b469057b58d2f606985c6793fc3c0468ae4488b5340": {
     "url": "QudsNen/231998",
     "title": "Israeli Settlers Demand Gaza Settlements Amid Border Tensions",
@@ -73,6 +113,11 @@
     "url": "https://www.tehrantimes.com/news/528383/A-display-of-power-and-a-call-for-revenge",
     "title": "'A display of power and a call for revenge'",
     "published": "2026-07-20T17:41:23+00:00"
+  },
+  "e883b214b2b2298fd2aa5a25956afb504a61fa493571fea2010995ad3c606ede": {
+    "url": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
+    "title": "Pentagon identifies American soliders killed in Iranian attack in Jordan",
+    "published": "2026-07-20T15:47:49+00:00"
   },
   "2b14577b92dfc60320371669e86a8a0892253e3daafac4ae77593e0845adbd69": {
     "url": "Middle_East_Spectator/35232",
@@ -208,6 +253,11 @@
     "url": "https://en.mehrnews.com/news/246363/IRGC-strike-US-C-17-P-8-aircraft-in-Jordan",
     "title": "IRGC strikes US C-17, P-8 aircraft in Jordan",
     "published": "2026-07-20T06:28:57+00:00"
+  },
+  "cc3f85035063aef35fdaa01fb6cb0178b7353b6af081954de956f70b8907fe82": {
+    "url": "https://en.irna.ir/news/86213872/IRGC-destroys-MQ-9-drone-in-western-Iran",
+    "title": "IRGC destroys MQ-9 drone in western Iran",
+    "published": "2026-07-20T06:08:07+00:00"
   },
   "253dcf731a040905cdaee3aced51dfd69c9033ba15586db8575e50815e9ac9c7": {
     "url": "https://tass.com/politics/2162363",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/politics/2162105",
     "title": "US aims at double deterrence of Moscow, Beijing \u2014 Russian academician",
     "published": "2026-07-19T04:27:45+00:00"
-  },
-  "8a3c0d2a0ed1935dad133a786947d7b1c7b5e581f6923bb555aecc4e5db448ee": {
-    "url": "https://en.mehrnews.com/news/246325/US-actions-reminiscent-of-terrorist-groups-behavior",
-    "title": "US actions reminiscent of terrorist groups' behavior",
-    "published": "2026-07-19T04:14:31+00:00"
-  },
-  "bdd3809a0a1a8bcab7a9053c2da7bd007e52146a2fb8fafc271cf3d2225c5421": {
-    "url": "https://en.mehrnews.com/news/246324/Iran-Iraq-FMs-discuss-regional-developments",
-    "title": "Iran, Iraq FMs discuss regional developments",
-    "published": "2026-07-19T04:07:04+00:00"
-  },
-  "80733149825cece32ebf9d890902e7efa55cc73d28375375c883935342351f94": {
-    "url": "https://tass.com/world/2162101",
-    "title": "Iran strikes US bases in Kuwait \u2014 agency",
-    "published": "2026-07-19T03:45:15+00:00"
-  },
-  "c4453eb1d2b5432f99838476c9fd3ac2b41251a51afa600c7358955ad4016939": {
-    "url": "DDGeopolitics/189408",
-    "title": "Iranian Officials Reaffirm Commitment to Divinely Guided Society",
-    "published": "2026-07-19T03:10:39.064938+00:00"
-  },
-  "a71d65aa5d39929bcf901140da8ae2888a59876a814a20c74b56322884393190": {
-    "url": "QudsNen/231716",
-    "title": "Israeli Settlers Raid Al-Tuwani Village, Set Mosque Ablaze",
-    "published": "2026-07-19T03:05:07.756302+00:00"
-  },
-  "73d22c58728b3fa00d24d6bb09acfe825776a57caf59eaf3434f9cc3784ccd0d": {
-    "url": "QudsNen/231722",
-    "title": "Gaza City Residential Apartment Hit in Israeli Airstrike",
-    "published": "2026-07-19T03:05:06.348353+00:00"
-  },
-  "9690b009152db1200851b62406408939b782f626b7ca872d4bfd43f88c01b084": {
-    "url": "QudsNen/231723",
-    "title": "Israeli Forces Raid Vehicle Garage in Ras Khamis Neighborhood",
-    "published": "2026-07-19T03:03:27.513522+00:00"
-  },
-  "223cdc4c59335e74ada4af431af86e3b00a744eda9dcfafc5888858eccccadbd": {
-    "url": "QudsNen/231731",
-    "title": "Gaza City Airstrike Leaves Child Orphaned",
-    "published": "2026-07-19T03:02:55.401887+00:00"
-  },
-  "1aee945dc93125a86a6f227675e19c82491ad8523474d75ac89c663353deb238": {
-    "url": "Middle_East_Spectator/35146",
-    "title": "Iranian Ballistic Missile Strike Destroys Kuwaiti Jets at Ali Al-Salem Airbase",
-    "published": "2026-07-19T03:01:47.537939+00:00"
-  },
-  "a1e50587f991e77000e13ec86c77e111ad0d401e302ef5e6ede961c79301005e": {
-    "url": "https://www.rt.com/news/643199-us-cyclosporiasis-diarrhea-outbreak-lettuce/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "CDC links Taco Bell lettuce to Cyclospora outbreak across the US",
-    "published": "2026-07-19T02:40:19+00:00"
   }
 }
