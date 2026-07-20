@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5019,
+  "total_calls": 5023,
   "tiers": {
-    "groq": 5000,
+    "groq": 5004,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T19:17:43.791042+00:00",
-      "tier": "groq",
-      "article": "Russian forces liberate Bachevsk community in Ukraine operation over week \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-07-17T19:18:24.455739+00:00",
-      "tier": "groq",
-      "article": "Iran strikes US base in Qatar, destroying radar system, aerial refueling tankers \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-07-17T19:19:13.264360+00:00",
-      "tier": "groq",
-      "article": "Oil tanker damaged by drone strikes near CPC terminal in Black Sea"
-    },
-    {
-      "timestamp": "2026-07-17T19:19:31.456576+00:00",
-      "tier": "groq",
-      "article": "Warsaw charges Ukrainian with desecrating WWII memorials, blames Russia"
-    },
     {
       "timestamp": "2026-07-17T21:00:46.718128+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-20T06:53:50.631375+00:00",
       "tier": "groq",
       "article": "Trump nuclear deal would let Saudis enrich uranium, CNN reports"
+    },
+    {
+      "timestamp": "2026-07-20T10:58:25.280878+00:00",
+      "tier": "groq",
+      "article": "IRGC strikes US C-17, P-8 aircraft in Jordan"
+    },
+    {
+      "timestamp": "2026-07-20T10:58:58.894860+00:00",
+      "tier": "groq",
+      "article": "Satellites Reveal Destruction of US Forces\u2019 Headquarters at King Faisal Air Base and Muwaffaq Salti Air Base in Jordan after Iranian Strikes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-20T10:59:49.077134+00:00",
+      "tier": "groq",
+      "article": "Baghaei Slams Vicious US Strikes on Schools and Hospitals, Vows Unified Response Amid Diplomatic Push - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-20T11:00:07.190156+00:00",
+      "tier": "groq",
+      "article": "Maritime traffic banned for all ships in Hormuz: IRGC source"
     }
   ]
 }
