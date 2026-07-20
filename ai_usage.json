@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5011,
+  "total_calls": 5015,
   "tiers": {
-    "groq": 4992,
+    "groq": 4996,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T15:19:57.926192+00:00",
-      "tier": "groq",
-      "article": "US Aggression Enters Sixth Night as Iran Civilian Death Toll Rises - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-17T15:20:37.283489+00:00",
-      "tier": "groq",
-      "article": "Further strikes unlikely to change Iran\u2019s stance \u2014 former US intelligence officer"
-    },
-    {
-      "timestamp": "2026-07-17T15:21:23.724610+00:00",
-      "tier": "groq",
-      "article": "VIDEO: US airstrike on Kohourestan bridge"
-    },
-    {
-      "timestamp": "2026-07-17T15:21:43.180210+00:00",
-      "tier": "groq",
-      "article": "IAEA chief failed to condemn Kiev\u2019s killing of ZNPP chief engineer \u2014 diplomat"
-    },
     {
       "timestamp": "2026-07-17T17:18:11.664673+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-19T23:02:49.596448+00:00",
       "tier": "groq",
       "article": "Iran, Iraq FMs discuss regional developments"
+    },
+    {
+      "timestamp": "2026-07-20T03:29:42.290510+00:00",
+      "tier": "groq",
+      "article": "Iran strikes US bases in Kuwait \u2014 agency"
+    },
+    {
+      "timestamp": "2026-07-20T03:30:20.564687+00:00",
+      "tier": "groq",
+      "article": "US soldier killed in Iraq during \u2018controlled detonation\u2019 of Iranian drone"
+    },
+    {
+      "timestamp": "2026-07-20T03:30:37.168307+00:00",
+      "tier": "groq",
+      "article": "US delays nightly Iran bombing until after World Cup final"
+    },
+    {
+      "timestamp": "2026-07-20T03:30:56.167683+00:00",
+      "tier": "groq",
+      "article": "US actions reminiscent of terrorist groups' behavior"
     }
   ]
 }
