@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5027,
+  "total_calls": 5031,
   "tiers": {
-    "groq": 5008,
+    "groq": 5012,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T22:53:37.257093+00:00",
-      "tier": "groq",
-      "article": "US launches seventh straight night of strikes on Iran"
-    },
-    {
-      "timestamp": "2026-07-17T22:54:16.336377+00:00",
-      "tier": "groq",
-      "article": "US unmanned surface vessel depot in Bahrain destroyed: IRGC"
-    },
-    {
-      "timestamp": "2026-07-17T22:55:01.730540+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes US command center in Syria, depots in Kuwait, radars in Oman"
-    },
-    {
-      "timestamp": "2026-07-17T22:55:53.479963+00:00",
-      "tier": "groq",
-      "article": "China denies Trump\u2019s election meddling claim"
-    },
     {
       "timestamp": "2026-07-18T02:46:15.037782+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-20T14:16:41.700117+00:00",
       "tier": "groq",
       "article": "America\u2019s financial stranglehold on Iraq"
+    },
+    {
+      "timestamp": "2026-07-20T18:07:52.867598+00:00",
+      "tier": "groq",
+      "article": "IRGC reveals attacks on US bases in Jordan aided by \u2018accurate intel\u2019 from locals"
+    },
+    {
+      "timestamp": "2026-07-20T18:08:32.543888+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Ten injured after one of largest drone attacks in years targets Moscow Region"
+    },
+    {
+      "timestamp": "2026-07-20T18:08:50.730742+00:00",
+      "tier": "groq",
+      "article": "'A display of power and a call for revenge'"
+    },
+    {
+      "timestamp": "2026-07-20T18:09:24.669905+00:00",
+      "tier": "groq",
+      "article": "Government spokesperson says Iranian resistance will defeat Trump, Netanyahu"
     }
   ]
 }
