@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5015,
+  "total_calls": 5019,
   "tiers": {
-    "groq": 4996,
+    "groq": 5000,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-17T17:18:11.664673+00:00",
-      "tier": "groq",
-      "article": "Israeli attacks on Gaza kill 14, including mourners attending funeral"
-    },
-    {
-      "timestamp": "2026-07-17T17:18:27.611776+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Russian Armed Forces carry out further strikes on Ukrainian ports"
-    },
-    {
-      "timestamp": "2026-07-17T17:19:05.051333+00:00",
-      "tier": "groq",
-      "article": "Relentless strikes until peace returns to the southern coast"
-    },
-    {
-      "timestamp": "2026-07-17T17:19:57.452479+00:00",
-      "tier": "groq",
-      "article": "Global AI cooperation organization established with backing of Russia and China"
-    },
     {
       "timestamp": "2026-07-17T19:17:43.791042+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-20T03:30:56.167683+00:00",
       "tier": "groq",
       "article": "US actions reminiscent of terrorist groups' behavior"
+    },
+    {
+      "timestamp": "2026-07-20T06:52:51.302311+00:00",
+      "tier": "groq",
+      "article": "Trump says US strikes hit Iran in 'honour' of American soldiers killed"
+    },
+    {
+      "timestamp": "2026-07-20T06:53:07.371081+00:00",
+      "tier": "groq",
+      "article": "Trump: Latest strikes on Iran \u2018in honour\u2019 of killed US military personnel"
+    },
+    {
+      "timestamp": "2026-07-20T06:53:34.511278+00:00",
+      "tier": "groq",
+      "article": "Emergency sirens activated again across Bahrain following reports of fresh IRGC missile strikes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-20T06:53:50.631375+00:00",
+      "tier": "groq",
+      "article": "Trump nuclear deal would let Saudis enrich uranium, CNN reports"
     }
   ]
 }
