@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5059,
+  "total_calls": 5063,
   "tiers": {
-    "groq": 5040,
+    "groq": 5044,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T19:12:26.140504+00:00",
-      "tier": "groq",
-      "article": "Two US service members killed in retaliatory Iranian strikes \u2013 Pentagon"
-    },
-    {
-      "timestamp": "2026-07-18T19:13:05.310557+00:00",
-      "tier": "groq",
-      "article": "US military says two service members killed in Iranian strike in Jordan"
-    },
-    {
-      "timestamp": "2026-07-18T19:13:54.588957+00:00",
-      "tier": "groq",
-      "article": "Leader\u2019s military advisor: Iran will shift to full-scale war if US strikes continue"
-    },
-    {
-      "timestamp": "2026-07-18T19:14:12.797407+00:00",
-      "tier": "groq",
-      "article": "US redirects four vessels since resumption of naval blockade against Iran"
-    },
     {
       "timestamp": "2026-07-18T20:53:58.353228+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T15:53:35.371639+00:00",
       "tier": "groq",
       "article": "Doodle Labs eyes US, European production sites as demand soars for jam-resistant drones"
+    },
+    {
+      "timestamp": "2026-07-21T17:27:39.461303+00:00",
+      "tier": "groq",
+      "article": "US intelligence believes strikes cannot change Iran's negotiating position \u2014 media"
+    },
+    {
+      "timestamp": "2026-07-21T17:27:58.742948+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Army continues drone strikes on US bases in region"
+    },
+    {
+      "timestamp": "2026-07-21T17:28:17.958698+00:00",
+      "tier": "groq",
+      "article": "Ex-Bolivian FM warns Trump\u2019s actions\u2014war, sanctions, assassinations\u2014threaten global stability"
+    },
+    {
+      "timestamp": "2026-07-21T17:29:07.683016+00:00",
+      "tier": "groq",
+      "article": "Iranian Academy of Arts to hold virtual exhibition for prominent Uzbek painter Akmal Nuriddinov"
     }
   ]
 }
