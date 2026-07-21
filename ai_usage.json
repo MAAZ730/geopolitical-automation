@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5051,
+  "total_calls": 5055,
   "tiers": {
-    "groq": 5032,
+    "groq": 5036,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T14:59:17.049347+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes US targets in Bahrain, declares Hormuz fully closed after halting vessels"
-    },
-    {
-      "timestamp": "2026-07-18T14:59:48.851153+00:00",
-      "tier": "groq",
-      "article": "Iran launches another drone strike on US air base in Bahrain \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-07-18T15:00:35.453556+00:00",
-      "tier": "groq",
-      "article": "Over 50 Iranians martyred in 7 days of US bombings"
-    },
-    {
-      "timestamp": "2026-07-18T15:00:53.942789+00:00",
-      "tier": "groq",
-      "article": "UK obesity linked to 600,000 fewer people in work \u2013 study"
-    },
     {
       "timestamp": "2026-07-18T17:03:22.827082+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T10:31:26.219454+00:00",
       "tier": "groq",
       "article": "Trust between operators, CCAs starts with simulations: Former Air Force secretary"
+    },
+    {
+      "timestamp": "2026-07-21T14:01:02.170931+00:00",
+      "tier": "groq",
+      "article": "Russia to continue strikes on ships carrying arms for Kiev \u2014 Kremlin spokesman"
+    },
+    {
+      "timestamp": "2026-07-21T14:01:23.428391+00:00",
+      "tier": "groq",
+      "article": "Ukrainian strikes claim lives of 70 Russians, including two children over week \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-07-21T14:01:43.443826+00:00",
+      "tier": "groq",
+      "article": "US forces complete another round of strikes on Iran, CENTCOM says"
+    },
+    {
+      "timestamp": "2026-07-21T14:02:04.696824+00:00",
+      "tier": "groq",
+      "article": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight"
     }
   ]
 }
