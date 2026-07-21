@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5063,
+  "total_calls": 5067,
   "tiers": {
-    "groq": 5044,
+    "groq": 5048,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T20:53:58.353228+00:00",
-      "tier": "groq",
-      "article": "Two US troops killed and one missing after Iranian attack in Jordan"
-    },
-    {
-      "timestamp": "2026-07-18T20:54:36.417148+00:00",
-      "tier": "groq",
-      "article": "CENTCOM confirms casualties in Iran attack in Jordan"
-    },
-    {
-      "timestamp": "2026-07-18T20:54:54.719837+00:00",
-      "tier": "groq",
-      "article": "Strategic message to the US and its allies"
-    },
-    {
-      "timestamp": "2026-07-18T20:55:37.235311+00:00",
-      "tier": "groq",
-      "article": "NORAD fighters intercept aircraft violating flight restrictions over New York"
-    },
     {
       "timestamp": "2026-07-18T22:56:23.279201+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T17:29:07.683016+00:00",
       "tier": "groq",
       "article": "Iranian Academy of Arts to hold virtual exhibition for prominent Uzbek painter Akmal Nuriddinov"
+    },
+    {
+      "timestamp": "2026-07-21T19:28:19.624795+00:00",
+      "tier": "groq",
+      "article": "Satellite Imagery and Leaks Reveal Damage Caused by Iranian Strikes to US Bases in Erbil and Jordan - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-21T19:28:38.654691+00:00",
+      "tier": "groq",
+      "article": "Iran demonstrates unrivaled strike capability across region"
+    },
+    {
+      "timestamp": "2026-07-21T19:29:10.003410+00:00",
+      "tier": "groq",
+      "article": "Iran demands UN action following US missile strike on Darkhovin nuclear plant"
+    },
+    {
+      "timestamp": "2026-07-21T19:29:28.742929+00:00",
+      "tier": "groq",
+      "article": "Yemen's Houthis announce 'maritime embargo' against Saudi Arabia"
     }
   ]
 }
