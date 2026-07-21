@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5043,
+  "total_calls": 5047,
   "tiers": {
-    "groq": 5024,
+    "groq": 5028,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T11:07:28.964154+00:00",
-      "tier": "groq",
-      "article": "Araqchi Vows Iran Will Defend \u2018Every Inch\u2019 of Homeland after Deadly US Strike - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-18T11:07:47.013104+00:00",
-      "tier": "groq",
-      "article": "Southern Lebanon: \u2018Israel\u2019s\u2019 Relentless Onslaught Continues - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-18T11:08:19.151601+00:00",
-      "tier": "groq",
-      "article": "Tehran urges UN to halt US aggression immediately"
-    },
-    {
-      "timestamp": "2026-07-18T11:08:38.107326+00:00",
-      "tier": "groq",
-      "article": "Why do Lebanese authorities insist on the path of surrender?"
-    },
     {
       "timestamp": "2026-07-18T13:24:41.155769+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T02:58:58.845048+00:00",
       "tier": "groq",
       "article": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech"
+    },
+    {
+      "timestamp": "2026-07-21T06:34:41.706183+00:00",
+      "tier": "groq",
+      "article": "IRGC pounds US radar, air defense systems in Bahrain and Kuwait"
+    },
+    {
+      "timestamp": "2026-07-21T06:35:15.889023+00:00",
+      "tier": "groq",
+      "article": "Iran warns nuclear safety at risk after US strike"
+    },
+    {
+      "timestamp": "2026-07-21T06:36:02.740338+00:00",
+      "tier": "groq",
+      "article": "Iran attacks Amazon data center in Bahrain in response to strike on Darkhovin NPP \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-07-21T06:36:22.293761+00:00",
+      "tier": "groq",
+      "article": "Iran claims Jordanian help in strikes on US forces"
     }
   ]
 }
