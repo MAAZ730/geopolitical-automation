@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5047,
+  "total_calls": 5051,
   "tiers": {
-    "groq": 5028,
+    "groq": 5032,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T13:24:41.155769+00:00",
-      "tier": "groq",
-      "article": "At least 50 killed, 500 injured in US strikes in recent weeks \u2014 Iranian Health Ministry"
-    },
-    {
-      "timestamp": "2026-07-18T13:25:18.652570+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drone attacks on Russia kill at least 8, wound dozens"
-    },
-    {
-      "timestamp": "2026-07-18T13:26:05.103309+00:00",
-      "tier": "groq",
-      "article": "Russian drone strike destroys fuel depot used by Ukrainian army in Chernigov Region"
-    },
-    {
-      "timestamp": "2026-07-18T13:26:57.811123+00:00",
-      "tier": "groq",
-      "article": "Israel failing to repair brutal reputation among Americans"
-    },
     {
       "timestamp": "2026-07-18T14:59:17.049347+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T06:36:22.293761+00:00",
       "tier": "groq",
       "article": "Iran claims Jordanian help in strikes on US forces"
+    },
+    {
+      "timestamp": "2026-07-21T10:30:16.356036+00:00",
+      "tier": "groq",
+      "article": "VIDEO: Several Palestinians killed, injured in Israeli raids"
+    },
+    {
+      "timestamp": "2026-07-21T10:30:51.570366+00:00",
+      "tier": "groq",
+      "article": "Iran calls on IAEA action after US attack on Karun NPP"
+    },
+    {
+      "timestamp": "2026-07-21T10:31:09.465669+00:00",
+      "tier": "groq",
+      "article": "IRGC: Several US troops killed in strike on military compound in Jordan"
+    },
+    {
+      "timestamp": "2026-07-21T10:31:26.219454+00:00",
+      "tier": "groq",
+      "article": "Trust between operators, CCAs starts with simulations: Former Air Force secretary"
     }
   ]
 }
