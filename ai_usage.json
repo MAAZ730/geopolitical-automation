@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5067,
+  "total_calls": 5071,
   "tiers": {
-    "groq": 5048,
+    "groq": 5052,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T22:56:23.279201+00:00",
-      "tier": "groq",
-      "article": "Government spokesperson visits Ahvaz hospital after US strike"
-    },
-    {
-      "timestamp": "2026-07-18T22:57:00.279418+00:00",
-      "tier": "groq",
-      "article": "US resumes attacks on Iran \u2014 CENTCOM"
-    },
-    {
-      "timestamp": "2026-07-18T22:57:17.898165+00:00",
-      "tier": "groq",
-      "article": "Response to Ukrainian strikes on Wildberries warehouses to be harsh \u2014 Russian senator"
-    },
-    {
-      "timestamp": "2026-07-18T22:57:55.106346+00:00",
-      "tier": "groq",
-      "article": "Kiev seeks to destabilize ZNPP operations by killing chief engineer \u2014 LPR lawmaker"
-    },
     {
       "timestamp": "2026-07-19T02:59:58.436873+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T19:29:28.742929+00:00",
       "tier": "groq",
       "article": "Yemen's Houthis announce 'maritime embargo' against Saudi Arabia"
+    },
+    {
+      "timestamp": "2026-07-21T21:15:47.826366+00:00",
+      "tier": "groq",
+      "article": "Daytime Russian strike kills three in Zaporizhzhia"
+    },
+    {
+      "timestamp": "2026-07-21T21:16:19.941013+00:00",
+      "tier": "groq",
+      "article": "How Ukraine Put Russia on the Backfoot"
+    },
+    {
+      "timestamp": "2026-07-21T21:17:13.078391+00:00",
+      "tier": "groq",
+      "article": "Belgorod Reservoir equipment damaged: aftermath of Ukrainian attacks"
+    },
+    {
+      "timestamp": "2026-07-21T21:17:30.829636+00:00",
+      "tier": "groq",
+      "article": "Houthis declare naval blockade of Saudi Arabia"
     }
   ]
 }
