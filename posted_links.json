@@ -1,4 +1,44 @@
 {
+  "eda351e220b9feea7d6773762c7f99460ca67bc820d0a4270ffa0b0ce29e43fe": {
+    "url": "militarywave/24447",
+    "title": "Russian Medical Breakthrough Offers New Hope for Identical Twins with Rare Condition",
+    "published": "2026-07-21T03:02:01.252411+00:00"
+  },
+  "64a5eedcff70327bc0460db8de50b6c245f25766c8e9eb680be4ac69dc68960e": {
+    "url": "QudsNen/232031",
+    "title": "Israeli Drone Strikes Kill Palestinians in Gaza City",
+    "published": "2026-07-21T03:01:00.469409+00:00"
+  },
+  "7f3f34ba31cbb5b7842b3b1839fa07bccb4ccc904f696b5f3902ba4319f4ffb4": {
+    "url": "QudsNen/232034",
+    "title": "Gaza City Drone Strike Leaves Multiple Palestinians Dead",
+    "published": "2026-07-21T03:00:23.685851+00:00"
+  },
+  "2811ac880b9545c3b136fbd964a991de3924916ad1495eab87b22df18a1fe5d6": {
+    "url": "QudsNen/232041",
+    "title": "Gaza City Residential Building Hit in Israeli Airstrike",
+    "published": "2026-07-21T03:00:01.298156+00:00"
+  },
+  "42294e84b2a552a09b06cdd66fef6f20575d3961757be9bd86fdbad2fed00d21": {
+    "url": "QudsNen/232043",
+    "title": "Israeli Drone Strike Kills Four in Gaza City",
+    "published": "2026-07-21T02:59:06.768724+00:00"
+  },
+  "e49ecac5394178b05c0bee125b3550efad51342c99daf81850f94ae80192fab7": {
+    "url": "QudsNen/232045",
+    "title": "Google-Owned Waze to Expand Location Tracking Under New Privacy Policy",
+    "published": "2026-07-21T02:59:03.615331+00:00"
+  },
+  "c8022a5b0c6cc78026225c9279930f2ae6d68d344769cc87cb0394c58fefc6be": {
+    "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+    "published": "2026-07-21T02:41:28+00:00"
+  },
+  "3a6405ea0640ffa61e2e8e430e3ff30f7981a14a98979d9fb65b1eecb0e48c2a": {
+    "url": "https://tass.com/defense/2162789",
+    "title": "Ukrainian forces strike Belgorod, surrounding area with missiles",
+    "published": "2026-07-21T00:18:20+00:00"
+  },
   "d72b5cbb7466c8dd4b3f416b553c65226c3b814c5b3c85c261cb0a6bd0566f31": {
     "url": "BellumActaNews/175633",
     "title": "US CENTCOM Launches Ninth Consecutive Night of Strikes Against Iran",
@@ -119,6 +159,11 @@
     "title": "Pentagon identifies American soliders killed in Iranian attack in Jordan",
     "published": "2026-07-20T15:47:49+00:00"
   },
+  "c055a9ef65b708a656d473dac9aed4c78ae06eef0cce5863c9e2efd6d20793e9": {
+    "url": "https://tass.com/world/2162657",
+    "title": "Iran strikes US facilities in Kuwait, Bahrain \u2014 IRGC",
+    "published": "2026-07-20T14:24:16+00:00"
+  },
   "2b14577b92dfc60320371669e86a8a0892253e3daafac4ae77593e0845adbd69": {
     "url": "Middle_East_Spectator/35232",
     "title": "Explosions and Sirens Erupt in Kuwait",
@@ -168,6 +213,11 @@
     "url": "https://thecradle.co/articles-id/38895",
     "title": "IRGC reveals attacks on US bases in Jordan aided by \u2018accurate intel\u2019 from locals",
     "published": "2026-07-20T12:10:18+00:00"
+  },
+  "c166554833abba218f9a39dd1d8aedc428f2f05159087c80530d87e8c0ebbf64": {
+    "url": "https://www.defensenews.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
+    "title": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech",
+    "published": "2026-07-20T11:59:54+00:00"
   },
   "8681e61801a3ed6198410a87343903a5cc3b5bc77e9226c813cfa0b7a47077ee": {
     "url": "https://thecradle.co/articles-id/38892",
@@ -698,55 +748,5 @@
     "url": "BellumActaNews/175542",
     "title": "US Launches Eighth Wave of Airstrikes in Iran",
     "published": "2026-07-19T06:44:55.597925+00:00"
-  },
-  "85349a116181cb44d2544fb75b5abc8e572fffb0b17e5bd1dcd12dab701dca1b": {
-    "url": "DDGeopolitics/189413",
-    "title": "Explosion Reported Near Bilya Port in Odessa, Ukraine",
-    "published": "2026-07-19T06:40:19.928353+00:00"
-  },
-  "bba5efcb41ee0180b7c8ed5b6f65029cedcef73f3502851181a9bd63574b7f46": {
-    "url": "DDGeopolitics/189414",
-    "title": "CENTCOM Announces Key Development in US-Iran Relations",
-    "published": "2026-07-19T06:39:52.006228+00:00"
-  },
-  "0b1996f6d2795138f14b0f700530a62233b32de2c754512666fa83d6ea7ac386": {
-    "url": "DDGeopolitics/189419",
-    "title": "Russia Hits Ukrainian Military Equipment Transport in Zaporozhye Region",
-    "published": "2026-07-19T06:39:50.792524+00:00"
-  },
-  "b6b7cf3130d87c9b5caf7f3e0b7945040d615e41be1f544b316affe4a74de766": {
-    "url": "QudsNen/231736",
-    "title": "Beirut Residential Building Collapses After Israeli Airstrike",
-    "published": "2026-07-19T06:39:26.208256+00:00"
-  },
-  "2f90766b96fdaf431d5cd78dfb8533a1cbaa64295912a26b8505ee6b383212b9": {
-    "url": "QudsNen/231740",
-    "title": "Israeli Artillery Strike Hits Gaza City",
-    "published": "2026-07-19T06:38:06.936271+00:00"
-  },
-  "abb5eb3653d73a219805c925e0bd2d6fd651a283ed8f582e238610340f01d6f0": {
-    "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-    "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
-    "published": "2026-07-19T05:10:57+00:00"
-  },
-  "2abe7d9acff75c59ce39b5e3c8bc83073615ed0c009b6160234a869a88a0827b": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
-    "title": "US bombs Iran for eighth-straight night",
-    "published": "2026-07-19T05:08:20+00:00"
-  },
-  "5a9f8dd7a14219e56cc561b2018115aff3073b0f62ca987d58107b9df30f5bfd": {
-    "url": "https://tass.com/defense/2162111",
-    "title": "Russia hits railway locomotive used by Ukrainian army",
-    "published": "2026-07-19T05:07:16+00:00"
-  },
-  "3a0179b679b774f6542faa0aabdf7ee3e7435f8197ca83d2b7285aa38b35e10f": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
-    "title": "At least one killed as Russian ballistic missiles hit Kyiv",
-    "published": "2026-07-19T04:32:28+00:00"
-  },
-  "c0539520a6e1c0ac5f40e79df1941a82d3e91f4c190fb7b21e4869fe41d68c0b": {
-    "url": "https://tass.com/politics/2162105",
-    "title": "US aims at double deterrence of Moscow, Beijing \u2014 Russian academician",
-    "published": "2026-07-19T04:27:45+00:00"
   }
 }

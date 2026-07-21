@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5039,
+  "total_calls": 5043,
   "tiers": {
-    "groq": 5020,
+    "groq": 5024,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T09:37:51.414084+00:00",
-      "tier": "groq",
-      "article": "Twenty-five people injured in Ukrainian attack on warehouse in Russia\u2019s Tambov Region"
-    },
-    {
-      "timestamp": "2026-07-18T09:38:24.020191+00:00",
-      "tier": "groq",
-      "article": "IRGC Navy launched drone and missile strikes on the US Navy\u2019s fuel support pier at Kuwait\u2019s Al Ahmadi Port and a concentration of US military aircraft at Bahrain\u2019s Sheikh Isa Air Base - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-18T09:39:15.455450+00:00",
-      "tier": "groq",
-      "article": "IRGC Navy Pounds US Support Sites in Kuwait, Bahrain - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-18T09:39:34.357938+00:00",
-      "tier": "groq",
-      "article": "Iran, India standards bodies discuss technical cooperation"
-    },
     {
       "timestamp": "2026-07-18T11:07:28.964154+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-20T23:07:09.387287+00:00",
       "tier": "groq",
       "article": "IRGC destroys MQ-9 drone in western Iran"
+    },
+    {
+      "timestamp": "2026-07-21T02:57:18.034697+00:00",
+      "tier": "groq",
+      "article": "Iran strikes US facilities in Kuwait, Bahrain \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-07-21T02:57:51.257149+00:00",
+      "tier": "groq",
+      "article": "Ukrainian forces strike Belgorod, surrounding area with missiles"
+    },
+    {
+      "timestamp": "2026-07-21T02:58:42.758210+00:00",
+      "tier": "groq",
+      "article": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers"
+    },
+    {
+      "timestamp": "2026-07-21T02:58:58.845048+00:00",
+      "tier": "groq",
+      "article": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech"
     }
   ]
 }
