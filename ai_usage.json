@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5055,
+  "total_calls": 5059,
   "tiers": {
-    "groq": 5036,
+    "groq": 5040,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-18T17:03:22.827082+00:00",
-      "tier": "groq",
-      "article": "Ukrainian strikes hit Russian logistics center"
-    },
-    {
-      "timestamp": "2026-07-18T17:03:56.153097+00:00",
-      "tier": "groq",
-      "article": "Google darkens satellite imagery of sites hit in Kuwait"
-    },
-    {
-      "timestamp": "2026-07-18T17:04:41.853880+00:00",
-      "tier": "groq",
-      "article": "IRGC forces strike US fuel terminal in Kuwait \u2014 agency"
-    },
-    {
-      "timestamp": "2026-07-18T17:05:00.058563+00:00",
-      "tier": "groq",
-      "article": "Iran declares US presence the sole cause of instability in the Strait of Hormuz"
-    },
     {
       "timestamp": "2026-07-18T19:12:26.140504+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T14:02:04.696824+00:00",
       "tier": "groq",
       "article": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight"
+    },
+    {
+      "timestamp": "2026-07-21T15:51:24.331107+00:00",
+      "tier": "groq",
+      "article": "US intel determines renewed war on Iran &#039;unlikely&#039; to achieve Trump&#039;s goals: Report"
+    },
+    {
+      "timestamp": "2026-07-21T15:51:55.371191+00:00",
+      "tier": "groq",
+      "article": "Iran Army launches fresh attack on US assets in Kuwait"
+    },
+    {
+      "timestamp": "2026-07-21T15:52:45.073230+00:00",
+      "tier": "groq",
+      "article": "Israeli air strike in Gaza City kills family of six, medics say"
+    },
+    {
+      "timestamp": "2026-07-21T15:53:35.371639+00:00",
+      "tier": "groq",
+      "article": "Doodle Labs eyes US, European production sites as demand soars for jam-resistant drones"
     }
   ]
 }
