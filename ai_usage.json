@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5079,
+  "total_calls": 5083,
   "tiers": {
-    "groq": 5060,
+    "groq": 5064,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-19T09:57:13.066674+00:00",
-      "tier": "groq",
-      "article": "Ukraine says one of Russia\u2019s \u2018largest\u2019 missile attacks on Kyiv killed 1, injured 15 - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-19T09:57:51.743210+00:00",
-      "tier": "groq",
-      "article": "US launches new Iran strikes after two soldiers killed: What\u2019s the latest?"
-    },
-    {
-      "timestamp": "2026-07-19T09:58:38.769542+00:00",
-      "tier": "groq",
-      "article": "Zelensky again requests air defense missiles amid massive strike on Kiev"
-    },
-    {
-      "timestamp": "2026-07-19T09:59:30.044817+00:00",
-      "tier": "groq",
-      "article": "\u2018TPO puts emphasis on development of regional trade, export\u2019"
-    },
     {
       "timestamp": "2026-07-19T11:11:33.303350+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-22T02:56:18.881722+00:00",
       "tier": "groq",
       "article": "X-Bow out to tackle cost quandary with sub-$100,000 drone interceptor"
+    },
+    {
+      "timestamp": "2026-07-22T06:32:47.068718+00:00",
+      "tier": "groq",
+      "article": "One killed, 10 others injured in massive drone attack on Russia\u2019s Krasnodar Region"
+    },
+    {
+      "timestamp": "2026-07-22T06:33:23.277225+00:00",
+      "tier": "groq",
+      "article": "IRGC Strikes at the Heart of US Air Defense, Taking Out Multiple Kuwaiti Radar Sites - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-22T06:33:45.280292+00:00",
+      "tier": "groq",
+      "article": "Iran Army targets US command centre in Kuwait"
+    },
+    {
+      "timestamp": "2026-07-22T06:34:18.520049+00:00",
+      "tier": "groq",
+      "article": "Xi offers four observations on AI development, governance"
     }
   ]
 }
