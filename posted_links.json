@@ -1,4 +1,39 @@
 {
+  "c67b83e3495ab9e01aa0edc998aecf27a1af192c131d85e771a8dd9fbbdbc2dc": {
+    "url": "BellumActaNews/175674",
+    "title": "Lebanese President Aoun Meets with US President Trump",
+    "published": "2026-07-22T23:17:34.634518+00:00"
+  },
+  "803e447c27eafd0464e9c800a62654ff4695683fc5523255a0a28f6f3ded5b6f": {
+    "url": "DDGeopolitics/189705",
+    "title": "Saudi Tanker Hit by Missile in Red Sea",
+    "published": "2026-07-22T23:14:30.999838+00:00"
+  },
+  "057094f4028c5da58492cfe3ff021e4e29f7f5db2f6e8cb986b5436a7c3bb4ba": {
+    "url": "QudsNen/232309",
+    "title": "Israeli Artillery Strikes Southern Lebanon",
+    "published": "2026-07-22T23:13:58.843771+00:00"
+  },
+  "65b0df1e26f869c689fae6c508f88715ebd624d99f5b5fcaa4d33e60ecd84e22": {
+    "url": "QudsNen/232312",
+    "title": "Israeli Forces Deploy Stun Grenades in Jenin's Anza Village",
+    "published": "2026-07-22T23:13:41.677439+00:00"
+  },
+  "b4e887ed98cb037b6499cb28743d781d4b94bd3ea74ffef6bb196e35091b0f1f": {
+    "url": "Middle_East_Spectator/35339",
+    "title": "US Strikes Damaged Drone Amid Ongoing Military Operations",
+    "published": "2026-07-22T23:12:20.275544+00:00"
+  },
+  "d4a428b4becb079dc1dba4276b37eba4423de6635574361ab5d9c2a38ec10645": {
+    "url": "Middle_East_Spectator/35346",
+    "title": "Iran's Parliament Speaker Warns of Uncertain Security in Strait of Hormuz",
+    "published": "2026-07-22T23:12:18.717407+00:00"
+  },
+  "46ce40ea8f02fc1d0e80987714795e7a9c9d1adf6de220e358969c4ee002ef12": {
+    "url": "https://tass.com/world/2163857",
+    "title": "US forces launching another series of strikes against Iran \u2014 Central Command",
+    "published": "2026-07-22T22:42:29+00:00"
+  },
   "0090688cd361c35a551a36f197db6ae22b278edc86059074b51a20af9f88a79c": {
     "url": "BellumActaNews/175676",
     "title": "Yemen's Houthi Group Imposes Maritime Embargo on Saudi Arabia",
@@ -119,6 +154,11 @@
     "title": "War on Iran: Hegseth wants $70B more to keep fighting",
     "published": "2026-07-22T15:52:54+00:00"
   },
+  "5c9b208c5a29035b2957b0160f4a76d9bb42b5728c4aa29fa06bf0e7cd56231b": {
+    "url": "https://tass.com/politics/2163725",
+    "title": "Kiev has no military commanders who can defeat Russia \u2014 Zaporozhye official",
+    "published": "2026-07-22T14:48:43+00:00"
+  },
   "b20a35c818b3d65b7d8f94d323f4b3bde8f8c84c257148fd9aab102296915803": {
     "url": "DDGeopolitics/189681",
     "title": "Trump Downplays Anti-War Sentiment in US Amid Ongoing Conflict",
@@ -214,6 +254,11 @@
     "title": "Pentagon: Missing US service member in Jordan presumed dead",
     "published": "2026-07-22T09:09:35+00:00"
   },
+  "204d13cdaa9f41c60a2db84005309c35243ec7826bc3053a2e1fda0f075d39e2": {
+    "url": "https://en.mehrnews.com/news/246430/Iran-Pakistan-emphasize-strengthening-regional-security",
+    "title": "Iran, Pakistan emphasize strengthening regional security",
+    "published": "2026-07-22T08:44:44+00:00"
+  },
   "f8e37ba1bff2a53f5e5d5600062a414f8e912982e643daef5b2a62370a4d7c7a": {
     "url": "https://tass.com/politics/2163385",
     "title": "Two people injured in Ukrainian attacks on Russia\u2019s borderline Bryansk Region",
@@ -263,6 +308,11 @@
     "url": "https://tass.com/emergencies/2163337",
     "title": "One killed, 10 others injured in massive drone attack on Russia\u2019s Krasnodar Region",
     "published": "2026-07-22T06:21:54+00:00"
+  },
+  "4ca0c96a2bca449f7c2f57de259aca62e8b9b18a731779a80c4b5c17fd2e9a4b": {
+    "url": "https://en.irna.ir/news/86216052/Iran-warns-US-of-powerful-response-if-nuclear-sites-attacked",
+    "title": "Iran warns US of \u2018powerful\u2019 response if nuclear sites attacked",
+    "published": "2026-07-22T06:05:59+00:00"
   },
   "6d180ab78bd67ab75ac60bc121d1e53b9d501531bfbd3fa171c29aaa9fa80a0c": {
     "url": "https://en.mehrnews.com/news/246424/Lebanon-s-Hezbollah-vows-continued-support-for-Hamas",
@@ -698,55 +748,5 @@
     "url": "https://en.irna.ir/news/86214979/IRGC-pounds-US-radar-air-defense-systems-in-Bahrain-and-Kuwait",
     "title": "IRGC pounds US radar, air defense systems in Bahrain and Kuwait",
     "published": "2026-07-21T06:00:49+00:00"
-  },
-  "3ad10b468eeeb4b25492ad6c46cc1a3e576dddf4b5ec5db57bce863ace21d625": {
-    "url": "https://en.mehrnews.com/news/246388/Iran-warns-nuclear-safety-at-risk-after-US-strike",
-    "title": "Iran warns nuclear safety at risk after US strike",
-    "published": "2026-07-21T04:40:38+00:00"
-  },
-  "51d5b36fc3045df2a341ad390138003c5cca360cd62f42e2aa0db3949c599347": {
-    "url": "https://en.mehrnews.com/news/246387/Iran-Army-launches-fresh-attack-on-US-assets-in-Kuwait",
-    "title": "Iran Army launches fresh attack on US assets in Kuwait",
-    "published": "2026-07-21T04:00:36+00:00"
-  },
-  "d0fe5e0d9a592f31fd115f4b13f90c9eac2214e14c947b8a09c0d34e8643cb3a": {
-    "url": "https://www.rt.com/news/643278-houthis-saudi-naval-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Houthis declare naval blockade of Saudi Arabia",
-    "published": "2026-07-21T03:25:03+00:00"
-  },
-  "eda351e220b9feea7d6773762c7f99460ca67bc820d0a4270ffa0b0ce29e43fe": {
-    "url": "militarywave/24447",
-    "title": "Russian Medical Breakthrough Offers New Hope for Identical Twins with Rare Condition",
-    "published": "2026-07-21T03:02:01.252411+00:00"
-  },
-  "64a5eedcff70327bc0460db8de50b6c245f25766c8e9eb680be4ac69dc68960e": {
-    "url": "QudsNen/232031",
-    "title": "Israeli Drone Strikes Kill Palestinians in Gaza City",
-    "published": "2026-07-21T03:01:00.469409+00:00"
-  },
-  "7f3f34ba31cbb5b7842b3b1839fa07bccb4ccc904f696b5f3902ba4319f4ffb4": {
-    "url": "QudsNen/232034",
-    "title": "Gaza City Drone Strike Leaves Multiple Palestinians Dead",
-    "published": "2026-07-21T03:00:23.685851+00:00"
-  },
-  "2811ac880b9545c3b136fbd964a991de3924916ad1495eab87b22df18a1fe5d6": {
-    "url": "QudsNen/232041",
-    "title": "Gaza City Residential Building Hit in Israeli Airstrike",
-    "published": "2026-07-21T03:00:01.298156+00:00"
-  },
-  "42294e84b2a552a09b06cdd66fef6f20575d3961757be9bd86fdbad2fed00d21": {
-    "url": "QudsNen/232043",
-    "title": "Israeli Drone Strike Kills Four in Gaza City",
-    "published": "2026-07-21T02:59:06.768724+00:00"
-  },
-  "e49ecac5394178b05c0bee125b3550efad51342c99daf81850f94ae80192fab7": {
-    "url": "QudsNen/232045",
-    "title": "Google-Owned Waze to Expand Location Tracking Under New Privacy Policy",
-    "published": "2026-07-21T02:59:03.615331+00:00"
-  },
-  "c8022a5b0c6cc78026225c9279930f2ae6d68d344769cc87cb0394c58fefc6be": {
-    "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-    "published": "2026-07-21T02:41:28+00:00"
   }
 }

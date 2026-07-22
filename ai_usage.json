@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5103,
+  "total_calls": 5107,
   "tiers": {
-    "groq": 5084,
+    "groq": 5088,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-19T20:58:33.961761+00:00",
-      "tier": "groq",
-      "article": "No US base in West Asia is beyond Iran's reach"
-    },
-    {
-      "timestamp": "2026-07-19T20:59:08.982185+00:00",
-      "tier": "groq",
-      "article": "Twin earthquakes strike Peru killing at least five"
-    },
-    {
-      "timestamp": "2026-07-19T20:59:56.329664+00:00",
-      "tier": "groq",
-      "article": "US strikes Darhovin NPP under construction in Iran \u2014 Atomic Energy Organization"
-    },
-    {
-      "timestamp": "2026-07-19T21:00:43.761513+00:00",
-      "tier": "groq",
-      "article": "US aims at double deterrence of Moscow, Beijing \u2014 Russian academician"
-    },
     {
       "timestamp": "2026-07-19T23:01:40.906823+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-22T21:16:31.275031+00:00",
       "tier": "groq",
       "article": "IRGC destroys US tactical radar systems near Kuwait\u2019s Ali Al Salem base"
+    },
+    {
+      "timestamp": "2026-07-22T23:10:33.796469+00:00",
+      "tier": "groq",
+      "article": "US forces launching another series of strikes against Iran \u2014 Central Command"
+    },
+    {
+      "timestamp": "2026-07-22T23:11:05.213601+00:00",
+      "tier": "groq",
+      "article": "Iran warns US of \u2018powerful\u2019 response if nuclear sites attacked"
+    },
+    {
+      "timestamp": "2026-07-22T23:11:52.941511+00:00",
+      "tier": "groq",
+      "article": "Kiev has no military commanders who can defeat Russia \u2014 Zaporozhye official"
+    },
+    {
+      "timestamp": "2026-07-22T23:12:12.354807+00:00",
+      "tier": "groq",
+      "article": "Iran, Pakistan emphasize strengthening regional security"
     }
   ]
 }
