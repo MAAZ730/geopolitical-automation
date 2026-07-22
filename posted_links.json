@@ -1,4 +1,34 @@
 {
+  "0090688cd361c35a551a36f197db6ae22b278edc86059074b51a20af9f88a79c": {
+    "url": "BellumActaNews/175676",
+    "title": "Yemen's Houthi Group Imposes Maritime Embargo on Saudi Arabia",
+    "published": "2026-07-22T21:24:17.747971+00:00"
+  },
+  "466e707bf5cad1c8b400f3e2b9a215766df1f3407c4c222ad70c24c04d16c7ea": {
+    "url": "BellumActaNews/175677",
+    "title": "US Threatens Enhanced Retaliation Against Iran Over Strait of Hormuz Attacks",
+    "published": "2026-07-22T21:22:13.421891+00:00"
+  },
+  "497101c6ec4cd8350d55a2c8623cbf57b15bd449a1db19eda235a33136e02de6": {
+    "url": "DDGeopolitics/189702",
+    "title": "Erbil Air Defense Activated Amid Iraq Security Tensions",
+    "published": "2026-07-22T21:20:23.346754+00:00"
+  },
+  "97d024bf9b6ebd505d76a857cd400a6cefe513e8755e41c70be8dd2b68c97f73": {
+    "url": "QudsNen/232300",
+    "title": "Ben-Gvir's Convoy Sparks Protests in Occupied Jerusalem",
+    "published": "2026-07-22T21:19:29.202676+00:00"
+  },
+  "992c506ac90c3bffa97cc984ce9e519b7c9f39c62bb73336ff4113ffd8b6c4e4": {
+    "url": "thecradlemedia/64789",
+    "title": "Saudi Arabia's Bab al-Mandab Strait Under Threat Amid Yemen Escalation",
+    "published": "2026-07-22T21:16:39.952136+00:00"
+  },
+  "3ad095857dc78f385002d262e8388f7b737eac51846ec164319ec7010bf9a240": {
+    "url": "thecradlemedia/64804",
+    "title": "Al Jazeera Cuts Ties with Dozens of Gaza Journalists",
+    "published": "2026-07-22T21:16:38.386750+00:00"
+  },
   "7211fbad9c29efeb2b1792054f6734e52a388a317d6c1b6fd705b17bda80e0b7": {
     "url": "DDGeopolitics/189700",
     "title": "Russian Drone Strike Hits Train in Zaporozhye, Ukraine",
@@ -119,6 +149,16 @@
     "title": "Hamas Chief Vows to Defend Palestinian Territories, Pursue Unity",
     "published": "2026-07-22T14:06:11.968507+00:00"
   },
+  "9e0b8f9ca4a5250ef994ed7c383eb21677702cb4e13952757437e92a53129331": {
+    "url": "https://english.almanar.com.lb/article/107377/",
+    "title": "During Third Imposed War, a Massive Enemy Data Center in UAE Was Destroyed by Iranian Strikes: General - Al-Manar TV Lebanon",
+    "published": "2026-07-22T14:00:16+00:00"
+  },
+  "2ba378f4c81a8f53e93c428255cafbf5a272b1609b9a84f3b8aea68407f9a7cc": {
+    "url": "https://tass.com/emergencies/2163657",
+    "title": "Death toll in Ukrainian attack on Russia\u2019s Krasnodar Region rises to two",
+    "published": "2026-07-22T12:35:27+00:00"
+  },
   "2597aefe3503a8eac9620afd112b713196c163b103686d319946b331078cec89": {
     "url": "https://english.almanar.com.lb/article/107362/",
     "title": "Damage Reported in US Base as Iran\u2019s IRGC Declares New Retaliatory Strike - Al-Manar TV Lebanon",
@@ -169,10 +209,20 @@
     "title": "Seventeen injured in Ukrainian drone strike on apartment building in Crimea\u2019s Yalta",
     "published": "2026-07-22T10:24:09+00:00"
   },
+  "a8f7bb6266516313f8a13e05fd65acfc3d455c1aedca0f4913a4657e62fd95ea": {
+    "url": "https://en.irna.ir/news/86216252/Pentagon-Missing-US-service-member-in-Jordan-presumed-dead",
+    "title": "Pentagon: Missing US service member in Jordan presumed dead",
+    "published": "2026-07-22T09:09:35+00:00"
+  },
   "f8e37ba1bff2a53f5e5d5600062a414f8e912982e643daef5b2a62370a4d7c7a": {
     "url": "https://tass.com/politics/2163385",
     "title": "Two people injured in Ukrainian attacks on Russia\u2019s borderline Bryansk Region",
     "published": "2026-07-22T07:46:29+00:00"
+  },
+  "50d69e400373e19853e98e702db19999d9e7ff5fee4f02e99a182b7b5a382a23": {
+    "url": "https://en.irna.ir/news/86216089/IRGC-destroys-US-tactical-radar-systems-near-Kuwait-s-Ali-Al",
+    "title": "IRGC destroys US tactical radar systems near Kuwait\u2019s Ali Al Salem base",
+    "published": "2026-07-22T07:33:53+00:00"
   },
   "84a9a78d5dec39152418751263a46cc7aeee786a1a42994667b1cbee6377cf66": {
     "url": "https://en.mehrnews.com/news/246426/VIDEO-Funeral-of-martyrs-of-Shajare-Tayyebeh-School-in-Minab",
@@ -698,55 +748,5 @@
     "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
     "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
     "published": "2026-07-21T02:41:28+00:00"
-  },
-  "17973d158c98be9187ab30668fdd19d1773834b8ce70a742887a41246ae7dadc": {
-    "url": "https://tass.com/world/2162799",
-    "title": "US forces complete another round of strikes on Iran, CENTCOM says",
-    "published": "2026-07-21T01:46:35+00:00"
-  },
-  "3a6405ea0640ffa61e2e8e430e3ff30f7981a14a98979d9fb65b1eecb0e48c2a": {
-    "url": "https://tass.com/defense/2162789",
-    "title": "Ukrainian forces strike Belgorod, surrounding area with missiles",
-    "published": "2026-07-21T00:18:20+00:00"
-  },
-  "d72b5cbb7466c8dd4b3f416b553c65226c3b814c5b3c85c261cb0a6bd0566f31": {
-    "url": "BellumActaNews/175633",
-    "title": "US CENTCOM Launches Ninth Consecutive Night of Strikes Against Iran",
-    "published": "2026-07-20T23:12:55.170800+00:00"
-  },
-  "ae2df77c53e613de760cbb391e64d78c4db5a0ba7648c0cdc05bb62b728f1831": {
-    "url": "BellumActaNews/175637",
-    "title": "USAF Conducts Airstrike on Imam Ali Base in Chabahar",
-    "published": "2026-07-20T23:10:53.640949+00:00"
-  },
-  "d20f64aa8873c0ab64f44398783d2cc071d6f421fd6fb0225a276632fdca4623": {
-    "url": "DDGeopolitics/189552",
-    "title": "Iran Missile Launches Trigger Air Defense Alert in Jordan",
-    "published": "2026-07-20T23:10:06.038850+00:00"
-  },
-  "b7d4f93335d4d536d745602dcc531cd9c2323e66772db5b5608dbdc6aa7b2d1c": {
-    "url": "QudsNen/232014",
-    "title": "Israeli Settlers Demand Gaza Settlements Amid Tensions",
-    "published": "2026-07-20T23:07:55.836549+00:00"
-  },
-  "a7f114c77bb9d235b20056dc5ff588e36a3a06aef44093db4dd762ea5d880c48": {
-    "url": "QudsNen/232023",
-    "title": "Israeli Tanks Open Fire in Gaza Strip",
-    "published": "2026-07-20T23:07:19.280688+00:00"
-  },
-  "8b7c6a9d6c59d2f6ac98c6925631c9b479e98518998ec7880b273a7bc29826db": {
-    "url": "QudsNen/232024",
-    "title": "Gaza Strip Under Israeli Airstrikes",
-    "published": "2026-07-20T23:07:16.814334+00:00"
-  },
-  "f418ec95f2b38e52200ebcaecc63f6d1147af71839f3ca0b75cf43381b97e331": {
-    "url": "https://www.rt.com/news/643276-pentagon-us-casualty-number-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Pentagon withheld Iran war injury data \u2013 NYT",
-    "published": "2026-07-20T23:01:38+00:00"
-  },
-  "31bbc120477b0d7c500e79258ab938a5e83aff8cc2f08aa3f8a18a0b8fa0dcf5": {
-    "url": "https://tass.com/world/2162781",
-    "title": "IRGC says it carried out missile strike on US base in Kuwait",
-    "published": "2026-07-20T23:00:44+00:00"
   }
 }

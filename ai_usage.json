@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5099,
+  "total_calls": 5103,
   "tiers": {
-    "groq": 5080,
+    "groq": 5084,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-19T19:13:51.813966+00:00",
-      "tier": "groq",
-      "article": "Israeli army: Iranian Missile Attack Targets Aqaba in Jordan - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-19T19:14:24.953514+00:00",
-      "tier": "groq",
-      "article": "At least 50 Malian soldiers killed in attack on military convoy"
-    },
-    {
-      "timestamp": "2026-07-19T19:15:11.251947+00:00",
-      "tier": "groq",
-      "article": "Russia hits railway locomotive used by Ukrainian army"
-    },
-    {
-      "timestamp": "2026-07-19T19:15:29.961926+00:00",
-      "tier": "groq",
-      "article": "CDC links Taco Bell lettuce to Cyclospora outbreak across the US"
-    },
     {
       "timestamp": "2026-07-19T20:58:33.961761+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-22T19:29:31.072279+00:00",
       "tier": "groq",
       "article": "Lebanon\u2019s Hezbollah vows continued support for Hamas"
+    },
+    {
+      "timestamp": "2026-07-22T21:14:52.706087+00:00",
+      "tier": "groq",
+      "article": "During Third Imposed War, a Massive Enemy Data Center in UAE Was Destroyed by Iranian Strikes: General - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-22T21:15:27.805857+00:00",
+      "tier": "groq",
+      "article": "Death toll in Ukrainian attack on Russia\u2019s Krasnodar Region rises to two"
+    },
+    {
+      "timestamp": "2026-07-22T21:16:13.765872+00:00",
+      "tier": "groq",
+      "article": "Pentagon: Missing US service member in Jordan presumed dead"
+    },
+    {
+      "timestamp": "2026-07-22T21:16:31.275031+00:00",
+      "tier": "groq",
+      "article": "IRGC destroys US tactical radar systems near Kuwait\u2019s Ali Al Salem base"
     }
   ]
 }
