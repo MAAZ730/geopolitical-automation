@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5087,
+  "total_calls": 5091,
   "tiers": {
-    "groq": 5068,
+    "groq": 5072,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-19T13:25:42.904090+00:00",
-      "tier": "groq",
-      "article": "Israel launches fresh attack on areas in southern Lebanon"
-    },
-    {
-      "timestamp": "2026-07-19T13:26:25.223367+00:00",
-      "tier": "groq",
-      "article": "Iranians suffer from power blackouts during war and heatwave"
-    },
-    {
-      "timestamp": "2026-07-19T13:27:10.044080+00:00",
-      "tier": "groq",
-      "article": "Israeli army announces the detection of an Iranian missile attack towards Aqaba and the possibility of alerts being activated in southern Jordan - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-19T13:27:26.859500+00:00",
-      "tier": "groq",
-      "article": "Iran suspends commitments under Islamabad MoU over US acts"
-    },
     {
       "timestamp": "2026-07-19T14:59:26.695584+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-22T10:32:44.054668+00:00",
       "tier": "groq",
       "article": "Future of AI depends on sharing innovation, not restriction"
+    },
+    {
+      "timestamp": "2026-07-22T14:04:24.674576+00:00",
+      "tier": "groq",
+      "article": "\"I Will Rebuild You Again, My Homeland\": Iranian singer performs on bridge bombed by US"
+    },
+    {
+      "timestamp": "2026-07-22T14:05:00.232900+00:00",
+      "tier": "groq",
+      "article": "Damage Reported in US Base as Iran\u2019s IRGC Declares New Retaliatory Strike - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-22T14:05:19.966663+00:00",
+      "tier": "groq",
+      "article": "Advanced Iranian Missile Capacity Poses \u2018Problem\u2019 for US: CBS Report - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-22T14:06:00.383811+00:00",
+      "tier": "groq",
+      "article": "IRGC Ground Force commander visits Hormuz Strait"
     }
   ]
 }
