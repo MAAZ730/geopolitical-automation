@@ -1,4 +1,49 @@
 {
+  "7f86caa0625dd9a6d9fc51bc8d88cc393216ace39efa871c24b3ca81a000b62f": {
+    "url": "BellumActaNews/175681",
+    "title": "US Defense Secretary Seeks Emergency Funding Boost",
+    "published": "2026-07-22T17:33:07.874273+00:00"
+  },
+  "9d0adc066f388ef4ef42a32c78451dc9f4810d2267ef246f225dd0e147158330": {
+    "url": "QudsNen/232273",
+    "title": "Israeli Forces Storm Qabatiya, Detain Palestinians",
+    "published": "2026-07-22T17:32:06.926827+00:00"
+  },
+  "deadf9dbe5a7b6a84f65dec0ead6fc612639549ebb66dbdbec3f32b200d6b593": {
+    "url": "Middle_East_Spectator/35344",
+    "title": "Iranians Build New Road on Dry River Bed After Bridge Destruction",
+    "published": "2026-07-22T17:31:52.557405+00:00"
+  },
+  "4424401750c417b95b434ca50df778b43dd87778d297747ef8cedbd204f1724a": {
+    "url": "thecradlemedia/64786",
+    "title": "Trump Dismisses Public Opposition to US Campaign in Iran",
+    "published": "2026-07-22T17:29:34.558234+00:00"
+  },
+  "95de4ae4c4efb27d4aee0b1c6740f27fab6926481ca7f7d9d3d742d72af74228": {
+    "url": "thecradlemedia/64794",
+    "title": "Israeli Drones Monitor Beirut's Southern Suburbs",
+    "published": "2026-07-22T17:27:54.491959+00:00"
+  },
+  "07edeb0d768f2154c6e4ba1aa4988e9407107fba939f89647a5829c1fa9c4482": {
+    "url": "thecradlemedia/64796",
+    "title": "Trump Orders CENTCOM to 'Open the Gates of Hell' on Iran Amid Ongoing Tensions",
+    "published": "2026-07-22T17:27:52.175066+00:00"
+  },
+  "d9650df9f6843987f5cbfa44125ba8f567c66c13d56db260b3b09ef4a6dfe96c": {
+    "url": "https://www.tehrantimes.com/news/528465/Iran-expands-retaliatory-campaign-against-Satanic-enemy",
+    "title": "Iran expands retaliatory campaign against Satanic enemy",
+    "published": "2026-07-22T17:24:06+00:00"
+  },
+  "35bcea2e509d7bafdfcd086beba349f9a6f828c56fb610892acca3739a80adf4": {
+    "url": "https://en.mehrnews.com/news/246441/US-airstrikes-kill-53-wound-592-in-Iran",
+    "title": "US airstrikes kill 53, wound 592 in Iran",
+    "published": "2026-07-22T16:48:45+00:00"
+  },
+  "41c4a686c456232f2e19a3fccb7dc79b9b17ff789f6c3734aa05e5fca710cfa4": {
+    "url": "https://www.rt.com/news/643344-iran-us-dark-night/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran claims US radars suffered a \u2018dark night\u2019 of strikes in Kuwait and Jordan",
+    "published": "2026-07-22T16:19:15+00:00"
+  },
   "b20a35c818b3d65b7d8f94d323f4b3bde8f8c84c257148fd9aab102296915803": {
     "url": "DDGeopolitics/189681",
     "title": "Trump Downplays Anti-War Sentiment in US Amid Ongoing Conflict",
@@ -283,6 +328,11 @@
     "url": "Middle_East_Spectator/35307",
     "title": "US Serviceman Killed by Iranian Forces in Erbil Drone Incident",
     "published": "2026-07-21T19:32:39.974664+00:00"
+  },
+  "142c6d4f2a5a6de730ace32f3d871d81677267895f35340268d088409cce8f65": {
+    "url": "https://www.tehrantimes.com/news/528410/The-geography-of-the-strait-speaks-for-itself",
+    "title": "The geography of the strait speaks for itself",
+    "published": "2026-07-21T19:15:00+00:00"
   },
   "21422e1ef870d186b7094508da369da6594441e8e396f17882ea8b1b5019ecf7": {
     "url": "https://www.tehrantimes.com/news/528391/Iran-demands-UN-action-following-US-missile-strike-on-Darkhovin",
@@ -698,55 +748,5 @@
     "url": "QudsNen/231980",
     "title": "Israeli Airstrike Hits Al-Yaman Al-Sa'id Hospital in Gaza",
     "published": "2026-07-20T18:11:35.966484+00:00"
-  },
-  "eabf0fe88a3df1f615f54daf0ca6379a5fab49c85b7eb2ed93c001658145686a": {
-    "url": "Middle_East_Spectator/35249",
-    "title": "Bahrain Under Ballistic Missile Fire: Second Attack in Recent Weeks",
-    "published": "2026-07-20T18:10:26.837533+00:00"
-  },
-  "2fca3266eaf66f6051dddb415796430b28bea0da5134f551bd45a2c448aa70b9": {
-    "url": "thecradlemedia/64615",
-    "title": "Israeli Forces Raid Al-Yamoun in Occupied West Bank",
-    "published": "2026-07-20T18:10:15.039437+00:00"
-  },
-  "2d595bf4e261e7a0d40906227665b86e6a122a91c4559b55f63f006aaa41554a": {
-    "url": "thecradlemedia/64617",
-    "title": "Hamas Names New Leader Amid Ongoing Gaza Conflict",
-    "published": "2026-07-20T18:09:30.489313+00:00"
-  },
-  "74a63bb5103ec47082397a0145fe73a424587d6e206bdb1b82b1dc0b3a33b394": {
-    "url": "thecradlemedia/64620",
-    "title": "Yemen Imposes Maritime Blockade on Saudi Arabia Amid Ongoing Conflict",
-    "published": "2026-07-20T18:09:28.893947+00:00"
-  },
-  "b06d9f7d271a02fa1acbd4d910909e3a233e4149966b49d760e7569a933a8abe": {
-    "url": "https://www.tehrantimes.com/news/528360/Iranian-Academy-of-Arts-to-hold-virtual-exhibition-for-prominent",
-    "title": "Iranian Academy of Arts to hold virtual exhibition for prominent Uzbek painter Akmal Nuriddinov",
-    "published": "2026-07-20T17:59:40+00:00"
-  },
-  "225c4d8fde0cff661a5118ff29385bf588292c1003f6f5727303d4f046d275d0": {
-    "url": "https://www.tehrantimes.com/news/528385/Iran-urges-IAEA-to-condemn-US-nuclear-site-strike",
-    "title": "Iran urges IAEA to condemn US nuclear site strike",
-    "published": "2026-07-20T17:48:58+00:00"
-  },
-  "5d6717aa1299c394a024f92105e5a23be6fff8dd76eb217bd76178043b2a742a": {
-    "url": "https://www.tehrantimes.com/news/528383/A-display-of-power-and-a-call-for-revenge",
-    "title": "'A display of power and a call for revenge'",
-    "published": "2026-07-20T17:41:23+00:00"
-  },
-  "863691c00011859548a39e83fb558bf048daad79bc18a4501c3f57e75d8ef8c6": {
-    "url": "https://www.defensenews.com/industry/2026/07/20/doodle-labs-eyes-us-european-production-sites-as-demand-soars-for-jam-resistant-drones/",
-    "title": "Doodle Labs eyes US, European production sites as demand soars for jam-resistant drones",
-    "published": "2026-07-20T16:00:52+00:00"
-  },
-  "e883b214b2b2298fd2aa5a25956afb504a61fa493571fea2010995ad3c606ede": {
-    "url": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
-    "title": "Pentagon identifies American soliders killed in Iranian attack in Jordan",
-    "published": "2026-07-20T15:47:49+00:00"
-  },
-  "3e8a12fedfbd6018dd04a2458b1058cd76fac0677f34d546841686dfbb046ac1": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/20/lockheed-martins-morfius-x-rotor-built-to-fry-50-enemy-drones-in-one-flight/",
-    "title": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight",
-    "published": "2026-07-20T15:04:49+00:00"
   }
 }

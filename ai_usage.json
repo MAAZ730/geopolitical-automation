@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5091,
+  "total_calls": 5095,
   "tiers": {
-    "groq": 5072,
+    "groq": 5076,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-19T14:59:26.695584+00:00",
-      "tier": "groq",
-      "article": "US attacks under-construction nuclear power plant in SW Iran"
-    },
-    {
-      "timestamp": "2026-07-19T14:59:44.857260+00:00",
-      "tier": "groq",
-      "article": "Israel detects missile launch from Iran toward Jordan\u2019s Aqaba"
-    },
-    {
-      "timestamp": "2026-07-19T15:00:02.921694+00:00",
-      "tier": "groq",
-      "article": "Russian army strikes transport and logistics infrastructure used by Ukrainian forces"
-    },
-    {
-      "timestamp": "2026-07-19T15:00:21.387940+00:00",
-      "tier": "groq",
-      "article": "Entire MoU suspended due to US violations: Baghaei"
-    },
     {
       "timestamp": "2026-07-19T17:03:48.513950+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-22T14:06:00.383811+00:00",
       "tier": "groq",
       "article": "IRGC Ground Force commander visits Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-07-22T17:26:24.374496+00:00",
+      "tier": "groq",
+      "article": "Iran expands retaliatory campaign against Satanic enemy"
+    },
+    {
+      "timestamp": "2026-07-22T17:27:06.972289+00:00",
+      "tier": "groq",
+      "article": "Iran claims US radars suffered a \u2018dark night\u2019 of strikes in Kuwait and Jordan"
+    },
+    {
+      "timestamp": "2026-07-22T17:27:27.400426+00:00",
+      "tier": "groq",
+      "article": "US airstrikes kill 53, wound 592 in Iran"
+    },
+    {
+      "timestamp": "2026-07-22T17:27:46.810572+00:00",
+      "tier": "groq",
+      "article": "The geography of the strait speaks for itself"
     }
   ]
 }
