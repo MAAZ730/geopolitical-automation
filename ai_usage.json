@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5083,
+  "total_calls": 5087,
   "tiers": {
-    "groq": 5064,
+    "groq": 5068,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-19T11:11:33.303350+00:00",
-      "tier": "groq",
-      "article": "Gaza: Two Martyrs, Injuries in Continued Israeli Violations of Ceasefire - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-19T11:12:10.292690+00:00",
-      "tier": "groq",
-      "article": "Ukraine loses military hardware, robotic systems and troops near Konstantinovka"
-    },
-    {
-      "timestamp": "2026-07-19T11:13:02.240146+00:00",
-      "tier": "groq",
-      "article": "US aggression against Iran \u2018gross violation of UN Charter\u2019"
-    },
-    {
-      "timestamp": "2026-07-19T11:13:52.134666+00:00",
-      "tier": "groq",
-      "article": "US sanction bill against Russia will not affect India's ties with Russia \u2014 expert"
-    },
     {
       "timestamp": "2026-07-19T13:25:42.904090+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-22T06:34:18.520049+00:00",
       "tier": "groq",
       "article": "Xi offers four observations on AI development, governance"
+    },
+    {
+      "timestamp": "2026-07-22T10:30:33.814548+00:00",
+      "tier": "groq",
+      "article": "Seventeen injured in Ukrainian drone strike on apartment building in Crimea\u2019s Yalta"
+    },
+    {
+      "timestamp": "2026-07-22T10:31:07.170499+00:00",
+      "tier": "groq",
+      "article": "Two people injured in Ukrainian attacks on Russia\u2019s borderline Bryansk Region"
+    },
+    {
+      "timestamp": "2026-07-22T10:31:53.303678+00:00",
+      "tier": "groq",
+      "article": "VIDEO: Funeral of martyrs of Shajare Tayyebeh School in Minab"
+    },
+    {
+      "timestamp": "2026-07-22T10:32:44.054668+00:00",
+      "tier": "groq",
+      "article": "Future of AI depends on sharing innovation, not restriction"
     }
   ]
 }

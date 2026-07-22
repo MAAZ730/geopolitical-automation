@@ -1,4 +1,49 @@
 {
+  "8dfa2692b341e83cc8fc38cc78ff22506f595116f92a2d4cc8170f8e25cc14a3": {
+    "url": "DDGeopolitics/189661",
+    "title": "Commercial Vessels Targeted in Strait of Tensions",
+    "published": "2026-07-22T10:47:18.107930+00:00"
+  },
+  "441d5b4ddb560a30e4e8aeba57bfa45af68a9b669cdfd88c307c8c1f305746ba": {
+    "url": "DDGeopolitics/189668",
+    "title": "US Strike Hits Scrap Pile at Iran's Bushehr Airport",
+    "published": "2026-07-22T10:45:22.113513+00:00"
+  },
+  "ed845c4d486f856aa0bacdd619bcf6b703127d34815b673ae0bb248fdce1eba9": {
+    "url": "thecradlemedia/64739",
+    "title": "Netanyahu ICC Warrant Sparks US Federal Government Call to Action",
+    "published": "2026-07-22T10:37:40.451332+00:00"
+  },
+  "c9c3db34ce2aac4757173c8793b6862c07bde463dc1e7e486996403613a6a04c": {
+    "url": "thecradlemedia/64742",
+    "title": "US Strike on Iranian School Leaves 165 Children Dead",
+    "published": "2026-07-22T10:35:00.306355+00:00"
+  },
+  "a43c67106d96027b5d14b8b6060716fec912ee86e8f5ac43a87cd74a6b9a0e95": {
+    "url": "thecradlemedia/64749",
+    "title": "US Soldier Killed in Iranian Retaliatory Strike on Jordanian Air Base",
+    "published": "2026-07-22T10:32:50.985019+00:00"
+  },
+  "e654f174017bb99546e07efc80e2f3d9f12599305375b6c4f6347d184c5d80cf": {
+    "url": "thecradlemedia/64751",
+    "title": "Trump Administration Ignored Security Warnings to Grant UAE Expanded Access to Sensitive US Technology",
+    "published": "2026-07-22T10:32:48.771808+00:00"
+  },
+  "3530af690362225ffe3661b533bba73d133ba6484003d7f3889f0986f3b2d796": {
+    "url": "https://tass.com/emergencies/2163523",
+    "title": "Seventeen injured in Ukrainian drone strike on apartment building in Crimea\u2019s Yalta",
+    "published": "2026-07-22T10:24:09+00:00"
+  },
+  "f8e37ba1bff2a53f5e5d5600062a414f8e912982e643daef5b2a62370a4d7c7a": {
+    "url": "https://tass.com/politics/2163385",
+    "title": "Two people injured in Ukrainian attacks on Russia\u2019s borderline Bryansk Region",
+    "published": "2026-07-22T07:46:29+00:00"
+  },
+  "84a9a78d5dec39152418751263a46cc7aeee786a1a42994667b1cbee6377cf66": {
+    "url": "https://en.mehrnews.com/news/246426/VIDEO-Funeral-of-martyrs-of-Shajare-Tayyebeh-School-in-Minab",
+    "title": "VIDEO: Funeral of martyrs of Shajare Tayyebeh School in Minab",
+    "published": "2026-07-22T07:26:45+00:00"
+  },
   "a15870bfa9b27cc1739bc3b879ed465488f08d0a1a504abc9fea11562e1bdab5": {
     "url": "BellumActaNews/175682",
     "title": "Iranian Missiles Strike Muwaffaq Salti Air Base in Jordan",
@@ -328,6 +373,11 @@
     "url": "https://tass.com/world/2163065",
     "title": "US intelligence believes strikes cannot change Iran's negotiating position \u2014 media",
     "published": "2026-07-21T13:05:53+00:00"
+  },
+  "d5312e4c3c21f7f1edd90716419ec0e6ca2db67e82bdb90c2ab871513390cab7": {
+    "url": "https://en.mehrnews.com/news/246406/Future-of-AI-depends-on-sharing-innovation-not-restriction",
+    "title": "Future of AI depends on sharing innovation, not restriction",
+    "published": "2026-07-21T11:39:55+00:00"
   },
   "d7607e42f7b52abcf7635cec4e85ddbfe15c1e4d2523448fb8fc4c32644f8174": {
     "url": "https://en.mehrnews.com/news/246405/Xi-offers-four-observations-on-AI-development-governance",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/7/20/russian-strike-on-ship-near-odesa-kills-10-ukraine-hits-moscow-with-drones?traffic_source=rss",
     "title": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones",
     "published": "2026-07-20T12:50:04+00:00"
-  },
-  "55953cb77e9d6de7d63fc24074b1518eecdc7cb5518f547b41762e0f91a9233f": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/20/trust-between-operators-ccas-starts-with-simulations-former-air-force-secretary/",
-    "title": "Trust between operators, CCAs starts with simulations: Former Air Force secretary",
-    "published": "2026-07-20T12:30:00+00:00"
-  },
-  "63af95af171ea073104ac60b55a4fdfb6a6383482ce5d43dcb2b92522caefc2e": {
-    "url": "https://thecradle.co/articles-id/38895",
-    "title": "IRGC reveals attacks on US bases in Jordan aided by \u2018accurate intel\u2019 from locals",
-    "published": "2026-07-20T12:10:18+00:00"
-  },
-  "c166554833abba218f9a39dd1d8aedc428f2f05159087c80530d87e8c0ebbf64": {
-    "url": "https://www.defensenews.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
-    "title": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech",
-    "published": "2026-07-20T11:59:54+00:00"
-  },
-  "8681e61801a3ed6198410a87343903a5cc3b5bc77e9226c813cfa0b7a47077ee": {
-    "url": "https://thecradle.co/articles-id/38892",
-    "title": "Pentagon concealed dozens of casualties from Iranian strikes in Jordan: Report",
-    "published": "2026-07-20T11:54:52+00:00"
-  },
-  "5f4630716e2620fdf18c629a9528f742976be2f70c992b10243b3379c5cf0cb5": {
-    "url": "https://www.rt.com/news/643253-iran-jordan-us-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran claims Jordanian help in strikes on US forces",
-    "published": "2026-07-20T11:26:28+00:00"
-  },
-  "fcf3a15c59bde305e0bcd28c19d783249cd536fc50db3bc3c8741c5bccc08af5": {
-    "url": "Slavyangrad/170019",
-    "title": "Belgorod Bus Attack: Ukrainian Drone Strike Leaves Four Dead, Including Child",
-    "published": "2026-07-20T11:07:06.284563+00:00"
-  },
-  "c09efd3140bae3b1c9a3a4b79015cb27d5b36e003f707edf37fc3dcb00db5421": {
-    "url": "presstv/199508",
-    "title": "Iraqi Resistance Warns US Against Escalation in Iran Conflict",
-    "published": "2026-07-20T11:06:04.360807+00:00"
-  },
-  "469dbfd310011026fa7dd43ea647a78b7b9788a461720921732c4e762c44475d": {
-    "url": "QudsNen/231945",
-    "title": "Israeli Airstrike Hits Vehicle at Al-Ghafri Junction in Gaza City",
-    "published": "2026-07-20T11:03:47.625183+00:00"
-  },
-  "6dad9971350bebf61641d7d7c9e6a35fa92d93911d81dcbba03903787b25f8cf": {
-    "url": "thecradlemedia/64571",
-    "title": "Israeli Drone Strike Hits Intersection in Northern Gaza Strip",
-    "published": "2026-07-20T11:03:33.350234+00:00"
-  },
-  "94644fa982470ded19170bb1af37f20db875c565e0ebf2d3b12d8dcca73832f2": {
-    "url": "thecradlemedia/64582",
-    "title": "Iran Condemns US Airstrikes on Civilian Infrastructure",
-    "published": "2026-07-20T11:00:16.097567+00:00"
   }
 }
