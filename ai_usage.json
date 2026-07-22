@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5075,
+  "total_calls": 5079,
   "tiers": {
-    "groq": 5056,
+    "groq": 5060,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-19T06:35:42.949554+00:00",
-      "tier": "groq",
-      "article": "US bombs Iran for eighth-straight night"
-    },
-    {
-      "timestamp": "2026-07-19T06:36:14.037707+00:00",
-      "tier": "groq",
-      "article": "At least one killed as Russian ballistic missiles hit Kyiv"
-    },
-    {
-      "timestamp": "2026-07-19T06:37:04.604308+00:00",
-      "tier": "groq",
-      "article": "US and Iran exchange strikes after two US deaths in Jordan attack"
-    },
-    {
-      "timestamp": "2026-07-19T06:37:57.691704+00:00",
-      "tier": "groq",
-      "article": "Caspian port can offset pressures on southern Iranian ports: official"
-    },
     {
       "timestamp": "2026-07-19T09:57:13.066674+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-21T23:02:18.175168+00:00",
       "tier": "groq",
       "article": "Iran not to back down on Strait of Hormuz: SNSC official"
+    },
+    {
+      "timestamp": "2026-07-22T02:54:47.219776+00:00",
+      "tier": "groq",
+      "article": "Iran warns after Trump threat against atomic site"
+    },
+    {
+      "timestamp": "2026-07-22T02:55:20.261898+00:00",
+      "tier": "groq",
+      "article": "US military carries out airstrike on Iranian city of Bushehr \u2014 Tasnim agency"
+    },
+    {
+      "timestamp": "2026-07-22T02:55:39.862221+00:00",
+      "tier": "groq",
+      "article": "IRGC says hit radars at Ali al-Salem airbase in Kuwait"
+    },
+    {
+      "timestamp": "2026-07-22T02:56:18.881722+00:00",
+      "tier": "groq",
+      "article": "X-Bow out to tackle cost quandary with sub-$100,000 drone interceptor"
     }
   ]
 }
