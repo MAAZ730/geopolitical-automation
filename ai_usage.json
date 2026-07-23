@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5111,
+  "total_calls": 5115,
   "tiers": {
-    "groq": 5092,
+    "groq": 5096,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-20T03:29:42.290510+00:00",
-      "tier": "groq",
-      "article": "Iran strikes US bases in Kuwait \u2014 agency"
-    },
-    {
-      "timestamp": "2026-07-20T03:30:20.564687+00:00",
-      "tier": "groq",
-      "article": "US soldier killed in Iraq during \u2018controlled detonation\u2019 of Iranian drone"
-    },
-    {
-      "timestamp": "2026-07-20T03:30:37.168307+00:00",
-      "tier": "groq",
-      "article": "US delays nightly Iran bombing until after World Cup final"
-    },
-    {
-      "timestamp": "2026-07-20T03:30:56.167683+00:00",
-      "tier": "groq",
-      "article": "US actions reminiscent of terrorist groups' behavior"
-    },
     {
       "timestamp": "2026-07-20T06:52:51.302311+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T03:02:46.679644+00:00",
       "tier": "groq",
       "article": "Iran FM dismisses French allegations over its embassy staff"
+    },
+    {
+      "timestamp": "2026-07-23T06:35:04.492264+00:00",
+      "tier": "groq",
+      "article": "One civilian killed, nine injured in Ukrainian attack on Belgorod Region over past day"
+    },
+    {
+      "timestamp": "2026-07-23T06:35:39.015643+00:00",
+      "tier": "groq",
+      "article": "US attacks Iran for 12th night as the House approves defence spending"
+    },
+    {
+      "timestamp": "2026-07-23T06:36:29.443060+00:00",
+      "tier": "groq",
+      "article": "Renewed US Aggression Claims Civilian Lives as Missiles Rain on Southern Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-23T06:36:48.490706+00:00",
+      "tier": "groq",
+      "article": "Backed by France, Macron sees Germany as nuclear-deterrence \u2018vanguard\u2019 in Europe"
     }
   ]
 }
