@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5131,
+  "total_calls": 5135,
   "tiers": {
-    "groq": 5112,
+    "groq": 5116,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-20T21:18:03.616454+00:00",
-      "tier": "groq",
-      "article": "How will Zelenskyy handle the growing political crisis at home?"
-    },
-    {
-      "timestamp": "2026-07-20T21:18:39.363809+00:00",
-      "tier": "groq",
-      "article": "Russia's strike on Kiev-based Rapid enterprise aimed at reducing long-range UAV attacks"
-    },
-    {
-      "timestamp": "2026-07-20T21:19:31.654287+00:00",
-      "tier": "groq",
-      "article": "Iran urges IAEA to condemn US nuclear site strike"
-    },
-    {
-      "timestamp": "2026-07-20T21:19:50.647918+00:00",
-      "tier": "groq",
-      "article": "US must recognize Iran as major regional power \u2013 Trump\u2019s ex-counterterror chief"
-    },
     {
       "timestamp": "2026-07-20T23:06:06.569771+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T19:26:35.347935+00:00",
       "tier": "groq",
       "article": "Ex-Hong Kong opposition leader Wu Chi-wai enters UK after reported denial"
+    },
+    {
+      "timestamp": "2026-07-23T21:10:20.048613+00:00",
+      "tier": "groq",
+      "article": "Iran&#039;s &#039;eye for an eye&#039; strikes on US bases in Kuwait, Jordan destroy Patriot system, drone facilities"
+    },
+    {
+      "timestamp": "2026-07-23T21:10:51.057034+00:00",
+      "tier": "groq",
+      "article": "Tehran condemns UK decision to grant US access to military bases, says Britain complicit in aggression"
+    },
+    {
+      "timestamp": "2026-07-23T21:11:07.181304+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike over two dozen vessels carrying cargoes for Ukraine since July 11"
+    },
+    {
+      "timestamp": "2026-07-23T21:11:26.498025+00:00",
+      "tier": "groq",
+      "article": "US masking unsavory actions with myth of Russian threat in Mexico \u2014 Russian embassy"
     }
   ]
 }
