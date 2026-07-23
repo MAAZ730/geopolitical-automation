@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5127,
+  "total_calls": 5131,
   "tiers": {
-    "groq": 5108,
+    "groq": 5112,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-20T18:07:52.867598+00:00",
-      "tier": "groq",
-      "article": "IRGC reveals attacks on US bases in Jordan aided by \u2018accurate intel\u2019 from locals"
-    },
-    {
-      "timestamp": "2026-07-20T18:08:32.543888+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Ten injured after one of largest drone attacks in years targets Moscow Region"
-    },
-    {
-      "timestamp": "2026-07-20T18:08:50.730742+00:00",
-      "tier": "groq",
-      "article": "'A display of power and a call for revenge'"
-    },
-    {
-      "timestamp": "2026-07-20T18:09:24.669905+00:00",
-      "tier": "groq",
-      "article": "Government spokesperson says Iranian resistance will defeat Trump, Netanyahu"
-    },
     {
       "timestamp": "2026-07-20T21:18:03.616454+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T17:29:33.287210+00:00",
       "tier": "groq",
       "article": "President Pezeshkian hails Iran-Pakistan relations, urges accelerated cooperation"
+    },
+    {
+      "timestamp": "2026-07-23T19:24:58.284336+00:00",
+      "tier": "groq",
+      "article": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes"
+    },
+    {
+      "timestamp": "2026-07-23T19:25:38.645951+00:00",
+      "tier": "groq",
+      "article": "IRGC: After US warships in the Indian Ocean exhausted their cruise missile stockpiles, the US military resorted Wednesday to B-1 bombers launched from RAF Fairford in the UK - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-23T19:25:54.524003+00:00",
+      "tier": "groq",
+      "article": "Hitting US bases Iran's legal, moral right"
+    },
+    {
+      "timestamp": "2026-07-23T19:26:35.347935+00:00",
+      "tier": "groq",
+      "article": "Ex-Hong Kong opposition leader Wu Chi-wai enters UK after reported denial"
     }
   ]
 }

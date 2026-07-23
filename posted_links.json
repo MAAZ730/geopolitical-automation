@@ -1,4 +1,34 @@
 {
+  "4d01d7cd4f24a043ab1141c04d924957b51d78cc3d665e9fcd8614d6d1a38c57": {
+    "url": "BellumActaNews/175744",
+    "title": "Ford Dealership Fire Devastates Warsaw",
+    "published": "2026-07-23T19:33:48.367539+00:00"
+  },
+  "fc67766f4cc87baff65c0d548cba1f323d123c8dda26a463e6c4635599958e86": {
+    "url": "DDGeopolitics/189750",
+    "title": "Iran Claims Strike on US Air Base in Kuwait Confirmed by Satellite Imagery",
+    "published": "2026-07-23T19:33:06.607019+00:00"
+  },
+  "b6dc20188e2b585635f6be1f3d213e1db31a68b7bc6b7d769689ca4f5cee1d10": {
+    "url": "QudsNen/232425",
+    "title": "Gaza City Under Fire: Israeli Bombing Rocks Al-Zaytoun Neighborhood",
+    "published": "2026-07-23T19:30:00.750962+00:00"
+  },
+  "8dacd48626d4bff62472685aca8c9ce06d10d31bb4e9799c2b28188ae386d5b0": {
+    "url": "Middle_East_Spectator/35379",
+    "title": "Trump Optimistic on Iran Conflict Progress",
+    "published": "2026-07-23T19:28:38.336404+00:00"
+  },
+  "d362a221c55a4fd0d7740b4c7b5a3cca78f26afa3a7d3a219b530ecd89acb136": {
+    "url": "thecradlemedia/64877",
+    "title": "Greece Approves Israeli Air Defense System Purchase Amid Eastern Mediterranean Energy Alliance",
+    "published": "2026-07-23T19:26:38.880022+00:00"
+  },
+  "8a71fcb3e6dd911c0257a57113276655cccb554080be41bdbad2f6305b585236": {
+    "url": "thecradlemedia/64881",
+    "title": "US Airstrikes Target Iranian Facilities in Kuwait, Jordan",
+    "published": "2026-07-23T19:26:37.708036+00:00"
+  },
   "9c566b4fa8daf60943b7a7c41191ae11e50f234945feaf3d38eef95d3dbdff59": {
     "url": "BellumActaNews/175735",
     "title": "US, Russia Discuss Ukraine Ceasefire at ASEAN Meeting in Philippines",
@@ -33,6 +63,16 @@
     "url": "https://tass.com/world/2164375",
     "title": "Trump says considers massive attack on Iran \u2014 Axios",
     "published": "2026-07-23T17:17:00+00:00"
+  },
+  "8ddff3cf786102ecc3cd56302b5c049759f197a208361ab1fb49fe7ecf1a2300": {
+    "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+    "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+    "published": "2026-07-23T16:50:59+00:00"
+  },
+  "a90103923c4db50e3fcbe0258865f02f5842e5e63cd760147944f0fab5ff1b9d": {
+    "url": "https://english.almanar.com.lb/article/107692/",
+    "title": "IRGC: After US warships in the Indian Ocean exhausted their cruise missile stockpiles, the US military resorted Wednesday to B-1 bombers launched from RAF Fairford in the UK - Al-Manar TV Lebanon",
+    "published": "2026-07-23T16:03:33+00:00"
   },
   "44cbf3556829075391aa87bad12bf93c88cb43752762165b9114eadf4ea7e908": {
     "url": "https://www.rt.com/news/643392-turkish-sailor-ukraine-drone-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -139,6 +179,11 @@
     "title": "IRGC Claims Responsibility for Strikes on US Military Bases in Kuwait",
     "published": "2026-07-23T06:48:40.134738+00:00"
   },
+  "d48425232efaff0ac2a66aad7686c5b43a16b2df6511d163eaaa4f77fdf9b663": {
+    "url": "https://en.mehrnews.com/news/246448/Hitting-US-bases-Iran-s-legal-moral-right",
+    "title": "Hitting US bases Iran's legal, moral right",
+    "published": "2026-07-23T06:44:09+00:00"
+  },
   "6a7ca352a5656c191a653d1cc42a98f6d1e203f5791d3064f6ab37200179ccb3": {
     "url": "BellumActaNews/175721",
     "title": "US Cracks Down on Fraud, Redirects Funds to Rural Health",
@@ -208,6 +253,11 @@
     "url": "QudsNen/232321",
     "title": "Congressman Confronted Over 'Muslim Terrorist' Remark",
     "published": "2026-07-23T03:05:55.421833+00:00"
+  },
+  "a4d111836cde900bf50eba2b779303e9f9b70bd33cb27cb15bc21d594b2c46e2": {
+    "url": "https://www.scmp.com/news/hong-kong/politics/article/3361535/ex-hong-kong-opposition-leader-reportedly-denied-uk-entry-faces-deportation?utm_source=rss_feed",
+    "title": "Ex-Hong Kong opposition leader Wu Chi-wai enters UK after reported denial",
+    "published": "2026-07-23T02:57:48+00:00"
   },
   "266e06afe0d60933e881b18caecb0bc0bfa3019e657b89beffe8106d96916e0f": {
     "url": "https://tass.com/defense/2163889",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss",
     "title": "Daytime Russian strike kills three in Zaporizhzhia",
     "published": "2026-07-21T20:48:18+00:00"
-  },
-  "fa6fbceddc2c1c90981e1a8c033d061a6d6503a29832ea28134a7d2ee8424e7b": {
-    "url": "CensoredMen/203",
-    "title": "Israel Escalates Strikes in Lebanon Amid Iran Ceasefire",
-    "published": "2026-07-21T19:38:44.949941+00:00"
-  },
-  "a8301578fc342becb7673c9ace12562148f41f4f4fd5d4c45b0ceff1cab1f3f6": {
-    "url": "CensoredMen/214",
-    "title": "Delhi Protest Turns Violent Amid Demands for Education Minister's Resignation",
-    "published": "2026-07-21T19:35:59.822559+00:00"
-  },
-  "0a7fb311b0339429b59a55506a66d729eb5c034b80142ee6471cb209f08e13b1": {
-    "url": "DDGeopolitics/189612",
-    "title": "Russia Hits Ukrainian Ports with Drone Strike",
-    "published": "2026-07-21T19:35:23.614775+00:00"
-  },
-  "acaf55df2a72e6ed85609fe097a85168c7de869d3612eeb182b51d76a622b857": {
-    "url": "QudsNen/232141",
-    "title": "Israeli Forces Detain Palestinians in Jenin",
-    "published": "2026-07-21T19:34:34.050777+00:00"
-  },
-  "8c358e08360ae596856177de9946dc4410551aaeb814a433c5bc68fd53f16905": {
-    "url": "QudsNen/232142",
-    "title": "Gaza's Beekeeping Industry Devastated by Israeli Attacks",
-    "published": "2026-07-21T19:32:43.463939+00:00"
-  },
-  "633b71cc5307d416e134d46d615d45c7d12a4781de2ea7d8e759958277a0b396": {
-    "url": "Middle_East_Spectator/35307",
-    "title": "US Serviceman Killed by Iranian Forces in Erbil Drone Incident",
-    "published": "2026-07-21T19:32:39.974664+00:00"
-  },
-  "142c6d4f2a5a6de730ace32f3d871d81677267895f35340268d088409cce8f65": {
-    "url": "https://www.tehrantimes.com/news/528410/The-geography-of-the-strait-speaks-for-itself",
-    "title": "The geography of the strait speaks for itself",
-    "published": "2026-07-21T19:15:00+00:00"
-  },
-  "21422e1ef870d186b7094508da369da6594441e8e396f17882ea8b1b5019ecf7": {
-    "url": "https://www.tehrantimes.com/news/528391/Iran-demands-UN-action-following-US-missile-strike-on-Darkhovin",
-    "title": "Iran demands UN action following US missile strike on Darkhovin nuclear plant",
-    "published": "2026-07-21T18:50:54+00:00"
-  },
-  "7f749c55a4d49b310277cde521d4a0b8b2978f37b36cc4df3ca6d4e2b6bea2d4": {
-    "url": "https://warontherocks.com/how-ukraine-put-russia-on-the-backfoot/",
-    "title": "How Ukraine Put Russia on the Backfoot",
-    "published": "2026-07-21T18:43:04+00:00"
-  },
-  "715a6c43d4c0264319dc3cd2ee92a56e0f63ad924327200973637388dc97c298": {
-    "url": "https://tass.com/emergencies/2163219",
-    "title": "Belgorod Reservoir equipment damaged: aftermath of Ukrainian attacks",
-    "published": "2026-07-21T18:12:32+00:00"
   }
 }
