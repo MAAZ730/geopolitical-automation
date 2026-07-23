@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5135,
+  "total_calls": 5139,
   "tiers": {
-    "groq": 5116,
+    "groq": 5120,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-20T23:06:06.569771+00:00",
-      "tier": "groq",
-      "article": "Pentagon withheld Iran war injury data \u2013 NYT"
-    },
-    {
-      "timestamp": "2026-07-20T23:06:24.853901+00:00",
-      "tier": "groq",
-      "article": "IRGC says it carried out missile strike on US base in Kuwait"
-    },
-    {
-      "timestamp": "2026-07-20T23:06:53.412585+00:00",
-      "tier": "groq",
-      "article": "Pentagon identifies American soliders killed in Iranian attack in Jordan"
-    },
-    {
-      "timestamp": "2026-07-20T23:07:09.387287+00:00",
-      "tier": "groq",
-      "article": "IRGC destroys MQ-9 drone in western Iran"
-    },
     {
       "timestamp": "2026-07-21T02:57:18.034697+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T21:11:26.498025+00:00",
       "tier": "groq",
       "article": "US masking unsavory actions with myth of Russian threat in Mexico \u2014 Russian embassy"
+    },
+    {
+      "timestamp": "2026-07-23T23:01:45.591450+00:00",
+      "tier": "groq",
+      "article": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf"
+    },
+    {
+      "timestamp": "2026-07-23T23:02:29.761426+00:00",
+      "tier": "groq",
+      "article": "Lavrov-Rubio meeting: Ukraine war, dead Anchorage plan, renewed bilateral ties (VIDEO)"
+    },
+    {
+      "timestamp": "2026-07-23T23:03:18.788973+00:00",
+      "tier": "groq",
+      "article": "Houthis claim strikes on Saudi oil tankers in Red Sea"
+    },
+    {
+      "timestamp": "2026-07-23T23:04:07.067571+00:00",
+      "tier": "groq",
+      "article": "Lavrov reaffirms Russia\u2019s commitment to Alaska agreements at meeting with Rubio"
     }
   ]
 }
