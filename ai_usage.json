@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5115,
+  "total_calls": 5119,
   "tiers": {
-    "groq": 5096,
+    "groq": 5100,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-20T06:52:51.302311+00:00",
-      "tier": "groq",
-      "article": "Trump says US strikes hit Iran in 'honour' of American soldiers killed"
-    },
-    {
-      "timestamp": "2026-07-20T06:53:07.371081+00:00",
-      "tier": "groq",
-      "article": "Trump: Latest strikes on Iran \u2018in honour\u2019 of killed US military personnel"
-    },
-    {
-      "timestamp": "2026-07-20T06:53:34.511278+00:00",
-      "tier": "groq",
-      "article": "Emergency sirens activated again across Bahrain following reports of fresh IRGC missile strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-20T06:53:50.631375+00:00",
-      "tier": "groq",
-      "article": "Trump nuclear deal would let Saudis enrich uranium, CNN reports"
-    },
     {
       "timestamp": "2026-07-20T10:58:25.280878+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T06:36:48.490706+00:00",
       "tier": "groq",
       "article": "Backed by France, Macron sees Germany as nuclear-deterrence \u2018vanguard\u2019 in Europe"
+    },
+    {
+      "timestamp": "2026-07-23T10:29:08.821671+00:00",
+      "tier": "groq",
+      "article": "Nearly 1,500 killed in Ukrainian attacks across Russia since 2022 \u2014 top investigator"
+    },
+    {
+      "timestamp": "2026-07-23T10:29:40.967086+00:00",
+      "tier": "groq",
+      "article": "Latest US attacks target several locations across Iran, leaving two dead and 11 injured"
+    },
+    {
+      "timestamp": "2026-07-23T10:29:58.200662+00:00",
+      "tier": "groq",
+      "article": "THAAD, Patriot, C-RAM Systems Destroyed in IRGC Attacks on US Base in Jordan - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-23T10:30:38.664683+00:00",
+      "tier": "groq",
+      "article": "Production of missiels, drones continue while ops. underway"
     }
   ]
 }
