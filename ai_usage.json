@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5123,
+  "total_calls": 5127,
   "tiers": {
-    "groq": 5104,
+    "groq": 5108,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-20T14:14:21.591191+00:00",
-      "tier": "groq",
-      "article": "Pentagon concealed dozens of casualties from Iranian strikes in Jordan: Report"
-    },
-    {
-      "timestamp": "2026-07-20T14:14:59.291224+00:00",
-      "tier": "groq",
-      "article": "Russian strike on ship near Odesa kills 10, Ukraine hits Moscow with drones"
-    },
-    {
-      "timestamp": "2026-07-20T14:15:48.780227+00:00",
-      "tier": "groq",
-      "article": "Five people killed, 23 injured as Ukraine attacks bus in Belgorod Region with drone"
-    },
-    {
-      "timestamp": "2026-07-20T14:16:41.700117+00:00",
-      "tier": "groq",
-      "article": "America\u2019s financial stranglehold on Iraq"
-    },
     {
       "timestamp": "2026-07-20T18:07:52.867598+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T14:12:49.537235+00:00",
       "tier": "groq",
       "article": "Yemen closes the other gate: Bab al-Mandab turns against Riyadh"
+    },
+    {
+      "timestamp": "2026-07-23T17:28:20.930604+00:00",
+      "tier": "groq",
+      "article": "Turkish sailor killed after drone strike on coal ship as Ukraine reports attacks on 13 vessels"
+    },
+    {
+      "timestamp": "2026-07-23T17:28:57.980261+00:00",
+      "tier": "groq",
+      "article": "IRGC targets US base in retaliation for strike on Arbaeen pilgrims\u2019 route"
+    },
+    {
+      "timestamp": "2026-07-23T17:29:14.202483+00:00",
+      "tier": "groq",
+      "article": "Trump says considers massive attack on Iran \u2014 Axios"
+    },
+    {
+      "timestamp": "2026-07-23T17:29:33.287210+00:00",
+      "tier": "groq",
+      "article": "President Pezeshkian hails Iran-Pakistan relations, urges accelerated cooperation"
     }
   ]
 }
