@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5119,
+  "total_calls": 5123,
   "tiers": {
-    "groq": 5100,
+    "groq": 5104,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-20T10:58:25.280878+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes US C-17, P-8 aircraft in Jordan"
-    },
-    {
-      "timestamp": "2026-07-20T10:58:58.894860+00:00",
-      "tier": "groq",
-      "article": "Satellites Reveal Destruction of US Forces\u2019 Headquarters at King Faisal Air Base and Muwaffaq Salti Air Base in Jordan after Iranian Strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-20T10:59:49.077134+00:00",
-      "tier": "groq",
-      "article": "Baghaei Slams Vicious US Strikes on Schools and Hospitals, Vows Unified Response Amid Diplomatic Push - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-20T11:00:07.190156+00:00",
-      "tier": "groq",
-      "article": "Maritime traffic banned for all ships in Hormuz: IRGC source"
-    },
     {
       "timestamp": "2026-07-20T14:14:21.591191+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T10:30:38.664683+00:00",
       "tier": "groq",
       "article": "Production of missiels, drones continue while ops. underway"
+    },
+    {
+      "timestamp": "2026-07-23T14:10:23.107703+00:00",
+      "tier": "groq",
+      "article": "Several killed as Ukraine, Russia trade attacks deep behind the front line"
+    },
+    {
+      "timestamp": "2026-07-23T14:11:10.579724+00:00",
+      "tier": "groq",
+      "article": "'What was their crime?': BBC visits Iran school in Minab where strike killed 120 children"
+    },
+    {
+      "timestamp": "2026-07-23T14:12:03.935363+00:00",
+      "tier": "groq",
+      "article": "Aftermath of Ukrainian drone attack on Russian regions, boy killed in Voronezh Region"
+    },
+    {
+      "timestamp": "2026-07-23T14:12:49.537235+00:00",
+      "tier": "groq",
+      "article": "Yemen closes the other gate: Bab al-Mandab turns against Riyadh"
     }
   ]
 }
