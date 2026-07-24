@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5171,
+  "total_calls": 5175,
   "tiers": {
-    "groq": 5152,
+    "groq": 5156,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T23:01:02.581856+00:00",
-      "tier": "groq",
-      "article": "Are US and Iran heading for a major war?"
-    },
-    {
-      "timestamp": "2026-07-21T23:01:45.014352+00:00",
-      "tier": "groq",
-      "article": "Hanwha Philly Shipyard awarded $2 billion to build 2 missile-tracking vessels"
-    },
-    {
-      "timestamp": "2026-07-21T23:02:00.992390+00:00",
-      "tier": "groq",
-      "article": "IRGC disables multiple radar systems in Kuwait in ongoing retaliation"
-    },
-    {
-      "timestamp": "2026-07-21T23:02:18.175168+00:00",
-      "tier": "groq",
-      "article": "Iran not to back down on Strait of Hormuz: SNSC official"
-    },
     {
       "timestamp": "2026-07-22T02:54:47.219776+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-24T21:10:35.309347+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-24T23:06:40.196051+00:00",
+      "tier": "groq",
+      "article": "US strikes tanker over alleged Iranian gas cargo \u2014 Iran\u2019s state broadcaster"
+    },
+    {
+      "timestamp": "2026-07-24T23:06:58.966956+00:00",
+      "tier": "groq",
+      "article": "Houthis say Saudi Arabia attacked telecom facilities in Hodeida"
+    },
+    {
+      "timestamp": "2026-07-24T23:07:18.073085+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-24T23:07:34.734258+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
