@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5143,
+  "total_calls": 5147,
   "tiers": {
-    "groq": 5124,
+    "groq": 5128,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T06:34:41.706183+00:00",
-      "tier": "groq",
-      "article": "IRGC pounds US radar, air defense systems in Bahrain and Kuwait"
-    },
-    {
-      "timestamp": "2026-07-21T06:35:15.889023+00:00",
-      "tier": "groq",
-      "article": "Iran warns nuclear safety at risk after US strike"
-    },
-    {
-      "timestamp": "2026-07-21T06:36:02.740338+00:00",
-      "tier": "groq",
-      "article": "Iran attacks Amazon data center in Bahrain in response to strike on Darkhovin NPP \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-07-21T06:36:22.293761+00:00",
-      "tier": "groq",
-      "article": "Iran claims Jordanian help in strikes on US forces"
-    },
     {
       "timestamp": "2026-07-21T10:30:16.356036+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-24T02:53:47.238869+00:00",
       "tier": "groq",
       "article": "Pezeshkian urges stronger cooperation between Iran, Pakistan"
+    },
+    {
+      "timestamp": "2026-07-24T06:32:08.275875+00:00",
+      "tier": "groq",
+      "article": "Iran attacks US bases in Bahrain, Jordan with drones \u2014 army"
+    },
+    {
+      "timestamp": "2026-07-24T06:32:40.907064+00:00",
+      "tier": "groq",
+      "article": "Former Iranian foreign minister to Americans: Save your children from Trump\u2019s quagmire"
+    },
+    {
+      "timestamp": "2026-07-24T06:32:59.863997+00:00",
+      "tier": "groq",
+      "article": "It could take US weeks to degrade Iran\u2019s missile capabilities \u2014 FT"
+    },
+    {
+      "timestamp": "2026-07-24T06:33:19.431855+00:00",
+      "tier": "groq",
+      "article": "US signs landmark nuclear deal with Saudi Arabia"
     }
   ]
 }

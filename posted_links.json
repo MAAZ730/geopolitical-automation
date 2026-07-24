@@ -1,4 +1,39 @@
 {
+  "bebda5e873986db27277706b2d3982997a18b09920ab8a3f841b8715811e44f7": {
+    "url": "BellumActaNews/175764",
+    "title": "US Conducts 11th Wave of Airstrikes Against Iranian Targets",
+    "published": "2026-07-24T06:37:04.080555+00:00"
+  },
+  "96fdef2c08447440a6e883d5b4cf658019948846d9a9263065714eada902e501": {
+    "url": "BellumActaNews/175766",
+    "title": "US Air Force Targets Iranian Ammunition Depots in Precision Strike",
+    "published": "2026-07-24T06:36:02.061127+00:00"
+  },
+  "3a174cdfe03108358218c625ae40b6673eeee546d290b1182e6ba0400dce26d6": {
+    "url": "DDGeopolitics/189761",
+    "title": "Ukraine Accused of Buying Influence with American Blogger's Visit",
+    "published": "2026-07-24T06:34:15.072347+00:00"
+  },
+  "f5deaa7474b143752be39ffac6beffd9401623975a86af0e99411318e61d1f1e": {
+    "url": "QudsNen/232481",
+    "title": "Settlers Clash with Palestinians in Tell Village",
+    "published": "2026-07-24T06:34:11.837140+00:00"
+  },
+  "917b4529e0fa128d671a71a79b11c6905ed190c6c281bd0df19bf512f1c73cac": {
+    "url": "QudsNen/232483",
+    "title": "Palestinians Injured in Israeli Raid on Tell Village",
+    "published": "2026-07-24T06:33:42.250884+00:00"
+  },
+  "ae408271dd125cab4fd4bd98ebe2e58c3898c77d7b765af076dd7e3674c6bad6": {
+    "url": "Middle_East_Spectator/35381",
+    "title": "Amazon Data Center Destroyed in Bahrain",
+    "published": "2026-07-24T06:33:22.970849+00:00"
+  },
+  "063e6e2574b42085d954d7c53da10636a7e10be03e1dfeb818f054c91d401eeb": {
+    "url": "https://tass.com/world/2164531",
+    "title": "Iran attacks US bases in Bahrain, Jordan with drones \u2014 army",
+    "published": "2026-07-24T05:51:29+00:00"
+  },
   "87d1adc5b5da014e4d67373ff6e7621cc1bb5f6805748390abed5aaa1ae4bea6": {
     "url": "BellumActaNews/175769",
     "title": "Iranian Port City of Bandar Abbas Hit by Intense Bombing",
@@ -234,10 +269,20 @@
     "title": "Tehran condemns UK decision to grant US access to military bases, says Britain complicit in aggression",
     "published": "2026-07-23T14:11:52+00:00"
   },
+  "94c5bc0d6b6c06c0e51e408e3d4b9ce2fea60bb2a89151f30adbd5f564b466e8": {
+    "url": "https://en.irna.ir/news/86217508/Former-Iranian-foreign-minister-to-Americans-Save-your-children",
+    "title": "Former Iranian foreign minister to Americans: Save your children from Trump\u2019s quagmire",
+    "published": "2026-07-23T13:31:42+00:00"
+  },
   "dcac1efc426ba88c33a85bffacce52843be1a7722e457b2c68feedff7bb46b57": {
     "url": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
     "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
     "published": "2026-07-23T11:36:31+00:00"
+  },
+  "419aa06b7fe2afd05c25dc3c40893e7a7b383c7caae76ad94fbee51fb4333232": {
+    "url": "https://tass.com/world/2164211",
+    "title": "It could take US weeks to degrade Iran\u2019s missile capabilities \u2014 FT",
+    "published": "2026-07-23T10:59:02+00:00"
   },
   "b6cd96eb62b3fa00dc955cb6b688af74ef54928f0afc3252b0be4a5404f48dfc": {
     "url": "QudsNen/232352",
@@ -273,6 +318,11 @@
     "url": "https://tass.com/society/2164177",
     "title": "Nearly 1,500 killed in Ukrainian attacks across Russia since 2022 \u2014 top investigator",
     "published": "2026-07-23T10:07:02+00:00"
+  },
+  "5525408d35630b95b28bc7a86884e92dd8f4f759cd6ecc28704b76923aa2573d": {
+    "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+    "title": "US signs landmark nuclear deal with Saudi Arabia",
+    "published": "2026-07-23T09:17:50+00:00"
   },
   "eefa9f2da9974fd82bc93ad242d26d6f2236ebf44a4b163947b73c684a45ee94": {
     "url": "https://en.irna.ir/news/86217280/Latest-US-attacks-target-several-locations-across-Iran-leaving",
@@ -698,55 +748,5 @@
     "url": "https://en.irna.ir/news/86216252/Pentagon-Missing-US-service-member-in-Jordan-presumed-dead",
     "title": "Pentagon: Missing US service member in Jordan presumed dead",
     "published": "2026-07-22T09:09:35+00:00"
-  },
-  "712091ff150d68eb77deba59c37cbdf10ab7cef56c42c80f7b536b30dfa21d2e": {
-    "url": "https://en.mehrnews.com/news/246431/Iran-FM-dismisses-French-allegations-over-its-ambassy-staff",
-    "title": "Iran FM dismisses French allegations over its embassy staff",
-    "published": "2026-07-22T08:57:28+00:00"
-  },
-  "204d13cdaa9f41c60a2db84005309c35243ec7826bc3053a2e1fda0f075d39e2": {
-    "url": "https://en.mehrnews.com/news/246430/Iran-Pakistan-emphasize-strengthening-regional-security",
-    "title": "Iran, Pakistan emphasize strengthening regional security",
-    "published": "2026-07-22T08:44:44+00:00"
-  },
-  "f8e37ba1bff2a53f5e5d5600062a414f8e912982e643daef5b2a62370a4d7c7a": {
-    "url": "https://tass.com/politics/2163385",
-    "title": "Two people injured in Ukrainian attacks on Russia\u2019s borderline Bryansk Region",
-    "published": "2026-07-22T07:46:29+00:00"
-  },
-  "50d69e400373e19853e98e702db19999d9e7ff5fee4f02e99a182b7b5a382a23": {
-    "url": "https://en.irna.ir/news/86216089/IRGC-destroys-US-tactical-radar-systems-near-Kuwait-s-Ali-Al",
-    "title": "IRGC destroys US tactical radar systems near Kuwait\u2019s Ali Al Salem base",
-    "published": "2026-07-22T07:33:53+00:00"
-  },
-  "84a9a78d5dec39152418751263a46cc7aeee786a1a42994667b1cbee6377cf66": {
-    "url": "https://en.mehrnews.com/news/246426/VIDEO-Funeral-of-martyrs-of-Shajare-Tayyebeh-School-in-Minab",
-    "title": "VIDEO: Funeral of martyrs of Shajare Tayyebeh School in Minab",
-    "published": "2026-07-22T07:26:45+00:00"
-  },
-  "a15870bfa9b27cc1739bc3b879ed465488f08d0a1a504abc9fea11562e1bdab5": {
-    "url": "BellumActaNews/175682",
-    "title": "Iranian Missiles Strike Muwaffaq Salti Air Base in Jordan",
-    "published": "2026-07-22T06:41:53.791893+00:00"
-  },
-  "7158eb5e95e6aeaf3607508c6f23938bb890ff4e4cef5643051643d4d6324b59": {
-    "url": "warmonitors/45084",
-    "title": "UK Approves US Use of Military Bases for Potential Strikes Against Iran",
-    "published": "2026-07-22T06:39:59.088957+00:00"
-  },
-  "e389a1392fa7959fe9d08d60b95c8fab420e2e0fb566ef2c1ec8cdccdd3cc054": {
-    "url": "DDGeopolitics/189623",
-    "title": "US Conducts Airstrikes in Multiple Iranian Cities",
-    "published": "2026-07-22T06:39:57.177061+00:00"
-  },
-  "e51e88fcb72bfae7b8d5d672586543d8d3867726d7d117273860400c84d8c52c": {
-    "url": "DDGeopolitics/189624",
-    "title": "US Airstrikes Hit Multiple Iranian Cities",
-    "published": "2026-07-22T06:38:56.123730+00:00"
-  },
-  "fd0b012b1e5c47617b5e48e48e06eedacd06c025241923d0201d302537ab98ef": {
-    "url": "DDGeopolitics/189625",
-    "title": "Tehran Air Defense Activity and Explosions",
-    "published": "2026-07-22T06:37:52.649348+00:00"
   }
 }
