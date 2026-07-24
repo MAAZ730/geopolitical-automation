@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5159,
+  "total_calls": 5163,
   "tiers": {
-    "groq": 5140,
+    "groq": 5144,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T17:27:39.461303+00:00",
-      "tier": "groq",
-      "article": "US intelligence believes strikes cannot change Iran's negotiating position \u2014 media"
-    },
-    {
-      "timestamp": "2026-07-21T17:27:58.742948+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Army continues drone strikes on US bases in region"
-    },
-    {
-      "timestamp": "2026-07-21T17:28:17.958698+00:00",
-      "tier": "groq",
-      "article": "Ex-Bolivian FM warns Trump\u2019s actions\u2014war, sanctions, assassinations\u2014threaten global stability"
-    },
-    {
-      "timestamp": "2026-07-21T17:29:07.683016+00:00",
-      "tier": "groq",
-      "article": "Iranian Academy of Arts to hold virtual exhibition for prominent Uzbek painter Akmal Nuriddinov"
-    },
     {
       "timestamp": "2026-07-21T19:28:19.624795+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-24T15:31:45.412479+00:00",
       "tier": "groq",
       "article": "Iran responds powerfully to US irrational approach"
+    },
+    {
+      "timestamp": "2026-07-24T17:43:38.003452+00:00",
+      "tier": "groq",
+      "article": "Iran &#039;rapidly rebuilds&#039; military sites hit by US-Israeli attacks: Report"
+    },
+    {
+      "timestamp": "2026-07-24T17:44:16.408906+00:00",
+      "tier": "groq",
+      "article": "Wildberries warehouses in Russia targeted again in overnight Ukrainian drone attacks"
+    },
+    {
+      "timestamp": "2026-07-24T17:45:07.786796+00:00",
+      "tier": "groq",
+      "article": "What to know of strike on training ground near Kiev used to demonstrate drones"
+    },
+    {
+      "timestamp": "2026-07-24T17:45:24.926089+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
     }
   ]
 }
