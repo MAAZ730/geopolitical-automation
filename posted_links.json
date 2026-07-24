@@ -1,4 +1,39 @@
 {
+  "36080a5e32c733f28555de69ab384e152239d0453dbcaa2165972513cd450804": {
+    "url": "presstv/200188",
+    "title": "Iran's IRGC Claims Devastating Attacks on US Bases in Jordan and Iraq",
+    "published": "2026-07-24T13:58:45.013708+00:00"
+  },
+  "5315728e69d978d9bbb66f470cdd6b83a8a93258a5e6937c957ca9784fd3fd05": {
+    "url": "BellumActaNews/175758",
+    "title": "US Forces Launch Aerial Assault on Southern Iran",
+    "published": "2026-07-24T13:57:10.883410+00:00"
+  },
+  "3da0ddba708d34d9c2b0fae80b0cd6d90ed9539ca548a031459755f87ce3c802": {
+    "url": "BellumActaNews/175760",
+    "title": "US Air Force Conducts Aerial Strike on Ahvaz, Iran",
+    "published": "2026-07-24T13:55:10.424169+00:00"
+  },
+  "18c5fe00a798f8e9ad2357ebeee129092e5cdacc8d429673498eb709113137e5": {
+    "url": "thecradlemedia/64934",
+    "title": "Gulf Stocks Decline Amid Trump Warning on Iran",
+    "published": "2026-07-24T13:54:43.158088+00:00"
+  },
+  "11e21eea71bedb83089ab7ea0ce6a588c82ee9e186f2f685f8c5347718506ddd": {
+    "url": "thecradlemedia/64936",
+    "title": "EU Imposes Sanctions on Iranian Judges and Cyber Group Founder",
+    "published": "2026-07-24T13:54:41.664992+00:00"
+  },
+  "98246814c39fb1d725f6f1a71fa0d9ec16c30df05f5ee5e4b1c89e464a801e3f": {
+    "url": "thecradlemedia/64939",
+    "title": "Iran, Pakistan Foreign Ministers Meet in Kyrgyzstan Amid US-Iran Tensions",
+    "published": "2026-07-24T13:54:40.210275+00:00"
+  },
+  "c1c56c2cf4a9643401d2a93616017b1fe5d4770da13bf28ed1d477decf4a9e09": {
+    "url": "https://tass.com/world/2164763",
+    "title": "US strikes on Iran kill 55 people since June 27 \u2014 health ministry",
+    "published": "2026-07-24T11:48:46+00:00"
+  },
   "75ddc94af1900df768fa883af5c610f7ff068f4bf325e26f660612c936c3f4b0": {
     "url": "BellumActaNews/175761",
     "title": "Blast Rocks Ahwaz, Iran: Eyewitness Account",
@@ -34,10 +69,20 @@
     "title": "Hamas: Intensified Israeli Strikes Undermine Ceasefire in Gaza - Al-Manar TV Lebanon",
     "published": "2026-07-24T10:18:13+00:00"
   },
+  "898c2a25a8814910bc80924b82defd231d763fd85cc56823a9e6e9c8658a595c": {
+    "url": "https://tass.com/defense/2164643",
+    "title": "Ukrainian counterattack by ex-convicts fails in Kharkov Region \u2014 Russian defense source",
+    "published": "2026-07-24T09:49:45+00:00"
+  },
   "c91343e4e700e48c49f0e6eeafd037fa1dfe634e59cdd588fe387e96bbfa53c0": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
     "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
     "published": "2026-07-24T08:42:07+00:00"
+  },
+  "cf5b4197a05db5c63454a5bf811e9cd2fe84e923bb09f18702278169a86455bc": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
+    "title": "US attacks Iran for 13th consecutive night",
+    "published": "2026-07-24T08:39:53+00:00"
   },
   "3cf376cef3b0660e51926c1f52694752556b0369c9ce9e391b7a1d31d71a7aaa": {
     "url": "https://english.almanar.com.lb/article/107837/",
@@ -263,6 +308,11 @@
     "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
     "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
     "published": "2026-07-23T16:50:59+00:00"
+  },
+  "452c692787087d1f79b54700e65b2497b813e1e28b647e85cf7b0194fdba69d6": {
+    "url": "https://en.mehrnews.com/news/246463/Iran-parliament-to-debate-Hormuz-security-progress-bill",
+    "title": "Iran parliament to debate Hormuz security, progress bill",
+    "published": "2026-07-23T16:05:57+00:00"
   },
   "a90103923c4db50e3fcbe0258865f02f5842e5e63cd760147944f0fab5ff1b9d": {
     "url": "https://english.almanar.com.lb/article/107692/",
@@ -698,55 +748,5 @@
     "url": "QudsNen/232234",
     "title": "Israeli Settlers, Occupation Forces Block Aid to Besieged Palestinian Family in West Bank",
     "published": "2026-07-22T14:11:49.960929+00:00"
-  },
-  "02f4b22ce551e2e62f79c23eebd84b603a1f5a10b6d2fb5e840b1bdfc39dc56b": {
-    "url": "Middle_East_Spectator/35334",
-    "title": "Jordan Airbase F-15 Hangar Destroyed",
-    "published": "2026-07-22T14:09:40.698972+00:00"
-  },
-  "88ccadb2e95dbf32126c7e776dceaf0dfefb65b8ace706a68bc64861ca7a94bb": {
-    "url": "thecradlemedia/64762",
-    "title": "Iran IRGC Fires Ballistic Missiles at US Bases in Jordan Amid Rising Tensions",
-    "published": "2026-07-22T14:09:23.422399+00:00"
-  },
-  "c147c6538bc23455afed44143b7f7331cd892efdfb5d4865759c13daf641c164": {
-    "url": "thecradlemedia/64770",
-    "title": "US-Iran Tensions Escalate: Trump Threatens Retaliation for Strait of Hormuz Attacks",
-    "published": "2026-07-22T14:06:19.825453+00:00"
-  },
-  "4c8fef4b32bbb9dcde484093f7a3d6657be7cad3f026e8a07fc5da1e2628c8f9": {
-    "url": "thecradlemedia/64773",
-    "title": "Hamas Chief Vows to Defend Palestinian Territories, Pursue Unity",
-    "published": "2026-07-22T14:06:11.968507+00:00"
-  },
-  "9e0b8f9ca4a5250ef994ed7c383eb21677702cb4e13952757437e92a53129331": {
-    "url": "https://english.almanar.com.lb/article/107377/",
-    "title": "During Third Imposed War, a Massive Enemy Data Center in UAE Was Destroyed by Iranian Strikes: General - Al-Manar TV Lebanon",
-    "published": "2026-07-22T14:00:16+00:00"
-  },
-  "3e2befe6da1e726630748a261d774c0b9be63dc79a3234a74e71f347e498c1ac": {
-    "url": "https://en.mehrnews.com/news/246438/Prdocution-of-missiels-drones-continue-while-ops-underway",
-    "title": "Production of missiels, drones continue while ops. underway",
-    "published": "2026-07-22T13:24:49+00:00"
-  },
-  "2ba378f4c81a8f53e93c428255cafbf5a272b1609b9a84f3b8aea68407f9a7cc": {
-    "url": "https://tass.com/emergencies/2163657",
-    "title": "Death toll in Ukrainian attack on Russia\u2019s Krasnodar Region rises to two",
-    "published": "2026-07-22T12:35:27+00:00"
-  },
-  "2597aefe3503a8eac9620afd112b713196c163b103686d319946b331078cec89": {
-    "url": "https://english.almanar.com.lb/article/107362/",
-    "title": "Damage Reported in US Base as Iran\u2019s IRGC Declares New Retaliatory Strike - Al-Manar TV Lebanon",
-    "published": "2026-07-22T12:35:09+00:00"
-  },
-  "a769b12fd57efc71b277ec9f43811bd2b45a69b3e510fceb5312347339e1331c": {
-    "url": "https://www.tehrantimes.com/news/528442/I-Will-Rebuild-You-Again-My-Homeland-Iranian-singer-performs",
-    "title": "\"I Will Rebuild You Again, My Homeland\": Iranian singer performs on bridge bombed by US",
-    "published": "2026-07-22T12:01:52+00:00"
-  },
-  "8de94e60c399fee86f95f2feea9ab63c2ffa4aaf5e405a6f7fc2f69cdb861567": {
-    "url": "https://english.almanar.com.lb/article/107342/",
-    "title": "Advanced Iranian Missile Capacity Poses \u2018Problem\u2019 for US: CBS Report - Al-Manar TV Lebanon",
-    "published": "2026-07-22T11:54:15+00:00"
   }
 }

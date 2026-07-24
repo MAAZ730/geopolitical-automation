@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5151,
+  "total_calls": 5155,
   "tiers": {
-    "groq": 5132,
+    "groq": 5136,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T14:01:02.170931+00:00",
-      "tier": "groq",
-      "article": "Russia to continue strikes on ships carrying arms for Kiev \u2014 Kremlin spokesman"
-    },
-    {
-      "timestamp": "2026-07-21T14:01:23.428391+00:00",
-      "tier": "groq",
-      "article": "Ukrainian strikes claim lives of 70 Russians, including two children over week \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-07-21T14:01:43.443826+00:00",
-      "tier": "groq",
-      "article": "US forces complete another round of strikes on Iran, CENTCOM says"
-    },
-    {
-      "timestamp": "2026-07-21T14:02:04.696824+00:00",
-      "tier": "groq",
-      "article": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight"
-    },
     {
       "timestamp": "2026-07-21T15:51:24.331107+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-24T10:24:50.954379+00:00",
       "tier": "groq",
       "article": "EU naval mission will now intercept Russian shadow tankers in the Indian Ocean"
+    },
+    {
+      "timestamp": "2026-07-24T13:52:37.022906+00:00",
+      "tier": "groq",
+      "article": "US strikes on Iran kill 55 people since June 27 \u2014 health ministry"
+    },
+    {
+      "timestamp": "2026-07-24T13:53:10.539623+00:00",
+      "tier": "groq",
+      "article": "US attacks Iran for 13th consecutive night"
+    },
+    {
+      "timestamp": "2026-07-24T13:53:26.528843+00:00",
+      "tier": "groq",
+      "article": "Ukrainian counterattack by ex-convicts fails in Kharkov Region \u2014 Russian defense source"
+    },
+    {
+      "timestamp": "2026-07-24T13:54:06.045741+00:00",
+      "tier": "groq",
+      "article": "Iran parliament to debate Hormuz security, progress bill"
     }
   ]
 }
