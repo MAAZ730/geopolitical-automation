@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5155,
+  "total_calls": 5159,
   "tiers": {
-    "groq": 5136,
+    "groq": 5140,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T15:51:24.331107+00:00",
-      "tier": "groq",
-      "article": "US intel determines renewed war on Iran &#039;unlikely&#039; to achieve Trump&#039;s goals: Report"
-    },
-    {
-      "timestamp": "2026-07-21T15:51:55.371191+00:00",
-      "tier": "groq",
-      "article": "Iran Army launches fresh attack on US assets in Kuwait"
-    },
-    {
-      "timestamp": "2026-07-21T15:52:45.073230+00:00",
-      "tier": "groq",
-      "article": "Israeli air strike in Gaza City kills family of six, medics say"
-    },
-    {
-      "timestamp": "2026-07-21T15:53:35.371639+00:00",
-      "tier": "groq",
-      "article": "Doodle Labs eyes US, European production sites as demand soars for jam-resistant drones"
-    },
     {
       "timestamp": "2026-07-21T17:27:39.461303+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-24T13:54:06.045741+00:00",
       "tier": "groq",
       "article": "Iran parliament to debate Hormuz security, progress bill"
+    },
+    {
+      "timestamp": "2026-07-24T15:29:50.171312+00:00",
+      "tier": "groq",
+      "article": "At least 21 killed as Ukraine and Russia continue to trade attacks"
+    },
+    {
+      "timestamp": "2026-07-24T15:30:35.869154+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Aftermath of Ukraine\u2019s attack on Kirov, six civilians killed"
+    },
+    {
+      "timestamp": "2026-07-24T15:31:29.031498+00:00",
+      "tier": "groq",
+      "article": "Israel launches clampdown after deadly clash in occupied West Bank"
+    },
+    {
+      "timestamp": "2026-07-24T15:31:45.412479+00:00",
+      "tier": "groq",
+      "article": "Iran responds powerfully to US irrational approach"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "76b9617707a9bebdf23f663a7e69e0aacb6ca5e1cf5dc850ec042dbd3aa1f19f": {
+    "url": "DDGeopolitics/189830",
+    "title": "US Commentator Embroiled in Anti-Russian Propaganda Row",
+    "published": "2026-07-24T15:36:16.060040+00:00"
+  },
+  "449fa54d655dd6bb9d1e2999b64d2f75bd5ed7a494b9ca7bed6bdf90afe1197a": {
+    "url": "QudsNen/232572",
+    "title": "Israeli Settlers Storm Palestinian Village in West Bank",
+    "published": "2026-07-24T15:33:42.455820+00:00"
+  },
+  "ee39652a4410d7ff7d0fa837ecd5e04465074882a78ef87686f40a6b2ef4fc9d": {
+    "url": "QudsNen/232574",
+    "title": "Israeli Settlers Launch Revenge Attack on Palestinian Village Near Nablus",
+    "published": "2026-07-24T15:32:40.686079+00:00"
+  },
+  "f27dad5739efb86b0521878c82d97b501c3e1ba86fa7812e17493d945ae3bccf": {
+    "url": "Middle_East_Spectator/35405",
+    "title": "Iran Strikes Patriot Air Defense System in Erbil",
+    "published": "2026-07-24T15:32:03.397969+00:00"
+  },
+  "ecc10741eadc9fcc6c27e8e6d23b1a36fba09c9a54a3607849158026346e57d7": {
+    "url": "thecradlemedia/64949",
+    "title": "Lebanese Security Forces Attempt to Arrest Journalist in Dahiye Raid",
+    "published": "2026-07-24T15:31:53.751200+00:00"
+  },
+  "1b2519406af78d0729a3e36aba392fa5e863630e9dda259c1b89f6ecf106503b": {
+    "url": "thecradlemedia/64950",
+    "title": "Israel Accused of Systematic Destruction of Lebanon's Water Infrastructure",
+    "published": "2026-07-24T15:31:51.567781+00:00"
+  },
   "36080a5e32c733f28555de69ab384e152239d0453dbcaa2165972513cd450804": {
     "url": "presstv/200188",
     "title": "Iran's IRGC Claims Devastating Attacks on US Bases in Jordan and Iraq",
@@ -29,10 +59,20 @@
     "title": "Iran, Pakistan Foreign Ministers Meet in Kyrgyzstan Amid US-Iran Tensions",
     "published": "2026-07-24T13:54:40.210275+00:00"
   },
+  "32b09e64a1b8789461600bcf4320654d071decf026a5ad20185d66b34c52afdf": {
+    "url": "https://tass.com/politics/2164855",
+    "title": "IN BRIEF: Aftermath of Ukraine\u2019s attack on Kirov, six civilians killed",
+    "published": "2026-07-24T13:09:16+00:00"
+  },
   "c1c56c2cf4a9643401d2a93616017b1fe5d4770da13bf28ed1d477decf4a9e09": {
     "url": "https://tass.com/world/2164763",
     "title": "US strikes on Iran kill 55 people since June 27 \u2014 health ministry",
     "published": "2026-07-24T11:48:46+00:00"
+  },
+  "3d7417fbcda9272ad045b181b247ca52a1234484e7b318e73a56003d248df0d1": {
+    "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+    "title": "At least 21 killed as Ukraine and Russia continue to trade attacks",
+    "published": "2026-07-24T11:45:04+00:00"
   },
   "75ddc94af1900df768fa883af5c610f7ff068f4bf325e26f660612c936c3f4b0": {
     "url": "BellumActaNews/175761",
@@ -73,6 +113,11 @@
     "url": "https://tass.com/defense/2164643",
     "title": "Ukrainian counterattack by ex-convicts fails in Kharkov Region \u2014 Russian defense source",
     "published": "2026-07-24T09:49:45+00:00"
+  },
+  "d911c232b35dd59defdfbbcb0c2eee1b2e9907fca1bd28f88913ef9dc34d74cc": {
+    "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+    "title": "Israel launches clampdown after deadly clash in occupied West Bank",
+    "published": "2026-07-24T09:35:39+00:00"
   },
   "c91343e4e700e48c49f0e6eeafd037fa1dfe634e59cdd588fe387e96bbfa53c0": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
@@ -303,6 +348,11 @@
     "url": "https://thecradle.co/articles-id/38977",
     "title": "Iran&#039;s &#039;eye for an eye&#039; strikes on US bases in Kuwait, Jordan destroy Patriot system, drone facilities",
     "published": "2026-07-23T17:11:09+00:00"
+  },
+  "c486735d9526e92f9a6d8b8c69404a5085c9dccc898a97df6c586de12a359c84": {
+    "url": "https://en.mehrnews.com/news/246466/Iran-responds-powerfully-to-US-irrational-approach",
+    "title": "Iran responds powerfully to US irrational approach",
+    "published": "2026-07-23T17:00:28+00:00"
   },
   "8ddff3cf786102ecc3cd56302b5c049759f197a208361ab1fb49fe7ecf1a2300": {
     "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/64794",
     "title": "Israeli Drones Monitor Beirut's Southern Suburbs",
     "published": "2026-07-22T17:27:54.491959+00:00"
-  },
-  "07edeb0d768f2154c6e4ba1aa4988e9407107fba939f89647a5829c1fa9c4482": {
-    "url": "thecradlemedia/64796",
-    "title": "Trump Orders CENTCOM to 'Open the Gates of Hell' on Iran Amid Ongoing Tensions",
-    "published": "2026-07-22T17:27:52.175066+00:00"
-  },
-  "8f44e679adcf130943d6a28267dd4b8ebc3856357531379d433d47e481648ee0": {
-    "url": "https://www.tehrantimes.com/news/528459/34-mothers-lay-their-children-s-remains-to-rest-again",
-    "title": "34 mothers lay their children's remains to rest again",
-    "published": "2026-07-22T17:26:18+00:00"
-  },
-  "d9650df9f6843987f5cbfa44125ba8f567c66c13d56db260b3b09ef4a6dfe96c": {
-    "url": "https://www.tehrantimes.com/news/528465/Iran-expands-retaliatory-campaign-against-Satanic-enemy",
-    "title": "Iran expands retaliatory campaign against Satanic enemy",
-    "published": "2026-07-22T17:24:06+00:00"
-  },
-  "35bcea2e509d7bafdfcd086beba349f9a6f828c56fb610892acca3739a80adf4": {
-    "url": "https://en.mehrnews.com/news/246441/US-airstrikes-kill-53-wound-592-in-Iran",
-    "title": "US airstrikes kill 53, wound 592 in Iran",
-    "published": "2026-07-22T16:48:45+00:00"
-  },
-  "41c4a686c456232f2e19a3fccb7dc79b9b17ff789f6c3734aa05e5fca710cfa4": {
-    "url": "https://www.rt.com/news/643344-iran-us-dark-night/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran claims US radars suffered a \u2018dark night\u2019 of strikes in Kuwait and Jordan",
-    "published": "2026-07-22T16:19:15+00:00"
-  },
-  "ee22676632fdb009456b1c579767c9dabc3cd3b811faecb7dbb9e4e259976c6f": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
-    "title": "War on Iran: Hegseth wants $70B more to keep fighting",
-    "published": "2026-07-22T15:52:54+00:00"
-  },
-  "5c9b208c5a29035b2957b0160f4a76d9bb42b5728c4aa29fa06bf0e7cd56231b": {
-    "url": "https://tass.com/politics/2163725",
-    "title": "Kiev has no military commanders who can defeat Russia \u2014 Zaporozhye official",
-    "published": "2026-07-22T14:48:43+00:00"
-  },
-  "5038188146418b4cd9d75c8737250a11b462eac542fbe6b02e1277940991ddb3": {
-    "url": "https://thecradle.co/articles-id/38950",
-    "title": "Yemen closes the other gate: Bab al-Mandab turns against Riyadh",
-    "published": "2026-07-22T14:32:48+00:00"
-  },
-  "b20a35c818b3d65b7d8f94d323f4b3bde8f8c84c257148fd9aab102296915803": {
-    "url": "DDGeopolitics/189681",
-    "title": "Trump Downplays Anti-War Sentiment in US Amid Ongoing Conflict",
-    "published": "2026-07-22T14:12:47.251646+00:00"
-  },
-  "3651e5f14f976627badccc801c593b45579bd6f36c55bed49a5aeff3ca81963a": {
-    "url": "QudsNen/232234",
-    "title": "Israeli Settlers, Occupation Forces Block Aid to Besieged Palestinian Family in West Bank",
-    "published": "2026-07-22T14:11:49.960929+00:00"
   }
 }
