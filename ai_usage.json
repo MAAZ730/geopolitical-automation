@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5147,
+  "total_calls": 5151,
   "tiers": {
-    "groq": 5128,
+    "groq": 5132,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T10:30:16.356036+00:00",
-      "tier": "groq",
-      "article": "VIDEO: Several Palestinians killed, injured in Israeli raids"
-    },
-    {
-      "timestamp": "2026-07-21T10:30:51.570366+00:00",
-      "tier": "groq",
-      "article": "Iran calls on IAEA action after US attack on Karun NPP"
-    },
-    {
-      "timestamp": "2026-07-21T10:31:09.465669+00:00",
-      "tier": "groq",
-      "article": "IRGC: Several US troops killed in strike on military compound in Jordan"
-    },
-    {
-      "timestamp": "2026-07-21T10:31:26.219454+00:00",
-      "tier": "groq",
-      "article": "Trust between operators, CCAs starts with simulations: Former Air Force secretary"
-    },
     {
       "timestamp": "2026-07-21T14:01:02.170931+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-24T06:33:19.431855+00:00",
       "tier": "groq",
       "article": "US signs landmark nuclear deal with Saudi Arabia"
+    },
+    {
+      "timestamp": "2026-07-24T10:22:35.997236+00:00",
+      "tier": "groq",
+      "article": "American Aggression Claims Lives in Ahvaz as US Strikes Enter 13th Consecutive Night - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-24T10:23:13.698327+00:00",
+      "tier": "groq",
+      "article": "Hamas: Intensified Israeli Strikes Undermine Ceasefire in Gaza - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-24T10:23:59.433953+00:00",
+      "tier": "groq",
+      "article": "Major fire after Ukrainian strike on St Petersburg warehouse"
+    },
+    {
+      "timestamp": "2026-07-24T10:24:50.954379+00:00",
+      "tier": "groq",
+      "article": "EU naval mission will now intercept Russian shadow tankers in the Indian Ocean"
     }
   ]
 }
