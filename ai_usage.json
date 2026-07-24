@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5167,
+  "total_calls": 5171,
   "tiers": {
-    "groq": 5148,
+    "groq": 5152,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T21:15:47.826366+00:00",
-      "tier": "groq",
-      "article": "Daytime Russian strike kills three in Zaporizhzhia"
-    },
-    {
-      "timestamp": "2026-07-21T21:16:19.941013+00:00",
-      "tier": "groq",
-      "article": "How Ukraine Put Russia on the Backfoot"
-    },
-    {
-      "timestamp": "2026-07-21T21:17:13.078391+00:00",
-      "tier": "groq",
-      "article": "Belgorod Reservoir equipment damaged: aftermath of Ukrainian attacks"
-    },
-    {
-      "timestamp": "2026-07-21T21:17:30.829636+00:00",
-      "tier": "groq",
-      "article": "Houthis declare naval blockade of Saudi Arabia"
-    },
     {
       "timestamp": "2026-07-21T23:01:02.581856+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-24T19:33:22.972957+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-24T21:09:30.557994+00:00",
+      "tier": "groq",
+      "article": "Multiple airstrikes reported in city of Hodeidah in western Yemen \u2014 media"
+    },
+    {
+      "timestamp": "2026-07-24T21:10:02.895205+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-24T21:10:19.143586+00:00",
+      "tier": "groq",
+      "article": "Saudi\u2019s strike Yemen\u2019s Houthi-held Hodeidah: Rebel media"
+    },
+    {
+      "timestamp": "2026-07-24T21:10:35.309347+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }

@@ -1,4 +1,44 @@
 {
+  "97208b094b02fb8a8809e2c12911320db691a8cc55bfdcf3aa9e1ccf0f666c1b": {
+    "url": "presstv/200226",
+    "title": "Warplanes Strike Hodeidah Port in Western Yemen",
+    "published": "2026-07-24T21:14:24.146127+00:00"
+  },
+  "b825d2a5763ddbb35db3181e044f6592b80264ca5d8b79a257db7f4e0ebb2926": {
+    "url": "DDGeopolitics/189839",
+    "title": "Trump Dodges War Crimes Allegations in Iran",
+    "published": "2026-07-24T21:13:49.342426+00:00"
+  },
+  "efab14732f31d5f7991c97ae249073b16afb56b6dba85ba99981054d86c35302": {
+    "url": "DDGeopolitics/189840",
+    "title": "Essex Industrial Facility Explosion Rocks England",
+    "published": "2026-07-24T21:12:55.516125+00:00"
+  },
+  "de0dcd2c4e4e624562e3fd009b29d9b671dcf76f34e292b0a0f069b4489c32a5": {
+    "url": "Middle_East_Spectator/35420",
+    "title": "Trump Dodges War Crimes Question in Iran",
+    "published": "2026-07-24T21:12:36.009564+00:00"
+  },
+  "1c8bc18fc9bd8fe5c4593185ef1c7b7fd884415525a889e3f6c5e8d5046a9995": {
+    "url": "thecradlemedia/64963",
+    "title": "Israel Launches Widespread Military Operation in West Bank",
+    "published": "2026-07-24T21:10:42.379138+00:00"
+  },
+  "681d2ceedb920d1411e6e65573c889d078c68264f12d1289ac9966fb992f5271": {
+    "url": "thecradlemedia/64964",
+    "title": "Saudi Warplanes Target Yemen's Hodeidah Port in Airstrikes",
+    "published": "2026-07-24T21:10:37.421341+00:00"
+  },
+  "052c21edef18e6c7e56c55f685b43e4f8304187c2f6f367fdf974dceaa2bdc12": {
+    "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
+    "title": "Saudi\u2019s strike Yemen\u2019s Houthi-held Hodeidah: Rebel media",
+    "published": "2026-07-24T20:27:16+00:00"
+  },
+  "388ab29e8e7a7341b062e7c9ecf29c48739da92596c36d2f373847c8972ee7f8": {
+    "url": "https://tass.com/world/2165067",
+    "title": "Multiple airstrikes reported in city of Hodeidah in western Yemen \u2014 media",
+    "published": "2026-07-24T20:23:00+00:00"
+  },
   "90bda4ee771e8f7c378cd81e5ca3c363ad4875e806e0a83063ed646954a08832": {
     "url": "intelslava/91395",
     "title": "Iran Launches Ballistic Missiles in Operation Nasr 2",
@@ -708,45 +748,5 @@
     "url": "BellumActaNews/175674",
     "title": "Lebanese President Aoun Meets with US President Trump",
     "published": "2026-07-22T23:17:34.634518+00:00"
-  },
-  "803e447c27eafd0464e9c800a62654ff4695683fc5523255a0a28f6f3ded5b6f": {
-    "url": "DDGeopolitics/189705",
-    "title": "Saudi Tanker Hit by Missile in Red Sea",
-    "published": "2026-07-22T23:14:30.999838+00:00"
-  },
-  "057094f4028c5da58492cfe3ff021e4e29f7f5db2f6e8cb986b5436a7c3bb4ba": {
-    "url": "QudsNen/232309",
-    "title": "Israeli Artillery Strikes Southern Lebanon",
-    "published": "2026-07-22T23:13:58.843771+00:00"
-  },
-  "65b0df1e26f869c689fae6c508f88715ebd624d99f5b5fcaa4d33e60ecd84e22": {
-    "url": "QudsNen/232312",
-    "title": "Israeli Forces Deploy Stun Grenades in Jenin's Anza Village",
-    "published": "2026-07-22T23:13:41.677439+00:00"
-  },
-  "b4e887ed98cb037b6499cb28743d781d4b94bd3ea74ffef6bb196e35091b0f1f": {
-    "url": "Middle_East_Spectator/35339",
-    "title": "US Strikes Damaged Drone Amid Ongoing Military Operations",
-    "published": "2026-07-22T23:12:20.275544+00:00"
-  },
-  "d4a428b4becb079dc1dba4276b37eba4423de6635574361ab5d9c2a38ec10645": {
-    "url": "Middle_East_Spectator/35346",
-    "title": "Iran's Parliament Speaker Warns of Uncertain Security in Strait of Hormuz",
-    "published": "2026-07-22T23:12:18.717407+00:00"
-  },
-  "46ce40ea8f02fc1d0e80987714795e7a9c9d1adf6de220e358969c4ee002ef12": {
-    "url": "https://tass.com/world/2163857",
-    "title": "US forces launching another series of strikes against Iran \u2014 Central Command",
-    "published": "2026-07-22T22:42:29+00:00"
-  },
-  "0090688cd361c35a551a36f197db6ae22b278edc86059074b51a20af9f88a79c": {
-    "url": "BellumActaNews/175676",
-    "title": "Yemen's Houthi Group Imposes Maritime Embargo on Saudi Arabia",
-    "published": "2026-07-22T21:24:17.747971+00:00"
-  },
-  "466e707bf5cad1c8b400f3e2b9a215766df1f3407c4c222ad70c24c04d16c7ea": {
-    "url": "BellumActaNews/175677",
-    "title": "US Threatens Enhanced Retaliation Against Iran Over Strait of Hormuz Attacks",
-    "published": "2026-07-22T21:22:13.421891+00:00"
   }
 }
