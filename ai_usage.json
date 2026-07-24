@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5139,
+  "total_calls": 5143,
   "tiers": {
-    "groq": 5120,
+    "groq": 5124,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T02:57:18.034697+00:00",
-      "tier": "groq",
-      "article": "Iran strikes US facilities in Kuwait, Bahrain \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-07-21T02:57:51.257149+00:00",
-      "tier": "groq",
-      "article": "Ukrainian forces strike Belgorod, surrounding area with missiles"
-    },
-    {
-      "timestamp": "2026-07-21T02:58:42.758210+00:00",
-      "tier": "groq",
-      "article": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers"
-    },
-    {
-      "timestamp": "2026-07-21T02:58:58.845048+00:00",
-      "tier": "groq",
-      "article": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech"
-    },
     {
       "timestamp": "2026-07-21T06:34:41.706183+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-23T23:04:07.067571+00:00",
       "tier": "groq",
       "article": "Lavrov reaffirms Russia\u2019s commitment to Alaska agreements at meeting with Rubio"
+    },
+    {
+      "timestamp": "2026-07-24T02:52:42.417867+00:00",
+      "tier": "groq",
+      "article": "Two Palestinians killed as Israel intensifies strikes on Gaza City"
+    },
+    {
+      "timestamp": "2026-07-24T02:53:13.414505+00:00",
+      "tier": "groq",
+      "article": "US launches 13th night of strikes as Iran warns of escalation in the Gulf"
+    },
+    {
+      "timestamp": "2026-07-24T02:53:29.259096+00:00",
+      "tier": "groq",
+      "article": "Heavy explosions rock Iranian city as US strikes continue"
+    },
+    {
+      "timestamp": "2026-07-24T02:53:47.238869+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian urges stronger cooperation between Iran, Pakistan"
     }
   ]
 }
