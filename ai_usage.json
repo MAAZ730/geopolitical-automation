@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5163,
+  "total_calls": 5167,
   "tiers": {
-    "groq": 5144,
+    "groq": 5148,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-21T19:28:19.624795+00:00",
-      "tier": "groq",
-      "article": "Satellite Imagery and Leaks Reveal Damage Caused by Iranian Strikes to US Bases in Erbil and Jordan - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-21T19:28:38.654691+00:00",
-      "tier": "groq",
-      "article": "Iran demonstrates unrivaled strike capability across region"
-    },
-    {
-      "timestamp": "2026-07-21T19:29:10.003410+00:00",
-      "tier": "groq",
-      "article": "Iran demands UN action following US missile strike on Darkhovin nuclear plant"
-    },
-    {
-      "timestamp": "2026-07-21T19:29:28.742929+00:00",
-      "tier": "groq",
-      "article": "Yemen's Houthis announce 'maritime embargo' against Saudi Arabia"
-    },
     {
       "timestamp": "2026-07-21T21:15:47.826366+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-24T17:45:24.926089+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:08.713609+00:00",
+      "tier": "groq",
+      "article": "Saudi Arabia confirms Yemeni attack on two oil tankers"
+    },
+    {
+      "timestamp": "2026-07-24T19:31:41.674025+00:00",
+      "tier": "groq",
+      "article": "More deaths and destruction reported as US keeps targeting Iran\u2019s civilians, vital infrastructure"
+    },
+    {
+      "timestamp": "2026-07-24T19:32:30.652939+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: What is known about Russian forces\u2019 group strikes on Ukrainian ports"
+    },
+    {
+      "timestamp": "2026-07-24T19:33:22.972957+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
