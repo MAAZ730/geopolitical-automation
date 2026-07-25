@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5199,
+  "total_calls": 5203,
   "tiers": {
-    "groq": 5180,
+    "groq": 5184,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-22T21:14:52.706087+00:00",
-      "tier": "groq",
-      "article": "During Third Imposed War, a Massive Enemy Data Center in UAE Was Destroyed by Iranian Strikes: General - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-22T21:15:27.805857+00:00",
-      "tier": "groq",
-      "article": "Death toll in Ukrainian attack on Russia\u2019s Krasnodar Region rises to two"
-    },
-    {
-      "timestamp": "2026-07-22T21:16:13.765872+00:00",
-      "tier": "groq",
-      "article": "Pentagon: Missing US service member in Jordan presumed dead"
-    },
-    {
-      "timestamp": "2026-07-22T21:16:31.275031+00:00",
-      "tier": "groq",
-      "article": "IRGC destroys US tactical radar systems near Kuwait\u2019s Ali Al Salem base"
-    },
     {
       "timestamp": "2026-07-22T23:10:33.796469+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T15:07:52.454523+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T17:03:08.238082+00:00",
+      "tier": "groq",
+      "article": "Russian military strike ports, vessels used in Ukrainian military\u2019s interests"
+    },
+    {
+      "timestamp": "2026-07-25T17:03:42.229368+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-25T17:03:58.876213+00:00",
+      "tier": "groq",
+      "article": "\"I pulled my 11-year-old brother from the burning car, hoping he was still alive, but...\""
+    },
+    {
+      "timestamp": "2026-07-25T17:04:50.109428+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
