@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5191,
+  "total_calls": 5195,
   "tiers": {
-    "groq": 5172,
+    "groq": 5176,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-22T17:26:24.374496+00:00",
-      "tier": "groq",
-      "article": "Iran expands retaliatory campaign against Satanic enemy"
-    },
-    {
-      "timestamp": "2026-07-22T17:27:06.972289+00:00",
-      "tier": "groq",
-      "article": "Iran claims US radars suffered a \u2018dark night\u2019 of strikes in Kuwait and Jordan"
-    },
-    {
-      "timestamp": "2026-07-22T17:27:27.400426+00:00",
-      "tier": "groq",
-      "article": "US airstrikes kill 53, wound 592 in Iran"
-    },
-    {
-      "timestamp": "2026-07-22T17:27:46.810572+00:00",
-      "tier": "groq",
-      "article": "The geography of the strait speaks for itself"
-    },
     {
       "timestamp": "2026-07-22T19:27:50.083440+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T11:18:13.214408+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T13:40:50.795357+00:00",
+      "tier": "groq",
+      "article": "Zaporozhye Region governor calls Ukrainian strike on recreation centers outrageous crime"
+    },
+    {
+      "timestamp": "2026-07-25T13:41:24.662225+00:00",
+      "tier": "groq",
+      "article": "Yemeni missiles ignite Saudi Aramco&#039;s $12bn Jazan complex"
+    },
+    {
+      "timestamp": "2026-07-25T13:42:11.648424+00:00",
+      "tier": "groq",
+      "article": "US warned Ukraine against strikes on oil infrastructure in Black Sea \u2014 WSJ"
+    },
+    {
+      "timestamp": "2026-07-25T13:43:04.011514+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
