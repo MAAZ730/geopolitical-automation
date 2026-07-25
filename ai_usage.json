@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5211,
+  "total_calls": 5215,
   "tiers": {
-    "groq": 5192,
+    "groq": 5196,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T06:35:04.492264+00:00",
-      "tier": "groq",
-      "article": "One civilian killed, nine injured in Ukrainian attack on Belgorod Region over past day"
-    },
-    {
-      "timestamp": "2026-07-23T06:35:39.015643+00:00",
-      "tier": "groq",
-      "article": "US attacks Iran for 12th night as the House approves defence spending"
-    },
-    {
-      "timestamp": "2026-07-23T06:36:29.443060+00:00",
-      "tier": "groq",
-      "article": "Renewed US Aggression Claims Civilian Lives as Missiles Rain on Southern Iran - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-23T06:36:48.490706+00:00",
-      "tier": "groq",
-      "article": "Backed by France, Macron sees Germany as nuclear-deterrence \u2018vanguard\u2019 in Europe"
-    },
     {
       "timestamp": "2026-07-23T10:29:08.821671+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T21:00:41.578583+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T23:00:17.269135+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-25T23:00:56.738955+00:00",
+      "tier": "groq",
+      "article": "The empire strikes The Hague"
+    },
+    {
+      "timestamp": "2026-07-25T23:01:49.844316+00:00",
+      "tier": "groq",
+      "article": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks"
+    },
+    {
+      "timestamp": "2026-07-25T23:02:06.085062+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
