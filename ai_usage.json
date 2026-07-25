@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5183,
+  "total_calls": 5187,
   "tiers": {
-    "groq": 5164,
+    "groq": 5168,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-22T10:30:33.814548+00:00",
-      "tier": "groq",
-      "article": "Seventeen injured in Ukrainian drone strike on apartment building in Crimea\u2019s Yalta"
-    },
-    {
-      "timestamp": "2026-07-22T10:31:07.170499+00:00",
-      "tier": "groq",
-      "article": "Two people injured in Ukrainian attacks on Russia\u2019s borderline Bryansk Region"
-    },
-    {
-      "timestamp": "2026-07-22T10:31:53.303678+00:00",
-      "tier": "groq",
-      "article": "VIDEO: Funeral of martyrs of Shajare Tayyebeh School in Minab"
-    },
-    {
-      "timestamp": "2026-07-22T10:32:44.054668+00:00",
-      "tier": "groq",
-      "article": "Future of AI depends on sharing innovation, not restriction"
-    },
     {
       "timestamp": "2026-07-22T14:04:24.674576+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T06:24:38.065402+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T09:54:55.945008+00:00",
+      "tier": "groq",
+      "article": "West Bank: Wide-Scale Israeli Raid in Nablus\u2019 Tell, Day after Deadly Settler Attack - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-25T09:55:34.792870+00:00",
+      "tier": "groq",
+      "article": "Top comdr: One US soldier will die for every Iranian civilian killed"
+    },
+    {
+      "timestamp": "2026-07-25T09:56:21.593614+00:00",
+      "tier": "groq",
+      "article": "Two civilians die, two wounded after Ukraine\u2019s attacks on Belgorod Region"
+    },
+    {
+      "timestamp": "2026-07-25T09:57:14.621301+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
