@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5195,
+  "total_calls": 5199,
   "tiers": {
-    "groq": 5176,
+    "groq": 5180,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-22T19:27:50.083440+00:00",
-      "tier": "groq",
-      "article": "34 mothers lay their children's remains to rest again"
-    },
-    {
-      "timestamp": "2026-07-22T19:28:28.736659+00:00",
-      "tier": "groq",
-      "article": "Adviser to Iran\u2019s Supreme Leader on political and international affairs Ali Akbar Velayati: The Islamic Republic of Iran has entered a new phase of deterrence, warning any perception of a low-cost strike on Iran is a mistake whose repercussions could extend far beyond the military field - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-22T19:29:14.907417+00:00",
-      "tier": "groq",
-      "article": "War on Iran: Hegseth wants $70B more to keep fighting"
-    },
-    {
-      "timestamp": "2026-07-22T19:29:31.072279+00:00",
-      "tier": "groq",
-      "article": "Lebanon\u2019s Hezbollah vows continued support for Hamas"
-    },
     {
       "timestamp": "2026-07-22T21:14:52.706087+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T13:43:04.011514+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T15:06:14.840227+00:00",
+      "tier": "groq",
+      "article": "Yemeni army strikes Saudi Aramco facilities in twin operations"
+    },
+    {
+      "timestamp": "2026-07-25T15:06:48.577252+00:00",
+      "tier": "groq",
+      "article": "Israel martyrs 6 Palestinians as Gaza death toll hits 73,317"
+    },
+    {
+      "timestamp": "2026-07-25T15:07:35.172342+00:00",
+      "tier": "groq",
+      "article": "Targeted attacks to continue until enemy's total surrender"
+    },
+    {
+      "timestamp": "2026-07-25T15:07:52.454523+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
