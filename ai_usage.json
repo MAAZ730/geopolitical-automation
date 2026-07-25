@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5187,
+  "total_calls": 5191,
   "tiers": {
-    "groq": 5168,
+    "groq": 5172,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-22T14:04:24.674576+00:00",
-      "tier": "groq",
-      "article": "\"I Will Rebuild You Again, My Homeland\": Iranian singer performs on bridge bombed by US"
-    },
-    {
-      "timestamp": "2026-07-22T14:05:00.232900+00:00",
-      "tier": "groq",
-      "article": "Damage Reported in US Base as Iran\u2019s IRGC Declares New Retaliatory Strike - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-22T14:05:19.966663+00:00",
-      "tier": "groq",
-      "article": "Advanced Iranian Missile Capacity Poses \u2018Problem\u2019 for US: CBS Report - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-22T14:06:00.383811+00:00",
-      "tier": "groq",
-      "article": "IRGC Ground Force commander visits Hormuz Strait"
-    },
     {
       "timestamp": "2026-07-22T17:26:24.374496+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T09:57:14.621301+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T11:16:33.835724+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-25T11:17:07.346720+00:00",
+      "tier": "groq",
+      "article": "VIDEO: Lightning strikes Chinese rocket during launch"
+    },
+    {
+      "timestamp": "2026-07-25T11:17:54.574649+00:00",
+      "tier": "groq",
+      "article": "Iran, Oman discuss Hormuz security after US strikes"
+    },
+    {
+      "timestamp": "2026-07-25T11:18:13.214408+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
