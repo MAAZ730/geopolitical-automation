@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5207,
+  "total_calls": 5211,
   "tiers": {
-    "groq": 5188,
+    "groq": 5192,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T03:01:08.189177+00:00",
-      "tier": "groq",
-      "article": "Ukrainian troops shell DPR settlements 28 times in 24 hours firing 30 rounds of ammunition"
-    },
-    {
-      "timestamp": "2026-07-23T03:01:40.952622+00:00",
-      "tier": "groq",
-      "article": "Army drones hit US bases in Jordan, Bahrain in latest phase of Operation Thunder"
-    },
-    {
-      "timestamp": "2026-07-23T03:02:27.043696+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s defense doctrine follows \u2018eye for an eye\u2019 principle \u2014 foreign minister"
-    },
-    {
-      "timestamp": "2026-07-23T03:02:46.679644+00:00",
-      "tier": "groq",
-      "article": "Iran FM dismisses French allegations over its embassy staff"
-    },
     {
       "timestamp": "2026-07-23T06:35:04.492264+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T19:16:14.759722+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T20:59:02.246098+00:00",
+      "tier": "groq",
+      "article": "Head of Hamas-led police in northern Gaza killed by Israeli strike"
+    },
+    {
+      "timestamp": "2026-07-25T20:59:38.357620+00:00",
+      "tier": "groq",
+      "article": "Iran condemns Ukrainian strike on its commercial ship in Caspian Sea"
+    },
+    {
+      "timestamp": "2026-07-25T21:00:25.186830+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-25T21:00:41.578583+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
