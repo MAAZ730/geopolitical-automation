@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5179,
+  "total_calls": 5183,
   "tiers": {
-    "groq": 5160,
+    "groq": 5164,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-22T06:32:47.068718+00:00",
-      "tier": "groq",
-      "article": "One killed, 10 others injured in massive drone attack on Russia\u2019s Krasnodar Region"
-    },
-    {
-      "timestamp": "2026-07-22T06:33:23.277225+00:00",
-      "tier": "groq",
-      "article": "IRGC Strikes at the Heart of US Air Defense, Taking Out Multiple Kuwaiti Radar Sites - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-22T06:33:45.280292+00:00",
-      "tier": "groq",
-      "article": "Iran Army targets US command centre in Kuwait"
-    },
-    {
-      "timestamp": "2026-07-22T06:34:18.520049+00:00",
-      "tier": "groq",
-      "article": "Xi offers four observations on AI development, governance"
-    },
     {
       "timestamp": "2026-07-22T10:30:33.814548+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T02:55:38.899513+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T06:23:40.065513+00:00",
+      "tier": "groq",
+      "article": "Yemen launches retaliatory attacks on Saudi Arabia"
+    },
+    {
+      "timestamp": "2026-07-25T06:23:58.307846+00:00",
+      "tier": "groq",
+      "article": "US attack on Iranian rescue boats amounts to war crime"
+    },
+    {
+      "timestamp": "2026-07-25T06:24:17.204481+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike cargo ship, two tugboats at Nikolayev seaport"
+    },
+    {
+      "timestamp": "2026-07-25T06:24:38.065402+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
