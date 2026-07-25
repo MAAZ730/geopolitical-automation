@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5203,
+  "total_calls": 5207,
   "tiers": {
-    "groq": 5184,
+    "groq": 5188,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-22T23:10:33.796469+00:00",
-      "tier": "groq",
-      "article": "US forces launching another series of strikes against Iran \u2014 Central Command"
-    },
-    {
-      "timestamp": "2026-07-22T23:11:05.213601+00:00",
-      "tier": "groq",
-      "article": "Iran warns US of \u2018powerful\u2019 response if nuclear sites attacked"
-    },
-    {
-      "timestamp": "2026-07-22T23:11:52.941511+00:00",
-      "tier": "groq",
-      "article": "Kiev has no military commanders who can defeat Russia \u2014 Zaporozhye official"
-    },
-    {
-      "timestamp": "2026-07-22T23:12:12.354807+00:00",
-      "tier": "groq",
-      "article": "Iran, Pakistan emphasize strengthening regional security"
-    },
     {
       "timestamp": "2026-07-23T03:01:08.189177+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T17:04:50.109428+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-25T19:14:28.129187+00:00",
+      "tier": "groq",
+      "article": "Iran urges UN action, calls US strike on rescue vessels a \u2018war crime\u2019"
+    },
+    {
+      "timestamp": "2026-07-25T19:15:11.536532+00:00",
+      "tier": "groq",
+      "article": "How Yemen trapped Saudi Arabia in a double chokehold"
+    },
+    {
+      "timestamp": "2026-07-25T19:15:58.558304+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-25T19:16:14.759722+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
