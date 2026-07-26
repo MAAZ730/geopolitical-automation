@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5215,
+  "total_calls": 5219,
   "tiers": {
-    "groq": 5196,
+    "groq": 5200,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T10:29:08.821671+00:00",
-      "tier": "groq",
-      "article": "Nearly 1,500 killed in Ukrainian attacks across Russia since 2022 \u2014 top investigator"
-    },
-    {
-      "timestamp": "2026-07-23T10:29:40.967086+00:00",
-      "tier": "groq",
-      "article": "Latest US attacks target several locations across Iran, leaving two dead and 11 injured"
-    },
-    {
-      "timestamp": "2026-07-23T10:29:58.200662+00:00",
-      "tier": "groq",
-      "article": "THAAD, Patriot, C-RAM Systems Destroyed in IRGC Attacks on US Base in Jordan - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-23T10:30:38.664683+00:00",
-      "tier": "groq",
-      "article": "Production of missiels, drones continue while ops. underway"
-    },
     {
       "timestamp": "2026-07-23T14:10:23.107703+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-25T23:02:06.085062+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T03:19:47.620100+00:00",
+      "tier": "groq",
+      "article": "Iran condemns Ukraine over \u2018reckless\u2019 cargo ship attack"
+    },
+    {
+      "timestamp": "2026-07-26T03:20:25.673960+00:00",
+      "tier": "groq",
+      "article": "Widening war with Iran threatens US with depletion of air defense missile stocks \u2014 NYT"
+    },
+    {
+      "timestamp": "2026-07-26T03:21:12.427211+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-26T03:22:04.841319+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }

@@ -1,4 +1,39 @@
 {
+  "dc04903edd7a96ae76b5f545eb13a49cda40656d91e27983d4381f8d35d99c96": {
+    "url": "intelslava/91502",
+    "title": "Kyiv Sviatoshynskyi District Hit by Russian Missile Strike",
+    "published": "2026-07-26T03:27:20.556977+00:00"
+  },
+  "f5dfbd389877a7baa8d2ed3b359ca105856ad6185be0095926a34cb18e4c7283": {
+    "url": "intelslava/91503",
+    "title": "Russia-Ukraine Conflict: Kyiv Under Missile Attack",
+    "published": "2026-07-26T03:27:04.587147+00:00"
+  },
+  "dd0a9615d825c4f2ce3ebb69126026dccf70fe214bdd0c9f146b72749273a08b": {
+    "url": "intelslava/91510",
+    "title": "Yemen Conflict: Clashes Erupt in Al Jawf Governorate",
+    "published": "2026-07-26T03:26:36.903645+00:00"
+  },
+  "c51d11649cfc9f66e9c50956a83d7070183284ef839e4bb52067ce797b0bcb41": {
+    "url": "DDGeopolitics/189930",
+    "title": "Iran Threatens Britain with Military Action if it Joins US in Conflict",
+    "published": "2026-07-26T03:25:58.106721+00:00"
+  },
+  "fc06695d77bbc0b3c3ded808c6129fa5090b5398260a502d10d564afbc1ea8b7": {
+    "url": "DDGeopolitics/189931",
+    "title": "Ukraine Conflict Reaches Critical Point Amid Escalating Violence",
+    "published": "2026-07-26T03:25:24.094084+00:00"
+  },
+  "9b99e62e60c771b9cb021ceb0bead6c99321aefc3ec4d9ca367070b88118c12b": {
+    "url": "QudsNen/232763",
+    "title": "Israeli Airstrike Kills Palestinian in Khan Younis",
+    "published": "2026-07-26T03:25:21.755851+00:00"
+  },
+  "f783a5b14b2b61b14d6a078bd99684fe4c529324d31e569b2a088de80a25f557": {
+    "url": "https://tass.com/world/2165389",
+    "title": "Widening war with Iran threatens US with depletion of air defense missile stocks \u2014 NYT",
+    "published": "2026-07-26T00:19:23+00:00"
+  },
   "c89ebf15474ea24fd4dd073e700fccfdc7344ca3062566beaf6762076b8b8a6d": {
     "url": "DDGeopolitics/189928",
     "title": "Berlin Pride Parade Attacked: Car Rams into Crowd, Multiple Injuries Reported",
@@ -63,6 +98,11 @@
     "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
     "title": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
     "published": "2026-07-25T20:00:43+00:00"
+  },
+  "44b0a029f0ea7930dc160a663045d72041a9348d85f9d5f169e731b63305b04c": {
+    "url": "https://www.rt.com/news/643477-ukraine-attacks-iranian-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran condemns Ukraine over \u2018reckless\u2019 cargo ship attack",
+    "published": "2026-07-25T19:48:17+00:00"
   },
   "41a514e64596912769da2a10bb41af725f2bb55110259c7f4ab31347ba5b678a": {
     "url": "https://tass.com/world/2165333",
@@ -708,45 +748,5 @@
     "url": "https://en.irna.ir/news/86217917/More-deaths-and-destruction-reported-as-US-keeps-targeting-Iran-s",
     "title": "More deaths and destruction reported as US keeps targeting Iran\u2019s civilians, vital infrastructure",
     "published": "2026-07-24T08:15:22+00:00"
-  },
-  "586b5c2e169ee092945ea3955c6e421d622c83c475cd318fb2a15ee11cfe905a": {
-    "url": "https://tass.com/politics/2164583",
-    "title": "FACTBOX: What is known about Russian forces\u2019 group strikes on Ukrainian ports",
-    "published": "2026-07-24T08:03:49+00:00"
-  },
-  "7be2e77051989040c7d323f48389a0976b40a06a7f0a40ca685f316c1e3ba822": {
-    "url": "https://tass.com/politics/2164581",
-    "title": "Wildberries warehouses in Russia targeted again in overnight Ukrainian drone attacks",
-    "published": "2026-07-24T07:58:33+00:00"
-  },
-  "3cf376cef3b0660e51926c1f52694752556b0369c9ce9e391b7a1d31d71a7aaa": {
-    "url": "https://english.almanar.com.lb/article/107837/",
-    "title": "American Aggression Claims Lives in Ahvaz as US Strikes Enter 13th Consecutive Night - Al-Manar TV Lebanon",
-    "published": "2026-07-24T06:42:23+00:00"
-  },
-  "bebda5e873986db27277706b2d3982997a18b09920ab8a3f841b8715811e44f7": {
-    "url": "BellumActaNews/175764",
-    "title": "US Conducts 11th Wave of Airstrikes Against Iranian Targets",
-    "published": "2026-07-24T06:37:04.080555+00:00"
-  },
-  "96fdef2c08447440a6e883d5b4cf658019948846d9a9263065714eada902e501": {
-    "url": "BellumActaNews/175766",
-    "title": "US Air Force Targets Iranian Ammunition Depots in Precision Strike",
-    "published": "2026-07-24T06:36:02.061127+00:00"
-  },
-  "3a174cdfe03108358218c625ae40b6673eeee546d290b1182e6ba0400dce26d6": {
-    "url": "DDGeopolitics/189761",
-    "title": "Ukraine Accused of Buying Influence with American Blogger's Visit",
-    "published": "2026-07-24T06:34:15.072347+00:00"
-  },
-  "f5deaa7474b143752be39ffac6beffd9401623975a86af0e99411318e61d1f1e": {
-    "url": "QudsNen/232481",
-    "title": "Settlers Clash with Palestinians in Tell Village",
-    "published": "2026-07-24T06:34:11.837140+00:00"
-  },
-  "917b4529e0fa128d671a71a79b11c6905ed190c6c281bd0df19bf512f1c73cac": {
-    "url": "QudsNen/232483",
-    "title": "Palestinians Injured in Israeli Raid on Tell Village",
-    "published": "2026-07-24T06:33:42.250884+00:00"
   }
 }
