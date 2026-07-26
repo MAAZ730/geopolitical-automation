@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5235,
+  "total_calls": 5239,
   "tiers": {
-    "groq": 5216,
+    "groq": 5220,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T23:01:45.591450+00:00",
-      "tier": "groq",
-      "article": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf"
-    },
-    {
-      "timestamp": "2026-07-23T23:02:29.761426+00:00",
-      "tier": "groq",
-      "article": "Lavrov-Rubio meeting: Ukraine war, dead Anchorage plan, renewed bilateral ties (VIDEO)"
-    },
-    {
-      "timestamp": "2026-07-23T23:03:18.788973+00:00",
-      "tier": "groq",
-      "article": "Houthis claim strikes on Saudi oil tankers in Red Sea"
-    },
-    {
-      "timestamp": "2026-07-23T23:04:07.067571+00:00",
-      "tier": "groq",
-      "article": "Lavrov reaffirms Russia\u2019s commitment to Alaska agreements at meeting with Rubio"
-    },
     {
       "timestamp": "2026-07-24T02:52:42.417867+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T15:12:07.403130+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T17:07:54.905785+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s attack on Iranian vessel \u2018cannot go unanswered\u2019: Araghchi"
+    },
+    {
+      "timestamp": "2026-07-26T17:08:26.904203+00:00",
+      "tier": "groq",
+      "article": "Israeli military getting prepared to expand operation in Nablus in West Bank \u2014 spokesman"
+    },
+    {
+      "timestamp": "2026-07-26T17:09:14.592203+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-26T17:09:31.046317+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }

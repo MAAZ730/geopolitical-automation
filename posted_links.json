@@ -1,4 +1,44 @@
 {
+  "4c213b38e051b52eb8acd6e0f3aee6cc4ed53e8eca4c1d74f3b1c37f865e77b1": {
+    "url": "QudsNen/232868",
+    "title": "Israeli Forces Detain Palestinians in Raid on Beit Furik",
+    "published": "2026-07-26T17:14:33.292506+00:00"
+  },
+  "6343f926d3a58c0d6a065225c4a9240339ec92bcc65c8ad53cbda941e4d31a24": {
+    "url": "QudsNen/232870",
+    "title": "Tear Gas Deployed During Israeli Raid Near Jalazone Refugee Camp",
+    "published": "2026-07-26T17:14:00.357556+00:00"
+  },
+  "e6735bd97b58f65e4105e29516378f92793a0b6272e0f02e3d8852c4a57217f5": {
+    "url": "thecradlemedia/65039",
+    "title": "US Ambassador Denies Military Stockpiles Depleted Amid Ongoing Conflicts",
+    "published": "2026-07-26T17:13:20.300558+00:00"
+  },
+  "5778ad8a6506f63e18914aa0bb82050934cb2fc7f62a52db1a079c6c83eb23a1": {
+    "url": "thecradlemedia/65040",
+    "title": "UN Chief Calls on Israel to Halt Golan Heights 'Violations'",
+    "published": "2026-07-26T17:10:22.504456+00:00"
+  },
+  "768e9f20aa254ae03fa03632f0e6f1e1ca35388247f27c5add016454c148297c": {
+    "url": "thecradlemedia/65041",
+    "title": "Israeli Military Operations Cause Explosions and Artillery Strikes in Southern Lebanon",
+    "published": "2026-07-26T17:10:21.328591+00:00"
+  },
+  "287a384017ca4788451323a86a370c852124b05749d2283d92f3007f3c7ea849": {
+    "url": "thecradlemedia/65042",
+    "title": "Israel Strikes Vehicle in Central Gaza, Killing Two Palestinians",
+    "published": "2026-07-26T17:10:20.318382+00:00"
+  },
+  "593413c4dfe63c5ba5d4b0e10d129e7497d344b6a9ac924179edaf5bcf16cd69": {
+    "url": "https://en.irna.ir/news/86220215/Ukraine-s-attack-on-Iranian-vessel-cannot-go-unanswered-Araghchi",
+    "title": "Ukraine\u2019s attack on Iranian vessel \u2018cannot go unanswered\u2019: Araghchi",
+    "published": "2026-07-26T16:53:39+00:00"
+  },
+  "5b73a8239f8d2a58941905235287b41b99d3ce2ea3fd52b92fabbb60d085567e": {
+    "url": "https://tass.com/world/2165575",
+    "title": "Israeli military getting prepared to expand operation in Nablus in West Bank \u2014 spokesman",
+    "published": "2026-07-26T16:25:25+00:00"
+  },
   "f858e42a84c97d03a75abbdfef840aaf2dcd7a4ef49578a4855ff218da38a8b4": {
     "url": "intelslava/91518",
     "title": "Drone Strike Ignites Fire at Krivoy Rog Shopping Center",
@@ -708,45 +748,5 @@
     "url": "CensoredMen/216",
     "title": "Iranian Missile Strike on US Military Facility in Region",
     "published": "2026-07-24T19:36:04.778728+00:00"
-  },
-  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
-    "url": "CensoredMen/222",
-    "title": "US Forces Enforce Blockade Against Iran",
-    "published": "2026-07-24T19:35:36.256552+00:00"
-  },
-  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
-    "url": "CensoredMen/229",
-    "title": "Ukraine Targets Russian E-commerce Giant's Warehouse in Nevinnomyssk",
-    "published": "2026-07-24T19:34:37.052221+00:00"
-  },
-  "0488cd51b78357f0a5d970d3f6516569f6aad8bbf44a995de793669b81131bb7": {
-    "url": "thecradlemedia/64947",
-    "title": "Kuwait Deploys Air Defenses Against Hostile Drone Threats",
-    "published": "2026-07-24T19:33:31.272255+00:00"
-  },
-  "fc911b3857c0a5a50cac6ac292614f09728eae6f0cea142a6dc88a50761e4dc7": {
-    "url": "thecradlemedia/64961",
-    "title": "Iran Rebuilds Military Sites After US-Israeli Attacks",
-    "published": "2026-07-24T19:33:29.152927+00:00"
-  },
-  "aed518448f9e611236c13ee0ecbaf328a025978489cba7305dc5c0593c83fd3d": {
-    "url": "militarywave/24502",
-    "title": "US Drops Atomic Bomb on Hiroshima 81 Years Ago",
-    "published": "2026-07-24T17:50:12.966069+00:00"
-  },
-  "94402cc8da18ce2b3bd61e776867b4f005d96eb12fdb6345cb507fe117f72d10": {
-    "url": "BellumActaNews/175778",
-    "title": "US Airbridge to Middle East Resumes Amid Iran Tensions",
-    "published": "2026-07-24T17:48:57.246525+00:00"
-  },
-  "15ad016707c17167daf5cbda39119eba1f604c4e19d15877a909c740bf3539fb": {
-    "url": "Middle_East_Spectator/35409",
-    "title": "Iran Releases Footage of Missile Strikes on US Bases in Region",
-    "published": "2026-07-24T17:47:52.574000+00:00"
-  },
-  "dee65f931dc2c40f438cee19f4b4896a61184de98a5b4d82b955a98d85daf488": {
-    "url": "Middle_East_Spectator/35411",
-    "title": "Iran's Drone Base on Persian Gulf Coastline Raises Concerns",
-    "published": "2026-07-24T17:46:23.021335+00:00"
   }
 }
