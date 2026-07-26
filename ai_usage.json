@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5219,
+  "total_calls": 5223,
   "tiers": {
-    "groq": 5200,
+    "groq": 5204,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T14:10:23.107703+00:00",
-      "tier": "groq",
-      "article": "Several killed as Ukraine, Russia trade attacks deep behind the front line"
-    },
-    {
-      "timestamp": "2026-07-23T14:11:10.579724+00:00",
-      "tier": "groq",
-      "article": "'What was their crime?': BBC visits Iran school in Minab where strike killed 120 children"
-    },
-    {
-      "timestamp": "2026-07-23T14:12:03.935363+00:00",
-      "tier": "groq",
-      "article": "Aftermath of Ukrainian drone attack on Russian regions, boy killed in Voronezh Region"
-    },
-    {
-      "timestamp": "2026-07-23T14:12:49.537235+00:00",
-      "tier": "groq",
-      "article": "Yemen closes the other gate: Bab al-Mandab turns against Riyadh"
-    },
     {
       "timestamp": "2026-07-23T17:28:20.930604+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T03:22:04.841319+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T06:41:46.508878+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-26T06:42:19.274820+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s top security official vows continued strikes until enemy\u2019s \u2018complete surrender\u2019"
+    },
+    {
+      "timestamp": "2026-07-26T06:42:37.092198+00:00",
+      "tier": "groq",
+      "article": "Iran condemns terrorist attack in Pakistan"
+    },
+    {
+      "timestamp": "2026-07-26T06:43:18.845241+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }

@@ -1,4 +1,39 @@
 {
+  "a88adc69a93f4c1c6d0474f0ffee58f3d1f5b95560e3f0d2ba52e5d409a4e862": {
+    "url": "BellumActaNews/175825",
+    "title": "Ukraine Launches Strikes Against Russian Arms Supplies",
+    "published": "2026-07-26T06:51:18.468088+00:00"
+  },
+  "b0fc24e17df8d6d68307f9435e05366584ad5d229bcb21ab220eff55f2c04af8": {
+    "url": "DDGeopolitics/189959",
+    "title": "Russia Destroys Gas Stations on Ukraine Border",
+    "published": "2026-07-26T06:51:15.835401+00:00"
+  },
+  "a32f52d182df968e1fc3d376fb2bc7fbe3b5786133d1bb8265f93023a0d3ebfb": {
+    "url": "DDGeopolitics/189960",
+    "title": "Russian Strikes Devastate Gas Stations on Ukraine Border",
+    "published": "2026-07-26T06:48:27.901734+00:00"
+  },
+  "d2d43f30d84cfcf40fb23b06361cd823a6f8bff1c4e6145003cae0ea07a27e85": {
+    "url": "QudsNen/232768",
+    "title": "Israeli Troops Graffiti Homes During West Bank Raid",
+    "published": "2026-07-26T06:48:06.967885+00:00"
+  },
+  "f4b71e94a8b437ac349296ac6e78a6eeed5598ae02b9bdbe4534bb400046b02a": {
+    "url": "QudsNen/232776",
+    "title": "Israeli Settlers Assault Palestinians in Huwwara",
+    "published": "2026-07-26T06:48:05.634246+00:00"
+  },
+  "5af83e3d338c9bf2debbd7cc4ed7a6a879a5d73a2002aee7e1637163b94ef7c2": {
+    "url": "QudsNen/232779",
+    "title": "Israeli Settlers Foiled in Attempt to Torch Palestinian Home in Beit Furik",
+    "published": "2026-07-26T06:46:57.712076+00:00"
+  },
+  "00ce4310cc728878c37c20b880922f1f9753111c417a3bd50a2696f8a82c996f": {
+    "url": "https://en.mehrnews.com/news/246533/Iran-condemns-terrorist-attack-in-Pakistan",
+    "title": "Iran condemns terrorist attack in Pakistan",
+    "published": "2026-07-26T04:48:52+00:00"
+  },
   "dc04903edd7a96ae76b5f545eb13a49cda40656d91e27983d4381f8d35d99c96": {
     "url": "intelslava/91502",
     "title": "Kyiv Sviatoshynskyi District Hit by Russian Missile Strike",
@@ -273,6 +308,11 @@
     "url": "https://tass.com/world/2165201",
     "title": "US warned Ukraine against strikes on oil infrastructure in Black Sea \u2014 WSJ",
     "published": "2026-07-25T12:33:38+00:00"
+  },
+  "72a5854473a7ecd174bba198f321030f5667a1567e21ea45c3738b93b02af39e": {
+    "url": "https://en.irna.ir/news/86218978/Iran-s-top-security-official-vows-continued-strikes-until-enemy-s",
+    "title": "Iran\u2019s top security official vows continued strikes until enemy\u2019s \u2018complete surrender\u2019",
+    "published": "2026-07-25T12:29:59+00:00"
   },
   "0b944e2e9f265d6e69fbc606067d87f4f5d2337e5f3fa152bf549264ae88801e": {
     "url": "https://thecradle.co/articles-id/39002",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/64908",
     "title": "US-Iran Conflict Escalates as Multiple Strikes Rock Middle East",
     "published": "2026-07-24T10:27:19.086743+00:00"
-  },
-  "41f41f566379fe56c41f4eb11c2182c21d166b0cba72e1984de69e4443770e68": {
-    "url": "thecradlemedia/64911",
-    "title": "IRGC Warns Civilians to Stay Away from US Military Hideouts in Region",
-    "published": "2026-07-24T10:25:14.034348+00:00"
-  },
-  "01433c9d18e9c6e680bd7271a7798c9b557275c47029c0706e77adab62d758de": {
-    "url": "thecradlemedia/64913",
-    "title": "Saudi-US Nuclear Deal Sparks Normalization Speculation",
-    "published": "2026-07-24T10:25:03.136387+00:00"
-  },
-  "fbc2c1aaa296f515964a4f5ad3975a7a9eab89dd6fc07126d6aef52b79f7701c": {
-    "url": "https://english.almanar.com.lb/article/107947/",
-    "title": "Hamas: Intensified Israeli Strikes Undermine Ceasefire in Gaza - Al-Manar TV Lebanon",
-    "published": "2026-07-24T10:18:13+00:00"
-  },
-  "898c2a25a8814910bc80924b82defd231d763fd85cc56823a9e6e9c8658a595c": {
-    "url": "https://tass.com/defense/2164643",
-    "title": "Ukrainian counterattack by ex-convicts fails in Kharkov Region \u2014 Russian defense source",
-    "published": "2026-07-24T09:49:45+00:00"
-  },
-  "d911c232b35dd59defdfbbcb0c2eee1b2e9907fca1bd28f88913ef9dc34d74cc": {
-    "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
-    "title": "Israel launches clampdown after deadly clash in occupied West Bank",
-    "published": "2026-07-24T09:35:39+00:00"
-  },
-  "c91343e4e700e48c49f0e6eeafd037fa1dfe634e59cdd588fe387e96bbfa53c0": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-    "title": "Major fire after Ukrainian strike on St Petersburg warehouse",
-    "published": "2026-07-24T08:42:07+00:00"
-  },
-  "cf5b4197a05db5c63454a5bf811e9cd2fe84e923bb09f18702278169a86455bc": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
-    "title": "US attacks Iran for 13th consecutive night",
-    "published": "2026-07-24T08:39:53+00:00"
-  },
-  "0893df6cd2139f95344cb3daa7c87eaedd8d3702bd19416e18f91b18ecbee3ce": {
-    "url": "https://en.irna.ir/news/86217917/More-deaths-and-destruction-reported-as-US-keeps-targeting-Iran-s",
-    "title": "More deaths and destruction reported as US keeps targeting Iran\u2019s civilians, vital infrastructure",
-    "published": "2026-07-24T08:15:22+00:00"
   }
 }
