@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5231,
+  "total_calls": 5235,
   "tiers": {
-    "groq": 5212,
+    "groq": 5216,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T21:10:20.048613+00:00",
-      "tier": "groq",
-      "article": "Iran&#039;s &#039;eye for an eye&#039; strikes on US bases in Kuwait, Jordan destroy Patriot system, drone facilities"
-    },
-    {
-      "timestamp": "2026-07-23T21:10:51.057034+00:00",
-      "tier": "groq",
-      "article": "Tehran condemns UK decision to grant US access to military bases, says Britain complicit in aggression"
-    },
-    {
-      "timestamp": "2026-07-23T21:11:07.181304+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike over two dozen vessels carrying cargoes for Ukraine since July 11"
-    },
-    {
-      "timestamp": "2026-07-23T21:11:26.498025+00:00",
-      "tier": "groq",
-      "article": "US masking unsavory actions with myth of Russian threat in Mexico \u2014 Russian embassy"
-    },
     {
       "timestamp": "2026-07-23T23:01:45.591450+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T13:40:34.897721+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T15:10:59.197295+00:00",
+      "tier": "groq",
+      "article": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials"
+    },
+    {
+      "timestamp": "2026-07-26T15:11:34.844790+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-26T15:11:51.319662+00:00",
+      "tier": "groq",
+      "article": "West Bank: One martyr reported in an Israeli strike on a vehicle southeast of Deir al-Balah - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-26T15:12:07.403130+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
