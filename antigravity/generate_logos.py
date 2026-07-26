@@ -21,44 +21,48 @@ AGENCIES = {
     "northrop":  {"text": "NGC",       "bg": "#1A1A2E", "fg": "#FFFFFF"},
 }
 
-# Try to load a clean font
-font_path = None
-for fp in [
-    str(Path(__file__).resolve().parent / "fonts" / "Oswald-Bold.ttf"),
-    "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
-]:
-    if os.path.exists(fp):
-        font_path = fp
-        break
+def generate_logos() -> None:
+    """Generate simple fallback agency logos used on cards."""
+    # We prefer bundled fonts first so renders are consistent in CI and local runs.
+    font_path = None
+    for fp in [
+        str(Path(__file__).resolve().parent / "fonts" / "Oswald-Bold.ttf"),
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+    ]:
+        if os.path.exists(fp):
+            font_path = fp
+            break
 
-for name, style in AGENCIES.items():
-    out_path = LOGOS_DIR / f"{name}.png"
-    if out_path.exists():
-        print(f"  Skipping {name} (already exists)")
-        continue
+    for name, style in AGENCIES.items():
+        out_path = LOGOS_DIR / f"{name}.png"
+        if out_path.exists():
+            print(f"  Skipping {name} (already exists)")
+            continue
 
-    img = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(img)
+        img = Image.new("RGBA", (SIZE, SIZE), (0, 0, 0, 0))
+        draw = ImageDraw.Draw(img)
 
-    # Draw circle background
-    margin = 10
-    draw.ellipse([margin, margin, SIZE - margin, SIZE - margin], fill=style["bg"])
+        margin = 10
+        draw.ellipse([margin, margin, SIZE - margin, SIZE - margin], fill=style["bg"])
 
-    # Draw text
-    font_size = 72 if len(style["text"]) <= 4 else 48
-    try:
-        font = ImageFont.truetype(font_path, font_size) if font_path else ImageFont.load_default()
-    except:
-        font = ImageFont.load_default()
+        font_size = 72 if len(style["text"]) <= 4 else 48
+        try:
+            font = ImageFont.truetype(font_path, font_size) if font_path else ImageFont.load_default()
+        except OSError:
+            font = ImageFont.load_default()
 
-    bbox = draw.textbbox((0, 0), style["text"], font=font, align="center")
-    text_w = bbox[2] - bbox[0]
-    text_h = bbox[3] - bbox[1]
-    x = (SIZE - text_w) // 2
-    y = (SIZE - text_h) // 2
+        bbox = draw.textbbox((0, 0), style["text"], font=font, align="center")
+        text_w = bbox[2] - bbox[0]
+        text_h = bbox[3] - bbox[1]
+        x = (SIZE - text_w) // 2
+        y = (SIZE - text_h) // 2
 
-    draw.text((x, y), style["text"], fill=style["fg"], font=font, align="center")
-    img.save(str(out_path), "PNG")
-    print(f"  Generated {name}.png")
+        draw.text((x, y), style["text"], fill=style["fg"], font=font, align="center")
+        img.save(str(out_path), "PNG")
+        print(f"  Generated {name}.png")
 
-print("Done!")
+    print("Done!")
+
+
+if __name__ == "__main__":
+    generate_logos()

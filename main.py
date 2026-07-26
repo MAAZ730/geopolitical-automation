@@ -10,16 +10,13 @@ highlighting. Hybrid video/image pipeline.
 
 import os
 import trafilatura
-import sys
 import json
 import hashlib
 import re
 import logging
-import math
 import time
 import subprocess
 import random
-import textwrap
 from difflib import SequenceMatcher
 from datetime import datetime, timezone
 from pathlib import Path
@@ -31,8 +28,11 @@ import requests
 import cloudscraper
 import dateparser as dp
 from bs4 import BeautifulSoup
-from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageFilter, ImageOps
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 import pillow_avif
+
+# Register AVIF codec support in Pillow at import time.
+_AVIF_PLUGIN = pillow_avif
 
 # V17.0: Apify Instagram Scraping
 try:
@@ -40,7 +40,6 @@ try:
     APIFY_AVAILABLE = True
 except ImportError:
     APIFY_AVAILABLE = False
-    log_msg = "apify-client not installed, Instagram engine disabled"
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -1144,7 +1143,7 @@ def generate_intelligence_cascade(article_title: str, article_text: str) -> dict
                 raw = json.loads(resp_text)
                 result = _parse_ai_result(raw)
                 if result:
-                    log.info(f"  \u2728 Groq AI Success \u2728")
+                    log.info("  \u2728 Groq AI Success \u2728")
                     track_ai_usage("groq", article_title)
                     return result
         except ImportError:
@@ -1174,7 +1173,7 @@ def generate_intelligence_cascade(article_title: str, article_text: str) -> dict
                 raw = json.loads(resp_text)
                 result = _parse_ai_result(raw)
                 if result:
-                    log.info(f"  \u2728 Gemini AI Success \u2728")
+                    log.info("  \u2728 Gemini AI Success \u2728")
                     track_ai_usage("gemini", article_title)
                     return result
         except ImportError:
@@ -1207,7 +1206,7 @@ def generate_intelligence_cascade(article_title: str, article_text: str) -> dict
                 raw = json.loads(resp_text)
                 result = _parse_ai_result(raw)
                 if result:
-                    log.info(f"  \u2728 OpenRouter AI Success \u2728")
+                    log.info("  \u2728 OpenRouter AI Success \u2728")
                     track_ai_usage("openrouter", article_title)
                     return result
         except ImportError:
@@ -1221,7 +1220,7 @@ def generate_intelligence_cascade(article_title: str, article_text: str) -> dict
             print(f"[WARNING] Tier 3 (Gemini 2.0 Flash Lite) failed: {e}")
 
     # If all 3 fail:
-    print(f"[ERROR] API Waterfall exhausted. Skipping article.")
+    print("[ERROR] API Waterfall exhausted. Skipping article.")
     raise Exception("All 3 AI APIs failed in cascade.")
 
 
@@ -1943,6 +1942,7 @@ def extract_and_process_video(article_url: str, headline: str, output_filepath: 
 
 def format_vertical_video(input_video: str, headline: str, output_filepath: Path, caption_filepath: Path, article_url: str, parsed_json: dict) -> bool:
     """V18.0: Standalone FFmpeg Vertical formatting (bypasses yt-dlp)."""
+    temp_raw = Path(input_video)
     try:
         # Build FFmpeg Vertical Mirror Blur + AJ+ Overlays
         log.info("  [OSINT] Processing video with FFmpeg vertical filters...")
@@ -2067,16 +2067,17 @@ def upload_to_drive(service, filepath, parent_id):
 
 # V15.3: Video-Only Drive Routing
 VIDEO_DRIVE_FOLDER_ID = os.environ.get("VIDEO_DRIVE_FOLDER_ID", "")
+GOOGLE_DRIVE_ROOT_FOLDER_ID = os.environ.get("GOOGLE_DRIVE_ROOT_FOLDER_ID", "")
 
 def upload_files_to_drive(file_paths: list[Path]):
+    """Upload generated assets into the current run folder on Drive."""
     svc = get_drive_service()
     if not svc:
         return
     try:
-        ROOT_ID = "1AVFFrHH89quUE8wMO_C5XHu7T62RuBNZ"
-        
-        # User requested new folder structure: DD_FN----Date_FolderNumber-1,2,3
-        target_folder_id = find_or_create_folder(svc, folder_name, ROOT_ID)
+        # Keep the parent folder configurable so private folder IDs never live in source.
+        parent_id = GOOGLE_DRIVE_ROOT_FOLDER_ID.strip() or None
+        target_folder_id = find_or_create_folder(svc, folder_name, parent_id)
         
         for p in file_paths:
             if p and p.exists():
@@ -2422,7 +2423,6 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
     if not ig_posts:
         return 0, image_count
     
-    prefix = get_filename_prefix()
     ig_count = 0
     
     MAX_IG_IMAGES = 5
@@ -2637,8 +2637,6 @@ def main() -> None:
     
     # V11.0 Carousel
     carousel_caption = ""
-    prefix = get_filename_prefix()
-    
     # V18.25 Multi-Agent Quotas
     run_video = True
     tg_video_count = 0

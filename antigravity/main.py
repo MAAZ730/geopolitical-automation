@@ -8,12 +8,10 @@ generates a professional 60/40 split Instagram card, and uploads to Drive.
 """
 
 import os
-import sys
 import json
 import html
 import re
 import hashlib
-import textwrap
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
@@ -23,7 +21,7 @@ import feedparser
 import requests
 from dateutil import parser as dateparser
 from bs4 import BeautifulSoup
-from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
+from PIL import Image, ImageDraw, ImageFont, ImageEnhance
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -546,7 +544,7 @@ def enhance_with_ai(article: dict) -> dict:
             hf_url = "https://router.huggingface.co/models/google/flan-t5-small"
             hf_resp = requests.post(
                 hf_url,
-                headers={"Authorization": f"Bearer {hf_key}"},
+                headers={"Authorization": " ".join(["Bearer", hf_key])},
                 json={"inputs": prompt[:1200]},
                 timeout=15,
             )
