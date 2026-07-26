@@ -1,10 +1,11 @@
 import os.path
 from google_auth_oauthlib.flow import InstalledAppFlow
-import json
 
 SCOPES = ['https://www.googleapis.com/auth/drive.file']
 
+
 def main():
+    """Run a local OAuth flow and print a token payload for secret storage."""
     creds = None
     
     if not os.path.exists('credentials.json'):

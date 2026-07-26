@@ -1,12 +1,19 @@
 import json
+import os
 import requests
 
+
 def exchange_code():
+    """Exchange an OAuth authorization code for refreshable Drive credentials."""
     with open("credentials.json", "r") as f:
         creds = json.load(f)["installed"]
-        
-    code = "4/0AfrIepAANSXMsAL6q2M2E5GKybEW_D7a9YgAmSYQTVLLJ1-y6XWxM-tisZPJ1-ZlWOJgrg"
-    
+
+    # Keep the auth code outside source control so we never commit one-time secrets.
+    code = os.getenv("GOOGLE_OAUTH_AUTH_CODE", "").strip()
+    if not code:
+        print("Error: GOOGLE_OAUTH_AUTH_CODE is not set.")
+        return
+
     data = {
         "code": code,
         "client_id": creds["client_id"],
@@ -29,7 +36,8 @@ def exchange_code():
         "client_id": creds["client_id"],
         "client_secret": creds["client_secret"],
         "scopes": ["https://www.googleapis.com/auth/drive.file"],
-        "expiry": "2030-01-01T00:00:00.000000Z" # Dummy far future, google-auth refreshes anyway
+        # This is intentionally synthetic; google-auth refresh flow keeps it current.
+        "expiry": "2030-01-01T00:00:00.000000Z"
     }
     
     with open("token.json", "w") as f:

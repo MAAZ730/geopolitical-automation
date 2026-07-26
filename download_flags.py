@@ -5,7 +5,6 @@ Flags are desaturated and muted during card generation, not here.
 Source: flagcdn.com (public, no auth required)
 """
 
-import os
 import requests
 from pathlib import Path
 
@@ -46,6 +45,7 @@ HEADERS = {
 
 
 def download_flags():
+    """Download flag files once and reuse them in future runs."""
     print("Downloading country flags…")
     for name, code in COUNTRY_CODES.items():
         filepath = FLAGS_DIR / f"{name}.png"
