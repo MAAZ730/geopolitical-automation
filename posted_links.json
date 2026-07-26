@@ -1,4 +1,39 @@
 {
+  "09e63a0fd2f13b1fc2d2477240842966f259097c5e2efcd52f69f07eb0707cfc": {
+    "url": "Slavyangrad/170849",
+    "title": "Russian Forces Strike Factory in Sinelnikovo, Dnepropetrovsk Region",
+    "published": "2026-07-26T23:09:22.729684+00:00"
+  },
+  "c95d6273834d3334ccbb19a030faf685028aec25f0f0fdbf1b5e749aba19273c": {
+    "url": "Slavyangrad/170851",
+    "title": "Russian Airstrikes Target Ukrainian Military Positions",
+    "published": "2026-07-26T23:08:06.715316+00:00"
+  },
+  "4f8a1090f1584d34a0fdf999bc62283f14769afea59d26131e9c176e2eb8e116": {
+    "url": "DDGeopolitics/189995",
+    "title": "Yemeni Forces Down Turkish-Made Drone in Al-Jawf Province",
+    "published": "2026-07-26T23:06:32.398916+00:00"
+  },
+  "51f7a7c35fbd993aa984b5fff7255c196e74c8d348afc4efe2a9a1e49af1f45b": {
+    "url": "DDGeopolitics/190002",
+    "title": "Cargo Ship Sinks Off Odessa Coast Following Missile Strike",
+    "published": "2026-07-26T23:06:31.000972+00:00"
+  },
+  "c64203f850296afcbb590fef7a221303fef0c2753e5b94ebef4a7f2fbaa565d4": {
+    "url": "DDGeopolitics/190007",
+    "title": "Turkish Interests Suffer Multiple Setbacks in Strait of Hormuz, Yemen and Ukraine",
+    "published": "2026-07-26T23:06:29.562100+00:00"
+  },
+  "fa827a67dae9695946976596f6359518c81416772f5434a3b63b046258dc1af2": {
+    "url": "QudsNen/232908",
+    "title": "Israeli Artillery Strikes Eastern Gaza City",
+    "published": "2026-07-26T23:05:49.614405+00:00"
+  },
+  "a6b76a802c849c3de3e0a76f8afefef442963a0a15ecfb9d6164d30b2fa9b504": {
+    "url": "https://tass.com/defense/2165727",
+    "title": "Two killed as Ukrainian troops launch 30 attacks against settlements in DPR over past day",
+    "published": "2026-07-26T22:00:05+00:00"
+  },
   "8daf092d24b8f0e1f68e934c33768630079375b60128ee1db35f17066ce09d34": {
     "url": "Slavyangrad/170830",
     "title": "Russia Deploys Cruise Missile in Kharkov Strike",
@@ -28,6 +63,11 @@
     "url": "QudsNen/232905",
     "title": "Israeli Artillery Strikes Eastern Gaza City",
     "published": "2026-07-26T21:07:07.005712+00:00"
+  },
+  "268bb3a3d65f84b12e50d5918d1181199971b8e56c587623632ccca5f0070bf6": {
+    "url": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
+    "title": "US and Iran hit pause on strikes for second day",
+    "published": "2026-07-26T20:55:52+00:00"
   },
   "2ce859f1e3903c8abfd3bacd7c83a111a5010a60ff125dc9cf63db009341f7dc": {
     "url": "https://tass.com/politics/2165717",
@@ -708,45 +748,5 @@
     "url": "DDGeopolitics/189844",
     "title": "Iranian Missile Attack Causes Damage in Bahrain",
     "published": "2026-07-25T03:00:22.423225+00:00"
-  },
-  "3ee33fbe02f4b139937f63f8f39380c776532ccdfcdf9c61ec673401afcdbcfc": {
-    "url": "DDGeopolitics/189846",
-    "title": "Trump Refuses to Rule Out War Crimes in Iran",
-    "published": "2026-07-25T03:00:13.098712+00:00"
-  },
-  "00a1c17f17d2db11dac51d57d2a966a61f96208295ff530f1bc2808ba04f1be5": {
-    "url": "DDGeopolitics/189848",
-    "title": "Failed Patriot Interceptor Hits Neighborhood in Bahrain",
-    "published": "2026-07-25T02:59:21.848895+00:00"
-  },
-  "6297255eb99f50ce9a8b2e23e43288cba3c507c43774938bae87cfe80dfd47b4": {
-    "url": "QudsNen/232642",
-    "title": "Gaza Strip Students Defy Odds in Secondary School Exams Amid Ongoing Conflict",
-    "published": "2026-07-25T02:55:44.085615+00:00"
-  },
-  "5bcb41d9ea4a3ae385a2db1577f461b6af31b423d2d27a8902c4434502451f16": {
-    "url": "https://www.rt.com/news/643451-saudi-strikes-houthi-port/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Saudi-led coalition bombs Yemen\u2019s Hodeidah after Houthi attacks",
-    "published": "2026-07-25T01:38:18+00:00"
-  },
-  "9222597bd08cdff0d5e1543917263817774ce5eb4a55c7ed5a682dea2edd6022": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
-    "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
-    "published": "2026-07-25T00:31:16+00:00"
-  },
-  "2f0094cb8875b5da87a7daaea6fe8002a5b5deeb54c9a807dafd261ef42b767a": {
-    "url": "QudsNen/232622",
-    "title": "Israeli Settler Militias Attack Village in West Bank",
-    "published": "2026-07-24T23:09:39.699286+00:00"
-  },
-  "64d67fc4d6d0763a725bc75fecb75dfad10ba5b8f8744aa7009c89337fe1377c": {
-    "url": "Middle_East_Spectator/35415",
-    "title": "Bahrain, Kuwait, and UAE Join Forces in Airstrikes Against Iran",
-    "published": "2026-07-24T23:09:23.806006+00:00"
-  },
-  "99598aed0afa41e1331c39d1905db227154dd66d632e9cca43153715a0d5b9be": {
-    "url": "Middle_East_Spectator/35421",
-    "title": "Saudi-led Coalition Targets Hodeidah Port in Yemen",
-    "published": "2026-07-24T23:09:22.630487+00:00"
   }
 }
