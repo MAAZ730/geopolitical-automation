@@ -227,14 +227,14 @@ def generate_dark_actor_images():
 
     # Key geopolitical actors with their visual style
     actors = {
-        "military": {"label": "ARMED FORCES", "icon": "⚔", "bg": (15, 20, 35)},
-        "diplomat": {"label": "DIPLOMACY", "icon": "🏛", "bg": (12, 18, 30)},
-        "conflict": {"label": "CONFLICT ZONE", "icon": "💥", "bg": (25, 10, 10)},
-        "sanctions": {"label": "SANCTIONS", "icon": "⛔", "bg": (20, 15, 10)},
-        "nuclear": {"label": "NUCLEAR", "icon": "☢", "bg": (20, 20, 8)},
-        "ceasefire": {"label": "CEASEFIRE", "icon": "🕊", "bg": (10, 18, 25)},
-        "crisis": {"label": "CRISIS", "icon": "🚨", "bg": (30, 8, 8)},
-        "alliance": {"label": "ALLIANCE", "icon": "🤝", "bg": (10, 15, 25)},
+        "military": {"label": "ARMED FORCES", "icon": "MF", "bg": (15, 20, 35)},
+        "diplomat": {"label": "DIPLOMACY", "icon": "DP", "bg": (12, 18, 30)},
+        "conflict": {"label": "CONFLICT ZONE", "icon": "CZ", "bg": (25, 10, 10)},
+        "sanctions": {"label": "SANCTIONS", "icon": "SN", "bg": (20, 15, 10)},
+        "nuclear": {"label": "NUCLEAR", "icon": "NU", "bg": (20, 20, 8)},
+        "ceasefire": {"label": "CEASEFIRE", "icon": "CF", "bg": (10, 18, 25)},
+        "crisis": {"label": "CRISIS", "icon": "CR", "bg": (30, 8, 8)},
+        "alliance": {"label": "ALLIANCE", "icon": "AL", "bg": (10, 15, 25)},
     }
 
     for key, info in actors.items():

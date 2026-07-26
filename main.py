@@ -2327,7 +2327,7 @@ def run_telegram_hunter(posted_links, successful_post_counter, image_count, tg_v
                                 
                             hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
                             with open(caption_path, "w", encoding="utf-8") as f:
-                                f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
+                                f.write(f"BREAKING:\n\n{clean_caption}{hashtags}\n")
                                 
                             drive_queue.extend([Path(final_file_path), Path(caption_path)])
                             tg_video_count += 1
@@ -2497,7 +2497,7 @@ def process_instagram_batch(ig_posts: list[dict], drive_queue: list[Path], poste
                         
                         hashtags = "\n\n#Geopolitics #Military #OSINT #BreakingNews #Defense"
                         with open(txt, "w", encoding="utf-8") as f:
-                            f.write(f"🚨 BREAKING:\n\n{clean_caption}{hashtags}\n")
+                            f.write(f"BREAKING:\n\n{clean_caption}{hashtags}\n")
                         
                         drive_queue.extend([png, txt])
                         ig_count += 1

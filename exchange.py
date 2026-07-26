@@ -43,7 +43,7 @@ def exchange_code():
     with open("token.json", "w") as f:
         json.dump(final_creds, f, indent=4)
         
-    print("\n✅ SUCCESS! Google OAuth 2.0 Token Generated.")
+    print("\nSUCCESS! Google OAuth 2.0 Token Generated.")
     print("--- RAW JSON (COPY EVERYTHING BELOW) ---")
     print(json.dumps(final_creds, indent=2))
     print("--- COPY ABOVE THIS LINE ---\n")
