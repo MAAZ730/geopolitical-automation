@@ -730,9 +730,9 @@ def generate_news_card(article: dict, output_path: Path) -> None:
     # ── TEXT OVERLAY ──
     draw = ImageDraw.Draw(canvas)
 
-    # Header: "🚀 BREAKING DISCOVERY"
+    # Header: "BREAKING DISCOVERY"
     header_font = _load_font("header", 42)
-    header_text = "🚀 BREAKING DISCOVERY"
+    header_text = "BREAKING DISCOVERY"
     header_bbox = draw.textbbox((0, 0), header_text, font=header_font)
     header_w = header_bbox[2] - header_bbox[0]
     header_x = (CARD_WIDTH - header_w) // 2
