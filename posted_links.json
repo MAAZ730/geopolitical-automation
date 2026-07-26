@@ -1,4 +1,44 @@
 {
+  "ec213a0cfddfcfa75a256087e4409c404e179dd8e096cfcd335d296abcbb2c74": {
+    "url": "presstv/200443",
+    "title": "UK Politician's Advisors Accused of Ties to Hardline Zionist Groups",
+    "published": "2026-07-26T19:28:15.684824+00:00"
+  },
+  "daa6b94651ae47b1af4b7b87e06727c44e652c93d46739073b98130e59a545df": {
+    "url": "militarywave/24527",
+    "title": "Maasai Warriors Perform Adumu Dance to Prove Strength",
+    "published": "2026-07-26T19:25:14.160749+00:00"
+  },
+  "ee57ade515344e97fd4da61ba15a7946d6c4fb6f7c4d2d6f5e4495d008f61867": {
+    "url": "DDGeopolitics/190005",
+    "title": "Ukrainian Stryker Destroyed by Drone Strike in North",
+    "published": "2026-07-26T19:23:37.211551+00:00"
+  },
+  "e7eb5bec6c585618b1e710510711b9aa4deab8e35f419756c9b21ff9b228bad8": {
+    "url": "QudsNen/232898",
+    "title": "Israeli Forces Clash with Palestinians in Qalandiya Refugee Camp Raid",
+    "published": "2026-07-26T19:21:03.167237+00:00"
+  },
+  "bebcf8145f040ef6d4439f02426baf2df1b19470bb3cc267aa34e50df50287ad": {
+    "url": "Middle_East_Spectator/35480",
+    "title": "US Military Faces Interceptor Shortage in Middle East",
+    "published": "2026-07-26T19:20:39.629357+00:00"
+  },
+  "fa3ec931244f3e4a341182831b80e95ca78f641d7f470a5cf0fc303d4cd36197": {
+    "url": "thecradlemedia/65038",
+    "title": "West Bank Violence Escalates Amid Netanyahu's Vow to Broaden Campaign",
+    "published": "2026-07-26T19:20:37.616755+00:00"
+  },
+  "d211987b7088df825872ddb9f804ff8710380d16d3c888be5fc6a193261314c9": {
+    "url": "https://tass.com/politics/2165653",
+    "title": "Lavrov offers condolences to Araghchi over sailor's death in Kiev\u2019s attack on Iranian ship",
+    "published": "2026-07-26T18:14:27+00:00"
+  },
+  "dc256c3319513e231e25895b8954de1b5579168858f9228a6050e39c2688370a": {
+    "url": "https://www.tehrantimes.com/news/528572/Pezeshkian-calls-US-infrastructure-attacks-war-crimes-demands",
+    "title": "Pezeshkian calls US infrastructure attacks 'war crimes,' demands intl legal action",
+    "published": "2026-07-26T18:11:05+00:00"
+  },
   "4c213b38e051b52eb8acd6e0f3aee6cc4ed53e8eca4c1d74f3b1c37f865e77b1": {
     "url": "QudsNen/232868",
     "title": "Israeli Forces Detain Palestinians in Raid on Beit Furik",
@@ -708,45 +748,5 @@
     "url": "thecradlemedia/64963",
     "title": "Israel Launches Widespread Military Operation in West Bank",
     "published": "2026-07-24T21:10:42.379138+00:00"
-  },
-  "681d2ceedb920d1411e6e65573c889d078c68264f12d1289ac9966fb992f5271": {
-    "url": "thecradlemedia/64964",
-    "title": "Saudi Warplanes Target Yemen's Hodeidah Port in Airstrikes",
-    "published": "2026-07-24T21:10:37.421341+00:00"
-  },
-  "67a8efb65069b5b2a4c153cfc953d4a086f907687ae099905aeb93727fcbd83c": {
-    "url": "https://tass.com/world/2165077",
-    "title": "US strikes tanker over alleged Iranian gas cargo \u2014 Iran\u2019s state broadcaster",
-    "published": "2026-07-24T21:02:00+00:00"
-  },
-  "c711f72628c10fdc36217c1cf838f7df9bd679eb9f699ca72ad265e48cbab545": {
-    "url": "https://tass.com/world/2165075",
-    "title": "Houthis say Saudi Arabia attacked telecom facilities in Hodeida",
-    "published": "2026-07-24T20:55:00+00:00"
-  },
-  "052c21edef18e6c7e56c55f685b43e4f8304187c2f6f367fdf974dceaa2bdc12": {
-    "url": "https://www.aljazeera.com/news/2026/7/24/saudis-strike-yemens-houthi-held-hodeida-rebel-media?traffic_source=rss",
-    "title": "Saudi\u2019s strike Yemen\u2019s Houthi-held Hodeidah: Rebel media",
-    "published": "2026-07-24T20:27:16+00:00"
-  },
-  "388ab29e8e7a7341b062e7c9ecf29c48739da92596c36d2f373847c8972ee7f8": {
-    "url": "https://tass.com/world/2165067",
-    "title": "Multiple airstrikes reported in city of Hodeidah in western Yemen \u2014 media",
-    "published": "2026-07-24T20:23:00+00:00"
-  },
-  "892f03fcdec37f951d39f8f076feef7bbd0fca926eae8db3c65353aa030b0178": {
-    "url": "https://en.irna.ir/news/86218315/Top-comdr-One-US-soldier-will-die-for-every-Iranian-civilian",
-    "title": "Top comdr: One US soldier will die for every Iranian civilian killed",
-    "published": "2026-07-24T20:16:09+00:00"
-  },
-  "90bda4ee771e8f7c378cd81e5ca3c363ad4875e806e0a83063ed646954a08832": {
-    "url": "intelslava/91395",
-    "title": "Iran Launches Ballistic Missiles in Operation Nasr 2",
-    "published": "2026-07-24T19:37:32.274055+00:00"
-  },
-  "181af43241ec79fa88d430dbe12afab3613ea3b2a8428742073712768dd39901": {
-    "url": "CensoredMen/216",
-    "title": "Iranian Missile Strike on US Military Facility in Region",
-    "published": "2026-07-24T19:36:04.778728+00:00"
   }
 }

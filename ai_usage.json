@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5239,
+  "total_calls": 5243,
   "tiers": {
-    "groq": 5220,
+    "groq": 5224,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T02:52:42.417867+00:00",
-      "tier": "groq",
-      "article": "Two Palestinians killed as Israel intensifies strikes on Gaza City"
-    },
-    {
-      "timestamp": "2026-07-24T02:53:13.414505+00:00",
-      "tier": "groq",
-      "article": "US launches 13th night of strikes as Iran warns of escalation in the Gulf"
-    },
-    {
-      "timestamp": "2026-07-24T02:53:29.259096+00:00",
-      "tier": "groq",
-      "article": "Heavy explosions rock Iranian city as US strikes continue"
-    },
-    {
-      "timestamp": "2026-07-24T02:53:47.238869+00:00",
-      "tier": "groq",
-      "article": "Pezeshkian urges stronger cooperation between Iran, Pakistan"
-    },
     {
       "timestamp": "2026-07-24T06:32:08.275875+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T17:09:31.046317+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T19:18:51.056493+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian calls US infrastructure attacks 'war crimes,' demands intl legal action"
+    },
+    {
+      "timestamp": "2026-07-26T19:19:27.726211+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-26T19:20:14.231776+00:00",
+      "tier": "groq",
+      "article": "Lavrov offers condolences to Araghchi over sailor's death in Kiev\u2019s attack on Iranian ship"
+    },
+    {
+      "timestamp": "2026-07-26T19:20:33.839533+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
