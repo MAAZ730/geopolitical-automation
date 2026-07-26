@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5223,
+  "total_calls": 5227,
   "tiers": {
-    "groq": 5204,
+    "groq": 5208,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T17:28:20.930604+00:00",
-      "tier": "groq",
-      "article": "Turkish sailor killed after drone strike on coal ship as Ukraine reports attacks on 13 vessels"
-    },
-    {
-      "timestamp": "2026-07-23T17:28:57.980261+00:00",
-      "tier": "groq",
-      "article": "IRGC targets US base in retaliation for strike on Arbaeen pilgrims\u2019 route"
-    },
-    {
-      "timestamp": "2026-07-23T17:29:14.202483+00:00",
-      "tier": "groq",
-      "article": "Trump says considers massive attack on Iran \u2014 Axios"
-    },
-    {
-      "timestamp": "2026-07-23T17:29:33.287210+00:00",
-      "tier": "groq",
-      "article": "President Pezeshkian hails Iran-Pakistan relations, urges accelerated cooperation"
-    },
     {
       "timestamp": "2026-07-23T19:24:58.284336+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T06:43:18.845241+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T10:08:40.760040+00:00",
+      "tier": "groq",
+      "article": "Trump puts Iran attack on hold as US ammo runs low \u2013 NYT"
+    },
+    {
+      "timestamp": "2026-07-26T10:09:18.630161+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian orders fast rebuild of targeted infrastructure"
+    },
+    {
+      "timestamp": "2026-07-26T10:09:37.477617+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-26T10:09:55.411344+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
