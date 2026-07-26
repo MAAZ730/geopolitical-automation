@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5227,
+  "total_calls": 5231,
   "tiers": {
-    "groq": 5208,
+    "groq": 5212,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-23T19:24:58.284336+00:00",
-      "tier": "groq",
-      "article": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes"
-    },
-    {
-      "timestamp": "2026-07-23T19:25:38.645951+00:00",
-      "tier": "groq",
-      "article": "IRGC: After US warships in the Indian Ocean exhausted their cruise missile stockpiles, the US military resorted Wednesday to B-1 bombers launched from RAF Fairford in the UK - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-23T19:25:54.524003+00:00",
-      "tier": "groq",
-      "article": "Hitting US bases Iran's legal, moral right"
-    },
-    {
-      "timestamp": "2026-07-23T19:26:35.347935+00:00",
-      "tier": "groq",
-      "article": "Ex-Hong Kong opposition leader Wu Chi-wai enters UK after reported denial"
-    },
     {
       "timestamp": "2026-07-23T21:10:20.048613+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T10:09:55.411344+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T13:38:25.657869+00:00",
+      "tier": "groq",
+      "article": "US strikes against Iran &#039;on hold&#039; amid fears of depleted missile stocks, further escalation"
+    },
+    {
+      "timestamp": "2026-07-26T13:38:56.363513+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit"
+    },
+    {
+      "timestamp": "2026-07-26T13:39:42.635591+00:00",
+      "tier": "groq",
+      "article": "Anti-war protesters demand end to US use of UK airbase to strike Iran"
+    },
+    {
+      "timestamp": "2026-07-26T13:40:34.897721+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }

@@ -1,4 +1,49 @@
 {
+  "6ececcb34468e6b243634885daaa014b4f4a2973d0046e37385715a136b0c927": {
+    "url": "BellumActaNews/175827",
+    "title": "Saudi-Backed Tribesmen Clash with Houthi Fighters in Yemen's Al-Jawf",
+    "published": "2026-07-26T13:45:37.354325+00:00"
+  },
+  "e826c4824d9f5d3a96594e6bded4970e49fa3a54c38ccbcae6ac4441d57938a9": {
+    "url": "DDGeopolitics/189977",
+    "title": "Missile Strike Hits Kharkiv, Ukraine",
+    "published": "2026-07-26T13:42:45.679380+00:00"
+  },
+  "6ae881151922a9422bffb00a1745fabdb04b19166605094c8a825d0b6594c5c7": {
+    "url": "DDGeopolitics/189978",
+    "title": "Ukraine: Sumy Region Hit by Strikes on Warehouses in Krolevets",
+    "published": "2026-07-26T13:42:10.452145+00:00"
+  },
+  "bb67565e1a0ba4f884c943616878f06e558513b617c912098ed8e10d25cb44bc": {
+    "url": "QudsNen/232831",
+    "title": "Israeli Airstrike Kills Two Palestinians in Central Gaza",
+    "published": "2026-07-26T13:41:21.784046+00:00"
+  },
+  "2e94e7d23671428a1f3a8e8d6871467b856f3d147e3c2b16c79582a9c901cbde": {
+    "url": "thecradlemedia/65029",
+    "title": "Israeli Military Issues Warning to Yarmouk Basin Residents",
+    "published": "2026-07-26T13:40:39.140566+00:00"
+  },
+  "b8290f4cf848fe65c9ec3b34d52be1910a6709f495d6cd8d2d74c462e56edd99": {
+    "url": "thecradlemedia/65033",
+    "title": "US Suspends Iran Strike Amid Fears of Depleted Missile Stocks",
+    "published": "2026-07-26T13:40:38.090337+00:00"
+  },
+  "d1534b096a11376e15a1ff2bbaa1a705f20554cbb42e5b8113190bfd8113d852": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
+    "title": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit",
+    "published": "2026-07-26T11:56:50+00:00"
+  },
+  "e760c763c99f26ad81748baf77a89aa8cd93db2c34b03da50d9fde35aa3844cc": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
+    "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+    "published": "2026-07-26T11:18:00+00:00"
+  },
+  "beaeb704dab67bf0693da7e0bee833768e87e4be20a867dfe975a74b457f50a9": {
+    "url": "https://thecradle.co/articles-id/39009",
+    "title": "US strikes against Iran &#039;on hold&#039; amid fears of depleted missile stocks, further escalation",
+    "published": "2026-07-26T10:52:59+00:00"
+  },
   "ce9aba6c6c6f64b436a149175e032efa29641987853bc294a73ca9017b6af394": {
     "url": "Slavyangrad/170769",
     "title": "Russia Prepares to Receive North Korean Fighters and Missile Launchers Amid Regional Security Concerns",
@@ -703,50 +748,5 @@
     "url": "QudsNen/232574",
     "title": "Israeli Settlers Launch Revenge Attack on Palestinian Village Near Nablus",
     "published": "2026-07-24T15:32:40.686079+00:00"
-  },
-  "f27dad5739efb86b0521878c82d97b501c3e1ba86fa7812e17493d945ae3bccf": {
-    "url": "Middle_East_Spectator/35405",
-    "title": "Iran Strikes Patriot Air Defense System in Erbil",
-    "published": "2026-07-24T15:32:03.397969+00:00"
-  },
-  "ecc10741eadc9fcc6c27e8e6d23b1a36fba09c9a54a3607849158026346e57d7": {
-    "url": "thecradlemedia/64949",
-    "title": "Lebanese Security Forces Attempt to Arrest Journalist in Dahiye Raid",
-    "published": "2026-07-24T15:31:53.751200+00:00"
-  },
-  "1b2519406af78d0729a3e36aba392fa5e863630e9dda259c1b89f6ecf106503b": {
-    "url": "thecradlemedia/64950",
-    "title": "Israel Accused of Systematic Destruction of Lebanon's Water Infrastructure",
-    "published": "2026-07-24T15:31:51.567781+00:00"
-  },
-  "afdfd0c6488c4e4775bc186dc8bd92fe39e8d8ebf55ff597cdf991653364f345": {
-    "url": "https://www.tehrantimes.com/news/528494/Saudi-Arabia-confirms-Yemeni-attack-on-two-oil-tankers",
-    "title": "Saudi Arabia confirms Yemeni attack on two oil tankers",
-    "published": "2026-07-24T14:50:17+00:00"
-  },
-  "36080a5e32c733f28555de69ab384e152239d0453dbcaa2165972513cd450804": {
-    "url": "presstv/200188",
-    "title": "Iran's IRGC Claims Devastating Attacks on US Bases in Jordan and Iraq",
-    "published": "2026-07-24T13:58:45.013708+00:00"
-  },
-  "5315728e69d978d9bbb66f470cdd6b83a8a93258a5e6937c957ca9784fd3fd05": {
-    "url": "BellumActaNews/175758",
-    "title": "US Forces Launch Aerial Assault on Southern Iran",
-    "published": "2026-07-24T13:57:10.883410+00:00"
-  },
-  "3da0ddba708d34d9c2b0fae80b0cd6d90ed9539ca548a031459755f87ce3c802": {
-    "url": "BellumActaNews/175760",
-    "title": "US Air Force Conducts Aerial Strike on Ahvaz, Iran",
-    "published": "2026-07-24T13:55:10.424169+00:00"
-  },
-  "18c5fe00a798f8e9ad2357ebeee129092e5cdacc8d429673498eb709113137e5": {
-    "url": "thecradlemedia/64934",
-    "title": "Gulf Stocks Decline Amid Trump Warning on Iran",
-    "published": "2026-07-24T13:54:43.158088+00:00"
-  },
-  "11e21eea71bedb83089ab7ea0ce6a588c82ee9e186f2f685f8c5347718506ddd": {
-    "url": "thecradlemedia/64936",
-    "title": "EU Imposes Sanctions on Iranian Judges and Cyber Group Founder",
-    "published": "2026-07-24T13:54:41.664992+00:00"
   }
 }
