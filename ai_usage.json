@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5243,
+  "total_calls": 5247,
   "tiers": {
-    "groq": 5224,
+    "groq": 5228,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T06:32:08.275875+00:00",
-      "tier": "groq",
-      "article": "Iran attacks US bases in Bahrain, Jordan with drones \u2014 army"
-    },
-    {
-      "timestamp": "2026-07-24T06:32:40.907064+00:00",
-      "tier": "groq",
-      "article": "Former Iranian foreign minister to Americans: Save your children from Trump\u2019s quagmire"
-    },
-    {
-      "timestamp": "2026-07-24T06:32:59.863997+00:00",
-      "tier": "groq",
-      "article": "It could take US weeks to degrade Iran\u2019s missile capabilities \u2014 FT"
-    },
-    {
-      "timestamp": "2026-07-24T06:33:19.431855+00:00",
-      "tier": "groq",
-      "article": "US signs landmark nuclear deal with Saudi Arabia"
-    },
     {
       "timestamp": "2026-07-24T10:22:35.997236+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T19:20:33.839533+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-26T21:05:21.132522+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-26T21:05:53.639205+00:00",
+      "tier": "groq",
+      "article": "Three paramedics, one civilian wounded in drone attack in DPR\u2019s Gorlovka"
+    },
+    {
+      "timestamp": "2026-07-26T21:06:46.030784+00:00",
+      "tier": "groq",
+      "article": "Police shoot dead Berlin Pride car-ramming attack suspect"
+    },
+    {
+      "timestamp": "2026-07-26T21:07:02.168560+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
