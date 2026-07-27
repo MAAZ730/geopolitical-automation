@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5251,
+  "total_calls": 5255,
   "tiers": {
-    "groq": 5232,
+    "groq": 5236,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T13:52:37.022906+00:00",
-      "tier": "groq",
-      "article": "US strikes on Iran kill 55 people since June 27 \u2014 health ministry"
-    },
-    {
-      "timestamp": "2026-07-24T13:53:10.539623+00:00",
-      "tier": "groq",
-      "article": "US attacks Iran for 13th consecutive night"
-    },
-    {
-      "timestamp": "2026-07-24T13:53:26.528843+00:00",
-      "tier": "groq",
-      "article": "Ukrainian counterattack by ex-convicts fails in Kharkov Region \u2014 Russian defense source"
-    },
-    {
-      "timestamp": "2026-07-24T13:54:06.045741+00:00",
-      "tier": "groq",
-      "article": "Iran parliament to debate Hormuz security, progress bill"
-    },
     {
       "timestamp": "2026-07-24T15:29:50.171312+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-26T23:05:27.701031+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T03:29:04.284917+00:00",
+      "tier": "groq",
+      "article": "Trump orders US military to hold off on strikes on Iran"
+    },
+    {
+      "timestamp": "2026-07-27T03:29:37.830199+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-27T03:29:54.107244+00:00",
+      "tier": "groq",
+      "article": "Enemy drone attack leaves 12, including two minors, injured in Russia\u2019s Belgorod"
+    },
+    {
+      "timestamp": "2026-07-27T03:30:36.786912+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }

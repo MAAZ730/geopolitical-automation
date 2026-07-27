@@ -1,4 +1,39 @@
 {
+  "1f76b57e556c25018f25706c8af54d175dd5c9d3b184483be014888f7f3ad1ae": {
+    "url": "mod_russia_en/28516",
+    "title": "Russia Deploys Advanced Drone Training Facility in Rear Area",
+    "published": "2026-07-27T03:34:42.957299+00:00"
+  },
+  "5b62e9678a3e14985bc41c6f8c6f36cc3d05d1dbb7af43fbb6c3a0340b560735": {
+    "url": "Slavyangrad/170852",
+    "title": "Belgorod Under Attack: Ukrainian Forces Launch Sustained Assault on Russian City",
+    "published": "2026-07-27T03:33:46.166793+00:00"
+  },
+  "36218a302063514714ca7a92dfec45230949b41db99676b2a0fc0b0c278289b8": {
+    "url": "Slavyangrad/170857",
+    "title": "Belgorod Drone Attack Causes Injuries and Damage",
+    "published": "2026-07-27T03:32:59.357977+00:00"
+  },
+  "2d8c902d6b51aadfb0c25530c4d42f1da480433eddd77b2963dd3b7385ccf82b": {
+    "url": "intelslava/91545",
+    "title": "Russian Residential Building Hit in Rostov-on-Don Attack",
+    "published": "2026-07-27T03:32:21.252067+00:00"
+  },
+  "2cda1edaf406e0e1b250972af83533829982968026780776b690a7cc585869b4": {
+    "url": "BellumActaNews/175832",
+    "title": "Berlin Pride Attack: One Dead, 29 Injured in Suspected Islamist Terror Incident",
+    "published": "2026-07-27T03:30:52.114441+00:00"
+  },
+  "5f118f98272b5025fe0c3b6d58419e1074e94f84fc1ffe8410cfb2ea645539d0": {
+    "url": "QudsNen/232922",
+    "title": "Netanyahu to Attend UN General Assembly Amid ICC Arrest Warrant",
+    "published": "2026-07-27T03:30:44.737995+00:00"
+  },
+  "ebeae770d29ea561ae2c010193f7c671b0fcf9eb9b6466820f2c64f89d259cc6": {
+    "url": "https://tass.com/emergencies/2165737",
+    "title": "Enemy drone attack leaves 12, including two minors, injured in Russia\u2019s Belgorod",
+    "published": "2026-07-26T23:09:29+00:00"
+  },
   "09e63a0fd2f13b1fc2d2477240842966f259097c5e2efcd52f69f07eb0707cfc": {
     "url": "Slavyangrad/170849",
     "title": "Russian Forces Strike Factory in Sinelnikovo, Dnepropetrovsk Region",
@@ -313,6 +348,11 @@
     "url": "QudsNen/232779",
     "title": "Israeli Settlers Foiled in Attempt to Torch Palestinian Home in Beit Furik",
     "published": "2026-07-26T06:46:57.712076+00:00"
+  },
+  "cf650249ff62b081a287cc5ef686836d0b2bda6cf8ca78f25911d12069451c2e": {
+    "url": "https://en.mehrnews.com/news/246534/Trump-orders-US-military-to-hold-off-on-strikes-on-Iran",
+    "title": "Trump orders US military to hold off on strikes on Iran",
+    "published": "2026-07-26T05:29:01+00:00"
   },
   "00ce4310cc728878c37c20b880922f1f9753111c417a3bd50a2696f8a82c996f": {
     "url": "https://en.mehrnews.com/news/246533/Iran-condemns-terrorist-attack-in-Pakistan",
@@ -708,45 +748,5 @@
     "url": "QudsNen/232649",
     "title": "Israeli Settlers Raid Bedouin Community in East Jerusalem",
     "published": "2026-07-25T06:25:30.194567+00:00"
-  },
-  "0d8a4a02cfa1f8151b0a62a200f41f8ef4d55fa918cac1eec2f62dd5bae0a26f": {
-    "url": "QudsNen/232650",
-    "title": "Israeli Forces Raid Homes in Sinjil, Detain Palestinians",
-    "published": "2026-07-25T06:24:43.735686+00:00"
-  },
-  "b672a159c62efbac8ecc455e36ee7a3f5426a644c5ec83ac8a8b7577b651322b": {
-    "url": "https://tass.com/defense/2165129",
-    "title": "Russian forces strike cargo ship, two tugboats at Nikolayev seaport",
-    "published": "2026-07-25T06:02:44+00:00"
-  },
-  "dbcdbdb76f1c9110d183753b83b7a1749947f28fe324de6b27863df1b54b2283": {
-    "url": "https://en.mehrnews.com/news/246504/Yemen-launches-retaliatory-attacks-on-Saudi-Arabia",
-    "title": "Yemen launches retaliatory attacks on Saudi Arabia",
-    "published": "2026-07-25T05:22:47+00:00"
-  },
-  "85275e61f12bbba04d7601ef38d2eb328a3b7cce5f47d41a6be8e559ad5dd54f": {
-    "url": "https://en.mehrnews.com/news/246502/US-attack-on-Iranian-rescue-boats-amounts-to-war-crime",
-    "title": "US attack on Iranian rescue boats amounts to war crime",
-    "published": "2026-07-25T05:08:31+00:00"
-  },
-  "4971d145a5bc577a75eb055ad9a0e0418177d18a933c06eac3763abf21ee041e": {
-    "url": "https://en.mehrnews.com/news/246497/Iran-Oman-discuss-Hormuz-security-after-US-strikes",
-    "title": "Iran, Oman discuss Hormuz security after US strikes",
-    "published": "2026-07-25T03:26:23+00:00"
-  },
-  "34511afa02eebc1da1534f5276a0b90c373f3e75ff87fad6d609cf1c999f9b5e": {
-    "url": "BellumActaNews/175788",
-    "title": "Saudi Arabia Accuses Houthi Militia of Obstructing Yemen Peace Efforts",
-    "published": "2026-07-25T03:03:23.407284+00:00"
-  },
-  "f3aa3d7d639583efa66ef85a94d8a3261313449181b831e6d46f667a4a460a2f": {
-    "url": "DDGeopolitics/189843",
-    "title": "Iran Threatens Wider Military Presence if US Launches War",
-    "published": "2026-07-25T03:03:21.223449+00:00"
-  },
-  "7befbba6379160419550796cf69502ea6a5c2dd854bb6a03db91477a976dd390": {
-    "url": "DDGeopolitics/189844",
-    "title": "Iranian Missile Attack Causes Damage in Bahrain",
-    "published": "2026-07-25T03:00:22.423225+00:00"
   }
 }
