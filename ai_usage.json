@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5267,
+  "total_calls": 5271,
   "tiers": {
-    "groq": 5248,
+    "groq": 5252,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T21:09:30.557994+00:00",
-      "tier": "groq",
-      "article": "Multiple airstrikes reported in city of Hodeidah in western Yemen \u2014 media"
-    },
-    {
-      "timestamp": "2026-07-24T21:10:02.895205+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-24T21:10:19.143586+00:00",
-      "tier": "groq",
-      "article": "Saudi\u2019s strike Yemen\u2019s Houthi-held Hodeidah: Rebel media"
-    },
-    {
-      "timestamp": "2026-07-24T21:10:35.309347+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-24T23:06:40.196051+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-27T14:45:59.706221+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T17:47:51.627542+00:00",
+      "tier": "groq",
+      "article": "Ukraine continues war of terror with strike on recreational infrastructure \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-07-27T17:48:31.845147+00:00",
+      "tier": "groq",
+      "article": "The unholy alliance of Israel and Ukraine anchoring the new imperial order"
+    },
+    {
+      "timestamp": "2026-07-27T17:49:20.644491+00:00",
+      "tier": "groq",
+      "article": "Senior lawmaker warns Ukraine of \u2018regret-inducing\u2019 response after strike on Iranian vessel"
+    },
+    {
+      "timestamp": "2026-07-27T17:49:39.023772+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
