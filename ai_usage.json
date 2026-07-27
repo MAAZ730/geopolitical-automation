@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5255,
+  "total_calls": 5259,
   "tiers": {
-    "groq": 5236,
+    "groq": 5240,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T15:29:50.171312+00:00",
-      "tier": "groq",
-      "article": "At least 21 killed as Ukraine and Russia continue to trade attacks"
-    },
-    {
-      "timestamp": "2026-07-24T15:30:35.869154+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Aftermath of Ukraine\u2019s attack on Kirov, six civilians killed"
-    },
-    {
-      "timestamp": "2026-07-24T15:31:29.031498+00:00",
-      "tier": "groq",
-      "article": "Israel launches clampdown after deadly clash in occupied West Bank"
-    },
-    {
-      "timestamp": "2026-07-24T15:31:45.412479+00:00",
-      "tier": "groq",
-      "article": "Iran responds powerfully to US irrational approach"
-    },
     {
       "timestamp": "2026-07-24T17:43:38.003452+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-27T03:30:36.786912+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T07:35:56.576841+00:00",
+      "tier": "groq",
+      "article": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike"
+    },
+    {
+      "timestamp": "2026-07-27T07:36:36.914448+00:00",
+      "tier": "groq",
+      "article": "Iran Warns Ukraine of \u2018Heavy Cost\u2019 as Deadly Caspian Sea Strike Escalates Rift - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-27T07:37:28.579957+00:00",
+      "tier": "groq",
+      "article": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv"
+    },
+    {
+      "timestamp": "2026-07-27T07:37:44.823737+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
