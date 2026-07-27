@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5271,
+  "total_calls": 5275,
   "tiers": {
-    "groq": 5252,
+    "groq": 5256,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T23:06:40.196051+00:00",
-      "tier": "groq",
-      "article": "US strikes tanker over alleged Iranian gas cargo \u2014 Iran\u2019s state broadcaster"
-    },
-    {
-      "timestamp": "2026-07-24T23:06:58.966956+00:00",
-      "tier": "groq",
-      "article": "Houthis say Saudi Arabia attacked telecom facilities in Hodeida"
-    },
-    {
-      "timestamp": "2026-07-24T23:07:18.073085+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-24T23:07:34.734258+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T02:54:27.087697+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-27T17:49:39.023772+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T19:41:13.468834+00:00",
+      "tier": "groq",
+      "article": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars"
+    },
+    {
+      "timestamp": "2026-07-27T19:41:59.434331+00:00",
+      "tier": "groq",
+      "article": "For a young sailor: First voyage, final farewell"
+    },
+    {
+      "timestamp": "2026-07-27T19:42:46.260013+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-27T19:43:03.032220+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
