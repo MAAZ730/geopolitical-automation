@@ -1,4 +1,44 @@
 {
+  "5d16a5166d7bdfdfb8cefc9c216c7ec57e363e158135469e84b8f5901573ee7d": {
+    "url": "presstv/200502",
+    "title": "Israeli Air Defenders' Missiles Crash in Jordan",
+    "published": "2026-07-27T11:37:00.989508+00:00"
+  },
+  "352fb28c224b707c123a4201c286a31d5add0ab214ae430586c3792b0a154852": {
+    "url": "militarywave/24532",
+    "title": "Brazil Introduces Russian Language Curriculum in Local Schools",
+    "published": "2026-07-27T11:36:25.938191+00:00"
+  },
+  "cdf0d418983a02e6aedcb40e495ab2ef3ca4f061b2775d87e2368d627a53c5d6": {
+    "url": "Middle_East_Spectator/35496",
+    "title": "Iranian Drone Targets Erbil Governorate in Iraqi Kurdistan",
+    "published": "2026-07-27T11:35:03.940053+00:00"
+  },
+  "d038346c70e062edd42cb2e2beb06d24804a3b214d0f92a1041b5ef1d4cf5a5a": {
+    "url": "thecradlemedia/65065",
+    "title": "Graham's Secret Lobbying for War with Iran Exposed in Unreleased Footage",
+    "published": "2026-07-27T11:34:44.310079+00:00"
+  },
+  "3d25108797d7c08ec2b1aaee595616ab1f428e876f39d9431d018fce377c976b": {
+    "url": "thecradlemedia/65067",
+    "title": "Former Israeli Security Officials Urge Trump to Curb Settler Violence in West Bank",
+    "published": "2026-07-27T11:31:46.557093+00:00"
+  },
+  "cc315f10e60bce24d3ebdf2fcb458b676811a682ed26901d6abf3b21aef7b2f5": {
+    "url": "thecradlemedia/65071",
+    "title": "Iran Denies US Talks, Cautions Against Military Escalation",
+    "published": "2026-07-27T11:31:45.382204+00:00"
+  },
+  "c2546eac5c128fc67217131e22b05fa592d436d72827b4dd1deb90e46bc6a9c4": {
+    "url": "https://tass.com/emergencies/2165863",
+    "title": "FACTBOX: What we know about terror attack in Berlin, one dead, 29 injured",
+    "published": "2026-07-27T09:40:56+00:00"
+  },
+  "c81c46bbb32b28193b3e5c3932241ee050c0ef53c1d473443b03a946d65322fe": {
+    "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+    "title": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
+    "published": "2026-07-27T08:14:46+00:00"
+  },
   "3023670fe5269df599eaa999fbbf3ffc45eb4b37088b166399ef41a6958b12b3": {
     "url": "Slavyangrad/170884",
     "title": "Russian Forces Repel Drone Threat on Zaporozhye Front",
@@ -33,6 +73,11 @@
     "url": "https://english.almanar.com.lb/article/108777/",
     "title": "Iran Warns Ukraine of \u2018Heavy Cost\u2019 as Deadly Caspian Sea Strike Escalates Rift - Al-Manar TV Lebanon",
     "published": "2026-07-27T07:26:26+00:00"
+  },
+  "f113fecd6bf7c0089e3de629f6040fb0eda145a07037affd87e3199eafbd64b7": {
+    "url": "https://tass.com/world/2165773",
+    "title": "More than 600 US service members injured since Iran operation began in February \u2014 media",
+    "published": "2026-07-27T06:24:40+00:00"
   },
   "ec8b3bcd49331fc888c9b1d65575637e331d5f24731ad220d92e1328365ad43c": {
     "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
@@ -703,50 +748,5 @@
     "url": "QudsNen/232671",
     "title": "Israeli Airstrike Hits Gaza City's Sheikh Roadwan Neighborhood",
     "published": "2026-07-25T11:22:19.997858+00:00"
-  },
-  "d264fc9ce1f4564b5ff82cce9c7d6b39b0b74c902edee389d9c9f1d323f25e40": {
-    "url": "Middle_East_Spectator/35460",
-    "title": "Saudi Arabia's Jazan Refinery Hit by Yemeni Missile Strikes",
-    "published": "2026-07-25T11:21:17.095778+00:00"
-  },
-  "bdf4b065871812ccafe6b2b907be6d1cbc6f242be18f9170efbd57df2fccfb63": {
-    "url": "thecradlemedia/64985",
-    "title": "Israeli Forces Detain Dozens in West Bank Raids",
-    "published": "2026-07-25T11:21:00.846571+00:00"
-  },
-  "53533bc625fb8cd90513c5ad48206cf86066a9ae7e22b7810d2e6c63cc8e0a30": {
-    "url": "thecradlemedia/64988",
-    "title": "UNESCO Inscribes Sebastia in World Heritage List Amid Israeli Opposition",
-    "published": "2026-07-25T11:19:37.880085+00:00"
-  },
-  "54e32c7177ba62722b900167c92144deb9b77219c433d45d3cfbdddbfa19f309": {
-    "url": "thecradlemedia/64990",
-    "title": "Israeli Forces Conduct Operations in Southern Lebanon",
-    "published": "2026-07-25T11:19:36.345753+00:00"
-  },
-  "57787589e70a4bde40d0d54ddccc2320ad7d59e9f4b0245fbf4066fdab84f4ea": {
-    "url": "thecradlemedia/64992",
-    "title": "Israeli Artillery Shelling Targets Kfar Tebnit in Southern Lebanon",
-    "published": "2026-07-25T11:18:16.422336+00:00"
-  },
-  "2b21b65dea4cde9447a821069e57f2fe9798f1c533a43ad518e9a1eae5c6fadf": {
-    "url": "warmonitors/45116",
-    "title": "Houthi Missile Strike Hits Jizan, Saudi Arabia",
-    "published": "2026-07-25T10:00:05.749943+00:00"
-  },
-  "13808c30ea573f6c2bdf302057dd45f5b64ebb263121607c1e30ec878aa8d8fb": {
-    "url": "DDGeopolitics/189888",
-    "title": "Russia Destroys Vessel Carrying Military Cargo in Black Sea",
-    "published": "2026-07-25T09:59:47.408758+00:00"
-  },
-  "b9780fe9c88e0e8bf5ec3337274accedd7ad80d043b56574f214ec56f0dd9b20": {
-    "url": "QudsNen/232656",
-    "title": "Israeli Military Clampdown on Funeral Procession in West Bank Town of Tell",
-    "published": "2026-07-25T09:59:24.467203+00:00"
-  },
-  "4af33162699f07fb7f779ad79a9a512b9c5f1b5600291def6a4bf267fda768d5": {
-    "url": "thecradlemedia/64968",
-    "title": "Saudi Aramco Jazan Refinery Hit in Retaliatory Strike",
-    "published": "2026-07-25T09:57:55.858253+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5259,
+  "total_calls": 5263,
   "tiers": {
-    "groq": 5240,
+    "groq": 5244,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T17:43:38.003452+00:00",
-      "tier": "groq",
-      "article": "Iran &#039;rapidly rebuilds&#039; military sites hit by US-Israeli attacks: Report"
-    },
-    {
-      "timestamp": "2026-07-24T17:44:16.408906+00:00",
-      "tier": "groq",
-      "article": "Wildberries warehouses in Russia targeted again in overnight Ukrainian drone attacks"
-    },
-    {
-      "timestamp": "2026-07-24T17:45:07.786796+00:00",
-      "tier": "groq",
-      "article": "What to know of strike on training ground near Kiev used to demonstrate drones"
-    },
-    {
-      "timestamp": "2026-07-24T17:45:24.926089+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-24T19:31:08.713609+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-27T07:37:44.823737+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T11:29:57.563835+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: What we know about terror attack in Berlin, one dead, 29 injured"
+    },
+    {
+      "timestamp": "2026-07-27T11:30:34.737440+00:00",
+      "tier": "groq",
+      "article": "More than 600 US service members injured since Iran operation began in February \u2014 media"
+    },
+    {
+      "timestamp": "2026-07-27T11:30:54.765238+00:00",
+      "tier": "groq",
+      "article": "US and Iran pause strikes for third night to make space for talks, US ambassador says"
+    },
+    {
+      "timestamp": "2026-07-27T11:31:41.901152+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
