@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5275,
+  "total_calls": 5279,
   "tiers": {
-    "groq": 5256,
+    "groq": 5260,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T02:54:27.087697+00:00",
-      "tier": "groq",
-      "article": "Saudi-led coalition bombs Yemen\u2019s Hodeidah after Houthi attacks"
-    },
-    {
-      "timestamp": "2026-07-25T02:55:06.201658+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-25T02:55:22.663869+00:00",
-      "tier": "groq",
-      "article": "Saudi-led coalition strikes Houthi-controlled Hodeidah"
-    },
-    {
-      "timestamp": "2026-07-25T02:55:38.899513+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T06:23:40.065513+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-27T19:43:03.032220+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T21:17:06.219151+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-27T21:17:22.434189+00:00",
+      "tier": "groq",
+      "article": "Pentagon calls for cheaper long-range strike weapons,\u00a0with testing in just 3 months"
+    },
+    {
+      "timestamp": "2026-07-27T21:17:38.324447+00:00",
+      "tier": "groq",
+      "article": "Saudi Arabia defends against drone strikes from \u2018Iran-backed\u2019 groups"
+    },
+    {
+      "timestamp": "2026-07-27T21:17:54.581010+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
