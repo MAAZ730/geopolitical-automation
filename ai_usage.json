@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5263,
+  "total_calls": 5267,
   "tiers": {
-    "groq": 5244,
+    "groq": 5248,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-24T19:31:08.713609+00:00",
-      "tier": "groq",
-      "article": "Saudi Arabia confirms Yemeni attack on two oil tankers"
-    },
-    {
-      "timestamp": "2026-07-24T19:31:41.674025+00:00",
-      "tier": "groq",
-      "article": "More deaths and destruction reported as US keeps targeting Iran\u2019s civilians, vital infrastructure"
-    },
-    {
-      "timestamp": "2026-07-24T19:32:30.652939+00:00",
-      "tier": "groq",
-      "article": "FACTBOX: What is known about Russian forces\u2019 group strikes on Ukrainian ports"
-    },
-    {
-      "timestamp": "2026-07-24T19:33:22.972957+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-24T21:09:30.557994+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-27T11:31:41.901152+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T14:44:20.717458+00:00",
+      "tier": "groq",
+      "article": "Trump denies munitions shortage amid Iran war"
+    },
+    {
+      "timestamp": "2026-07-27T14:44:58.423922+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-27T14:45:43.684371+00:00",
+      "tier": "groq",
+      "article": "Moment Ukrainian drones strike Russia\u2019s Belgorod"
+    },
+    {
+      "timestamp": "2026-07-27T14:45:59.706221+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
