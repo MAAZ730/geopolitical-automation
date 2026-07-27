@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5279,
+  "total_calls": 5283,
   "tiers": {
-    "groq": 5260,
+    "groq": 5264,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T06:23:40.065513+00:00",
-      "tier": "groq",
-      "article": "Yemen launches retaliatory attacks on Saudi Arabia"
-    },
-    {
-      "timestamp": "2026-07-25T06:23:58.307846+00:00",
-      "tier": "groq",
-      "article": "US attack on Iranian rescue boats amounts to war crime"
-    },
-    {
-      "timestamp": "2026-07-25T06:24:17.204481+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike cargo ship, two tugboats at Nikolayev seaport"
-    },
-    {
-      "timestamp": "2026-07-25T06:24:38.065402+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T09:54:55.945008+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-27T21:17:54.581010+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-27T23:07:56.074732+00:00",
+      "tier": "groq",
+      "article": "Trump says Iran war talks taking place during lull in strikes"
+    },
+    {
+      "timestamp": "2026-07-27T23:08:34.446734+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-27T23:08:50.818123+00:00",
+      "tier": "groq",
+      "article": "Yemeni army targets Saudi Arabia\u2019s oil transport facilities"
+    },
+    {
+      "timestamp": "2026-07-27T23:09:08.297660+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
