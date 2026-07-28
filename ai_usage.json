@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5291,
+  "total_calls": 5295,
   "tiers": {
-    "groq": 5272,
+    "groq": 5276,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T13:40:50.795357+00:00",
-      "tier": "groq",
-      "article": "Zaporozhye Region governor calls Ukrainian strike on recreation centers outrageous crime"
-    },
-    {
-      "timestamp": "2026-07-25T13:41:24.662225+00:00",
-      "tier": "groq",
-      "article": "Yemeni missiles ignite Saudi Aramco&#039;s $12bn Jazan complex"
-    },
-    {
-      "timestamp": "2026-07-25T13:42:11.648424+00:00",
-      "tier": "groq",
-      "article": "US warned Ukraine against strikes on oil infrastructure in Black Sea \u2014 WSJ"
-    },
-    {
-      "timestamp": "2026-07-25T13:43:04.011514+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T15:06:14.840227+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-28T06:31:26.048713+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-28T10:41:01.963239+00:00",
+      "tier": "groq",
+      "article": "How Orb\u00e1n\u2019s Fall Changed Serbia\u2019s Political Future"
+    },
+    {
+      "timestamp": "2026-07-28T10:41:49.211777+00:00",
+      "tier": "groq",
+      "article": "Is the US really running out of weapons under Trump?"
+    },
+    {
+      "timestamp": "2026-07-28T10:42:04.887575+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-28T10:42:50.052393+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
