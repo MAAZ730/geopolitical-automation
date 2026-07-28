@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5303,
+  "total_calls": 5307,
   "tiers": {
-    "groq": 5284,
+    "groq": 5288,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T19:14:28.129187+00:00",
-      "tier": "groq",
-      "article": "Iran urges UN action, calls US strike on rescue vessels a \u2018war crime\u2019"
-    },
-    {
-      "timestamp": "2026-07-25T19:15:11.536532+00:00",
-      "tier": "groq",
-      "article": "How Yemen trapped Saudi Arabia in a double chokehold"
-    },
-    {
-      "timestamp": "2026-07-25T19:15:58.558304+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-25T19:16:14.759722+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T20:59:02.246098+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-28T17:41:41.783459+00:00",
       "tier": "groq",
       "article": "Russian ambassador rejects Romania\u2019s accusations related to drone incidents"
+    },
+    {
+      "timestamp": "2026-07-28T19:28:45.981351+00:00",
+      "tier": "groq",
+      "article": "Houthis strike Saudi tanker NCC Ghazal with missile"
+    },
+    {
+      "timestamp": "2026-07-28T19:29:24.947163+00:00",
+      "tier": "groq",
+      "article": "The South Caucasus: The Persian Gulf of Eurasia's future?"
+    },
+    {
+      "timestamp": "2026-07-28T19:30:11.387332+00:00",
+      "tier": "groq",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-07-28T19:30:59.564722+00:00",
+      "tier": "groq",
+      "article": "Kiev, West using 'confidentiality' as cover to mask lies about Russia \u2014 diplomat"
     }
   ]
 }
