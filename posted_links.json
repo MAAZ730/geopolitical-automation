@@ -1,4 +1,34 @@
 {
+  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
+    "url": "CensoredMen/230",
+    "title": "IRGC Claims Strike on U.S. Installation Near Jordanian Border",
+    "published": "2026-07-28T02:52:45.108635+00:00"
+  },
+  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
+    "url": "CensoredMen/232",
+    "title": "Trump Dismisses Claims of US Anti-War Sentiment Amid Ongoing Conflict",
+    "published": "2026-07-28T02:52:31.523186+00:00"
+  },
+  "feca04a3e0202a28f23ebddfb5f2bf63da683ebc91bfc136a5a41e0f9e0de3f6": {
+    "url": "presstv/200561",
+    "title": "Explosions Rock Erbil, Iraq; US Consulate Among Targets",
+    "published": "2026-07-28T02:51:00.602931+00:00"
+  },
+  "f4693460f8187c350c0a2dfaa0efd22cd72791a21bfc7e499671da41be7661fc": {
+    "url": "BellumActaNews/175859",
+    "title": "IDF Expands Ground Control in Gaza, Advancing Along Yellow Line",
+    "published": "2026-07-28T02:50:05.891853+00:00"
+  },
+  "b9c0f0a00c88abed52e57f03d3da1dd75bf85d1e2bce8b86c0576c4beeceb5b8": {
+    "url": "warmonitors/45128",
+    "title": "US-Iran Ceasefire Odds Rise Amid Escalation",
+    "published": "2026-07-28T02:50:03.079999+00:00"
+  },
+  "ddf5caf870c5424c770ca06ebdbc515ec4a3214a90e054c9951a8d3650924f17": {
+    "url": "Middle_East_Spectator/35539",
+    "title": "Iran Executes Two for Alleged Roles in Violent Attack on Police Officers in Esfahan",
+    "published": "2026-07-28T02:49:57.388093+00:00"
+  },
   "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
     "url": "CensoredMen/239",
     "title": "China's Beach Patrol: Drone Enforces Nighttime Swimming Ban in Qingdao",
@@ -194,6 +224,11 @@
     "title": "UK Home Office Faces Allegations of Blocking Gaza Family Reunions",
     "published": "2026-07-27T14:46:05.622768+00:00"
   },
+  "eea8ce60e4ef1c6db5fb79a5cf0bf9faf289d4a58c5b9d2f71653ad879fb2886": {
+    "url": "https://tass.com/politics/2166001",
+    "title": "Russian forces to punish Kiev for terrorist attacks against civilians \u2014 MFA",
+    "published": "2026-07-27T13:26:58+00:00"
+  },
   "5d16a5166d7bdfdfb8cefc9c216c7ec57e363e158135469e84b8f5901573ee7d": {
     "url": "presstv/200502",
     "title": "Israeli Air Defenders' Missiles Crash in Jordan",
@@ -288,6 +323,11 @@
     "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
     "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
     "published": "2026-07-27T06:15:01+00:00"
+  },
+  "0ac1368d695497ac84bee41dfd238e0ad7b6a8f898ea254c332baa587cebefb1": {
+    "url": "https://www.rt.com/news/643505-us-iran-strikes-not-effective/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "CENTCOM chief urged Trump to halt Hormuz strikes \u2013 Axios",
+    "published": "2026-07-27T03:38:16+00:00"
   },
   "1f76b57e556c25018f25706c8af54d175dd5c9d3b184483be014888f7f3ad1ae": {
     "url": "mod_russia_en/28516",
@@ -708,45 +748,5 @@
     "url": "QudsNen/232756",
     "title": "Israeli Airstrike Targets Nabatieh Al-Fawqa, Southern Lebanon",
     "published": "2026-07-25T23:06:00.290092+00:00"
-  },
-  "3bec272a7483d60ac126cb93ad78b43dc4812922e602ee92c2a927d81536cc2b": {
-    "url": "QudsNen/232757",
-    "title": "Israel Steps Up Digital Influence Campaigns in Washington",
-    "published": "2026-07-25T23:05:59.301957+00:00"
-  },
-  "2920bb435a5d28d879fc5b1255b47215ca3f308c36718ff8beeda74adafc0360": {
-    "url": "Middle_East_Spectator/35477",
-    "title": "Clashes Erupt in Yemen's Al Jawf Province",
-    "published": "2026-07-25T23:05:56.622880+00:00"
-  },
-  "c1c65a31f15b483a9b91980994405e8b87cfc3723556415488f7db386495c250": {
-    "url": "intelslava/91488",
-    "title": "Clashes Erupt in Yemen's Al Jawf Governorate Between Houthi Forces and Al-Juayd Tribal Fighters",
-    "published": "2026-07-25T21:06:36.379699+00:00"
-  },
-  "5e43c4cf27bcb55bf219206e121e068085f9565f20277ccc360be7e5f658bb8f": {
-    "url": "intelslava/91490",
-    "title": "Russian Missile Hits Post Office in Zaporizhzhia",
-    "published": "2026-07-25T21:06:21.406813+00:00"
-  },
-  "2d701cc0a5988aeafe332271168e7f2925b8eb64523969c8adc10e97718c0b46": {
-    "url": "QudsNen/232740",
-    "title": "Israeli Airstrike Kills Palestinian Student in Khan Younis",
-    "published": "2026-07-25T21:04:58.773783+00:00"
-  },
-  "8756d62480da843e5458e37f068f789b77ce4bdef58466310048cd65f52555fd": {
-    "url": "QudsNen/232746",
-    "title": "Israeli Forces Raid Kafr Malik, Sparking Fires Amid Tear Gas Deployment",
-    "published": "2026-07-25T21:04:57.408401+00:00"
-  },
-  "fea37c746df9b84a3e43de0a9767d00199b90a0901de057bcb944c53df9e28d1": {
-    "url": "QudsNen/232749",
-    "title": "Israeli Forces Shut Down Businesses in Huwwara, West Bank",
-    "published": "2026-07-25T21:03:59.952389+00:00"
-  },
-  "df333651f35bccb54391332a90d599b472e1c0d08938220fc1fd1326e2d576d7": {
-    "url": "QudsNen/232750",
-    "title": "Israel's Foreign Minister Confirmed to Have Led Efforts to Oust ICC Prosecutor",
-    "published": "2026-07-25T21:03:57.429732+00:00"
   }
 }
