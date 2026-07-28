@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5311,
+  "total_calls": 5315,
   "tiers": {
-    "groq": 5292,
+    "groq": 5296,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T23:00:17.269135+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-25T23:00:56.738955+00:00",
-      "tier": "groq",
-      "article": "The empire strikes The Hague"
-    },
-    {
-      "timestamp": "2026-07-25T23:01:49.844316+00:00",
-      "tier": "groq",
-      "article": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks"
-    },
-    {
-      "timestamp": "2026-07-25T23:02:06.085062+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-26T03:19:47.620100+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-28T22:01:43.110810+00:00",
       "tier": "groq",
       "article": "Iran to defend against any threat: First VP"
+    },
+    {
+      "timestamp": "2026-07-28T23:05:16.565786+00:00",
+      "tier": "groq",
+      "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
+    },
+    {
+      "timestamp": "2026-07-28T23:05:49.396628+00:00",
+      "tier": "groq",
+      "article": "Israeli airstrike destroys Gaza City mosque near displacement camp"
+    },
+    {
+      "timestamp": "2026-07-28T23:06:37.085984+00:00",
+      "tier": "groq",
+      "article": "Ukrainian strikes on Novorossiysk trigger diesel shortage in Moldova, PM says"
+    },
+    {
+      "timestamp": "2026-07-28T23:07:23.129491+00:00",
+      "tier": "groq",
+      "article": "Cells belonging to Ukraine carried out bombings in Iraq"
     }
   ]
 }
