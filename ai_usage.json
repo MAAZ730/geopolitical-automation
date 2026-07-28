@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5295,
+  "total_calls": 5299,
   "tiers": {
-    "groq": 5276,
+    "groq": 5280,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T15:06:14.840227+00:00",
-      "tier": "groq",
-      "article": "Yemeni army strikes Saudi Aramco facilities in twin operations"
-    },
-    {
-      "timestamp": "2026-07-25T15:06:48.577252+00:00",
-      "tier": "groq",
-      "article": "Israel martyrs 6 Palestinians as Gaza death toll hits 73,317"
-    },
-    {
-      "timestamp": "2026-07-25T15:07:35.172342+00:00",
-      "tier": "groq",
-      "article": "Targeted attacks to continue until enemy's total surrender"
-    },
-    {
-      "timestamp": "2026-07-25T15:07:52.454523+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T17:03:08.238082+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-28T10:42:50.052393+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-28T14:13:38.392327+00:00",
+      "tier": "groq",
+      "article": "Iran's missile forces remain effective after five months of US strikes \u2014 FT"
+    },
+    {
+      "timestamp": "2026-07-28T14:14:15.371525+00:00",
+      "tier": "groq",
+      "article": "Banderol missile strike indicates emergence of new precision missile carrier \u2014 expert"
+    },
+    {
+      "timestamp": "2026-07-28T14:15:04.790643+00:00",
+      "tier": "groq",
+      "article": "Israel wants to strike Iran's energy facilities, but US disapproves \u2014 defense minister"
+    },
+    {
+      "timestamp": "2026-07-28T14:15:57.644943+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
