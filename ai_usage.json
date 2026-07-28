@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5307,
+  "total_calls": 5311,
   "tiers": {
-    "groq": 5288,
+    "groq": 5292,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T20:59:02.246098+00:00",
-      "tier": "groq",
-      "article": "Head of Hamas-led police in northern Gaza killed by Israeli strike"
-    },
-    {
-      "timestamp": "2026-07-25T20:59:38.357620+00:00",
-      "tier": "groq",
-      "article": "Iran condemns Ukrainian strike on its commercial ship in Caspian Sea"
-    },
-    {
-      "timestamp": "2026-07-25T21:00:25.186830+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-25T21:00:41.578583+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T23:00:17.269135+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-28T19:30:59.564722+00:00",
       "tier": "groq",
       "article": "Kiev, West using 'confidentiality' as cover to mask lies about Russia \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-07-28T21:59:29.709088+00:00",
+      "tier": "groq",
+      "article": "Yemen vows relentless strikes on S. Arabia until siege lifted"
+    },
+    {
+      "timestamp": "2026-07-28T22:00:08.840625+00:00",
+      "tier": "groq",
+      "article": "Pentagon changes Iran war casualty reporting, raising questions over transparency"
+    },
+    {
+      "timestamp": "2026-07-28T22:00:55.436033+00:00",
+      "tier": "groq",
+      "article": "US general warns Trump American munitions stockpile for Iran war running low \u2014 AP"
+    },
+    {
+      "timestamp": "2026-07-28T22:01:43.110810+00:00",
+      "tier": "groq",
+      "article": "Iran to defend against any threat: First VP"
     }
   ]
 }

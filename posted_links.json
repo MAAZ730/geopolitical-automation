@@ -1,4 +1,39 @@
 {
+  "6fbba12d534f781170d7b75bc0bdd3773363e7092747b591777d1d46f35a7a09": {
+    "url": "BellumActaNews/175910",
+    "title": "Iranian Ballistic Missile Launched from Khomein",
+    "published": "2026-07-28T22:06:59.987454+00:00"
+  },
+  "e5ea3d804d68f19df4679eface74e0de5b259498b756da54cdf4b8f96e02bb57": {
+    "url": "DDGeopolitics/190141",
+    "title": "Yemeni Missiles Hit Petroleum Facilities in Yanbu, Saudi Arabia",
+    "published": "2026-07-28T22:05:07.054498+00:00"
+  },
+  "0920d78bccfb4557f168d4af3bc541058bee04ea4b242e0288e92451947d439f": {
+    "url": "QudsNen/233171",
+    "title": "Israeli Artillery Hits Nabatieh Al-Fawqa in Southern Lebanon",
+    "published": "2026-07-28T22:05:01.297938+00:00"
+  },
+  "2b61d364a5d4dd22fdd87d73f60d7e28f7b27e11319c81ab059d4239605511d0": {
+    "url": "QudsNen/233185",
+    "title": "UK Campaign Group Wins Compensation for Seized Gaza Protest Banner",
+    "published": "2026-07-28T22:04:54.314418+00:00"
+  },
+  "70f33bb1ce86b65302321969fda15a0078e827e03e4dffbf6ba61a311c22bfbc": {
+    "url": "Middle_East_Spectator/35559",
+    "title": "Iran Seeks Control Over Strategic Strait of Hormuz",
+    "published": "2026-07-28T22:04:49.505946+00:00"
+  },
+  "0da3e66304b61a4e8bf2689671521153a4d53f24987b313ddeaeed792f9e5364": {
+    "url": "Middle_East_Spectator/35563",
+    "title": "Iran Launches Ballistic Missiles at US Bases in Jordan",
+    "published": "2026-07-28T22:01:50.148038+00:00"
+  },
+  "374379ae06739ca951e413024722247914febff1e5aeb66f9d5f84db0c1464e4": {
+    "url": "https://en.mehrnews.com/news/246605/Yemen-vows-relentless-strikes-on-S-Arabia-until-siege-lifted",
+    "title": "Yemen vows relentless strikes on S. Arabia until siege lifted",
+    "published": "2026-07-28T19:39:39+00:00"
+  },
   "a4e102447ebffd470b9d4a2a4b76751def742bde68ee9df17c97adf6860266b8": {
     "url": "militarywave/24552",
     "title": "Mariupol Residents' Plight Captured in Viral Documentary",
@@ -69,6 +104,11 @@
     "title": "The South Caucasus: The Persian Gulf of Eurasia's future?",
     "published": "2026-07-28T17:26:42+00:00"
   },
+  "e5450c407299a2b12792d187b62494ca5a2eb7c0c339cba61d71570905a5e30b": {
+    "url": "https://www.tehrantimes.com/news/528669/Pentagon-changes-Iran-war-casualty-reporting-raising-questions",
+    "title": "Pentagon changes Iran war casualty reporting, raising questions over transparency",
+    "published": "2026-07-28T17:21:39+00:00"
+  },
   "5fed01827e2efbcca4bee5bd420683483ebe468feecc13582ece0df3522c07d8": {
     "url": "https://tass.com/politics/2166507",
     "title": "Six civilians injured after Ukraine\u2019s drone attacks on Kerch",
@@ -118,6 +158,11 @@
     "url": "https://thecradle.co/articles-id/39044",
     "title": "Kremlin demands Ukrainian threat be &#039;definitively destroyed&#039; after Caspian Sea strike on Iranian vessel",
     "published": "2026-07-28T12:57:40+00:00"
+  },
+  "2aae6b18174e2c3749c6fa09dc50cf3b1b0807353f7879ef42bbfa2a72b3ea49": {
+    "url": "https://tass.com/world/2166389",
+    "title": "US general warns Trump American munitions stockpile for Iran war running low \u2014 AP",
+    "published": "2026-07-28T11:32:10+00:00"
   },
   "6810ac8c5caa1e9db463648461afa059346f6c29638e9813c894f5c61f8f5cdf": {
     "url": "https://sana.sy/en/international/2332707/",
@@ -198,6 +243,11 @@
     "url": "QudsNen/233061",
     "title": "Israeli Forces Raid, Search Palestinian Home in Kafr Qaddum, West Bank",
     "published": "2026-07-28T06:31:31.437173+00:00"
+  },
+  "67ad788637cd72277f2593792afe48fcedd6a00bdce480ebe87cd4853614d07c": {
+    "url": "https://en.mehrnews.com/news/246579/Iran-to-defend-against-any-threat-First-VP",
+    "title": "Iran to defend against any threat: First VP",
+    "published": "2026-07-28T04:03:12+00:00"
   },
   "01f5d2d7c366a6110f23abee665a30d7d699c1dbd87add3cd85627e102e50b02": {
     "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65038",
     "title": "West Bank Violence Escalates Amid Netanyahu's Vow to Broaden Campaign",
     "published": "2026-07-26T19:20:37.616755+00:00"
-  },
-  "d211987b7088df825872ddb9f804ff8710380d16d3c888be5fc6a193261314c9": {
-    "url": "https://tass.com/politics/2165653",
-    "title": "Lavrov offers condolences to Araghchi over sailor's death in Kiev\u2019s attack on Iranian ship",
-    "published": "2026-07-26T18:14:27+00:00"
-  },
-  "dc256c3319513e231e25895b8954de1b5579168858f9228a6050e39c2688370a": {
-    "url": "https://www.tehrantimes.com/news/528572/Pezeshkian-calls-US-infrastructure-attacks-war-crimes-demands",
-    "title": "Pezeshkian calls US infrastructure attacks 'war crimes,' demands intl legal action",
-    "published": "2026-07-26T18:11:05+00:00"
-  },
-  "16a79b6dceedec3eac02a71c69e845fe2ebc0c0ffd5d71ef8d897cee829e3b4f": {
-    "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
-    "title": "Police shoot dead Berlin Pride car-ramming attack suspect",
-    "published": "2026-07-26T17:51:37+00:00"
-  },
-  "4c213b38e051b52eb8acd6e0f3aee6cc4ed53e8eca4c1d74f3b1c37f865e77b1": {
-    "url": "QudsNen/232868",
-    "title": "Israeli Forces Detain Palestinians in Raid on Beit Furik",
-    "published": "2026-07-26T17:14:33.292506+00:00"
-  },
-  "6343f926d3a58c0d6a065225c4a9240339ec92bcc65c8ad53cbda941e4d31a24": {
-    "url": "QudsNen/232870",
-    "title": "Tear Gas Deployed During Israeli Raid Near Jalazone Refugee Camp",
-    "published": "2026-07-26T17:14:00.357556+00:00"
-  },
-  "e6735bd97b58f65e4105e29516378f92793a0b6272e0f02e3d8852c4a57217f5": {
-    "url": "thecradlemedia/65039",
-    "title": "US Ambassador Denies Military Stockpiles Depleted Amid Ongoing Conflicts",
-    "published": "2026-07-26T17:13:20.300558+00:00"
-  },
-  "5778ad8a6506f63e18914aa0bb82050934cb2fc7f62a52db1a079c6c83eb23a1": {
-    "url": "thecradlemedia/65040",
-    "title": "UN Chief Calls on Israel to Halt Golan Heights 'Violations'",
-    "published": "2026-07-26T17:10:22.504456+00:00"
-  },
-  "768e9f20aa254ae03fa03632f0e6f1e1ca35388247f27c5add016454c148297c": {
-    "url": "thecradlemedia/65041",
-    "title": "Israeli Military Operations Cause Explosions and Artillery Strikes in Southern Lebanon",
-    "published": "2026-07-26T17:10:21.328591+00:00"
-  },
-  "287a384017ca4788451323a86a370c852124b05749d2283d92f3007f3c7ea849": {
-    "url": "thecradlemedia/65042",
-    "title": "Israel Strikes Vehicle in Central Gaza, Killing Two Palestinians",
-    "published": "2026-07-26T17:10:20.318382+00:00"
-  },
-  "593413c4dfe63c5ba5d4b0e10d129e7497d344b6a9ac924179edaf5bcf16cd69": {
-    "url": "https://en.irna.ir/news/86220215/Ukraine-s-attack-on-Iranian-vessel-cannot-go-unanswered-Araghchi",
-    "title": "Ukraine\u2019s attack on Iranian vessel \u2018cannot go unanswered\u2019: Araghchi",
-    "published": "2026-07-26T16:53:39+00:00"
   }
 }
