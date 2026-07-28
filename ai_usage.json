@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5287,
+  "total_calls": 5291,
   "tiers": {
-    "groq": 5268,
+    "groq": 5272,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T11:16:33.835724+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-25T11:17:07.346720+00:00",
-      "tier": "groq",
-      "article": "VIDEO: Lightning strikes Chinese rocket during launch"
-    },
-    {
-      "timestamp": "2026-07-25T11:17:54.574649+00:00",
-      "tier": "groq",
-      "article": "Iran, Oman discuss Hormuz security after US strikes"
-    },
-    {
-      "timestamp": "2026-07-25T11:18:13.214408+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T13:40:50.795357+00:00",
       "tier": "groq",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-07-28T02:49:10.279084+00:00",
+      "tier": "groq",
+      "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-28T06:29:44.215464+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s Zelenskyy set to meet Trump as Iran and Ukraine wars converge"
+    },
+    {
+      "timestamp": "2026-07-28T06:30:23.391336+00:00",
+      "tier": "groq",
+      "article": "Poll reveals only third of respondents support US strikes against Iran"
+    },
+    {
+      "timestamp": "2026-07-28T06:31:09.933656+00:00",
+      "tier": "groq",
+      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
+    },
+    {
+      "timestamp": "2026-07-28T06:31:26.048713+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
     }
