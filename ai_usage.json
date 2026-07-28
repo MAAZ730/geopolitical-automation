@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5299,
+  "total_calls": 5303,
   "tiers": {
-    "groq": 5280,
+    "groq": 5284,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-25T17:03:08.238082+00:00",
-      "tier": "groq",
-      "article": "Russian military strike ports, vessels used in Ukrainian military\u2019s interests"
-    },
-    {
-      "timestamp": "2026-07-25T17:03:42.229368+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-25T17:03:58.876213+00:00",
-      "tier": "groq",
-      "article": "\"I pulled my 11-year-old brother from the burning car, hoping he was still alive, but...\""
-    },
-    {
-      "timestamp": "2026-07-25T17:04:50.109428+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-25T19:14:28.129187+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-28T14:15:57.644943+00:00",
       "tier": "groq",
       "article": "Syria marks international Day in Support of victims of torture"
+    },
+    {
+      "timestamp": "2026-07-28T17:40:08.642119+00:00",
+      "tier": "groq",
+      "article": "Kremlin demands Ukrainian threat be &#039;definitively destroyed&#039; after Caspian Sea strike on Iranian vessel"
+    },
+    {
+      "timestamp": "2026-07-28T17:40:39.749022+00:00",
+      "tier": "groq",
+      "article": "Six civilians injured after Ukraine\u2019s drone attacks on Kerch"
+    },
+    {
+      "timestamp": "2026-07-28T17:41:24.567331+00:00",
+      "tier": "groq",
+      "article": "Israeli war chief says US \u2018blocking\u2019 Tel Aviv\u2019s plans to strike Iranian power sites"
+    },
+    {
+      "timestamp": "2026-07-28T17:41:41.783459+00:00",
+      "tier": "groq",
+      "article": "Russian ambassador rejects Romania\u2019s accusations related to drone incidents"
     }
   ]
 }
