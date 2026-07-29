@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5335,
+  "total_calls": 5339,
   "tiers": {
-    "groq": 5316,
+    "groq": 5320,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-26T17:07:54.905785+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s attack on Iranian vessel \u2018cannot go unanswered\u2019: Araghchi"
-    },
-    {
-      "timestamp": "2026-07-26T17:08:26.904203+00:00",
-      "tier": "groq",
-      "article": "Israeli military getting prepared to expand operation in Nablus in West Bank \u2014 spokesman"
-    },
-    {
-      "timestamp": "2026-07-26T17:09:14.592203+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-26T17:09:31.046317+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-26T19:18:51.056493+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-29T17:20:25.661144+00:00",
       "tier": "groq",
       "article": "Iranian Parliament passes legislation defining crimes of foreign aggression"
+    },
+    {
+      "timestamp": "2026-07-29T19:21:26.909356+00:00",
+      "tier": "groq",
+      "article": "ICC vs. US-Israeli Exceptionalism: The Fight for Justice"
+    },
+    {
+      "timestamp": "2026-07-29T19:22:12.344436+00:00",
+      "tier": "groq",
+      "article": "Iran pushes back against US as regional attacks heat up"
+    },
+    {
+      "timestamp": "2026-07-29T19:23:01.982615+00:00",
+      "tier": "groq",
+      "article": "Iran: Criminal US-Saudi strikes on Iraq align with Tel Aviv\u2013Washington ambitions"
+    },
+    {
+      "timestamp": "2026-07-29T19:23:48.785644+00:00",
+      "tier": "groq",
+      "article": "Oil tankers hit after using illegal route in Hormuz Strait"
     }
   ]
 }
