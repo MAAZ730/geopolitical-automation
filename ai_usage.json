@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5323,
+  "total_calls": 5327,
   "tiers": {
-    "groq": 5304,
+    "groq": 5308,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-26T10:08:40.760040+00:00",
-      "tier": "groq",
-      "article": "Trump puts Iran attack on hold as US ammo runs low \u2013 NYT"
-    },
-    {
-      "timestamp": "2026-07-26T10:09:18.630161+00:00",
-      "tier": "groq",
-      "article": "Pezeshkian orders fast rebuild of targeted infrastructure"
-    },
-    {
-      "timestamp": "2026-07-26T10:09:37.477617+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-26T10:09:55.411344+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-26T13:38:25.657869+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-29T06:39:23.655402+00:00",
       "tier": "groq",
       "article": "7.1-magnitude quake hits southern Japan (+VIDEO)"
+    },
+    {
+      "timestamp": "2026-07-29T10:42:07.198337+00:00",
+      "tier": "groq",
+      "article": "Dozens of Hashd Shaabi Fighters Martyred, Injured in Joint Saudi-US Aggression on Iraq - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-29T10:42:43.579531+00:00",
+      "tier": "groq",
+      "article": "Hashd al-Shaabi Says 20 Members Killed in Joint Saudi-U.S. Airstrikes"
+    },
+    {
+      "timestamp": "2026-07-29T10:43:33.061204+00:00",
+      "tier": "groq",
+      "article": "Iraqi armed groups condemn \u2018dangerous escalation\u2019 after US-Saudi strikes"
+    },
+    {
+      "timestamp": "2026-07-29T10:43:49.424883+00:00",
+      "tier": "groq",
+      "article": "Magnitude 7.1, more than 50 casualties: consequences of earthquake in Japan"
     }
   ]
 }
