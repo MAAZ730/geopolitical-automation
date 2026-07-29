@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5331,
+  "total_calls": 5335,
   "tiers": {
-    "groq": 5312,
+    "groq": 5316,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-26T15:10:59.197295+00:00",
-      "tier": "groq",
-      "article": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials"
-    },
-    {
-      "timestamp": "2026-07-26T15:11:34.844790+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-26T15:11:51.319662+00:00",
-      "tier": "groq",
-      "article": "West Bank: One martyr reported in an Israeli strike on a vehicle southeast of Deir al-Balah - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-26T15:12:07.403130+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-26T17:07:54.905785+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-29T14:20:14.299010+00:00",
       "tier": "groq",
       "article": "BARS-LPR unit to recruit fighters with drone combat experience \u2014 authorities"
+    },
+    {
+      "timestamp": "2026-07-29T17:18:48.888306+00:00",
+      "tier": "groq",
+      "article": "Iraqi PM cancels KSA visit as resistance factions vow revenge for US-Saudi strikes"
+    },
+    {
+      "timestamp": "2026-07-29T17:19:20.340353+00:00",
+      "tier": "groq",
+      "article": "Iraq\u2019s security council condemns US-Saudi strikes on Hashd al-Shaabi"
+    },
+    {
+      "timestamp": "2026-07-29T17:20:06.866880+00:00",
+      "tier": "groq",
+      "article": "Iraq's PMF reacts to joint US-Saudi strikes"
+    },
+    {
+      "timestamp": "2026-07-29T17:20:25.661144+00:00",
+      "tier": "groq",
+      "article": "Iranian Parliament passes legislation defining crimes of foreign aggression"
     }
   ]
 }
