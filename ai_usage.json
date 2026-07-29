@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5327,
+  "total_calls": 5331,
   "tiers": {
-    "groq": 5308,
+    "groq": 5312,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-26T13:38:25.657869+00:00",
-      "tier": "groq",
-      "article": "US strikes against Iran &#039;on hold&#039; amid fears of depleted missile stocks, further escalation"
-    },
-    {
-      "timestamp": "2026-07-26T13:38:56.363513+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit"
-    },
-    {
-      "timestamp": "2026-07-26T13:39:42.635591+00:00",
-      "tier": "groq",
-      "article": "Anti-war protesters demand end to US use of UK airbase to strike Iran"
-    },
-    {
-      "timestamp": "2026-07-26T13:40:34.897721+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-26T15:10:59.197295+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-29T10:43:49.424883+00:00",
       "tier": "groq",
       "article": "Magnitude 7.1, more than 50 casualties: consequences of earthquake in Japan"
+    },
+    {
+      "timestamp": "2026-07-29T14:18:25.056257+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: Killed in Crimea, injured in Ryazan Region, 295 drones: aftermath of attacks"
+    },
+    {
+      "timestamp": "2026-07-29T14:19:10.930946+00:00",
+      "tier": "groq",
+      "article": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?"
+    },
+    {
+      "timestamp": "2026-07-29T14:19:56.629472+00:00",
+      "tier": "groq",
+      "article": "US-Saudi strikes in Iraq leave dozens of casualties across multiple PMU sites"
+    },
+    {
+      "timestamp": "2026-07-29T14:20:14.299010+00:00",
+      "tier": "groq",
+      "article": "BARS-LPR unit to recruit fighters with drone combat experience \u2014 authorities"
     }
   ]
 }

@@ -1,4 +1,39 @@
 {
+  "740da98b2fbd3e5cac862df4199240cb565b152b0ee23cacaf0a3b969a142a21": {
+    "url": "presstv/200753",
+    "title": "Israeli Incendiary Bombings Rock Southern Lebanon",
+    "published": "2026-07-29T14:23:12.505802+00:00"
+  },
+  "7a87494fbd45a9908239d5ad9933e049f949c36e954412bd106795bd98a549e9": {
+    "url": "presstv/200756",
+    "title": "Iraqi Civilians Killed in US-Saudi Airstrike",
+    "published": "2026-07-29T14:22:43.262312+00:00"
+  },
+  "f0cc013a72f009955d87c0007d4dfd19be6250f506924692e148916e06cfd8da": {
+    "url": "QudsNen/233249",
+    "title": "Incendiary Airstrike Hits Ali Al-Taher Hill in Southern Lebanon",
+    "published": "2026-07-29T14:21:45.218907+00:00"
+  },
+  "562cc3fad79b1d8dee7e408b909d657e7d8756b6560980e73231ee4bd359d87a": {
+    "url": "thecradlemedia/65244",
+    "title": "Incendiary Munitions Fired at Ali al-Taher Hill in Southern Lebanon",
+    "published": "2026-07-29T14:21:13.136026+00:00"
+  },
+  "a38cad44252b16ebd65815a6cb20a12f079612c785acacf41b8a83fa966bd21c": {
+    "url": "thecradlemedia/65249",
+    "title": "FIFA Unveils $20 Billion World Cup Company with Kushner Family Backing",
+    "published": "2026-07-29T14:20:24.787338+00:00"
+  },
+  "03ff745c8262b8b99a9fee800c1564ee61fac8dc97ed83c40799b5d97627e890": {
+    "url": "thecradlemedia/65252",
+    "title": "Israeli Forces Strike Southern Lebanese Town of Houla",
+    "published": "2026-07-29T14:20:21.291320+00:00"
+  },
+  "4700539d6f14dbc9f19dc55df0b0fdd9e1c6b2984179d199a6d8b5f5898550a8": {
+    "url": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
+    "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+    "published": "2026-07-29T11:34:58+00:00"
+  },
   "d796e97d5537cd55f9a78f5a92d0ee176c8ba8fdb044280df5f3d3b813f087d6": {
     "url": "DDGeopolitics/190171",
     "title": "US Senate Advances Sanctions Bill Against Russia and Iran",
@@ -29,6 +64,11 @@
     "title": "US-Saudi Airstrikes Hit PMU Sites in Iraq",
     "published": "2026-07-29T10:43:54.898490+00:00"
   },
+  "6247bcd57088297bd1c004fd85867dc91ddff2d971d826ed9d1dc7a183496b80": {
+    "url": "https://thecradle.co/articles-id/39062",
+    "title": "US-Saudi strikes in Iraq leave dozens of casualties across multiple PMU sites",
+    "published": "2026-07-29T10:19:46+00:00"
+  },
   "d60f75401009bafbb2a132b602b8be2f80d5e1763480ca1e4ede2dcfc7b27b34": {
     "url": "https://www.tehrantimes.com/news/528674/Hashd-al-Shaabi-Says-20-Members-Killed-in-Joint-Saudi-U-S-Airstrikes",
     "title": "Hashd al-Shaabi Says 20 Members Killed in Joint Saudi-U.S. Airstrikes",
@@ -38,6 +78,11 @@
     "url": "https://english.almanar.com.lb/article/109567/",
     "title": "Dozens of Hashd Shaabi Fighters Martyred, Injured in Joint Saudi-US Aggression on Iraq - Al-Manar TV Lebanon",
     "published": "2026-07-29T08:31:10+00:00"
+  },
+  "326a0ed44626f9a39cfcb7b640d25dd5c17796a5948cd48a39ecfbeedb1e2ed0": {
+    "url": "https://tass.com/emergencies/2166677",
+    "title": "FACTBOX: Killed in Crimea, injured in Ryazan Region, 295 drones: aftermath of attacks",
+    "published": "2026-07-29T07:48:05+00:00"
   },
   "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
     "url": "CensoredMen/222",
@@ -278,6 +323,11 @@
     "url": "https://www.tehrantimes.com/news/528669/Pentagon-changes-Iran-war-casualty-reporting-raising-questions",
     "title": "Pentagon changes Iran war casualty reporting, raising questions over transparency",
     "published": "2026-07-28T17:21:39+00:00"
+  },
+  "79041f953f1f67bca1e036183cad6636d4cf8654a7d6a37c72e385ce29b0db66": {
+    "url": "https://tass.com/politics/2166527",
+    "title": "BARS-LPR unit to recruit fighters with drone combat experience \u2014 authorities",
+    "published": "2026-07-28T16:03:06+00:00"
   },
   "5fed01827e2efbcca4bee5bd420683483ebe468feecc13582ece0df3522c07d8": {
     "url": "https://tass.com/politics/2166507",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65092",
     "title": "UK Home Office Faces Allegations of Blocking Gaza Family Reunions",
     "published": "2026-07-27T14:46:05.622768+00:00"
-  },
-  "eea8ce60e4ef1c6db5fb79a5cf0bf9faf289d4a58c5b9d2f71653ad879fb2886": {
-    "url": "https://tass.com/politics/2166001",
-    "title": "Russian forces to punish Kiev for terrorist attacks against civilians \u2014 MFA",
-    "published": "2026-07-27T13:26:58+00:00"
-  },
-  "5d16a5166d7bdfdfb8cefc9c216c7ec57e363e158135469e84b8f5901573ee7d": {
-    "url": "presstv/200502",
-    "title": "Israeli Air Defenders' Missiles Crash in Jordan",
-    "published": "2026-07-27T11:37:00.989508+00:00"
-  },
-  "352fb28c224b707c123a4201c286a31d5add0ab214ae430586c3792b0a154852": {
-    "url": "militarywave/24532",
-    "title": "Brazil Introduces Russian Language Curriculum in Local Schools",
-    "published": "2026-07-27T11:36:25.938191+00:00"
-  },
-  "cdf0d418983a02e6aedcb40e495ab2ef3ca4f061b2775d87e2368d627a53c5d6": {
-    "url": "Middle_East_Spectator/35496",
-    "title": "Iranian Drone Targets Erbil Governorate in Iraqi Kurdistan",
-    "published": "2026-07-27T11:35:03.940053+00:00"
-  },
-  "d038346c70e062edd42cb2e2beb06d24804a3b214d0f92a1041b5ef1d4cf5a5a": {
-    "url": "thecradlemedia/65065",
-    "title": "Graham's Secret Lobbying for War with Iran Exposed in Unreleased Footage",
-    "published": "2026-07-27T11:34:44.310079+00:00"
-  },
-  "3d25108797d7c08ec2b1aaee595616ab1f428e876f39d9431d018fce377c976b": {
-    "url": "thecradlemedia/65067",
-    "title": "Former Israeli Security Officials Urge Trump to Curb Settler Violence in West Bank",
-    "published": "2026-07-27T11:31:46.557093+00:00"
-  },
-  "cc315f10e60bce24d3ebdf2fcb458b676811a682ed26901d6abf3b21aef7b2f5": {
-    "url": "thecradlemedia/65071",
-    "title": "Iran Denies US Talks, Cautions Against Military Escalation",
-    "published": "2026-07-27T11:31:45.382204+00:00"
-  },
-  "2ff82a1dbf8238ad7c5baabcb37d0e67a7c24fbd81c4276c019693cf4ed026b9": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/moment-ukrainian-drones-strike-russias-belgorod?traffic_source=rss",
-    "title": "Moment Ukrainian drones strike Russia\u2019s Belgorod",
-    "published": "2026-07-27T10:59:17+00:00"
-  },
-  "c2546eac5c128fc67217131e22b05fa592d436d72827b4dd1deb90e46bc6a9c4": {
-    "url": "https://tass.com/emergencies/2165863",
-    "title": "FACTBOX: What we know about terror attack in Berlin, one dead, 29 injured",
-    "published": "2026-07-27T09:40:56+00:00"
-  },
-  "a0ef3fe43d8c4c91df5d003902f7b538e88bb8c8515e5dcaaa48c319a7a10719": {
-    "url": "https://www.rt.com/news/643514-trump-rejects-reports-us-missile-shortfall/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Trump denies munitions shortage amid Iran war",
-    "published": "2026-07-27T09:25:46+00:00"
   }
 }
