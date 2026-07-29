@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5315,
+  "total_calls": 5319,
   "tiers": {
-    "groq": 5296,
+    "groq": 5300,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-26T03:19:47.620100+00:00",
-      "tier": "groq",
-      "article": "Iran condemns Ukraine over \u2018reckless\u2019 cargo ship attack"
-    },
-    {
-      "timestamp": "2026-07-26T03:20:25.673960+00:00",
-      "tier": "groq",
-      "article": "Widening war with Iran threatens US with depletion of air defense missile stocks \u2014 NYT"
-    },
-    {
-      "timestamp": "2026-07-26T03:21:12.427211+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-26T03:22:04.841319+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-26T06:41:46.508878+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-28T23:07:23.129491+00:00",
       "tier": "groq",
       "article": "Cells belonging to Ukraine carried out bombings in Iraq"
+    },
+    {
+      "timestamp": "2026-07-29T02:53:36.496669+00:00",
+      "tier": "groq",
+      "article": "Saudi Arabia joins US in strikes on Iraq"
+    },
+    {
+      "timestamp": "2026-07-29T02:54:14.125734+00:00",
+      "tier": "groq",
+      "article": "US, Saudi Arabian forces strike Iran-aligned sites in Iraq \u2014 CENTCOM"
+    },
+    {
+      "timestamp": "2026-07-29T02:55:04.928652+00:00",
+      "tier": "groq",
+      "article": "Saudi Arabia\u2019s Abqaiq oil processing complex damaged in drone strike \u2013 media"
+    },
+    {
+      "timestamp": "2026-07-29T02:55:52.274463+00:00",
+      "tier": "groq",
+      "article": "Jordan, UN stress need to uphold US-Iran ceasefire"
     }
   ]
 }

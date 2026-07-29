@@ -1,4 +1,49 @@
 {
+  "6adeb5e55bcf91c3648f4b0f397961783fa514f024ac87682dffbf2eaf395854": {
+    "url": "presstv/200678",
+    "title": "Saudi-American Airstrike Hits PMU Base in Iraq's Salah al-Din Province",
+    "published": "2026-07-29T02:59:30.540083+00:00"
+  },
+  "9044b54ff5651993cccebfc7ad7e101372a8a206cea3acbc8ca59acc8fecaea4": {
+    "url": "BellumActaNews/175929",
+    "title": "Saudi-American Coalition Conducts Airstrikes in Karbala, Iraq",
+    "published": "2026-07-29T02:58:48.648393+00:00"
+  },
+  "39b5f758ffdf29b544549539dd31203388a304464b5d267a3a4f888225d73b41": {
+    "url": "BellumActaNews/175932",
+    "title": "US-Saudi Coalition Targets PMF Positions in Iraq's Saladin Governorate",
+    "published": "2026-07-29T02:58:19.159924+00:00"
+  },
+  "a19beedf85ed0553c02bd3aed1ee4b2ebcea9de53c523ec987449a17a807f5f6": {
+    "url": "DDGeopolitics/190156",
+    "title": "NATO RQ-4D Phoenix Drone Conducts Surveillance Over Black Sea",
+    "published": "2026-07-29T02:57:26.668622+00:00"
+  },
+  "fdc6810d641e41aaeb6f4053b57917c947ff712f4d36f3bcf28747bb52da141c": {
+    "url": "QudsNen/233194",
+    "title": "Israeli Tanks Open Fire in Northern Gaza",
+    "published": "2026-07-29T02:57:24.877090+00:00"
+  },
+  "e29476427e874a746d1cc60c1c556ff2c07d8ce581a5ed6f5e4043dfd36bc388": {
+    "url": "QudsNen/233201",
+    "title": "Israeli Minister Accuses T\u00fcrkiye of Embedded Military Presence in Syria",
+    "published": "2026-07-29T02:57:23.422561+00:00"
+  },
+  "3b947521f9577cbfd822cd967e754c3a650a921819ed0455cac98a7d0a547a95": {
+    "url": "https://www.rt.com/news/643573-drone-strike-saudi-oil-hub/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Saudi Arabia\u2019s Abqaiq oil processing complex damaged in drone strike \u2013 media",
+    "published": "2026-07-29T02:32:48+00:00"
+  },
+  "24e62f41830af31b976b6f958acfcee0e183bcadcf9e8fb164c83a7a6f3559c3": {
+    "url": "https://tass.com/world/2166611",
+    "title": "US, Saudi Arabian forces strike Iran-aligned sites in Iraq \u2014 CENTCOM",
+    "published": "2026-07-29T01:40:01+00:00"
+  },
+  "0dc6888d36c6e6cd79a4ef91a4ccecbf6670fadee1e2cb75c5acae95cf85b2ff": {
+    "url": "https://www.rt.com/news/643594-saudi-us-strikes-iraq/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Saudi Arabia joins US in strikes on Iraq",
+    "published": "2026-07-29T01:02:57+00:00"
+  },
   "e5bb6b0955598f3dfdac1ac9353568c92d32019b49cb603f5e36e549879d6608": {
     "url": "intelslava/91650",
     "title": "Ukrainian Children Labor in Zaporozhye Ammunition Factories Amid Ongoing Conflict",
@@ -253,6 +298,11 @@
     "url": "thecradlemedia/65151",
     "title": "Israeli Airstrikes Leave Devastation in Southern Lebanon Village",
     "published": "2026-07-28T10:45:07.911981+00:00"
+  },
+  "c3d0d4959b3fa7c87e0d1d4efd7331b01d6335c0ed6e7b04e66506d9736547b9": {
+    "url": "https://en.mehrnews.com/news/246586/Jordan-UN-stress-need-to-uphold-US-Iran-ceasefire",
+    "title": "Jordan, UN stress need to uphold US-Iran ceasefire",
+    "published": "2026-07-28T07:34:43+00:00"
   },
   "758a78741d47007c65db85e9ad4e359c6f54ab0feae5cdbe289cbe8dd7112993": {
     "url": "https://warontherocks.com/how-orbans-fall-changed-serbias-political-future/",
@@ -698,55 +748,5 @@
     "url": "Slavyangrad/170849",
     "title": "Russian Forces Strike Factory in Sinelnikovo, Dnepropetrovsk Region",
     "published": "2026-07-26T23:09:22.729684+00:00"
-  },
-  "c95d6273834d3334ccbb19a030faf685028aec25f0f0fdbf1b5e749aba19273c": {
-    "url": "Slavyangrad/170851",
-    "title": "Russian Airstrikes Target Ukrainian Military Positions",
-    "published": "2026-07-26T23:08:06.715316+00:00"
-  },
-  "4f8a1090f1584d34a0fdf999bc62283f14769afea59d26131e9c176e2eb8e116": {
-    "url": "DDGeopolitics/189995",
-    "title": "Yemeni Forces Down Turkish-Made Drone in Al-Jawf Province",
-    "published": "2026-07-26T23:06:32.398916+00:00"
-  },
-  "51f7a7c35fbd993aa984b5fff7255c196e74c8d348afc4efe2a9a1e49af1f45b": {
-    "url": "DDGeopolitics/190002",
-    "title": "Cargo Ship Sinks Off Odessa Coast Following Missile Strike",
-    "published": "2026-07-26T23:06:31.000972+00:00"
-  },
-  "c64203f850296afcbb590fef7a221303fef0c2753e5b94ebef4a7f2fbaa565d4": {
-    "url": "DDGeopolitics/190007",
-    "title": "Turkish Interests Suffer Multiple Setbacks in Strait of Hormuz, Yemen and Ukraine",
-    "published": "2026-07-26T23:06:29.562100+00:00"
-  },
-  "fa827a67dae9695946976596f6359518c81416772f5434a3b63b046258dc1af2": {
-    "url": "QudsNen/232908",
-    "title": "Israeli Artillery Strikes Eastern Gaza City",
-    "published": "2026-07-26T23:05:49.614405+00:00"
-  },
-  "a6b76a802c849c3de3e0a76f8afefef442963a0a15ecfb9d6164d30b2fa9b504": {
-    "url": "https://tass.com/defense/2165727",
-    "title": "Two killed as Ukrainian troops launch 30 attacks against settlements in DPR over past day",
-    "published": "2026-07-26T22:00:05+00:00"
-  },
-  "8daf092d24b8f0e1f68e934c33768630079375b60128ee1db35f17066ce09d34": {
-    "url": "Slavyangrad/170830",
-    "title": "Russia Deploys Cruise Missile in Kharkov Strike",
-    "published": "2026-07-26T21:10:27.741930+00:00"
-  },
-  "181af43241ec79fa88d430dbe12afab3613ea3b2a8428742073712768dd39901": {
-    "url": "CensoredMen/216",
-    "title": "Iranian Missile Strike Hits U.S. Military Facility in Region",
-    "published": "2026-07-26T21:09:44.920313+00:00"
-  },
-  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
-    "url": "CensoredMen/222",
-    "title": "US Forces Enforce Maritime Blockade Against Iran",
-    "published": "2026-07-26T21:09:16.456442+00:00"
-  },
-  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
-    "url": "CensoredMen/229",
-    "title": "Ukraine Destroys Wildberries Warehouse in Nevinnomyssk",
-    "published": "2026-07-26T21:08:16.928285+00:00"
   }
 }
