@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5359,
+  "total_calls": 5363,
   "tiers": {
-    "groq": 5340,
+    "groq": 5344,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-27T11:29:57.563835+00:00",
-      "tier": "groq",
-      "article": "FACTBOX: What we know about terror attack in Berlin, one dead, 29 injured"
-    },
-    {
-      "timestamp": "2026-07-27T11:30:34.737440+00:00",
-      "tier": "groq",
-      "article": "More than 600 US service members injured since Iran operation began in February \u2014 media"
-    },
-    {
-      "timestamp": "2026-07-27T11:30:54.765238+00:00",
-      "tier": "groq",
-      "article": "US and Iran pause strikes for third night to make space for talks, US ambassador says"
-    },
-    {
-      "timestamp": "2026-07-27T11:31:41.901152+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-27T14:44:20.717458+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-30T10:30:15.367418+00:00",
       "tier": "groq",
       "article": "Parl. drafts reciprocal steps against UK blacklisting of IRGC"
+    },
+    {
+      "timestamp": "2026-07-30T14:08:48.386792+00:00",
+      "tier": "groq",
+      "article": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan"
+    },
+    {
+      "timestamp": "2026-07-30T14:09:23.823870+00:00",
+      "tier": "groq",
+      "article": "Retaliatory Strikes Destroy Three F-35 Jets at US-Run Jordan Base: IRGC - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-30T14:10:14.681908+00:00",
+      "tier": "groq",
+      "article": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns"
+    },
+    {
+      "timestamp": "2026-07-30T14:10:30.951644+00:00",
+      "tier": "groq",
+      "article": "The time has come for Bahrain's liberation"
     }
   ]
 }
