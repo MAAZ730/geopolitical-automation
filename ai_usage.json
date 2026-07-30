@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5347,
+  "total_calls": 5351,
   "tiers": {
-    "groq": 5328,
+    "groq": 5332,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-26T23:03:47.924296+00:00",
-      "tier": "groq",
-      "article": "Two killed as Ukrainian troops launch 30 attacks against settlements in DPR over past day"
-    },
-    {
-      "timestamp": "2026-07-26T23:04:06.910024+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-26T23:04:35.502096+00:00",
-      "tier": "groq",
-      "article": "US and Iran hit pause on strikes for second day"
-    },
-    {
-      "timestamp": "2026-07-26T23:05:27.701031+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-27T03:29:04.284917+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-29T23:03:15.292255+00:00",
       "tier": "groq",
       "article": "Clayton appointed new US intelligence chief"
+    },
+    {
+      "timestamp": "2026-07-30T02:35:58.204429+00:00",
+      "tier": "groq",
+      "article": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning"
+    },
+    {
+      "timestamp": "2026-07-30T02:36:39.484056+00:00",
+      "tier": "groq",
+      "article": "US troops told not to film Iranian strikes (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-07-30T02:37:25.417236+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Shadegan comes under US missile attack"
+    },
+    {
+      "timestamp": "2026-07-30T02:37:43.834582+00:00",
+      "tier": "groq",
+      "article": "SCO sees new opportunities in evolving global landscape"
     }
   ]
 }

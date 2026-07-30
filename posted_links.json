@@ -1,4 +1,49 @@
 {
+  "c82285ca10272f2871b3be0a04ca03a1ccede31df81f64323fd2bd6e53d7fcee": {
+    "url": "DDGeopolitics/190228",
+    "title": "US Launches New Strikes Against Iran",
+    "published": "2026-07-30T02:43:31.501756+00:00"
+  },
+  "e52b31347872545c02138643b47804486981a819ea5dcde819c10633a058d7c3": {
+    "url": "QudsNen/233315",
+    "title": "Protesters Confront Netanyahu in Washington, D.C.",
+    "published": "2026-07-30T02:42:42.341627+00:00"
+  },
+  "76f2c9a09b65e94bb86c07d1db1e024050d521a980a254020f60c8f77d4f70e6": {
+    "url": "QudsNen/233323",
+    "title": "Gaza City Residential Apartment Hit in Israeli Drone Strike",
+    "published": "2026-07-30T02:40:06.759440+00:00"
+  },
+  "afba258d172254f663302fe902bb74cca26b69380fd5aad0159ae464862a453d": {
+    "url": "Middle_East_Spectator/35579",
+    "title": "US LNG Tanker Hit by Drone in Egypt's Damietta Port",
+    "published": "2026-07-30T02:38:01.746107+00:00"
+  },
+  "204fa20f63ae78c5126ee3826e7aeb762a21f929c60bf28b0a0bc4d67edf8464": {
+    "url": "Middle_East_Spectator/35583",
+    "title": "Bomb Warning Issued at US Embassy in Buenos Aires",
+    "published": "2026-07-30T02:38:00.607784+00:00"
+  },
+  "278e621084561fc2bb10f8b49d83d06f7983b81a32456664a86420904d71acb2": {
+    "url": "Middle_East_Spectator/35588",
+    "title": "US Airstrikes Hit Iran Amid Tensions",
+    "published": "2026-07-30T02:37:59.584656+00:00"
+  },
+  "844bc2a275d0ba135b92c4139ff6de22e510a134e401cd468bc16a96d7a33b82": {
+    "url": "https://www.rt.com/news/643644-us-troops-footage-warning/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US troops told not to film Iranian strikes (VIDEOS)",
+    "published": "2026-07-30T02:31:24+00:00"
+  },
+  "0bc0a3e21b13ca98c51f4197228d85f2871e7491e685eaec4cfcdee01fb4afc9": {
+    "url": "https://tass.com/world/2167053",
+    "title": "Iran\u2019s Shadegan comes under US missile attack",
+    "published": "2026-07-30T02:10:25+00:00"
+  },
+  "6ea625d1bfeedf071c466e14ed05966416a054f03b4583bc1578e40f1795d33f": {
+    "url": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+    "title": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning",
+    "published": "2026-07-30T00:23:13+00:00"
+  },
   "3de678b825fc15f0833211c7efd50a65f5e494b76ea4240fda4bc9e9f8fe21f8": {
     "url": "Slavyangrad/171300",
     "title": "Ukraine Braces for Aerial Threat as Bombers Approach Kiev",
@@ -248,6 +293,11 @@
     "url": "https://www.tehrantimes.com/news/528674/Hashd-al-Shaabi-Says-20-Members-Killed-in-Joint-Saudi-U-S-Airstrikes",
     "title": "Hashd al-Shaabi Says 20 Members Killed in Joint Saudi-U.S. Airstrikes",
     "published": "2026-07-29T09:42:59+00:00"
+  },
+  "ada7668b08ba0a3cad6b0bca28b30a9c6667973b4d9a67a17d78ce6d62c19fc9": {
+    "url": "https://en.mehrnews.com/news/246622/SCO-sees-new-opportunities-in-evolving-global-landscape",
+    "title": "SCO sees new opportunities in evolving global landscape",
+    "published": "2026-07-29T08:54:12+00:00"
   },
   "14eff84a92872ea3e914ec8d127ff42ec85c925b75ba365cb9894c31c2a34dc9": {
     "url": "https://en.mehrnews.com/news/246619/Clayton-appointed-new-US-intelligence-chief",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/246579/Iran-to-defend-against-any-threat-First-VP",
     "title": "Iran to defend against any threat: First VP",
     "published": "2026-07-28T04:03:12+00:00"
-  },
-  "01f5d2d7c366a6110f23abee665a30d7d699c1dbd87add3cd85627e102e50b02": {
-    "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
-    "title": "Ukraine\u2019s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-    "published": "2026-07-28T03:16:30+00:00"
-  },
-  "82fedee73502a40ee53b3473518b97ec2944d3177abeb9ffb8f8668beb95348e": {
-    "url": "https://tass.com/world/2166207",
-    "title": "Poll reveals only third of respondents support US strikes against Iran",
-    "published": "2026-07-28T03:07:00+00:00"
-  },
-  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
-    "url": "CensoredMen/230",
-    "title": "IRGC Claims Strike on U.S. Installation Near Jordanian Border",
-    "published": "2026-07-28T02:52:45.108635+00:00"
-  },
-  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
-    "url": "CensoredMen/232",
-    "title": "Trump Dismisses Claims of US Anti-War Sentiment Amid Ongoing Conflict",
-    "published": "2026-07-28T02:52:31.523186+00:00"
-  },
-  "feca04a3e0202a28f23ebddfb5f2bf63da683ebc91bfc136a5a41e0f9e0de3f6": {
-    "url": "presstv/200561",
-    "title": "Explosions Rock Erbil, Iraq; US Consulate Among Targets",
-    "published": "2026-07-28T02:51:00.602931+00:00"
-  },
-  "f4693460f8187c350c0a2dfaa0efd22cd72791a21bfc7e499671da41be7661fc": {
-    "url": "BellumActaNews/175859",
-    "title": "IDF Expands Ground Control in Gaza, Advancing Along Yellow Line",
-    "published": "2026-07-28T02:50:05.891853+00:00"
-  },
-  "b9c0f0a00c88abed52e57f03d3da1dd75bf85d1e2bce8b86c0576c4beeceb5b8": {
-    "url": "warmonitors/45128",
-    "title": "US-Iran Ceasefire Odds Rise Amid Escalation",
-    "published": "2026-07-28T02:50:03.079999+00:00"
-  },
-  "ddf5caf870c5424c770ca06ebdbc515ec4a3214a90e054c9951a8d3650924f17": {
-    "url": "Middle_East_Spectator/35539",
-    "title": "Iran Executes Two for Alleged Roles in Violent Attack on Police Officers in Esfahan",
-    "published": "2026-07-28T02:49:57.388093+00:00"
-  },
-  "feafb7bbc5c0ba72358db47ac6ee8a308d9794cf9566e7eb6b096c60440fea18": {
-    "url": "https://tass.com/politics/2166205",
-    "title": "Kiev, West using 'confidentiality' as cover to mask lies about Russia \u2014 diplomat",
-    "published": "2026-07-28T02:35:00+00:00"
-  },
-  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
-    "url": "CensoredMen/239",
-    "title": "China's Beach Patrol: Drone Enforces Nighttime Swimming Ban in Qingdao",
-    "published": "2026-07-27T23:11:48.203823+00:00"
   }
 }
