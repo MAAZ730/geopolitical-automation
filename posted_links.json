@@ -1,4 +1,34 @@
 {
+  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
+    "url": "CensoredMen/239",
+    "title": "China Deploys Drone to Enforce Nighttime Swimming Ban in Qingdao",
+    "published": "2026-07-30T23:18:23.910206+00:00"
+  },
+  "0522061591d5473b5024cb751f0efe670f5f9f7540b528ffeea943018bf0c903": {
+    "url": "presstv/200955",
+    "title": "Israeli Forces Conduct Explosions in Southern Lebanon",
+    "published": "2026-07-30T23:17:35.922718+00:00"
+  },
+  "59dabf9702d38551cbe6dc8513238532b130b05055f5ebb575901df2ede7b67b": {
+    "url": "presstv/200959",
+    "title": "Israeli Forces Conduct Explosions in Southern Lebanon",
+    "published": "2026-07-30T23:16:59.490232+00:00"
+  },
+  "713c831440919b4128f89f71f1bb26cc9e80093bb32ef3d59c76b5cc00121add": {
+    "url": "QudsNen/233451",
+    "title": "Israeli Forces Demolish Homes in Yohmor Al-Shaqif, Lebanon",
+    "published": "2026-07-30T23:16:16.636735+00:00"
+  },
+  "dd9c76ab4ffc02a811fda15343b0556b6bd1efc6e06c4cd48442096c062b7799": {
+    "url": "Middle_East_Spectator/35619",
+    "title": "Iran Develops Hybrid Missile Capabilities",
+    "published": "2026-07-30T23:15:37.603445+00:00"
+  },
+  "d4e3fa45b4ed1f038c63d703800b2ffcc929461d8bfdd0538758d3567d56a3dd": {
+    "url": "Middle_East_Spectator/35623",
+    "title": "Iran's Foreign Minister Warns of Israeli Threats to Regional Peace",
+    "published": "2026-07-30T23:15:36.186323+00:00"
+  },
   "dbf80d96ddbe37008b0f428525cdd367ac3035c7a986cefeaacffd9e95530300": {
     "url": "presstv/200934",
     "title": "Netanyahu Accuses New York City Mayor of Supporting Iran, Hamas, Hezbollah",
@@ -74,6 +104,11 @@
     "title": "Egypt Probes Drone Strike on US-Owned Ship at Damietta Port",
     "published": "2026-07-30T19:41:49.224049+00:00"
   },
+  "1de4353a24dc0fbc2f774511925fde721cfa789e2f486d66b7787e978c067469": {
+    "url": "https://www.rt.com/news/643656-iraq-us-saudi-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "RT\u2019s Ali Rida Sbeity reports from Iraq after US-Saudi strikes",
+    "published": "2026-07-30T18:51:08+00:00"
+  },
   "af1bf26952e3f962479faa4e621466327f95e11d3d78273de6d9a87b873fbc27": {
     "url": "https://tass.com/world/2167441",
     "title": "Iran strikes US military facilities in Bahrain",
@@ -108,6 +143,11 @@
     "url": "thecradlemedia/65321",
     "title": "Turkish Police Detain CHP Mayor Amid Ongoing Crackdown",
     "published": "2026-07-30T17:39:06.221328+00:00"
+  },
+  "27348615c6e820337bf939b46b1ce867c5fff665fb644b41b73140b360b80e9b": {
+    "url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
+    "title": "NATO jets scramble as Russian missile detonates in Poland",
+    "published": "2026-07-30T16:28:51+00:00"
   },
   "e9ee4d29ac28d0739af53c08b49c2a4b9544e83fb0433265c97adbae31959cd2": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss",
@@ -174,6 +214,11 @@
     "title": "Retaliatory Strikes Destroy Three F-35 Jets at US-Run Jordan Base: IRGC - Al-Manar TV Lebanon",
     "published": "2026-07-30T11:56:34+00:00"
   },
+  "0add5bfd1332a49f06ac64be1b9be33240b97f5ecb1d3ddf6e94447294ad873b": {
+    "url": "https://tass.com/world/2167233",
+    "title": "EC disburses 3.47 bln euros to Kiev for drones, missiles, air defense, fighter jets",
+    "published": "2026-07-30T10:58:34+00:00"
+  },
   "7d571799a09cdd16a98dd2555ad187c3ae1c9204112d143f20c47b90ed969213": {
     "url": "BellumActaNews/175967",
     "title": "Russian Cruise Missiles Approach Polish-Ukrainian Border, Triggering Air Raid Sirens in Lublin",
@@ -208,6 +253,11 @@
     "url": "https://english.almanar.com.lb/article/109977/",
     "title": "Gaza Endures 294th Day of Raids as Tents and Homes Collapse on Families - Al-Manar TV Lebanon",
     "published": "2026-07-30T10:16:56+00:00"
+  },
+  "8608c90ffd0f0b34ddd0e00bfe43ae519234b16620d569786a324df675e839d8": {
+    "url": "https://en.mehrnews.com/news/246641/Qatari-LNG-cargo-uses-Iran-designated-route-in-Hormuz",
+    "title": "Qatari LNG cargo uses Iran-designated route in Hormuz",
+    "published": "2026-07-30T10:16:40+00:00"
   },
   "f43a56f1d1aa7a0c187a2426833a10bc8369177e8297c5c4e046a6bb18ab3bfe": {
     "url": "https://tass.com/defense/2167147",
@@ -698,55 +748,5 @@
     "url": "QudsNen/233194",
     "title": "Israeli Tanks Open Fire in Northern Gaza",
     "published": "2026-07-29T02:57:24.877090+00:00"
-  },
-  "e29476427e874a746d1cc60c1c556ff2c07d8ce581a5ed6f5e4043dfd36bc388": {
-    "url": "QudsNen/233201",
-    "title": "Israeli Minister Accuses T\u00fcrkiye of Embedded Military Presence in Syria",
-    "published": "2026-07-29T02:57:23.422561+00:00"
-  },
-  "3b947521f9577cbfd822cd967e754c3a650a921819ed0455cac98a7d0a547a95": {
-    "url": "https://www.rt.com/news/643573-drone-strike-saudi-oil-hub/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Saudi Arabia\u2019s Abqaiq oil processing complex damaged in drone strike \u2013 media",
-    "published": "2026-07-29T02:32:48+00:00"
-  },
-  "24e62f41830af31b976b6f958acfcee0e183bcadcf9e8fb164c83a7a6f3559c3": {
-    "url": "https://tass.com/world/2166611",
-    "title": "US, Saudi Arabian forces strike Iran-aligned sites in Iraq \u2014 CENTCOM",
-    "published": "2026-07-29T01:40:01+00:00"
-  },
-  "caf40bf2ca4ea5c20f7959544516164a406f7608a7c0434415240a9debd43523": {
-    "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
-    "title": "Iraqi armed groups condemn \u2018dangerous escalation\u2019 after US-Saudi strikes",
-    "published": "2026-07-29T01:37:23+00:00"
-  },
-  "0dc6888d36c6e6cd79a4ef91a4ccecbf6670fadee1e2cb75c5acae95cf85b2ff": {
-    "url": "https://www.rt.com/news/643594-saudi-us-strikes-iraq/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Saudi Arabia joins US in strikes on Iraq",
-    "published": "2026-07-29T01:02:57+00:00"
-  },
-  "e5bb6b0955598f3dfdac1ac9353568c92d32019b49cb603f5e36e549879d6608": {
-    "url": "intelslava/91650",
-    "title": "Ukrainian Children Labor in Zaporozhye Ammunition Factories Amid Ongoing Conflict",
-    "published": "2026-07-28T23:14:03.027675+00:00"
-  },
-  "aee5d4c7a2c06abc1aec47cbe3e47983bb7e49905017b81f37cf07c36f64ac35": {
-    "url": "presstv/200652",
-    "title": "Fires Erupt Near US Base in Northern Iraq Amid Drone Attack Reports",
-    "published": "2026-07-28T23:12:19.241651+00:00"
-  },
-  "fd8a5ccbb1ffd18fcb1ad79f02be6fa796139e0a550eaf1f4dd40bfecdf04749": {
-    "url": "militarywave/24548",
-    "title": "Red Army Liberates Brest from Nazi Occupation",
-    "published": "2026-07-28T23:11:55.374374+00:00"
-  },
-  "39aaf83966d91232d2836326649da76e1ed49e4f4ae1dfa7c1409eec9137e159": {
-    "url": "DDGeopolitics/190157",
-    "title": "Jordan Hit by Missile Strikes: Security Concerns Rise",
-    "published": "2026-07-28T23:09:21.783945+00:00"
-  },
-  "153095c9da51adf66c1e0e78fb67ff9b6bd78bdd3f501fdcc80e49b9bbda5bb5": {
-    "url": "QudsNen/233187",
-    "title": "Gaza's Water Crisis Worsens Amid Ongoing Conflict",
-    "published": "2026-07-28T23:07:35.163180+00:00"
   }
 }

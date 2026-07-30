@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5375,
+  "total_calls": 5379,
   "tiers": {
-    "groq": 5356,
+    "groq": 5360,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-27T21:17:06.219151+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-27T21:17:22.434189+00:00",
-      "tier": "groq",
-      "article": "Pentagon calls for cheaper long-range strike weapons,\u00a0with testing in just 3 months"
-    },
-    {
-      "timestamp": "2026-07-27T21:17:38.324447+00:00",
-      "tier": "groq",
-      "article": "Saudi Arabia defends against drone strikes from \u2018Iran-backed\u2019 groups"
-    },
-    {
-      "timestamp": "2026-07-27T21:17:54.581010+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-27T23:07:56.074732+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-30T21:15:53.138439+00:00",
       "tier": "groq",
       "article": "Israel building new land barriers in Gaza and displacing families"
+    },
+    {
+      "timestamp": "2026-07-30T23:11:21.779304+00:00",
+      "tier": "groq",
+      "article": "EC disburses 3.47 bln euros to Kiev for drones, missiles, air defense, fighter jets"
+    },
+    {
+      "timestamp": "2026-07-30T23:11:41.645470+00:00",
+      "tier": "groq",
+      "article": "NATO jets scramble as Russian missile detonates in Poland"
+    },
+    {
+      "timestamp": "2026-07-30T23:12:09.157086+00:00",
+      "tier": "groq",
+      "article": "RT\u2019s Ali Rida Sbeity reports from Iraq after US-Saudi strikes"
+    },
+    {
+      "timestamp": "2026-07-30T23:12:27.723803+00:00",
+      "tier": "groq",
+      "article": "Qatari LNG cargo uses Iran-designated route in Hormuz"
     }
   ]
 }
