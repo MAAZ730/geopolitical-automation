@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5371,
+  "total_calls": 5375,
   "tiers": {
-    "groq": 5352,
+    "groq": 5356,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-27T19:41:13.468834+00:00",
-      "tier": "groq",
-      "article": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars"
-    },
-    {
-      "timestamp": "2026-07-27T19:41:59.434331+00:00",
-      "tier": "groq",
-      "article": "For a young sailor: First voyage, final farewell"
-    },
-    {
-      "timestamp": "2026-07-27T19:42:46.260013+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-27T19:43:03.032220+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-27T21:17:06.219151+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-30T19:41:41.919302+00:00",
       "tier": "groq",
       "article": "BMW to cut 8,000 jobs, most in Germany \u2013 media"
+    },
+    {
+      "timestamp": "2026-07-30T21:13:38.982020+00:00",
+      "tier": "groq",
+      "article": "CENTCOM says no US planes damaged by Iranian strikes"
+    },
+    {
+      "timestamp": "2026-07-30T21:14:13.557148+00:00",
+      "tier": "groq",
+      "article": "Will Saudi Arabia be dragged further into the war in Iran?"
+    },
+    {
+      "timestamp": "2026-07-30T21:14:59.661310+00:00",
+      "tier": "groq",
+      "article": "Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder"
+    },
+    {
+      "timestamp": "2026-07-30T21:15:53.138439+00:00",
+      "tier": "groq",
+      "article": "Israel building new land barriers in Gaza and displacing families"
     }
   ]
 }
