@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5363,
+  "total_calls": 5367,
   "tiers": {
-    "groq": 5344,
+    "groq": 5348,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-27T14:44:20.717458+00:00",
-      "tier": "groq",
-      "article": "Trump denies munitions shortage amid Iran war"
-    },
-    {
-      "timestamp": "2026-07-27T14:44:58.423922+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-27T14:45:43.684371+00:00",
-      "tier": "groq",
-      "article": "Moment Ukrainian drones strike Russia\u2019s Belgorod"
-    },
-    {
-      "timestamp": "2026-07-27T14:45:59.706221+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-27T17:47:51.627542+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-30T14:10:30.951644+00:00",
       "tier": "groq",
       "article": "The time has come for Bahrain's liberation"
+    },
+    {
+      "timestamp": "2026-07-30T17:38:05.322651+00:00",
+      "tier": "groq",
+      "article": "IRGC video of retaliatory strikes on US targets in Jordan"
+    },
+    {
+      "timestamp": "2026-07-30T17:38:21.444710+00:00",
+      "tier": "groq",
+      "article": "US missile strike on Qeshm kills 3 family members, says Iranian official"
+    },
+    {
+      "timestamp": "2026-07-30T17:38:37.476147+00:00",
+      "tier": "groq",
+      "article": "Iran ex-IRGC commander calls Ukraine ship attack Zelensky\u2019s \u2018gift\u2019 to Israel and US"
+    },
+    {
+      "timestamp": "2026-07-30T17:38:56.835924+00:00",
+      "tier": "groq",
+      "article": "Iran rejects southern Strait of Hormuz shipping route"
     }
   ]
 }

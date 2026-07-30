@@ -1,4 +1,44 @@
 {
+  "8f9393e3167bd0fad522b026d644af72f902ca50f0e0eb5f41ea44492ef7fc42": {
+    "url": "BellumActaNews/175966",
+    "title": "Russian Missile Strikes Eastern Poland",
+    "published": "2026-07-30T17:44:33.149391+00:00"
+  },
+  "3abf9e83534795469723ce3c5881e13e47fca5bd095c1c058a7608ed3fb49b9e": {
+    "url": "DDGeopolitics/190291",
+    "title": "Saudi Airstrikes Rock Sanaa, Yemen",
+    "published": "2026-07-30T17:44:07.724505+00:00"
+  },
+  "96d93e8dc769b3eaf612d93136d6c64361f10e0aee173c6253b1e1dcee48f055": {
+    "url": "Middle_East_Spectator/35609",
+    "title": "Jordan Air Base Suffers Significant Damage in Military Facility Attack",
+    "published": "2026-07-30T17:43:08.230848+00:00"
+  },
+  "41d358d3f1b8271642a43786e065c4feebe8cd09b4a6b19ff2aae4650a9219e9": {
+    "url": "thecradlemedia/65316",
+    "title": "Qatari LNG Tanker Navigates Strait of Hormuz Amid Iran-Pakistan Transit Deal",
+    "published": "2026-07-30T17:39:31.870354+00:00"
+  },
+  "45836326abda47cb0076a2fcd3dbc166e495745df4225be00c128f7a3da7d3ce": {
+    "url": "thecradlemedia/65318",
+    "title": "Israeli Artillery Strikes Ali al-Taher Hill in South Lebanon",
+    "published": "2026-07-30T17:39:30.692318+00:00"
+  },
+  "9e62a9db53429320d81471473928218d3f7bd0f178057bdfa47f677558bba5bc": {
+    "url": "thecradlemedia/65321",
+    "title": "Turkish Police Detain CHP Mayor Amid Ongoing Crackdown",
+    "published": "2026-07-30T17:39:06.221328+00:00"
+  },
+  "e9ee4d29ac28d0739af53c08b49c2a4b9544e83fb0433265c97adbae31959cd2": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss",
+    "title": "IRGC video of retaliatory strikes on US targets in Jordan",
+    "published": "2026-07-30T16:06:08+00:00"
+  },
+  "0fd12015bb2148b12f173cd5b9da8f1c6f47d050efe749a9f4076ec6c0e83bb7": {
+    "url": "https://www.rt.com/news/643653-irgc-moghaddam-zelensky-gift-caspian-sea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran ex-IRGC commander calls Ukraine ship attack Zelensky\u2019s \u2018gift\u2019 to Israel and US",
+    "published": "2026-07-30T14:29:30+00:00"
+  },
   "e31e625f31345ed27e3a42d53597d2fd21b2b4424c2a14f03c6d11efd731fef6": {
     "url": "DDGeopolitics/190270",
     "title": "IRGC Missile Strike Destroys US F-35 Jets at Jordanian Air Base",
@@ -33,6 +73,11 @@
     "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
     "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
     "published": "2026-07-30T13:52:01+00:00"
+  },
+  "56ecd9afb734a3bf89ea7524e565d189430bc3f1c9c314d13022796b03a892fc": {
+    "url": "https://en.irna.ir/news/86223792/US-missile-strike-on-Qeshm-kills-3-family-members-says-Iranian",
+    "title": "US missile strike on Qeshm kills 3 family members, says Iranian official",
+    "published": "2026-07-30T13:14:55+00:00"
   },
   "c26ac4f0e4ea9f3f65d232f4de52a0d5ab8098f76ac4f8e91e643de0040c5aa8": {
     "url": "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
@@ -298,6 +343,11 @@
     "url": "https://www.tehrantimes.com/news/528697/Iran-Criminal-US-Saudi-strikes-on-Iraq-align-with-Tel-Aviv-Washington",
     "title": "Iran: Criminal US-Saudi strikes on Iraq align with Tel Aviv\u2013Washington ambitions",
     "published": "2026-07-29T18:21:45+00:00"
+  },
+  "d61731a5c5bb857030d740f36692485b73918f1e859c0961d415ca8a06c201e3": {
+    "url": "https://www.tehrantimes.com/news/528704/Iran-rejects-southern-Strait-of-Hormuz-shipping-route",
+    "title": "Iran rejects southern Strait of Hormuz shipping route",
+    "published": "2026-07-29T17:50:27+00:00"
   },
   "1526a073e8e96a51c88301ea270b7a52289b7f4073561ca12511b65638fba398": {
     "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65186",
     "title": "UAE Reopens Diplomatic Channels with Iran Amid Deepening Ties with US and Israel",
     "published": "2026-07-28T17:42:09.820700+00:00"
-  },
-  "ff0f503dce83f2aefcf901f78268bf830ef48e04e35c1c878d81998e4dcdf3e0": {
-    "url": "thecradlemedia/65191",
-    "title": "Israeli Airstrike Rocks Southern Lebanon",
-    "published": "2026-07-28T17:42:08.810426+00:00"
-  },
-  "dc998e33631915ef4b15eae87d38971d6375c24067045dd81068cb738af277c7": {
-    "url": "thecradlemedia/65192",
-    "title": "Saudi Aramco Facility in Jazan Hit by Yemeni Attack",
-    "published": "2026-07-28T17:41:46.597285+00:00"
-  },
-  "44af6ce54d399f5e397de9fb2997c7f63850da0da906821a69dc168f1f4d548f": {
-    "url": "https://www.tehrantimes.com/news/528662/Iranian-Parliament-passes-legislation-defining-crimes-of-foreign",
-    "title": "Iranian Parliament passes legislation defining crimes of foreign aggression",
-    "published": "2026-07-28T17:28:14+00:00"
-  },
-  "bd14f4f560bb109afc05c18f27380595702ede32216445caaa30b584b5b732f1": {
-    "url": "https://www.tehrantimes.com/news/528650/The-South-Caucasus-The-Persian-Gulf-of-Eurasia-s-future",
-    "title": "The South Caucasus: The Persian Gulf of Eurasia's future?",
-    "published": "2026-07-28T17:26:42+00:00"
-  },
-  "e5450c407299a2b12792d187b62494ca5a2eb7c0c339cba61d71570905a5e30b": {
-    "url": "https://www.tehrantimes.com/news/528669/Pentagon-changes-Iran-war-casualty-reporting-raising-questions",
-    "title": "Pentagon changes Iran war casualty reporting, raising questions over transparency",
-    "published": "2026-07-28T17:21:39+00:00"
-  },
-  "79041f953f1f67bca1e036183cad6636d4cf8654a7d6a37c72e385ce29b0db66": {
-    "url": "https://tass.com/politics/2166527",
-    "title": "BARS-LPR unit to recruit fighters with drone combat experience \u2014 authorities",
-    "published": "2026-07-28T16:03:06+00:00"
-  },
-  "5fed01827e2efbcca4bee5bd420683483ebe468feecc13582ece0df3522c07d8": {
-    "url": "https://tass.com/politics/2166507",
-    "title": "Six civilians injured after Ukraine\u2019s drone attacks on Kerch",
-    "published": "2026-07-28T15:17:24+00:00"
-  },
-  "e86367238fdb476be343d28fe375c433b1af07ef9c71f06da592ec7ab3b4c8a5": {
-    "url": "QudsNen/233124",
-    "title": "Israeli Drone Strike Injures Civilians in Al-Nusierat Refugee Camp",
-    "published": "2026-07-28T14:24:11.290675+00:00"
-  },
-  "1c96201a2deed8b2874c4cdec389e3c41627a5fac0edbf259c692ad951038f6a": {
-    "url": "thecradlemedia/65161",
-    "title": "Boy George Releases Pro-Israel Song Amid Gaza Controversy",
-    "published": "2026-07-28T14:22:26.241314+00:00"
-  },
-  "baa9154be8321fb7418077525e45b5444191b7942c0be46a8a0bdb7ff3feaa9f": {
-    "url": "thecradlemedia/65164",
-    "title": "Trump Refuses to Disclose Iranian Officials Involved in Backchannel Talks",
-    "published": "2026-07-28T14:19:56.022332+00:00"
   }
 }
