@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5367,
+  "total_calls": 5371,
   "tiers": {
-    "groq": 5348,
+    "groq": 5352,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-27T17:47:51.627542+00:00",
-      "tier": "groq",
-      "article": "Ukraine continues war of terror with strike on recreational infrastructure \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-07-27T17:48:31.845147+00:00",
-      "tier": "groq",
-      "article": "The unholy alliance of Israel and Ukraine anchoring the new imperial order"
-    },
-    {
-      "timestamp": "2026-07-27T17:49:20.644491+00:00",
-      "tier": "groq",
-      "article": "Senior lawmaker warns Ukraine of \u2018regret-inducing\u2019 response after strike on Iranian vessel"
-    },
-    {
-      "timestamp": "2026-07-27T17:49:39.023772+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-27T19:41:13.468834+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-30T17:38:56.835924+00:00",
       "tier": "groq",
       "article": "Iran rejects southern Strait of Hormuz shipping route"
+    },
+    {
+      "timestamp": "2026-07-30T19:39:55.224451+00:00",
+      "tier": "groq",
+      "article": "Reasons for the increase in US military casualties"
+    },
+    {
+      "timestamp": "2026-07-30T19:40:35.051006+00:00",
+      "tier": "groq",
+      "article": "Iran strikes US military facilities in Bahrain"
+    },
+    {
+      "timestamp": "2026-07-30T19:41:22.700148+00:00",
+      "tier": "groq",
+      "article": "Strike on critically important infrastructure of Zaporozhye Nuclear Power Plant prevented"
+    },
+    {
+      "timestamp": "2026-07-30T19:41:41.919302+00:00",
+      "tier": "groq",
+      "article": "BMW to cut 8,000 jobs, most in Germany \u2013 media"
     }
   ]
 }
