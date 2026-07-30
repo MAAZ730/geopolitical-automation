@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5351,
+  "total_calls": 5355,
   "tiers": {
-    "groq": 5332,
+    "groq": 5336,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-27T03:29:04.284917+00:00",
-      "tier": "groq",
-      "article": "Trump orders US military to hold off on strikes on Iran"
-    },
-    {
-      "timestamp": "2026-07-27T03:29:37.830199+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-27T03:29:54.107244+00:00",
-      "tier": "groq",
-      "article": "Enemy drone attack leaves 12, including two minors, injured in Russia\u2019s Belgorod"
-    },
-    {
-      "timestamp": "2026-07-27T03:30:36.786912+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-27T07:35:56.576841+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-30T02:37:43.834582+00:00",
       "tier": "groq",
       "article": "SCO sees new opportunities in evolving global landscape"
+    },
+    {
+      "timestamp": "2026-07-30T06:31:32.136055+00:00",
+      "tier": "groq",
+      "article": "US launches 'heavy' strikes on Iran after attempted attack on American troops"
+    },
+    {
+      "timestamp": "2026-07-30T06:32:12.339747+00:00",
+      "tier": "groq",
+      "article": "US launches \u2018powerful\u2019 strikes on Iran after Jordan attack"
+    },
+    {
+      "timestamp": "2026-07-30T06:32:58.148758+00:00",
+      "tier": "groq",
+      "article": "Jordanian air defenses down five Iranian missiles  \u2014 news agency"
+    },
+    {
+      "timestamp": "2026-07-30T06:33:17.099832+00:00",
+      "tier": "groq",
+      "article": "Trump, Zelenskyy discuss Patriot deal and reviving talks with Russia"
     }
   ]
 }
