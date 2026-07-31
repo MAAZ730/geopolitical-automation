@@ -1,4 +1,39 @@
 {
+  "e08e1d39e106dc3a598576ce640b0b332b8e3c2d77f343943aae781526bcc20a": {
+    "url": "DDGeopolitics/190412",
+    "title": "Iran's Military Capabilities Eroding Under Sanctions, Trump Claims",
+    "published": "2026-07-31T17:49:16.044259+00:00"
+  },
+  "c6c2f3c535e9ede7780e9617fd3099e7dfc1b7219abb8e426e882af27d0be1fa": {
+    "url": "DDGeopolitics/190415",
+    "title": "Houthi Involvement in Conflict Limited by American Military Presence",
+    "published": "2026-07-31T17:48:14.640261+00:00"
+  },
+  "f9df2a1afe57d544467e689db1ae144a9eca83cdd5fe5eaa0591e40864cd80e4": {
+    "url": "Middle_East_Spectator/35661",
+    "title": "Iran Missile Strike Hits US Base in Jordan Amid Ongoing Diplomatic Efforts",
+    "published": "2026-07-31T17:47:23.958284+00:00"
+  },
+  "f803841b733a63cec1b933aa8594a92f9a7e60f55743053f76dd32cea0c3a4e9": {
+    "url": "thecradlemedia/65387",
+    "title": "Israeli Forces Conduct Operations in South Lebanon",
+    "published": "2026-07-31T17:45:02.197930+00:00"
+  },
+  "fe866965924f608beb619cc4ea41459b55002367488bdebe6b89b0dd56a33edb": {
+    "url": "thecradlemedia/65393",
+    "title": "Lebanon Arrests Former Central Bank Governor Riad Salameh",
+    "published": "2026-07-31T17:44:34.629227+00:00"
+  },
+  "978fb73164e482e035553969810fe50113e1b0a118e1de8b9f425c72f33654f7": {
+    "url": "thecradlemedia/65394",
+    "title": "Israel's Ongoing Bombardment of Southern Lebanon Sparks Outrage from Hezbollah",
+    "published": "2026-07-31T17:44:27.350153+00:00"
+  },
+  "4dfcfe77de525e2d55bf5bbdea9f2200ea84a0c77c9ade616720df40f56a9a6c": {
+    "url": "https://www.tehrantimes.com/news/528739/Trump-s-false-claim-that-Iraq-knew-about-PMF-raids-exposes-his",
+    "title": "Trump\u2019s false claim that Iraq knew about PMF raids exposes his deceit",
+    "published": "2026-07-31T16:36:58+00:00"
+  },
   "8635a65d9881a3e26552a13726f36a88d87cf721bf592fd035de3138b205a0b0": {
     "url": "QudsNen/233523",
     "title": "Israeli Settlers Vandalize Grave in West Bank Raid",
@@ -114,10 +149,20 @@
     "title": "Israeli Settlers Storm Al-Juneid Village under Military Escort",
     "published": "2026-07-31T06:53:14.219189+00:00"
   },
+  "5e6f9e869a4fbf75c9cf5191fc7f3b4b79ec0670fc3b379ce78def7daa7bf29c": {
+    "url": "https://en.irna.ir/news/86224145/US-Saudi-strikes-on-PMF-launched-without-Baghdad-s-knowledge",
+    "title": "US\u2013Saudi strikes on PMF launched without Baghdad\u2019s knowledge, says Iraqi gov\u2019t spox",
+    "published": "2026-07-31T06:51:29+00:00"
+  },
   "43d5650581b3c2ec79bae77bbc7cd52153871fdebeacdc5c22b986107a38ccf9": {
     "url": "https://en.irna.ir/news/86224131/US-terrorists-wounded-in-Iran-war-rise-to-653-Report",
     "title": "US terrorists wounded in Iran war rise to 653: Report",
     "published": "2026-07-31T06:20:18+00:00"
+  },
+  "2114ec9723fb9d8eaec5b5f3852854e2471ab04c67511d58d567780d2da741b8": {
+    "url": "https://en.mehrnews.com/news/246652/IRGC-rejects-US-claim-Iran-missile-had-no-damage-to-aircrafts",
+    "title": "IRGC rejects US claim Iran missile had no damage to aircrafts",
+    "published": "2026-07-31T06:19:17+00:00"
   },
   "eca6e16275a3adb9384cc31aa5cc147030573ed673717598f5d418470bb75590": {
     "url": "https://en.mehrnews.com/news/246650/Iran-warns-US-to-pay-heavy-price-for-killing-civilians",
@@ -233,6 +278,11 @@
     "url": "https://tass.com/world/2167463",
     "title": "CENTCOM says no US planes damaged by Iranian strikes",
     "published": "2026-07-30T20:31:16+00:00"
+  },
+  "4948262059e3b139fa3577fa2fa18c2164c74d5e293a7a6b07d4b9bd6384f093": {
+    "url": "https://en.mehrnews.com/news/246648/Iran-Cyprus-FMs-discuss-regional-developments-in-call",
+    "title": "Iran, Cyprus FMs discuss regional developments in call",
+    "published": "2026-07-30T20:19:14+00:00"
   },
   "e2d6513c34869f75abed67780ecbe62a0ec33704057dfc515eeaaa72e597122e": {
     "url": "https://www.rt.com/news/643686-palestine-action-founder-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -698,55 +748,5 @@
     "url": "https://www.tehrantimes.com/news/528704/Iran-rejects-southern-Strait-of-Hormuz-shipping-route",
     "title": "Iran rejects southern Strait of Hormuz shipping route",
     "published": "2026-07-29T17:50:27+00:00"
-  },
-  "1526a073e8e96a51c88301ea270b7a52289b7f4073561ca12511b65638fba398": {
-    "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
-    "title": "Iran pushes back against US as regional attacks heat up",
-    "published": "2026-07-29T17:45:27+00:00"
-  },
-  "03e592efd3d79a6427f552e92f8c21da8c0b48331052d5d9a3f693f44fc160e9": {
-    "url": "https://www.tehrantimes.com/news/528703/ICC-vs-US-Israeli-Exceptionalism-The-Fight-for-Justice",
-    "title": "ICC vs. US-Israeli Exceptionalism: The Fight for Justice",
-    "published": "2026-07-29T17:40:08+00:00"
-  },
-  "7da29e546883d18f41960796de242aca06c63bcf5cef20166949177771a6307f": {
-    "url": "QudsNen/233263",
-    "title": "Explosive Drone Strike Hits Besieged Home in Beit Ummar",
-    "published": "2026-07-29T17:22:32.609299+00:00"
-  },
-  "e1671cbbc2edfce563a7435b15221ac9cb58e909c8950adbaa2c5f6574beb0fa": {
-    "url": "Middle_East_Spectator/35576",
-    "title": "Egyptian Port Drone Attack Targets US LNG Tanker",
-    "published": "2026-07-29T17:22:02.052232+00:00"
-  },
-  "f19ebef75830fa0519e6b60a3c3eaefa5aabff2d84f7e8fc4aebf1fdaee34deb": {
-    "url": "thecradlemedia/65255",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-07-29T17:21:43.247071+00:00"
-  },
-  "3fc86b787eea893263114a8456c909562b2588dc3c90a7d17d2857a9238ad9b4": {
-    "url": "thecradlemedia/65261",
-    "title": "US-Saudi Joint Strikes Kill Iranian Advisers in Iraq",
-    "published": "2026-07-29T17:21:22.406889+00:00"
-  },
-  "20e5d3557ab4c924f7956f4f4dcace9a9352d9a8fe78171ca9ec308e0f24729d": {
-    "url": "thecradlemedia/65262",
-    "title": "Graham-Netanyahu Pressure ICC on Karim Khan Probe",
-    "published": "2026-07-29T17:21:20.197115+00:00"
-  },
-  "c0be3ee4b17f395ec9f1602f92e80fdc102978b72aa5eb56f457a92f17aa98b4": {
-    "url": "thecradlemedia/65263",
-    "title": "Drone Strike Hits US-Owned Gas Tanker at Egypt's Damietta Port",
-    "published": "2026-07-29T17:21:19.004122+00:00"
-  },
-  "5728ce65fbf2be3764a36d41c7031d5497d03bafb690afe45f768415b15f57e2": {
-    "url": "https://thecradle.co/articles-id/39073",
-    "title": "Iraqi PM cancels KSA visit as resistance factions vow revenge for US-Saudi strikes",
-    "published": "2026-07-29T16:20:48+00:00"
-  },
-  "976c093e7c15cbc9e44c6b55b3f72c47529e4a6d52422e0a3af31a08c4093302": {
-    "url": "https://en.irna.ir/news/86223224/Iraq-s-security-council-condemns-US-Saudi-strikes-on-Hashd-al-Shaabi",
-    "title": "Iraq\u2019s security council condemns US-Saudi strikes on Hashd al-Shaabi",
-    "published": "2026-07-29T16:20:36+00:00"
   }
 }

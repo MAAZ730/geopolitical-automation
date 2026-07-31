@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5395,
+  "total_calls": 5399,
   "tiers": {
-    "groq": 5376,
+    "groq": 5380,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-28T14:13:38.392327+00:00",
-      "tier": "groq",
-      "article": "Iran's missile forces remain effective after five months of US strikes \u2014 FT"
-    },
-    {
-      "timestamp": "2026-07-28T14:14:15.371525+00:00",
-      "tier": "groq",
-      "article": "Banderol missile strike indicates emergence of new precision missile carrier \u2014 expert"
-    },
-    {
-      "timestamp": "2026-07-28T14:15:04.790643+00:00",
-      "tier": "groq",
-      "article": "Israel wants to strike Iran's energy facilities, but US disapproves \u2014 defense minister"
-    },
-    {
-      "timestamp": "2026-07-28T14:15:57.644943+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-28T17:40:08.642119+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-31T14:15:11.384940+00:00",
       "tier": "groq",
       "article": "Palestine Action founder to fight terror ban"
+    },
+    {
+      "timestamp": "2026-07-31T17:42:05.014478+00:00",
+      "tier": "groq",
+      "article": "Trump\u2019s false claim that Iraq knew about PMF raids exposes his deceit"
+    },
+    {
+      "timestamp": "2026-07-31T17:42:42.239240+00:00",
+      "tier": "groq",
+      "article": "US\u2013Saudi strikes on PMF launched without Baghdad\u2019s knowledge, says Iraqi gov\u2019t spox"
+    },
+    {
+      "timestamp": "2026-07-31T17:43:30.065019+00:00",
+      "tier": "groq",
+      "article": "IRGC rejects US claim Iran missile had no damage to aircrafts"
+    },
+    {
+      "timestamp": "2026-07-31T17:44:16.012132+00:00",
+      "tier": "groq",
+      "article": "Iran, Cyprus FMs discuss regional developments in call"
     }
   ]
 }
