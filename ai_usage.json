@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5399,
+  "total_calls": 5403,
   "tiers": {
-    "groq": 5380,
+    "groq": 5384,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-28T17:40:08.642119+00:00",
-      "tier": "groq",
-      "article": "Kremlin demands Ukrainian threat be &#039;definitively destroyed&#039; after Caspian Sea strike on Iranian vessel"
-    },
-    {
-      "timestamp": "2026-07-28T17:40:39.749022+00:00",
-      "tier": "groq",
-      "article": "Six civilians injured after Ukraine\u2019s drone attacks on Kerch"
-    },
-    {
-      "timestamp": "2026-07-28T17:41:24.567331+00:00",
-      "tier": "groq",
-      "article": "Israeli war chief says US \u2018blocking\u2019 Tel Aviv\u2019s plans to strike Iranian power sites"
-    },
-    {
-      "timestamp": "2026-07-28T17:41:41.783459+00:00",
-      "tier": "groq",
-      "article": "Russian ambassador rejects Romania\u2019s accusations related to drone incidents"
-    },
     {
       "timestamp": "2026-07-28T19:28:45.981351+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-31T17:44:16.012132+00:00",
       "tier": "groq",
       "article": "Iran, Cyprus FMs discuss regional developments in call"
+    },
+    {
+      "timestamp": "2026-07-31T19:38:52.083157+00:00",
+      "tier": "groq",
+      "article": "Guardian: US military abandons wounded troops after Iran strike\u00a0"
+    },
+    {
+      "timestamp": "2026-07-31T19:39:30.813107+00:00",
+      "tier": "groq",
+      "article": "CNN: Trump seeks an exit ramp from the Iran war"
+    },
+    {
+      "timestamp": "2026-07-31T19:40:19.700187+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Condemns US Attack on Iraq, Warns of Grave Regional consequences - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-31T19:40:39.858485+00:00",
+      "tier": "groq",
+      "article": "The arms race for cheaper anti-ballistic weapons is underway"
     }
   ]
 }
