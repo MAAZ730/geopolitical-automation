@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5407,
+  "total_calls": 5411,
   "tiers": {
-    "groq": 5388,
+    "groq": 5392,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-28T21:59:29.709088+00:00",
-      "tier": "groq",
-      "article": "Yemen vows relentless strikes on S. Arabia until siege lifted"
-    },
-    {
-      "timestamp": "2026-07-28T22:00:08.840625+00:00",
-      "tier": "groq",
-      "article": "Pentagon changes Iran war casualty reporting, raising questions over transparency"
-    },
-    {
-      "timestamp": "2026-07-28T22:00:55.436033+00:00",
-      "tier": "groq",
-      "article": "US general warns Trump American munitions stockpile for Iran war running low \u2014 AP"
-    },
-    {
-      "timestamp": "2026-07-28T22:01:43.110810+00:00",
-      "tier": "groq",
-      "article": "Iran to defend against any threat: First VP"
-    },
     {
       "timestamp": "2026-07-28T23:05:16.565786+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-31T21:53:14.329962+00:00",
       "tier": "groq",
       "article": "Spain deploys 60 troops as thousands storm border from Morocco (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-07-31T23:04:44.563332+00:00",
+      "tier": "groq",
+      "article": "Senior cleric: Consolidating military gains at negotiating table favors Iran"
+    },
+    {
+      "timestamp": "2026-07-31T23:05:02.810715+00:00",
+      "tier": "groq",
+      "article": "US writhes, but Hormuz survives\u2014in Iranian hands"
+    },
+    {
+      "timestamp": "2026-07-31T23:05:22.381137+00:00",
+      "tier": "groq",
+      "article": "Poland protests to Russian ambassador over missile incursion"
+    },
+    {
+      "timestamp": "2026-07-31T23:05:38.817091+00:00",
+      "tier": "groq",
+      "article": "Trump pours cold water on Kiev\u2019s Patriot dream"
     }
   ]
 }
