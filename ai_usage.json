@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5387,
+  "total_calls": 5391,
   "tiers": {
-    "groq": 5368,
+    "groq": 5372,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-28T06:29:44.215464+00:00",
-      "tier": "groq",
-      "article": "Ukraine\u2019s Zelenskyy set to meet Trump as Iran and Ukraine wars converge"
-    },
-    {
-      "timestamp": "2026-07-28T06:30:23.391336+00:00",
-      "tier": "groq",
-      "article": "Poll reveals only third of respondents support US strikes against Iran"
-    },
-    {
-      "timestamp": "2026-07-28T06:31:09.933656+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-28T06:31:26.048713+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-28T10:41:01.963239+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-31T06:48:48.064048+00:00",
       "tier": "groq",
       "article": "Iran downs yet another hostile US drone in south"
+    },
+    {
+      "timestamp": "2026-07-31T10:43:00.205067+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia \u2014 MP"
+    },
+    {
+      "timestamp": "2026-07-31T10:43:40.932771+00:00",
+      "tier": "groq",
+      "article": "Five injured, fire at warehouses in Volgograd Region: aftermath of Ukrainian UAV attack"
+    },
+    {
+      "timestamp": "2026-07-31T10:43:58.579200+00:00",
+      "tier": "groq",
+      "article": "Fire breaks out at Wildberries warehouse in Volgograd"
+    },
+    {
+      "timestamp": "2026-07-31T10:44:35.276387+00:00",
+      "tier": "groq",
+      "article": "Kiev uses drones to scatter new type of Lepestok landmine in LPR \u2014 diplomat"
     }
   ]
 }
