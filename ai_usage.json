@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5403,
+  "total_calls": 5407,
   "tiers": {
-    "groq": 5384,
+    "groq": 5388,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-28T19:28:45.981351+00:00",
-      "tier": "groq",
-      "article": "Houthis strike Saudi tanker NCC Ghazal with missile"
-    },
-    {
-      "timestamp": "2026-07-28T19:29:24.947163+00:00",
-      "tier": "groq",
-      "article": "The South Caucasus: The Persian Gulf of Eurasia's future?"
-    },
-    {
-      "timestamp": "2026-07-28T19:30:11.387332+00:00",
-      "tier": "groq",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
-    {
-      "timestamp": "2026-07-28T19:30:59.564722+00:00",
-      "tier": "groq",
-      "article": "Kiev, West using 'confidentiality' as cover to mask lies about Russia \u2014 diplomat"
-    },
     {
       "timestamp": "2026-07-28T21:59:29.709088+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-31T19:40:39.858485+00:00",
       "tier": "groq",
       "article": "The arms race for cheaper anti-ballistic weapons is underway"
+    },
+    {
+      "timestamp": "2026-07-31T21:51:54.189186+00:00",
+      "tier": "groq",
+      "article": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation"
+    },
+    {
+      "timestamp": "2026-07-31T21:52:35.585646+00:00",
+      "tier": "groq",
+      "article": "Exposing Western and Israeli plots against Iran-Egypt relations"
+    },
+    {
+      "timestamp": "2026-07-31T21:52:53.967664+00:00",
+      "tier": "groq",
+      "article": "Russian Geran, Gerbera drones, Lancet loitering munition hit 3 ships with military cargoes"
+    },
+    {
+      "timestamp": "2026-07-31T21:53:14.329962+00:00",
+      "tier": "groq",
+      "article": "Spain deploys 60 troops as thousands storm border from Morocco (VIDEOS)"
     }
   ]
 }

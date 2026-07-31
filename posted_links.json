@@ -1,4 +1,39 @@
 {
+  "bc81bbbab7340ae6749fa10b5caa7d31252307c7f42ab25526922b219207abb7": {
+    "url": "militarywave/24588",
+    "title": "Russian Forces Utilize Remote Mining Engineering System in Ukraine",
+    "published": "2026-07-31T21:55:58.592657+00:00"
+  },
+  "26eeaa0dfc6e432d48962c5b358966dc9f4b1d42cbddda69284f6ee08b3937d1": {
+    "url": "DDGeopolitics/190442",
+    "title": "Polish Man Attacks Ukrainian Woman in Gdynia Over Language",
+    "published": "2026-07-31T21:55:04.572437+00:00"
+  },
+  "2b0a785c5e338230b147f8636b7eb435f810d5ed2330e8c03caa070934fe193c": {
+    "url": "QudsNen/233574",
+    "title": "Israeli Airstrike Hits Gaza Refugee Camp, Multiple Palestinians Injured",
+    "published": "2026-07-31T21:54:20.648763+00:00"
+  },
+  "61bb7fab3fefcc80b5b2107fc2d9359e4cb703ed00d64d6e4bc5e0bae70aea8e": {
+    "url": "QudsNen/233579",
+    "title": "Israeli Forces Storm Al-Majd Village in Occupied West Bank",
+    "published": "2026-07-31T21:53:54.118134+00:00"
+  },
+  "7e43e67f5d6521db9fa48e703980d23c8a87f7ea9d7e59ab12fc1b4918f76ed5": {
+    "url": "thecradlemedia/65380",
+    "title": "EU Official Cautions on Hamas Disarmament Deal",
+    "published": "2026-07-31T21:53:20.916041+00:00"
+  },
+  "a77beae620eb511f52eafe8de735490b731dd71bc626d60f460d27ccf6fdbb3d": {
+    "url": "thecradlemedia/65381",
+    "title": "Israel's Global Influence Campaign Falters Amid Growing US Opposition",
+    "published": "2026-07-31T21:53:19.491579+00:00"
+  },
+  "e470a5701008c8f49151f6485686bf4f83ae1d11a2b17972867e71ded5c6f5f3": {
+    "url": "https://warontherocks.com/the-atlantic-brief-the-strait-of-hormuz-and-the-future-of-free-navigation/",
+    "title": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation",
+    "published": "2026-07-31T20:27:03+00:00"
+  },
   "a587f9dfa7ea6bf9211b0aeaa0f16d92f96d17e777ac3061535516b6bc92884b": {
     "url": "BellumActaNews/176016",
     "title": "Iran Launches Ballistic Missile Amid Regional Tensions",
@@ -29,10 +64,20 @@
     "title": "Caspian Sea Treaty Revival Sparks Transit Leverage Concerns",
     "published": "2026-07-31T19:40:43.264830+00:00"
   },
+  "af06b14b0504e8910afd527f48a2bfa37b69f9da25af321990687f795e0b5a79": {
+    "url": "https://tass.com/defense/2167845",
+    "title": "Russian Geran, Gerbera drones, Lancet loitering munition hit 3 ships with military cargoes",
+    "published": "2026-07-31T19:28:33+00:00"
+  },
   "e1ab565c0c98657173381f1b1078c77ca3313c0d27d739c07f577f156b4c3d08": {
     "url": "https://english.almanar.com.lb/article/110542/",
     "title": "Hezbollah Condemns US Attack on Iraq, Warns of Grave Regional consequences - Al-Manar TV Lebanon",
     "published": "2026-07-31T18:35:01+00:00"
+  },
+  "1f559c94126ceb2624d58f14c7cd494dedca0a2f0c1ee6d956d69c67978e75db": {
+    "url": "https://www.tehrantimes.com/news/528729/Exposing-Western-and-Israeli-plots-against-Iran-Egypt-relations",
+    "title": "Exposing Western and Israeli plots against Iran-Egypt relations",
+    "published": "2026-07-31T17:54:47+00:00"
   },
   "e08e1d39e106dc3a598576ce640b0b332b8e3c2d77f343943aae781526bcc20a": {
     "url": "DDGeopolitics/190412",
@@ -283,6 +328,11 @@
     "url": "Middle_East_Spectator/35623",
     "title": "Iran's Foreign Minister Warns of Israeli Threats to Regional Peace",
     "published": "2026-07-30T23:15:36.186323+00:00"
+  },
+  "bf50498b062ea95ce9e10302ca23d9b8a8f940e93f0004e851a0f8c8b0e27820": {
+    "url": "https://www.rt.com/news/643690-spain-morocco-migrants-troops/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Spain deploys 60 troops as thousands storm border from Morocco (VIDEOS)",
+    "published": "2026-07-30T22:08:57+00:00"
   },
   "b5ff44eee6b605a851fc35705b937587f1d09ab0d893da77f2c9f01375892be3": {
     "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65248",
     "title": "US Citizens Divided on Netanyahu's Role in Gaza Conflict Amid Iran Tensions",
     "published": "2026-07-29T23:03:23.284962+00:00"
-  },
-  "197b9e2734190ce60c8a3b7b6347bebefe744ccd4e5fcce97d3ffb2333f3759c": {
-    "url": "thecradlemedia/65254",
-    "title": "Israeli Airstrikes Hit Southern Lebanon",
-    "published": "2026-07-29T23:03:22.060356+00:00"
-  },
-  "b5a4f784ef186b4816b3cade9fd05ed9b0dfef55bc12cc97dc6e7fd97c871653": {
-    "url": "https://www.rt.com/news/643641-trump-iran-bases-tanker-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Trump warns \u2018it\u2019s our turn\u2019 to hit Iran after strikes on US bases, gas tanker",
-    "published": "2026-07-29T22:52:29+00:00"
-  },
-  "988e3e9846546be264ed344674e360f756c2e74c4e7c15f490a689689f0b3efc": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
-    "title": "Trump threatens Iran strikes after attack on US base in Jordan",
-    "published": "2026-07-29T21:18:24+00:00"
-  },
-  "bfcfbb6b4488ff458102bd40731922a5f9eb2fec97c5bf7ad70128390bf7571c": {
-    "url": "QudsNen/233290",
-    "title": "Israeli Tanks Fire on Haddatha, Southern Lebanon",
-    "published": "2026-07-29T21:04:59.917550+00:00"
-  },
-  "ad3400394b359e7db3094a0deabe4b519681aa44fc8e9c77f52b4eb365ad5959": {
-    "url": "QudsNen/233292",
-    "title": "Gaza Strip Airstrikes Leave Multiple Palestinians Injured and Dead",
-    "published": "2026-07-29T21:03:34.877575+00:00"
-  },
-  "8b0790df64273f2cb6bd2a86d0739100388ab1056d740a6c1cc9081bf45dc1b1": {
-    "url": "QudsNen/233295",
-    "title": "Netanyahu's Visit to White House Met with Protests Over Gaza War Crimes Allegations",
-    "published": "2026-07-29T21:03:05.309305+00:00"
-  },
-  "e495a06e293861d114cc545e167d78981d01b94021a3cc2aeba4c682112497bd": {
-    "url": "thecradlemedia/65256",
-    "title": "Iran Warns Nations Over US-Backed Frozen Asset Payouts",
-    "published": "2026-07-29T21:02:20.673938+00:00"
-  },
-  "9312d0eb2ffde153913284ad60a44173b33dfef96f8c132eeed5ac9feea78a69": {
-    "url": "thecradlemedia/65257",
-    "title": "Turkish Authorities Detain Opposition Mayor, Five Others Over Permit Allegations",
-    "published": "2026-07-29T21:02:19.567435+00:00"
-  },
-  "5bfad261998d50c8a973a7f52c2fda5c5f68b21a83837d015a3f7b0267ef6341": {
-    "url": "thecradlemedia/65266",
-    "title": "Israel Airstrikes Al-Shati Refugee Camp in Gaza",
-    "published": "2026-07-29T21:02:18.193060+00:00"
-  },
-  "68167be0a886fdd72e3108f0981aec7ad6b29ce5894faf5543e69297468a494e": {
-    "url": "https://tass.com/world/2167007",
-    "title": "Trump says no plans to end Iran war because of strikes on US bases",
-    "published": "2026-07-29T21:00:39+00:00"
   }
 }
