@@ -1,4 +1,34 @@
 {
+  "a124540ea4a47d1430cd9dffdd19d42d50568c0de84b67e9b5288857aef30ede": {
+    "url": "DDGeopolitics/190310",
+    "title": "Melilla-Morocco Border Tensions Escalate as Mass Entry Attempt Foiled",
+    "published": "2026-07-31T03:28:52.856376+00:00"
+  },
+  "b8c12f59f8058a6559286cf17ab94239da7dfa86f01107a253c7ef9d6e417744": {
+    "url": "DDGeopolitics/190316",
+    "title": "Drone Activity Raises Security Concerns in Erbil",
+    "published": "2026-07-31T03:27:00.307202+00:00"
+  },
+  "06777bbca8d11d7c8eb50e947772a797f5c1f6ffbca3aa59b128e94d056841c0": {
+    "url": "QudsNen/233467",
+    "title": "India Continues Arms Exports to Israel Amid Gaza Conflict",
+    "published": "2026-07-31T03:23:22.162054+00:00"
+  },
+  "358312d16cf8b17b07dbd5dbfc80cc1999c8107b7f3144e7ecb80ba46961cfcc": {
+    "url": "QudsNen/233471",
+    "title": "Israeli Forces Fire Gas Canisters at Palestine Medical Complex in Ramallah",
+    "published": "2026-07-31T03:23:20.623184+00:00"
+  },
+  "791f36ac010284587f8562617470da8f839bf62f0e5157154a7b845819969fd4": {
+    "url": "QudsNen/233480",
+    "title": "Israeli Artillery Strikes Eastern Gaza Strip",
+    "published": "2026-07-31T03:23:12.220440+00:00"
+  },
+  "7b89f58811744ff9636f3cbc357951d831c6f4f84aebe79a6d7553a40c621a31": {
+    "url": "Middle_East_Spectator/35628",
+    "title": "Iranian Drones Strike Kurdish Opposition Targets in Iraqi Kurdistan",
+    "published": "2026-07-31T03:23:08.466451+00:00"
+  },
   "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
     "url": "CensoredMen/239",
     "title": "China Deploys Drone to Enforce Nighttime Swimming Ban in Qingdao",
@@ -154,6 +184,11 @@
     "title": "IRGC video of retaliatory strikes on US targets in Jordan",
     "published": "2026-07-30T16:06:08+00:00"
   },
+  "789239cc3f1528723de33ba953fa48ed0d85aef3d82393df2fd9e00b29439b2f": {
+    "url": "https://en.mehrnews.com/news/246646/Drone-hangars-fuel-depot-destroyed-at-US-Ali-Salem-base",
+    "title": "Drone hangars, fuel depot destroyed at US Ali Salem base",
+    "published": "2026-07-30T14:56:20+00:00"
+  },
   "0fd12015bb2148b12f173cd5b9da8f1c6f47d050efe749a9f4076ec6c0e83bb7": {
     "url": "https://www.rt.com/news/643653-irgc-moghaddam-zelensky-gift-caspian-sea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Iran ex-IRGC commander calls Ukraine ship attack Zelensky\u2019s \u2018gift\u2019 to Israel and US",
@@ -194,6 +229,11 @@
     "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
     "published": "2026-07-30T13:52:01+00:00"
   },
+  "d898e47dd0544d164b2bd1d5883cd50ceab3b8e0d8e7eb1f4abe572881acf7f7": {
+    "url": "https://tass.com/world/2167329",
+    "title": "Iran strikes hangars holding US drones in Kuwait \u2014 IRGC",
+    "published": "2026-07-30T13:50:19+00:00"
+  },
   "eaa90f1289ca1bebce5f719a91f9a98a592c5deb671c51a36bd38f952879ea38": {
     "url": "https://tass.com/society/2167313",
     "title": "Strike on critically important infrastructure of Zaporozhye Nuclear Power Plant prevented",
@@ -209,10 +249,20 @@
     "title": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan",
     "published": "2026-07-30T12:25:43+00:00"
   },
+  "718b11a01d9faf32d842b9a24fa192a81064456b1cc35ddd7d5eec2f2ba008a4": {
+    "url": "https://tass.com/economy/2167261",
+    "title": "Oil loading onto tanker attacked by drone near CPC halted beforehand \u2014 Kazakh ministry",
+    "published": "2026-07-30T12:08:03+00:00"
+  },
   "4d722d9722f53503744b38b322258b35c2e87ec4053db9edafe180439c1e9e3b": {
     "url": "https://english.almanar.com.lb/article/110092/",
     "title": "Retaliatory Strikes Destroy Three F-35 Jets at US-Run Jordan Base: IRGC - Al-Manar TV Lebanon",
     "published": "2026-07-30T11:56:34+00:00"
+  },
+  "fe175f62908b9b941ef4ab7518977a73686a42f3d390e5880ed302f93a960248": {
+    "url": "https://english.almanar.com.lb/article/110057/",
+    "title": "Israeli Occupation Shells Syria\u2019s Southern Countryside of Quneitra - Al-Manar TV Lebanon",
+    "published": "2026-07-30T11:18:13+00:00"
   },
   "0add5bfd1332a49f06ac64be1b9be33240b97f5ecb1d3ddf6e94447294ad873b": {
     "url": "https://tass.com/world/2167233",
@@ -698,55 +748,5 @@
     "url": "QudsNen/233206",
     "title": "Netanyahu Faces Protests in Washington",
     "published": "2026-07-29T06:40:17.474706+00:00"
-  },
-  "05310777ed6ac9708a5b2a608533f0eb7c36628fee019c09a2c647a06c7da329": {
-    "url": "https://en.mehrnews.com/news/246611/Iraq-s-PMF-reacts-to-joint-US-Saudi-strikes",
-    "title": "Iraq's PMF reacts to joint US-Saudi strikes",
-    "published": "2026-07-29T05:04:01+00:00"
-  },
-  "02aae1799e44f38dc447bc58f5843a9bf690d07452776dfe5f6ec6813e16b4f6": {
-    "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-    "title": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says",
-    "published": "2026-07-29T04:30:08+00:00"
-  },
-  "09e3dcc8838ce8b1558c6a747c5a576a938d22931f3743fdd7a11144ea1592c2": {
-    "url": "https://www.rt.com/news/643593-iran-ukraine-vessel-attack-restitution/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran demands \u2018restitution\u2019 for Kiev\u2019s deadly attack",
-    "published": "2026-07-29T04:29:23+00:00"
-  },
-  "7451d7cdaaddc49b5e6daa6dd2dd77c73f856891355d6390d9c0b83c39b00e08": {
-    "url": "https://en.mehrnews.com/news/246608/IRGC-strikes-US-command-centre-in-Jordan",
-    "title": "IRGC strikes US command centre in Jordan",
-    "published": "2026-07-29T04:09:45+00:00"
-  },
-  "4e0672627d13d0ef355510301a18ca1ffc4c6b57fdf63ad4d5438a38614af109": {
-    "url": "https://en.mehrnews.com/news/246607/Three-tankers-hit-after-using-illegal-route-in-Hormuz-Strait",
-    "title": "Oil tankers hit after using illegal route in Hormuz Strait",
-    "published": "2026-07-29T03:41:57+00:00"
-  },
-  "6adeb5e55bcf91c3648f4b0f397961783fa514f024ac87682dffbf2eaf395854": {
-    "url": "presstv/200678",
-    "title": "Saudi-American Airstrike Hits PMU Base in Iraq's Salah al-Din Province",
-    "published": "2026-07-29T02:59:30.540083+00:00"
-  },
-  "9044b54ff5651993cccebfc7ad7e101372a8a206cea3acbc8ca59acc8fecaea4": {
-    "url": "BellumActaNews/175929",
-    "title": "Saudi-American Coalition Conducts Airstrikes in Karbala, Iraq",
-    "published": "2026-07-29T02:58:48.648393+00:00"
-  },
-  "39b5f758ffdf29b544549539dd31203388a304464b5d267a3a4f888225d73b41": {
-    "url": "BellumActaNews/175932",
-    "title": "US-Saudi Coalition Targets PMF Positions in Iraq's Saladin Governorate",
-    "published": "2026-07-29T02:58:19.159924+00:00"
-  },
-  "a19beedf85ed0553c02bd3aed1ee4b2ebcea9de53c523ec987449a17a807f5f6": {
-    "url": "DDGeopolitics/190156",
-    "title": "NATO RQ-4D Phoenix Drone Conducts Surveillance Over Black Sea",
-    "published": "2026-07-29T02:57:26.668622+00:00"
-  },
-  "fdc6810d641e41aaeb6f4053b57917c947ff712f4d36f3bcf28747bb52da141c": {
-    "url": "QudsNen/233194",
-    "title": "Israeli Tanks Open Fire in Northern Gaza",
-    "published": "2026-07-29T02:57:24.877090+00:00"
   }
 }

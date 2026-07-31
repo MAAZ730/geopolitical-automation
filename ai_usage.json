@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5379,
+  "total_calls": 5383,
   "tiers": {
-    "groq": 5360,
+    "groq": 5364,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-27T23:07:56.074732+00:00",
-      "tier": "groq",
-      "article": "Trump says Iran war talks taking place during lull in strikes"
-    },
-    {
-      "timestamp": "2026-07-27T23:08:34.446734+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-27T23:08:50.818123+00:00",
-      "tier": "groq",
-      "article": "Yemeni army targets Saudi Arabia\u2019s oil transport facilities"
-    },
-    {
-      "timestamp": "2026-07-27T23:09:08.297660+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-28T02:47:27.081560+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-30T23:12:27.723803+00:00",
       "tier": "groq",
       "article": "Qatari LNG cargo uses Iran-designated route in Hormuz"
+    },
+    {
+      "timestamp": "2026-07-31T03:17:46.957789+00:00",
+      "tier": "groq",
+      "article": "Drone hangars, fuel depot destroyed at US Ali Salem base"
+    },
+    {
+      "timestamp": "2026-07-31T03:18:21.052027+00:00",
+      "tier": "groq",
+      "article": "Iran strikes hangars holding US drones in Kuwait \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-07-31T03:19:07.745377+00:00",
+      "tier": "groq",
+      "article": "Oil loading onto tanker attacked by drone near CPC halted beforehand \u2014 Kazakh ministry"
+    },
+    {
+      "timestamp": "2026-07-31T03:19:27.340630+00:00",
+      "tier": "groq",
+      "article": "Israeli Occupation Shells Syria\u2019s Southern Countryside of Quneitra - Al-Manar TV Lebanon"
     }
   ]
 }
