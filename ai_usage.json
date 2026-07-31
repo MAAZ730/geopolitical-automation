@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5383,
+  "total_calls": 5387,
   "tiers": {
-    "groq": 5364,
+    "groq": 5368,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-28T02:47:27.081560+00:00",
-      "tier": "groq",
-      "article": "Gaza death toll rises to 73,043, Palestinian health authorities say"
-    },
-    {
-      "timestamp": "2026-07-28T02:48:03.651173+00:00",
-      "tier": "groq",
-      "article": "CENTCOM chief urged Trump to halt Hormuz strikes \u2013 Axios"
-    },
-    {
-      "timestamp": "2026-07-28T02:48:51.056957+00:00",
-      "tier": "groq",
-      "article": "Russian forces to punish Kiev for terrorist attacks against civilians \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-07-28T02:49:10.279084+00:00",
-      "tier": "groq",
-      "article": "Syria marks international Day in Support of victims of torture"
-    },
     {
       "timestamp": "2026-07-28T06:29:44.215464+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-31T03:19:27.340630+00:00",
       "tier": "groq",
       "article": "Israeli Occupation Shells Syria\u2019s Southern Countryside of Quneitra - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-07-31T06:47:21.644988+00:00",
+      "tier": "groq",
+      "article": "Iran warns US to \"pay heavy price\" for killing civilians"
+    },
+    {
+      "timestamp": "2026-07-31T06:47:55.914780+00:00",
+      "tier": "groq",
+      "article": "Death toll from Japan earthquake climbs to 34"
+    },
+    {
+      "timestamp": "2026-07-31T06:48:12.822727+00:00",
+      "tier": "groq",
+      "article": "US terrorists wounded in Iran war rise to 653: Report"
+    },
+    {
+      "timestamp": "2026-07-31T06:48:48.064048+00:00",
+      "tier": "groq",
+      "article": "Iran downs yet another hostile US drone in south"
     }
   ]
 }
