@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5411,
+  "total_calls": 5415,
   "tiers": {
-    "groq": 5392,
+    "groq": 5396,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-28T23:05:16.565786+00:00",
-      "tier": "groq",
-      "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
-    },
-    {
-      "timestamp": "2026-07-28T23:05:49.396628+00:00",
-      "tier": "groq",
-      "article": "Israeli airstrike destroys Gaza City mosque near displacement camp"
-    },
-    {
-      "timestamp": "2026-07-28T23:06:37.085984+00:00",
-      "tier": "groq",
-      "article": "Ukrainian strikes on Novorossiysk trigger diesel shortage in Moldova, PM says"
-    },
-    {
-      "timestamp": "2026-07-28T23:07:23.129491+00:00",
-      "tier": "groq",
-      "article": "Cells belonging to Ukraine carried out bombings in Iraq"
-    },
     {
       "timestamp": "2026-07-29T02:53:36.496669+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-07-31T23:05:38.817091+00:00",
       "tier": "groq",
       "article": "Trump pours cold water on Kiev\u2019s Patriot dream"
+    },
+    {
+      "timestamp": "2026-08-01T03:15:41.103018+00:00",
+      "tier": "groq",
+      "article": "Russian missile attack kills three in Ukraine\u2019s Kyiv"
+    },
+    {
+      "timestamp": "2026-08-01T03:15:57.416944+00:00",
+      "tier": "groq",
+      "article": "Kiev\u2019s dirty war goes global"
+    },
+    {
+      "timestamp": "2026-08-01T03:16:29.954699+00:00",
+      "tier": "groq",
+      "article": "Ukrainian military carries out 39 attacks on residential areas in DPR in past day"
+    },
+    {
+      "timestamp": "2026-08-01T03:16:49.042164+00:00",
+      "tier": "groq",
+      "article": "Iran Army targets US Ahmad al-Jaber airbase in Kuwait"
     }
   ]
 }
