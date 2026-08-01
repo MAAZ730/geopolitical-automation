@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5419,
+  "total_calls": 5423,
   "tiers": {
-    "groq": 5400,
+    "groq": 5404,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-29T06:37:35.736540+00:00",
-      "tier": "groq",
-      "article": "Iran demands \u2018restitution\u2019 for Kiev\u2019s deadly attack"
-    },
-    {
-      "timestamp": "2026-07-29T06:38:18.628484+00:00",
-      "tier": "groq",
-      "article": "Iran launches 'attempted surprise attack' on American forces in Middle East, US military says"
-    },
-    {
-      "timestamp": "2026-07-29T06:39:04.704493+00:00",
-      "tier": "groq",
-      "article": "IRGC strikes US command centre in Jordan"
-    },
-    {
-      "timestamp": "2026-07-29T06:39:23.655402+00:00",
-      "tier": "groq",
-      "article": "7.1-magnitude quake hits southern Japan (+VIDEO)"
-    },
     {
       "timestamp": "2026-07-29T10:42:07.198337+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-01T06:34:46.810939+00:00",
       "tier": "groq",
       "article": "Palestinian factions demand Israeli compliance with Gaza deal"
+    },
+    {
+      "timestamp": "2026-08-01T10:02:54.076003+00:00",
+      "tier": "groq",
+      "article": "Zelensky complains about air defense missile shortage in light of Russia\u2019s massive strike"
+    },
+    {
+      "timestamp": "2026-08-01T10:03:29.615717+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike Kiev facilities producing missile, drone components \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-01T10:03:48.322832+00:00",
+      "tier": "groq",
+      "article": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks"
+    },
+    {
+      "timestamp": "2026-08-01T10:04:04.870012+00:00",
+      "tier": "groq",
+      "article": "US, Israel may impose land blockade on Iran \u2014 newspaper"
     }
   ]
 }
