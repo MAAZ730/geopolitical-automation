@@ -1,4 +1,49 @@
 {
+  "45dd4aeb15d4378ee231297c8e4f825dca4173dc674481c088a5199b7c9ce872": {
+    "url": "militarywave/24603",
+    "title": "Indonesian Youth Invited to International Festival in Yekaterinburg",
+    "published": "2026-08-01T13:33:59.833758+00:00"
+  },
+  "ff7f2cf9bc134cfda3119d99f5bb9989d941a1bb903bba8f2d3cc71684847ebf": {
+    "url": "DDGeopolitics/190477",
+    "title": "Drone Strike Hits Arkadia District in Odessa, Ukraine",
+    "published": "2026-08-01T13:32:57.022611+00:00"
+  },
+  "fab5747f0b60bb0e81cc79203750a10599a8f40febdb28a92f186ff2be18d8a8": {
+    "url": "Middle_East_Spectator/35673",
+    "title": "US Military Aircraft Sighted in Iraqi Kurdistan Ahead of Iran Escalation",
+    "published": "2026-08-01T13:31:22.884975+00:00"
+  },
+  "cb825bb246844fe1efc17d08c966901406aa8eb70a7997dced8021de1b44e089": {
+    "url": "thecradlemedia/65426",
+    "title": "US Embassy Warns Citizens in Jerusalem Amid Escalation Fears",
+    "published": "2026-08-01T13:30:33.932496+00:00"
+  },
+  "31493513f625199a4b0d814076b3ed0338010df938d46bbea642ef7a65ddb551": {
+    "url": "thecradlemedia/65429",
+    "title": "Israeli Settler Advocates for Retaliation Against Palestinian Villagers",
+    "published": "2026-08-01T13:30:32.481998+00:00"
+  },
+  "bb2de87b727dd64e2334fb59941d39ef6ffe6033cbf45a8a0c60e9a6a1f2e1dd": {
+    "url": "thecradlemedia/65431",
+    "title": "Turkey, Iraq Secure Strategic Energy Route with Pipeline Extension",
+    "published": "2026-08-01T13:29:22.657322+00:00"
+  },
+  "12aa74ee7ac857d8827f6759ab40d04e5046e82ef64bf2d81a4efe39c27a21ef": {
+    "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+    "title": "Iran warns against \u2018flames of war\u2019 amid US strike threats on energy sites",
+    "published": "2026-08-01T12:44:54+00:00"
+  },
+  "6b48951bf8ccf92dd45a67915d1d14bdff5053b4ab8cf813f39ff220a868bed6": {
+    "url": "https://en.irna.ir/news/86225182/Eight-Palestinians-killed-in-Gaza-death-toll-nears-73-350",
+    "title": "Eight Palestinians killed in Gaza; death toll nears 73,350",
+    "published": "2026-08-01T12:29:20+00:00"
+  },
+  "defc171bbc53650ac6d71a711e4c40de3fba12b3ec74817d47768c7e7cdeeff5": {
+    "url": "https://english.almanar.com.lb/article/110812/",
+    "title": "Gaza: Three Palestinians Martyred in Ongoing Israeli Attacks - Al-Manar TV Lebanon",
+    "published": "2026-08-01T11:55:29+00:00"
+  },
   "72a13a23608fd16544da7d64865f4f187b79d09d08ef7833dd3fcb7e5f462ace": {
     "url": "thecradlemedia/65407",
     "title": "Israeli Forces Conduct Airstrikes in Gaza Strip",
@@ -333,6 +378,11 @@
     "url": "thecradlemedia/65371",
     "title": "Saudi Arabia Prepares for Escalated Military Operations in Yemen",
     "published": "2026-07-31T14:15:22.371947+00:00"
+  },
+  "52dbac9e89921ea471c637b3649f20bb5d8b9cabfe8dd1cdb07d898eedce8850": {
+    "url": "https://tass.com/defense/2167721",
+    "title": "West to produce weapons for Ukraine in neighboring NATO countries \u2014 expert",
+    "published": "2026-07-31T13:29:15+00:00"
   },
   "f1bddaa3d34b17fb3e404f1768a75c02c8e887f71895a3590daa7d7968764720": {
     "url": "https://www.aljazeera.com/news/2026/7/31/russias-africa-corps-killed-mali-civilians-in-air-strike-hrw?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/190278",
     "title": "Israeli Soldiers Rebel at Sde Teiman Detention Camp",
     "published": "2026-07-30T14:13:23.142405+00:00"
-  },
-  "59c935a5784c93ba652cc8f109eb0e5bc48e6488502ad3bfa63d328d50109698": {
-    "url": "QudsNen/233390",
-    "title": "US Senator Fetterman Reaffirms Support for Israel Amid Gaza, Lebanon, Iran Conflict Tensions",
-    "published": "2026-07-30T14:12:45.203586+00:00"
-  },
-  "6d716909bf7f04070f1c6f9546968412055a0b5662153d47ffb9083a37618a25": {
-    "url": "thecradlemedia/65296",
-    "title": "Israeli Soldiers Abandon Sde Teiman Base Amid Dispute Over Discipline",
-    "published": "2026-07-30T14:11:33.850610+00:00"
-  },
-  "e7c7ebd8750554a3c4d0acabec21da05d1c7db4bac2790c8566513afe9143286": {
-    "url": "thecradlemedia/65305",
-    "title": "Iraq Denies Involvement in Saudi Arabia Airstrikes, Vows Response",
-    "published": "2026-07-30T14:10:47.448221+00:00"
-  },
-  "3ad35e9dc5c710ee84d3c1a8c9ef4ec67f86dd0de4d2b74d62b0ae4eac994786": {
-    "url": "thecradlemedia/65307",
-    "title": "Hamas Meets with Turkish FM to Discuss Ongoing Gaza Ceasefire Negotiations",
-    "published": "2026-07-30T14:10:39.077936+00:00"
-  },
-  "b79398057149a6890f43d61c43bfadbf2a1a88a6e54471603543920cafb81f78": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
-    "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
-    "published": "2026-07-30T13:52:01+00:00"
-  },
-  "d898e47dd0544d164b2bd1d5883cd50ceab3b8e0d8e7eb1f4abe572881acf7f7": {
-    "url": "https://tass.com/world/2167329",
-    "title": "Iran strikes hangars holding US drones in Kuwait \u2014 IRGC",
-    "published": "2026-07-30T13:50:19+00:00"
-  },
-  "eaa90f1289ca1bebce5f719a91f9a98a592c5deb671c51a36bd38f952879ea38": {
-    "url": "https://tass.com/society/2167313",
-    "title": "Strike on critically important infrastructure of Zaporozhye Nuclear Power Plant prevented",
-    "published": "2026-07-30T13:21:07+00:00"
-  },
-  "56ecd9afb734a3bf89ea7524e565d189430bc3f1c9c314d13022796b03a892fc": {
-    "url": "https://en.irna.ir/news/86223792/US-missile-strike-on-Qeshm-kills-3-family-members-says-Iranian",
-    "title": "US missile strike on Qeshm kills 3 family members, says Iranian official",
-    "published": "2026-07-30T13:14:55+00:00"
-  },
-  "c9f236d9c497f8fd52d67002a5a422713883268f3ca6f3631adb27c453dfd9d6": {
-    "url": "https://en.mehrnews.com/news/246643/Iran-downs-yet-another-hostile-US-drone-in-south",
-    "title": "Iran downs yet another hostile US drone in south",
-    "published": "2026-07-30T12:37:39+00:00"
-  },
-  "c26ac4f0e4ea9f3f65d232f4de52a0d5ab8098f76ac4f8e91e643de0040c5aa8": {
-    "url": "https://en.irna.ir/news/86223773/IRGC-strike-obliterates-3-US-F-35s-kills-troops-in-Jordan",
-    "title": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan",
-    "published": "2026-07-30T12:25:43+00:00"
   }
 }

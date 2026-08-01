@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5423,
+  "total_calls": 5427,
   "tiers": {
-    "groq": 5404,
+    "groq": 5408,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-29T10:42:07.198337+00:00",
-      "tier": "groq",
-      "article": "Dozens of Hashd Shaabi Fighters Martyred, Injured in Joint Saudi-US Aggression on Iraq - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-29T10:42:43.579531+00:00",
-      "tier": "groq",
-      "article": "Hashd al-Shaabi Says 20 Members Killed in Joint Saudi-U.S. Airstrikes"
-    },
-    {
-      "timestamp": "2026-07-29T10:43:33.061204+00:00",
-      "tier": "groq",
-      "article": "Iraqi armed groups condemn \u2018dangerous escalation\u2019 after US-Saudi strikes"
-    },
-    {
-      "timestamp": "2026-07-29T10:43:49.424883+00:00",
-      "tier": "groq",
-      "article": "Magnitude 7.1, more than 50 casualties: consequences of earthquake in Japan"
-    },
     {
       "timestamp": "2026-07-29T14:18:25.056257+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-01T10:04:04.870012+00:00",
       "tier": "groq",
       "article": "US, Israel may impose land blockade on Iran \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-01T13:27:38.820340+00:00",
+      "tier": "groq",
+      "article": "Gaza: Three Palestinians Martyred in Ongoing Israeli Attacks - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-01T13:28:20.093812+00:00",
+      "tier": "groq",
+      "article": "Iran warns against \u2018flames of war\u2019 amid US strike threats on energy sites"
+    },
+    {
+      "timestamp": "2026-08-01T13:28:36.273228+00:00",
+      "tier": "groq",
+      "article": "Eight Palestinians killed in Gaza; death toll nears 73,350"
+    },
+    {
+      "timestamp": "2026-08-01T13:29:15.726856+00:00",
+      "tier": "groq",
+      "article": "West to produce weapons for Ukraine in neighboring NATO countries \u2014 expert"
     }
   ]
 }
