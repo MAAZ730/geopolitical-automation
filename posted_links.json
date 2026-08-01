@@ -1,4 +1,34 @@
 {
+  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
+    "url": "CensoredMen/229",
+    "title": "Ukraine Strikes Second Wildberries Warehouse in Nevinnomyssk",
+    "published": "2026-08-01T15:11:32.731284+00:00"
+  },
+  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
+    "url": "CensoredMen/230",
+    "title": "IRGC Strike Targets U.S. Installation near Aqaba, Jordan",
+    "published": "2026-08-01T15:10:29.999166+00:00"
+  },
+  "b59237bb427562aba0f1840f75bea3876fdd2084845a2efe5c5b7aca006efe22": {
+    "url": "QudsNen/233674",
+    "title": "Israeli Settlement Outpost Established on Seized Palestinian Land in West Bank",
+    "published": "2026-08-01T15:10:11.192954+00:00"
+  },
+  "b658b0bced149ae386db16b93119f2e0d9067970b4dd9facd8cfb54b4b3b138e": {
+    "url": "QudsNen/233676",
+    "title": "Drone Strike Near Al-Zeitoun Sports Club, Gaza City",
+    "published": "2026-08-01T15:08:43.111014+00:00"
+  },
+  "9a916e80a7d653b721a49814008bc0d8e6124b24f56b60c55fe9524924942add": {
+    "url": "thecradlemedia/65437",
+    "title": "Columbia Student Workers Union Abandons Israel Divestment Demands",
+    "published": "2026-08-01T15:07:46.073035+00:00"
+  },
+  "0e6d851bfd8bf44b6bb20fbb88b738a6420350c04c11a23c6294faa1b9c4b98a": {
+    "url": "thecradlemedia/65442",
+    "title": "US General Warns of Israel Defence Prioritization Over Homeland Security",
+    "published": "2026-08-01T15:04:39.946016+00:00"
+  },
   "45dd4aeb15d4378ee231297c8e4f825dca4173dc674481c088a5199b7c9ce872": {
     "url": "militarywave/24603",
     "title": "Indonesian Youth Invited to International Festival in Yekaterinburg",
@@ -79,10 +109,20 @@
     "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
     "published": "2026-08-01T09:47:39+00:00"
   },
+  "6b3d89d90628c2a9d1dd657d2582527573cf8b21315bd4c07fdf656953dec933": {
+    "url": "https://tass.com/world/2167955",
+    "title": "Iranian drones attack government facility in northern Kuwait \u2014 top brass",
+    "published": "2026-08-01T09:32:52+00:00"
+  },
   "8df706e1fd55eb579b9e422d01be99a6919f4ba1b86c6572c6e07c2e6e6a8043": {
     "url": "https://tass.com/world/2167949",
     "title": "Zelensky complains about air defense missile shortage in light of Russia\u2019s massive strike",
     "published": "2026-08-01T08:30:49+00:00"
+  },
+  "916cd73c89b29a2a0f32f2c630b0170b904b2755c9fdcb6ebecc2e2078b8e4bc": {
+    "url": "https://en.mehrnews.com/news/246676/Qatar-claims-it-has-no-information-on-fate-of-Iranian-pilots",
+    "title": "Qatar claims it has no information on fate of Iranian pilots",
+    "published": "2026-08-01T08:19:27+00:00"
   },
   "fcf5f6639ac157a60ca76d1eac6007fda9eae3119a0f51bc90c4a1a2aead1616": {
     "url": "https://tass.com/defense/2167937",
@@ -279,6 +319,11 @@
     "title": "Russian Geran, Gerbera drones, Lancet loitering munition hit 3 ships with military cargoes",
     "published": "2026-07-31T19:28:33+00:00"
   },
+  "96586f5dcdf0cb8452c263a9fe6bb6bd4487dac6efa4c25e40468ed81935dfd9": {
+    "url": "https://tass.com/politics/2167835",
+    "title": "Kiev intensifies attacks on civilians, killing 61 Russians over past week \u2014 diplomat",
+    "published": "2026-07-31T18:43:52+00:00"
+  },
   "e1ab565c0c98657173381f1b1078c77ca3313c0d27d739c07f577f156b4c3d08": {
     "url": "https://english.almanar.com.lb/article/110542/",
     "title": "Hezbollah Condemns US Attack on Iraq, Warns of Grave Regional consequences - Al-Manar TV Lebanon",
@@ -348,6 +393,11 @@
     "url": "https://www.tehrantimes.com/news/528739/Trump-s-false-claim-that-Iraq-knew-about-PMF-raids-exposes-his",
     "title": "Trump\u2019s false claim that Iraq knew about PMF raids exposes his deceit",
     "published": "2026-07-31T16:36:58+00:00"
+  },
+  "077eb445d7a1bb3d8d3e0c89842d6517edc730dd55ce941567026bcdb1897581": {
+    "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+    "title": "What's in the Gaza peace deal roadmap?",
+    "published": "2026-07-31T16:00:56+00:00"
   },
   "8635a65d9881a3e26552a13726f36a88d87cf721bf592fd035de3138b205a0b0": {
     "url": "QudsNen/233523",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/35609",
     "title": "Jordan Air Base Suffers Significant Damage in Military Facility Attack",
     "published": "2026-07-30T17:43:08.230848+00:00"
-  },
-  "41d358d3f1b8271642a43786e065c4feebe8cd09b4a6b19ff2aae4650a9219e9": {
-    "url": "thecradlemedia/65316",
-    "title": "Qatari LNG Tanker Navigates Strait of Hormuz Amid Iran-Pakistan Transit Deal",
-    "published": "2026-07-30T17:39:31.870354+00:00"
-  },
-  "45836326abda47cb0076a2fcd3dbc166e495745df4225be00c128f7a3da7d3ce": {
-    "url": "thecradlemedia/65318",
-    "title": "Israeli Artillery Strikes Ali al-Taher Hill in South Lebanon",
-    "published": "2026-07-30T17:39:30.692318+00:00"
-  },
-  "9e62a9db53429320d81471473928218d3f7bd0f178057bdfa47f677558bba5bc": {
-    "url": "thecradlemedia/65321",
-    "title": "Turkish Police Detain CHP Mayor Amid Ongoing Crackdown",
-    "published": "2026-07-30T17:39:06.221328+00:00"
-  },
-  "27348615c6e820337bf939b46b1ce867c5fff665fb644b41b73140b360b80e9b": {
-    "url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss",
-    "title": "NATO jets scramble as Russian missile detonates in Poland",
-    "published": "2026-07-30T16:28:51+00:00"
-  },
-  "e9ee4d29ac28d0739af53c08b49c2a4b9544e83fb0433265c97adbae31959cd2": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss",
-    "title": "IRGC video of retaliatory strikes on US targets in Jordan",
-    "published": "2026-07-30T16:06:08+00:00"
-  },
-  "789239cc3f1528723de33ba953fa48ed0d85aef3d82393df2fd9e00b29439b2f": {
-    "url": "https://en.mehrnews.com/news/246646/Drone-hangars-fuel-depot-destroyed-at-US-Ali-Salem-base",
-    "title": "Drone hangars, fuel depot destroyed at US Ali Salem base",
-    "published": "2026-07-30T14:56:20+00:00"
-  },
-  "0fd12015bb2148b12f173cd5b9da8f1c6f47d050efe749a9f4076ec6c0e83bb7": {
-    "url": "https://www.rt.com/news/643653-irgc-moghaddam-zelensky-gift-caspian-sea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran ex-IRGC commander calls Ukraine ship attack Zelensky\u2019s \u2018gift\u2019 to Israel and US",
-    "published": "2026-07-30T14:29:30+00:00"
-  },
-  "5a1e9732dbf1c0fd1d2a7bc61b8500a9f459f4e2592b5e757ee76c70abd8aece": {
-    "url": "https://tass.com/politics/2167337",
-    "title": "Kiev uses drones to scatter new type of Lepestok landmine in LPR \u2014 diplomat",
-    "published": "2026-07-30T14:25:32+00:00"
-  },
-  "e31e625f31345ed27e3a42d53597d2fd21b2b4424c2a14f03c6d11efd731fef6": {
-    "url": "DDGeopolitics/190270",
-    "title": "IRGC Missile Strike Destroys US F-35 Jets at Jordanian Air Base",
-    "published": "2026-07-30T14:16:25.374538+00:00"
-  },
-  "508897e6da9412341e31604a43ed6b027b2802e88564aee9685f99f2e66ea00e": {
-    "url": "DDGeopolitics/190278",
-    "title": "Israeli Soldiers Rebel at Sde Teiman Detention Camp",
-    "published": "2026-07-30T14:13:23.142405+00:00"
   }
 }

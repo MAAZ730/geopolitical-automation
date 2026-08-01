@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5427,
+  "total_calls": 5431,
   "tiers": {
-    "groq": 5408,
+    "groq": 5412,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-29T14:18:25.056257+00:00",
-      "tier": "groq",
-      "article": "FACTBOX: Killed in Crimea, injured in Ryazan Region, 295 drones: aftermath of attacks"
-    },
-    {
-      "timestamp": "2026-07-29T14:19:10.930946+00:00",
-      "tier": "groq",
-      "article": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?"
-    },
-    {
-      "timestamp": "2026-07-29T14:19:56.629472+00:00",
-      "tier": "groq",
-      "article": "US-Saudi strikes in Iraq leave dozens of casualties across multiple PMU sites"
-    },
-    {
-      "timestamp": "2026-07-29T14:20:14.299010+00:00",
-      "tier": "groq",
-      "article": "BARS-LPR unit to recruit fighters with drone combat experience \u2014 authorities"
-    },
     {
       "timestamp": "2026-07-29T17:18:48.888306+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-01T13:29:15.726856+00:00",
       "tier": "groq",
       "article": "West to produce weapons for Ukraine in neighboring NATO countries \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-01T15:03:19.719115+00:00",
+      "tier": "groq",
+      "article": "Qatar claims it has no information on fate of Iranian pilots"
+    },
+    {
+      "timestamp": "2026-08-01T15:03:54.010289+00:00",
+      "tier": "groq",
+      "article": "Iranian drones attack government facility in northern Kuwait \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-01T15:04:12.413255+00:00",
+      "tier": "groq",
+      "article": "Kiev intensifies attacks on civilians, killing 61 Russians over past week \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-08-01T15:04:30.617165+00:00",
+      "tier": "groq",
+      "article": "What's in the Gaza peace deal roadmap?"
     }
   ]
 }
