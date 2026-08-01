@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5439,
+  "total_calls": 5443,
   "tiers": {
-    "groq": 5420,
+    "groq": 5424,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-29T20:59:53.424612+00:00",
-      "tier": "groq",
-      "article": "Iraqi president denounces deadly US-Saudi aggression"
-    },
-    {
-      "timestamp": "2026-07-29T21:00:26.833032+00:00",
-      "tier": "groq",
-      "article": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases"
-    },
-    {
-      "timestamp": "2026-07-29T21:01:12.339388+00:00",
-      "tier": "groq",
-      "article": "4 IRGC Quds Force servicemen martyred in US strike in Iraq"
-    },
-    {
-      "timestamp": "2026-07-29T21:01:31.374768+00:00",
-      "tier": "groq",
-      "article": "Continued US actions threaten security of Hormuz Strait"
-    },
     {
       "timestamp": "2026-07-29T23:01:36.679932+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-01T19:14:19.189775+00:00",
       "tier": "groq",
       "article": "Polish foreign ministry presents note of protest to Russian ambassador"
+    },
+    {
+      "timestamp": "2026-08-01T20:57:25.341672+00:00",
+      "tier": "groq",
+      "article": "Iran's strikes undermined Israel's long-standing military superiority: John Helmer"
+    },
+    {
+      "timestamp": "2026-08-01T20:57:44.128149+00:00",
+      "tier": "groq",
+      "article": "Crushing retaliation against US aggression: Iran seeks the fate of three heroic aviators"
+    },
+    {
+      "timestamp": "2026-08-01T20:58:03.458120+00:00",
+      "tier": "groq",
+      "article": "Pentagon seeks $18.2 bln to replenish interceptor missile stocks \u2014 agency"
+    },
+    {
+      "timestamp": "2026-08-01T20:58:25.978632+00:00",
+      "tier": "groq",
+      "article": "US redirects 30 vessels amid Iran naval blockade \u2014 CENTCOM"
     }
   ]
 }

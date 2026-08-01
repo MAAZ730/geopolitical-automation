@@ -1,4 +1,34 @@
 {
+  "e78f72e854f567fef500dedd8c83d801cc0be2f2c62feda3e26d17fa2fdaccb1": {
+    "url": "DDGeopolitics/190512",
+    "title": "Moscow Restaurant Blast Kills Three, Injures 21",
+    "published": "2026-08-01T20:59:59.911876+00:00"
+  },
+  "64f1a2073e34007712453d2016a1c02ded3193d9d4f4ec62a28feefcdb6a9e72": {
+    "url": "DDGeopolitics/190514",
+    "title": "Moscow Restaurant Bombing Targets Ukrainian Aerospace Forces Commander",
+    "published": "2026-08-01T20:59:20.907938+00:00"
+  },
+  "701fdc65bd5a2d678abd17204bca24968b67c039ec232e55ea45e239cca5fd90": {
+    "url": "QudsNen/233684",
+    "title": "Gaza City Drone Strike",
+    "published": "2026-08-01T20:59:07.501476+00:00"
+  },
+  "2bb8d99745150c7c22fc751113ae9baf7e13eaf62bba042315687f7182742088": {
+    "url": "QudsNen/233698",
+    "title": "Israeli Forces Open Fire in Southern Lebanon",
+    "published": "2026-08-01T20:59:05.909789+00:00"
+  },
+  "cf4594447b7ba1da4aab32e325d9e6b9765ae15bff3df3debf9d467558ddbd17": {
+    "url": "QudsNen/233699",
+    "title": "Gaza Civil Defense Teams Recover Remains of Al-Hassaina Family",
+    "published": "2026-08-01T20:58:54.127282+00:00"
+  },
+  "09dc5fb38fb0023bb5c737fe3a6bc5b82a60dc8918a0d16b1ed6c51d10ee699c": {
+    "url": "QudsNen/233701",
+    "title": "Tear Gas Deployed in Palestinian Homes During Israeli Raid in Tuqu'",
+    "published": "2026-08-01T20:58:52.024332+00:00"
+  },
   "903d13e8020bc246044eba291ba148ff6cb369a7a427fff83f22da45f8c7fa4f": {
     "url": "BellumActaNews/176087",
     "title": "Explosion Rocks Moscow Restaurant, Multiple Injuries Reported",
@@ -39,10 +69,20 @@
     "title": "America was caught off guard",
     "published": "2026-08-01T17:53:37+00:00"
   },
+  "f83452a2fd07510039ea6d21b48b0bef34c5ebc7aac9d481b61e49023fa576ce": {
+    "url": "https://www.tehrantimes.com/news/528771/Crushing-retaliation-against-US-aggression-Iran-seeks-the-fate",
+    "title": "Crushing retaliation against US aggression: Iran seeks the fate of three heroic aviators",
+    "published": "2026-08-01T17:51:49+00:00"
+  },
   "0c654cb569d16371f58755e5c51575bf1666554cc0bedef3853b730ea6d9b596": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
     "title": "At least 9 people killed in Russian missile attacks on Kyiv",
     "published": "2026-08-01T17:45:26+00:00"
+  },
+  "d5abbf822fccacec470579037396d6c27ce1f7f83d22994bd3fb5e911e63a0ba": {
+    "url": "https://www.tehrantimes.com/news/528736/Iran-s-strikes-undermined-Israel-s-long-standing-military-superiority",
+    "title": "Iran's strikes undermined Israel's long-standing military superiority: John Helmer",
+    "published": "2026-08-01T17:12:40+00:00"
   },
   "a555c1786405ac14a26b8766358fb2c31619cb8f8b5d137d5949ef743cc12cfd": {
     "url": "QudsNen/233685",
@@ -249,6 +289,11 @@
     "title": "Kuwait Fends Off Iranian Drone Attack",
     "published": "2026-08-01T06:34:54.176042+00:00"
   },
+  "6fabc56d263a57aee478968cd6c415a5cc33ae8e94b049649f208f559ede2120": {
+    "url": "https://tass.com/world/2167901",
+    "title": "Pentagon seeks $18.2 bln to replenish interceptor missile stocks \u2014 agency",
+    "published": "2026-08-01T04:34:59+00:00"
+  },
   "39eeefad06cc961023bb0624369b440ff1b0fb0f2e43b9afeb91678af84dfac2": {
     "url": "BellumActaNews/176046",
     "title": "Migrants Breach Border Fence in Melilla",
@@ -298,6 +343,11 @@
     "url": "https://www.rt.com/news/643658-kiev-drone-war-global/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Kiev\u2019s dirty war goes global",
     "published": "2026-07-31T23:28:53+00:00"
+  },
+  "176b6c11de53d8d5054170cac2decbd73a4d2bd8bf30dbcde08aef59fd71df54": {
+    "url": "https://tass.com/world/2167873",
+    "title": "US redirects 30 vessels amid Iran naval blockade \u2014 CENTCOM",
+    "published": "2026-07-31T23:25:20+00:00"
   },
   "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
     "url": "CensoredMen/232",
@@ -698,55 +748,5 @@
     "url": "https://www.rt.com/news/643693-trump-ukraine-patriot-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Trump pours cold water on Kiev\u2019s Patriot dream",
     "published": "2026-07-31T01:35:45+00:00"
-  },
-  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
-    "url": "CensoredMen/239",
-    "title": "China Deploys Drone to Enforce Nighttime Swimming Ban in Qingdao",
-    "published": "2026-07-30T23:18:23.910206+00:00"
-  },
-  "0522061591d5473b5024cb751f0efe670f5f9f7540b528ffeea943018bf0c903": {
-    "url": "presstv/200955",
-    "title": "Israeli Forces Conduct Explosions in Southern Lebanon",
-    "published": "2026-07-30T23:17:35.922718+00:00"
-  },
-  "59dabf9702d38551cbe6dc8513238532b130b05055f5ebb575901df2ede7b67b": {
-    "url": "presstv/200959",
-    "title": "Israeli Forces Conduct Explosions in Southern Lebanon",
-    "published": "2026-07-30T23:16:59.490232+00:00"
-  },
-  "713c831440919b4128f89f71f1bb26cc9e80093bb32ef3d59c76b5cc00121add": {
-    "url": "QudsNen/233451",
-    "title": "Israeli Forces Demolish Homes in Yohmor Al-Shaqif, Lebanon",
-    "published": "2026-07-30T23:16:16.636735+00:00"
-  },
-  "dd9c76ab4ffc02a811fda15343b0556b6bd1efc6e06c4cd48442096c062b7799": {
-    "url": "Middle_East_Spectator/35619",
-    "title": "Iran Develops Hybrid Missile Capabilities",
-    "published": "2026-07-30T23:15:37.603445+00:00"
-  },
-  "d4e3fa45b4ed1f038c63d703800b2ffcc929461d8bfdd0538758d3567d56a3dd": {
-    "url": "Middle_East_Spectator/35623",
-    "title": "Iran's Foreign Minister Warns of Israeli Threats to Regional Peace",
-    "published": "2026-07-30T23:15:36.186323+00:00"
-  },
-  "bf50498b062ea95ce9e10302ca23d9b8a8f940e93f0004e851a0f8c8b0e27820": {
-    "url": "https://www.rt.com/news/643690-spain-morocco-migrants-troops/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Spain deploys 60 troops as thousands storm border from Morocco (VIDEOS)",
-    "published": "2026-07-30T22:08:57+00:00"
-  },
-  "b5ff44eee6b605a851fc35705b937587f1d09ab0d893da77f2c9f01375892be3": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
-    "title": "The arms race for cheaper anti-ballistic weapons is underway",
-    "published": "2026-07-30T21:25:53+00:00"
-  },
-  "dbf80d96ddbe37008b0f428525cdd367ac3035c7a986cefeaacffd9e95530300": {
-    "url": "presstv/200934",
-    "title": "Netanyahu Accuses New York City Mayor of Supporting Iran, Hamas, Hezbollah",
-    "published": "2026-07-30T21:23:41.207475+00:00"
-  },
-  "7f4dbca8453a0808c731c11c4d79bd225e050157c72c0ee5845d47829b4599ff": {
-    "url": "presstv/200940",
-    "title": "Iran Claims Drone Strike on US Base in Bahrain",
-    "published": "2026-07-30T21:22:04.463752+00:00"
   }
 }
