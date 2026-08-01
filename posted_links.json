@@ -1,4 +1,34 @@
 {
+  "b40d48a425bd29942df66f00342fafba2aba2d3c495dcbf623771afabd8a291a": {
+    "url": "presstv/201102",
+    "title": "Israeli Forces Destroy Medical Warehouse in Deir al-Balah",
+    "published": "2026-08-01T06:43:38.468556+00:00"
+  },
+  "e1f8f156e5cd04b0e9c92561ffc7f3991b5d15500cf448ba8b6322344bb4a166": {
+    "url": "presstv/201109",
+    "title": "Settler Raids Erupt South of Nablus Amid Online Incitement",
+    "published": "2026-08-01T06:41:05.027128+00:00"
+  },
+  "81466bb350c4812739d60c335213bd7d4ac614089fb7ce41f739877f97cb4e2c": {
+    "url": "presstv/201111",
+    "title": "IRGC Navy Issues Warnings to Unauthorized Vessels in Strait of Hormuz",
+    "published": "2026-08-01T06:38:56.431140+00:00"
+  },
+  "c09389a69d9957c60bcb24255dd932dbe386abcd46bd0797c76aad88d262ace1": {
+    "url": "QudsNen/233619",
+    "title": "Israeli Airstrike Hits Medical Warehouse in Deir Al-Balah, Gaza",
+    "published": "2026-08-01T06:36:22.642511+00:00"
+  },
+  "a92165f708cdeb3241d08f63e7b9fbbd9a68318d42f038e14bb5806ef2415b8b": {
+    "url": "QudsNen/233625",
+    "title": "Israeli Strike on Al-Aqsa Martyrs Hospital in Gaza",
+    "published": "2026-08-01T06:36:21.078144+00:00"
+  },
+  "0775cca3ef86baf1c44bef40890175096f549f71fe8d2f2f447aaca3970c1483": {
+    "url": "Middle_East_Spectator/35649",
+    "title": "Kuwait Fends Off Iranian Drone Attack",
+    "published": "2026-08-01T06:34:54.176042+00:00"
+  },
   "39eeefad06cc961023bb0624369b440ff1b0fb0f2e43b9afeb91678af84dfac2": {
     "url": "BellumActaNews/176046",
     "title": "Migrants Breach Border Fence in Melilla",
@@ -39,6 +69,11 @@
     "title": "Russian missile attack kills three in Ukraine\u2019s Kyiv",
     "published": "2026-08-01T02:06:00+00:00"
   },
+  "d389435d1af740f35e673938f1c1a3d4c3b9dfadedca82437eac8bd813d7db37": {
+    "url": "https://tass.com/world/2167877",
+    "title": "Next round of US strikes on Iran could last several days \u2014 newspaper",
+    "published": "2026-08-01T00:06:52+00:00"
+  },
   "c691bdaba8ecbab66e06d7a919821046013ea888e77a7041d5b4b73bf3fda43d": {
     "url": "https://www.rt.com/news/643658-kiev-drone-war-global/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Kiev\u2019s dirty war goes global",
@@ -73,6 +108,11 @@
     "url": "thecradlemedia/65375",
     "title": "Israeli Settlers, Occupation Forces Raid West Bank, Leave Palestinian Man Injured",
     "published": "2026-07-31T23:05:44.504776+00:00"
+  },
+  "f075d6032d0f1e7cb644eae0e55433eb040ed2990d93dd77de2758da4e54f718": {
+    "url": "https://tass.com/world/2167869",
+    "title": "US, Israel plan to carry out large-scale strikes on Iran\u2019s energy infrastructure \u2014 TV",
+    "published": "2026-07-31T22:40:24+00:00"
   },
   "bc81bbbab7340ae6749fa10b5caa7d31252307c7f42ab25526922b219207abb7": {
     "url": "militarywave/24588",
@@ -153,6 +193,11 @@
     "url": "https://english.almanar.com.lb/article/110542/",
     "title": "Hezbollah Condemns US Attack on Iraq, Warns of Grave Regional consequences - Al-Manar TV Lebanon",
     "published": "2026-07-31T18:35:01+00:00"
+  },
+  "1d8dea96b6300eeeffb175915e9e3e9fe21ef444441c2a8e9f5b624293a74a0c": {
+    "url": "https://www.rt.com/news/643725-israel-strikes-gaza-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "IDF strikes Gaza after Trump announces Hamas disarmament plan",
+    "published": "2026-07-31T18:20:22+00:00"
   },
   "4c91bb913843385377bfde9611b9e8fd3350ae612dd3eb3b8a939b7d905e6cc6": {
     "url": "https://www.tehrantimes.com/news/528727/Senior-cleric-Consolidating-military-gains-at-negotiating-table",
@@ -293,6 +338,11 @@
     "url": "https://tass.com/politics/2167567",
     "title": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia \u2014 MP",
     "published": "2026-07-31T08:34:35+00:00"
+  },
+  "568ffa12cf3787fe4c62c44b8cb5c9cae14d55e72f9c9a8820e73a60c15227ce": {
+    "url": "https://en.mehrnews.com/news/246658/Palestinian-factions-demand-Israeli-compliance-with-Gaza-deal",
+    "title": "Palestinian factions demand Israeli compliance with Gaza deal",
+    "published": "2026-07-31T08:09:17+00:00"
   },
   "eff86a891259bb11a9d08cf23ae8798a1d1fbb526dc42617d931b677d9c521f4": {
     "url": "https://tass.com/emergencies/2167553",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65289",
     "title": "US-Saudi Airstrikes Kill Dozens of Iraqi Militia Fighters, PM Cancels Saudi Visit",
     "published": "2026-07-30T10:30:22.038639+00:00"
-  },
-  "2ffaeb9a44f52d16c7db250f442caf5d38a47f3358e99daef9edc0a81c0cb8a1": {
-    "url": "https://english.almanar.com.lb/article/109977/",
-    "title": "Gaza Endures 294th Day of Raids as Tents and Homes Collapse on Families - Al-Manar TV Lebanon",
-    "published": "2026-07-30T10:16:56+00:00"
-  },
-  "8608c90ffd0f0b34ddd0e00bfe43ae519234b16620d569786a324df675e839d8": {
-    "url": "https://en.mehrnews.com/news/246641/Qatari-LNG-cargo-uses-Iran-designated-route-in-Hormuz",
-    "title": "Qatari LNG cargo uses Iran-designated route in Hormuz",
-    "published": "2026-07-30T10:16:40+00:00"
-  },
-  "f43a56f1d1aa7a0c187a2426833a10bc8369177e8297c5c4e046a6bb18ab3bfe": {
-    "url": "https://tass.com/defense/2167147",
-    "title": "FACTBOX: What is known about last night's massive strike by Russia on targets in Ukraine",
-    "published": "2026-07-30T07:42:32+00:00"
-  },
-  "e3831609b488361f6a7581a80781beee8eca1c4f456cf40936a5051143422851": {
-    "url": "https://warontherocks.com/can-cyber-operations-be-deterred-what-wargames-reveal/",
-    "title": "Can Cyber Operations Be Deterred? What Wargames Reveal",
-    "published": "2026-07-30T07:30:39+00:00"
-  },
-  "b974e69beb3fd3f05afb6c77926709f2570734a7676a8553e0d145361afc99d8": {
-    "url": "QudsNen/233334",
-    "title": "Gaza City Apartment Hit in Israeli Airstrike",
-    "published": "2026-07-30T06:38:00.953545+00:00"
-  },
-  "824e221d79eb7709b15609eaa3dcc69bb3182313f2711e98c2cd832bda8f3925": {
-    "url": "https://en.mehrnews.com/news/246638/Reasons-for-the-increase-in-US-military-casualties",
-    "title": "Reasons for the increase in US military casualties",
-    "published": "2026-07-30T06:36:24+00:00"
-  },
-  "c88898fc43e6e1d839accca78d064de6afff780334b2073bfed6254b431319fc": {
-    "url": "QudsNen/233338",
-    "title": "Israeli Airstrike Kills Two, Including Child, in Gaza Strip Displacement Tent",
-    "published": "2026-07-30T06:36:16.745498+00:00"
-  },
-  "de1833ab2c40104493d76816045671f07dc68e3c16feba363fe1ba1fbf6d37db": {
-    "url": "QudsNen/233342",
-    "title": "Israeli Forces Detain Palestinian in Qalandia Refugee Camp Raid",
-    "published": "2026-07-30T06:36:15.407835+00:00"
-  },
-  "385edd8d44c34c59fe806fa9af8af191cc2453737048780efe5dd1e71baf341e": {
-    "url": "QudsNen/233343",
-    "title": "Israeli Settlers Establish New Outpost in Faqoua Village",
-    "published": "2026-07-30T06:35:02.496124+00:00"
-  },
-  "6599a9c911a48c0b3da9d540fe0e29aa5e3cabef0a3a009012fd6a22112d2278": {
-    "url": "QudsNen/233344",
-    "title": "Israeli Airstrike Kills Palestinian Civilian in Khan Younis",
-    "published": "2026-07-30T06:34:17.444318+00:00"
   }
 }

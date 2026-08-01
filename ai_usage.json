@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5415,
+  "total_calls": 5419,
   "tiers": {
-    "groq": 5396,
+    "groq": 5400,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-29T02:53:36.496669+00:00",
-      "tier": "groq",
-      "article": "Saudi Arabia joins US in strikes on Iraq"
-    },
-    {
-      "timestamp": "2026-07-29T02:54:14.125734+00:00",
-      "tier": "groq",
-      "article": "US, Saudi Arabian forces strike Iran-aligned sites in Iraq \u2014 CENTCOM"
-    },
-    {
-      "timestamp": "2026-07-29T02:55:04.928652+00:00",
-      "tier": "groq",
-      "article": "Saudi Arabia\u2019s Abqaiq oil processing complex damaged in drone strike \u2013 media"
-    },
-    {
-      "timestamp": "2026-07-29T02:55:52.274463+00:00",
-      "tier": "groq",
-      "article": "Jordan, UN stress need to uphold US-Iran ceasefire"
-    },
     {
       "timestamp": "2026-07-29T06:37:35.736540+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-01T03:16:49.042164+00:00",
       "tier": "groq",
       "article": "Iran Army targets US Ahmad al-Jaber airbase in Kuwait"
+    },
+    {
+      "timestamp": "2026-08-01T06:33:06.047268+00:00",
+      "tier": "groq",
+      "article": "Next round of US strikes on Iran could last several days \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-01T06:33:38.108099+00:00",
+      "tier": "groq",
+      "article": "US, Israel plan to carry out large-scale strikes on Iran\u2019s energy infrastructure \u2014 TV"
+    },
+    {
+      "timestamp": "2026-08-01T06:34:28.881408+00:00",
+      "tier": "groq",
+      "article": "IDF strikes Gaza after Trump announces Hamas disarmament plan"
+    },
+    {
+      "timestamp": "2026-08-01T06:34:46.810939+00:00",
+      "tier": "groq",
+      "article": "Palestinian factions demand Israeli compliance with Gaza deal"
     }
   ]
 }
