@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5479,
+  "total_calls": 5483,
   "tiers": {
-    "groq": 5460,
+    "groq": 5464,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T03:17:46.957789+00:00",
-      "tier": "groq",
-      "article": "Drone hangars, fuel depot destroyed at US Ali Salem base"
-    },
-    {
-      "timestamp": "2026-07-31T03:18:21.052027+00:00",
-      "tier": "groq",
-      "article": "Iran strikes hangars holding US drones in Kuwait \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-07-31T03:19:07.745377+00:00",
-      "tier": "groq",
-      "article": "Oil loading onto tanker attacked by drone near CPC halted beforehand \u2014 Kazakh ministry"
-    },
-    {
-      "timestamp": "2026-07-31T03:19:27.340630+00:00",
-      "tier": "groq",
-      "article": "Israeli Occupation Shells Syria\u2019s Southern Countryside of Quneitra - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-07-31T06:47:21.644988+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T19:17:17.035978+00:00",
       "tier": "groq",
       "article": "No spontaneous combustion? Regarding the causes of the Ceuta migrant surge, look who\u2019s gloating"
+    },
+    {
+      "timestamp": "2026-08-02T20:59:06.634766+00:00",
+      "tier": "groq",
+      "article": "Iran marks Haniyeh\u2019s 2nd martyrdom anniversary, urges action against Israeli impunity"
+    },
+    {
+      "timestamp": "2026-08-02T20:59:23.889594+00:00",
+      "tier": "groq",
+      "article": "Paks NPP in Hungary to be shut down for first time in 44 years \u2014 Magyar"
+    },
+    {
+      "timestamp": "2026-08-02T20:59:53.109709+00:00",
+      "tier": "groq",
+      "article": "Iran warns of decisive response to any new attack"
+    },
+    {
+      "timestamp": "2026-08-02T21:00:11.569302+00:00",
+      "tier": "groq",
+      "article": "Tehran vows decisive response to any new US, Israeli attacks"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "5bbad7f5a46ca5615dd311270c947689dfa7ac6a23d1fe744440fc389e2ca038": {
+    "url": "Slavyangrad/171866",
+    "title": "Ukraine Lacks Ballistic Missile Defense, Kuleba Warns Citizens",
+    "published": "2026-08-02T21:05:47.242575+00:00"
+  },
+  "c60ba2c4688e8345efe13c4a83ea0225a0af0bcf5860a53bc788942397b08d0d": {
+    "url": "intelslava/91922",
+    "title": "Ukraine: Chemical Leak Contained After Strike on Poltava Oblast Gas Facility",
+    "published": "2026-08-02T21:04:04.893519+00:00"
+  },
+  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
+    "url": "CensoredMen/232",
+    "title": "Trump Dismisses Public Backlash Over US Involvement in Iran Conflict",
+    "published": "2026-08-02T21:03:05.769083+00:00"
+  },
+  "a218ba91f133de4bd357137d9cce57c3a6208dc20cd754b82d4c9070938e1faf": {
+    "url": "QudsNen/233835",
+    "title": "Israel's Finance Minister Advocates for Blocking Humanitarian Aid to Gaza During COVID-19 Pandemic",
+    "published": "2026-08-02T21:01:30.440327+00:00"
+  },
+  "0f483a683083a751e4154cd434e4218bf7284b8eb673e299213fb445d5fee812": {
+    "url": "QudsNen/233836",
+    "title": "Gaza Strip Airstrikes Escalate as Ceasefire Understandings Ignored",
+    "published": "2026-08-02T21:01:29.394085+00:00"
+  },
+  "1b1a4b4ac6c22fd88366d073733507a281c52c6e4aff9f604e799fd9691283f6": {
+    "url": "QudsNen/233841",
+    "title": "Israeli Military Operation in Al-Zaytoun Neighborhood",
+    "published": "2026-08-02T21:01:27.512188+00:00"
+  },
   "512407f90b5c94ac20b511072d48623310a739323b605859da19d89816c96908": {
     "url": "mod_russia_en/28663",
     "title": "Ukraine Conflict: Drone Strike on Petrol Station in Kramatorsk",
@@ -29,10 +59,20 @@
     "title": "German Court Acquits Woman Over Nazi Symbol Use in Israel Criticism",
     "published": "2026-08-02T19:17:31.686831+00:00"
   },
+  "8bc13d37d43a336343b3e74e32346de23fe50728ef18772138f7341a01bee769": {
+    "url": "https://en.irna.ir/news/86226400/Iran-marks-Haniyeh-s-2nd-martyrdom-anniversary-urges-action",
+    "title": "Iran marks Haniyeh\u2019s 2nd martyrdom anniversary, urges action against Israeli impunity",
+    "published": "2026-08-02T18:43:19+00:00"
+  },
   "7b3aa17b26c94cdd30713025a1d6088bbe6e0614faecbabab00f6087e9b4d161": {
     "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
     "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
     "published": "2026-08-02T18:37:23+00:00"
+  },
+  "6886f48e8a740bae1276be034f01651da751e4f97c4c069c24ee36d3823ff7db": {
+    "url": "https://www.tehrantimes.com/news/528813/Iran-warns-of-decisive-response-to-any-new-attack",
+    "title": "Iran warns of decisive response to any new attack",
+    "published": "2026-08-02T17:34:38+00:00"
   },
   "e26449c71b217fd10717c4c8d3c386bad7b6ed505e9a1a57f102a603e3da9adb": {
     "url": "https://www.tehrantimes.com/news/528799/Iran-s-red-line-holds-Trump-forced-into-humiliating-retreat",
@@ -254,6 +294,11 @@
     "title": "Israeli Drone Drops Explosives on Ali al-Taher Hill in Southern Lebanon",
     "published": "2026-08-02T10:03:15.754086+00:00"
   },
+  "e144d8c70fc3ae6740668199aa750bdaae39184cfe0fee3d6b042d9b360aee84": {
+    "url": "https://en.mehrnews.com/news/246698/Iran-vows-decisive-response-to-any-US-Israeli-attacks-FM",
+    "title": "Tehran vows decisive response to any new US, Israeli attacks",
+    "published": "2026-08-02T07:44:22+00:00"
+  },
   "4a1e0733b3a08830fe6cad02fe7c5d94c98792d68c85f11482d4350d8084556d": {
     "url": "https://english.almanar.com.lb/article/111022/",
     "title": "Trump Halts \u2018WWII-Level\u2019 Strikes on Iran Amid Last-Ditch Diplomatic Push; Tehran Warns of Unrestricted Retaliation - Al-Manar TV Lebanon",
@@ -343,6 +388,11 @@
     "url": "https://tass.com/world/2168065",
     "title": "Trump says he agreed to cancel a planned major strike on Iran to reach a deal with Tehran",
     "published": "2026-08-02T02:40:01+00:00"
+  },
+  "1776f5712497bfedc57f62dfc68003109f5cac0cda513ee74cbb48f6e1281633": {
+    "url": "https://tass.com/economy/2168047",
+    "title": "Paks NPP in Hungary to be shut down for first time in 44 years \u2014 Magyar",
+    "published": "2026-08-02T00:02:21+00:00"
   },
   "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
     "url": "CensoredMen/222",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/defense/2167937",
     "title": "Russian forces strike Kiev facilities producing missile, drone components \u2014 top brass",
     "published": "2026-08-01T08:14:16+00:00"
-  },
-  "b40d48a425bd29942df66f00342fafba2aba2d3c495dcbf623771afabd8a291a": {
-    "url": "presstv/201102",
-    "title": "Israeli Forces Destroy Medical Warehouse in Deir al-Balah",
-    "published": "2026-08-01T06:43:38.468556+00:00"
-  },
-  "e1f8f156e5cd04b0e9c92561ffc7f3991b5d15500cf448ba8b6322344bb4a166": {
-    "url": "presstv/201109",
-    "title": "Settler Raids Erupt South of Nablus Amid Online Incitement",
-    "published": "2026-08-01T06:41:05.027128+00:00"
-  },
-  "81466bb350c4812739d60c335213bd7d4ac614089fb7ce41f739877f97cb4e2c": {
-    "url": "presstv/201111",
-    "title": "IRGC Navy Issues Warnings to Unauthorized Vessels in Strait of Hormuz",
-    "published": "2026-08-01T06:38:56.431140+00:00"
-  },
-  "c09389a69d9957c60bcb24255dd932dbe386abcd46bd0797c76aad88d262ace1": {
-    "url": "QudsNen/233619",
-    "title": "Israeli Airstrike Hits Medical Warehouse in Deir Al-Balah, Gaza",
-    "published": "2026-08-01T06:36:22.642511+00:00"
-  },
-  "a92165f708cdeb3241d08f63e7b9fbbd9a68318d42f038e14bb5806ef2415b8b": {
-    "url": "QudsNen/233625",
-    "title": "Israeli Strike on Al-Aqsa Martyrs Hospital in Gaza",
-    "published": "2026-08-01T06:36:21.078144+00:00"
-  },
-  "0775cca3ef86baf1c44bef40890175096f549f71fe8d2f2f447aaca3970c1483": {
-    "url": "Middle_East_Spectator/35649",
-    "title": "Kuwait Fends Off Iranian Drone Attack",
-    "published": "2026-08-01T06:34:54.176042+00:00"
-  },
-  "19ea98cc5d5145057abbc58e8b4fc27a8d18b15bdafa17db413a1aab1f17daf7": {
-    "url": "https://tass.com/society/2167907",
-    "title": "Humanitarian aid from Russian company delivered to Venezuela\u2019s La Guaira state",
-    "published": "2026-08-01T04:48:10+00:00"
-  },
-  "6fabc56d263a57aee478968cd6c415a5cc33ae8e94b049649f208f559ede2120": {
-    "url": "https://tass.com/world/2167901",
-    "title": "Pentagon seeks $18.2 bln to replenish interceptor missile stocks \u2014 agency",
-    "published": "2026-08-01T04:34:59+00:00"
-  },
-  "cdcb331991cb3129a96cfe9f60b4f90b2139108faed6477043458017165445be": {
-    "url": "https://en.mehrnews.com/news/246666/Araghchi-warns-UK-against-aiding-aggressors",
-    "title": "Araghchi warns UK against aiding aggressors",
-    "published": "2026-08-01T03:50:59+00:00"
-  },
-  "39eeefad06cc961023bb0624369b440ff1b0fb0f2e43b9afeb91678af84dfac2": {
-    "url": "BellumActaNews/176046",
-    "title": "Migrants Breach Border Fence in Melilla",
-    "published": "2026-08-01T03:22:08.913823+00:00"
   }
 }
