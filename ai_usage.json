@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5475,
+  "total_calls": 5479,
   "tiers": {
-    "groq": 5456,
+    "groq": 5460,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-30T23:11:21.779304+00:00",
-      "tier": "groq",
-      "article": "EC disburses 3.47 bln euros to Kiev for drones, missiles, air defense, fighter jets"
-    },
-    {
-      "timestamp": "2026-07-30T23:11:41.645470+00:00",
-      "tier": "groq",
-      "article": "NATO jets scramble as Russian missile detonates in Poland"
-    },
-    {
-      "timestamp": "2026-07-30T23:12:09.157086+00:00",
-      "tier": "groq",
-      "article": "RT\u2019s Ali Rida Sbeity reports from Iraq after US-Saudi strikes"
-    },
-    {
-      "timestamp": "2026-07-30T23:12:27.723803+00:00",
-      "tier": "groq",
-      "article": "Qatari LNG cargo uses Iran-designated route in Hormuz"
-    },
     {
       "timestamp": "2026-07-31T03:17:46.957789+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T17:05:06.954332+00:00",
       "tier": "groq",
       "article": "Number of wounded in Moscow cafe blast rises to 21 \u2014 National Anti-Terrorism Committee"
+    },
+    {
+      "timestamp": "2026-08-02T19:15:23.523526+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone attacks kill eight in response to Russian missiles"
+    },
+    {
+      "timestamp": "2026-08-02T19:16:08.126234+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s red line holds: Trump forced into humiliating retreat"
+    },
+    {
+      "timestamp": "2026-08-02T19:16:58.539229+00:00",
+      "tier": "groq",
+      "article": "Five Lebanese soldiers wounded in southern town blast amid ongoing Israeli aggression"
+    },
+    {
+      "timestamp": "2026-08-02T19:17:17.035978+00:00",
+      "tier": "groq",
+      "article": "No spontaneous combustion? Regarding the causes of the Ceuta migrant surge, look who\u2019s gloating"
     }
   ]
 }
