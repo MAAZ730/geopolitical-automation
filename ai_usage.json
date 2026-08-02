@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5463,
+  "total_calls": 5467,
   "tiers": {
-    "groq": 5444,
+    "groq": 5448,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-30T17:38:05.322651+00:00",
-      "tier": "groq",
-      "article": "IRGC video of retaliatory strikes on US targets in Jordan"
-    },
-    {
-      "timestamp": "2026-07-30T17:38:21.444710+00:00",
-      "tier": "groq",
-      "article": "US missile strike on Qeshm kills 3 family members, says Iranian official"
-    },
-    {
-      "timestamp": "2026-07-30T17:38:37.476147+00:00",
-      "tier": "groq",
-      "article": "Iran ex-IRGC commander calls Ukraine ship attack Zelensky\u2019s \u2018gift\u2019 to Israel and US"
-    },
-    {
-      "timestamp": "2026-07-30T17:38:56.835924+00:00",
-      "tier": "groq",
-      "article": "Iran rejects southern Strait of Hormuz shipping route"
-    },
     {
       "timestamp": "2026-07-30T19:39:55.224451+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T11:26:03.554077+00:00",
       "tier": "groq",
       "article": "Iran becomes a founding member of WAICO"
+    },
+    {
+      "timestamp": "2026-08-02T13:27:41.822085+00:00",
+      "tier": "groq",
+      "article": "At least five dead, 41 missing after ferry catches fire off Indonesia"
+    },
+    {
+      "timestamp": "2026-08-02T13:28:19.098042+00:00",
+      "tier": "groq",
+      "article": "Russian troops strike Ukrainian army\u2019s transport, energy sites over past day \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-02T13:29:04.063066+00:00",
+      "tier": "groq",
+      "article": "Gaza: \u2018Israel\u2019 Launches an airstrike targeting west of Khan Yunis"
+    },
+    {
+      "timestamp": "2026-08-02T13:29:21.395616+00:00",
+      "tier": "groq",
+      "article": "Germany has reached a new low in election rigging"
     }
   ]
 }
