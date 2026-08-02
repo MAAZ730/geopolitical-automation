@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5471,
+  "total_calls": 5475,
   "tiers": {
-    "groq": 5452,
+    "groq": 5456,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-30T21:13:38.982020+00:00",
-      "tier": "groq",
-      "article": "CENTCOM says no US planes damaged by Iranian strikes"
-    },
-    {
-      "timestamp": "2026-07-30T21:14:13.557148+00:00",
-      "tier": "groq",
-      "article": "Will Saudi Arabia be dragged further into the war in Iran?"
-    },
-    {
-      "timestamp": "2026-07-30T21:14:59.661310+00:00",
-      "tier": "groq",
-      "article": "Iranian Army strikes key US base in Bahrain in 26th phase of Operation Thunder"
-    },
-    {
-      "timestamp": "2026-07-30T21:15:53.138439+00:00",
-      "tier": "groq",
-      "article": "Israel building new land barriers in Gaza and displacing families"
-    },
     {
       "timestamp": "2026-07-30T23:11:21.779304+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T15:07:12.427975+00:00",
       "tier": "groq",
       "article": "US speaks of escalation, while seeks talks with Iran: MP"
+    },
+    {
+      "timestamp": "2026-08-02T17:03:22.968867+00:00",
+      "tier": "groq",
+      "article": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war"
+    },
+    {
+      "timestamp": "2026-08-02T17:04:01.447755+00:00",
+      "tier": "groq",
+      "article": "IRGC vows \u2018severe, crushing\u2019 retaliation for Haniyeh, Ayatollah Khamenei assassinations"
+    },
+    {
+      "timestamp": "2026-08-02T17:04:48.269681+00:00",
+      "tier": "groq",
+      "article": "Lebanese Soldiers Injured in Suspicious Blast During Civilian Escort in South Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-02T17:05:06.954332+00:00",
+      "tier": "groq",
+      "article": "Number of wounded in Moscow cafe blast rises to 21 \u2014 National Anti-Terrorism Committee"
     }
   ]
 }

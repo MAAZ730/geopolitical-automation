@@ -1,4 +1,49 @@
 {
+  "edc931464247187783ca52671ec7207b2ee65e1bc3661a3c8b98d8cdb506b85f": {
+    "url": "presstv/201311",
+    "title": "Israeli Airstrike in Gaza City Leaves Unborn Child Dead",
+    "published": "2026-08-02T17:11:19.604740+00:00"
+  },
+  "64659e674f4023285e5cea99355acf2b6018d9cbc0082fc6e4629a87d4035af3": {
+    "url": "presstv/201313",
+    "title": "Explosion Hits Police Check Post in Pakistan's Swat District",
+    "published": "2026-08-02T17:10:25.395754+00:00"
+  },
+  "233223031a62ef8ab4b0b117707bdce890ab6cf233ac05d07ce02b0990668a71": {
+    "url": "warmonitors/45180",
+    "title": "Houthi-Attributed Drone and Missile Strikes Damage Saudi Aramco Refinery in Jazan",
+    "published": "2026-08-02T17:09:23.623539+00:00"
+  },
+  "39dc1c8d9862e47352570cfccf0e10087cad733a2196a8876f56d3f223bfe2ac": {
+    "url": "DDGeopolitics/190575",
+    "title": "US Commentator Advocates for Israel's Protection at Any Cost",
+    "published": "2026-08-02T17:09:21.023125+00:00"
+  },
+  "b0a25386f56b98acb4845a4807aac0c6359dd4fbbbe6ac978ab6833f3f9a0d64": {
+    "url": "QudsNen/233800",
+    "title": "Israeli Forces Fire Grenades Near West Bank Separation Barrier",
+    "published": "2026-08-02T17:06:18.628831+00:00"
+  },
+  "775af65e7d162c929617b234ca67847a41ae228106ce2dac687bbea1125393c5": {
+    "url": "QudsNen/233816",
+    "title": "Israeli Settlers Transport Building Materials to Al-Taybeh Settlement",
+    "published": "2026-08-02T17:05:18.274004+00:00"
+  },
+  "c0ada1ca45ad692e3d01288a123eef5647ebd5d135ff612959c2679a91792af6": {
+    "url": "https://en.irna.ir/news/86226309/IRGC-vows-severe-crushing-retaliation-for-Haniyeh-Ayatollah",
+    "title": "IRGC vows \u2018severe, crushing\u2019 retaliation for Haniyeh, Ayatollah Khamenei assassinations",
+    "published": "2026-08-02T16:20:01+00:00"
+  },
+  "6c253f39519488a4bf2b321efd3ce1bb5b88879781476bbb4d7005a3c203eeca": {
+    "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
+    "title": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war",
+    "published": "2026-08-02T16:10:32+00:00"
+  },
+  "fd72a09d2ebd9556123061bc4c7a0ad56fe4ad640e7f28bf671590e5692f66bd": {
+    "url": "https://english.almanar.com.lb/article/111147/",
+    "title": "Lebanese Soldiers Injured in Suspicious Blast During Civilian Escort in South Lebanon - Al-Manar TV Lebanon",
+    "published": "2026-08-02T15:54:12+00:00"
+  },
   "cfbe83c47181c559a51ff8c7a8a1a9286b961370e52a135823e7b75ada2708cc": {
     "url": "QudsNen/233792",
     "title": "Settlers Expand Outpost in Occupied West Bank",
@@ -318,6 +363,11 @@
     "url": "QudsNen/233701",
     "title": "Tear Gas Deployed in Palestinian Homes During Israeli Raid in Tuqu'",
     "published": "2026-08-01T20:58:52.024332+00:00"
+  },
+  "42b70618e5220061e98ef86aa00da0a0a6745088341627aa3c329b6ab93ae157": {
+    "url": "https://tass.com/emergencies/2168033",
+    "title": "Number of wounded in Moscow cafe blast rises to 21 \u2014 National Anti-Terrorism Committee",
+    "published": "2026-08-01T20:31:01+00:00"
   },
   "903d13e8020bc246044eba291ba148ff6cb369a7a427fff83f22da45f8c7fa4f": {
     "url": "BellumActaNews/176087",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/world/2167873",
     "title": "US redirects 30 vessels amid Iran naval blockade \u2014 CENTCOM",
     "published": "2026-07-31T23:25:20+00:00"
-  },
-  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
-    "url": "CensoredMen/232",
-    "title": "Trump Defends U.S. Military Action Amid Gas Price Concerns",
-    "published": "2026-07-31T23:10:25.565456+00:00"
-  },
-  "93b517c752556fad7b800321ea7b80572094e1a7872ceb316b6052f410247cd7": {
-    "url": "DDGeopolitics/190449",
-    "title": "Russia-Ukraine Conflict: Ballistic Missile Strikes Hit Kiev",
-    "published": "2026-07-31T23:09:16.275281+00:00"
-  },
-  "61012e5c39c1a446d24df58072884b7d67ad6fe08916ac6b0a0994fb0fe7e894": {
-    "url": "QudsNen/233591",
-    "title": "Palestinians Mourn Death of Gaza Resident Killed in Israeli Airstrike",
-    "published": "2026-07-31T23:08:31.802141+00:00"
-  },
-  "39261db58fb11a0073f1af9dc362760eae11b46c78d4bc2dd69fc5dda61be533": {
-    "url": "QudsNen/233592",
-    "title": "Israeli Airstrike Targets Residential Building in Gaza's Al-Maghazi Refugee Camp",
-    "published": "2026-07-31T23:06:18.856762+00:00"
-  },
-  "0b06830b823b428bd736d710269b4bddd21fcaacbc8a09a16288721fbf0ae36b": {
-    "url": "Middle_East_Spectator/35662",
-    "title": "US Withdraws Troops from Iraqi Kurdistan Amid Escalating Iranian Attacks",
-    "published": "2026-07-31T23:05:46.445600+00:00"
-  },
-  "0d65158683f4a0d23b56df6464fcce277ae5b6be06b786a2046aaa0dfa2c1823": {
-    "url": "thecradlemedia/65375",
-    "title": "Israeli Settlers, Occupation Forces Raid West Bank, Leave Palestinian Man Injured",
-    "published": "2026-07-31T23:05:44.504776+00:00"
-  },
-  "f075d6032d0f1e7cb644eae0e55433eb040ed2990d93dd77de2758da4e54f718": {
-    "url": "https://tass.com/world/2167869",
-    "title": "US, Israel plan to carry out large-scale strikes on Iran\u2019s energy infrastructure \u2014 TV",
-    "published": "2026-07-31T22:40:24+00:00"
-  },
-  "bc81bbbab7340ae6749fa10b5caa7d31252307c7f42ab25526922b219207abb7": {
-    "url": "militarywave/24588",
-    "title": "Russian Forces Utilize Remote Mining Engineering System in Ukraine",
-    "published": "2026-07-31T21:55:58.592657+00:00"
-  },
-  "26eeaa0dfc6e432d48962c5b358966dc9f4b1d42cbddda69284f6ee08b3937d1": {
-    "url": "DDGeopolitics/190442",
-    "title": "Polish Man Attacks Ukrainian Woman in Gdynia Over Language",
-    "published": "2026-07-31T21:55:04.572437+00:00"
-  },
-  "2b0a785c5e338230b147f8636b7eb435f810d5ed2330e8c03caa070934fe193c": {
-    "url": "QudsNen/233574",
-    "title": "Israeli Airstrike Hits Gaza Refugee Camp, Multiple Palestinians Injured",
-    "published": "2026-07-31T21:54:20.648763+00:00"
   }
 }
