@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5483,
+  "total_calls": 5487,
   "tiers": {
-    "groq": 5464,
+    "groq": 5468,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T06:47:21.644988+00:00",
-      "tier": "groq",
-      "article": "Iran warns US to \"pay heavy price\" for killing civilians"
-    },
-    {
-      "timestamp": "2026-07-31T06:47:55.914780+00:00",
-      "tier": "groq",
-      "article": "Death toll from Japan earthquake climbs to 34"
-    },
-    {
-      "timestamp": "2026-07-31T06:48:12.822727+00:00",
-      "tier": "groq",
-      "article": "US terrorists wounded in Iran war rise to 653: Report"
-    },
-    {
-      "timestamp": "2026-07-31T06:48:48.064048+00:00",
-      "tier": "groq",
-      "article": "Iran downs yet another hostile US drone in south"
-    },
     {
       "timestamp": "2026-07-31T10:43:00.205067+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T21:00:11.569302+00:00",
       "tier": "groq",
       "article": "Tehran vows decisive response to any new US, Israeli attacks"
+    },
+    {
+      "timestamp": "2026-08-02T22:59:14.516936+00:00",
+      "tier": "groq",
+      "article": "Fars News Exposes \u2018False\u2019 Hormuz Claims as Tehran Insists: No Agreement, No Policy Shift on Strategic Waterway - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-02T22:59:35.666515+00:00",
+      "tier": "groq",
+      "article": "Trump says he canceled declared attacks on Iran"
+    },
+    {
+      "timestamp": "2026-08-02T22:59:54.628514+00:00",
+      "tier": "groq",
+      "article": "AI on the battlefield: Is Palantir complicit in war crimes against Iran?"
+    },
+    {
+      "timestamp": "2026-08-02T23:00:17.696019+00:00",
+      "tier": "groq",
+      "article": "Israel eliminates three radicals in Gaza Strip \u2014 IDF"
     }
   ]
 }

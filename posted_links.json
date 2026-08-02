@@ -1,4 +1,34 @@
 {
+  "6bee34c73ba5e91f387642f64c2d97b334e9c048fcde2260210b9f59f445608b": {
+    "url": "mod_russia_en/28661",
+    "title": "Ukrainian Forces Destroy Russian Ammunition and Fuel Depots",
+    "published": "2026-08-02T23:09:08.128904+00:00"
+  },
+  "e2825a5933357ef3ec2e4bec466f9a62cc026bf926f59feeaea29324b31d2505": {
+    "url": "mod_russia_en/28662",
+    "title": "Russian Radar Station Hit in Dnepropetrovsk Region",
+    "published": "2026-08-02T23:08:03.282766+00:00"
+  },
+  "7d3313bb3127cfd99776b279d6ee7f6269a59fc4b1495803b1510eccf749cf88": {
+    "url": "intelslava/91927",
+    "title": "Russia-Ukraine Conflict: Multiple Aerial Bombs Dropped in Kramatorsk",
+    "published": "2026-08-02T23:04:11.476800+00:00"
+  },
+  "7ac9e5c01a124588ced72a09ca48562011d14b2f7efc21d862ead2fc25e8fea4": {
+    "url": "QudsNen/233848",
+    "title": "Israeli Airstrike Targets Ali al-Taher Hills in Southern Lebanon",
+    "published": "2026-08-02T23:03:29.062401+00:00"
+  },
+  "df40f23b6d2e3e39c6367091d0af731867e8e7f788f9dd33959d4dd6ff48315a": {
+    "url": "QudsNen/233849",
+    "title": "Israeli Settlers Clash with Security at Saint James Monastery in Jerusalem",
+    "published": "2026-08-02T23:03:27.709904+00:00"
+  },
+  "6bd55ca6cad596c5f47c0cdea39014bd6cfa36e976f1a446c068481f44bb1cf3": {
+    "url": "QudsNen/233850",
+    "title": "European Ports Unite Against War and Militarism",
+    "published": "2026-08-02T23:00:27.646354+00:00"
+  },
   "5bbad7f5a46ca5615dd311270c947689dfa7ac6a23d1fe744440fc389e2ca038": {
     "url": "Slavyangrad/171866",
     "title": "Ukraine Lacks Ballistic Missile Defense, Kuleba Warns Citizens",
@@ -73,6 +103,11 @@
     "url": "https://www.tehrantimes.com/news/528813/Iran-warns-of-decisive-response-to-any-new-attack",
     "title": "Iran warns of decisive response to any new attack",
     "published": "2026-08-02T17:34:38+00:00"
+  },
+  "cd47d2274145732de2e054f9cdcec5430a1d46f0cb6037db3577b569d3054f41": {
+    "url": "https://www.tehrantimes.com/news/528801/AI-on-the-battlefield-Is-Palantir-complicit-in-war-crimes-against",
+    "title": "AI on the battlefield: Is Palantir complicit in war crimes against Iran?",
+    "published": "2026-08-02T17:22:04+00:00"
   },
   "e26449c71b217fd10717c4c8d3c386bad7b6ed505e9a1a57f102a603e3da9adb": {
     "url": "https://www.tehrantimes.com/news/528799/Iran-s-red-line-holds-Trump-forced-into-humiliating-retreat",
@@ -164,6 +199,11 @@
     "title": "At least eight killed in Gaza after Hamas agree disarmament deal ",
     "published": "2026-08-02T15:02:56+00:00"
   },
+  "29077c19e315ae9c1b354d12a99e64e3b5b27376a8e9a244cd1e7fdc6a8a17a3": {
+    "url": "https://tass.com/world/2168151",
+    "title": "Israel eliminates three radicals in Gaza Strip \u2014 IDF",
+    "published": "2026-08-02T14:50:02+00:00"
+  },
   "0a876d8269423c496e0d4e3d03e15221b1892450ed3d654161a4e6dc5a6c7f88": {
     "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
     "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
@@ -208,6 +248,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss",
     "title": "At least five dead, 41 missing after ferry catches fire off Indonesia",
     "published": "2026-08-02T12:33:29+00:00"
+  },
+  "56b1bbab04fc35c61e48cd20a64956ac5c2b185c0ddcaabba55cc315d4f0321e": {
+    "url": "https://english.almanar.com.lb/article/111117/",
+    "title": "Fars News Exposes \u2018False\u2019 Hormuz Claims as Tehran Insists: No Agreement, No Policy Shift on Strategic Waterway - Al-Manar TV Lebanon",
+    "published": "2026-08-02T11:38:36+00:00"
   },
   "65d9cf18fda569c6c17e42d32eb878843e3e34ef8198f48a6e12a4fa81f37602": {
     "url": "Slavyangrad/171786",
@@ -338,6 +383,11 @@
     "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
     "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
     "published": "2026-08-02T06:24:01+00:00"
+  },
+  "cf8791c1a9b5d1d012c718b0ae407872c8fd0aaa484f0fff49d615380d630605": {
+    "url": "https://en.mehrnews.com/news/246696/Trump-says-he-canceled-declared-attacks-on-Iran",
+    "title": "Trump says he canceled declared attacks on Iran",
+    "published": "2026-08-02T06:12:34+00:00"
   },
   "af57f5c73cbababfb76570245cf3d3760be43f4c32c6af222af2d61321784dd3": {
     "url": "https://english.almanar.com.lb/article/111002/",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65415",
     "title": "Houthi Leader Warns Saudi Arabia Against Escalation in Yemen",
     "published": "2026-08-01T10:07:59.636713+00:00"
-  },
-  "cc518893bec5a0ba58a4dc470c22850ca269e9b00b3e7c885847e0e0ba9e2929": {
-    "url": "thecradlemedia/65416",
-    "title": "Settler Attack and Israeli Military Raid Leave Palestinian Children Injured in West Bank",
-    "published": "2026-08-01T10:07:58.156946+00:00"
-  },
-  "f995dcac9dee7f8241b4689a0538c2e774632888993427a47cdd9cece5b211a5": {
-    "url": "thecradlemedia/65417",
-    "title": "Trump Signals Escalation in Iran Confrontation",
-    "published": "2026-08-01T10:07:16.130862+00:00"
-  },
-  "f15bab10bf167cb320acb713638ba09089ebb75474ebd768dd008a934763454e": {
-    "url": "thecradlemedia/65418",
-    "title": "Israeli Forces Target Lebanese Villages, Sparking Tensions",
-    "published": "2026-08-01T10:06:01.640971+00:00"
-  },
-  "7d6d6d40c6abac00b9b0f0ba2a746f01ce25cb417a7945842c087f2b4c84fc2c": {
-    "url": "thecradlemedia/65420",
-    "title": "Israel Conducts Airstrikes on Gaza, Targeting Residential Area and Medical Supplies Warehouse",
-    "published": "2026-08-01T10:05:59.383100+00:00"
-  },
-  "e2927e90bcb49f0597618d0b4e359962178050a23d26af721a693c7b03d83cee": {
-    "url": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
-    "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-    "published": "2026-08-01T09:47:39+00:00"
-  },
-  "6b3d89d90628c2a9d1dd657d2582527573cf8b21315bd4c07fdf656953dec933": {
-    "url": "https://tass.com/world/2167955",
-    "title": "Iranian drones attack government facility in northern Kuwait \u2014 top brass",
-    "published": "2026-08-01T09:32:52+00:00"
-  },
-  "8df706e1fd55eb579b9e422d01be99a6919f4ba1b86c6572c6e07c2e6e6a8043": {
-    "url": "https://tass.com/world/2167949",
-    "title": "Zelensky complains about air defense missile shortage in light of Russia\u2019s massive strike",
-    "published": "2026-08-01T08:30:49+00:00"
-  },
-  "916cd73c89b29a2a0f32f2c630b0170b904b2755c9fdcb6ebecc2e2078b8e4bc": {
-    "url": "https://en.mehrnews.com/news/246676/Qatar-claims-it-has-no-information-on-fate-of-Iranian-pilots",
-    "title": "Qatar claims it has no information on fate of Iranian pilots",
-    "published": "2026-08-01T08:19:27+00:00"
-  },
-  "a7306997a890debdf464c5485092933e213247e7d8be944e5b6df7458d1c0531": {
-    "url": "https://en.mehrnews.com/news/246675/The-illusion-of-besieging-Iran-How-realistic-it-could-be",
-    "title": "The illusion of besieging Iran; How realistic it could be?",
-    "published": "2026-08-01T08:15:15+00:00"
-  },
-  "fcf5f6639ac157a60ca76d1eac6007fda9eae3119a0f51bc90c4a1a2aead1616": {
-    "url": "https://tass.com/defense/2167937",
-    "title": "Russian forces strike Kiev facilities producing missile, drone components \u2014 top brass",
-    "published": "2026-08-01T08:14:16+00:00"
   }
 }
