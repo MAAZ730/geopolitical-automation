@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5467,
+  "total_calls": 5471,
   "tiers": {
-    "groq": 5448,
+    "groq": 5452,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-30T19:39:55.224451+00:00",
-      "tier": "groq",
-      "article": "Reasons for the increase in US military casualties"
-    },
-    {
-      "timestamp": "2026-07-30T19:40:35.051006+00:00",
-      "tier": "groq",
-      "article": "Iran strikes US military facilities in Bahrain"
-    },
-    {
-      "timestamp": "2026-07-30T19:41:22.700148+00:00",
-      "tier": "groq",
-      "article": "Strike on critically important infrastructure of Zaporozhye Nuclear Power Plant prevented"
-    },
-    {
-      "timestamp": "2026-07-30T19:41:41.919302+00:00",
-      "tier": "groq",
-      "article": "BMW to cut 8,000 jobs, most in Germany \u2013 media"
-    },
     {
       "timestamp": "2026-07-30T21:13:38.982020+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T13:29:21.395616+00:00",
       "tier": "groq",
       "article": "Germany has reached a new low in election rigging"
+    },
+    {
+      "timestamp": "2026-08-02T15:05:32.736369+00:00",
+      "tier": "groq",
+      "article": "At least eight killed in Gaza after Hamas agree disarmament deal "
+    },
+    {
+      "timestamp": "2026-08-02T15:06:11.799143+00:00",
+      "tier": "groq",
+      "article": "15 civilians killed, 51 injured in Ukraine\u2019s attacks on Energodar since late April"
+    },
+    {
+      "timestamp": "2026-08-02T15:06:31.323018+00:00",
+      "tier": "groq",
+      "article": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran"
+    },
+    {
+      "timestamp": "2026-08-02T15:07:12.427975+00:00",
+      "tier": "groq",
+      "article": "US speaks of escalation, while seeks talks with Iran: MP"
     }
   ]
 }
