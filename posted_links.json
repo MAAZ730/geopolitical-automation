@@ -1,4 +1,34 @@
 {
+  "8c7a3f34afc90c57ed1477750eb96adc1f9541b4be1af04d4d9aae494df8a755": {
+    "url": "presstv/201249",
+    "title": "Israeli Airstrike on Al-Sousi Tower in Gaza City Kills Three Palestinians",
+    "published": "2026-08-02T03:20:28.726637+00:00"
+  },
+  "6d1d4dacd6f5b59830cecec348939f003e73fff31598cbb307889b5922016565": {
+    "url": "warmonitors/45187",
+    "title": "Iranian Drone Targets Separatist Base in Iraq",
+    "published": "2026-08-02T03:19:01.369103+00:00"
+  },
+  "1ab3aa6d27bf62bf3ee96f324933adcad73e4528dbbb8392d5949830289be5e3": {
+    "url": "DDGeopolitics/190518",
+    "title": "Drone Attacks Hit Separatist Groups in Sulaymaniyah, Iraqi Kurdistan",
+    "published": "2026-08-02T03:18:47.696784+00:00"
+  },
+  "c58479a503f28ba3893cd7999b9ccf95341bfab74f5a4997946ae1b64fd1e9ab": {
+    "url": "QudsNen/233716",
+    "title": "Israeli Military Closes Investigation into Wadi al Seeq Assault Incident",
+    "published": "2026-08-02T03:18:34.230109+00:00"
+  },
+  "4fdc91307337e0d23e7957ef38bb256844515e4775a763a9335d314537134f84": {
+    "url": "Middle_East_Spectator/35680",
+    "title": "Iranian Drones Strike Separatist Positions in Iraqi Kurdistan",
+    "published": "2026-08-02T03:18:30.364784+00:00"
+  },
+  "512b55eda2e7a79895fdf3bd5c92e9dbcd520a124f6c469e6c17d4f442757011": {
+    "url": "Middle_East_Spectator/35686",
+    "title": "Trump Cancels Planned US Attack on Iran Amid Regional Diplomatic Efforts",
+    "published": "2026-08-02T03:17:30.757330+00:00"
+  },
   "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
     "url": "CensoredMen/222",
     "title": "U.S. Enforces Maritime Blockade Against Iran",
@@ -114,6 +144,11 @@
     "title": "At least 9 people killed in Russian missile attacks on Kyiv",
     "published": "2026-08-01T17:45:26+00:00"
   },
+  "8e4383a419d5953341ac424b28db09dd6b9f0f339dae65d72174c11efba94fe3": {
+    "url": "https://www.tehrantimes.com/news/528773/US-lawmakers-demand-exit-from-Iran-war-as-strategic-costs-mount",
+    "title": "US lawmakers demand exit from Iran war as strategic costs mount",
+    "published": "2026-08-01T17:29:16+00:00"
+  },
   "d5abbf822fccacec470579037396d6c27ce1f7f83d22994bd3fb5e911e63a0ba": {
     "url": "https://www.tehrantimes.com/news/528736/Iran-s-strikes-undermined-Israel-s-long-standing-military-superiority",
     "title": "Iran's strikes undermined Israel's long-standing military superiority: John Helmer",
@@ -163,6 +198,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
     "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
     "published": "2026-08-01T15:34:15+00:00"
+  },
+  "6d995d19a8e4161e5c0c90809bb25308d62436b97a3dbef8fbae4ede2db36e18": {
+    "url": "https://english.almanar.com.lb/article/110942/",
+    "title": "Ghalibaf: US Will \u2018Pay the Price\u2019 for Killing Civilians on Iran\u2019s Qeshm Island - Al-Manar TV Lebanon",
+    "published": "2026-08-01T15:14:42+00:00"
   },
   "6d281f09e8f06c331c5c280e6843ec6bc8b3f388d26e1a3385249efe917b66e3": {
     "url": "https://english.almanar.com.lb/article/110927/",
@@ -299,6 +339,11 @@
     "title": "Qatar claims it has no information on fate of Iranian pilots",
     "published": "2026-08-01T08:19:27+00:00"
   },
+  "a7306997a890debdf464c5485092933e213247e7d8be944e5b6df7458d1c0531": {
+    "url": "https://en.mehrnews.com/news/246675/The-illusion-of-besieging-Iran-How-realistic-it-could-be",
+    "title": "The illusion of besieging Iran; How realistic it could be?",
+    "published": "2026-08-01T08:15:15+00:00"
+  },
   "fcf5f6639ac157a60ca76d1eac6007fda9eae3119a0f51bc90c4a1a2aead1616": {
     "url": "https://tass.com/defense/2167937",
     "title": "Russian forces strike Kiev facilities producing missile, drone components \u2014 top brass",
@@ -343,6 +388,11 @@
     "url": "https://tass.com/world/2167901",
     "title": "Pentagon seeks $18.2 bln to replenish interceptor missile stocks \u2014 agency",
     "published": "2026-08-01T04:34:59+00:00"
+  },
+  "cdcb331991cb3129a96cfe9f60b4f90b2139108faed6477043458017165445be": {
+    "url": "https://en.mehrnews.com/news/246666/Araghchi-warns-UK-against-aiding-aggressors",
+    "title": "Araghchi warns UK against aiding aggressors",
+    "published": "2026-08-01T03:50:59+00:00"
   },
   "39eeefad06cc961023bb0624369b440ff1b0fb0f2e43b9afeb91678af84dfac2": {
     "url": "BellumActaNews/176046",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/emergencies/2167553",
     "title": "Five injured, fire at warehouses in Volgograd Region: aftermath of Ukrainian UAV attack",
     "published": "2026-07-31T08:05:48+00:00"
-  },
-  "6537fb9ed3e43931b5d75bb42854b1dd36f1d4db7bceeb2a60ff6885b9c61bf7": {
-    "url": "BellumActaNews/176005",
-    "title": "Moroccan Migrants Storm Melilla Walls Amid Ceuta Crisis",
-    "published": "2026-07-31T06:54:19.201714+00:00"
-  },
-  "d4857a1b97bf522b23952c15b071abb87a11459d3d93e88c3aed0aa5989804c8": {
-    "url": "DDGeopolitics/190320",
-    "title": "US President Unveils Gaza Disarmament Deal",
-    "published": "2026-07-31T06:53:59.904049+00:00"
-  },
-  "9f65f528bb212fad9f53039d727c5a28d3c9f56b81763ffcb3232410ec5cde4d": {
-    "url": "DDGeopolitics/190322",
-    "title": "Drone Strike Hits Kiev Region",
-    "published": "2026-07-31T06:53:58.473024+00:00"
-  },
-  "74119ff642889e5ec2351a85a7b2f22d3b5ca6909c787b2190a5b0bf0c207c6d": {
-    "url": "DDGeopolitics/190328",
-    "title": "Russia's Tactical Warfare Tactics Evoke Debate Among Military Strategists",
-    "published": "2026-07-31T06:53:47.727880+00:00"
-  },
-  "4213f085e8d64e4b779fd3ff1bdfb1d1cbe5fba15028b2200d1c13c92f71c545": {
-    "url": "QudsNen/233483",
-    "title": "Israeli Forces Carry Out Demolitions in Southern Lebanon",
-    "published": "2026-07-31T06:53:45.048396+00:00"
-  },
-  "ab460e03a38abd92222fe67c43d4ad174e081b1786d6c0aa92c06a575a72b5e1": {
-    "url": "QudsNen/233493",
-    "title": "Israeli Settlers Storm Al-Juneid Village under Military Escort",
-    "published": "2026-07-31T06:53:14.219189+00:00"
-  },
-  "5e6f9e869a4fbf75c9cf5191fc7f3b4b79ec0670fc3b379ce78def7daa7bf29c": {
-    "url": "https://en.irna.ir/news/86224145/US-Saudi-strikes-on-PMF-launched-without-Baghdad-s-knowledge",
-    "title": "US\u2013Saudi strikes on PMF launched without Baghdad\u2019s knowledge, says Iraqi gov\u2019t spox",
-    "published": "2026-07-31T06:51:29+00:00"
-  },
-  "4137718c8a917e0bf9a09831ce946282f6c045bd598a4b25b7ccddb2c569f772": {
-    "url": "https://en.mehrnews.com/news/246653/Iran-Army-targets-US-Ahmad-al-Jaber-airbase-in-Kuwait",
-    "title": "Iran Army targets US Ahmad al-Jaber airbase in Kuwait",
-    "published": "2026-07-31T06:40:55+00:00"
-  },
-  "43d5650581b3c2ec79bae77bbc7cd52153871fdebeacdc5c22b986107a38ccf9": {
-    "url": "https://en.irna.ir/news/86224131/US-terrorists-wounded-in-Iran-war-rise-to-653-Report",
-    "title": "US terrorists wounded in Iran war rise to 653: Report",
-    "published": "2026-07-31T06:20:18+00:00"
-  },
-  "2114ec9723fb9d8eaec5b5f3852854e2471ab04c67511d58d567780d2da741b8": {
-    "url": "https://en.mehrnews.com/news/246652/IRGC-rejects-US-claim-Iran-missile-had-no-damage-to-aircrafts",
-    "title": "IRGC rejects US claim Iran missile had no damage to aircrafts",
-    "published": "2026-07-31T06:19:17+00:00"
   }
 }

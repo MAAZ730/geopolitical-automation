@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5447,
+  "total_calls": 5451,
   "tiers": {
-    "groq": 5428,
+    "groq": 5432,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-30T02:35:58.204429+00:00",
-      "tier": "groq",
-      "article": "One killed in Russian missile strikes on Kyiv, day after Zelenskyy warning"
-    },
-    {
-      "timestamp": "2026-07-30T02:36:39.484056+00:00",
-      "tier": "groq",
-      "article": "US troops told not to film Iranian strikes (VIDEOS)"
-    },
-    {
-      "timestamp": "2026-07-30T02:37:25.417236+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Shadegan comes under US missile attack"
-    },
-    {
-      "timestamp": "2026-07-30T02:37:43.834582+00:00",
-      "tier": "groq",
-      "article": "SCO sees new opportunities in evolving global landscape"
-    },
     {
       "timestamp": "2026-07-30T06:31:32.136055+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-01T23:00:06.954797+00:00",
       "tier": "groq",
       "article": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating"
+    },
+    {
+      "timestamp": "2026-08-02T03:15:42.466124+00:00",
+      "tier": "groq",
+      "article": "The illusion of besieging Iran; How realistic it could be?"
+    },
+    {
+      "timestamp": "2026-08-02T03:16:22.553492+00:00",
+      "tier": "groq",
+      "article": "Ghalibaf: US Will \u2018Pay the Price\u2019 for Killing Civilians on Iran\u2019s Qeshm Island - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-02T03:16:41.284900+00:00",
+      "tier": "groq",
+      "article": "Araghchi warns UK against aiding aggressors"
+    },
+    {
+      "timestamp": "2026-08-02T03:17:19.322123+00:00",
+      "tier": "groq",
+      "article": "US lawmakers demand exit from Iran war as strategic costs mount"
     }
   ]
 }
