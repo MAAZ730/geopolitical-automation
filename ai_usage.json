@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5451,
+  "total_calls": 5455,
   "tiers": {
-    "groq": 5432,
+    "groq": 5436,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-30T06:31:32.136055+00:00",
-      "tier": "groq",
-      "article": "US launches 'heavy' strikes on Iran after attempted attack on American troops"
-    },
-    {
-      "timestamp": "2026-07-30T06:32:12.339747+00:00",
-      "tier": "groq",
-      "article": "US launches \u2018powerful\u2019 strikes on Iran after Jordan attack"
-    },
-    {
-      "timestamp": "2026-07-30T06:32:58.148758+00:00",
-      "tier": "groq",
-      "article": "Jordanian air defenses down five Iranian missiles  \u2014 news agency"
-    },
-    {
-      "timestamp": "2026-07-30T06:33:17.099832+00:00",
-      "tier": "groq",
-      "article": "Trump, Zelenskyy discuss Patriot deal and reviving talks with Russia"
-    },
     {
       "timestamp": "2026-07-30T10:28:19.219867+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T03:17:19.322123+00:00",
       "tier": "groq",
       "article": "US lawmakers demand exit from Iran war as strategic costs mount"
+    },
+    {
+      "timestamp": "2026-08-02T06:35:57.758838+00:00",
+      "tier": "groq",
+      "article": "Iranian MP says retaliation would go beyond region"
+    },
+    {
+      "timestamp": "2026-08-02T06:36:16.008530+00:00",
+      "tier": "groq",
+      "article": "Trump says he agreed to cancel a planned major strike on Iran to reach a deal with Tehran"
+    },
+    {
+      "timestamp": "2026-08-02T06:36:33.409395+00:00",
+      "tier": "groq",
+      "article": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'"
+    },
+    {
+      "timestamp": "2026-08-02T06:36:50.320032+00:00",
+      "tier": "groq",
+      "article": "Caspian Pipeline Consortium continues to receive 100,000 tons of oil per day - ministry"
     }
   ]
 }
