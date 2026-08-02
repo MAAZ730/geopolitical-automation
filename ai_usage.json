@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5459,
+  "total_calls": 5463,
   "tiers": {
-    "groq": 5440,
+    "groq": 5444,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-30T14:08:48.386792+00:00",
-      "tier": "groq",
-      "article": "IRGC strike obliterates 3 US F-35s, kills troops in Jordan"
-    },
-    {
-      "timestamp": "2026-07-30T14:09:23.823870+00:00",
-      "tier": "groq",
-      "article": "Retaliatory Strikes Destroy Three F-35 Jets at US-Run Jordan Base: IRGC - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-30T14:10:14.681908+00:00",
-      "tier": "groq",
-      "article": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns"
-    },
-    {
-      "timestamp": "2026-07-30T14:10:30.951644+00:00",
-      "tier": "groq",
-      "article": "The time has come for Bahrain's liberation"
-    },
     {
       "timestamp": "2026-07-30T17:38:05.322651+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T10:03:10.112941+00:00",
       "tier": "groq",
       "article": "Over 1,000 participants attend AiroCup national robotics competition"
+    },
+    {
+      "timestamp": "2026-08-02T11:25:07.638635+00:00",
+      "tier": "groq",
+      "article": "5 Palestinians, including 3 children, have been injured in an Israeli drone strike targeting a charging station west of Khan Younis in the southern Gaza Strip - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-02T11:25:26.098006+00:00",
+      "tier": "groq",
+      "article": "Gaza: Several injured after an Israeli drone strike targeted a vehicle near the vehicle licensing office, east of Al-Aqsa Hospital in Deir al-Balah - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-02T11:25:43.643490+00:00",
+      "tier": "groq",
+      "article": "Occupation Escalates Southern Lebanon Onslaught: Bombardment Rocks Taybeh, Warplanes Strike Mansouri and Ali Taher - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-02T11:26:03.554077+00:00",
+      "tier": "groq",
+      "article": "Iran becomes a founding member of WAICO"
     }
   ]
 }
