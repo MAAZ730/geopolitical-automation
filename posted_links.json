@@ -1,4 +1,34 @@
 {
+  "291371d26cb2e8d607e5bd54847a090564d962c9182d97888c31b0d4b2a10f41": {
+    "url": "presstv/201445",
+    "title": "Israeli Warplanes Spark Panic with Low-Altitude Flyover in Southern Lebanon",
+    "published": "2026-08-03T19:50:39.098046+00:00"
+  },
+  "4c6202db28b05f3b6b1d973432a28ef0bd8b1ea775b8657db7b271ef4b45443c": {
+    "url": "QudsNen/233970",
+    "title": "Manchester Protesters Rally in Support of Activists on Trial",
+    "published": "2026-08-03T19:49:57.133416+00:00"
+  },
+  "19206309ac36358231cfc35a618cd961e2ad097a933040ffa23fad0bf9f40a30": {
+    "url": "Middle_East_Spectator/35705",
+    "title": "Iran Spares Ukraine from Retaliation after Apology",
+    "published": "2026-08-03T19:47:50.434804+00:00"
+  },
+  "4d88c040911f4603cd3b861f1288de3218f9ee8a3b62297346669171cdcd1a7b": {
+    "url": "Middle_East_Spectator/35706",
+    "title": "Iran Threatens to Attack US Warships in Strait of Hormuz",
+    "published": "2026-08-03T19:46:04.948717+00:00"
+  },
+  "2569abe9378d8f8591f6d198f8653f58e9dd570806204bb3a199bd188f66f949": {
+    "url": "thecradlemedia/65510",
+    "title": "Britain Sees Rise in Fuel Theft Amid Escalating Iran Disruptions",
+    "published": "2026-08-03T19:43:43.173541+00:00"
+  },
+  "e7d45ab3a595a05241d5379d28772902e9934487dd8650cc3ef5551b64b29aea": {
+    "url": "thecradlemedia/65516",
+    "title": "Israeli Drone Strike Hits Ali al-Taher Hill in South Lebanon",
+    "published": "2026-08-03T19:43:41.332684+00:00"
+  },
   "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
     "url": "CensoredMen/229",
     "title": "Ukraine Strikes Russian E-commerce Giant's Warehouse in Nevinnomyssk",
@@ -33,6 +63,11 @@
     "url": "https://tass.com/emergencies/2168551",
     "title": "IN BRIEF: Seven people killed in drone attack on Gelendzhik, three children among them",
     "published": "2026-08-03T16:28:50+00:00"
+  },
+  "8c5aa3df31f131d969e195cbbebd28067fa82ee63dc78729007a15a0b165ca3d": {
+    "url": "https://tass.com/emergencies/2168539",
+    "title": "Four Zaporozhye nuclear plant workers injured by Ukrainian mine blast \u2014 ZNPP",
+    "published": "2026-08-03T16:08:26+00:00"
   },
   "03e4de70dc5a7f491de3b9b9fedf3b1a1fb5a27beee5cfe2b6da53ca42262da3": {
     "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
@@ -78,6 +113,11 @@
     "url": "https://tass.com/politics/2168481",
     "title": "Number of injured in Ukraine\u2019s attack on warehouse in Vladimir region rises to four",
     "published": "2026-08-03T13:29:02+00:00"
+  },
+  "dedd869eed4bd57489cd2025f76bd18a275ebdf69de52ab13673658fe9318e54": {
+    "url": "https://tass.com/emergencies/2168429",
+    "title": "Seventeen injured in Ukrainian drone attack on Gelendzhik hospitalized",
+    "published": "2026-08-03T11:57:35+00:00"
   },
   "8d95ff58dbfb0c0cbe62d6b2b99cd6de87718be4d76a955139d75c937d8a017b": {
     "url": "DDGeopolitics/190606",
@@ -128,6 +168,11 @@
     "url": "https://tass.com/politics/2168309",
     "title": "Russian strike drones preparing ground for offensive on Druzhkovka in DPR \u2014 expert",
     "published": "2026-08-03T08:38:25+00:00"
+  },
+  "8d525e723bbcfc5f491aeee60c5cb297822b52bb2937e18aa628af9869fcf1d3": {
+    "url": "https://tass.com/politics/2168281",
+    "title": "Liberation of Svetloye creates springboard for offensive on Dobropolye \u2014 Russian soldier",
+    "published": "2026-08-03T07:45:30+00:00"
   },
   "48ff7e18389c03a5c4c13995d6fa755c66dc223e2739e398656b191269c0ac98": {
     "url": "intelslava/91944",
@@ -208,6 +253,11 @@
     "url": "QudsNen/233867",
     "title": "Palestinian Man Killed in Israeli Drone Strike on Gaza City Shelter",
     "published": "2026-08-03T03:19:36.417638+00:00"
+  },
+  "d12993e2c5cea134270a46f15d0396f4c3ca27e746219fdc52dbc0420df579d9": {
+    "url": "https://www.rt.com/news/643785-firefighting-helicopter-crash-greece/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Two helicopters collide while battling wildfires (VIDEOS)",
+    "published": "2026-08-03T01:05:21+00:00"
   },
   "5c5f6cd701e2f5ea636ab9814048cce276d0027ccee7cf63c85e4545b5879ea6": {
     "url": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "CensoredMen/222",
     "title": "U.S. Enforces Maritime Blockade Against Iran",
     "published": "2026-08-01T23:04:00.008267+00:00"
-  },
-  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
-    "url": "CensoredMen/239",
-    "title": "China's Surveillance State: Drone Enforces Nighttime Swimming Ban in Qingdao",
-    "published": "2026-08-01T23:02:58.220065+00:00"
-  },
-  "488fd1657e8fcd4cc2c9989edf021cf9acfd349b83376e988f6857d6fb6f84e8": {
-    "url": "BellumActaNews/176084",
-    "title": "Moscow Restaurant Explosion Leaves Multiple Injured",
-    "published": "2026-08-01T23:02:06.827864+00:00"
-  },
-  "0dba69bcc65847daad84f2378735920a54a8dd6074400083cabaf063b85c3464": {
-    "url": "BellumActaNews/176094",
-    "title": "Israel Destroys Hamas Arms Storage Facilities in Gaza Strip",
-    "published": "2026-08-01T23:01:33.187472+00:00"
-  },
-  "01f756453178a274822ce4c0adb95b560120674f1c1adfc490c5937e08cb14d3": {
-    "url": "QudsNen/233711",
-    "title": "Israeli Airstrikes Hit Residential Building in Gaza Port",
-    "published": "2026-08-01T23:00:14.819382+00:00"
-  },
-  "26f9458178dbf23f4380225a2bc880a4e1d3f7193ec0edbbf1684bf7a1ab79c7": {
-    "url": "QudsNen/233713",
-    "title": "Israeli Airstrike in Central Gaza Strip Leaves Multiple Palestinians Injured",
-    "published": "2026-08-01T23:00:13.368258+00:00"
-  },
-  "0cf7ce5764501ad09b7204d23cf497f3355d9cab834f65d6a122e06597598beb": {
-    "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
-    "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
-    "published": "2026-08-01T22:34:36+00:00"
-  },
-  "609104f155e77fb10a9acfa0a6a8cb8e648bd2ce3f48a691ec3b78883fa81565": {
-    "url": "https://www.rt.com/news/643757-no-spontaneous-combustion-regarding-causes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "No spontaneous combustion? Regarding the causes of the Ceuta migrant surge, look who\u2019s gloating",
-    "published": "2026-08-01T21:17:44+00:00"
-  },
-  "e78f72e854f567fef500dedd8c83d801cc0be2f2c62feda3e26d17fa2fdaccb1": {
-    "url": "DDGeopolitics/190512",
-    "title": "Moscow Restaurant Blast Kills Three, Injures 21",
-    "published": "2026-08-01T20:59:59.911876+00:00"
-  },
-  "64f1a2073e34007712453d2016a1c02ded3193d9d4f4ec62a28feefcdb6a9e72": {
-    "url": "DDGeopolitics/190514",
-    "title": "Moscow Restaurant Bombing Targets Ukrainian Aerospace Forces Commander",
-    "published": "2026-08-01T20:59:20.907938+00:00"
-  },
-  "701fdc65bd5a2d678abd17204bca24968b67c039ec232e55ea45e239cca5fd90": {
-    "url": "QudsNen/233684",
-    "title": "Gaza City Drone Strike",
-    "published": "2026-08-01T20:59:07.501476+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5507,
+  "total_calls": 5511,
   "tiers": {
-    "groq": 5488,
+    "groq": 5492,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T23:04:44.563332+00:00",
-      "tier": "groq",
-      "article": "Senior cleric: Consolidating military gains at negotiating table favors Iran"
-    },
-    {
-      "timestamp": "2026-07-31T23:05:02.810715+00:00",
-      "tier": "groq",
-      "article": "US writhes, but Hormuz survives\u2014in Iranian hands"
-    },
-    {
-      "timestamp": "2026-07-31T23:05:22.381137+00:00",
-      "tier": "groq",
-      "article": "Poland protests to Russian ambassador over missile incursion"
-    },
-    {
-      "timestamp": "2026-07-31T23:05:38.817091+00:00",
-      "tier": "groq",
-      "article": "Trump pours cold water on Kiev\u2019s Patriot dream"
-    },
     {
       "timestamp": "2026-08-01T03:15:41.103018+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-03T17:55:32.521502+00:00",
       "tier": "groq",
       "article": "Israeli court bans use of crocodiles to secure prisons with terrorists"
+    },
+    {
+      "timestamp": "2026-08-03T19:41:23.064904+00:00",
+      "tier": "groq",
+      "article": "Seventeen injured in Ukrainian drone attack on Gelendzhik hospitalized"
+    },
+    {
+      "timestamp": "2026-08-03T19:41:56.607990+00:00",
+      "tier": "groq",
+      "article": "Liberation of Svetloye creates springboard for offensive on Dobropolye \u2014 Russian soldier"
+    },
+    {
+      "timestamp": "2026-08-03T19:42:44.340932+00:00",
+      "tier": "groq",
+      "article": "Four Zaporozhye nuclear plant workers injured by Ukrainian mine blast \u2014 ZNPP"
+    },
+    {
+      "timestamp": "2026-08-03T19:43:36.545530+00:00",
+      "tier": "groq",
+      "article": "Two helicopters collide while battling wildfires (VIDEOS)"
     }
   ]
 }
