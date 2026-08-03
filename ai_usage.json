@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5487,
+  "total_calls": 5491,
   "tiers": {
-    "groq": 5468,
+    "groq": 5472,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T10:43:00.205067+00:00",
-      "tier": "groq",
-      "article": "Ukraine strikes may cause ZNPP nuke accident, but West to blame Russia \u2014 MP"
-    },
-    {
-      "timestamp": "2026-07-31T10:43:40.932771+00:00",
-      "tier": "groq",
-      "article": "Five injured, fire at warehouses in Volgograd Region: aftermath of Ukrainian UAV attack"
-    },
-    {
-      "timestamp": "2026-07-31T10:43:58.579200+00:00",
-      "tier": "groq",
-      "article": "Fire breaks out at Wildberries warehouse in Volgograd"
-    },
-    {
-      "timestamp": "2026-07-31T10:44:35.276387+00:00",
-      "tier": "groq",
-      "article": "Kiev uses drones to scatter new type of Lepestok landmine in LPR \u2014 diplomat"
-    },
     {
       "timestamp": "2026-07-31T14:13:52.119712+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-02T23:00:17.696019+00:00",
       "tier": "groq",
       "article": "Israel eliminates three radicals in Gaza Strip \u2014 IDF"
+    },
+    {
+      "timestamp": "2026-08-03T03:18:18.916758+00:00",
+      "tier": "groq",
+      "article": "Sudan army drone attack on Darfur kills 35, rights group says"
+    },
+    {
+      "timestamp": "2026-08-03T03:18:35.909698+00:00",
+      "tier": "groq",
+      "article": "Trump says new round of Iran talks will begin Monday"
+    },
+    {
+      "timestamp": "2026-08-03T03:19:10.418788+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone hits site several meters away from reactor unit at Zaporozhye nuke plant"
+    },
+    {
+      "timestamp": "2026-08-03T03:19:28.615856+00:00",
+      "tier": "groq",
+      "article": "Neither threat nor attack will force Iran to retreat or surrender"
     }
   ]
 }
