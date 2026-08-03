@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5503,
+  "total_calls": 5507,
   "tiers": {
-    "groq": 5484,
+    "groq": 5488,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T21:51:54.189186+00:00",
-      "tier": "groq",
-      "article": "The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation"
-    },
-    {
-      "timestamp": "2026-07-31T21:52:35.585646+00:00",
-      "tier": "groq",
-      "article": "Exposing Western and Israeli plots against Iran-Egypt relations"
-    },
-    {
-      "timestamp": "2026-07-31T21:52:53.967664+00:00",
-      "tier": "groq",
-      "article": "Russian Geran, Gerbera drones, Lancet loitering munition hit 3 ships with military cargoes"
-    },
-    {
-      "timestamp": "2026-07-31T21:53:14.329962+00:00",
-      "tier": "groq",
-      "article": "Spain deploys 60 troops as thousands storm border from Morocco (VIDEOS)"
-    },
     {
       "timestamp": "2026-07-31T23:04:44.563332+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-03T14:46:39.660623+00:00",
       "tier": "groq",
       "article": "Iran Army soldier martyred, another wounded in Marivan"
+    },
+    {
+      "timestamp": "2026-08-03T17:53:51.467466+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Seven people killed in drone attack on Gelendzhik, three children among them"
+    },
+    {
+      "timestamp": "2026-08-03T17:54:26.946911+00:00",
+      "tier": "groq",
+      "article": "Israeli regime intensifies strikes on south Lebanon"
+    },
+    {
+      "timestamp": "2026-08-03T17:55:16.161545+00:00",
+      "tier": "groq",
+      "article": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border"
+    },
+    {
+      "timestamp": "2026-08-03T17:55:32.521502+00:00",
+      "tier": "groq",
+      "article": "Israeli court bans use of crocodiles to secure prisons with terrorists"
     }
   ]
 }
