@@ -1,4 +1,39 @@
 {
+  "6d1d4dacd6f5b59830cecec348939f003e73fff31598cbb307889b5922016565": {
+    "url": "warmonitors/45187",
+    "title": "Iranian Drone Strikes Separatist Base in Sulaymaniyah, Iraq",
+    "published": "2026-08-03T23:10:23.583332+00:00"
+  },
+  "8e9a3d65a10ea8c1b9604091f9316d933400d8e7c82d53e4d424918eb941cb4c": {
+    "url": "QudsNen/233986",
+    "title": "Israeli Military Base Emerges in Gaza Strip's Rafah",
+    "published": "2026-08-03T23:10:07.510330+00:00"
+  },
+  "5576f6fcc2f0583e12bcafdbdd1931714cd962f3fa84cae14d3256fcffd5223d": {
+    "url": "QudsNen/233990",
+    "title": "Gaza Recovery Efforts Uncover Remains of Children Killed in Israeli Attacks",
+    "published": "2026-08-03T23:08:28.902980+00:00"
+  },
+  "b9f89c1f551b107614a40e3b6d4441ced282ac8373aa9b62422668ee8541932a": {
+    "url": "QudsNen/233993",
+    "title": "Israeli Forces Storm Eastern Nablus, Clash with Palestinians",
+    "published": "2026-08-03T23:06:11.366195+00:00"
+  },
+  "ab20325bf56491704313485322c8c0e5e2d770f9c0475b4b3560370a8a36f5d5": {
+    "url": "Middle_East_Spectator/35691",
+    "title": "IRGC Shoots Down U.S. Drone Over Strait of Hormuz",
+    "published": "2026-08-03T23:05:30.188114+00:00"
+  },
+  "826769d7235940308e797fb7d903813892d9a1532c38edcfc984a02392b8453e": {
+    "url": "Middle_East_Spectator/35704",
+    "title": "Trump Claims Iran Begged for Mercy, Warns of Devastating Consequences",
+    "published": "2026-08-03T23:05:28.987838+00:00"
+  },
+  "5ace1f093a5cbd6a2d716d4199020f8a29085221ff0e2b13e7215fe0bd6d3490": {
+    "url": "https://www.rt.com/news/643819-iran-called-off-ukraine-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran called off Ukraine strikes after Kiev\u2019s apology",
+    "published": "2026-08-03T23:00:37+00:00"
+  },
   "7256e070b1386ff759ec2def3b23ae0eb2f9f771f85d21cf0d5166df1552c53d": {
     "url": "intelslava/91968",
     "title": "Ukraine Conflict: Russia's Strategic Stalemate",
@@ -154,6 +189,11 @@
     "title": "Pentagon concludes agreements worth $3 billion to increase interceptor production volumes",
     "published": "2026-08-03T14:19:54+00:00"
   },
+  "f6659ab99cba4d2210be8280027c79d1e83f2b4f61fa0e4434beb4f4d79a4974": {
+    "url": "https://tass.com/politics/2168499",
+    "title": "Two employees of ZNPP injured by Ukrainian mine remain in serious condition",
+    "published": "2026-08-03T13:56:58+00:00"
+  },
   "cd95a0fca0f5c17d41aac2c7b67e2aa9dfc92953ea2f1c4fe83220d3576d06a5": {
     "url": "https://tass.com/politics/2168481",
     "title": "Number of injured in Ukraine\u2019s attack on warehouse in Vladimir region rises to four",
@@ -208,6 +248,11 @@
     "url": "https://tass.com/world/2168375",
     "title": "US still ready for strikes on Iran on scale \"not seen since World War II\" \u2014 Pentagon chief",
     "published": "2026-08-03T09:45:09+00:00"
+  },
+  "012b5c02fefce4809a475c672d1f815fd8d3f4effb73143afac61b63f4d4a9fc": {
+    "url": "https://tass.com/politics/2168371",
+    "title": "Kiev sent forcibly mobilized soldiers for assaults in Kharkov Region \u2014 expert",
+    "published": "2026-08-03T09:31:14+00:00"
   },
   "f2331d9cb3d393e4e6577eabdb80eb99ca470bcb0f0389a085faecfe484286e3": {
     "url": "https://tass.com/politics/2168309",
@@ -268,6 +313,11 @@
     "url": "https://tass.com/emergencies/2168245",
     "title": "Drone strike causes fire at logistics facility in Russia\u2019s Vladimir Region",
     "published": "2026-08-03T05:38:20+00:00"
+  },
+  "a3b1e2db39b8d2f293bb30b4fbbc10b50ffb4ff94ac87d81e6907e5d1e1aa6c5": {
+    "url": "https://en.mehrnews.com/news/246722/Ship-traffic-drops-sharply-at-Bab-el-Mandeb",
+    "title": "Ship traffic drops sharply at Bab el-Mandeb",
+    "published": "2026-08-03T03:51:49+00:00"
   },
   "25e55a98712cde27d6839201ee0a91016b852487af270fd5fcc55b3d422c14af": {
     "url": "https://en.mehrnews.com/news/246720/Blast-reported-near-oil-tanker-off-Oman-coast",
@@ -698,55 +748,5 @@
     "url": "https://english.almanar.com.lb/article/111022/",
     "title": "Trump Halts \u2018WWII-Level\u2019 Strikes on Iran Amid Last-Ditch Diplomatic Push; Tehran Warns of Unrestricted Retaliation - Al-Manar TV Lebanon",
     "published": "2026-08-02T06:43:52+00:00"
-  },
-  "8274dc998396b5ff1a181e3f11b6ad2807362289fcd9c73666fcc071e603e387": {
-    "url": "intelslava/91905",
-    "title": "Wildberries Warehouse Damaged in Samara Region Fire Following Ukrainian Attack",
-    "published": "2026-08-02T06:40:49.907270+00:00"
-  },
-  "45aec984cd479f55504895d11e1f9f12e087edbe58ab7be5fe6f6437f5378f63": {
-    "url": "DDGeopolitics/190529",
-    "title": "Airstrikes Hit Sumy Industrial Zone",
-    "published": "2026-08-02T06:39:45.501449+00:00"
-  },
-  "dd1b7f7b7c7e8e98cb77f81aaaab6b880273a3e1d6f8a5b3327db5adcaff4737": {
-    "url": "QudsNen/233722",
-    "title": "Israeli Airstrike Kills Three in Gaza City's Al-Sousi Tower",
-    "published": "2026-08-02T06:39:08.877205+00:00"
-  },
-  "e7c64afc1577b744b70c2e1afbc99ce470c3f8fd9b23995fdbb14eecfb3b688d": {
-    "url": "QudsNen/233726",
-    "title": "Israeli Airstrike Kills Hamas Official in Gaza",
-    "published": "2026-08-02T06:37:42.747997+00:00"
-  },
-  "639a20e42f4ae15e9c0585c068480e0329092f885218674234f93fd6f2d0c22f": {
-    "url": "QudsNen/233728",
-    "title": "Israeli Airstrike Targets Gaza Residential Apartment, Killing Palestinian Child",
-    "published": "2026-08-02T06:37:41.650017+00:00"
-  },
-  "31aaa80b572cecbc3c6127c320a81026688f300f30ab24f3872ffb4621d86ced": {
-    "url": "QudsNen/233730",
-    "title": "Israel Settlers Establish Outpost on Palestinian Land in West Bank",
-    "published": "2026-08-02T06:36:56.480374+00:00"
-  },
-  "b1dbe2b7430b37fd8e86b68d3ab32179bdb019e0e06424b6c593a5f0ae705f40": {
-    "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-    "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-    "published": "2026-08-02T06:24:01+00:00"
-  },
-  "cf8791c1a9b5d1d012c718b0ae407872c8fd0aaa484f0fff49d615380d630605": {
-    "url": "https://en.mehrnews.com/news/246696/Trump-says-he-canceled-declared-attacks-on-Iran",
-    "title": "Trump says he canceled declared attacks on Iran",
-    "published": "2026-08-02T06:12:34+00:00"
-  },
-  "af57f5c73cbababfb76570245cf3d3760be43f4c32c6af222af2d61321784dd3": {
-    "url": "https://english.almanar.com.lb/article/111002/",
-    "title": "Iraq: 3.8-magnitude earthquake strikes east of Kirkuk - Al-Manar TV Lebanon",
-    "published": "2026-08-02T06:07:37+00:00"
-  },
-  "70eb1028c2dc5661bd4dd09655c640cb01abbb286e05227fa570a2e50e307fa0": {
-    "url": "https://en.mehrnews.com/news/246692/Iranian-MP-says-retaliation-would-go-beyond-region",
-    "title": "Iranian MP says retaliation would go beyond region",
-    "published": "2026-08-02T04:07:45+00:00"
   }
 }

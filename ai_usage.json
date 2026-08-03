@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5515,
+  "total_calls": 5519,
   "tiers": {
-    "groq": 5496,
+    "groq": 5500,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-01T06:33:06.047268+00:00",
-      "tier": "groq",
-      "article": "Next round of US strikes on Iran could last several days \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-08-01T06:33:38.108099+00:00",
-      "tier": "groq",
-      "article": "US, Israel plan to carry out large-scale strikes on Iran\u2019s energy infrastructure \u2014 TV"
-    },
-    {
-      "timestamp": "2026-08-01T06:34:28.881408+00:00",
-      "tier": "groq",
-      "article": "IDF strikes Gaza after Trump announces Hamas disarmament plan"
-    },
-    {
-      "timestamp": "2026-08-01T06:34:46.810939+00:00",
-      "tier": "groq",
-      "article": "Palestinian factions demand Israeli compliance with Gaza deal"
-    },
     {
       "timestamp": "2026-08-01T10:02:54.076003+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-03T21:08:05.745056+00:00",
       "tier": "groq",
       "article": "Blast reported near oil tanker off Oman coast"
+    },
+    {
+      "timestamp": "2026-08-03T23:04:20.100490+00:00",
+      "tier": "groq",
+      "article": "Iran called off Ukraine strikes after Kiev\u2019s apology"
+    },
+    {
+      "timestamp": "2026-08-03T23:04:38.455866+00:00",
+      "tier": "groq",
+      "article": "Two employees of ZNPP injured by Ukrainian mine remain in serious condition"
+    },
+    {
+      "timestamp": "2026-08-03T23:05:04.647973+00:00",
+      "tier": "groq",
+      "article": "Kiev sent forcibly mobilized soldiers for assaults in Kharkov Region \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-03T23:05:22.991628+00:00",
+      "tier": "groq",
+      "article": "Ship traffic drops sharply at Bab el-Mandeb"
     }
   ]
 }
