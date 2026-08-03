@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5499,
+  "total_calls": 5503,
   "tiers": {
-    "groq": 5480,
+    "groq": 5484,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T19:38:52.083157+00:00",
-      "tier": "groq",
-      "article": "Guardian: US military abandons wounded troops after Iran strike\u00a0"
-    },
-    {
-      "timestamp": "2026-07-31T19:39:30.813107+00:00",
-      "tier": "groq",
-      "article": "CNN: Trump seeks an exit ramp from the Iran war"
-    },
-    {
-      "timestamp": "2026-07-31T19:40:19.700187+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Condemns US Attack on Iraq, Warns of Grave Regional consequences - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-07-31T19:40:39.858485+00:00",
-      "tier": "groq",
-      "article": "The arms race for cheaper anti-ballistic weapons is underway"
-    },
     {
       "timestamp": "2026-07-31T21:51:54.189186+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-03T11:29:28.946255+00:00",
       "tier": "groq",
       "article": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission"
+    },
+    {
+      "timestamp": "2026-08-03T14:45:35.474534+00:00",
+      "tier": "groq",
+      "article": "Number of injured in Ukraine\u2019s attack on warehouse in Vladimir region rises to four"
+    },
+    {
+      "timestamp": "2026-08-03T14:45:54.764394+00:00",
+      "tier": "groq",
+      "article": "More than 10 killed as Russia and Ukraine trade heavy attacks"
+    },
+    {
+      "timestamp": "2026-08-03T14:46:21.086249+00:00",
+      "tier": "groq",
+      "article": "Board of Peace seeks de-escalation in Gaza following latest series of strikes \u2014 envoy"
+    },
+    {
+      "timestamp": "2026-08-03T14:46:39.660623+00:00",
+      "tier": "groq",
+      "article": "Iran Army soldier martyred, another wounded in Marivan"
     }
   ]
 }
