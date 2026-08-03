@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5495,
+  "total_calls": 5499,
   "tiers": {
-    "groq": 5476,
+    "groq": 5480,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T17:42:05.014478+00:00",
-      "tier": "groq",
-      "article": "Trump\u2019s false claim that Iraq knew about PMF raids exposes his deceit"
-    },
-    {
-      "timestamp": "2026-07-31T17:42:42.239240+00:00",
-      "tier": "groq",
-      "article": "US\u2013Saudi strikes on PMF launched without Baghdad\u2019s knowledge, says Iraqi gov\u2019t spox"
-    },
-    {
-      "timestamp": "2026-07-31T17:43:30.065019+00:00",
-      "tier": "groq",
-      "article": "IRGC rejects US claim Iran missile had no damage to aircrafts"
-    },
-    {
-      "timestamp": "2026-07-31T17:44:16.012132+00:00",
-      "tier": "groq",
-      "article": "Iran, Cyprus FMs discuss regional developments in call"
-    },
     {
       "timestamp": "2026-07-31T19:38:52.083157+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-03T07:33:23.650326+00:00",
       "tier": "groq",
       "article": "Israeli light attack drone drops stun grenade towards Byout Al-Seyyad village: Al-Manar reporter in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-03T11:28:20.892005+00:00",
+      "tier": "groq",
+      "article": "Russian strike drones preparing ground for offensive on Druzhkovka in DPR \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-03T11:28:53.618587+00:00",
+      "tier": "groq",
+      "article": "Ukraine strikes Russia\u2019s biggest retailer again"
+    },
+    {
+      "timestamp": "2026-08-03T11:29:09.757771+00:00",
+      "tier": "groq",
+      "article": "US still ready for strikes on Iran on scale \"not seen since World War II\" \u2014 Pentagon chief"
+    },
+    {
+      "timestamp": "2026-08-03T11:29:28.946255+00:00",
+      "tier": "groq",
+      "article": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission"
     }
   ]
 }
