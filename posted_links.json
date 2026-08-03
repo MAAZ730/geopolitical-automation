@@ -1,4 +1,34 @@
 {
+  "7256e070b1386ff759ec2def3b23ae0eb2f9f771f85d21cf0d5166df1552c53d": {
+    "url": "intelslava/91968",
+    "title": "Ukraine Conflict: Russia's Strategic Stalemate",
+    "published": "2026-08-03T21:13:09.363420+00:00"
+  },
+  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
+    "url": "CensoredMen/239",
+    "title": "China Enforces Nighttime Swimming Ban with Drone Surveillance",
+    "published": "2026-08-03T21:13:03.954140+00:00"
+  },
+  "ff617468fa5e24bead2a7956aecbd76835cd8568827ecde332af3cc3a4a9c121": {
+    "url": "presstv/201456",
+    "title": "US-Iran Conflict Escalation: Iran Steps Up Drone Strikes Amid International Tensions",
+    "published": "2026-08-03T21:12:17.113520+00:00"
+  },
+  "daab06b9b9027ae7b337c21e90fd4aaf14d3d927d1b84aae097aa84dbc056b24": {
+    "url": "QudsNen/233983",
+    "title": "Iraqi Civil Defense Teams Recover Abu Sharia Family Remains Amid Ongoing Conflict",
+    "published": "2026-08-03T21:10:01.814789+00:00"
+  },
+  "ff7b03ce7795d69c121ba6912dda09e266f10ed03e5d2907945e929120613491": {
+    "url": "thecradlemedia/65506",
+    "title": "Israeli Drones Conduct Surveillance Over Lebanon",
+    "published": "2026-08-03T21:08:12.450722+00:00"
+  },
+  "ce71c81f7710b613015f1c8ec1551df5a1507cc70796cd2767125470cafcc572": {
+    "url": "thecradlemedia/65507",
+    "title": "US Signs Deal with Lockheed Martin and Northrop Grumman to Enhance Missile Interceptor Production",
+    "published": "2026-08-03T21:08:10.380710+00:00"
+  },
   "291371d26cb2e8d607e5bd54847a090564d962c9182d97888c31b0d4b2a10f41": {
     "url": "presstv/201445",
     "title": "Israeli Warplanes Spark Panic with Low-Altitude Flyover in Southern Lebanon",
@@ -69,6 +99,11 @@
     "title": "Four Zaporozhye nuclear plant workers injured by Ukrainian mine blast \u2014 ZNPP",
     "published": "2026-08-03T16:08:26+00:00"
   },
+  "949283b10609acfc87d32e42ba847d055f90e6b47b54e02bff489d2c3bfdbcfb": {
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/03/pentagon-moves-to-triple-patriot-quadruple-thaad-interceptor-production/",
+    "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
+    "published": "2026-08-03T15:59:37+00:00"
+  },
   "03e4de70dc5a7f491de3b9b9fedf3b1a1fb5a27beee5cfe2b6da53ca42262da3": {
     "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
     "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
@@ -89,6 +124,11 @@
     "title": "Ukrainian Military Officers Glorify Hitler's Collaborators Amid Foreign Funding",
     "published": "2026-08-03T14:48:21.909451+00:00"
   },
+  "f5789ce089bc4d35905144782f285993fdafefdeb3cb17149e6e1c49e4aaf1c6": {
+    "url": "https://www.aljazeera.com/economy/2026/8/3/pentagon-boosts-patriot-thaad-interceptor-output-amid-stockpile-strain?traffic_source=rss",
+    "title": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain",
+    "published": "2026-08-03T14:47:20+00:00"
+  },
   "7b9914621641efb51782bf4cbeb59154f0eac119392d48c0207a4dfd67f0d3c4": {
     "url": "DDGeopolitics/190598",
     "title": "Missile Strikes Rock Odessa Region, Ukraine",
@@ -108,6 +148,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks?traffic_source=rss",
     "title": "More than 10 killed as Russia and Ukraine trade heavy attacks",
     "published": "2026-08-03T14:23:07+00:00"
+  },
+  "20e2693aa3b24577604f63a74ab390a7607652bed847d8796183578561ffc1c7": {
+    "url": "https://tass.com/world/2168513",
+    "title": "Pentagon concludes agreements worth $3 billion to increase interceptor production volumes",
+    "published": "2026-08-03T14:19:54+00:00"
   },
   "cd95a0fca0f5c17d41aac2c7b67e2aa9dfc92953ea2f1c4fe83220d3576d06a5": {
     "url": "https://tass.com/politics/2168481",
@@ -223,6 +268,11 @@
     "url": "https://tass.com/emergencies/2168245",
     "title": "Drone strike causes fire at logistics facility in Russia\u2019s Vladimir Region",
     "published": "2026-08-03T05:38:20+00:00"
+  },
+  "25e55a98712cde27d6839201ee0a91016b852487af270fd5fcc55b3d422c14af": {
+    "url": "https://en.mehrnews.com/news/246720/Blast-reported-near-oil-tanker-off-Oman-coast",
+    "title": "Blast reported near oil tanker off Oman coast",
+    "published": "2026-08-03T03:42:08+00:00"
   },
   "e08be6cd549f0816e4619b4aa11d784f89cd280e4f427cbbc3b6fe871249e30a": {
     "url": "intelslava/91935",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/246692/Iranian-MP-says-retaliation-would-go-beyond-region",
     "title": "Iranian MP says retaliation would go beyond region",
     "published": "2026-08-02T04:07:45+00:00"
-  },
-  "a056b5921c2829887ff83638da909c5c930c39531ffc1a3f4220ef44b0387020": {
-    "url": "https://en.mehrnews.com/news/246691/Iran-vows-to-use-all-means-in-self-defence-against-US",
-    "title": "Iran vows to use all means in self-defence against US",
-    "published": "2026-08-02T03:41:39+00:00"
-  },
-  "8c7a3f34afc90c57ed1477750eb96adc1f9541b4be1af04d4d9aae494df8a755": {
-    "url": "presstv/201249",
-    "title": "Israeli Airstrike on Al-Sousi Tower in Gaza City Kills Three Palestinians",
-    "published": "2026-08-02T03:20:28.726637+00:00"
-  },
-  "6d1d4dacd6f5b59830cecec348939f003e73fff31598cbb307889b5922016565": {
-    "url": "warmonitors/45187",
-    "title": "Iranian Drone Targets Separatist Base in Iraq",
-    "published": "2026-08-02T03:19:01.369103+00:00"
-  },
-  "1ab3aa6d27bf62bf3ee96f324933adcad73e4528dbbb8392d5949830289be5e3": {
-    "url": "DDGeopolitics/190518",
-    "title": "Drone Attacks Hit Separatist Groups in Sulaymaniyah, Iraqi Kurdistan",
-    "published": "2026-08-02T03:18:47.696784+00:00"
-  },
-  "c58479a503f28ba3893cd7999b9ccf95341bfab74f5a4997946ae1b64fd1e9ab": {
-    "url": "QudsNen/233716",
-    "title": "Israeli Military Closes Investigation into Wadi al Seeq Assault Incident",
-    "published": "2026-08-02T03:18:34.230109+00:00"
-  },
-  "4fdc91307337e0d23e7957ef38bb256844515e4775a763a9335d314537134f84": {
-    "url": "Middle_East_Spectator/35680",
-    "title": "Iranian Drones Strike Separatist Positions in Iraqi Kurdistan",
-    "published": "2026-08-02T03:18:30.364784+00:00"
-  },
-  "512b55eda2e7a79895fdf3bd5c92e9dbcd520a124f6c469e6c17d4f442757011": {
-    "url": "Middle_East_Spectator/35686",
-    "title": "Trump Cancels Planned US Attack on Iran Amid Regional Diplomatic Efforts",
-    "published": "2026-08-02T03:17:30.757330+00:00"
-  },
-  "9c480745e9435a636262bfb6cf1d9b7d00d25f25e3af816a750792855973a1fa": {
-    "url": "https://tass.com/world/2168065",
-    "title": "Trump says he agreed to cancel a planned major strike on Iran to reach a deal with Tehran",
-    "published": "2026-08-02T02:40:01+00:00"
-  },
-  "1776f5712497bfedc57f62dfc68003109f5cac0cda513ee74cbb48f6e1281633": {
-    "url": "https://tass.com/economy/2168047",
-    "title": "Paks NPP in Hungary to be shut down for first time in 44 years \u2014 Magyar",
-    "published": "2026-08-02T00:02:21+00:00"
-  },
-  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
-    "url": "CensoredMen/222",
-    "title": "U.S. Enforces Maritime Blockade Against Iran",
-    "published": "2026-08-01T23:04:00.008267+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5511,
+  "total_calls": 5515,
   "tiers": {
-    "groq": 5492,
+    "groq": 5496,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-01T03:15:41.103018+00:00",
-      "tier": "groq",
-      "article": "Russian missile attack kills three in Ukraine\u2019s Kyiv"
-    },
-    {
-      "timestamp": "2026-08-01T03:15:57.416944+00:00",
-      "tier": "groq",
-      "article": "Kiev\u2019s dirty war goes global"
-    },
-    {
-      "timestamp": "2026-08-01T03:16:29.954699+00:00",
-      "tier": "groq",
-      "article": "Ukrainian military carries out 39 attacks on residential areas in DPR in past day"
-    },
-    {
-      "timestamp": "2026-08-01T03:16:49.042164+00:00",
-      "tier": "groq",
-      "article": "Iran Army targets US Ahmad al-Jaber airbase in Kuwait"
-    },
     {
       "timestamp": "2026-08-01T06:33:06.047268+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-03T19:43:36.545530+00:00",
       "tier": "groq",
       "article": "Two helicopters collide while battling wildfires (VIDEOS)"
+    },
+    {
+      "timestamp": "2026-08-03T21:06:21.821816+00:00",
+      "tier": "groq",
+      "article": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production"
+    },
+    {
+      "timestamp": "2026-08-03T21:07:01.187994+00:00",
+      "tier": "groq",
+      "article": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain"
+    },
+    {
+      "timestamp": "2026-08-03T21:07:48.445927+00:00",
+      "tier": "groq",
+      "article": "Pentagon concludes agreements worth $3 billion to increase interceptor production volumes"
+    },
+    {
+      "timestamp": "2026-08-03T21:08:05.745056+00:00",
+      "tier": "groq",
+      "article": "Blast reported near oil tanker off Oman coast"
     }
   ]
 }
