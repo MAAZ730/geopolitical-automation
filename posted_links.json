@@ -1,4 +1,49 @@
 {
+  "48ff7e18389c03a5c4c13995d6fa755c66dc223e2739e398656b191269c0ac98": {
+    "url": "intelslava/91944",
+    "title": "Russia Targets Key Bridge in Eastern Ukraine",
+    "published": "2026-08-03T07:37:34.572291+00:00"
+  },
+  "b250a89f6a510f1ea32aee9a3f4f83bf26b3f4ddfa9e7b3a673c39a245f71f28": {
+    "url": "DDGeopolitics/190589",
+    "title": "FSB Thwarts Terrorist Attack in Pyatigorsk, Detains Central Asian National",
+    "published": "2026-08-03T07:36:34.504556+00:00"
+  },
+  "1eeebd11cef50cbdee5afb38fbc0425df22c6faa3c9b85599c134092d2cf42df": {
+    "url": "QudsNen/233876",
+    "title": "Israeli Occupation Forces Destroy Water Pipeline in West Bank Village",
+    "published": "2026-08-03T07:35:02.640716+00:00"
+  },
+  "6c269367e3e9932616390c3881fc056ce9b0b1e33ce77cad3a6949e4fbf97e67": {
+    "url": "QudsNen/233880",
+    "title": "Israeli Forces Raid Homes in West Bank's Az-Zababdeh",
+    "published": "2026-08-03T07:34:51.549814+00:00"
+  },
+  "d152af495b7c0477501a766eea300a0867bc00eaf13d247192ea00abf95a043f": {
+    "url": "QudsNen/233884",
+    "title": "Israeli Forces Raid Homes in Az-Zababdeh, West Bank",
+    "published": "2026-08-03T07:34:50.412543+00:00"
+  },
+  "408d56613de8eb9bcb7a574aadfdbd54bae59f0ef417545ded80921cb1f18115": {
+    "url": "thecradlemedia/65467",
+    "title": "Israeli Forces Conduct Controlled Explosion in Southern Lebanon",
+    "published": "2026-08-03T07:33:29.339393+00:00"
+  },
+  "a781d9501ba4d993bd2bc582448e4e059630b2db199d76cfb9738911f06b9b88": {
+    "url": "https://english.almanar.com.lb/article/111257/",
+    "title": "Israeli light attack drone drops stun grenade towards Byout Al-Seyyad village: Al-Manar reporter in southern Lebanon - Al-Manar TV Lebanon",
+    "published": "2026-08-03T06:46:47+00:00"
+  },
+  "00f1c55c978a1b9fc52427bd835cac50aade09e566653325f35c47daa163f5e9": {
+    "url": "https://english.almanar.com.lb/article/111222/",
+    "title": "US Senator Mark Kelly: Donald Trump is facing a deadlock and impasse in his dealings with Iran - Al-Manar TV Lebanon",
+    "published": "2026-08-03T06:39:12+00:00"
+  },
+  "9ef237bd692393cf9a913e0ddd09adebe65a62d1c417cbeef0d8658b03dda082": {
+    "url": "https://tass.com/emergencies/2168245",
+    "title": "Drone strike causes fire at logistics facility in Russia\u2019s Vladimir Region",
+    "published": "2026-08-03T05:38:20+00:00"
+  },
   "e08be6cd549f0816e4619b4aa11d784f89cd280e4f427cbbc3b6fe871249e30a": {
     "url": "intelslava/91935",
     "title": "Washington State Wildfires Wreak Havoc, Destroy Hundreds of Structures",
@@ -253,6 +298,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
     "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
     "published": "2026-08-02T14:11:54+00:00"
+  },
+  "87df356e563a59fec82d9f7ed48efff2b6cfbca5e40b704f637f2f1f41b588a0": {
+    "url": "https://www.tehrantimes.com/news/528795/Shiraz-historical-district-restoration-should-rely-on-AI-future",
+    "title": "'Shiraz historical district restoration should rely on AI, future studies'",
+    "published": "2026-08-02T13:59:58+00:00"
   },
   "0a7a4a7af0369d42286f7bb5e9aea9463d7e01684ad2a874e90afb1660b517ee": {
     "url": "https://tass.com/emergencies/2168145",
@@ -698,55 +748,5 @@
     "url": "CensoredMen/230",
     "title": "IRGC Strike Targets U.S. Installation near Aqaba, Jordan",
     "published": "2026-08-01T15:10:29.999166+00:00"
-  },
-  "b59237bb427562aba0f1840f75bea3876fdd2084845a2efe5c5b7aca006efe22": {
-    "url": "QudsNen/233674",
-    "title": "Israeli Settlement Outpost Established on Seized Palestinian Land in West Bank",
-    "published": "2026-08-01T15:10:11.192954+00:00"
-  },
-  "b658b0bced149ae386db16b93119f2e0d9067970b4dd9facd8cfb54b4b3b138e": {
-    "url": "QudsNen/233676",
-    "title": "Drone Strike Near Al-Zeitoun Sports Club, Gaza City",
-    "published": "2026-08-01T15:08:43.111014+00:00"
-  },
-  "9a916e80a7d653b721a49814008bc0d8e6124b24f56b60c55fe9524924942add": {
-    "url": "thecradlemedia/65437",
-    "title": "Columbia Student Workers Union Abandons Israel Divestment Demands",
-    "published": "2026-08-01T15:07:46.073035+00:00"
-  },
-  "0e6d851bfd8bf44b6bb20fbb88b738a6420350c04c11a23c6294faa1b9c4b98a": {
-    "url": "thecradlemedia/65442",
-    "title": "US General Warns of Israel Defence Prioritization Over Homeland Security",
-    "published": "2026-08-01T15:04:39.946016+00:00"
-  },
-  "d187b2d4c2d7313d435f14e483c91287af0eafa0525a911206fda25499cc46e2": {
-    "url": "https://www.rt.com/news/643665-germany-afd-voter-suppression/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Germany has reached a new low in election rigging",
-    "published": "2026-08-01T15:00:02+00:00"
-  },
-  "45dd4aeb15d4378ee231297c8e4f825dca4173dc674481c088a5199b7c9ce872": {
-    "url": "militarywave/24603",
-    "title": "Indonesian Youth Invited to International Festival in Yekaterinburg",
-    "published": "2026-08-01T13:33:59.833758+00:00"
-  },
-  "ff7f2cf9bc134cfda3119d99f5bb9989d941a1bb903bba8f2d3cc71684847ebf": {
-    "url": "DDGeopolitics/190477",
-    "title": "Drone Strike Hits Arkadia District in Odessa, Ukraine",
-    "published": "2026-08-01T13:32:57.022611+00:00"
-  },
-  "fab5747f0b60bb0e81cc79203750a10599a8f40febdb28a92f186ff2be18d8a8": {
-    "url": "Middle_East_Spectator/35673",
-    "title": "US Military Aircraft Sighted in Iraqi Kurdistan Ahead of Iran Escalation",
-    "published": "2026-08-01T13:31:22.884975+00:00"
-  },
-  "cb825bb246844fe1efc17d08c966901406aa8eb70a7997dced8021de1b44e089": {
-    "url": "thecradlemedia/65426",
-    "title": "US Embassy Warns Citizens in Jerusalem Amid Escalation Fears",
-    "published": "2026-08-01T13:30:33.932496+00:00"
-  },
-  "31493513f625199a4b0d814076b3ed0338010df938d46bbea642ef7a65ddb551": {
-    "url": "thecradlemedia/65429",
-    "title": "Israeli Settler Advocates for Retaliation Against Palestinian Villagers",
-    "published": "2026-08-01T13:30:32.481998+00:00"
   }
 }

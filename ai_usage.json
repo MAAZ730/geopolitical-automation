@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5491,
+  "total_calls": 5495,
   "tiers": {
-    "groq": 5472,
+    "groq": 5476,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-07-31T14:13:52.119712+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s Africa Corps killed Mali civilians in air strike: HRW"
-    },
-    {
-      "timestamp": "2026-07-31T14:14:32.312455+00:00",
-      "tier": "groq",
-      "article": "SpaceX turns head as Ukraine uses Starlink for strikes against Russia \u2014 expert"
-    },
-    {
-      "timestamp": "2026-07-31T14:14:51.654161+00:00",
-      "tier": "groq",
-      "article": "Ukrainian strikes on Zaporozhye nuke plant pose risk of radioactive contamination \u2014 expert"
-    },
-    {
-      "timestamp": "2026-07-31T14:15:11.384940+00:00",
-      "tier": "groq",
-      "article": "Palestine Action founder to fight terror ban"
-    },
     {
       "timestamp": "2026-07-31T17:42:05.014478+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-03T03:19:28.615856+00:00",
       "tier": "groq",
       "article": "Neither threat nor attack will force Iran to retreat or surrender"
+    },
+    {
+      "timestamp": "2026-08-03T07:31:44.994069+00:00",
+      "tier": "groq",
+      "article": "Drone strike causes fire at logistics facility in Russia\u2019s Vladimir Region"
+    },
+    {
+      "timestamp": "2026-08-03T07:32:16.767171+00:00",
+      "tier": "groq",
+      "article": "US Senator Mark Kelly: Donald Trump is facing a deadlock and impasse in his dealings with Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-03T07:33:04.925927+00:00",
+      "tier": "groq",
+      "article": "'Shiraz historical district restoration should rely on AI, future studies'"
+    },
+    {
+      "timestamp": "2026-08-03T07:33:23.650326+00:00",
+      "tier": "groq",
+      "article": "Israeli light attack drone drops stun grenade towards Byout Al-Seyyad village: Al-Manar reporter in southern Lebanon - Al-Manar TV Lebanon"
     }
   ]
 }
