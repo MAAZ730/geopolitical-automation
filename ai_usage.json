@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5543,
+  "total_calls": 5547,
   "tiers": {
-    "groq": 5524,
+    "groq": 5528,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-01T22:58:50.483812+00:00",
-      "tier": "groq",
-      "article": "Humanitarian aid from Russian company delivered to Venezuela\u2019s La Guaira state"
-    },
-    {
-      "timestamp": "2026-08-01T22:59:31.258204+00:00",
-      "tier": "groq",
-      "article": "Iran warns of escalation in Hormuz standoff, vows retaliation against any new US-led attack"
-    },
-    {
-      "timestamp": "2026-08-01T22:59:50.271216+00:00",
-      "tier": "groq",
-      "article": "Space, intelligence, defense economy key to Iran\u2019s future military strategy: Acting defense minister"
-    },
-    {
-      "timestamp": "2026-08-01T23:00:06.954797+00:00",
-      "tier": "groq",
-      "article": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating"
-    },
     {
       "timestamp": "2026-08-02T03:15:42.466124+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-04T19:42:31.852657+00:00",
       "tier": "groq",
       "article": "Senior Russian diplomat outlines conditions for Ukraine talks"
+    },
+    {
+      "timestamp": "2026-08-04T21:16:31.256391+00:00",
+      "tier": "groq",
+      "article": "Khwarizmi Youth Festival extends registration deadline"
+    },
+    {
+      "timestamp": "2026-08-04T21:17:10.760873+00:00",
+      "tier": "groq",
+      "article": "Argentina grain exports halt as maritime pilots strike over Milei decree"
+    },
+    {
+      "timestamp": "2026-08-04T21:17:27.265348+00:00",
+      "tier": "groq",
+      "article": "Families bury 112 recovered three years after Israeli strikes on Gaza"
+    },
+    {
+      "timestamp": "2026-08-04T21:18:06.977201+00:00",
+      "tier": "groq",
+      "article": "Over 80% of power plants destroyed in Ukraine \u2014 official"
     }
   ]
 }

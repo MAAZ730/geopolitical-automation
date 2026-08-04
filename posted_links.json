@@ -1,4 +1,39 @@
 {
+  "85c048de6dc9cdb4cb1ff5baef0083c5b2b36dcac5128869212144f4650e5255": {
+    "url": "Slavyangrad/172096",
+    "title": "Russia-Ukraine Conflict: Chernihiv Oblast Invasion Fears",
+    "published": "2026-08-04T21:21:52.714344+00:00"
+  },
+  "b900400f5e20a25723c35fa5d094322c070cf554d29c37d823e72db384bceab1": {
+    "url": "Slavyangrad/172101",
+    "title": "Russian Forces Strike Logistics Facility in Ukraine's Sumy Region",
+    "published": "2026-08-04T21:20:21.680194+00:00"
+  },
+  "83c93772c2c9f119e7f06a91bf064a283dc2870c0f7be2d0176ba01a91b96253": {
+    "url": "Slavyangrad/172103",
+    "title": "Russian Drone Strikes Disable Power to Ukraine's Defence Industry Facilities",
+    "published": "2026-08-04T21:19:42.421244+00:00"
+  },
+  "5988cf66ba7fc9b1d7d2b73b3568a6678c3887135aa06cce3793e7b1ee0b346e": {
+    "url": "presstv/201621",
+    "title": "China Deploys H-6N Bomber with JL-1 Nuclear-Capable Missile",
+    "published": "2026-08-04T21:18:35.868794+00:00"
+  },
+  "c94869072bde8a69a7bd3946d485b8fbd48f86091e04994201b79e15e039f273": {
+    "url": "Middle_East_Spectator/35726",
+    "title": "US Depletes THAAD and Patriot Missile Stockpiles Amid Ongoing Iran Conflict",
+    "published": "2026-08-04T21:18:20.536801+00:00"
+  },
+  "64dd0fe2a9e1dacada02a02a8f9dc026fb8c12e75ea749ef1f6dcb5d4ac35c96": {
+    "url": "thecradlemedia/65578",
+    "title": "Yemen Drone Attack Targets Saudi Arabia's Najran Airport",
+    "published": "2026-08-04T21:18:16.002642+00:00"
+  },
+  "f27863e13f607bc494fe5a8b59a8674d25bfa534f1e5413091234d92e283bfb8": {
+    "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
+    "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
+    "published": "2026-08-04T20:20:11+00:00"
+  },
   "6b59ec2d9c3855f07d6c21658a5bda99931dba29be9ab45963034a0527e52084": {
     "url": "intelslava/92031",
     "title": "Iranian Kheibar Shekan MRBM Destroyed in Northwestern Iran",
@@ -64,6 +99,11 @@
     "title": "The West won the headlines - Iran changed history",
     "published": "2026-08-04T17:39:29+00:00"
   },
+  "28f8c92c65c891a4f926fc87ac73f4b3d92715f82ef91d05a5388beb70160976": {
+    "url": "https://www.tehrantimes.com/news/528847/Families-bury-112-recovered-three-years-after-Israeli-strikes",
+    "title": "Families bury 112 recovered three years after Israeli strikes on Gaza",
+    "published": "2026-08-04T17:35:57+00:00"
+  },
   "f68d1dd3f4b9320b3bc8780d5745bff654fa927acfc069402b0f623f7da4c75c": {
     "url": "warmonitors/45200",
     "title": "Russian Drone Strikes Ukrainian Civilian in Kherson City",
@@ -114,6 +154,11 @@
     "title": "Majority of Israelis Cast Doubt on Results of New Iran Attack: Poll - Al-Manar TV Lebanon",
     "published": "2026-08-04T12:04:24+00:00"
   },
+  "e9340c0af0c54e0bc56fc240cc7c5f44e704d3a2e87febf245ffd71819615826": {
+    "url": "https://www.tehrantimes.com/news/528821/Khwarizmi-Youth-Festival-extends-registration-deadline",
+    "title": "Khwarizmi Youth Festival extends registration deadline",
+    "published": "2026-08-04T11:41:39+00:00"
+  },
   "5d77dd64292c8f2032c8bdf7ed1d3f324b3b9743ac72a708d5aca5d193b78fb1": {
     "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
     "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
@@ -158,6 +203,11 @@
     "url": "https://tass.com/politics/2168741",
     "title": "Russian troops strike auto equipment plant, military cargo ships, port terminal in Ukraine",
     "published": "2026-08-04T09:34:02+00:00"
+  },
+  "5db05d6abd3267bf978abc5ee41233b4595d9da8ddc9d702c22a08cd0d2d11bf": {
+    "url": "https://tass.com/world/2168723",
+    "title": "Over 80% of power plants destroyed in Ukraine \u2014 official",
+    "published": "2026-08-04T08:44:38+00:00"
   },
   "15745f6b1a7fa434fecb61e40e44683d47687d8b4b447e6a59c59b0a60e5a632": {
     "url": "https://tass.com/politics/2168711",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/2/sudan-army-drone-attack-on-darfur-kills-35-rights-group-says?traffic_source=rss",
     "title": "Sudan army drone attack on Darfur kills 35, rights group says",
     "published": "2026-08-02T22:51:09+00:00"
-  },
-  "5bbad7f5a46ca5615dd311270c947689dfa7ac6a23d1fe744440fc389e2ca038": {
-    "url": "Slavyangrad/171866",
-    "title": "Ukraine Lacks Ballistic Missile Defense, Kuleba Warns Citizens",
-    "published": "2026-08-02T21:05:47.242575+00:00"
-  },
-  "c60ba2c4688e8345efe13c4a83ea0225a0af0bcf5860a53bc788942397b08d0d": {
-    "url": "intelslava/91922",
-    "title": "Ukraine: Chemical Leak Contained After Strike on Poltava Oblast Gas Facility",
-    "published": "2026-08-02T21:04:04.893519+00:00"
-  },
-  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
-    "url": "CensoredMen/232",
-    "title": "Trump Dismisses Public Backlash Over US Involvement in Iran Conflict",
-    "published": "2026-08-02T21:03:05.769083+00:00"
-  },
-  "a218ba91f133de4bd357137d9cce57c3a6208dc20cd754b82d4c9070938e1faf": {
-    "url": "QudsNen/233835",
-    "title": "Israel's Finance Minister Advocates for Blocking Humanitarian Aid to Gaza During COVID-19 Pandemic",
-    "published": "2026-08-02T21:01:30.440327+00:00"
-  },
-  "0f483a683083a751e4154cd434e4218bf7284b8eb673e299213fb445d5fee812": {
-    "url": "QudsNen/233836",
-    "title": "Gaza Strip Airstrikes Escalate as Ceasefire Understandings Ignored",
-    "published": "2026-08-02T21:01:29.394085+00:00"
-  },
-  "1b1a4b4ac6c22fd88366d073733507a281c52c6e4aff9f604e799fd9691283f6": {
-    "url": "QudsNen/233841",
-    "title": "Israeli Military Operation in Al-Zaytoun Neighborhood",
-    "published": "2026-08-02T21:01:27.512188+00:00"
-  },
-  "dbcb2384ed4c024fb98ea4af4e53781bec1975108e8222d02f86cc8e58837e85": {
-    "url": "https://tass.com/world/2168201",
-    "title": "Israeli court bans use of crocodiles to secure prisons with terrorists",
-    "published": "2026-08-02T20:13:21+00:00"
-  },
-  "512407f90b5c94ac20b511072d48623310a739323b605859da19d89816c96908": {
-    "url": "mod_russia_en/28663",
-    "title": "Ukraine Conflict: Drone Strike on Petrol Station in Kramatorsk",
-    "published": "2026-08-02T19:21:46.981059+00:00"
-  },
-  "dc988a3d6604357aa5344683c9d0e1e9a53660045dbc462d47737d96b68e1287": {
-    "url": "infantmilitario/192664",
-    "title": "US F-35C Fighter Jet Deploys from USS Abraham Lincoln in Arabian Sea Blockade",
-    "published": "2026-08-02T19:21:21.846476+00:00"
-  },
-  "fdb1c934abb57dd42ebecd79365c2e147c3b16d6e536c2222a0c67b26eea80b4": {
-    "url": "Slavyangrad/171847",
-    "title": "France Unveils Naval Autonomous Reconnaissance System",
-    "published": "2026-08-02T19:20:43.930692+00:00"
   }
 }
