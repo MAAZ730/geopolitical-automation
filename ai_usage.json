@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5547,
+  "total_calls": 5551,
   "tiers": {
-    "groq": 5528,
+    "groq": 5532,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T03:15:42.466124+00:00",
-      "tier": "groq",
-      "article": "The illusion of besieging Iran; How realistic it could be?"
-    },
-    {
-      "timestamp": "2026-08-02T03:16:22.553492+00:00",
-      "tier": "groq",
-      "article": "Ghalibaf: US Will \u2018Pay the Price\u2019 for Killing Civilians on Iran\u2019s Qeshm Island - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T03:16:41.284900+00:00",
-      "tier": "groq",
-      "article": "Araghchi warns UK against aiding aggressors"
-    },
-    {
-      "timestamp": "2026-08-02T03:17:19.322123+00:00",
-      "tier": "groq",
-      "article": "US lawmakers demand exit from Iran war as strategic costs mount"
-    },
     {
       "timestamp": "2026-08-02T06:35:57.758838+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-04T21:18:06.977201+00:00",
       "tier": "groq",
       "article": "Over 80% of power plants destroyed in Ukraine \u2014 official"
+    },
+    {
+      "timestamp": "2026-08-04T23:06:45.947448+00:00",
+      "tier": "groq",
+      "article": "Houthis claim strike on airport in southwestern Saudi Arabia"
+    },
+    {
+      "timestamp": "2026-08-04T23:07:20.674377+00:00",
+      "tier": "groq",
+      "article": "US officials skeptical of prospects for Iran nuclear deal \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-04T23:08:13.478556+00:00",
+      "tier": "groq",
+      "article": "\u2018Maximum use\u2019: Iran boosts military strength during ceasefire with US"
+    },
+    {
+      "timestamp": "2026-08-04T23:08:30.053032+00:00",
+      "tier": "groq",
+      "article": "FSB detains Ukrainian sympathizer who organized drone production, assembly in Crimea"
     }
   ]
 }
