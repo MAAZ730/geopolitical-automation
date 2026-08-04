@@ -1,4 +1,49 @@
 {
+  "f68d1dd3f4b9320b3bc8780d5745bff654fa927acfc069402b0f623f7da4c75c": {
+    "url": "warmonitors/45200",
+    "title": "Russian Drone Strikes Ukrainian Civilian in Kherson City",
+    "published": "2026-08-04T14:29:36.358381+00:00"
+  },
+  "bd3382724196c8a22a4e1450cf758079eaf596149dfa1d1b4affb8792fb5a8e1": {
+    "url": "DDGeopolitics/190649",
+    "title": "Migrant Influx Continues in Ceuta",
+    "published": "2026-08-04T14:28:16.067474+00:00"
+  },
+  "2165f44d4e6498427e384fdc322f46ea8775358ad77f31855ce691c82866ec4a": {
+    "url": "thecradlemedia/65555",
+    "title": "Israeli Forces' Gaza Operation Claims Dozens of Civilian Lives",
+    "published": "2026-08-04T14:26:18.407355+00:00"
+  },
+  "1874861f49ca47362e902afeb6fb87ed8133556bdb3c7b12c0a7ec3e8e329de1": {
+    "url": "thecradlemedia/65568",
+    "title": "Israeli Tanks Advance Near Haddatha, Lebanon",
+    "published": "2026-08-04T14:25:20.147257+00:00"
+  },
+  "6ed5b612690b8031efeab0e2798fb826b0761a79860b45972e99e77e37784965": {
+    "url": "thecradlemedia/65569",
+    "title": "Israeli Tanks Advance Near Haddatha, Lebanon",
+    "published": "2026-08-04T14:25:18.090059+00:00"
+  },
+  "55f4efd10720bea3e8141874912cfa59a217d8230d532f5776f292ce687a1f25": {
+    "url": "thecradlemedia/65573",
+    "title": "Israeli Forces Launch Operation in Mansouri, Lebanon",
+    "published": "2026-08-04T14:24:16.995962+00:00"
+  },
+  "e8f4dca9f84594b7c1843cdc591882dca0babcc1daafe10b8f4d8f9b8190f75b": {
+    "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+    "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+    "published": "2026-08-04T13:59:24+00:00"
+  },
+  "3bda7ab521878cd394774555d7aa04d8cc1b5f18a7b7f704d833c03ab68a3338": {
+    "url": "https://thecradle.co/articles-id/39195",
+    "title": "Washington burned through &#039;virtually all&#039; long-range missiles to strike Iran: Report",
+    "published": "2026-08-04T12:32:11+00:00"
+  },
+  "5d77dd64292c8f2032c8bdf7ed1d3f324b3b9743ac72a708d5aca5d193b78fb1": {
+    "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+    "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+    "published": "2026-08-04T11:26:28+00:00"
+  },
   "388583e1d07d8e7ef46564cb42b1ed70eb9cd185939d199a3a3be6a765c4f7d2": {
     "url": "DDGeopolitics/190635",
     "title": "Russia Targets Ukrainian Military Supplies in Black Sea Drone Strike",
@@ -213,6 +258,11 @@
     "url": "thecradlemedia/65516",
     "title": "Israeli Drone Strike Hits Ali al-Taher Hill in South Lebanon",
     "published": "2026-08-03T19:43:41.332684+00:00"
+  },
+  "33bd81e489fba2b95d758c440e84bc095f104ed0de99dafbd692a8ba136ad78e": {
+    "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+    "published": "2026-08-03T19:42:55+00:00"
   },
   "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
     "url": "CensoredMen/229",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
     "title": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war",
     "published": "2026-08-02T16:10:32+00:00"
-  },
-  "fd72a09d2ebd9556123061bc4c7a0ad56fe4ad640e7f28bf671590e5692f66bd": {
-    "url": "https://english.almanar.com.lb/article/111147/",
-    "title": "Lebanese Soldiers Injured in Suspicious Blast During Civilian Escort in South Lebanon - Al-Manar TV Lebanon",
-    "published": "2026-08-02T15:54:12+00:00"
-  },
-  "cfbe83c47181c559a51ff8c7a8a1a9286b961370e52a135823e7b75ada2708cc": {
-    "url": "QudsNen/233792",
-    "title": "Settlers Expand Outpost in Occupied West Bank",
-    "published": "2026-08-02T15:11:16.981143+00:00"
-  },
-  "4c6b3e595042f3d9becad84d5ca5835529ed149ba112aa1307374551bd46e4d3": {
-    "url": "QudsNen/233793",
-    "title": "Palestinian Protester Breaks Down During Berlin Solidarity Rally",
-    "published": "2026-08-02T15:09:18.006711+00:00"
-  },
-  "a0ec0a773e8dc20f88a151c6d43027df5bddd51df8be49874ca615e570d68b6f": {
-    "url": "QudsNen/233794",
-    "title": "Israeli Drone Strike Hits Gaza City's Tal Al-Hawa Neighbourhood",
-    "published": "2026-08-02T15:08:21.118456+00:00"
-  },
-  "b371f3215fc7f118a4010dc8be92d2366e98435a9a3c247d9f9d20704091b326": {
-    "url": "thecradlemedia/65463",
-    "title": "Israeli Airstrikes in Gaza Continue Amid Disarmament Deal Talks",
-    "published": "2026-08-02T15:07:57.715066+00:00"
-  },
-  "196ff1ab4b76de8655674ea68e08765f296015c084e7ef14661c6c2759af2633": {
-    "url": "thecradlemedia/65464",
-    "title": "Gaza City Drone Strike Targets Palestinians Near Al-Nour Mosque",
-    "published": "2026-08-02T15:07:56.430360+00:00"
-  },
-  "aa0690f463875ff41ec51165cb7f0bfcfdcb39a2b62c1679b02ed7cc78a7fd4d": {
-    "url": "thecradlemedia/65465",
-    "title": "Turkey Seeks Enhanced Role in Post-Conflict South Lebanon",
-    "published": "2026-08-02T15:07:17.851929+00:00"
-  },
-  "6ce9d1acb68192314e9f618ee2ff63403ebb2d66215540723f8020ee95a792e0": {
-    "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-    "title": "At least eight killed in Gaza after Hamas agree disarmament deal ",
-    "published": "2026-08-02T15:02:56+00:00"
-  },
-  "29077c19e315ae9c1b354d12a99e64e3b5b27376a8e9a244cd1e7fdc6a8a17a3": {
-    "url": "https://tass.com/world/2168151",
-    "title": "Israel eliminates three radicals in Gaza Strip \u2014 IDF",
-    "published": "2026-08-02T14:50:02+00:00"
-  },
-  "0a876d8269423c496e0d4e3d03e15221b1892450ed3d654161a4e6dc5a6c7f88": {
-    "url": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
-    "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-    "published": "2026-08-02T14:11:54+00:00"
   }
 }
