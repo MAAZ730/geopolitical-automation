@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5535,
+  "total_calls": 5539,
   "tiers": {
-    "groq": 5516,
+    "groq": 5520,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-01T19:12:46.420139+00:00",
-      "tier": "groq",
-      "article": "At least 9 people killed in Russian missile attacks on Kyiv"
-    },
-    {
-      "timestamp": "2026-08-01T19:13:02.741018+00:00",
-      "tier": "groq",
-      "article": "America was caught off guard"
-    },
-    {
-      "timestamp": "2026-08-01T19:13:32.369510+00:00",
-      "tier": "groq",
-      "article": "Strikes on Iran infrastructure to lead to US hegemony fall"
-    },
-    {
-      "timestamp": "2026-08-01T19:14:19.189775+00:00",
-      "tier": "groq",
-      "article": "Polish foreign ministry presents note of protest to Russian ambassador"
-    },
     {
       "timestamp": "2026-08-01T20:57:25.341672+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-04T14:24:07.430850+00:00",
       "tier": "groq",
       "article": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume"
+    },
+    {
+      "timestamp": "2026-08-04T17:51:19.628205+00:00",
+      "tier": "groq",
+      "article": "11 killed, injured in drone attack on Moscow Region"
+    },
+    {
+      "timestamp": "2026-08-04T17:51:54.242549+00:00",
+      "tier": "groq",
+      "article": "Majority of Israelis Cast Doubt on Results of New Iran Attack: Poll - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-04T17:52:13.228686+00:00",
+      "tier": "groq",
+      "article": "The West won the headlines - Iran changed history"
+    },
+    {
+      "timestamp": "2026-08-04T17:52:31.497196+00:00",
+      "tier": "groq",
+      "article": "'Digital lifeline' - Gaza tech workers give glimpse of possible future"
     }
   ]
 }
