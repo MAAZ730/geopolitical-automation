@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5527,
+  "total_calls": 5531,
   "tiers": {
-    "groq": 5508,
+    "groq": 5512,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-01T15:03:19.719115+00:00",
-      "tier": "groq",
-      "article": "Qatar claims it has no information on fate of Iranian pilots"
-    },
-    {
-      "timestamp": "2026-08-01T15:03:54.010289+00:00",
-      "tier": "groq",
-      "article": "Iranian drones attack government facility in northern Kuwait \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-08-01T15:04:12.413255+00:00",
-      "tier": "groq",
-      "article": "Kiev intensifies attacks on civilians, killing 61 Russians over past week \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-08-01T15:04:30.617165+00:00",
-      "tier": "groq",
-      "article": "What's in the Gaza peace deal roadmap?"
-    },
     {
       "timestamp": "2026-08-01T17:03:38.436962+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-04T06:31:47.932048+00:00",
       "tier": "groq",
       "article": "Iran not currently negotiating with US: FM spox"
+    },
+    {
+      "timestamp": "2026-08-04T10:42:37.762604+00:00",
+      "tier": "groq",
+      "article": "Killed and injured in Moscow Region, 320 downed UAVs: aftermath of drone attacks on Russia"
+    },
+    {
+      "timestamp": "2026-08-04T10:43:16.061785+00:00",
+      "tier": "groq",
+      "article": "Pantsir missile and gun system effectively destroys long-rage strike drones \u2014 publication"
+    },
+    {
+      "timestamp": "2026-08-04T10:44:03.748621+00:00",
+      "tier": "groq",
+      "article": "Ukrainian troops hunting down Russian civilian buses, attacking over 30 this summer \u2014 MFA"
+    },
+    {
+      "timestamp": "2026-08-04T10:44:22.093572+00:00",
+      "tier": "groq",
+      "article": "Has T\u00fcrkiye\u2019s F-35 dream crashed for good?"
     }
   ]
 }
