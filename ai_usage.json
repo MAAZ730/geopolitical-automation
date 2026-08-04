@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5523,
+  "total_calls": 5527,
   "tiers": {
-    "groq": 5504,
+    "groq": 5508,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-01T13:27:38.820340+00:00",
-      "tier": "groq",
-      "article": "Gaza: Three Palestinians Martyred in Ongoing Israeli Attacks - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-01T13:28:20.093812+00:00",
-      "tier": "groq",
-      "article": "Iran warns against \u2018flames of war\u2019 amid US strike threats on energy sites"
-    },
-    {
-      "timestamp": "2026-08-01T13:28:36.273228+00:00",
-      "tier": "groq",
-      "article": "Eight Palestinians killed in Gaza; death toll nears 73,350"
-    },
-    {
-      "timestamp": "2026-08-01T13:29:15.726856+00:00",
-      "tier": "groq",
-      "article": "West to produce weapons for Ukraine in neighboring NATO countries \u2014 expert"
-    },
     {
       "timestamp": "2026-08-01T15:03:19.719115+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-04T02:48:54.328126+00:00",
       "tier": "groq",
       "article": "Tehran denies Trump&#039;s claims of &#039;new talks,&#039; says Hormuz discussions &#039;with Oman only\u2019"
+    },
+    {
+      "timestamp": "2026-08-04T06:30:50.753386+00:00",
+      "tier": "groq",
+      "article": "Moscow claims 14 killed, 59 injured in Ukrainian drone attack"
+    },
+    {
+      "timestamp": "2026-08-04T06:31:10.614340+00:00",
+      "tier": "groq",
+      "article": "Seventeen UAVs shot down over Leningrad Region, one person injured"
+    },
+    {
+      "timestamp": "2026-08-04T06:31:29.872112+00:00",
+      "tier": "groq",
+      "article": "Drone attack on Moscow Region kills five, leaves six people injured"
+    },
+    {
+      "timestamp": "2026-08-04T06:31:47.932048+00:00",
+      "tier": "groq",
+      "article": "Iran not currently negotiating with US: FM spox"
     }
   ]
 }
