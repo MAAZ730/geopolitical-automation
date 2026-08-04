@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5539,
+  "total_calls": 5543,
   "tiers": {
-    "groq": 5520,
+    "groq": 5524,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-01T20:57:25.341672+00:00",
-      "tier": "groq",
-      "article": "Iran's strikes undermined Israel's long-standing military superiority: John Helmer"
-    },
-    {
-      "timestamp": "2026-08-01T20:57:44.128149+00:00",
-      "tier": "groq",
-      "article": "Crushing retaliation against US aggression: Iran seeks the fate of three heroic aviators"
-    },
-    {
-      "timestamp": "2026-08-01T20:58:03.458120+00:00",
-      "tier": "groq",
-      "article": "Pentagon seeks $18.2 bln to replenish interceptor missile stocks \u2014 agency"
-    },
-    {
-      "timestamp": "2026-08-01T20:58:25.978632+00:00",
-      "tier": "groq",
-      "article": "US redirects 30 vessels amid Iran naval blockade \u2014 CENTCOM"
-    },
     {
       "timestamp": "2026-08-01T22:58:50.483812+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-04T17:52:31.497196+00:00",
       "tier": "groq",
       "article": "'Digital lifeline' - Gaza tech workers give glimpse of possible future"
+    },
+    {
+      "timestamp": "2026-08-04T19:41:17.730127+00:00",
+      "tier": "groq",
+      "article": "Yemeni Drone Attack Strikes Sensitive Saudi Target in Najran: Spokesman - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-04T19:41:56.994868+00:00",
+      "tier": "groq",
+      "article": "Russian troops strike auto equipment plant, military cargo ships, port terminal in Ukraine"
+    },
+    {
+      "timestamp": "2026-08-04T19:42:15.605862+00:00",
+      "tier": "groq",
+      "article": "US used \u2018virtually all\u2019 long-range precision missiles during Iran war, sources say"
+    },
+    {
+      "timestamp": "2026-08-04T19:42:31.852657+00:00",
+      "tier": "groq",
+      "article": "Senior Russian diplomat outlines conditions for Ukraine talks"
     }
   ]
 }
