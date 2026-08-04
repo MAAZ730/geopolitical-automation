@@ -1,4 +1,39 @@
 {
+  "68198997a6cde2e3f963a5c73a9e9728aaf37c480b80d979314104a0a0fd0261": {
+    "url": "BellumActaNews/176130",
+    "title": "US F-35Cs Launch from USS Abraham Lincoln in Arabian Sea Blockade",
+    "published": "2026-08-04T02:50:45.875886+00:00"
+  },
+  "09c45afa5a460f19ba07596b55887472fab36b485c97581c6503b70828e24de5": {
+    "url": "BellumActaNews/176132",
+    "title": "Explosions Rock Northern Kuwait Ahead of Planned Military Exercise",
+    "published": "2026-08-04T02:50:01.928642+00:00"
+  },
+  "c7ec47c48a5995229ba71b87ccbd368c4efd8ebdc1a836724ed43ddea4771bd8": {
+    "url": "QudsNen/233995",
+    "title": "Israeli Forces Storm Homes in Al-Fawwar Refugee Camp",
+    "published": "2026-08-04T02:49:53.196128+00:00"
+  },
+  "6a176d6f1914384ab16266750c7148d75760269ba7375a36948c90dea2b9d0a3": {
+    "url": "QudsNen/234008",
+    "title": "Gaza Rubble Removal Sparks Fears of War Crimes Evidence Destruction",
+    "published": "2026-08-04T02:49:22.009358+00:00"
+  },
+  "9a7fd5519fccda09718e8f3e240d4d5dba999543fecaad9dad2244b84fd359d6": {
+    "url": "Middle_East_Spectator/35709",
+    "title": "Drone Strike Hits Kuwait, Investigation Underway",
+    "published": "2026-08-04T02:49:17.679254+00:00"
+  },
+  "ef761482bb10cd652f53a4ba5a17963862f81e3e9a9775506d7c167f40855632": {
+    "url": "Middle_East_Spectator/35712",
+    "title": "Iran-Backed Drones Strike Iraqi Kurdistan Targets",
+    "published": "2026-08-04T02:49:00.048490+00:00"
+  },
+  "d5e7d816cfff49b9166dbc25256c13128b2793efda044b90fd5266f13046b2c3": {
+    "url": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
+    "title": "Death toll from Venezuela earthquakes passes 6,000",
+    "published": "2026-08-03T23:20:37+00:00"
+  },
   "6d1d4dacd6f5b59830cecec348939f003e73fff31598cbb307889b5922016565": {
     "url": "warmonitors/45187",
     "title": "Iranian Drone Strikes Separatist Base in Sulaymaniyah, Iraq",
@@ -139,10 +174,20 @@
     "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
     "published": "2026-08-03T15:59:37+00:00"
   },
+  "e801921c8ce524da5b659c8f8b21c20f3de9b609c34c4b36297bbd056f159ecd": {
+    "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+    "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    "published": "2026-08-03T15:57:27+00:00"
+  },
   "03e4de70dc5a7f491de3b9b9fedf3b1a1fb5a27beee5cfe2b6da53ca42262da3": {
     "url": "https://www.aljazeera.com/news/2026/8/3/tigray-refugees-flee-into-sudan-after-deadly-violence-on-ethiopia-border?traffic_source=rss",
     "title": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border",
     "published": "2026-08-03T15:19:32+00:00"
+  },
+  "102db5c2a19b8c0cee9563d9f0f3637f70933bcb22ec81724461b6b39d886ee0": {
+    "url": "https://thecradle.co/articles-id/39175",
+    "title": "Tehran denies Trump&#039;s claims of &#039;new talks,&#039; says Hormuz discussions &#039;with Oman only\u2019",
+    "published": "2026-08-03T15:00:00+00:00"
   },
   "875cbd24999783c7da741eb71911ab4db76b5ce7c6e9f2910f380f015585ad38": {
     "url": "presstv/201421",
@@ -313,6 +358,11 @@
     "url": "https://tass.com/emergencies/2168245",
     "title": "Drone strike causes fire at logistics facility in Russia\u2019s Vladimir Region",
     "published": "2026-08-03T05:38:20+00:00"
+  },
+  "1d75bb174cc675105bca6989773863798688b07b762a394731aa2dac168f0ff3": {
+    "url": "https://www.rt.com/news/643787-bourbon-virus-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Rare Bourbon virus with no cure detected in New York",
+    "published": "2026-08-03T03:57:55+00:00"
   },
   "a3b1e2db39b8d2f293bb30b4fbbc10b50ffb4ff94ac87d81e6907e5d1e1aa6c5": {
     "url": "https://en.mehrnews.com/news/246722/Ship-traffic-drops-sharply-at-Bab-el-Mandeb",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/defense/2168123",
     "title": "Russian troops strike Ukrainian army\u2019s transport, energy sites over past day \u2014 top brass",
     "published": "2026-08-02T11:09:11+00:00"
-  },
-  "3a6b949b009cac15a904f24bddf726e11f3f39ae4cee25511978473a4a6b97c0": {
-    "url": "https://english.almanar.com.lb/article/111087/",
-    "title": "Gaza: \u2018Israel\u2019 Launches an airstrike targeting west of Khan Yunis",
-    "published": "2026-08-02T11:07:41+00:00"
-  },
-  "cc81bc748ffb6227bd1fc2c02c00278cc1c1f7b6995b74a5e4d8dce9acf798d9": {
-    "url": "intelslava/91892",
-    "title": "Moscow Restaurant Explosion Leaves One Dead and Dozens Injured",
-    "published": "2026-08-02T10:07:16.641118+00:00"
-  },
-  "7a11d0f7779ca7e4b4dbe6283af168ec57611049cccd0bb08f1c2457a0423c05": {
-    "url": "intelslava/91903",
-    "title": "Russia's Saratov Oil Refinery Hit in Ukrainian Drone Attack",
-    "published": "2026-08-02T10:06:37.965647+00:00"
-  },
-  "d522757317de09515aa0544e0553ec61240b5b1c0fe3acb9fcefac47d8b4f3c7": {
-    "url": "https://english.almanar.com.lb/article/111062/",
-    "title": "Occupation Escalates Southern Lebanon Onslaught: Bombardment Rocks Taybeh, Warplanes Strike Mansouri and Ali Taher - Al-Manar TV Lebanon",
-    "published": "2026-08-02T10:06:34+00:00"
-  },
-  "63d1b07f79d1f2cc1c67f76ea08d9408ee2a7d330320519cc9a745af2bd75eed": {
-    "url": "intelslava/91910",
-    "title": "Kamikaze Drone Strike Hits Tugboats at Black Sea Shipyard",
-    "published": "2026-08-02T10:05:55.123710+00:00"
-  },
-  "f51fd0945012e2bdd47a030ae08a02f42c502cd11798716a5aa3309c28124412": {
-    "url": "QudsNen/233769",
-    "title": "Settlers Assault Palestinian Delivery Driver in Hebron",
-    "published": "2026-08-02T10:04:23.399764+00:00"
-  },
-  "74f5107b56a8d928976056d19062cb7b518225764a2a97ab04e61e847b1a5312": {
-    "url": "thecradlemedia/65449",
-    "title": "Saudi Prince Urges Trump to De-escalate Iran Conflict",
-    "published": "2026-08-02T10:03:16.790256+00:00"
-  },
-  "f5f83ba7e4cdf2780ad39bda0c264763c8ece1f72a5c44315d276262d18efc97": {
-    "url": "thecradlemedia/65452",
-    "title": "Israeli Drone Drops Explosives on Ali al-Taher Hill in Southern Lebanon",
-    "published": "2026-08-02T10:03:15.754086+00:00"
-  },
-  "e144d8c70fc3ae6740668199aa750bdaae39184cfe0fee3d6b042d9b360aee84": {
-    "url": "https://en.mehrnews.com/news/246698/Iran-vows-decisive-response-to-any-US-Israeli-attacks-FM",
-    "title": "Tehran vows decisive response to any new US, Israeli attacks",
-    "published": "2026-08-02T07:44:22+00:00"
-  },
-  "4a1e0733b3a08830fe6cad02fe7c5d94c98792d68c85f11482d4350d8084556d": {
-    "url": "https://english.almanar.com.lb/article/111022/",
-    "title": "Trump Halts \u2018WWII-Level\u2019 Strikes on Iran Amid Last-Ditch Diplomatic Push; Tehran Warns of Unrestricted Retaliation - Al-Manar TV Lebanon",
-    "published": "2026-08-02T06:43:52+00:00"
   }
 }
