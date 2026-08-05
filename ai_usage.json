@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5555,
+  "total_calls": 5559,
   "tiers": {
-    "groq": 5536,
+    "groq": 5540,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T10:00:47.707207+00:00",
-      "tier": "groq",
-      "article": "Trump Halts \u2018WWII-Level\u2019 Strikes on Iran Amid Last-Ditch Diplomatic Push; Tehran Warns of Unrestricted Retaliation - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T10:01:32.154150+00:00",
-      "tier": "groq",
-      "article": "Iran vows to use all means in self-defence against US"
-    },
-    {
-      "timestamp": "2026-08-02T10:02:17.416729+00:00",
-      "tier": "groq",
-      "article": "Iraq: 3.8-magnitude earthquake strikes east of Kirkuk - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T10:03:10.112941+00:00",
-      "tier": "groq",
-      "article": "Over 1,000 participants attend AiroCup national robotics competition"
-    },
     {
       "timestamp": "2026-08-02T11:25:07.638635+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T02:46:52.040857+00:00",
       "tier": "groq",
       "article": "Head of 2,000-year-old statue discovered at Spanish beach \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-05T06:31:05.518984+00:00",
+      "tier": "groq",
+      "article": "Explosions across Kyiv as Russian missiles strike Ukraine\u2019s capital"
+    },
+    {
+      "timestamp": "2026-08-05T06:31:39.989566+00:00",
+      "tier": "groq",
+      "article": "Russian missile attack kills 14, injures 27 in Ukraine\u2019s Kyiv region"
+    },
+    {
+      "timestamp": "2026-08-05T06:32:26.481880+00:00",
+      "tier": "groq",
+      "article": "US\u2019s THAAD interceptors depleted by up to 80%: Media"
+    },
+    {
+      "timestamp": "2026-08-05T06:32:44.747832+00:00",
+      "tier": "groq",
+      "article": "US, Iran exchanging peace drafts through intermediaries \u2014 Qatari Foreign Ministry"
     }
   ]
 }
