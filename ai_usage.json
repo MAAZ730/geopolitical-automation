@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5563,
+  "total_calls": 5567,
   "tiers": {
-    "groq": 5544,
+    "groq": 5548,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T13:27:41.822085+00:00",
-      "tier": "groq",
-      "article": "At least five dead, 41 missing after ferry catches fire off Indonesia"
-    },
-    {
-      "timestamp": "2026-08-02T13:28:19.098042+00:00",
-      "tier": "groq",
-      "article": "Russian troops strike Ukrainian army\u2019s transport, energy sites over past day \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-08-02T13:29:04.063066+00:00",
-      "tier": "groq",
-      "article": "Gaza: \u2018Israel\u2019 Launches an airstrike targeting west of Khan Yunis"
-    },
-    {
-      "timestamp": "2026-08-02T13:29:21.395616+00:00",
-      "tier": "groq",
-      "article": "Germany has reached a new low in election rigging"
-    },
     {
       "timestamp": "2026-08-02T15:05:32.736369+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T10:41:10.024935+00:00",
       "tier": "groq",
       "article": "US steps up number of intelligence personnel in Cuba \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-05T14:15:03.343657+00:00",
+      "tier": "groq",
+      "article": "Geran drones strike five dry cargo ships at Nikolayev port, near Odessa"
+    },
+    {
+      "timestamp": "2026-08-05T14:15:35.815434+00:00",
+      "tier": "groq",
+      "article": "Death toll in Israel\u2019s genocidal war on Gaza reaches 73,381"
+    },
+    {
+      "timestamp": "2026-08-05T14:15:54.716234+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight"
+    },
+    {
+      "timestamp": "2026-08-05T14:16:16.576181+00:00",
+      "tier": "groq",
+      "article": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year"
     }
   ]
 }
