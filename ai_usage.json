@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5575,
+  "total_calls": 5579,
   "tiers": {
-    "groq": 5556,
+    "groq": 5560,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T19:15:23.523526+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drone attacks kill eight in response to Russian missiles"
-    },
-    {
-      "timestamp": "2026-08-02T19:16:08.126234+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s red line holds: Trump forced into humiliating retreat"
-    },
-    {
-      "timestamp": "2026-08-02T19:16:58.539229+00:00",
-      "tier": "groq",
-      "article": "Five Lebanese soldiers wounded in southern town blast amid ongoing Israeli aggression"
-    },
-    {
-      "timestamp": "2026-08-02T19:17:17.035978+00:00",
-      "tier": "groq",
-      "article": "No spontaneous combustion? Regarding the causes of the Ceuta migrant surge, look who\u2019s gloating"
-    },
     {
       "timestamp": "2026-08-02T20:59:06.634766+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T19:41:15.266003+00:00",
       "tier": "groq",
       "article": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall"
+    },
+    {
+      "timestamp": "2026-08-05T21:13:51.785826+00:00",
+      "tier": "groq",
+      "article": "Israel strikes south Lebanon after first evacuation warning in weeks"
+    },
+    {
+      "timestamp": "2026-08-05T21:14:32.689288+00:00",
+      "tier": "groq",
+      "article": "Yemeni Ballistic Missile Hits Saudi Oil Ship, Forces It to Back Off - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-05T21:14:52.828111+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone kills man in Kursk Region \u2014 governor"
+    },
+    {
+      "timestamp": "2026-08-05T21:15:29.692113+00:00",
+      "tier": "groq",
+      "article": "US top court clears $655 million Palestinian terrorism payout"
     }
   ]
 }
