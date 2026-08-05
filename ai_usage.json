@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5551,
+  "total_calls": 5555,
   "tiers": {
-    "groq": 5532,
+    "groq": 5536,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T06:35:57.758838+00:00",
-      "tier": "groq",
-      "article": "Iranian MP says retaliation would go beyond region"
-    },
-    {
-      "timestamp": "2026-08-02T06:36:16.008530+00:00",
-      "tier": "groq",
-      "article": "Trump says he agreed to cancel a planned major strike on Iran to reach a deal with Tehran"
-    },
-    {
-      "timestamp": "2026-08-02T06:36:33.409395+00:00",
-      "tier": "groq",
-      "article": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'"
-    },
-    {
-      "timestamp": "2026-08-02T06:36:50.320032+00:00",
-      "tier": "groq",
-      "article": "Caspian Pipeline Consortium continues to receive 100,000 tons of oil per day - ministry"
-    },
     {
       "timestamp": "2026-08-02T10:00:47.707207+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-04T23:08:30.053032+00:00",
       "tier": "groq",
       "article": "FSB detains Ukrainian sympathizer who organized drone production, assembly in Crimea"
+    },
+    {
+      "timestamp": "2026-08-05T02:44:30.222463+00:00",
+      "tier": "groq",
+      "article": "Appointment of new commander-in-chief of Ukrainian military escalates terrorism \u2014 MFA"
+    },
+    {
+      "timestamp": "2026-08-05T02:45:11.421882+00:00",
+      "tier": "groq",
+      "article": "Ukraine\u2019s Fire Point starts to integrate European tech into missile defense system"
+    },
+    {
+      "timestamp": "2026-08-05T02:46:03.681499+00:00",
+      "tier": "groq",
+      "article": "US Army wants a surface-to-air missile that can destroy small drones"
+    },
+    {
+      "timestamp": "2026-08-05T02:46:52.040857+00:00",
+      "tier": "groq",
+      "article": "Head of 2,000-year-old statue discovered at Spanish beach \u2014 newspaper"
     }
   ]
 }
