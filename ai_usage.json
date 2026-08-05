@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5579,
+  "total_calls": 5583,
   "tiers": {
-    "groq": 5560,
+    "groq": 5564,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T20:59:06.634766+00:00",
-      "tier": "groq",
-      "article": "Iran marks Haniyeh\u2019s 2nd martyrdom anniversary, urges action against Israeli impunity"
-    },
-    {
-      "timestamp": "2026-08-02T20:59:23.889594+00:00",
-      "tier": "groq",
-      "article": "Paks NPP in Hungary to be shut down for first time in 44 years \u2014 Magyar"
-    },
-    {
-      "timestamp": "2026-08-02T20:59:53.109709+00:00",
-      "tier": "groq",
-      "article": "Iran warns of decisive response to any new attack"
-    },
-    {
-      "timestamp": "2026-08-02T21:00:11.569302+00:00",
-      "tier": "groq",
-      "article": "Tehran vows decisive response to any new US, Israeli attacks"
-    },
     {
       "timestamp": "2026-08-02T22:59:14.516936+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T21:15:29.692113+00:00",
       "tier": "groq",
       "article": "US top court clears $655 million Palestinian terrorism payout"
+    },
+    {
+      "timestamp": "2026-08-05T23:03:17.307024+00:00",
+      "tier": "groq",
+      "article": "Ukrainian forces attack DPR 25 times over past day"
+    },
+    {
+      "timestamp": "2026-08-05T23:03:37.299398+00:00",
+      "tier": "groq",
+      "article": "NATO chief pledges Zelensky to urgently obtain interceptor missiles for Kiev \u2014 Reuters"
+    },
+    {
+      "timestamp": "2026-08-05T23:04:00.665632+00:00",
+      "tier": "groq",
+      "article": "Trump rejects Zelensky\u2019s request for more Patriot missiles \u2013 FT"
+    },
+    {
+      "timestamp": "2026-08-05T23:04:19.414610+00:00",
+      "tier": "groq",
+      "article": "Radar hit cripples Saudi airport amid Yemeni retaliation"
     }
   ]
 }

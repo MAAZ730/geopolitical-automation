@@ -1,4 +1,39 @@
 {
+  "1ea74f6c37c085592d8db2d1fdcefa1e7d5a176c8a31e174fedddbb14c218a8a": {
+    "url": "presstv/201738",
+    "title": "Israeli Airstrikes Hit Burj al-Shamali in Southern Lebanon",
+    "published": "2026-08-05T23:06:51.679380+00:00"
+  },
+  "51c06f3d3c97b22d2cd1c16826b78793cd6a70320701eb715e7d2ef1269fc039": {
+    "url": "Middle_East_Spectator/35743",
+    "title": "Israel Issues Evacuation Warnings in Southern Lebanon Amid Ceasefire Violation",
+    "published": "2026-08-05T23:06:20.771240+00:00"
+  },
+  "38acc6e618bf5b286010e406bee516486a0978d680cd7a6cc297bc58fca0ff2b": {
+    "url": "Middle_East_Spectator/35755",
+    "title": "Israeli Merkava Tank Fires Shell into Southern Lebanon",
+    "published": "2026-08-05T23:06:19.165888+00:00"
+  },
+  "003398a0fa9bb07e96dbb12c1de07194cfd404c32a439e41ef1dcb3171cd3c77": {
+    "url": "thecradlemedia/65663",
+    "title": "Israeli Artillery Strikes Al-Hanniye in South Lebanon",
+    "published": "2026-08-05T23:05:58.225189+00:00"
+  },
+  "da7d258d74677773f4c5f7ca0be81fb4e5b4267dca3ef725c7a012ce13d35e3e": {
+    "url": "thecradlemedia/65664",
+    "title": "Yemen Claims Ballistic Missile Strike on Saudi Oil Tanker",
+    "published": "2026-08-05T23:05:39.659000+00:00"
+  },
+  "63004b4068e9a98debe28f467af6ea905967cb9c42b12b9c0e668d873ba60f8c": {
+    "url": "thecradlemedia/65665",
+    "title": "Settler Violence in Masafer Yatta Leaves Palestinians Injured",
+    "published": "2026-08-05T23:05:38.399274+00:00"
+  },
+  "167b6c6c6059d37a478f463bde7a41d158794bb6e77d7034d2606fa8870387e9": {
+    "url": "https://tass.com/politics/2169477",
+    "title": "Ukrainian forces attack DPR 25 times over past day",
+    "published": "2026-08-05T22:03:01+00:00"
+  },
   "75f63e8f27d3c57c69c449a4b6838f36e8cc7b4b765585acecb382a362a67a0d": {
     "url": "presstv/201720",
     "title": "Iranian President Defends Nation's Resilience Against External Pressures",
@@ -74,6 +109,11 @@
     "title": "Riyadh's Military Posture in Iraq and Yemen Sparks Regional Tensions",
     "published": "2026-08-05T19:41:18.149600+00:00"
   },
+  "dbfa587e5b75842041b03bcc248073652a9e42f9300f6ebd8ae8b84bf118baaa": {
+    "url": "https://tass.com/world/2169427",
+    "title": "NATO chief pledges Zelensky to urgently obtain interceptor missiles for Kiev \u2014 Reuters",
+    "published": "2026-08-05T18:38:05+00:00"
+  },
   "d6f973096a7001bb0c06a080a8030d466cff281f8f77d8a03d3b6da1fa74eaad": {
     "url": "militarywave/24666",
     "title": "Locust Swarm Engulfs Dagestan, Russia",
@@ -103,6 +143,11 @@
     "url": "thecradlemedia/65662",
     "title": "US Eases Sanctions on Iraqi Airline with IRGC Ties",
     "published": "2026-08-05T17:43:35.200100+00:00"
+  },
+  "85683b8e92d589dbfd269c8d6d0fb937eecb46f18ba6fd8cf3ac21796d0f2922": {
+    "url": "https://www.rt.com/news/643905-trump-ukraine-no-patriots/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump rejects Zelensky\u2019s request for more Patriot missiles \u2013 FT",
+    "published": "2026-08-05T16:08:26+00:00"
   },
   "dcfafdb44c72efb7cac0f247a0e5a5fb87636a393778a2d6b7bc3bb08893c9a2": {
     "url": "https://tass.com/emergencies/2169361",
@@ -248,6 +293,11 @@
     "url": "Middle_East_Spectator/35731",
     "title": "Explosions Reported at Jebel Ali Port in Dubai",
     "published": "2026-08-05T06:32:49.135768+00:00"
+  },
+  "84d07cb06ff902628671a1b3c83150840520fb72ce3dcf211f8d6efcbd38d5b3": {
+    "url": "https://en.mehrnews.com/news/246766/Radar-hit-cripples-Saudi-airport-amid-Yemeni-retaliation",
+    "title": "Radar hit cripples Saudi airport amid Yemeni retaliation",
+    "published": "2026-08-05T05:46:07+00:00"
   },
   "6f1e54d873c2a62cf8fda75915fa632170ddae68b6d803c203c586a0663b206a": {
     "url": "https://en.mehrnews.com/news/246765/Explosion-rocks-Yemeni-capital-Sanaa",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/35709",
     "title": "Drone Strike Hits Kuwait, Investigation Underway",
     "published": "2026-08-04T02:49:17.679254+00:00"
-  },
-  "ef761482bb10cd652f53a4ba5a17963862f81e3e9a9775506d7c167f40855632": {
-    "url": "Middle_East_Spectator/35712",
-    "title": "Iran-Backed Drones Strike Iraqi Kurdistan Targets",
-    "published": "2026-08-04T02:49:00.048490+00:00"
-  },
-  "d5e7d816cfff49b9166dbc25256c13128b2793efda044b90fd5266f13046b2c3": {
-    "url": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
-    "title": "Death toll from Venezuela earthquakes passes 6,000",
-    "published": "2026-08-03T23:20:37+00:00"
-  },
-  "7d4ea0d935214b678898b82a2b4b715140e18ec64e6651039668467009ccd189": {
-    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-    "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-    "published": "2026-08-03T23:13:03+00:00"
-  },
-  "6d1d4dacd6f5b59830cecec348939f003e73fff31598cbb307889b5922016565": {
-    "url": "warmonitors/45187",
-    "title": "Iranian Drone Strikes Separatist Base in Sulaymaniyah, Iraq",
-    "published": "2026-08-03T23:10:23.583332+00:00"
-  },
-  "8e9a3d65a10ea8c1b9604091f9316d933400d8e7c82d53e4d424918eb941cb4c": {
-    "url": "QudsNen/233986",
-    "title": "Israeli Military Base Emerges in Gaza Strip's Rafah",
-    "published": "2026-08-03T23:10:07.510330+00:00"
-  },
-  "5576f6fcc2f0583e12bcafdbdd1931714cd962f3fa84cae14d3256fcffd5223d": {
-    "url": "QudsNen/233990",
-    "title": "Gaza Recovery Efforts Uncover Remains of Children Killed in Israeli Attacks",
-    "published": "2026-08-03T23:08:28.902980+00:00"
-  },
-  "b9f89c1f551b107614a40e3b6d4441ced282ac8373aa9b62422668ee8541932a": {
-    "url": "QudsNen/233993",
-    "title": "Israeli Forces Storm Eastern Nablus, Clash with Palestinians",
-    "published": "2026-08-03T23:06:11.366195+00:00"
-  },
-  "ab20325bf56491704313485322c8c0e5e2d770f9c0475b4b3560370a8a36f5d5": {
-    "url": "Middle_East_Spectator/35691",
-    "title": "IRGC Shoots Down U.S. Drone Over Strait of Hormuz",
-    "published": "2026-08-03T23:05:30.188114+00:00"
-  },
-  "826769d7235940308e797fb7d903813892d9a1532c38edcfc984a02392b8453e": {
-    "url": "Middle_East_Spectator/35704",
-    "title": "Trump Claims Iran Begged for Mercy, Warns of Devastating Consequences",
-    "published": "2026-08-03T23:05:28.987838+00:00"
-  },
-  "5ace1f093a5cbd6a2d716d4199020f8a29085221ff0e2b13e7215fe0bd6d3490": {
-    "url": "https://www.rt.com/news/643819-iran-called-off-ukraine-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Iran called off Ukraine strikes after Kiev\u2019s apology",
-    "published": "2026-08-03T23:00:37+00:00"
   }
 }
