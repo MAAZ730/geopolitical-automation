@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5571,
+  "total_calls": 5575,
   "tiers": {
-    "groq": 5552,
+    "groq": 5556,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T17:03:22.968867+00:00",
-      "tier": "groq",
-      "article": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war"
-    },
-    {
-      "timestamp": "2026-08-02T17:04:01.447755+00:00",
-      "tier": "groq",
-      "article": "IRGC vows \u2018severe, crushing\u2019 retaliation for Haniyeh, Ayatollah Khamenei assassinations"
-    },
-    {
-      "timestamp": "2026-08-02T17:04:48.269681+00:00",
-      "tier": "groq",
-      "article": "Lebanese Soldiers Injured in Suspicious Blast During Civilian Escort in South Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T17:05:06.954332+00:00",
-      "tier": "groq",
-      "article": "Number of wounded in Moscow cafe blast rises to 21 \u2014 National Anti-Terrorism Committee"
-    },
     {
       "timestamp": "2026-08-02T19:15:23.523526+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T17:43:32.671724+00:00",
       "tier": "groq",
       "article": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say"
+    },
+    {
+      "timestamp": "2026-08-05T19:39:31.332930+00:00",
+      "tier": "groq",
+      "article": "Russian drone factory director badly injured in car explosion"
+    },
+    {
+      "timestamp": "2026-08-05T19:40:08.314005+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s Oniks missile can overcome virtually all modern air defenses \u2014 Pacific Fleet"
+    },
+    {
+      "timestamp": "2026-08-05T19:40:56.495930+00:00",
+      "tier": "groq",
+      "article": "India to continue modernizing its Sukhoi Su-30MKI multirole fighters \u2014 Defense Ministry"
+    },
+    {
+      "timestamp": "2026-08-05T19:41:15.266003+00:00",
+      "tier": "groq",
+      "article": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall"
     }
   ]
 }

@@ -1,4 +1,34 @@
 {
+  "9eaf72af8f195a0fadd8010d00f402074fdc2327f5ba87114b4a439361b2e774": {
+    "url": "QudsNen/234233",
+    "title": "Israeli Forces Seize Palestinian Home in Qalandia Refugee Camp",
+    "published": "2026-08-05T19:47:09.698128+00:00"
+  },
+  "4cd315bce1ffb1bacff89f42ff56147dd3b7fa9262062744a73378b021d6a22b": {
+    "url": "QudsNen/234234",
+    "title": "Israeli Forces Convert Palestinian Homes into Military Outposts in Al-Bireh",
+    "published": "2026-08-05T19:46:43.002434+00:00"
+  },
+  "6660408d2ed26bc83be48fe61111dbf91abad0a725a83d7f43a982abd332db58": {
+    "url": "QudsNen/234238",
+    "title": "Gaza Child Survivor Reunites with Rescuer Three Years After Israeli Bombing",
+    "published": "2026-08-05T19:45:52.265591+00:00"
+  },
+  "3810c059680e5f813e974c7e561b6a8f665587a76df57fb848368ffdb841fb3a": {
+    "url": "QudsNen/234241",
+    "title": "Israeli Settler Militias Launch Attacks on Palestinian Communities in Masafer Yatta",
+    "published": "2026-08-05T19:43:23.550338+00:00"
+  },
+  "7a06df3ce53853415631bcb371c08117f957f301aca8d9a4c1ba8b50dfbf4d44": {
+    "url": "thecradlemedia/65657",
+    "title": "US Lifts Counterterrorism Sanctions on Iranian-Linked Airlines",
+    "published": "2026-08-05T19:41:21.661152+00:00"
+  },
+  "2017cdde2af35b4d16b2cfa47ecc05ab9f43ae77c5d9410a7e2de9188526097e": {
+    "url": "thecradlemedia/65659",
+    "title": "Riyadh's Military Posture in Iraq and Yemen Sparks Regional Tensions",
+    "published": "2026-08-05T19:41:18.149600+00:00"
+  },
   "d6f973096a7001bb0c06a080a8030d466cff281f8f77d8a03d3b6da1fa74eaad": {
     "url": "militarywave/24666",
     "title": "Locust Swarm Engulfs Dagestan, Russia",
@@ -64,6 +94,11 @@
     "title": "Gaza Pediatrician's Health Deteriorates in Israeli Prison",
     "published": "2026-08-05T14:16:19.841538+00:00"
   },
+  "35cb42373f3b4968fa6e87e4cb8a5666020c7e21f5a4165b0ba0c15cbd15e729": {
+    "url": "https://en.mehrnews.com/news/246784/Russian-drone-factory-director-badly-injured-in-car-explosion",
+    "title": "Russian drone factory director badly injured in car explosion",
+    "published": "2026-08-05T12:48:21+00:00"
+  },
   "a44ac7ce428276938d8b4cbbbac5d4a807e2171ddba01b0c9ee9ccdceda7e83f": {
     "url": "DDGeopolitics/190690",
     "title": "Drone Strike Hits ATB Grocery Truck in Kherson",
@@ -109,6 +144,11 @@
     "title": "Death toll in Israel\u2019s genocidal war on Gaza reaches 73,381",
     "published": "2026-08-05T09:44:06+00:00"
   },
+  "deb29adf0d7bde9fb9160ec37b9e2d705b2d1f3864ce022d4a0a666aa083c249": {
+    "url": "https://tass.com/defense/2169165",
+    "title": "Russia\u2019s Oniks missile can overcome virtually all modern air defenses \u2014 Pacific Fleet",
+    "published": "2026-08-05T09:28:39+00:00"
+  },
   "b2627d26119d27ef069ad6209cfec3f86281f89759072522caae92520972b0b5": {
     "url": "https://en.mehrnews.com/news/246774/Yemen-strikes-Saudi-tanker-in-Red-Sea",
     "title": "Yemen strikes Saudi oil tanker in Red Sea",
@@ -118,6 +158,11 @@
     "url": "https://tass.com/world/2169133",
     "title": "North Korea to take further measures regarding Japan \u2014 official",
     "published": "2026-08-05T07:32:49+00:00"
+  },
+  "280b4e88211643697e11a18052c02be53d4b902c86e0cb2f8794928cbf93fa65": {
+    "url": "https://tass.com/world/2169131",
+    "title": "India to continue modernizing its Sukhoi Su-30MKI multirole fighters \u2014 Defense Ministry",
+    "published": "2026-08-05T07:31:41+00:00"
   },
   "1645080b4f619feda094771c5b3f16d472bf03d6df8f714ac2e8ea8960379cff": {
     "url": "https://tass.com/politics/2169115",
@@ -173,6 +218,11 @@
     "url": "https://en.mehrnews.com/news/246763/US-s-THAAD-interceptors-depleted-by-up-to-80-Media",
     "title": "US\u2019s THAAD interceptors depleted by up to 80%: Media",
     "published": "2026-08-05T04:16:38+00:00"
+  },
+  "1053d1823d05f6d07c63257608ed481fcc1741fbdd94803b2f2a8152771b5e07": {
+    "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+    "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+    "published": "2026-08-05T03:44:30+00:00"
   },
   "689fa0a326aac3c1b4e13c555f12e06fc21234569a7b634c72f5f596633da10d": {
     "url": "intelslava/92060",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/35706",
     "title": "Iran Threatens to Attack US Warships in Strait of Hormuz",
     "published": "2026-08-03T19:46:04.948717+00:00"
-  },
-  "2569abe9378d8f8591f6d198f8653f58e9dd570806204bb3a199bd188f66f949": {
-    "url": "thecradlemedia/65510",
-    "title": "Britain Sees Rise in Fuel Theft Amid Escalating Iran Disruptions",
-    "published": "2026-08-03T19:43:43.173541+00:00"
-  },
-  "e7d45ab3a595a05241d5379d28772902e9934487dd8650cc3ef5551b64b29aea": {
-    "url": "thecradlemedia/65516",
-    "title": "Israeli Drone Strike Hits Ali al-Taher Hill in South Lebanon",
-    "published": "2026-08-03T19:43:41.332684+00:00"
-  },
-  "33bd81e489fba2b95d758c440e84bc095f104ed0de99dafbd692a8ba136ad78e": {
-    "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-    "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-    "published": "2026-08-03T19:42:55+00:00"
-  },
-  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
-    "url": "CensoredMen/229",
-    "title": "Ukraine Strikes Russian E-commerce Giant's Warehouse in Nevinnomyssk",
-    "published": "2026-08-03T18:00:09.735063+00:00"
-  },
-  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
-    "url": "CensoredMen/230",
-    "title": "IRGC Claims Responsibility for Strike on U.S. Installation Near Aqaba",
-    "published": "2026-08-03T17:59:06.428719+00:00"
-  },
-  "1492a09e9a10ab259c5ba0588537c09ea0170168ec483e623b71eb7940debce9": {
-    "url": "DDGeopolitics/190618",
-    "title": "Ukraine's Military Escalation Brings War to Russian Territory",
-    "published": "2026-08-03T17:58:48.415957+00:00"
-  },
-  "e25e0745f0f5cbd08e6b9935ac6a6ef70ed6b6613828c2b25419ce719864b14f": {
-    "url": "QudsNen/233948",
-    "title": "Israeli Settlers Establish New Outpost Northwest of Ramallah",
-    "published": "2026-08-03T17:56:05.947508+00:00"
-  },
-  "014aa9389712bb4cd7929be5c02672cb1815baa1cb2dacd7d877d47f533d1343": {
-    "url": "thecradlemedia/65517",
-    "title": "Iran Denies New Talks with US Amid Claims of Canceled Military Attack",
-    "published": "2026-08-03T17:55:38.533855+00:00"
-  },
-  "0ac8238eb69bb2dc35ba2fa64b331672c6ba7ec38b9bd8d5c0c4f8cd67dbc443": {
-    "url": "thecradlemedia/65518",
-    "title": "US Treasury Intervenes to Support Yen Amid Iran-US Conflict",
-    "published": "2026-08-03T17:55:37.175839+00:00"
-  },
-  "b74328d3e301e1793058142761d435405ab69a1c7a35ecf91d9c89e03253507b": {
-    "url": "https://tass.com/emergencies/2168551",
-    "title": "IN BRIEF: Seven people killed in drone attack on Gelendzhik, three children among them",
-    "published": "2026-08-03T16:28:50+00:00"
   }
 }
