@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5567,
+  "total_calls": 5571,
   "tiers": {
-    "groq": 5548,
+    "groq": 5552,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T15:05:32.736369+00:00",
-      "tier": "groq",
-      "article": "At least eight killed in Gaza after Hamas agree disarmament deal "
-    },
-    {
-      "timestamp": "2026-08-02T15:06:11.799143+00:00",
-      "tier": "groq",
-      "article": "15 civilians killed, 51 injured in Ukraine\u2019s attacks on Energodar since late April"
-    },
-    {
-      "timestamp": "2026-08-02T15:06:31.323018+00:00",
-      "tier": "groq",
-      "article": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran"
-    },
-    {
-      "timestamp": "2026-08-02T15:07:12.427975+00:00",
-      "tier": "groq",
-      "article": "US speaks of escalation, while seeks talks with Iran: MP"
-    },
     {
       "timestamp": "2026-08-02T17:03:22.968867+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T14:16:16.576181+00:00",
       "tier": "groq",
       "article": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year"
+    },
+    {
+      "timestamp": "2026-08-05T17:42:17.438862+00:00",
+      "tier": "groq",
+      "article": "Beyond the Output Trap: Haiti and the Future of International Stabilization"
+    },
+    {
+      "timestamp": "2026-08-05T17:42:56.572180+00:00",
+      "tier": "groq",
+      "article": "Explosion rocks Yemeni capital Sanaa"
+    },
+    {
+      "timestamp": "2026-08-05T17:43:14.656838+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: What we know about attack on Uraldronzavod CEO Vladimir Tkachuk"
+    },
+    {
+      "timestamp": "2026-08-05T17:43:32.671724+00:00",
+      "tier": "groq",
+      "article": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say"
     }
   ]
 }
