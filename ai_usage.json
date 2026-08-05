@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5559,
+  "total_calls": 5563,
   "tiers": {
-    "groq": 5540,
+    "groq": 5544,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T11:25:07.638635+00:00",
-      "tier": "groq",
-      "article": "5 Palestinians, including 3 children, have been injured in an Israeli drone strike targeting a charging station west of Khan Younis in the southern Gaza Strip - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T11:25:26.098006+00:00",
-      "tier": "groq",
-      "article": "Gaza: Several injured after an Israeli drone strike targeted a vehicle near the vehicle licensing office, east of Al-Aqsa Hospital in Deir al-Balah - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T11:25:43.643490+00:00",
-      "tier": "groq",
-      "article": "Occupation Escalates Southern Lebanon Onslaught: Bombardment Rocks Taybeh, Warplanes Strike Mansouri and Ali Taher - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T11:26:03.554077+00:00",
-      "tier": "groq",
-      "article": "Iran becomes a founding member of WAICO"
-    },
     {
       "timestamp": "2026-08-02T13:27:41.822085+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T06:32:44.747832+00:00",
       "tier": "groq",
       "article": "US, Iran exchanging peace drafts through intermediaries \u2014 Qatari Foreign Ministry"
+    },
+    {
+      "timestamp": "2026-08-05T10:40:12.690502+00:00",
+      "tier": "groq",
+      "article": "Yemen strikes Saudi oil tanker in Red Sea"
+    },
+    {
+      "timestamp": "2026-08-05T10:40:31.629349+00:00",
+      "tier": "groq",
+      "article": "North Korea to take further measures regarding Japan \u2014 official"
+    },
+    {
+      "timestamp": "2026-08-05T10:40:50.341227+00:00",
+      "tier": "groq",
+      "article": "US Missile Defense Stockpiles \u2018Dangerously Low\u2019 After Iran War: CNN Report - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-05T10:41:10.024935+00:00",
+      "tier": "groq",
+      "article": "US steps up number of intelligence personnel in Cuba \u2014 newspaper"
     }
   ]
 }
