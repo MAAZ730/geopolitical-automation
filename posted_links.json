@@ -1,4 +1,39 @@
 {
+  "4ff34eea283132bfa2386693c3bf275a8df79f83c9b25feee45cfcedd827b71d": {
+    "url": "presstv/201760",
+    "title": "Explosions Cause Extensive Fire Damage in Dubai's Jebel Ali Area",
+    "published": "2026-08-06T06:40:30.543887+00:00"
+  },
+  "e55c2489b6e0edc59d4a1abe8c040df128773c81b3795cdb324e1799f065eda2": {
+    "url": "presstv/201762",
+    "title": "Israeli Airstrike Damages Prayer Hall in Tibnine, Lebanon",
+    "published": "2026-08-06T06:39:15.585676+00:00"
+  },
+  "5387869c997c343442a99a181f42f92940d14ee678a827183714496dbadb20db": {
+    "url": "DDGeopolitics/190723",
+    "title": "Missiles Hit Kiev Amid Ongoing Ukraine Conflict",
+    "published": "2026-08-06T06:38:38.239733+00:00"
+  },
+  "536d10ed6fb29e4cea056f0a755a66a9a96a92c0e9aa5640f6e05cc4a76c00f7": {
+    "url": "QudsNen/234275",
+    "title": "Israeli Forces Conduct Raid in Qalandiya Refugee Camp",
+    "published": "2026-08-06T06:38:36.139258+00:00"
+  },
+  "5bab9a4423a339a325791690280a4d78b651bd4a6b010d7e198ed5857cde96c5": {
+    "url": "QudsNen/234278",
+    "title": "Israeli Forces Detain Former Palestinian Detainee in Jericho Raid",
+    "published": "2026-08-06T06:38:08.143630+00:00"
+  },
+  "514db40b588bcf7fcd430415e3038893cfe8ce30985e8cd7c700ecc8092384d5": {
+    "url": "QudsNen/234280",
+    "title": "Israeli Forces Conduct Raid on Qalandiya Refugee Camp",
+    "published": "2026-08-06T06:38:06.705587+00:00"
+  },
+  "e42c5ce86a5f40361c0c266942b4877cc338bca87a33ffb80a95aaec301be22e": {
+    "url": "https://tass.com/world/2169501",
+    "title": "Trump believes Pentagon chief misleads him about weapons stockpiles \u2014 media",
+    "published": "2026-08-06T03:21:01+00:00"
+  },
   "7e073d0bd29b742dcf432972d1a1978d02843d534a8d296350375ef67eb3d6e5": {
     "url": "QudsNen/234265",
     "title": "Gaza Faces Worsening Health Crisis Amid Chickenpox Outbreak",
@@ -229,6 +264,11 @@
     "title": "Gaza Pediatrician's Health Deteriorates in Israeli Prison",
     "published": "2026-08-05T14:16:19.841538+00:00"
   },
+  "0e750da7b7fcaaa48f586c277bafc1fff34798c88327185e377e568f400db513": {
+    "url": "https://tass.com/world/2169291",
+    "title": "Zelensky complains about threefold plunge in West\u2019s interceptor missile supplies to Kiev",
+    "published": "2026-08-05T13:25:15+00:00"
+  },
   "35cb42373f3b4968fa6e87e4cb8a5666020c7e21f5a4165b0ba0c15cbd15e729": {
     "url": "https://en.mehrnews.com/news/246784/Russian-drone-factory-director-badly-injured-in-car-explosion",
     "title": "Russian drone factory director badly injured in car explosion",
@@ -264,6 +304,11 @@
     "title": "Israeli Forces Swarm Palestinian Man in Qalandia Refugee Camp",
     "published": "2026-08-05T10:42:54.317522+00:00"
   },
+  "0ef06453c22b1166db95981f869e9b7d2f002e1faf7fe0fd1d9c7db1803f304c": {
+    "url": "https://tass.com/world/2169199",
+    "title": "US presses on with Ukraine Patriot missile talks, despite Trump\u2019s doubts \u2014 Reuters",
+    "published": "2026-08-05T10:12:48+00:00"
+  },
   "a85cff17f6dd083cd07bdf215b905edbd5081794100382df08aab6d4843d42ad": {
     "url": "https://english.almanar.com.lb/article/112177/",
     "title": "US Missile Defense Stockpiles \u2018Dangerously Low\u2019 After Iran War: CNN Report - Al-Manar TV Lebanon",
@@ -283,6 +328,11 @@
     "url": "https://tass.com/defense/2169165",
     "title": "Russia\u2019s Oniks missile can overcome virtually all modern air defenses \u2014 Pacific Fleet",
     "published": "2026-08-05T09:28:39+00:00"
+  },
+  "a9469c75cc301b8a575068259136eeebe4543cdcf9aeb913867b99d2096fca53": {
+    "url": "https://www.rt.com/news/643867-us-iran-oman-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Strait of Hormuz deal to meet Iran\u2019s demands \u2013 Axios",
+    "published": "2026-08-05T09:07:39+00:00"
   },
   "b2627d26119d27ef069ad6209cfec3f86281f89759072522caae92520972b0b5": {
     "url": "https://en.mehrnews.com/news/246774/Yemen-strikes-Saudi-tanker-in-Red-Sea",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/society/2168761",
     "title": "FSB detains Ukrainian sympathizer who organized drone production, assembly in Crimea",
     "published": "2026-08-04T10:27:59+00:00"
-  },
-  "2d938e5367e2cd9a1efbe4c06d5a98d1076f7dbba45bf453fcfeb71b4c94dd8d": {
-    "url": "https://tass.com/politics/2168741",
-    "title": "Russian troops strike auto equipment plant, military cargo ships, port terminal in Ukraine",
-    "published": "2026-08-04T09:34:02+00:00"
-  },
-  "5db05d6abd3267bf978abc5ee41233b4595d9da8ddc9d702c22a08cd0d2d11bf": {
-    "url": "https://tass.com/world/2168723",
-    "title": "Over 80% of power plants destroyed in Ukraine \u2014 official",
-    "published": "2026-08-04T08:44:38+00:00"
-  },
-  "15745f6b1a7fa434fecb61e40e44683d47687d8b4b447e6a59c59b0a60e5a632": {
-    "url": "https://tass.com/politics/2168711",
-    "title": "Senior Russian diplomat outlines conditions for Ukraine talks",
-    "published": "2026-08-04T08:31:56+00:00"
-  },
-  "856946258b19670e4c6cab65c19ca4866fd27b4105b72223fd5d82982178bbc2": {
-    "url": "https://tass.com/politics/2168705",
-    "title": "Killed and injured in Moscow Region, 320 downed UAVs: aftermath of drone attacks on Russia",
-    "published": "2026-08-04T07:53:40+00:00"
-  },
-  "7da4675de433cc0d755594db3522ab90a13641816ec8c884a180f80375d56f3b": {
-    "url": "https://en.mehrnews.com/news/246750/11-killed-injured-in-drone-attack-on-Moscow-Region",
-    "title": "11 killed, injured in drone attack on Moscow Region",
-    "published": "2026-08-04T07:02:02+00:00"
-  },
-  "37595057cf7b888d44a39ef2eadb393c8900d2c0c3cd3239a00863feeef4f45d": {
-    "url": "https://tass.com/politics/2168689",
-    "title": "Ukrainian troops hunting down Russian civilian buses, attacking over 30 this summer \u2014 MFA",
-    "published": "2026-08-04T07:01:53+00:00"
-  },
-  "d9ba5c9e8c8dfeda1f8f75ebacc799ef47b78a306df57fdb4d359cecd2dde504": {
-    "url": "https://tass.com/defense/2168687",
-    "title": "Pantsir missile and gun system effectively destroys long-rage strike drones \u2014 publication",
-    "published": "2026-08-04T06:55:07+00:00"
-  },
-  "e077659b9a811de9eb12b6c88123f5415aa2120cbb0614e90302478ca872acd5": {
-    "url": "intelslava/91998",
-    "title": "Dnipro Warehouse Fires Sparked by Russian Drone Attacks",
-    "published": "2026-08-04T06:41:38.351756+00:00"
-  },
-  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
-    "url": "CensoredMen/222",
-    "title": "US Forces Enforce Maritime Blockade Against Iran",
-    "published": "2026-08-04T06:40:31.585626+00:00"
-  },
-  "60adcdf87f9f91b02c352bbe350041b54e32bfff7cc1cb3a439c6015b892659d": {
-    "url": "presstv/201513",
-    "title": "Iran Claims US Operation Foiled in 'Trump's Third War'",
-    "published": "2026-08-04T06:39:27.253499+00:00"
   }
 }

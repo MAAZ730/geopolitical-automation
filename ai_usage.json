@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5587,
+  "total_calls": 5591,
   "tiers": {
-    "groq": 5568,
+    "groq": 5572,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-03T03:18:18.916758+00:00",
-      "tier": "groq",
-      "article": "Sudan army drone attack on Darfur kills 35, rights group says"
-    },
-    {
-      "timestamp": "2026-08-03T03:18:35.909698+00:00",
-      "tier": "groq",
-      "article": "Trump says new round of Iran talks will begin Monday"
-    },
-    {
-      "timestamp": "2026-08-03T03:19:10.418788+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drone hits site several meters away from reactor unit at Zaporozhye nuke plant"
-    },
-    {
-      "timestamp": "2026-08-03T03:19:28.615856+00:00",
-      "tier": "groq",
-      "article": "Neither threat nor attack will force Iran to retreat or surrender"
-    },
     {
       "timestamp": "2026-08-03T07:31:44.994069+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-06T02:48:46.879864+00:00",
       "tier": "groq",
       "article": "Riyadh stresses need to reduce tension with Iran via dialogue"
+    },
+    {
+      "timestamp": "2026-08-06T06:34:58.517213+00:00",
+      "tier": "groq",
+      "article": "Trump believes Pentagon chief misleads him about weapons stockpiles \u2014 media"
+    },
+    {
+      "timestamp": "2026-08-06T06:35:35.646390+00:00",
+      "tier": "groq",
+      "article": "Zelensky complains about threefold plunge in West\u2019s interceptor missile supplies to Kiev"
+    },
+    {
+      "timestamp": "2026-08-06T06:36:22.944118+00:00",
+      "tier": "groq",
+      "article": "US presses on with Ukraine Patriot missile talks, despite Trump\u2019s doubts \u2014 Reuters"
+    },
+    {
+      "timestamp": "2026-08-06T06:36:42.044946+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz deal to meet Iran\u2019s demands \u2013 Axios"
     }
   ]
 }
