@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5583,
+  "total_calls": 5587,
   "tiers": {
-    "groq": 5564,
+    "groq": 5568,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-02T22:59:14.516936+00:00",
-      "tier": "groq",
-      "article": "Fars News Exposes \u2018False\u2019 Hormuz Claims as Tehran Insists: No Agreement, No Policy Shift on Strategic Waterway - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-02T22:59:35.666515+00:00",
-      "tier": "groq",
-      "article": "Trump says he canceled declared attacks on Iran"
-    },
-    {
-      "timestamp": "2026-08-02T22:59:54.628514+00:00",
-      "tier": "groq",
-      "article": "AI on the battlefield: Is Palantir complicit in war crimes against Iran?"
-    },
-    {
-      "timestamp": "2026-08-02T23:00:17.696019+00:00",
-      "tier": "groq",
-      "article": "Israel eliminates three radicals in Gaza Strip \u2014 IDF"
-    },
     {
       "timestamp": "2026-08-03T03:18:18.916758+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-05T23:04:19.414610+00:00",
       "tier": "groq",
       "article": "Radar hit cripples Saudi airport amid Yemeni retaliation"
+    },
+    {
+      "timestamp": "2026-08-06T02:47:04.368619+00:00",
+      "tier": "groq",
+      "article": "Hundreds of civilians killed or injured in US airstrikes on Yemen in 2025 \u2014 media"
+    },
+    {
+      "timestamp": "2026-08-06T02:47:42.196434+00:00",
+      "tier": "groq",
+      "article": "Israel launches heaviest strikes on Lebanon since June truce"
+    },
+    {
+      "timestamp": "2026-08-06T02:48:28.459716+00:00",
+      "tier": "groq",
+      "article": "Security guard for CEO of Russian drone producer killed in car blast in Yekaterinburg"
+    },
+    {
+      "timestamp": "2026-08-06T02:48:46.879864+00:00",
+      "tier": "groq",
+      "article": "Riyadh stresses need to reduce tension with Iran via dialogue"
     }
   ]
 }
