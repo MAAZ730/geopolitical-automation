@@ -1,4 +1,44 @@
 {
+  "4746aa0bffe23e6b4420151034be554b8a4a74cd7886860385a9748ce591c968": {
+    "url": "presstv/201953",
+    "title": "Israeli Artillery Strikes Ignite Fire in Southern Lebanon",
+    "published": "2026-08-07T19:09:02.675096+00:00"
+  },
+  "f7c20a0d976c789d621e6ac548eb9cbcced3f9a6315eee7b98040d46ba6ef825": {
+    "url": "militarywave/24690",
+    "title": "Russian Fighters Repel Ukrainian Drone Attacks with Calculated Precision",
+    "published": "2026-08-07T19:07:43.032460+00:00"
+  },
+  "523c72c2d0b38bf3f5e26733f9ce0a1c7a04b6d6ec0f6855c27b05d7bacc2e6e": {
+    "url": "militarywave/24692",
+    "title": "Dachshund's Anxiety Eased by Giant Mannequin",
+    "published": "2026-08-07T19:05:56.001965+00:00"
+  },
+  "7ad85230b4b335cd468e3031cde210ae805daea5548f8b594987e4ce6b1475f6": {
+    "url": "QudsNen/234487",
+    "title": "Israeli Artillery Shelling Sparks Fire in Al-Mansouri, Lebanon",
+    "published": "2026-08-07T19:05:16.676957+00:00"
+  },
+  "d11bff1eb4041bd5b3b0adcb60d8d7f1c6e6fd018df5ce1eb6624e34f389c4d6": {
+    "url": "Middle_East_Spectator/35784",
+    "title": "Iraqi Islamic Resistance Postpones Retaliation Against Saudi Arabia",
+    "published": "2026-08-07T19:03:55.817560+00:00"
+  },
+  "83d6b8ca82d4778cdab366d9f2816d7ada359f738b0dda4ebf5804d66a3466b7": {
+    "url": "thecradlemedia/65784",
+    "title": "Yemen Strikes Saudi-Backed Mercenaries for Second Straight Day",
+    "published": "2026-08-07T19:03:54.222162+00:00"
+  },
+  "214aee22d394a25eb05affdc1a06427e2b4d94c7f7e3116e72651aa5992bd3ab": {
+    "url": "https://english.almanar.com.lb/article/113457/",
+    "title": "Yemeni Armed Forces Announce New Strikes on Pro-Saudi Military Camp, Affirm Siege-for-Siege and Escalation-for-Escalation Formulas - Al-Manar TV Lebanon",
+    "published": "2026-08-07T18:46:02+00:00"
+  },
+  "008af9bd22fe1cdb046f2d6d9705982d54598a51cf617229ede5201299c9bf76": {
+    "url": "https://www.tehrantimes.com/news/528921/Israel-expands-West-Bank-offensive-with-camp-by-camp-strategy",
+    "title": "Israel expands West Bank offensive with camp-by-camp strategy",
+    "published": "2026-08-07T17:30:15+00:00"
+  },
   "0242d7fdb8cc93e2745ebb3be3f89112090db7ff1c5c00aaf986c8f054de841f": {
     "url": "BellumActaNews/176226",
     "title": "Drone Attack Targets Wildberries Warehouse in Yekaterinburg",
@@ -33,6 +73,11 @@
     "url": "https://www.tehrantimes.com/news/528912/Iranian-attacks-leave-hundreds-of-US-service-members-with-enduring",
     "title": "Iranian attacks leave hundreds of US service members with enduring brain trauma",
     "published": "2026-08-07T16:53:48+00:00"
+  },
+  "ea4ed8bc5fbc7f3bb54047a02cc32ceb600c2ddf344fcf9c499f21b1bf046c7b": {
+    "url": "https://en.mehrnews.com/news/246812/Yemeni-attacks-leave-dozens-of-Saudi-backed-mercenaries-dead",
+    "title": "Yemeni attacks leave dozens of Saudi-backed mercenaries dead",
+    "published": "2026-08-07T15:30:28+00:00"
   },
   "eae53f7713b5dd4cc7b9941d2722d2937d9beb938f86a1ac11acf7a83d6354bc": {
     "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
@@ -258,6 +303,11 @@
     "url": "https://tass.com/politics/2169981",
     "title": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
     "published": "2026-08-07T06:39:35+00:00"
+  },
+  "4e8342a616d33933e32ff2231afd98ed167d782ee5b50dd62b380791d36ad2ba": {
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3363258/hong-kongs-lingnan-university-student-union-ceases-operations-after-6-decades?utm_source=rss_feed",
+    "title": "Hong Kong\u2019s Lingnan University student union ceases operations after 6 decades",
+    "published": "2026-08-07T05:03:42+00:00"
   },
   "c3152da5aa6ed7dc20fc4cdd53fc794b43da23f578ca72813016fded15d6daf1": {
     "url": "militarywave/24677",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/190716",
     "title": "Ukraine Faces Allegations of Terrorist Attacks in Russia",
     "published": "2026-08-05T17:44:47.298060+00:00"
-  },
-  "0e16d215b430ad9f7a0e98e7c06313e9239921301e31a94f398d8f66728c34ae": {
-    "url": "thecradlemedia/65661",
-    "title": "China Slaps Retaliation Measures on US Over Trade Restrictions",
-    "published": "2026-08-05T17:43:38.338688+00:00"
-  },
-  "2d189f6520a71e2a6a2051068ee451ab28a1f7c5756b4722d65fdd0fb601ad50": {
-    "url": "thecradlemedia/65662",
-    "title": "US Eases Sanctions on Iraqi Airline with IRGC Ties",
-    "published": "2026-08-05T17:43:35.200100+00:00"
-  },
-  "85683b8e92d589dbfd269c8d6d0fb937eecb46f18ba6fd8cf3ac21796d0f2922": {
-    "url": "https://www.rt.com/news/643905-trump-ukraine-no-patriots/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Trump rejects Zelensky\u2019s request for more Patriot missiles \u2013 FT",
-    "published": "2026-08-05T16:08:26+00:00"
-  },
-  "dcfafdb44c72efb7cac0f247a0e5a5fb87636a393778a2d6b7bc3bb08893c9a2": {
-    "url": "https://tass.com/emergencies/2169361",
-    "title": "FACTBOX: What we know about attack on Uraldronzavod CEO Vladimir Tkachuk",
-    "published": "2026-08-05T15:06:10+00:00"
-  },
-  "1eaaf9fa5aaf69c8941633e445299f057bd247b9c87bf985ef032fafa9f83add": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/",
-    "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
-    "published": "2026-08-05T14:37:54+00:00"
-  },
-  "c791ba0ba9b9913fc8f9f36b8b4fb941fc36a746b18f23655ae6d18c526b350a": {
-    "url": "https://tass.com/emergencies/2169343",
-    "title": "Security guard for CEO of Russian drone producer killed in car blast in Yekaterinburg",
-    "published": "2026-08-05T14:30:31+00:00"
-  },
-  "98b418ded023ba185e89206c73dcd4dff3d67983b210e37200ab1479b7ca6f1a": {
-    "url": "BellumActaNews/176161",
-    "title": "Trump Warns of Socialist-Backed Candidates 'Ruining' US",
-    "published": "2026-08-05T14:19:41.367165+00:00"
-  },
-  "b9db71370ffb7dfabb1c4a22f9bc7f6a1d1d15f78e8a8af33604385c60560e1e": {
-    "url": "QudsNen/234198",
-    "title": "Israeli Drone Strike Hits Tebnine, Southern Lebanon",
-    "published": "2026-08-05T14:17:14.009954+00:00"
-  },
-  "b3ac387921084036e9b5e42a2a2d0aab2d9eac307d7895ac2cd1106ba81912b4": {
-    "url": "QudsNen/234206",
-    "title": "Israeli Forces Clash with Palestinian in Qalandia Refugee Camp",
-    "published": "2026-08-05T14:17:03.849267+00:00"
-  },
-  "c6676d46c1b9cc2539ff31d5afedb6b54553895e3a10269faa60b27847d12dcb": {
-    "url": "thecradlemedia/65638",
-    "title": "Gulf Markets React to US-Israeli Conflict with Iran",
-    "published": "2026-08-05T14:16:41.387173+00:00"
   }
 }

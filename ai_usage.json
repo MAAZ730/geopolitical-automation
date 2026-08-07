@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5631,
+  "total_calls": 5635,
   "tiers": {
-    "groq": 5612,
+    "groq": 5616,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T14:22:21.752157+00:00",
-      "tier": "groq",
-      "article": "Nine killed in escalating long-range strikes between Russia and Ukraine"
-    },
-    {
-      "timestamp": "2026-08-04T14:22:58.125330+00:00",
-      "tier": "groq",
-      "article": "Washington burned through &#039;virtually all&#039; long-range missiles to strike Iran: Report"
-    },
-    {
-      "timestamp": "2026-08-04T14:23:51.449645+00:00",
-      "tier": "groq",
-      "article": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike"
-    },
-    {
-      "timestamp": "2026-08-04T14:24:07.430850+00:00",
-      "tier": "groq",
-      "article": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume"
-    },
     {
       "timestamp": "2026-08-04T17:51:19.628205+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T16:58:47.763611+00:00",
       "tier": "groq",
       "article": "Iran says Hormuz deal \u2018nearing completion\u2019"
+    },
+    {
+      "timestamp": "2026-08-07T19:01:30.604062+00:00",
+      "tier": "groq",
+      "article": "Yemeni Armed Forces Announce New Strikes on Pro-Saudi Military Camp, Affirm Siege-for-Siege and Escalation-for-Escalation Formulas - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-07T19:02:14.388365+00:00",
+      "tier": "groq",
+      "article": "Israel expands West Bank offensive with camp-by-camp strategy"
+    },
+    {
+      "timestamp": "2026-08-07T19:03:04.402359+00:00",
+      "tier": "groq",
+      "article": "Yemeni attacks leave dozens of Saudi-backed mercenaries dead"
+    },
+    {
+      "timestamp": "2026-08-07T19:03:51.718486+00:00",
+      "tier": "groq",
+      "article": "Hong Kong\u2019s Lingnan University student union ceases operations after 6 decades"
     }
   ]
 }
