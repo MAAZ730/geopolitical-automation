@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5599,
+  "total_calls": 5603,
   "tiers": {
-    "groq": 5580,
+    "groq": 5584,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-03T14:45:35.474534+00:00",
-      "tier": "groq",
-      "article": "Number of injured in Ukraine\u2019s attack on warehouse in Vladimir region rises to four"
-    },
-    {
-      "timestamp": "2026-08-03T14:45:54.764394+00:00",
-      "tier": "groq",
-      "article": "More than 10 killed as Russia and Ukraine trade heavy attacks"
-    },
-    {
-      "timestamp": "2026-08-03T14:46:21.086249+00:00",
-      "tier": "groq",
-      "article": "Board of Peace seeks de-escalation in Gaza following latest series of strikes \u2014 envoy"
-    },
-    {
-      "timestamp": "2026-08-03T14:46:39.660623+00:00",
-      "tier": "groq",
-      "article": "Iran Army soldier martyred, another wounded in Marivan"
-    },
     {
       "timestamp": "2026-08-03T17:53:51.467466+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-06T14:19:44.736736+00:00",
       "tier": "groq",
       "article": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role"
+    },
+    {
+      "timestamp": "2026-08-07T00:05:00.648256+00:00",
+      "tier": "groq",
+      "article": "Houthis launch deadly attacks on Saudi-led coalition forces in Yemen"
+    },
+    {
+      "timestamp": "2026-08-07T00:05:39.146401+00:00",
+      "tier": "groq",
+      "article": "Iran issues warning to Gulf states: US must desist or you\u2019ll be hit hard"
+    },
+    {
+      "timestamp": "2026-08-07T00:06:32.503342+00:00",
+      "tier": "groq",
+      "article": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime"
+    },
+    {
+      "timestamp": "2026-08-07T00:07:26.017723+00:00",
+      "tier": "groq",
+      "article": "Iran says deal with Oman on Strait of Hormuz is 'in final stages'"
     }
   ]
 }
