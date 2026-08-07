@@ -1,4 +1,39 @@
 {
+  "4e38fc6eb2466404be9f11ec3a530d47399d8dcc5e581317364f3e9fecbe13f7": {
+    "url": "presstv/201862",
+    "title": "Spokane Wildfires Devastate Washington State",
+    "published": "2026-08-07T09:08:06.061117+00:00"
+  },
+  "f856f853bec5f37b2759dee294440109d241a7f40f244fbb2941c33af33f34d2": {
+    "url": "presstv/201867",
+    "title": "Israeli Artillery Strikes Southern Lebanon",
+    "published": "2026-08-07T09:05:56.861057+00:00"
+  },
+  "a4ea3a8d9540078254c7b9657a8f898bcbc044eb5661ced2db7dce78562ba955": {
+    "url": "thecradlemedia/65719",
+    "title": "Israel Steps Up Military Operations in South Lebanon",
+    "published": "2026-08-07T09:05:11.621826+00:00"
+  },
+  "3e6cc0a8d2f5af6b9af9d69f6f46c65fba17d72054ac8489d9ccde97331ffd97": {
+    "url": "thecradlemedia/65725",
+    "title": "Israeli Forces Withdraw from Qalandia Refugee Camp Following 48-Hour Assault",
+    "published": "2026-08-07T09:04:46.953824+00:00"
+  },
+  "8f7d42bfe2f42410abaafcc7d162e04eed6b4030a82c2498af93187ac7ce9bcf": {
+    "url": "thecradlemedia/65726",
+    "title": "Yemen Conflict: Ansarallah Forces Launch Fresh Strikes on Saudi-Backed Positions",
+    "published": "2026-08-07T09:04:44.952525+00:00"
+  },
+  "5c8fe60c4f1a0187c74a00bd46b0f5da5416cc883cc7dbf8edea7b7369b982dc": {
+    "url": "thecradlemedia/65730",
+    "title": "Yemen Conflict: Ansarallah Drone Strike Kills Government Troops in Marib",
+    "published": "2026-08-07T09:04:03.251779+00:00"
+  },
+  "cf6060172ad34ea556da8f073bb5a74d25cb708b1916d2fe64e1e12779d2def3": {
+    "url": "https://en.mehrnews.com/news/246808/At-least-six-killed-15-wounded-in-Thailand-school-shooting",
+    "title": "At least six killed, 15 wounded in Thailand school shooting",
+    "published": "2026-08-07T08:50:15+00:00"
+  },
   "73abe53f34fa9af2b3b395d0f331770f3b411db8f7110d6e04c29e27b803cb6a": {
     "url": "presstv/201868",
     "title": "US Senator Bernie Sanders Condemns Trump's Policies as Authoritarian and Corrupt",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/65711",
     "title": "Trump's Board of 'Peace' Awards First Gaza Reconstruction Contract for Military Outpost",
     "published": "2026-08-07T07:22:40.100486+00:00"
+  },
+  "29845ff3f6c0d97aedcf5710615ee52c4511f033252fab1dffa3df567c3567dd": {
+    "url": "https://english.almanar.com.lb/article/113167/",
+    "title": "West Bank: Dozens Injured in Israeli Raid on Qalandiya as Occupation Moves to Expand Settlements - Al-Manar TV Lebanon",
+    "published": "2026-08-07T07:12:56+00:00"
   },
   "8dfd73908d5ec09651ade4a10c4ca6cb4fbb5d7c60abcf8601bd2a972ffa5dc1": {
     "url": "https://tass.com/politics/2169989",
@@ -159,10 +199,20 @@
     "title": "Russian forces strike Ukrainian army\u2019s infrastructure sites, logistics centers in past day",
     "published": "2026-08-06T13:14:33+00:00"
   },
+  "4f6068bd88ed03bdaa81b78f5f2983bba02999a8ad16272366541c70f1294bde": {
+    "url": "https://tass.com/defense/2169717",
+    "title": "Kiev suffering enormously due to Russian strikes on port logistics \u2014 expert",
+    "published": "2026-08-06T12:59:45+00:00"
+  },
   "df0bb60b88b11ce71b6c06e41922fe808f5c2472a4e90ad23faff0ee680991ea": {
     "url": "https://tass.com/politics/2169701",
     "title": "Russia awaits global response to Ukrainian drone strike on Zaporozhye NPP \u2014 MFA",
     "published": "2026-08-06T12:29:29+00:00"
+  },
+  "b84c7277e88c495b56fbe2002ebe11c9a5309421b1c0a35a47944024c55a829a": {
+    "url": "https://www.rt.com/news/643928-trump-hegseth-weapons-stockpiles-drain/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump presses Hegseth on Iran war arsenal drain \u2013 media",
+    "published": "2026-08-06T11:16:07+00:00"
   },
   "00136c2199f14fa66918a2a93bdfc78afef8eaa149f898c18a54c9ef0a76212f": {
     "url": "https://tass.com/emergencies/2169661",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/35732",
     "title": "Dubai Warehouse Fire Possibly Caused by Yemeni Missile",
     "published": "2026-08-05T02:47:08.878792+00:00"
-  },
-  "cef51cfb9153cf4a929bf67884db0eac4d90be281f9ceabb8466d6990d334d1c": {
-    "url": "Middle_East_Spectator/35740",
-    "title": "Iran, Oman Close to Announcing Interim Deal on Strait of Hormuz",
-    "published": "2026-08-05T02:47:02.558618+00:00"
-  },
-  "322f1d85968f8a3248f58c5aa3f38ee5a261d1a78f2867b3c803b7667998ff8b": {
-    "url": "https://tass.com/politics/2169041",
-    "title": "Appointment of new commander-in-chief of Ukrainian military escalates terrorism \u2014 MFA",
-    "published": "2026-08-04T23:53:01+00:00"
-  },
-  "d3aa90387dac614ff9044623b9134b5e8b239d73447db990914e8f8c1f8489c9": {
-    "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-    "title": "Russian missile attack kills 14, injures 27 in Ukraine\u2019s Kyiv region",
-    "published": "2026-08-04T23:24:43+00:00"
-  },
-  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
-    "url": "CensoredMen/232",
-    "title": "Trump Dismisses US Opposition to Iran Conflict",
-    "published": "2026-08-04T23:15:11.291333+00:00"
-  },
-  "c207b16887e5b006ba1dc9b04cd15968a8a43fef272bf7589a9c58695f063dbc": {
-    "url": "presstv/201633",
-    "title": "Explosions Rock Kiev, Ukraine",
-    "published": "2026-08-04T23:13:40.683516+00:00"
-  },
-  "48d98f497597b50355ce1b13106a3834e0130dfef1126d74ec437690252254a0": {
-    "url": "DDGeopolitics/190655",
-    "title": "Russia Launches Ballistic Missile Strikes on Kiev",
-    "published": "2026-08-04T23:11:58.879481+00:00"
-  },
-  "b2833f315245cb9552403f681ae9dcfde5f111f29f70906656d47912b5f44cf6": {
-    "url": "QudsNen/234135",
-    "title": "Israeli Airstrike on Gaza Residential Block Claims 308 Lives",
-    "published": "2026-08-04T23:11:32.876784+00:00"
-  },
-  "d68f9d3874c3fc3e5ec62ea01666ace5ffc6cd4be3bcc030c057f561a180f188": {
-    "url": "Middle_East_Spectator/35713",
-    "title": "US Depletes Stockpile of Long-Range Missiles in Iran Campaign",
-    "published": "2026-08-04T23:08:39.401925+00:00"
-  },
-  "7a383c96cfb7956be4a5d5ec5defb9f5ff412fe68c0d28bbebba64d8a3717f11": {
-    "url": "Middle_East_Spectator/35725",
-    "title": "Iran Boosts Ballistic Missile Capabilities with Anti-Jamming Technology",
-    "published": "2026-08-04T23:08:38.059320+00:00"
-  },
-  "85c048de6dc9cdb4cb1ff5baef0083c5b2b36dcac5128869212144f4650e5255": {
-    "url": "Slavyangrad/172096",
-    "title": "Russia-Ukraine Conflict: Chernihiv Oblast Invasion Fears",
-    "published": "2026-08-04T21:21:52.714344+00:00"
   }
 }

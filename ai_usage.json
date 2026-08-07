@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5611,
+  "total_calls": 5615,
   "tiers": {
-    "groq": 5592,
+    "groq": 5596,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-03T21:06:21.821816+00:00",
-      "tier": "groq",
-      "article": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production"
-    },
-    {
-      "timestamp": "2026-08-03T21:07:01.187994+00:00",
-      "tier": "groq",
-      "article": "Pentagon boosts Patriot, THAAD interceptor output amid stockpile strain"
-    },
-    {
-      "timestamp": "2026-08-03T21:07:48.445927+00:00",
-      "tier": "groq",
-      "article": "Pentagon concludes agreements worth $3 billion to increase interceptor production volumes"
-    },
-    {
-      "timestamp": "2026-08-03T21:08:05.745056+00:00",
-      "tier": "groq",
-      "article": "Blast reported near oil tanker off Oman coast"
-    },
     {
       "timestamp": "2026-08-03T23:04:20.100490+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T07:22:33.725454+00:00",
       "tier": "groq",
       "article": "Iran\u2019s Army Force fully prepared to confront enemies: spox"
+    },
+    {
+      "timestamp": "2026-08-07T09:02:47.062956+00:00",
+      "tier": "groq",
+      "article": "Kiev suffering enormously due to Russian strikes on port logistics \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-07T09:03:22.353484+00:00",
+      "tier": "groq",
+      "article": "At least six killed, 15 wounded in Thailand school shooting"
+    },
+    {
+      "timestamp": "2026-08-07T09:03:40.663117+00:00",
+      "tier": "groq",
+      "article": "West Bank: Dozens Injured in Israeli Raid on Qalandiya as Occupation Moves to Expand Settlements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-07T09:03:59.485898+00:00",
+      "tier": "groq",
+      "article": "Trump presses Hegseth on Iran war arsenal drain \u2013 media"
     }
   ]
 }
