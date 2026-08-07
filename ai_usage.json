@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5615,
+  "total_calls": 5619,
   "tiers": {
-    "groq": 5596,
+    "groq": 5600,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-03T23:04:20.100490+00:00",
-      "tier": "groq",
-      "article": "Iran called off Ukraine strikes after Kiev\u2019s apology"
-    },
-    {
-      "timestamp": "2026-08-03T23:04:38.455866+00:00",
-      "tier": "groq",
-      "article": "Two employees of ZNPP injured by Ukrainian mine remain in serious condition"
-    },
-    {
-      "timestamp": "2026-08-03T23:05:04.647973+00:00",
-      "tier": "groq",
-      "article": "Kiev sent forcibly mobilized soldiers for assaults in Kharkov Region \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-03T23:05:22.991628+00:00",
-      "tier": "groq",
-      "article": "Ship traffic drops sharply at Bab el-Mandeb"
-    },
     {
       "timestamp": "2026-08-04T02:47:04.937989+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T09:03:59.485898+00:00",
       "tier": "groq",
       "article": "Trump presses Hegseth on Iran war arsenal drain \u2013 media"
+    },
+    {
+      "timestamp": "2026-08-07T10:55:54.029246+00:00",
+      "tier": "groq",
+      "article": "Houthis launch missile strike on displacement camp in Yemen\u2019s Marib Governorate \u2014 TV"
+    },
+    {
+      "timestamp": "2026-08-07T10:56:28.358209+00:00",
+      "tier": "groq",
+      "article": "Three civilians injured in Ukrainian drone strike on Russia\u2019s Belgorod"
+    },
+    {
+      "timestamp": "2026-08-07T10:56:47.611220+00:00",
+      "tier": "groq",
+      "article": "Russia hits three dry cargo ships, destroys Ukrainian army train: results of new strikes"
+    },
+    {
+      "timestamp": "2026-08-07T10:57:06.633860+00:00",
+      "tier": "groq",
+      "article": "Intel. min. arrests 21 Mossad-linked mercenaries in SE Iran"
     }
   ]
 }
