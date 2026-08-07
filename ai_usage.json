@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5635,
+  "total_calls": 5639,
   "tiers": {
-    "groq": 5616,
+    "groq": 5620,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T17:51:19.628205+00:00",
-      "tier": "groq",
-      "article": "11 killed, injured in drone attack on Moscow Region"
-    },
-    {
-      "timestamp": "2026-08-04T17:51:54.242549+00:00",
-      "tier": "groq",
-      "article": "Majority of Israelis Cast Doubt on Results of New Iran Attack: Poll - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-04T17:52:13.228686+00:00",
-      "tier": "groq",
-      "article": "The West won the headlines - Iran changed history"
-    },
-    {
-      "timestamp": "2026-08-04T17:52:31.497196+00:00",
-      "tier": "groq",
-      "article": "'Digital lifeline' - Gaza tech workers give glimpse of possible future"
-    },
     {
       "timestamp": "2026-08-04T19:41:17.730127+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T19:03:51.718486+00:00",
       "tier": "groq",
       "article": "Hong Kong\u2019s Lingnan University student union ceases operations after 6 decades"
+    },
+    {
+      "timestamp": "2026-08-07T20:44:18.712100+00:00",
+      "tier": "groq",
+      "article": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant"
+    },
+    {
+      "timestamp": "2026-08-07T20:44:59.640258+00:00",
+      "tier": "groq",
+      "article": "Iraqi paramilitary groups postpone attack on neighboring country"
+    },
+    {
+      "timestamp": "2026-08-07T20:45:18.456304+00:00",
+      "tier": "groq",
+      "article": "How North Korean forces are bolstering Russia\u2019s war against Ukraine"
+    },
+    {
+      "timestamp": "2026-08-07T20:45:34.686487+00:00",
+      "tier": "groq",
+      "article": "All Russian Navy fleets possess unmanned maritime systems units \u2014 admiral"
     }
   ]
 }
