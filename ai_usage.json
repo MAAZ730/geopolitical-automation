@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5619,
+  "total_calls": 5623,
   "tiers": {
-    "groq": 5600,
+    "groq": 5604,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T02:47:04.937989+00:00",
-      "tier": "groq",
-      "article": "Death toll from Venezuela earthquakes passes 6,000"
-    },
-    {
-      "timestamp": "2026-08-04T02:47:44.279858+00:00",
-      "tier": "groq",
-      "article": "Rare Bourbon virus with no cure detected in New York"
-    },
-    {
-      "timestamp": "2026-08-04T02:48:38.309512+00:00",
-      "tier": "groq",
-      "article": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say"
-    },
-    {
-      "timestamp": "2026-08-04T02:48:54.328126+00:00",
-      "tier": "groq",
-      "article": "Tehran denies Trump&#039;s claims of &#039;new talks,&#039; says Hormuz discussions &#039;with Oman only\u2019"
-    },
     {
       "timestamp": "2026-08-04T06:30:50.753386+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T10:57:06.633860+00:00",
       "tier": "groq",
       "article": "Intel. min. arrests 21 Mossad-linked mercenaries in SE Iran"
+    },
+    {
+      "timestamp": "2026-08-07T13:10:28.932317+00:00",
+      "tier": "groq",
+      "article": "\u2018One Child Dead Each Day\u2019: Renewed Israeli Barrages Pound Gaza as UN Warns Truce Is Failing - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-07T13:11:08.192171+00:00",
+      "tier": "groq",
+      "article": "Japan\u2019s Tomahawk missile tests require joint countermeasures \u2014 Chinese Defense Ministry"
+    },
+    {
+      "timestamp": "2026-08-07T13:12:01.595608+00:00",
+      "tier": "groq",
+      "article": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know"
+    },
+    {
+      "timestamp": "2026-08-07T13:12:53.206841+00:00",
+      "tier": "groq",
+      "article": "The EU\u2019s nuclear reckoning is finally here"
     }
   ]
 }
