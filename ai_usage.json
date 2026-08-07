@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5607,
+  "total_calls": 5611,
   "tiers": {
-    "groq": 5588,
+    "groq": 5592,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-03T19:41:23.064904+00:00",
-      "tier": "groq",
-      "article": "Seventeen injured in Ukrainian drone attack on Gelendzhik hospitalized"
-    },
-    {
-      "timestamp": "2026-08-03T19:41:56.607990+00:00",
-      "tier": "groq",
-      "article": "Liberation of Svetloye creates springboard for offensive on Dobropolye \u2014 Russian soldier"
-    },
-    {
-      "timestamp": "2026-08-03T19:42:44.340932+00:00",
-      "tier": "groq",
-      "article": "Four Zaporozhye nuclear plant workers injured by Ukrainian mine blast \u2014 ZNPP"
-    },
-    {
-      "timestamp": "2026-08-03T19:43:36.545530+00:00",
-      "tier": "groq",
-      "article": "Two helicopters collide while battling wildfires (VIDEOS)"
-    },
     {
       "timestamp": "2026-08-03T21:06:21.821816+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T04:30:24.617222+00:00",
       "tier": "groq",
       "article": "Eight armed operatives arrested in SE Iran: IRGC Ground Force"
+    },
+    {
+      "timestamp": "2026-08-07T07:20:48.943297+00:00",
+      "tier": "groq",
+      "article": "NATO directly involved in strikes on Russian territory, hackers say citing files"
+    },
+    {
+      "timestamp": "2026-08-07T07:21:22.764940+00:00",
+      "tier": "groq",
+      "article": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia"
+    },
+    {
+      "timestamp": "2026-08-07T07:22:15.951577+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike Ukrainian army\u2019s infrastructure sites, logistics centers in past day"
+    },
+    {
+      "timestamp": "2026-08-07T07:22:33.725454+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Army Force fully prepared to confront enemies: spox"
     }
   ]
 }

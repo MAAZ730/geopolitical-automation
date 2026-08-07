@@ -1,4 +1,44 @@
 {
+  "73abe53f34fa9af2b3b395d0f331770f3b411db8f7110d6e04c29e27b803cb6a": {
+    "url": "presstv/201868",
+    "title": "US Senator Bernie Sanders Condemns Trump's Policies as Authoritarian and Corrupt",
+    "published": "2026-08-07T07:30:07.704589+00:00"
+  },
+  "bf921e019bc34a034473159aa5310dbc8eedd852d4f0ef157e31d0a6cfca5238": {
+    "url": "presstv/201870",
+    "title": "Explosions Rock Yemen's Marib Province",
+    "published": "2026-08-07T07:27:36.672806+00:00"
+  },
+  "29ca26a71c58b5d9504c5171bce800e652208ea34009bd0c53d2fbb904efd9a8": {
+    "url": "BellumActaNews/176215",
+    "title": "Chilean President Kast Attends Inauguration of Colombia's President-elect De La Espriella",
+    "published": "2026-08-07T07:26:31.812410+00:00"
+  },
+  "af19ca34e91269dfe52f385877108ebba9a21a375dc7ca223b2008ef9d712406": {
+    "url": "QudsNen/234402",
+    "title": "Israeli Artillery Strikes Hit Southern Lebanon",
+    "published": "2026-08-07T07:23:31.834643+00:00"
+  },
+  "4076b8bdc887f7ca3f8473af58353b65b776466c3e6c1ace74972390e5969a07": {
+    "url": "thecradlemedia/65710",
+    "title": "Uganda Approves Troop Deployment to Gaza as Part of US-Led International Force",
+    "published": "2026-08-07T07:22:49.755434+00:00"
+  },
+  "cb6aa3145d2abd66e217f5cbace692491033a2feb32858c972f0f48f25dad06e": {
+    "url": "thecradlemedia/65711",
+    "title": "Trump's Board of 'Peace' Awards First Gaza Reconstruction Contract for Military Outpost",
+    "published": "2026-08-07T07:22:40.100486+00:00"
+  },
+  "8dfd73908d5ec09651ade4a10c4ca6cb4fbb5d7c60abcf8601bd2a972ffa5dc1": {
+    "url": "https://tass.com/politics/2169989",
+    "title": "NATO directly involved in strikes on Russian territory, hackers say citing files",
+    "published": "2026-08-07T07:03:51+00:00"
+  },
+  "54e8a341945529190a837d8e6fc34779cdee82df36efac726b7363b233dbb602": {
+    "url": "https://tass.com/politics/2169981",
+    "title": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia",
+    "published": "2026-08-07T06:39:35+00:00"
+  },
   "c3152da5aa6ed7dc20fc4cdd53fc794b43da23f578ca72813016fded15d6daf1": {
     "url": "militarywave/24677",
     "title": "Russia's Kursk Region Liberated After Two-Year Ukrainian Occupation",
@@ -114,6 +154,11 @@
     "title": "Israeli Prison Raid Leaves Palestinian Doctor in Critical Condition",
     "published": "2026-08-06T14:19:47.749316+00:00"
   },
+  "8203d03c45b2177ed78130002a0af884b9888031798dd55d0d80ad99032bbc2b": {
+    "url": "https://tass.com/politics/2169721",
+    "title": "Russian forces strike Ukrainian army\u2019s infrastructure sites, logistics centers in past day",
+    "published": "2026-08-06T13:14:33+00:00"
+  },
   "df0bb60b88b11ce71b6c06e41922fe808f5c2472a4e90ad23faff0ee680991ea": {
     "url": "https://tass.com/politics/2169701",
     "title": "Russia awaits global response to Ukrainian drone strike on Zaporozhye NPP \u2014 MFA",
@@ -168,6 +213,11 @@
     "url": "https://english.almanar.com.lb/article/112787/",
     "title": "Lebanese Health Ministry says Israeli strikes on southern town of Burj Al-Shamali injured 8 citizens - Al-Manar TV Lebanon",
     "published": "2026-08-06T08:37:32+00:00"
+  },
+  "4526e6bdc9b123ca9960b43bd227bb004a8cdecd5088407c1e4d0a0c9be3efa6": {
+    "url": "https://en.mehrnews.com/news/246799/Iran-s-Army-Force-fully-prepared-to-confront-enemies-spox",
+    "title": "Iran\u2019s Army Force fully prepared to confront enemies: spox",
+    "published": "2026-08-06T07:41:49+00:00"
   },
   "cdca8fb1da5212c93219b9a1020b1a2b3fe0e8f0a56a7a506567f43b4bbbc42f": {
     "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "Slavyangrad/172096",
     "title": "Russia-Ukraine Conflict: Chernihiv Oblast Invasion Fears",
     "published": "2026-08-04T21:21:52.714344+00:00"
-  },
-  "b900400f5e20a25723c35fa5d094322c070cf554d29c37d823e72db384bceab1": {
-    "url": "Slavyangrad/172101",
-    "title": "Russian Forces Strike Logistics Facility in Ukraine's Sumy Region",
-    "published": "2026-08-04T21:20:21.680194+00:00"
-  },
-  "83c93772c2c9f119e7f06a91bf064a283dc2870c0f7be2d0176ba01a91b96253": {
-    "url": "Slavyangrad/172103",
-    "title": "Russian Drone Strikes Disable Power to Ukraine's Defence Industry Facilities",
-    "published": "2026-08-04T21:19:42.421244+00:00"
-  },
-  "5988cf66ba7fc9b1d7d2b73b3568a6678c3887135aa06cce3793e7b1ee0b346e": {
-    "url": "presstv/201621",
-    "title": "China Deploys H-6N Bomber with JL-1 Nuclear-Capable Missile",
-    "published": "2026-08-04T21:18:35.868794+00:00"
-  },
-  "c94869072bde8a69a7bd3946d485b8fbd48f86091e04994201b79e15e039f273": {
-    "url": "Middle_East_Spectator/35726",
-    "title": "US Depletes THAAD and Patriot Missile Stockpiles Amid Ongoing Iran Conflict",
-    "published": "2026-08-04T21:18:20.536801+00:00"
-  },
-  "64dd0fe2a9e1dacada02a02a8f9dc026fb8c12e75ea749ef1f6dcb5d4ac35c96": {
-    "url": "thecradlemedia/65578",
-    "title": "Yemen Drone Attack Targets Saudi Arabia's Najran Airport",
-    "published": "2026-08-04T21:18:16.002642+00:00"
-  },
-  "f27863e13f607bc494fe5a8b59a8674d25bfa534f1e5413091234d92e283bfb8": {
-    "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
-    "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
-    "published": "2026-08-04T20:20:11+00:00"
-  },
-  "8255a348248d29cbbce215eac060f8b1732ab539df16937066d17cdc8561fb8f": {
-    "url": "https://www.defensenews.com/industry/2026/08/04/lockheed-seeks-us-mineral-supplies-after-trump-supply-chain-push-sources-say/",
-    "title": "Lockheed seeks US mineral supplies after Trump supply-chain push, sources say",
-    "published": "2026-08-04T20:00:08+00:00"
-  },
-  "6b59ec2d9c3855f07d6c21658a5bda99931dba29be9ab45963034a0527e52084": {
-    "url": "intelslava/92031",
-    "title": "Iranian Kheibar Shekan MRBM Destroyed in Northwestern Iran",
-    "published": "2026-08-04T19:47:00.469767+00:00"
-  },
-  "576ec2eae5c224cd4650c2b698cefbaa791f414d2b91d8f94cf21ce75e9de3cd": {
-    "url": "presstv/201616",
-    "title": "Pakistan, Iran Agree on Roadmap to Boost Bilateral Trade",
-    "published": "2026-08-04T19:46:15.619510+00:00"
-  },
-  "64c7da36fa28ae0839032be561d3f2454c87bd03777fad78f429dc13f4448f00": {
-    "url": "presstv/201618",
-    "title": "Khyber Pakhtunkhwa Floods Leave Trail of Destruction",
-    "published": "2026-08-04T19:45:02.937987+00:00"
   }
 }
