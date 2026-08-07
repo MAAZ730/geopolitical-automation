@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5639,
+  "total_calls": 5643,
   "tiers": {
-    "groq": 5620,
+    "groq": 5624,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T19:41:17.730127+00:00",
-      "tier": "groq",
-      "article": "Yemeni Drone Attack Strikes Sensitive Saudi Target in Najran: Spokesman - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-04T19:41:56.994868+00:00",
-      "tier": "groq",
-      "article": "Russian troops strike auto equipment plant, military cargo ships, port terminal in Ukraine"
-    },
-    {
-      "timestamp": "2026-08-04T19:42:15.605862+00:00",
-      "tier": "groq",
-      "article": "US used \u2018virtually all\u2019 long-range precision missiles during Iran war, sources say"
-    },
-    {
-      "timestamp": "2026-08-04T19:42:31.852657+00:00",
-      "tier": "groq",
-      "article": "Senior Russian diplomat outlines conditions for Ukraine talks"
-    },
     {
       "timestamp": "2026-08-04T21:16:31.256391+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T20:45:34.686487+00:00",
       "tier": "groq",
       "article": "All Russian Navy fleets possess unmanned maritime systems units \u2014 admiral"
+    },
+    {
+      "timestamp": "2026-08-07T22:39:13.349438+00:00",
+      "tier": "groq",
+      "article": "Iraqi Resistance 'delays' planned retaliatory strikes"
+    },
+    {
+      "timestamp": "2026-08-07T22:39:50.360756+00:00",
+      "tier": "groq",
+      "article": "Musk denies Kiev assistance in targeting strikes against Russia \u2014 magazine"
+    },
+    {
+      "timestamp": "2026-08-07T22:40:08.096506+00:00",
+      "tier": "groq",
+      "article": "Kiev troops attack DPR territory 30 times in past day, 11 wounded"
+    },
+    {
+      "timestamp": "2026-08-07T22:40:50.368429+00:00",
+      "tier": "groq",
+      "article": "Tehran, Dushanbe discuss ways to deepen scientific, educational co-op"
     }
   ]
 }
