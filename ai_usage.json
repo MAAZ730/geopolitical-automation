@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5623,
+  "total_calls": 5627,
   "tiers": {
-    "groq": 5604,
+    "groq": 5608,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T06:30:50.753386+00:00",
-      "tier": "groq",
-      "article": "Moscow claims 14 killed, 59 injured in Ukrainian drone attack"
-    },
-    {
-      "timestamp": "2026-08-04T06:31:10.614340+00:00",
-      "tier": "groq",
-      "article": "Seventeen UAVs shot down over Leningrad Region, one person injured"
-    },
-    {
-      "timestamp": "2026-08-04T06:31:29.872112+00:00",
-      "tier": "groq",
-      "article": "Drone attack on Moscow Region kills five, leaves six people injured"
-    },
-    {
-      "timestamp": "2026-08-04T06:31:47.932048+00:00",
-      "tier": "groq",
-      "article": "Iran not currently negotiating with US: FM spox"
-    },
     {
       "timestamp": "2026-08-04T10:42:37.762604+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T13:12:53.206841+00:00",
       "tier": "groq",
       "article": "The EU\u2019s nuclear reckoning is finally here"
+    },
+    {
+      "timestamp": "2026-08-07T14:55:21.395841+00:00",
+      "tier": "groq",
+      "article": "Russian troops liberate eight communities in Ukraine operation over week \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-07T14:56:02.590407+00:00",
+      "tier": "groq",
+      "article": "Concerned Ukrainians help Russian troops deliver more accurate strikes \u2014 underground"
+    },
+    {
+      "timestamp": "2026-08-07T14:56:20.949434+00:00",
+      "tier": "groq",
+      "article": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks"
+    },
+    {
+      "timestamp": "2026-08-07T14:56:37.087037+00:00",
+      "tier": "groq",
+      "article": "Israeli occupation troops clear 10 million tons of rubble in Gaza to &#039;erase evidence&#039; of genocide"
     }
   ]
 }
