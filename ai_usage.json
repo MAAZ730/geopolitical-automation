@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5603,
+  "total_calls": 5607,
   "tiers": {
-    "groq": 5584,
+    "groq": 5588,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-03T17:53:51.467466+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Seven people killed in drone attack on Gelendzhik, three children among them"
-    },
-    {
-      "timestamp": "2026-08-03T17:54:26.946911+00:00",
-      "tier": "groq",
-      "article": "Israeli regime intensifies strikes on south Lebanon"
-    },
-    {
-      "timestamp": "2026-08-03T17:55:16.161545+00:00",
-      "tier": "groq",
-      "article": "Tigray refugees flee into Sudan after deadly violence on Ethiopia border"
-    },
-    {
-      "timestamp": "2026-08-03T17:55:32.521502+00:00",
-      "tier": "groq",
-      "article": "Israeli court bans use of crocodiles to secure prisons with terrorists"
-    },
     {
       "timestamp": "2026-08-03T19:41:23.064904+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T00:07:26.017723+00:00",
       "tier": "groq",
       "article": "Iran says deal with Oman on Strait of Hormuz is 'in final stages'"
+    },
+    {
+      "timestamp": "2026-08-07T04:28:35.627442+00:00",
+      "tier": "groq",
+      "article": "\u2018No red line\u2019: South Lebanon residents outraged as Israel resumes strikes"
+    },
+    {
+      "timestamp": "2026-08-07T04:29:15.121159+00:00",
+      "tier": "groq",
+      "article": "Russia awaits global response to Ukrainian drone strike on Zaporozhye NPP \u2014 MFA"
+    },
+    {
+      "timestamp": "2026-08-07T04:30:08.793483+00:00",
+      "tier": "groq",
+      "article": "Houthi attacks reportedly kill at least 30 Yemeni government forces"
+    },
+    {
+      "timestamp": "2026-08-07T04:30:24.617222+00:00",
+      "tier": "groq",
+      "article": "Eight armed operatives arrested in SE Iran: IRGC Ground Force"
     }
   ]
 }
