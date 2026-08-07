@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5627,
+  "total_calls": 5631,
   "tiers": {
-    "groq": 5608,
+    "groq": 5612,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T10:42:37.762604+00:00",
-      "tier": "groq",
-      "article": "Killed and injured in Moscow Region, 320 downed UAVs: aftermath of drone attacks on Russia"
-    },
-    {
-      "timestamp": "2026-08-04T10:43:16.061785+00:00",
-      "tier": "groq",
-      "article": "Pantsir missile and gun system effectively destroys long-rage strike drones \u2014 publication"
-    },
-    {
-      "timestamp": "2026-08-04T10:44:03.748621+00:00",
-      "tier": "groq",
-      "article": "Ukrainian troops hunting down Russian civilian buses, attacking over 30 this summer \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-08-04T10:44:22.093572+00:00",
-      "tier": "groq",
-      "article": "Has T\u00fcrkiye\u2019s F-35 dream crashed for good?"
-    },
     {
       "timestamp": "2026-08-04T14:22:21.752157+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T14:56:37.087037+00:00",
       "tier": "groq",
       "article": "Israeli occupation troops clear 10 million tons of rubble in Gaza to &#039;erase evidence&#039; of genocide"
+    },
+    {
+      "timestamp": "2026-08-07T16:56:59.374638+00:00",
+      "tier": "groq",
+      "article": "Iranian attacks leave hundreds of US service members with enduring brain trauma"
+    },
+    {
+      "timestamp": "2026-08-07T16:57:40.709135+00:00",
+      "tier": "groq",
+      "article": "Two civilians killed in Houthi strike on Marib, says Yemen\u2019s government"
+    },
+    {
+      "timestamp": "2026-08-07T16:58:31.459604+00:00",
+      "tier": "groq",
+      "article": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos"
+    },
+    {
+      "timestamp": "2026-08-07T16:58:47.763611+00:00",
+      "tier": "groq",
+      "article": "Iran says Hormuz deal \u2018nearing completion\u2019"
     }
   ]
 }

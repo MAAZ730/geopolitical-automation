@@ -1,4 +1,44 @@
 {
+  "0242d7fdb8cc93e2745ebb3be3f89112090db7ff1c5c00aaf986c8f054de841f": {
+    "url": "BellumActaNews/176226",
+    "title": "Drone Attack Targets Wildberries Warehouse in Yekaterinburg",
+    "published": "2026-08-07T17:02:00.089328+00:00"
+  },
+  "44b451a5e6f123592f1325d88ece8764859aab0e5b854a3aa0bd42902ac472e5": {
+    "url": "DDGeopolitics/190827",
+    "title": "Russia-Ukraine Conflict: Drone Strikes Intensify Amid Naval Blockade",
+    "published": "2026-08-07T17:01:28.945018+00:00"
+  },
+  "9a251b7d94b1250abdd61fe02e39f7ec47b4963eaa8d6044f4c4fa6bbe81e8e3": {
+    "url": "DDGeopolitics/190843",
+    "title": "Ukrainian Ship Hit by Drones Off Odessa Coast",
+    "published": "2026-08-07T17:00:21.616550+00:00"
+  },
+  "20aa00885bd110b3f8d55e7cfd847894dd02409aa487134fbefdd088ed10e86d": {
+    "url": "QudsNen/234465",
+    "title": "Israeli Forces Detain Palestinian Man in West Bank",
+    "published": "2026-08-07T16:59:35.144888+00:00"
+  },
+  "b58a9e1effd3f05e341c17dc376df52e49ca7f0e2b544621b652d275b6c36bf6": {
+    "url": "thecradlemedia/65785",
+    "title": "Turkiye Faces EU Pressure Over Russian Gas Origin",
+    "published": "2026-08-07T16:58:54.291619+00:00"
+  },
+  "c23a2cb70a9a65ed05d8bb19eadeae233e0dcf7da77fa44efd7ad4964856e9bc": {
+    "url": "thecradlemedia/65789",
+    "title": "US Treasury Sparks Controversy Over Secret Euro-Yen Swap",
+    "published": "2026-08-07T16:58:52.943695+00:00"
+  },
+  "99e86398353f3eb4e08f83535e1caeb89bb8dac9f01b52c3f38d99a43db9e9a8": {
+    "url": "https://www.tehrantimes.com/news/528912/Iranian-attacks-leave-hundreds-of-US-service-members-with-enduring",
+    "title": "Iranian attacks leave hundreds of US service members with enduring brain trauma",
+    "published": "2026-08-07T16:53:48+00:00"
+  },
+  "eae53f7713b5dd4cc7b9941d2722d2937d9beb938f86a1ac11acf7a83d6354bc": {
+    "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
+    "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+    "published": "2026-08-07T15:10:22+00:00"
+  },
   "94ff0b55d15cb45518cc8048156f8f290a3720709e252e034da1dcc8e3fac666": {
     "url": "DDGeopolitics/190828",
     "title": "Iran Displays Remains of Downed US, Israeli Drones",
@@ -28,6 +68,11 @@
     "url": "thecradlemedia/65782",
     "title": "UAE Oil Company Faces Disruptions Amid Strait of Hormuz Attacks",
     "published": "2026-08-07T14:56:41.373539+00:00"
+  },
+  "e1481e86c71b604030b870a50f1c9a82692f3a4137dcb7570b6bfabd3f4f6a7d": {
+    "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
+    "title": "Two civilians killed in Houthi strike on Marib, says Yemen\u2019s government",
+    "published": "2026-08-07T14:22:24+00:00"
   },
   "ea0a06bf23bae09497d6196ef5d53929ed7fb1beef04d2cf02ad2354aaeeaf4d": {
     "url": "https://www.defensenews.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
@@ -283,6 +328,11 @@
     "url": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
     "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
     "published": "2026-08-06T22:41:09+00:00"
+  },
+  "aa69695d8b1ea5dfa5422900bb46d693dcbf6485bd991e2d34a10263af2b6e9e": {
+    "url": "https://www.rt.com/news/643958-iran-oman-hormuz-deal/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran says Hormuz deal \u2018nearing completion\u2019",
+    "published": "2026-08-06T21:02:37+00:00"
   },
   "8732e9099404d69814c4af1ca73c4fd2e636661bad34ab23bf07daf45c7465af": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/06-08-reported-ansarallah-yemen-yn?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65638",
     "title": "Gulf Markets React to US-Israeli Conflict with Iran",
     "published": "2026-08-05T14:16:41.387173+00:00"
-  },
-  "b543c701960df0cb9f2bae51514a1d727b73258aaa94f091b535e011548613c0": {
-    "url": "thecradlemedia/65643",
-    "title": "Israeli Drone Targets Southern Lebanon's Tebnine",
-    "published": "2026-08-05T14:16:39.648925+00:00"
-  },
-  "0d5ab753d2502b2ba811be4af747b4773decde3ad812343126a3c7ccfa599624": {
-    "url": "thecradlemedia/65651",
-    "title": "Gaza Pediatrician's Health Deteriorates in Israeli Prison",
-    "published": "2026-08-05T14:16:19.841538+00:00"
-  },
-  "0e750da7b7fcaaa48f586c277bafc1fff34798c88327185e377e568f400db513": {
-    "url": "https://tass.com/world/2169291",
-    "title": "Zelensky complains about threefold plunge in West\u2019s interceptor missile supplies to Kiev",
-    "published": "2026-08-05T13:25:15+00:00"
-  },
-  "35cb42373f3b4968fa6e87e4cb8a5666020c7e21f5a4165b0ba0c15cbd15e729": {
-    "url": "https://en.mehrnews.com/news/246784/Russian-drone-factory-director-badly-injured-in-car-explosion",
-    "title": "Russian drone factory director badly injured in car explosion",
-    "published": "2026-08-05T12:48:21+00:00"
-  },
-  "5fc68b6646a3d9991814e880de598bad916b40168043d4d38943f3b70a843079": {
-    "url": "https://en.mehrnews.com/news/246782/VIDEO-China-launches-Smart-Dragon-3-carrier-rocket-from-sea",
-    "title": "VIDEO: China launches Smart Dragon-3 carrier rocket from sea",
-    "published": "2026-08-05T10:47:29+00:00"
-  },
-  "a44ac7ce428276938d8b4cbbbac5d4a807e2171ddba01b0c9ee9ccdceda7e83f": {
-    "url": "DDGeopolitics/190690",
-    "title": "Drone Strike Hits ATB Grocery Truck in Kherson",
-    "published": "2026-08-05T10:47:26.864728+00:00"
-  },
-  "c0c6decea389b82e65dd6b3a677848c7a24b1da24914a8b75f7f8c75fec60fb8": {
-    "url": "QudsNen/234176",
-    "title": "Israeli Troops Clash with Palestinian Youth in Qalandia Refugee Camp",
-    "published": "2026-08-05T10:45:13.064385+00:00"
-  },
-  "e04652d1d61af96d3f94e3cbb7227c218a8ac5a0367b8ec9f65ffd8dcee58728": {
-    "url": "thecradlemedia/65615",
-    "title": "Israeli Forces Seal Off Qalandia Refugee Camp Amid Ongoing Raid",
-    "published": "2026-08-05T10:43:29.705785+00:00"
-  },
-  "da8b634483ef7e3525ed97e716884d55186e8cc7e0c1ad5904e0d86931491f03": {
-    "url": "thecradlemedia/65618",
-    "title": "Israeli Warplane Targets Village in Southern Lebanon",
-    "published": "2026-08-05T10:43:27.830254+00:00"
-  },
-  "27ddb6a76f22a0941ddd06c738fbc6c2282d888ec5ac2974f5debd7d8d67b012": {
-    "url": "thecradlemedia/65621",
-    "title": "Israeli Warplane Targets Mansouri, Southern Lebanon",
-    "published": "2026-08-05T10:43:25.853648+00:00"
   }
 }
