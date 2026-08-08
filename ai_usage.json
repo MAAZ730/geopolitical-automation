@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5647,
+  "total_calls": 5651,
   "tiers": {
-    "groq": 5628,
+    "groq": 5632,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T23:06:45.947448+00:00",
-      "tier": "groq",
-      "article": "Houthis claim strike on airport in southwestern Saudi Arabia"
-    },
-    {
-      "timestamp": "2026-08-04T23:07:20.674377+00:00",
-      "tier": "groq",
-      "article": "US officials skeptical of prospects for Iran nuclear deal \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-08-04T23:08:13.478556+00:00",
-      "tier": "groq",
-      "article": "\u2018Maximum use\u2019: Iran boosts military strength during ceasefire with US"
-    },
-    {
-      "timestamp": "2026-08-04T23:08:30.053032+00:00",
-      "tier": "groq",
-      "article": "FSB detains Ukrainian sympathizer who organized drone production, assembly in Crimea"
-    },
     {
       "timestamp": "2026-08-05T02:44:30.222463+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T01:50:52.854219+00:00",
       "tier": "groq",
       "article": "IRCS, ICRC underscore need for strategic partnership roadmap"
+    },
+    {
+      "timestamp": "2026-08-08T03:35:47.910339+00:00",
+      "tier": "groq",
+      "article": "Chair of US Joint Chiefs of Staff in search for \u2018off-ramp\u2019 from Iran war \u2014 TV"
+    },
+    {
+      "timestamp": "2026-08-08T03:36:25.337239+00:00",
+      "tier": "groq",
+      "article": "Spain gives Italy deadline to end border checks over migrant surge"
+    },
+    {
+      "timestamp": "2026-08-08T03:36:43.433510+00:00",
+      "tier": "groq",
+      "article": "Su-30SM2 fighters destroy mock enemy with missiles during exercise near Kaliningrad"
+    },
+    {
+      "timestamp": "2026-08-08T03:37:19.620982+00:00",
+      "tier": "groq",
+      "article": "Israeli troops enter southern Syria, open fire on populated areas \u2014 TV"
     }
   ]
 }

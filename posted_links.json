@@ -1,4 +1,39 @@
 {
+  "eb0768f69bbb39d5b3fa2873250250e65f5a95aa3599d1cab671035a2031abab": {
+    "url": "Slavyangrad/172518",
+    "title": "Southern Forces Destroy Ukrainian T-72 Tank",
+    "published": "2026-08-08T03:42:43.698339+00:00"
+  },
+  "056638ec6f4cc42ffc7c6acb1aed5c3f4f8cbf36bb998348eaeefffa3e5af9c3": {
+    "url": "Slavyangrad/172525",
+    "title": "Lvov Region Bus Assault: Elderly Woman Forced Off for Speaking Russian",
+    "published": "2026-08-08T03:41:33.220711+00:00"
+  },
+  "ba4708acf1c937be079fe565cfeee8a593f1fb3087395014eef40172b6086f67": {
+    "url": "intelslava/92263",
+    "title": "Russian Forces Target Ukrainian Logistics in Kharkiv Oblast",
+    "published": "2026-08-08T03:39:55.516144+00:00"
+  },
+  "e851266e447c58d6ab2d4e8b47521f775fab300493a28acfe751e4d93e482fb4": {
+    "url": "intelslava/92264",
+    "title": "Settlers Attack Ambulance in West Bank Clashes",
+    "published": "2026-08-08T03:38:13.433850+00:00"
+  },
+  "a11dabc02277f7702f71ac2d8903f22cc4c8bb6695068dd1b3bcad6529bcc895": {
+    "url": "QudsNen/234505",
+    "title": "Israeli Forces Detain Activists, Subject Them to Physical Abuse on Warships",
+    "published": "2026-08-08T03:37:31.673168+00:00"
+  },
+  "0933d13ac67b10a886b82c4b32263acc867d09726a50331dbf03da3a7ca95b9a": {
+    "url": "QudsNen/234512",
+    "title": "Israeli Court Orders Palestinian Man to Pay Compensation to Rabbi",
+    "published": "2026-08-08T03:37:30.492640+00:00"
+  },
+  "610b063d415b36ff41ae963611e79ad098c0fcc34500f798883e92f9ad61efee": {
+    "url": "https://tass.com/world/2170411",
+    "title": "Chair of US Joint Chiefs of Staff in search for \u2018off-ramp\u2019 from Iran war \u2014 TV",
+    "published": "2026-08-08T01:58:31+00:00"
+  },
   "9a8225a8c88bf4e38fbf9d2ad3ba20786ea09bdbea2c98044c2a66387aa21bea": {
     "url": "intelslava/92272",
     "title": "Russian Loitering Munitions Strike Logistics Complex in Dnipropetrovsk Oblast",
@@ -38,6 +73,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
     "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
     "published": "2026-08-07T23:15:01+00:00"
+  },
+  "d1db524a293a755fe112518dad4007e004323d5156554cbee2330e3b36c3df45": {
+    "url": "https://www.rt.com/news/644005-spain-threatens-italy-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Spain gives Italy deadline to end border checks over migrant surge",
+    "published": "2026-08-07T22:53:02+00:00"
   },
   "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
     "url": "CensoredMen/222",
@@ -259,6 +299,11 @@
     "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
     "published": "2026-08-07T14:10:14+00:00"
   },
+  "3166e4d1dc1c341e97d4c57e874956c13bcbf017aafd4796e9f340ac69a3b763": {
+    "url": "https://tass.com/defense/2170237",
+    "title": "Su-30SM2 fighters destroy mock enemy with missiles during exercise near Kaliningrad",
+    "published": "2026-08-07T13:47:47+00:00"
+  },
   "309713ca819c9a788262106646e611bcafd9fd425e7ce414e389502ee48cb2bc": {
     "url": "QudsNen/234442",
     "title": "Israeli Settlers Storm Jabal Salama Area in West Bank",
@@ -288,6 +333,11 @@
     "url": "thecradlemedia/65766",
     "title": "ICC Orders Separate Probe into Taliban's Persecution of Women Amid US Pressure",
     "published": "2026-08-07T13:13:05.313955+00:00"
+  },
+  "59481cd583d34a4e2740e988b838962a483b3cf1147819406f8b3a9027466496": {
+    "url": "https://tass.com/world/2170225",
+    "title": "Israeli troops enter southern Syria, open fire on populated areas \u2014 TV",
+    "published": "2026-08-07T13:07:14+00:00"
   },
   "e9bbc2844523621b7b89fb485d49d1d652d191e247f8e063d8ca31d0185fa8b2": {
     "url": "https://www.tehrantimes.com/news/528901/IRCS-ICRC-underscore-need-for-strategic-partnership-roadmap",
@@ -698,55 +748,5 @@
     "url": "QudsNen/234275",
     "title": "Israeli Forces Conduct Raid in Qalandiya Refugee Camp",
     "published": "2026-08-06T06:38:36.139258+00:00"
-  },
-  "5bab9a4423a339a325791690280a4d78b651bd4a6b010d7e198ed5857cde96c5": {
-    "url": "QudsNen/234278",
-    "title": "Israeli Forces Detain Former Palestinian Detainee in Jericho Raid",
-    "published": "2026-08-06T06:38:08.143630+00:00"
-  },
-  "514db40b588bcf7fcd430415e3038893cfe8ce30985e8cd7c700ecc8092384d5": {
-    "url": "QudsNen/234280",
-    "title": "Israeli Forces Conduct Raid on Qalandiya Refugee Camp",
-    "published": "2026-08-06T06:38:06.705587+00:00"
-  },
-  "692b5bc7ddb85a9e716d608aad9e9ed10a2fb7e0d4432bc183748d5f4e41f64e": {
-    "url": "https://en.mehrnews.com/news/246795/IRGC-Ground-Force-nabs-8-armed-militants-in-SE-Iran",
-    "title": "Eight armed operatives arrested in SE Iran: IRGC Ground Force",
-    "published": "2026-08-06T06:21:20+00:00"
-  },
-  "e42c5ce86a5f40361c0c266942b4877cc338bca87a33ffb80a95aaec301be22e": {
-    "url": "https://tass.com/world/2169501",
-    "title": "Trump believes Pentagon chief misleads him about weapons stockpiles \u2014 media",
-    "published": "2026-08-06T03:21:01+00:00"
-  },
-  "7e073d0bd29b742dcf432972d1a1978d02843d534a8d296350375ef67eb3d6e5": {
-    "url": "QudsNen/234265",
-    "title": "Gaza Faces Worsening Health Crisis Amid Chickenpox Outbreak",
-    "published": "2026-08-06T02:57:59.169602+00:00"
-  },
-  "00902a74a221ceda2904760eea098578fa1547eeeff505aec406b5c0a6130e8f": {
-    "url": "QudsNen/234267",
-    "title": "Israeli Drone Strike Hits Southern Lebanon, Injures One",
-    "published": "2026-08-06T02:57:57.997927+00:00"
-  },
-  "555439d44ba5d72f819372644e712bb08a10f9fa8c1238e56cb6a3ff3289888e": {
-    "url": "QudsNen/234268",
-    "title": "Israeli Tanks Fire on Displaced Palestinians in Southern Gaza",
-    "published": "2026-08-06T02:57:34.392074+00:00"
-  },
-  "cc1acf7165fb97f17f11f2feda27b9de9cc99b27d718b5c970d1b5ded1e9dccb": {
-    "url": "QudsNen/234270",
-    "title": "Glasgow Memorial Honors Palestinian Children Killed in Gaza",
-    "published": "2026-08-06T02:54:57.475365+00:00"
-  },
-  "a1517bec515779ca6e5b7a4465f4066b58b8ce702ab382898d42149383b464ec": {
-    "url": "QudsNen/234271",
-    "title": "Liverpool FC Faces Pressure to Cut Ties with Israeli-Linked Sponsors",
-    "published": "2026-08-06T02:51:57.901212+00:00"
-  },
-  "6732d20599d5bc8553eb27ae6e7f5713b315cd54a7ccb5c89bd47d3d61090990": {
-    "url": "QudsNen/234273",
-    "title": "Burger King Employee Fired for 'Free Palestine' Comment",
-    "published": "2026-08-06T02:51:56.680304+00:00"
   }
 }
