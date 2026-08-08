@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5679,
+  "total_calls": 5683,
   "tiers": {
-    "groq": 5660,
+    "groq": 5664,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-05T23:03:17.307024+00:00",
-      "tier": "groq",
-      "article": "Ukrainian forces attack DPR 25 times over past day"
-    },
-    {
-      "timestamp": "2026-08-05T23:03:37.299398+00:00",
-      "tier": "groq",
-      "article": "NATO chief pledges Zelensky to urgently obtain interceptor missiles for Kiev \u2014 Reuters"
-    },
-    {
-      "timestamp": "2026-08-05T23:04:00.665632+00:00",
-      "tier": "groq",
-      "article": "Trump rejects Zelensky\u2019s request for more Patriot missiles \u2013 FT"
-    },
-    {
-      "timestamp": "2026-08-05T23:04:19.414610+00:00",
-      "tier": "groq",
-      "article": "Radar hit cripples Saudi airport amid Yemeni retaliation"
-    },
     {
       "timestamp": "2026-08-06T02:47:04.368619+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T16:38:44.190075+00:00",
       "tier": "groq",
       "article": "Unknown drones spotted over Bundeswehr base in western Germany \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-08T18:41:42.092722+00:00",
+      "tier": "groq",
+      "article": "Eleven civilians injured in Ukraine\u2019s drone attacks on DPR"
+    },
+    {
+      "timestamp": "2026-08-08T18:42:23.371380+00:00",
+      "tier": "groq",
+      "article": "A beat written in blood across Gaza, Lebanon, Yemen, and Iran"
+    },
+    {
+      "timestamp": "2026-08-08T18:43:11.356601+00:00",
+      "tier": "groq",
+      "article": "Zelensky not welcome in Serbia, his visit not in its interests \u2014 Serbian politician"
+    },
+    {
+      "timestamp": "2026-08-08T18:43:56.412935+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz will stay closed until US changes course: Iran\u2019s security chief"
     }
   ]
 }
