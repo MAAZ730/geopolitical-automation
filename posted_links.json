@@ -1,4 +1,39 @@
 {
+  "fe2f92b48ff4975155eae359cae039f7d1c85be9a7df3823f936cdc273b4d3fb": {
+    "url": "mod_russia_en/28763",
+    "title": "Russian Forces Intercept Enemy Drones in Aerial Engagement",
+    "published": "2026-08-08T20:42:15.854330+00:00"
+  },
+  "822d9aaeb90f1b62dd6523e42d6e8289d897b8a1038ace1740be258e90135326": {
+    "url": "mod_russia_en/28765",
+    "title": "Ukrainian Military Medics Remove Explosive Device from Wounded Serviceman",
+    "published": "2026-08-08T20:41:31.989604+00:00"
+  },
+  "d2b6d0c224242abccb1bb9ced5f07ab14fce5b0441cd1d33084545d6b1a1a367": {
+    "url": "Slavyangrad/172588",
+    "title": "Ukraine's Dnepropetrovsk Region Hit by Multiple Drone Strikes",
+    "published": "2026-08-08T20:40:41.919600+00:00"
+  },
+  "cb068f635f8ec453dad39103044657e030f0e3f20f5cfc247c9afd3760651c2d": {
+    "url": "QudsNen/234601",
+    "title": "Israeli Settlers, Soldier Allegedly Assault Palestinian in West Bank Confrontation",
+    "published": "2026-08-08T20:36:50.533533+00:00"
+  },
+  "905a023483bc661b709b6c0e593adf8c2b7d92b286c74e5c982d2a2747156f76": {
+    "url": "QudsNen/234603",
+    "title": "Egypt Slams Israel Over Gaza Civilian Casualties",
+    "published": "2026-08-08T20:35:39.317734+00:00"
+  },
+  "1285a1eb44dac95f8ea541ecfef33c869c8b78725a8c0eed2152c4ac602c2ee7": {
+    "url": "QudsNen/234607",
+    "title": "Israeli Artillery Shells Hit Northern al-Bureij Camp in Gaza",
+    "published": "2026-08-08T20:35:37.793625+00:00"
+  },
+  "fe4c9759188a335879ecd42388639530b09a67a784bdbe73bf1f71d9d2895168": {
+    "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+    "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+    "published": "2026-08-08T19:00:43+00:00"
+  },
   "57733a3aa9673ae447755d32b5d193891b9c4485af0ff0a0a5e8df7351c0f2da": {
     "url": "Slavyangrad/172580",
     "title": "Serbia's Vu\u010di\u0107 Rules Out Military Cooperation with Ukraine",
@@ -28,6 +63,16 @@
     "url": "Middle_East_Spectator/35791",
     "title": "Iran Demands US Compliance to Open Strait of Hormuz",
     "published": "2026-08-08T18:44:00.093557+00:00"
+  },
+  "64437add6332cbdf1a3d380f6dd6d5fd8de4c0c9399f4bf6f8c3374ba5ed92e5": {
+    "url": "https://www.tehrantimes.com/news/528950/Trump-s-top-general-seeks-off-ramp-as-Iran-war-exposes-limits",
+    "title": "Trump\u2019s top general seeks \u2018off-ramp\u2019 as Iran war exposes limits of US military power",
+    "published": "2026-08-08T18:07:57+00:00"
+  },
+  "8424064eede719f294897bf38f7965d61918243ce9ad8319bd30286b35c9824d": {
+    "url": "https://www.tehrantimes.com/news/528959/We-will-stand-firm-behind-Leader-s-decision-on-war",
+    "title": "\u00a0We will stand firm behind Leader\u2019s decision on war",
+    "published": "2026-08-08T17:43:50+00:00"
   },
   "22c8b35bdfe83f77de37bf57b2debca123f87ed69ad79966b6e64ea3e179b1d6": {
     "url": "https://www.tehrantimes.com/news/528958/A-beat-written-in-blood-across-Gaza-Lebanon-Yemen-and-Iran",
@@ -449,6 +494,11 @@
     "title": "Kiev troops attack DPR territory 30 times in past day, 11 wounded",
     "published": "2026-08-07T22:00:54+00:00"
   },
+  "53a94799c905d573de978b865d5ec1be6e0e793df840a3d1477a80679f73aa70": {
+    "url": "https://tass.com/world/2170391",
+    "title": "US redirects over 50 commercial ships since maritime blockade on Iran resumed \u2014 CENTCOM",
+    "published": "2026-08-07T21:49:24+00:00"
+  },
   "6786b64e0068e32925475bfc0e321c815a4740692da4f8394cf8f64b466c434d": {
     "url": "https://tass.com/world/2170387",
     "title": "Zelensky not welcome in Serbia, his visit not in its interests \u2014 Serbian politician",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/world/2170235",
     "title": "Spain threatens Italy with 'proportional measures' over border controls \u2014 Reuters",
     "published": "2026-08-07T13:25:17+00:00"
-  },
-  "309713ca819c9a788262106646e611bcafd9fd425e7ce414e389502ee48cb2bc": {
-    "url": "QudsNen/234442",
-    "title": "Israeli Settlers Storm Jabal Salama Area in West Bank",
-    "published": "2026-08-07T13:16:56.243723+00:00"
-  },
-  "dab025f203ff3364a1730079d3595f4978b37ee1a94464a1e392008624f31dab": {
-    "url": "QudsNen/234446",
-    "title": "Israeli Forces Injure Palestinian-American Man in West Bank Confrontation",
-    "published": "2026-08-07T13:15:12.093166+00:00"
-  },
-  "ab9441720d0c80bac32ad3dd525ff1dd7f3927132e2132c08975982a027d0863": {
-    "url": "thecradlemedia/65755",
-    "title": "Israeli Forces Launch Airstrike on Lebanese Town of Mansouri",
-    "published": "2026-08-07T13:14:29.858742+00:00"
-  },
-  "c550518c0180f61c2c5311137cbbb3980a58773a990a89b3203021503be1cd1d": {
-    "url": "thecradlemedia/65758",
-    "title": "Malaysia and Indonesia Reaffirm Support for Palestine and Jerusalem's Holy Sites",
-    "published": "2026-08-07T13:13:40.877129+00:00"
-  },
-  "b4577d72b453bd00f1607266e4dec98e92124f08d9f0af4813e38cb60bb57283": {
-    "url": "thecradlemedia/65762",
-    "title": "Iran Displays Captured Israeli Drone, Highlights Air Defense Network",
-    "published": "2026-08-07T13:13:38.644918+00:00"
-  },
-  "3f7985096c7e77f28b323adf0afedbb43725c2b70c246399ee64902621f85650": {
-    "url": "thecradlemedia/65766",
-    "title": "ICC Orders Separate Probe into Taliban's Persecution of Women Amid US Pressure",
-    "published": "2026-08-07T13:13:05.313955+00:00"
-  },
-  "59481cd583d34a4e2740e988b838962a483b3cf1147819406f8b3a9027466496": {
-    "url": "https://tass.com/world/2170225",
-    "title": "Israeli troops enter southern Syria, open fire on populated areas \u2014 TV",
-    "published": "2026-08-07T13:07:14+00:00"
-  },
-  "e9bbc2844523621b7b89fb485d49d1d652d191e247f8e063d8ca31d0185fa8b2": {
-    "url": "https://www.tehrantimes.com/news/528901/IRCS-ICRC-underscore-need-for-strategic-partnership-roadmap",
-    "title": "IRCS, ICRC underscore need for strategic partnership roadmap",
-    "published": "2026-08-07T12:33:35+00:00"
-  },
-  "ee1385c8a3fe2342e80ea3fcd8199816edc3822aa1f872b478ca1ff50768bd32": {
-    "url": "https://tass.com/politics/2170199",
-    "title": "Russian troops liberate eight communities in Ukraine operation over week \u2014 top brass",
-    "published": "2026-08-07T12:25:24+00:00"
-  },
-  "c4cb1aeb3c0fab5d8cf4b5c300c1b64d026e9a4a6a73a002bed6360ff3a69c3c": {
-    "url": "https://www.tehrantimes.com/news/528897/Tehran-Dushanbe-discuss-ways-to-deepen-scientific-educational",
-    "title": "Tehran, Dushanbe discuss ways to deepen scientific, educational co-op",
-    "published": "2026-08-07T12:23:25+00:00"
   }
 }
