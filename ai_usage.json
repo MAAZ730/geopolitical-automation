@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5655,
+  "total_calls": 5659,
   "tiers": {
-    "groq": 5636,
+    "groq": 5640,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-05T06:31:05.518984+00:00",
-      "tier": "groq",
-      "article": "Explosions across Kyiv as Russian missiles strike Ukraine\u2019s capital"
-    },
-    {
-      "timestamp": "2026-08-05T06:31:39.989566+00:00",
-      "tier": "groq",
-      "article": "Russian missile attack kills 14, injures 27 in Ukraine\u2019s Kyiv region"
-    },
-    {
-      "timestamp": "2026-08-05T06:32:26.481880+00:00",
-      "tier": "groq",
-      "article": "US\u2019s THAAD interceptors depleted by up to 80%: Media"
-    },
-    {
-      "timestamp": "2026-08-05T06:32:44.747832+00:00",
-      "tier": "groq",
-      "article": "US, Iran exchanging peace drafts through intermediaries \u2014 Qatari Foreign Ministry"
-    },
     {
       "timestamp": "2026-08-05T10:40:12.690502+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T05:01:32.479969+00:00",
       "tier": "groq",
       "article": "Russia calls incident with drone at Leipzig airport hastily concocted provocation"
+    },
+    {
+      "timestamp": "2026-08-08T06:58:31.678958+00:00",
+      "tier": "groq",
+      "article": "Zelensky counts the cost, missing missile defense, Nazi memories surfacing: RT\u2019s top stories this week"
+    },
+    {
+      "timestamp": "2026-08-08T06:58:50.023434+00:00",
+      "tier": "groq",
+      "article": "Yemen targets Saudi military centre, warns of new equation"
+    },
+    {
+      "timestamp": "2026-08-08T06:59:18.462368+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike defense enterprise, fuel depot in Kiev"
+    },
+    {
+      "timestamp": "2026-08-08T07:00:10.424127+00:00",
+      "tier": "groq",
+      "article": "Iran, a strategic partner of EAEU on path to trade development, regional integration"
     }
   ]
 }
