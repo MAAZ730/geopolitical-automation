@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5659,
+  "total_calls": 5663,
   "tiers": {
-    "groq": 5640,
+    "groq": 5644,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-05T10:40:12.690502+00:00",
-      "tier": "groq",
-      "article": "Yemen strikes Saudi oil tanker in Red Sea"
-    },
-    {
-      "timestamp": "2026-08-05T10:40:31.629349+00:00",
-      "tier": "groq",
-      "article": "North Korea to take further measures regarding Japan \u2014 official"
-    },
-    {
-      "timestamp": "2026-08-05T10:40:50.341227+00:00",
-      "tier": "groq",
-      "article": "US Missile Defense Stockpiles \u2018Dangerously Low\u2019 After Iran War: CNN Report - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-05T10:41:10.024935+00:00",
-      "tier": "groq",
-      "article": "US steps up number of intelligence personnel in Cuba \u2014 newspaper"
-    },
     {
       "timestamp": "2026-08-05T14:15:03.343657+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T07:00:10.424127+00:00",
       "tier": "groq",
       "article": "Iran, a strategic partner of EAEU on path to trade development, regional integration"
+    },
+    {
+      "timestamp": "2026-08-08T08:45:36.292264+00:00",
+      "tier": "groq",
+      "article": "Russia strikes dry cargo ship east of Odessa transporting weapons for Ukrainian military"
+    },
+    {
+      "timestamp": "2026-08-08T08:46:14.516325+00:00",
+      "tier": "groq",
+      "article": "Tehran, Beijing set sights on strategic economic partnership beyond trade"
+    },
+    {
+      "timestamp": "2026-08-08T08:47:03.283359+00:00",
+      "tier": "groq",
+      "article": "Qalibaf slams Trump\u2019s \u2018theater diplomacy\u2019 toward Iran"
+    },
+    {
+      "timestamp": "2026-08-08T08:47:54.808511+00:00",
+      "tier": "groq",
+      "article": "Tehran seeks dialogue while refusing pressure"
     }
   ]
 }

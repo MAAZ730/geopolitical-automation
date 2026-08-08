@@ -1,4 +1,39 @@
 {
+  "1ad6a6b4aa25117af973d17ac929d7bb59ac1380d0c656bb3555f82ad2162563": {
+    "url": "mod_russia_en/28743",
+    "title": "Ukrainian Conflict: Russian UAV Destroys Railway Locomotive in Kharkov Region",
+    "published": "2026-08-08T08:53:38.895103+00:00"
+  },
+  "d841456b7ebd19b7feaf9b3a9bfcb61846dbb6b16d0e04c882c4e10599e55bf1": {
+    "url": "mod_russia_en/28744",
+    "title": "Russian Drone Strike Closes Ukrainian UAV Production Workshop in Akhtyrka",
+    "published": "2026-08-08T08:52:56.908832+00:00"
+  },
+  "48aeb207e6ec7493fa85d59387c79250b90c72aa7067302704752e6a1216dd9f": {
+    "url": "mod_russia_en/28757",
+    "title": "Russian Forces Destroy AFU Stronghold in Zaporozhye Region",
+    "published": "2026-08-08T08:52:30.884390+00:00"
+  },
+  "9461781790987ceeebcbd65485d4c96c5e74d22dd7722024e6c864680382a3d9": {
+    "url": "thecradlemedia/65794",
+    "title": "Israeli Forces Launch Overnight Assault on Southern Lebanon",
+    "published": "2026-08-08T08:50:58.798276+00:00"
+  },
+  "509319e2a8e82436bd67086674863b01468ddb0836798437ecd561f7ab86e3ca": {
+    "url": "thecradlemedia/65799",
+    "title": "US Lawmakers Seek to Halt Military Campaign Against Iran",
+    "published": "2026-08-08T08:48:03.447861+00:00"
+  },
+  "1d0e8071491fe71eb65da215634656b37856035142a5b23a9dd7a8572082ca1e": {
+    "url": "thecradlemedia/65800",
+    "title": "Israel Demands Decades-Old Water Debts from Palestinian Farmers in Jordan Valley",
+    "published": "2026-08-08T08:48:01.567599+00:00"
+  },
+  "5d7fa0a3657d674c2587625fa04c2406fac82bf5ffde6b53d62d519deb4e4862": {
+    "url": "https://tass.com/defense/2170463",
+    "title": "Russia strikes dry cargo ship east of Odessa transporting weapons for Ukrainian military",
+    "published": "2026-08-08T08:33:35+00:00"
+  },
   "ade559e97dfa350bc3a4094d4f51bb694834daad705f988915ef5ad95699ea94": {
     "url": "Slavyangrad/172533",
     "title": "Russian Forces Disrupt Ukrainian Logistics with Railway Strike",
@@ -33,6 +68,11 @@
     "url": "https://www.rt.com/news/644002-rt-top-stories-ukraine-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Zelensky counts the cost, missing missile defense, Nazi memories surfacing: RT\u2019s top stories this week",
     "published": "2026-08-08T06:01:53+00:00"
+  },
+  "af98ccc4a63715e747612385be9c35a06a343e13874e5ed4bb581fda8258922e": {
+    "url": "https://en.mehrnews.com/news/246820/Tehran-seeks-dialogue-while-refusing-pressure",
+    "title": "Tehran seeks dialogue while refusing pressure",
+    "published": "2026-08-08T05:32:00+00:00"
   },
   "3a960aaedff38e395c40612f4d5df2436074075e529aceffe3beda8d996f14e7": {
     "url": "https://en.mehrnews.com/news/246819/Yemen-targets-Saudi-military-centre-warns-of-new-equation",
@@ -279,6 +319,11 @@
     "title": "Iraqi Resistance 'delays' planned retaliatory strikes",
     "published": "2026-08-07T18:06:02+00:00"
   },
+  "a668a55260d38f196e9183c9b730941100258c5abbc4ee1c7f7c967f7783ad5e": {
+    "url": "https://www.tehrantimes.com/news/528924/Qalibaf-slams-Trump-s-theater-diplomacy-toward-Iran",
+    "title": "Qalibaf slams Trump\u2019s \u2018theater diplomacy\u2019 toward Iran",
+    "published": "2026-08-07T17:31:50+00:00"
+  },
   "008af9bd22fe1cdb046f2d6d9705982d54598a51cf617229ede5201299c9bf76": {
     "url": "https://www.tehrantimes.com/news/528921/Israel-expands-West-Bank-offensive-with-camp-by-camp-strategy",
     "title": "Israel expands West Bank offensive with camp-by-camp strategy",
@@ -383,6 +428,11 @@
     "url": "https://www.defensenews.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
     "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
     "published": "2026-08-07T14:10:14+00:00"
+  },
+  "27cb4ba845c265299f085baacb2952f51f0599ab9f97c2f82776e36d264d2a5a": {
+    "url": "https://www.tehrantimes.com/news/528917/Tehran-Beijing-set-sights-on-strategic-economic-partnership",
+    "title": "Tehran, Beijing set sights on strategic economic partnership beyond trade",
+    "published": "2026-08-07T13:55:37+00:00"
   },
   "42f113cde20dd792a0d37e9ed6da8fef11be1d769e9ecc2c5e5aff1bdf691194": {
     "url": "https://www.tehrantimes.com/news/528915/Iran-a-strategic-partner-of-EAEU-on-path-to-trade-development",
@@ -698,55 +748,5 @@
     "url": "https://www.defensenews.com/global/mideast-africa/2026/08/06/iran-issues-warning-to-gulf-states-us-must-desist-or-youll-be-hit-hard/",
     "title": "Iran issues warning to Gulf states: US must desist or you\u2019ll be hit hard",
     "published": "2026-08-06T15:27:06+00:00"
-  },
-  "27a718c07ed665f6360bf1cee2e039fdcb7680aaa80d726a9c25be06f6442349": {
-    "url": "https://www.rt.com/news/643945-eu-nuclear-power-green-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "The EU\u2019s nuclear reckoning is finally here",
-    "published": "2026-08-06T14:53:15+00:00"
-  },
-  "bdabf72ab157547c8702464a82987daaa09ff86277c3c041c3a14944916b1b11": {
-    "url": "QudsNen/234325",
-    "title": "Israeli Settlers Expand Control in West Bank's Qaryut Region",
-    "published": "2026-08-06T14:23:24.051459+00:00"
-  },
-  "bc009701c470ba77276c523cbbc57344337dacf6f8211405df13b822352b9529": {
-    "url": "Middle_East_Spectator/35758",
-    "title": "Yemeni Forces Strike Saudi-Backed Rebels in Hadhramawt",
-    "published": "2026-08-06T14:21:51.729078+00:00"
-  },
-  "1a38fd1c827253d1df9fac5cab0f7a2df05ce0b066b1d45df9761cbeca6d1651": {
-    "url": "thecradlemedia/65686",
-    "title": "Israeli Explosions Rock Mansouri Village in Southern Lebanon",
-    "published": "2026-08-06T14:21:42.178490+00:00"
-  },
-  "db7364afc152080fe9b0143b59d22b4645c02aa1474c7a9f55848b71b952e925": {
-    "url": "thecradlemedia/65691",
-    "title": "Israeli Artillery Strikes Southern Lebanon, Controlled Demolition in Haddatha",
-    "published": "2026-08-06T14:21:16.680712+00:00"
-  },
-  "8270915e227ef9a2bc2ca953fb59dcff5a92302a318041676228ecb050b2317c": {
-    "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
-    "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-    "published": "2026-08-06T14:20:15+00:00"
-  },
-  "8d2a2df91135ac69c633c5904078aa321ad191766e45d1982abd56481889729c": {
-    "url": "thecradlemedia/65695",
-    "title": "Israeli Artillery Shelling Targets Southern Lebanon",
-    "published": "2026-08-06T14:19:49.056658+00:00"
-  },
-  "6ec7455b8c957d720cd296c7d33361afe2c7817a06e3c8543658995c96821b87": {
-    "url": "thecradlemedia/65700",
-    "title": "Israeli Prison Raid Leaves Palestinian Doctor in Critical Condition",
-    "published": "2026-08-06T14:19:47.749316+00:00"
-  },
-  "8203d03c45b2177ed78130002a0af884b9888031798dd55d0d80ad99032bbc2b": {
-    "url": "https://tass.com/politics/2169721",
-    "title": "Russian forces strike Ukrainian army\u2019s infrastructure sites, logistics centers in past day",
-    "published": "2026-08-06T13:14:33+00:00"
-  },
-  "4f6068bd88ed03bdaa81b78f5f2983bba02999a8ad16272366541c70f1294bde": {
-    "url": "https://tass.com/defense/2169717",
-    "title": "Kiev suffering enormously due to Russian strikes on port logistics \u2014 expert",
-    "published": "2026-08-06T12:59:45+00:00"
   }
 }
