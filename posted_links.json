@@ -1,4 +1,39 @@
 {
+  "976bbe1ed8558e96f8bc37c3febc9b2689168f4e7c35b8354b8b5afe91e5733b": {
+    "url": "presstv/202069",
+    "title": "Russian Troops Counter Ukrainian Drone Incursion",
+    "published": "2026-08-08T22:39:16.538171+00:00"
+  },
+  "08c92f981a124fc5a4f1af157fb4464bfbd03786959619b5efd0826ec4f6ba9e": {
+    "url": "BellumActaNews/176276",
+    "title": "Serbia, Israel to Launch Joint Drone Factory Amid Regional Rivalries",
+    "published": "2026-08-08T22:38:24.682112+00:00"
+  },
+  "ccf10ea208c27adb536b198bd28264798b58c01a3c3e432daba3a20790121266": {
+    "url": "QudsNen/234610",
+    "title": "Israeli Artillery Strikes Ali al-Taher Heights in Southern Lebanon",
+    "published": "2026-08-08T22:35:23.171164+00:00"
+  },
+  "3b66bb2d02a4c099d90bd398559533a1b7ce5404419e5c97ddfaf2966cf424aa": {
+    "url": "QudsNen/234621",
+    "title": "Tear Gas Deployed in Qalqilya as Israeli Forces Conduct Raid",
+    "published": "2026-08-08T22:35:06.125253+00:00"
+  },
+  "46990daa50e3898075bc002695e8529a3c6338190dfc50f6f00383e4d1648f9b": {
+    "url": "QudsNen/234624",
+    "title": "Israel Revokes Entry Permits of US Citizens, Jewish Activists in West Bank",
+    "published": "2026-08-08T22:34:55.464985+00:00"
+  },
+  "705144960b2e6ce519c99d6f826e3810b5616bb074537f81f909159b42045a1f": {
+    "url": "Middle_East_Spectator/35793",
+    "title": "Iraq Seizes Iranian Drones in Babil Province",
+    "published": "2026-08-08T22:34:51.644755+00:00"
+  },
+  "6534794deaf579e0653b297c4595fbc9595e20c6e5e0d6ff548abb28f0bf27ff": {
+    "url": "https://tass.com/world/2170563",
+    "title": "US has below 1,700 Patriot missiles left amid Iran operation \u2014 newspaper",
+    "published": "2026-08-08T21:05:54+00:00"
+  },
   "fe2f92b48ff4975155eae359cae039f7d1c85be9a7df3823f936cdc273b4d3fb": {
     "url": "mod_russia_en/28763",
     "title": "Russian Forces Intercept Enemy Drones in Aerial Engagement",
@@ -28,6 +63,11 @@
     "url": "QudsNen/234607",
     "title": "Israeli Artillery Shells Hit Northern al-Bureij Camp in Gaza",
     "published": "2026-08-08T20:35:37.793625+00:00"
+  },
+  "4c14d888ed9c2a54864a0fb5cf52f3d39ad3ab31b5eefeab64571e8b33987dbd": {
+    "url": "https://en.irna.ir/news/86230884/Iranian-Intelligence-Ministry-hails-journalists-for-thwarting",
+    "title": "Iranian Intelligence Ministry hails journalists for thwarting enemy's war of narratives",
+    "published": "2026-08-08T19:56:03+00:00"
   },
   "fe4c9759188a335879ecd42388639530b09a67a784bdbe73bf1f71d9d2895168": {
     "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
@@ -63,6 +103,11 @@
     "url": "Middle_East_Spectator/35791",
     "title": "Iran Demands US Compliance to Open Strait of Hormuz",
     "published": "2026-08-08T18:44:00.093557+00:00"
+  },
+  "e2b176f18034f2c4464314d378a19f2b39e6bfdc21f1c057e80df8268974bb2d": {
+    "url": "https://www.tehrantimes.com/news/528953/Neutralizing-sanctions-through-structural-reform",
+    "title": "Neutralizing sanctions through structural reform",
+    "published": "2026-08-08T18:09:44+00:00"
   },
   "64437add6332cbdf1a3d380f6dd6d5fd8de4c0c9399f4bf6f8c3374ba5ed92e5": {
     "url": "https://www.tehrantimes.com/news/528950/Trump-s-top-general-seeks-off-ramp-as-Iran-war-exposes-limits",
@@ -409,6 +454,11 @@
     "title": "Israeli Court Orders Palestinian Man to Pay Compensation to Rabbi",
     "published": "2026-08-08T03:37:30.492640+00:00"
   },
+  "fb800a26f31be50a95e5dc4791e6ab64fa8e4d249615352f4d6d688765dc1d5c": {
+    "url": "https://www.rt.com/news/644007-pentagon-revokes-air-force-chief/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Pentagon accuses former Air Force chief of leaking classified information",
+    "published": "2026-08-08T03:03:47+00:00"
+  },
   "610b063d415b36ff41ae963611e79ad098c0fcc34500f798883e92f9ad61efee": {
     "url": "https://tass.com/world/2170411",
     "title": "Chair of US Joint Chiefs of Staff in search for \u2018off-ramp\u2019 from Iran war \u2014 TV",
@@ -698,55 +748,5 @@
     "url": "QudsNen/234441",
     "title": "Israeli Forces Launch Incendiary Bombing Campaign in Southern Lebanon's Al-Mansouri",
     "published": "2026-08-07T14:58:52.803422+00:00"
-  },
-  "c0ec6d0b892db2c2dcf53dbe5d0d63a96308837cabaacef587c60097f3de46ba": {
-    "url": "thecradlemedia/65779",
-    "title": "US Judge Asked to Bar Israeli Origin Reference at Generic Drug Price-Fixing Trial",
-    "published": "2026-08-07T14:58:03.222526+00:00"
-  },
-  "d6cd882f0d804fb608cf517fbffbcef14f76682f3f8529e40eddf4dd4f94179b": {
-    "url": "thecradlemedia/65780",
-    "title": "Israeli Forces Strike Eastern Zawtar in Southern Lebanon",
-    "published": "2026-08-07T14:58:02.150213+00:00"
-  },
-  "c3700c96ccbce6ce60d076a85effbf269b97bfa3ce2b77af5429bdad1e75b9a1": {
-    "url": "thecradlemedia/65782",
-    "title": "UAE Oil Company Faces Disruptions Amid Strait of Hormuz Attacks",
-    "published": "2026-08-07T14:56:41.373539+00:00"
-  },
-  "e1481e86c71b604030b870a50f1c9a82692f3a4137dcb7570b6bfabd3f4f6a7d": {
-    "url": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
-    "title": "Two civilians killed in Houthi strike on Marib, says Yemen\u2019s government",
-    "published": "2026-08-07T14:22:24+00:00"
-  },
-  "ea0a06bf23bae09497d6196ef5d53929ed7fb1beef04d2cf02ad2354aaeeaf4d": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
-    "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
-    "published": "2026-08-07T14:10:14+00:00"
-  },
-  "0d913090baf9e6e4dfadcd370878f30a0ad8bba73af4dd3b3215da0d3a11101c": {
-    "url": "https://www.tehrantimes.com/news/528918/Iran-Russia-pledge-to-deepen-trade-ties-remove-banking-transport",
-    "title": "Iran, Russia pledge to deepen trade ties, remove banking, transport hurdles",
-    "published": "2026-08-07T14:00:47+00:00"
-  },
-  "27cb4ba845c265299f085baacb2952f51f0599ab9f97c2f82776e36d264d2a5a": {
-    "url": "https://www.tehrantimes.com/news/528917/Tehran-Beijing-set-sights-on-strategic-economic-partnership",
-    "title": "Tehran, Beijing set sights on strategic economic partnership beyond trade",
-    "published": "2026-08-07T13:55:37+00:00"
-  },
-  "42f113cde20dd792a0d37e9ed6da8fef11be1d769e9ecc2c5e5aff1bdf691194": {
-    "url": "https://www.tehrantimes.com/news/528915/Iran-a-strategic-partner-of-EAEU-on-path-to-trade-development",
-    "title": "Iran, a strategic partner of EAEU on path to trade development, regional integration",
-    "published": "2026-08-07T13:48:26+00:00"
-  },
-  "3166e4d1dc1c341e97d4c57e874956c13bcbf017aafd4796e9f340ac69a3b763": {
-    "url": "https://tass.com/defense/2170237",
-    "title": "Su-30SM2 fighters destroy mock enemy with missiles during exercise near Kaliningrad",
-    "published": "2026-08-07T13:47:47+00:00"
-  },
-  "5c26e2d5c6287174263ee1126f320843996523153d908696d052c1e0c2249257": {
-    "url": "https://tass.com/world/2170235",
-    "title": "Spain threatens Italy with 'proportional measures' over border controls \u2014 Reuters",
-    "published": "2026-08-07T13:25:17+00:00"
   }
 }

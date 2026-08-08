@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5687,
+  "total_calls": 5691,
   "tiers": {
-    "groq": 5668,
+    "groq": 5672,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-06T06:34:58.517213+00:00",
-      "tier": "groq",
-      "article": "Trump believes Pentagon chief misleads him about weapons stockpiles \u2014 media"
-    },
-    {
-      "timestamp": "2026-08-06T06:35:35.646390+00:00",
-      "tier": "groq",
-      "article": "Zelensky complains about threefold plunge in West\u2019s interceptor missile supplies to Kiev"
-    },
-    {
-      "timestamp": "2026-08-06T06:36:22.944118+00:00",
-      "tier": "groq",
-      "article": "US presses on with Ukraine Patriot missile talks, despite Trump\u2019s doubts \u2014 Reuters"
-    },
-    {
-      "timestamp": "2026-08-06T06:36:42.044946+00:00",
-      "tier": "groq",
-      "article": "Strait of Hormuz deal to meet Iran\u2019s demands \u2013 Axios"
-    },
     {
       "timestamp": "2026-08-06T10:46:57.181769+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T20:35:28.093245+00:00",
       "tier": "groq",
       "article": "\u00a0We will stand firm behind Leader\u2019s decision on war"
+    },
+    {
+      "timestamp": "2026-08-08T22:32:59.576082+00:00",
+      "tier": "groq",
+      "article": "US has below 1,700 Patriot missiles left amid Iran operation \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-08T22:33:37.027260+00:00",
+      "tier": "groq",
+      "article": "Pentagon accuses former Air Force chief of leaking classified information"
+    },
+    {
+      "timestamp": "2026-08-08T22:34:29.494287+00:00",
+      "tier": "groq",
+      "article": "Neutralizing sanctions through structural reform"
+    },
+    {
+      "timestamp": "2026-08-08T22:34:47.832115+00:00",
+      "tier": "groq",
+      "article": "Iranian Intelligence Ministry hails journalists for thwarting enemy's war of narratives"
     }
   ]
 }
