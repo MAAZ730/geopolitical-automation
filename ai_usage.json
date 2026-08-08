@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5663,
+  "total_calls": 5667,
   "tiers": {
-    "groq": 5644,
+    "groq": 5648,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-05T14:15:03.343657+00:00",
-      "tier": "groq",
-      "article": "Geran drones strike five dry cargo ships at Nikolayev port, near Odessa"
-    },
-    {
-      "timestamp": "2026-08-05T14:15:35.815434+00:00",
-      "tier": "groq",
-      "article": "Death toll in Israel\u2019s genocidal war on Gaza reaches 73,381"
-    },
-    {
-      "timestamp": "2026-08-05T14:15:54.716234+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Russia delivers new strikes on Ukrainian military sites overnight"
-    },
-    {
-      "timestamp": "2026-08-05T14:16:16.576181+00:00",
-      "tier": "groq",
-      "article": "325 Narcan doses, 43 lost children: DC National Guard mission wraps first year"
-    },
     {
       "timestamp": "2026-08-05T17:42:17.438862+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T08:47:54.808511+00:00",
       "tier": "groq",
       "article": "Tehran seeks dialogue while refusing pressure"
+    },
+    {
+      "timestamp": "2026-08-08T10:37:07.903375+00:00",
+      "tier": "groq",
+      "article": "Israel attacks kill 1,257 in Gaza since last year\u2019s ceasefire"
+    },
+    {
+      "timestamp": "2026-08-08T10:37:46.876521+00:00",
+      "tier": "groq",
+      "article": "Iran, Russia pledge to deepen trade ties, remove banking, transport hurdles"
+    },
+    {
+      "timestamp": "2026-08-08T10:38:05.347186+00:00",
+      "tier": "groq",
+      "article": "CNN: Top US Military Leaders Seek Face-Saving Exit from Iran War - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-08T10:38:44.360666+00:00",
+      "tier": "groq",
+      "article": "Danube low water levels reveal Nazi soldiers\u2019 remains and WWII relics in Budapest"
     }
   ]
 }
