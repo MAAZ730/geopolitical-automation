@@ -1,4 +1,49 @@
 {
+  "3bffe3b3ca6370aa19cd76359b81ad0fa07818baee55e42face9fb592b049848": {
+    "url": "Slavyangrad/172574",
+    "title": "Russian Paratroopers Dislodge Enemy Forces in Zaporozhye Region",
+    "published": "2026-08-08T16:44:21.807643+00:00"
+  },
+  "68474a1ce6b280234b95e803be91fc835e67c2ca379532f5e6ffa45fa0bc72d4": {
+    "url": "Slavyangrad/172575",
+    "title": "Ukrainian Forces Use Civilian Infrastructure for Military Purposes in Zaporizhzhia",
+    "published": "2026-08-08T16:43:27.279021+00:00"
+  },
+  "c3152da5aa6ed7dc20fc4cdd53fc794b43da23f578ca72813016fded15d6daf1": {
+    "url": "militarywave/24677",
+    "title": "Russian Forces Liberate Kursk Region from Ukrainian Occupation",
+    "published": "2026-08-08T16:43:12.108679+00:00"
+  },
+  "92ca900ebf343bec6cf114aa2b8c43434869b07565e41abc034d5107ae61a707": {
+    "url": "BellumActaNews/176267",
+    "title": "US-Iran Tensions: Washington Pursues Diplomatic and Economic Goals",
+    "published": "2026-08-08T16:41:56.303069+00:00"
+  },
+  "77b3f909a508c1fd8619588e9dca0e5dadb94ba01769fda0bfcecf8077ab264f": {
+    "url": "thecradlemedia/65853",
+    "title": "X Flags Post by International Law Scholar Over Israel ICC Criticism",
+    "published": "2026-08-08T16:38:51.463823+00:00"
+  },
+  "b745ce1729a5c676642de4a6e62379a066dacae59a40e72841b612a695828282": {
+    "url": "thecradlemedia/65854",
+    "title": "Black Sea Maritime Disrupted by Drone Attacks",
+    "published": "2026-08-08T16:38:49.532594+00:00"
+  },
+  "69792995fdcf6cc38dde0dbd530635301071f6d4a413dcf7d27df13595b2ba3d": {
+    "url": "https://tass.com/defense/2170521",
+    "title": "Russian strikes hit ships carrying military cargo at Nikolayev port, in Black Sea",
+    "published": "2026-08-08T15:10:59+00:00"
+  },
+  "414662ca966728081f1c26828549649e2fa01c7b136e8ab9d49e3bb13f53688e": {
+    "url": "https://tass.com/defense/2170519",
+    "title": "Russian forces hit military warehouses storing electronic warfare equipment at Odessa port",
+    "published": "2026-08-08T15:10:35+00:00"
+  },
+  "d1f2f8f6dbb790e8e0026e50724056a879628d80dcaaf4ef97ed8ca63cc6be16": {
+    "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+    "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+    "published": "2026-08-08T15:01:29+00:00"
+  },
   "4ef8f9829ce69bc3f672816993268253b3ed9d52c88fa9d37ea611197f389f1c": {
     "url": "militarywave/24678",
     "title": "Hiroshima Mayor's Remarks Spark Controversy on Atomic Bombing Anniversary",
@@ -464,6 +509,11 @@
     "title": "Israel expands West Bank offensive with camp-by-camp strategy",
     "published": "2026-08-07T17:30:15+00:00"
   },
+  "a49b2f864d1d5d40d6760515c259aba16fe85e0cd27d31f924f2e666168ffed8": {
+    "url": "https://tass.com/world/2170327",
+    "title": "Unknown drones spotted over Bundeswehr base in western Germany \u2014 newspaper",
+    "published": "2026-08-07T17:03:11+00:00"
+  },
   "0242d7fdb8cc93e2745ebb3be3f89112090db7ff1c5c00aaf986c8f054de841f": {
     "url": "BellumActaNews/176226",
     "title": "Drone Attack Targets Wildberries Warehouse in Yekaterinburg",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know?traffic_source=rss",
     "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
     "published": "2026-08-07T10:52:34+00:00"
-  },
-  "db1871136524823ca763224073a5e4105c1e7e24610d55af55b73cba328c782d": {
-    "url": "https://tass.com/world/2170129",
-    "title": "Houthis launch missile strike on displacement camp in Yemen\u2019s Marib Governorate \u2014 TV",
-    "published": "2026-08-07T10:11:45+00:00"
-  },
-  "c6bd4d7c7fa24a11339f032e8cbc6c8b52c8e3ffc13a4c28a42b2fc56a6eec35": {
-    "url": "https://tass.com/politics/2170101",
-    "title": "Concerned Ukrainians help Russian troops deliver more accurate strikes \u2014 underground",
-    "published": "2026-08-07T09:41:10+00:00"
-  },
-  "86a60b1fc723581dc1a5354556b232473a9bee4a758570db7b476acef7ab278e": {
-    "url": "https://tass.com/politics/2170067",
-    "title": "Russia hits three dry cargo ships, destroys Ukrainian army train: results of new strikes",
-    "published": "2026-08-07T09:35:00+00:00"
-  },
-  "2fa2d91feb34dcce4837ceccf881f58c9e0e98e0f11cacf7b3b89b52d09202dc": {
-    "url": "https://tass.com/politics/2170057",
-    "title": "Three civilians injured in Ukrainian drone strike on Russia\u2019s Belgorod",
-    "published": "2026-08-07T09:20:54+00:00"
-  },
-  "54fc8cf266f11ac1cfcc00fdd75666a3bbe2dfebdc692ab5f2d2c575ae858e4c": {
-    "url": "https://tass.com/defense/2170061",
-    "title": "All Russian Navy fleets possess unmanned maritime systems units \u2014 admiral",
-    "published": "2026-08-07T09:19:18+00:00"
-  },
-  "4e38fc6eb2466404be9f11ec3a530d47399d8dcc5e581317364f3e9fecbe13f7": {
-    "url": "presstv/201862",
-    "title": "Spokane Wildfires Devastate Washington State",
-    "published": "2026-08-07T09:08:06.061117+00:00"
-  },
-  "f856f853bec5f37b2759dee294440109d241a7f40f244fbb2941c33af33f34d2": {
-    "url": "presstv/201867",
-    "title": "Israeli Artillery Strikes Southern Lebanon",
-    "published": "2026-08-07T09:05:56.861057+00:00"
-  },
-  "a4ea3a8d9540078254c7b9657a8f898bcbc044eb5661ced2db7dce78562ba955": {
-    "url": "thecradlemedia/65719",
-    "title": "Israel Steps Up Military Operations in South Lebanon",
-    "published": "2026-08-07T09:05:11.621826+00:00"
-  },
-  "3e6cc0a8d2f5af6b9af9d69f6f46c65fba17d72054ac8489d9ccde97331ffd97": {
-    "url": "thecradlemedia/65725",
-    "title": "Israeli Forces Withdraw from Qalandia Refugee Camp Following 48-Hour Assault",
-    "published": "2026-08-07T09:04:46.953824+00:00"
-  },
-  "8f7d42bfe2f42410abaafcc7d162e04eed6b4030a82c2498af93187ac7ce9bcf": {
-    "url": "thecradlemedia/65726",
-    "title": "Yemen Conflict: Ansarallah Forces Launch Fresh Strikes on Saudi-Backed Positions",
-    "published": "2026-08-07T09:04:44.952525+00:00"
   }
 }

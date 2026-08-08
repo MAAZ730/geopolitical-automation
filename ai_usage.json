@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5675,
+  "total_calls": 5679,
   "tiers": {
-    "groq": 5656,
+    "groq": 5660,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-05T21:13:51.785826+00:00",
-      "tier": "groq",
-      "article": "Israel strikes south Lebanon after first evacuation warning in weeks"
-    },
-    {
-      "timestamp": "2026-08-05T21:14:32.689288+00:00",
-      "tier": "groq",
-      "article": "Yemeni Ballistic Missile Hits Saudi Oil Ship, Forces It to Back Off - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-05T21:14:52.828111+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drone kills man in Kursk Region \u2014 governor"
-    },
-    {
-      "timestamp": "2026-08-05T21:15:29.692113+00:00",
-      "tier": "groq",
-      "article": "US top court clears $655 million Palestinian terrorism payout"
-    },
     {
       "timestamp": "2026-08-05T23:03:17.307024+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T14:37:06.433788+00:00",
       "tier": "groq",
       "article": "Explosions reported in eastern Ukrainian city of Kharkov"
+    },
+    {
+      "timestamp": "2026-08-08T16:37:02.228888+00:00",
+      "tier": "groq",
+      "article": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties"
+    },
+    {
+      "timestamp": "2026-08-08T16:37:39.469306+00:00",
+      "tier": "groq",
+      "article": "Russian strikes hit ships carrying military cargo at Nikolayev port, in Black Sea"
+    },
+    {
+      "timestamp": "2026-08-08T16:38:25.933655+00:00",
+      "tier": "groq",
+      "article": "Russian forces hit military warehouses storing electronic warfare equipment at Odessa port"
+    },
+    {
+      "timestamp": "2026-08-08T16:38:44.190075+00:00",
+      "tier": "groq",
+      "article": "Unknown drones spotted over Bundeswehr base in western Germany \u2014 newspaper"
     }
   ]
 }
