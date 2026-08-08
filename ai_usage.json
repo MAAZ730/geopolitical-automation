@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5671,
+  "total_calls": 5675,
   "tiers": {
-    "groq": 5652,
+    "groq": 5656,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-05T19:39:31.332930+00:00",
-      "tier": "groq",
-      "article": "Russian drone factory director badly injured in car explosion"
-    },
-    {
-      "timestamp": "2026-08-05T19:40:08.314005+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s Oniks missile can overcome virtually all modern air defenses \u2014 Pacific Fleet"
-    },
-    {
-      "timestamp": "2026-08-05T19:40:56.495930+00:00",
-      "tier": "groq",
-      "article": "India to continue modernizing its Sukhoi Su-30MKI multirole fighters \u2014 Defense Ministry"
-    },
-    {
-      "timestamp": "2026-08-05T19:41:15.266003+00:00",
-      "tier": "groq",
-      "article": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall"
-    },
     {
       "timestamp": "2026-08-05T21:13:51.785826+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T12:56:56.468421+00:00",
       "tier": "groq",
       "article": "Zelensky\u2019s visit to Serbia works against Belgrade, harms relations with Russia"
+    },
+    {
+      "timestamp": "2026-08-08T14:34:54.817847+00:00",
+      "tier": "groq",
+      "article": "Typhoon Dolphin slams Japan, injuring six and knocking out power"
+    },
+    {
+      "timestamp": "2026-08-08T14:35:30.624654+00:00",
+      "tier": "groq",
+      "article": "Zelensky claims Kiev reaches agreement with US on monthly interceptor missile supplies"
+    },
+    {
+      "timestamp": "2026-08-08T14:36:20.319336+00:00",
+      "tier": "groq",
+      "article": "Mossad dismisses top officials after failure against Iran"
+    },
+    {
+      "timestamp": "2026-08-08T14:37:06.433788+00:00",
+      "tier": "groq",
+      "article": "Explosions reported in eastern Ukrainian city of Kharkov"
     }
   ]
 }

@@ -1,4 +1,49 @@
 {
+  "4ef8f9829ce69bc3f672816993268253b3ed9d52c88fa9d37ea611197f389f1c": {
+    "url": "militarywave/24678",
+    "title": "Hiroshima Mayor's Remarks Spark Controversy on Atomic Bombing Anniversary",
+    "published": "2026-08-08T14:45:56.055391+00:00"
+  },
+  "705f461bb4c57f9a18870a828571d2124411b8d8489f9593b7f2fe43b88e6987": {
+    "url": "militarywave/24683",
+    "title": "Russian Artillerymen Operate Advanced Weapons on Front Lines",
+    "published": "2026-08-08T14:43:25.483049+00:00"
+  },
+  "115a3c3ef6e78af07bbf172faae398e929f0ba6eb54e28e845f00263c2dcf1eb": {
+    "url": "QudsNen/234565",
+    "title": "Israeli Drone Targets Ali Al-Taher Hill in Southern Lebanon",
+    "published": "2026-08-08T14:41:48.539572+00:00"
+  },
+  "78c053dd16d0b805fa0816bf379060e220fec3fa39a116912f48cbab12837c49": {
+    "url": "QudsNen/234568",
+    "title": "Israeli Soldier Confiscates Palestinian Home in West Bank Village Amid Ongoing Tensions",
+    "published": "2026-08-08T14:40:14.498708+00:00"
+  },
+  "5c4bc9fdee68b972b9c130c2ac960a8415a041b3158dad83b26c9fecbd7071be": {
+    "url": "thecradlemedia/65848",
+    "title": "Israeli Forces Launch Airstrikes in Southern Lebanon",
+    "published": "2026-08-08T14:37:12.881993+00:00"
+  },
+  "660fa7d26335d7a9ee133de983d40acc3e4f6ff3afcd2055758d118dd1a57d19": {
+    "url": "thecradlemedia/65852",
+    "title": "US Bill Ties Lebanon Aid to Hezbollah Disarmament",
+    "published": "2026-08-08T14:37:10.781795+00:00"
+  },
+  "5bb76b650afc42bc34f60dd4fa276abd6a5e69f9b80f64bb21f10f7bbca9fa65": {
+    "url": "https://tass.com/emergencies/2170507",
+    "title": "Explosions reported in eastern Ukrainian city of Kharkov",
+    "published": "2026-08-08T14:10:34+00:00"
+  },
+  "a80fbe4349c6658b2792257ebba4f745d2b777acd1835d165e998b2bd77cdde2": {
+    "url": "https://tass.com/world/2170503",
+    "title": "Zelensky claims Kiev reaches agreement with US on monthly interceptor missile supplies",
+    "published": "2026-08-08T13:39:33+00:00"
+  },
+  "7d415961afc534c15cff25086ad80465d6956514b632854b153c63fe2bdcb67d": {
+    "url": "https://www.rt.com/news/644015-japan-powerful-typhoon-dolphin-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Typhoon Dolphin slams Japan, injuring six and knocking out power",
+    "published": "2026-08-08T13:35:08+00:00"
+  },
   "f990a9d3f6005e631cf73131b97f44d74d8151b7b28384c63224d81bb44dabc2": {
     "url": "QudsNen/234567",
     "title": "Israeli Artillery Strike Hits Al-Mansouri, Southern Lebanon",
@@ -469,6 +514,11 @@
     "title": "Turkish dry cargo ship attacked by drone near Novorossiysk \u2014 media",
     "published": "2026-08-07T15:56:24+00:00"
   },
+  "ecdbf915915c712b5f91afe34cbca6e89682204272c38cdbe84dc5475a25349a": {
+    "url": "https://en.mehrnews.com/news/246813/Mossad-dismisses-top-officials-after-failure-against-Iran",
+    "title": "Mossad dismisses top officials after failure against Iran",
+    "published": "2026-08-07T15:34:16+00:00"
+  },
   "ea4ed8bc5fbc7f3bb54047a02cc32ceb600c2ddf344fcf9c499f21b1bf046c7b": {
     "url": "https://en.mehrnews.com/news/246812/Yemeni-attacks-leave-dozens-of-Saudi-backed-mercenaries-dead",
     "title": "Yemeni attacks leave dozens of Saudi-backed mercenaries dead",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65726",
     "title": "Yemen Conflict: Ansarallah Forces Launch Fresh Strikes on Saudi-Backed Positions",
     "published": "2026-08-07T09:04:44.952525+00:00"
-  },
-  "5c8fe60c4f1a0187c74a00bd46b0f5da5416cc883cc7dbf8edea7b7369b982dc": {
-    "url": "thecradlemedia/65730",
-    "title": "Yemen Conflict: Ansarallah Drone Strike Kills Government Troops in Marib",
-    "published": "2026-08-07T09:04:03.251779+00:00"
-  },
-  "cf6060172ad34ea556da8f073bb5a74d25cb708b1916d2fe64e1e12779d2def3": {
-    "url": "https://en.mehrnews.com/news/246808/At-least-six-killed-15-wounded-in-Thailand-school-shooting",
-    "title": "At least six killed, 15 wounded in Thailand school shooting",
-    "published": "2026-08-07T08:50:15+00:00"
-  },
-  "73abe53f34fa9af2b3b395d0f331770f3b411db8f7110d6e04c29e27b803cb6a": {
-    "url": "presstv/201868",
-    "title": "US Senator Bernie Sanders Condemns Trump's Policies as Authoritarian and Corrupt",
-    "published": "2026-08-07T07:30:07.704589+00:00"
-  },
-  "bf921e019bc34a034473159aa5310dbc8eedd852d4f0ef157e31d0a6cfca5238": {
-    "url": "presstv/201870",
-    "title": "Explosions Rock Yemen's Marib Province",
-    "published": "2026-08-07T07:27:36.672806+00:00"
-  },
-  "29ca26a71c58b5d9504c5171bce800e652208ea34009bd0c53d2fbb904efd9a8": {
-    "url": "BellumActaNews/176215",
-    "title": "Chilean President Kast Attends Inauguration of Colombia's President-elect De La Espriella",
-    "published": "2026-08-07T07:26:31.812410+00:00"
-  },
-  "af19ca34e91269dfe52f385877108ebba9a21a375dc7ca223b2008ef9d712406": {
-    "url": "QudsNen/234402",
-    "title": "Israeli Artillery Strikes Hit Southern Lebanon",
-    "published": "2026-08-07T07:23:31.834643+00:00"
-  },
-  "4076b8bdc887f7ca3f8473af58353b65b776466c3e6c1ace74972390e5969a07": {
-    "url": "thecradlemedia/65710",
-    "title": "Uganda Approves Troop Deployment to Gaza as Part of US-Led International Force",
-    "published": "2026-08-07T07:22:49.755434+00:00"
-  },
-  "cb6aa3145d2abd66e217f5cbace692491033a2feb32858c972f0f48f25dad06e": {
-    "url": "thecradlemedia/65711",
-    "title": "Trump's Board of 'Peace' Awards First Gaza Reconstruction Contract for Military Outpost",
-    "published": "2026-08-07T07:22:40.100486+00:00"
-  },
-  "29845ff3f6c0d97aedcf5710615ee52c4511f033252fab1dffa3df567c3567dd": {
-    "url": "https://english.almanar.com.lb/article/113167/",
-    "title": "West Bank: Dozens Injured in Israeli Raid on Qalandiya as Occupation Moves to Expand Settlements - Al-Manar TV Lebanon",
-    "published": "2026-08-07T07:12:56+00:00"
-  },
-  "8dfd73908d5ec09651ade4a10c4ca6cb4fbb5d7c60abcf8601bd2a972ffa5dc1": {
-    "url": "https://tass.com/politics/2169989",
-    "title": "NATO directly involved in strikes on Russian territory, hackers say citing files",
-    "published": "2026-08-07T07:03:51+00:00"
   }
 }
