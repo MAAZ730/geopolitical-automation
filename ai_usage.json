@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5643,
+  "total_calls": 5647,
   "tiers": {
-    "groq": 5624,
+    "groq": 5628,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-04T21:16:31.256391+00:00",
-      "tier": "groq",
-      "article": "Khwarizmi Youth Festival extends registration deadline"
-    },
-    {
-      "timestamp": "2026-08-04T21:17:10.760873+00:00",
-      "tier": "groq",
-      "article": "Argentina grain exports halt as maritime pilots strike over Milei decree"
-    },
-    {
-      "timestamp": "2026-08-04T21:17:27.265348+00:00",
-      "tier": "groq",
-      "article": "Families bury 112 recovered three years after Israeli strikes on Gaza"
-    },
-    {
-      "timestamp": "2026-08-04T21:18:06.977201+00:00",
-      "tier": "groq",
-      "article": "Over 80% of power plants destroyed in Ukraine \u2014 official"
-    },
     {
       "timestamp": "2026-08-04T23:06:45.947448+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-07T22:40:50.368429+00:00",
       "tier": "groq",
       "article": "Tehran, Dushanbe discuss ways to deepen scientific, educational co-op"
+    },
+    {
+      "timestamp": "2026-08-08T01:49:14.040038+00:00",
+      "tier": "groq",
+      "article": "Musk blocks Ukraine from using Starlink for deep strikes in Russia"
+    },
+    {
+      "timestamp": "2026-08-08T01:49:53.710919+00:00",
+      "tier": "groq",
+      "article": "Medics among six Palestinians injured in Israeli attacks across West Bank"
+    },
+    {
+      "timestamp": "2026-08-08T01:50:09.902657+00:00",
+      "tier": "groq",
+      "article": "Turkish dry cargo ship attacked by drone near Novorossiysk \u2014 media"
+    },
+    {
+      "timestamp": "2026-08-08T01:50:52.854219+00:00",
+      "tier": "groq",
+      "article": "IRCS, ICRC underscore need for strategic partnership roadmap"
     }
   ]
 }
