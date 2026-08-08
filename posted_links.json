@@ -1,8 +1,43 @@
 {
+  "8910f9b83e52a651f72809ca6ccc05d164e47cc36c7e79d73aa12e41b35d7c8b": {
+    "url": "mod_russia_en/28749",
+    "title": "Russian UAVs Target Dry Cargo Ships in Black Sea",
+    "published": "2026-08-08T05:04:32.044214+00:00"
+  },
+  "0b2375eff420259847d3e57d434261aac35b0544c0b3804e3e3c6586a98a7c6c": {
+    "url": "mod_russia_en/28752",
+    "title": "Russian Forces Neutralize Enemy Drones in Dobropolye",
+    "published": "2026-08-08T05:03:48.042949+00:00"
+  },
+  "e24328b6fb7cfb408519d73fb2288a39b834ba1201d89a6dd1ad8c7959ea04f4": {
+    "url": "mod_russia_en/28754",
+    "title": "Russian Forces Engage and Destroy Hostile Drones in Krasniy Liman",
+    "published": "2026-08-08T05:03:09.348983+00:00"
+  },
+  "5757fcdd3e77035b2e296af535331e402dd5db2dc02a2434d768f363a3e280fa": {
+    "url": "Slavyangrad/172512",
+    "title": "Explosions Rock Ukraine's Dnepropetrovsk Region Amid Drone Attacks",
+    "published": "2026-08-08T05:02:23.831862+00:00"
+  },
+  "5fc1629c80271425cc8ebcff308dc74488c8c69924831889a0b3276e4694f4d0": {
+    "url": "QudsNen/234503",
+    "title": "Tennessee Republican Primary Election: Ogles Trails Hatcher",
+    "published": "2026-08-08T05:01:40.957306+00:00"
+  },
+  "37f6e751f123bc5a6dbca6bb8d7d0a3dfa2e4f879f8683ecb9057713ba71e9cf": {
+    "url": "QudsNen/234504",
+    "title": "Israeli Tanks Open Fire in Deir al-Balah",
+    "published": "2026-08-08T05:01:39.829072+00:00"
+  },
   "eb0768f69bbb39d5b3fa2873250250e65f5a95aa3599d1cab671035a2031abab": {
     "url": "Slavyangrad/172518",
     "title": "Southern Forces Destroy Ukrainian T-72 Tank",
     "published": "2026-08-08T03:42:43.698339+00:00"
+  },
+  "c0f804a1b8ec0546ad3c6c9daf40d15f98730cd31bdc57c96733c34553fbc322": {
+    "url": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+    "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+    "published": "2026-08-08T03:42:43+00:00"
   },
   "056638ec6f4cc42ffc7c6acb1aed5c3f4f8cbf36bb998348eaeefffa3e5af9c3": {
     "url": "Slavyangrad/172525",
@@ -239,6 +274,11 @@
     "title": "Iranian attacks leave hundreds of US service members with enduring brain trauma",
     "published": "2026-08-07T16:53:48+00:00"
   },
+  "a15c4f3d8725e21595aa25115a0b3a08e368798abdade03a1b7249c3f95b9438": {
+    "url": "https://tass.com/politics/2170325",
+    "title": "Russia calls incident with drone at Leipzig airport hastily concocted provocation",
+    "published": "2026-08-07T16:53:20+00:00"
+  },
   "bec4bf930f697b8da3664b1dd72a385faf5b2941a866d29586c53e9248737db2": {
     "url": "https://tass.com/world/2170313",
     "title": "Musk denies Kiev assistance in targeting strikes against Russia \u2014 magazine",
@@ -304,6 +344,11 @@
     "title": "Su-30SM2 fighters destroy mock enemy with missiles during exercise near Kaliningrad",
     "published": "2026-08-07T13:47:47+00:00"
   },
+  "5c26e2d5c6287174263ee1126f320843996523153d908696d052c1e0c2249257": {
+    "url": "https://tass.com/world/2170235",
+    "title": "Spain threatens Italy with 'proportional measures' over border controls \u2014 Reuters",
+    "published": "2026-08-07T13:25:17+00:00"
+  },
   "309713ca819c9a788262106646e611bcafd9fd425e7ce414e389502ee48cb2bc": {
     "url": "QudsNen/234442",
     "title": "Israeli Settlers Storm Jabal Salama Area in West Bank",
@@ -363,6 +408,11 @@
     "url": "https://tass.com/world/2170193",
     "title": "Japan\u2019s Tomahawk missile tests require joint countermeasures \u2014 Chinese Defense Ministry",
     "published": "2026-08-07T11:52:00+00:00"
+  },
+  "51d9b47b1cb62d8be23f8382ce94d2e60643b53e07b96bf3fad69c498d7f4ac9": {
+    "url": "https://tass.com/defense/2170173",
+    "title": "Kalashnikov Group begins signing contracts with customers for next year",
+    "published": "2026-08-07T11:08:42+00:00"
   },
   "e9f7c80118436b8f6bcec85addb6bb8630494396ba2ac485ea8683a956f28bf5": {
     "url": "QudsNen/234425",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/65674",
     "title": "Volkswagen Faces Backlash Over Reported Arms Partnership",
     "published": "2026-08-06T10:49:25.009580+00:00"
-  },
-  "b639eacb79178a3783404e9187a305f8ea72524155e792e68531ab12d4f82871": {
-    "url": "thecradlemedia/65676",
-    "title": "Trump Confronts Hegseth Over Munitions Shortages in Iran Conflict",
-    "published": "2026-08-06T10:49:18.046422+00:00"
-  },
-  "57b172555afb8d391dcca58abebbe1cbad262186ff344a1a361c8bdfbc7777ae": {
-    "url": "https://tass.com/world/2169639",
-    "title": "Iran warns Gulf countries of retaliatory strikes in event of US attacks \u2014 Reuters",
-    "published": "2026-08-06T10:14:36+00:00"
-  },
-  "47394afe0eab88a16ee8608084a519af6f0c31ccaf27e16926dc3016adf41193": {
-    "url": "https://english.almanar.com.lb/article/112787/",
-    "title": "Lebanese Health Ministry says Israeli strikes on southern town of Burj Al-Shamali injured 8 citizens - Al-Manar TV Lebanon",
-    "published": "2026-08-06T08:37:32+00:00"
-  },
-  "4526e6bdc9b123ca9960b43bd227bb004a8cdecd5088407c1e4d0a0c9be3efa6": {
-    "url": "https://en.mehrnews.com/news/246799/Iran-s-Army-Force-fully-prepared-to-confront-enemies-spox",
-    "title": "Iran\u2019s Army Force fully prepared to confront enemies: spox",
-    "published": "2026-08-06T07:41:49+00:00"
-  },
-  "cdca8fb1da5212c93219b9a1020b1a2b3fe0e8f0a56a7a506567f43b4bbbc42f": {
-    "url": "https://www.aljazeera.com/news/2026/8/6/russian-strikes-kill-six-in-ukraine-as-moscow-intercepts-hundreds-of-drones?traffic_source=rss",
-    "title": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones",
-    "published": "2026-08-06T07:36:56+00:00"
-  },
-  "5d4bb481d10fba99116e5d022531be039636adf512772354c5cb2f879c049f49": {
-    "url": "https://english.almanar.com.lb/article/112732/",
-    "title": "Southern Lebanon: Civilians Wounded, Displaced as Israeli Strikes Pound Tyre Towns - Al-Manar TV Lebanon",
-    "published": "2026-08-06T07:32:59+00:00"
-  },
-  "4ff34eea283132bfa2386693c3bf275a8df79f83c9b25feee45cfcedd827b71d": {
-    "url": "presstv/201760",
-    "title": "Explosions Cause Extensive Fire Damage in Dubai's Jebel Ali Area",
-    "published": "2026-08-06T06:40:30.543887+00:00"
-  },
-  "e55c2489b6e0edc59d4a1abe8c040df128773c81b3795cdb324e1799f065eda2": {
-    "url": "presstv/201762",
-    "title": "Israeli Airstrike Damages Prayer Hall in Tibnine, Lebanon",
-    "published": "2026-08-06T06:39:15.585676+00:00"
-  },
-  "5387869c997c343442a99a181f42f92940d14ee678a827183714496dbadb20db": {
-    "url": "DDGeopolitics/190723",
-    "title": "Missiles Hit Kiev Amid Ongoing Ukraine Conflict",
-    "published": "2026-08-06T06:38:38.239733+00:00"
-  },
-  "536d10ed6fb29e4cea056f0a755a66a9a96a92c0e9aa5640f6e05cc4a76c00f7": {
-    "url": "QudsNen/234275",
-    "title": "Israeli Forces Conduct Raid in Qalandiya Refugee Camp",
-    "published": "2026-08-06T06:38:36.139258+00:00"
   }
 }
