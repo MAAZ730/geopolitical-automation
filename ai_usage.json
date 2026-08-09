@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5731,
+  "total_calls": 5735,
   "tiers": {
-    "groq": 5712,
+    "groq": 5716,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T19:01:30.604062+00:00",
-      "tier": "groq",
-      "article": "Yemeni Armed Forces Announce New Strikes on Pro-Saudi Military Camp, Affirm Siege-for-Siege and Escalation-for-Escalation Formulas - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-07T19:02:14.388365+00:00",
-      "tier": "groq",
-      "article": "Israel expands West Bank offensive with camp-by-camp strategy"
-    },
-    {
-      "timestamp": "2026-08-07T19:03:04.402359+00:00",
-      "tier": "groq",
-      "article": "Yemeni attacks leave dozens of Saudi-backed mercenaries dead"
-    },
-    {
-      "timestamp": "2026-08-07T19:03:51.718486+00:00",
-      "tier": "groq",
-      "article": "Hong Kong\u2019s Lingnan University student union ceases operations after 6 decades"
-    },
     {
       "timestamp": "2026-08-07T20:44:18.712100+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T18:47:18.500769+00:00",
       "tier": "groq",
       "article": "IRGC: US has accepted defeat in Iran war as Hormuz becomes \u2018Geography of Battle\u2019"
+    },
+    {
+      "timestamp": "2026-08-09T20:36:37.353444+00:00",
+      "tier": "groq",
+      "article": "Three drones downed en route to Moscow \u2014 mayor"
+    },
+    {
+      "timestamp": "2026-08-09T20:37:09.356634+00:00",
+      "tier": "groq",
+      "article": "Vucic describes Europe\u2019s actions against Russia as 'hybrid war'"
+    },
+    {
+      "timestamp": "2026-08-09T20:37:58.393524+00:00",
+      "tier": "groq",
+      "article": "Hezbollah: Israeli Map Exposes Expansionist Designs on Lebanon, Concessions Put Country at Greater Risk - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-09T20:38:52.617959+00:00",
+      "tier": "groq",
+      "article": "16 Iranian fishermen missing for 3+ months, US helicopter last seen overhead"
     }
   ]
 }
