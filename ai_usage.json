@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5719,
+  "total_calls": 5723,
   "tiers": {
-    "groq": 5700,
+    "groq": 5704,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T13:10:28.932317+00:00",
-      "tier": "groq",
-      "article": "\u2018One Child Dead Each Day\u2019: Renewed Israeli Barrages Pound Gaza as UN Warns Truce Is Failing - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-07T13:11:08.192171+00:00",
-      "tier": "groq",
-      "article": "Japan\u2019s Tomahawk missile tests require joint countermeasures \u2014 Chinese Defense Ministry"
-    },
-    {
-      "timestamp": "2026-08-07T13:12:01.595608+00:00",
-      "tier": "groq",
-      "article": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know"
-    },
-    {
-      "timestamp": "2026-08-07T13:12:53.206841+00:00",
-      "tier": "groq",
-      "article": "The EU\u2019s nuclear reckoning is finally here"
-    },
     {
       "timestamp": "2026-08-07T14:55:21.395841+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T12:59:00.099969+00:00",
       "tier": "groq",
       "article": "Iran\u2019s Army Force fully prepared to counter any ground threat"
+    },
+    {
+      "timestamp": "2026-08-09T14:37:53.667962+00:00",
+      "tier": "groq",
+      "article": "Tucker for president? MAGA rebels declare independence from Israel"
+    },
+    {
+      "timestamp": "2026-08-09T14:38:13.257089+00:00",
+      "tier": "groq",
+      "article": "UK defense chief calls Ukraine\u2019s drone kill-points system \u2018macabre\u2019"
+    },
+    {
+      "timestamp": "2026-08-09T14:38:31.422298+00:00",
+      "tier": "groq",
+      "article": "Russian air defenses down 10 bombs, four HIMARS rockets, 970 Ukrainian drones in 24 hours"
+    },
+    {
+      "timestamp": "2026-08-09T14:38:52.562736+00:00",
+      "tier": "groq",
+      "article": "Iran not to give up on Hormuz Strait by any means"
     }
   ]
 }

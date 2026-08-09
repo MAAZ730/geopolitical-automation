@@ -1,4 +1,39 @@
 {
+  "133889ac26b2c6d1dcb5cbe5a817ae3b7bfcf4e9b90a12c8154c41d5933bb06f": {
+    "url": "mod_russia_en/28778",
+    "title": "Russia Targets Oil Infrastructure in Sumy Region with Drone Strikes",
+    "published": "2026-08-09T14:43:18.094865+00:00"
+  },
+  "e17e0c7381b5979ac4bfaa2c698bb07574be0df2224f0b0681d4c65278f5ab01": {
+    "url": "mod_russia_en/28779",
+    "title": "Ukraine Oil Infrastructure Hit in Drone Strike",
+    "published": "2026-08-09T14:41:13.600643+00:00"
+  },
+  "477baaac3d6580685386b50630e77bff9369a05b00168f5789c4b061ac26d16e": {
+    "url": "Slavyangrad/172690",
+    "title": "Houthi Rebels Launch Missile and Drone Strike on Yemen's Mokha Port",
+    "published": "2026-08-09T14:39:55.924603+00:00"
+  },
+  "8de0406b065210b08bebbe939a5c4a02e2e8ede0c6a3c3c47fad58e28583ddb4": {
+    "url": "Slavyangrad/172693",
+    "title": "Kiev Supermarkets Reel from Russian Airstrikes, Food Shortages Worsen",
+    "published": "2026-08-09T14:39:26.458736+00:00"
+  },
+  "f1e84675c0197911d1dcbea7084aa09eb8e4feae5ac34c756e0587abeee03ee9": {
+    "url": "thecradlemedia/65874",
+    "title": "Israel Rejects Gaza Withdrawal Proposal Amid Ongoing Occupation",
+    "published": "2026-08-09T14:39:03.506119+00:00"
+  },
+  "7c6cd8cad66623bec69cd8bfe672bd564e67e56b0f2de21c69d2e2c6099fa0f9": {
+    "url": "thecradlemedia/65875",
+    "title": "Yemeni Forces Strike Saudi Aramco Site in Jizan",
+    "published": "2026-08-09T14:39:02.259742+00:00"
+  },
+  "2f954fbbd8cb3970b2f09518dafc56b618727c568092557a175f39df6c02a581": {
+    "url": "https://en.mehrnews.com/news/246857/Iran-not-to-give-up-on-Hormuz-Strait-Ayt-Larijani",
+    "title": "Iran not to give up on Hormuz Strait by any means",
+    "published": "2026-08-09T14:23:09+00:00"
+  },
   "06d41b718786da4c38d923c73aa9595dd5946f9b15a7fec676e9caa33de9e056": {
     "url": "boris_rozhin/221534",
     "title": "Ukrainian Forces Secure Villages, Enemy Soldier Killed in Attempt to Evade Detection",
@@ -33,6 +68,11 @@
     "url": "https://en.mehrnews.com/news/246855/Iran-s-Army-Force-fully-prepared-to-counter-any-ground-threat",
     "title": "Iran\u2019s Army Force fully prepared to counter any ground threat",
     "published": "2026-08-09T12:46:38+00:00"
+  },
+  "42f4ce9525beead46f1783db325f813332adf6ee8e219cc86cc02d5bd32e545d": {
+    "url": "https://www.rt.com/news/644034-ukraines-gamification-killing-macabre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "UK defense chief calls Ukraine\u2019s drone kill-points system \u2018macabre\u2019",
+    "published": "2026-08-09T12:36:56+00:00"
   },
   "8ad0d0dd8d8a305dae3d9db3026bd4d8c9b2ac680e5e485a670720cb73841c4a": {
     "url": "https://tass.com/world/2170685",
@@ -78,6 +118,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
     "title": "Why is Pezeshkian urging an end to Iran\u2019s \u2018no war, no peace\u2019 status?",
     "published": "2026-08-09T10:02:59+00:00"
+  },
+  "73fa1f142b21bfab1dc13e2b88ab157ba88a5ccb18ddc1adb6f7b66975404636": {
+    "url": "https://tass.com/defense/2170677",
+    "title": "Russian air defenses down 10 bombs, four HIMARS rockets, 970 Ukrainian drones in 24 hours",
+    "published": "2026-08-09T09:56:25+00:00"
   },
   "4333d96b4a1493619d4e0fce0960258d03023867bdb1d1e24ebbf99c62f8d132": {
     "url": "two_majors/81049",
@@ -459,6 +504,11 @@
     "title": "Why is Trump suddenly reviving his Gaza plan?",
     "published": "2026-08-08T15:29:36+00:00"
   },
+  "acf006ad1987c504fbc95566bc8ac30341b36f2a8c75965579a764fbf429e0d9": {
+    "url": "https://www.rt.com/news/644017-maga-rebels-tucker-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Tucker for president? MAGA rebels declare independence from Israel",
+    "published": "2026-08-08T15:25:43+00:00"
+  },
   "fa31a670d06d84f96bcd789a6a5d4aac3be0cc7e600e419c0c7453058cbdb15b": {
     "url": "https://en.irna.ir/news/86230740/Strait-of-Hormuz-will-stay-closed-until-US-changes-course-Iran-s",
     "title": "Strait of Hormuz will stay closed until US changes course: Iran\u2019s security chief",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/190857",
     "title": "US Joint Chiefs Chairman Warns of Escalation Risks in Iran Conflict",
     "published": "2026-08-08T07:00:22.634112+00:00"
-  },
-  "1cb36c9a17c482f9f44f6e0dfec24ddbc5943948812fd0a9a57117164cefbf7c": {
-    "url": "QudsNen/234524",
-    "title": "Gaza Mother's Desperate Bid to Cope with Scorching Heat Amid Ongoing Conflict",
-    "published": "2026-08-08T07:00:20.180726+00:00"
-  },
-  "895933b4d5d045e63e329edea9f92e3e162ba78d1d30f72825554091061364d9": {
-    "url": "https://tass.com/world/2170451",
-    "title": "Spanish specialist behind disclosure of 400 spies linked to NATO, Ukrainian intelligence",
-    "published": "2026-08-08T06:52:53+00:00"
-  },
-  "d54e6973111326164d21e41662171ba07ffe6003db8428c482b5491e3eaa2e3b": {
-    "url": "https://en.mehrnews.com/news/246821/Oil-prices-climb-as-uncertainty-over-Strait-of-Hormuz",
-    "title": "Oil prices climb due to uncertainty over Strait of Hormuz",
-    "published": "2026-08-08T06:47:39+00:00"
-  },
-  "fe3c5fa31e058f4758ec80043e8cd1f081e60b33d67229e3a31aa3926e8db3c2": {
-    "url": "https://www.rt.com/news/644002-rt-top-stories-ukraine-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Zelensky counts the cost, missing missile defense, Nazi memories surfacing: RT\u2019s top stories this week",
-    "published": "2026-08-08T06:01:53+00:00"
-  },
-  "af98ccc4a63715e747612385be9c35a06a343e13874e5ed4bb581fda8258922e": {
-    "url": "https://en.mehrnews.com/news/246820/Tehran-seeks-dialogue-while-refusing-pressure",
-    "title": "Tehran seeks dialogue while refusing pressure",
-    "published": "2026-08-08T05:32:00+00:00"
-  },
-  "3a960aaedff38e395c40612f4d5df2436074075e529aceffe3beda8d996f14e7": {
-    "url": "https://en.mehrnews.com/news/246819/Yemen-targets-Saudi-military-centre-warns-of-new-equation",
-    "title": "Yemen targets Saudi military centre, warns of new equation",
-    "published": "2026-08-08T05:05:48+00:00"
-  },
-  "8910f9b83e52a651f72809ca6ccc05d164e47cc36c7e79d73aa12e41b35d7c8b": {
-    "url": "mod_russia_en/28749",
-    "title": "Russian UAVs Target Dry Cargo Ships in Black Sea",
-    "published": "2026-08-08T05:04:32.044214+00:00"
-  },
-  "0b2375eff420259847d3e57d434261aac35b0544c0b3804e3e3c6586a98a7c6c": {
-    "url": "mod_russia_en/28752",
-    "title": "Russian Forces Neutralize Enemy Drones in Dobropolye",
-    "published": "2026-08-08T05:03:48.042949+00:00"
-  },
-  "e24328b6fb7cfb408519d73fb2288a39b834ba1201d89a6dd1ad8c7959ea04f4": {
-    "url": "mod_russia_en/28754",
-    "title": "Russian Forces Engage and Destroy Hostile Drones in Krasniy Liman",
-    "published": "2026-08-08T05:03:09.348983+00:00"
-  },
-  "f6f29fe07e0a4dcdd1a36518cfd5fedfbbd9e040019859479d6572a0e2228003": {
-    "url": "https://tass.com/defense/2170441",
-    "title": "Russian forces strike defense enterprise, fuel depot in Kiev",
-    "published": "2026-08-08T05:02:52+00:00"
   }
 }
