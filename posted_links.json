@@ -1,4 +1,49 @@
 {
+  "24ee6e0c01544d0bab647a0b4186d582f4554e24fff0d8c85a40297e29537ea2": {
+    "url": "boris_rozhin/221551",
+    "title": "Russian Forces Destroy Hostile Drone and Equipment in Kazachya Lopan",
+    "published": "2026-08-09T16:45:10.556938+00:00"
+  },
+  "f1106bb7bbd6cbf9cc3635def2e9d954d8d554677505ea174fe0cacf3693012a": {
+    "url": "intelslava/92345",
+    "title": "Russian Forces Destroy Ukrainian Howitzer in Zaporizhzhia Oblast",
+    "published": "2026-08-09T16:42:11.374233+00:00"
+  },
+  "4434fe010340af4f2cb69e0b292912476fa61cfd3162af642849acd9c1ee463b": {
+    "url": "presstv/202138",
+    "title": "US Embassy Warns of Aircraft Distress in Djibouti",
+    "published": "2026-08-09T16:41:30.841317+00:00"
+  },
+  "c4b952b1273d5127ab5b409f77b8ae3844168d8f9557f2f34e9300ab4bea531c": {
+    "url": "BellumActaNews/176289",
+    "title": "US Drone Crashes in Djibouti",
+    "published": "2026-08-09T16:41:12.967323+00:00"
+  },
+  "cb28e32994e4f1cd2110e95c16ccffbbcdb536d95698088e93b743ade70572e8": {
+    "url": "thecradlemedia/65870",
+    "title": "Iran Sets Conditions for Reopening Strait of Hormuz",
+    "published": "2026-08-09T16:40:50.738473+00:00"
+  },
+  "d2d8acdf681f49eefe564a692f7f1566df0d88acb730fd13aff86f3528d663e0": {
+    "url": "thecradlemedia/65873",
+    "title": "Iran Complicates US Plans for Strait of Hormuz Reopening",
+    "published": "2026-08-09T16:40:49.841523+00:00"
+  },
+  "695a468e10c511460c2b119551eedf7736acddcf0633a407ceabe2eafec58c50": {
+    "url": "https://en.irna.ir/news/86231739/Media-a-pillar-of-national-power-and-deterrence-Acting-defense",
+    "title": "Media a pillar of national power and deterrence: Acting defense minister",
+    "published": "2026-08-09T16:19:06+00:00"
+  },
+  "efb8c6a1fb2909af00f330209d58864d733320b813346e59d6539f1f1803053c": {
+    "url": "https://www.rt.com/news/644036-pentagon-arms-makers-boost-output/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Pentagon pushes arms makers to boost output as Iran war drains stocks \u2013 WaPo",
+    "published": "2026-08-09T16:07:12+00:00"
+  },
+  "410feaf829c955bbdba339f0d5be0bb13d9f6fb0ff14d1b600d6149d2eae9ced": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/war-on-iran-phase-ii-day-29?traffic_source=rss",
+    "title": "War on Iran: Phase II: Day 29",
+    "published": "2026-08-09T15:46:09+00:00"
+  },
   "133889ac26b2c6d1dcb5cbe5a817ae3b7bfcf4e9b90a12c8154c41d5933bb06f": {
     "url": "mod_russia_en/28778",
     "title": "Russia Targets Oil Infrastructure in Sumy Region with Drone Strikes",
@@ -454,6 +499,11 @@
     "title": "Deputy health minister: Evidence points to phosphorus bombing in Lamerd",
     "published": "2026-08-08T17:51:56+00:00"
   },
+  "92257d8c59d836bd171641899ec90476411b48bfa1ef2dd08f228b93d6ee3094": {
+    "url": "https://www.tehrantimes.com/news/528960/Hormuz-reopening-depends-on-US-Iran-says",
+    "title": "Hormuz reopening depends on US, Iran says",
+    "published": "2026-08-08T17:49:37+00:00"
+  },
   "8424064eede719f294897bf38f7965d61918243ce9ad8319bd30286b35c9824d": {
     "url": "https://www.tehrantimes.com/news/528959/We-will-stand-firm-behind-Leader-s-decision-on-war",
     "title": "\u00a0We will stand firm behind Leader\u2019s decision on war",
@@ -698,55 +748,5 @@
     "url": "mod_russia_en/28757",
     "title": "Russian Forces Destroy AFU Stronghold in Zaporozhye Region",
     "published": "2026-08-08T08:52:30.884390+00:00"
-  },
-  "9461781790987ceeebcbd65485d4c96c5e74d22dd7722024e6c864680382a3d9": {
-    "url": "thecradlemedia/65794",
-    "title": "Israeli Forces Launch Overnight Assault on Southern Lebanon",
-    "published": "2026-08-08T08:50:58.798276+00:00"
-  },
-  "509319e2a8e82436bd67086674863b01468ddb0836798437ecd561f7ab86e3ca": {
-    "url": "thecradlemedia/65799",
-    "title": "US Lawmakers Seek to Halt Military Campaign Against Iran",
-    "published": "2026-08-08T08:48:03.447861+00:00"
-  },
-  "1d0e8071491fe71eb65da215634656b37856035142a5b23a9dd7a8572082ca1e": {
-    "url": "thecradlemedia/65800",
-    "title": "Israel Demands Decades-Old Water Debts from Palestinian Farmers in Jordan Valley",
-    "published": "2026-08-08T08:48:01.567599+00:00"
-  },
-  "5d7fa0a3657d674c2587625fa04c2406fac82bf5ffde6b53d62d519deb4e4862": {
-    "url": "https://tass.com/defense/2170463",
-    "title": "Russia strikes dry cargo ship east of Odessa transporting weapons for Ukrainian military",
-    "published": "2026-08-08T08:33:35+00:00"
-  },
-  "505fd3d62cb2a0f9d7984f179021b29f2a3e13e0dad1fd22f6c64b16a7a8e8f1": {
-    "url": "https://en.mehrnews.com/news/246822/Why-is-it-high-time-for-US-to-withdraw-from-West-Asia",
-    "title": "Why is it high time for US to withdraw from West Asia region?",
-    "published": "2026-08-08T08:08:00+00:00"
-  },
-  "ade559e97dfa350bc3a4094d4f51bb694834daad705f988915ef5ad95699ea94": {
-    "url": "Slavyangrad/172533",
-    "title": "Russian Forces Disrupt Ukrainian Logistics with Railway Strike",
-    "published": "2026-08-08T07:03:34.912001+00:00"
-  },
-  "c320d0fe48cdb8618aa3ede907a3b8640cd1dbdca281e03acb2d915712d4b163": {
-    "url": "Slavyangrad/172537",
-    "title": "China's PLA Integrates Drone-Mortar Capability",
-    "published": "2026-08-08T07:01:51.387399+00:00"
-  },
-  "7874194822280b5463e95260465e9b836f74f0f9c621396653d9d2355b37048b": {
-    "url": "Slavyangrad/172538",
-    "title": "Odessa Oblast Resident Dies After Detention by Military Commissariat Employees",
-    "published": "2026-08-08T07:01:18.181503+00:00"
-  },
-  "989a65033b681b5649ee12291cbe16a05bd1059f1cf04eac994ffcfd2bb904f7": {
-    "url": "presstv/201992",
-    "title": "Israeli Warplanes Conduct Low-Altitude Flyover over Southern Lebanon",
-    "published": "2026-08-08T07:00:58.352716+00:00"
-  },
-  "0abd055b3add61646a3b1282ee87fbaa060030f2acafeede23c7985ab76cbc53": {
-    "url": "DDGeopolitics/190857",
-    "title": "US Joint Chiefs Chairman Warns of Escalation Risks in Iran Conflict",
-    "published": "2026-08-08T07:00:22.634112+00:00"
   }
 }

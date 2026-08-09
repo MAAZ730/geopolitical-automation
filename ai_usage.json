@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5723,
+  "total_calls": 5727,
   "tiers": {
-    "groq": 5704,
+    "groq": 5708,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T14:55:21.395841+00:00",
-      "tier": "groq",
-      "article": "Russian troops liberate eight communities in Ukraine operation over week \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-08-07T14:56:02.590407+00:00",
-      "tier": "groq",
-      "article": "Concerned Ukrainians help Russian troops deliver more accurate strikes \u2014 underground"
-    },
-    {
-      "timestamp": "2026-08-07T14:56:20.949434+00:00",
-      "tier": "groq",
-      "article": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks"
-    },
-    {
-      "timestamp": "2026-08-07T14:56:37.087037+00:00",
-      "tier": "groq",
-      "article": "Israeli occupation troops clear 10 million tons of rubble in Gaza to &#039;erase evidence&#039; of genocide"
-    },
     {
       "timestamp": "2026-08-07T16:56:59.374638+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T14:38:52.562736+00:00",
       "tier": "groq",
       "article": "Iran not to give up on Hormuz Strait by any means"
+    },
+    {
+      "timestamp": "2026-08-09T16:39:12.410223+00:00",
+      "tier": "groq",
+      "article": "Hormuz reopening depends on US, Iran says"
+    },
+    {
+      "timestamp": "2026-08-09T16:39:47.874767+00:00",
+      "tier": "groq",
+      "article": "Media a pillar of national power and deterrence: Acting defense minister"
+    },
+    {
+      "timestamp": "2026-08-09T16:40:04.926572+00:00",
+      "tier": "groq",
+      "article": "Pentagon pushes arms makers to boost output as Iran war drains stocks \u2013 WaPo"
+    },
+    {
+      "timestamp": "2026-08-09T16:40:46.775789+00:00",
+      "tier": "groq",
+      "article": "War on Iran: Phase II: Day 29"
     }
   ]
 }
