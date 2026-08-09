@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5703,
+  "total_calls": 5707,
   "tiers": {
-    "groq": 5684,
+    "groq": 5688,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T04:28:35.627442+00:00",
-      "tier": "groq",
-      "article": "\u2018No red line\u2019: South Lebanon residents outraged as Israel resumes strikes"
-    },
-    {
-      "timestamp": "2026-08-07T04:29:15.121159+00:00",
-      "tier": "groq",
-      "article": "Russia awaits global response to Ukrainian drone strike on Zaporozhye NPP \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-08-07T04:30:08.793483+00:00",
-      "tier": "groq",
-      "article": "Houthi attacks reportedly kill at least 30 Yemeni government forces"
-    },
-    {
-      "timestamp": "2026-08-07T04:30:24.617222+00:00",
-      "tier": "groq",
-      "article": "Eight armed operatives arrested in SE Iran: IRGC Ground Force"
-    },
     {
       "timestamp": "2026-08-07T07:20:48.943297+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T05:09:57.128038+00:00",
       "tier": "groq",
       "article": "Why is it high time for US to withdraw from West Asia region?"
+    },
+    {
+      "timestamp": "2026-08-09T07:00:56.250473+00:00",
+      "tier": "groq",
+      "article": "Russian troops strike Ukrainian UAV, radio-electronic equipment depots in Kharkov Region"
+    },
+    {
+      "timestamp": "2026-08-09T07:01:32.264773+00:00",
+      "tier": "groq",
+      "article": "Iran war leaves US allies in Asia less defended \u2013 NYT"
+    },
+    {
+      "timestamp": "2026-08-09T07:02:18.618098+00:00",
+      "tier": "groq",
+      "article": "Yemen hits Saudi Arabia's Aramco refinery with drone"
+    },
+    {
+      "timestamp": "2026-08-09T07:02:37.409848+00:00",
+      "tier": "groq",
+      "article": "Ghalibaf praises journalists as defenders of natl. identity"
     }
   ]
 }
