@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5695,
+  "total_calls": 5699,
   "tiers": {
-    "groq": 5676,
+    "groq": 5680,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-06T14:18:29.839536+00:00",
-      "tier": "groq",
-      "article": "HRW, Amnesty Say Israeli Killing of Journalist Amal Khalil a War Crime - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-06T14:19:07.576795+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks leave 17 injured in Belgorod Region in 24 hours"
-    },
-    {
-      "timestamp": "2026-08-06T14:19:25.825124+00:00",
-      "tier": "groq",
-      "article": "Iran warns Gulf countries of retaliatory strikes in event of US attacks \u2014 Reuters"
-    },
-    {
-      "timestamp": "2026-08-06T14:19:44.736736+00:00",
-      "tier": "groq",
-      "article": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role"
-    },
     {
       "timestamp": "2026-08-07T00:05:00.648256+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T01:57:09.488736+00:00",
       "tier": "groq",
       "article": "Deputy health minister: Evidence points to phosphorus bombing in Lamerd"
+    },
+    {
+      "timestamp": "2026-08-09T03:46:11.647157+00:00",
+      "tier": "groq",
+      "article": "Oil prices climb due to uncertainty over Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-08-09T03:46:51.275348+00:00",
+      "tier": "groq",
+      "article": "British Columbia wildfire forces more than 20,000 to flee, destroys homes"
+    },
+    {
+      "timestamp": "2026-08-09T03:47:08.460354+00:00",
+      "tier": "groq",
+      "article": "Why is Trump suddenly reviving his Gaza plan?"
+    },
+    {
+      "timestamp": "2026-08-09T03:47:51.357483+00:00",
+      "tier": "groq",
+      "article": "Thievy Bifouma to remain in Persepolis"
     }
   ]
 }

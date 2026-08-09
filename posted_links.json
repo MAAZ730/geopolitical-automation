@@ -1,4 +1,34 @@
 {
+  "ab7cf76d3f1e90c5335e97b966f014964100d183a30ab2fe1369ef6c7990e342": {
+    "url": "CyberspecNews/113921",
+    "title": "Colombia's New President Signals Shift in Armed Group Policy Amid Protests",
+    "published": "2026-08-09T03:54:46.607431+00:00"
+  },
+  "c11a69d8faa63e40d51fe7b755886c8e60376e519e0c9769cc1698b3b35ca6a4": {
+    "url": "CyberspecNews/113927",
+    "title": "AFU Drone Control Point Elimination in Slavyansk Area",
+    "published": "2026-08-09T03:52:19.856924+00:00"
+  },
+  "3c9bca031497743bcc31c136372a8bbc1610d577ad60fcbfb46c458aa6aaf595": {
+    "url": "CyberspecNews/113930",
+    "title": "Odessa Under Attack: Ukraine Faces Widespread Missile-Drone Strike",
+    "published": "2026-08-09T03:49:27.453026+00:00"
+  },
+  "ddf513ff85aa1d9dd0bfb0ae9c4fed7534fed7395560fe669bc3fc31bace84a3": {
+    "url": "intelslava/92307",
+    "title": "Drone Attack Hits Residential Buildings in Belgorod",
+    "published": "2026-08-09T03:48:41.022314+00:00"
+  },
+  "8d4f6ddadd031162c899adf98e15f23fe4dd9c5c822e35c1b16394d4bd6ce71a": {
+    "url": "DDGeopolitics/190897",
+    "title": "Russia Unfazed by Western Reaction to 2008 Conflict",
+    "published": "2026-08-09T03:48:09.838263+00:00"
+  },
+  "941bb15f1ab4c12453e578c74e295940f691ff8479f6f578b2227899a67c0e04": {
+    "url": "QudsNen/234613",
+    "title": "Gaza Amputee Footballers Face Equipment Shortage",
+    "published": "2026-08-09T03:47:59.491641+00:00"
+  },
   "473f17c4215979d7dd6d0e88480115fd3f1eed466e5f06587753556ff9a54d76": {
     "url": "presstv/202068",
     "title": "Israeli Forces Defy Ceasefire in Southern Lebanon",
@@ -164,6 +194,11 @@
     "title": "\u00a0We will stand firm behind Leader\u2019s decision on war",
     "published": "2026-08-08T17:43:50+00:00"
   },
+  "9557a7abf99e82a0296ca3eb004cad98725e56662fec206a94f8382d0f6f8469": {
+    "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+    "title": "British Columbia wildfire forces more than 20,000 to flee, destroys homes",
+    "published": "2026-08-08T17:14:09+00:00"
+  },
   "22c8b35bdfe83f77de37bf57b2debca123f87ed69ad79966b6e64ea3e179b1d6": {
     "url": "https://www.tehrantimes.com/news/528958/A-beat-written-in-blood-across-Gaza-Lebanon-Yemen-and-Iran",
     "title": "A beat written in blood across Gaza, Lebanon, Yemen, and Iran",
@@ -198,6 +233,11 @@
     "url": "thecradlemedia/65854",
     "title": "Black Sea Maritime Disrupted by Drone Attacks",
     "published": "2026-08-08T16:38:49.532594+00:00"
+  },
+  "4011066600fa103d74076ee5e5ac930721a742b8983fd02913cb70347e64ba94": {
+    "url": "https://www.tehrantimes.com/news/528955/Why-is-Trump-suddenly-reviving-his-Gaza-plan",
+    "title": "Why is Trump suddenly reviving his Gaza plan?",
+    "published": "2026-08-08T15:29:36+00:00"
   },
   "fa31a670d06d84f96bcd789a6a5d4aac3be0cc7e600e419c0c7453058cbdb15b": {
     "url": "https://en.irna.ir/news/86230740/Strait-of-Hormuz-will-stay-closed-until-US-changes-course-Iran-s",
@@ -253,6 +293,11 @@
     "url": "https://tass.com/emergencies/2170507",
     "title": "Explosions reported in eastern Ukrainian city of Kharkov",
     "published": "2026-08-08T14:10:34+00:00"
+  },
+  "140bef5377b19541d3aed60f89ea2f7ef5786cf105d802068675e6d4b8722437": {
+    "url": "https://www.tehrantimes.com/news/528949/Thievy-Bifouma-to-remain-in-Persepolis",
+    "title": "Thievy Bifouma to remain in Persepolis",
+    "published": "2026-08-08T13:48:29+00:00"
   },
   "a80fbe4349c6658b2792257ebba4f745d2b777acd1835d165e998b2bd77cdde2": {
     "url": "https://tass.com/world/2170503",
@@ -413,6 +458,11 @@
     "url": "QudsNen/234524",
     "title": "Gaza Mother's Desperate Bid to Cope with Scorching Heat Amid Ongoing Conflict",
     "published": "2026-08-08T07:00:20.180726+00:00"
+  },
+  "d54e6973111326164d21e41662171ba07ffe6003db8428c482b5491e3eaa2e3b": {
+    "url": "https://en.mehrnews.com/news/246821/Oil-prices-climb-as-uncertainty-over-Strait-of-Hormuz",
+    "title": "Oil prices climb due to uncertainty over Strait of Hormuz",
+    "published": "2026-08-08T06:47:39+00:00"
   },
   "fe3c5fa31e058f4758ec80043e8cd1f081e60b33d67229e3a31aa3926e8db3c2": {
     "url": "https://www.rt.com/news/644002-rt-top-stories-ukraine-trump/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/246815/Iraqi-Resistance-delays-planned-retaliatory-strikes",
     "title": "Iraqi Resistance 'delays' planned retaliatory strikes",
     "published": "2026-08-07T18:06:02+00:00"
-  },
-  "a668a55260d38f196e9183c9b730941100258c5abbc4ee1c7f7c967f7783ad5e": {
-    "url": "https://www.tehrantimes.com/news/528924/Qalibaf-slams-Trump-s-theater-diplomacy-toward-Iran",
-    "title": "Qalibaf slams Trump\u2019s \u2018theater diplomacy\u2019 toward Iran",
-    "published": "2026-08-07T17:31:50+00:00"
-  },
-  "008af9bd22fe1cdb046f2d6d9705982d54598a51cf617229ede5201299c9bf76": {
-    "url": "https://www.tehrantimes.com/news/528921/Israel-expands-West-Bank-offensive-with-camp-by-camp-strategy",
-    "title": "Israel expands West Bank offensive with camp-by-camp strategy",
-    "published": "2026-08-07T17:30:15+00:00"
-  },
-  "a49b2f864d1d5d40d6760515c259aba16fe85e0cd27d31f924f2e666168ffed8": {
-    "url": "https://tass.com/world/2170327",
-    "title": "Unknown drones spotted over Bundeswehr base in western Germany \u2014 newspaper",
-    "published": "2026-08-07T17:03:11+00:00"
-  },
-  "0242d7fdb8cc93e2745ebb3be3f89112090db7ff1c5c00aaf986c8f054de841f": {
-    "url": "BellumActaNews/176226",
-    "title": "Drone Attack Targets Wildberries Warehouse in Yekaterinburg",
-    "published": "2026-08-07T17:02:00.089328+00:00"
-  },
-  "44b451a5e6f123592f1325d88ece8764859aab0e5b854a3aa0bd42902ac472e5": {
-    "url": "DDGeopolitics/190827",
-    "title": "Russia-Ukraine Conflict: Drone Strikes Intensify Amid Naval Blockade",
-    "published": "2026-08-07T17:01:28.945018+00:00"
-  },
-  "9a251b7d94b1250abdd61fe02e39f7ec47b4963eaa8d6044f4c4fa6bbe81e8e3": {
-    "url": "DDGeopolitics/190843",
-    "title": "Ukrainian Ship Hit by Drones Off Odessa Coast",
-    "published": "2026-08-07T17:00:21.616550+00:00"
-  },
-  "20aa00885bd110b3f8d55e7cfd847894dd02409aa487134fbefdd088ed10e86d": {
-    "url": "QudsNen/234465",
-    "title": "Israeli Forces Detain Palestinian Man in West Bank",
-    "published": "2026-08-07T16:59:35.144888+00:00"
-  },
-  "b58a9e1effd3f05e341c17dc376df52e49ca7f0e2b544621b652d275b6c36bf6": {
-    "url": "thecradlemedia/65785",
-    "title": "Turkiye Faces EU Pressure Over Russian Gas Origin",
-    "published": "2026-08-07T16:58:54.291619+00:00"
-  },
-  "c23a2cb70a9a65ed05d8bb19eadeae233e0dcf7da77fa44efd7ad4964856e9bc": {
-    "url": "thecradlemedia/65789",
-    "title": "US Treasury Sparks Controversy Over Secret Euro-Yen Swap",
-    "published": "2026-08-07T16:58:52.943695+00:00"
-  },
-  "99e86398353f3eb4e08f83535e1caeb89bb8dac9f01b52c3f38d99a43db9e9a8": {
-    "url": "https://www.tehrantimes.com/news/528912/Iranian-attacks-leave-hundreds-of-US-service-members-with-enduring",
-    "title": "Iranian attacks leave hundreds of US service members with enduring brain trauma",
-    "published": "2026-08-07T16:53:48+00:00"
   }
 }
