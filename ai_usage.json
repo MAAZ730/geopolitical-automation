@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5711,
+  "total_calls": 5715,
   "tiers": {
-    "groq": 5692,
+    "groq": 5696,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T09:02:47.062956+00:00",
-      "tier": "groq",
-      "article": "Kiev suffering enormously due to Russian strikes on port logistics \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-07T09:03:22.353484+00:00",
-      "tier": "groq",
-      "article": "At least six killed, 15 wounded in Thailand school shooting"
-    },
-    {
-      "timestamp": "2026-08-07T09:03:40.663117+00:00",
-      "tier": "groq",
-      "article": "West Bank: Dozens Injured in Israeli Raid on Qalandiya as Occupation Moves to Expand Settlements - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-07T09:03:59.485898+00:00",
-      "tier": "groq",
-      "article": "Trump presses Hegseth on Iran war arsenal drain \u2013 media"
-    },
     {
       "timestamp": "2026-08-07T10:55:54.029246+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T08:47:54.371864+00:00",
       "tier": "groq",
       "article": "Foreign forces must leave region: Senior adviser to Leader"
+    },
+    {
+      "timestamp": "2026-08-09T10:38:09.757839+00:00",
+      "tier": "groq",
+      "article": "Geran UAV crews strike oil production facilities in Sumy Region - Defense Ministry"
+    },
+    {
+      "timestamp": "2026-08-09T10:38:29.334359+00:00",
+      "tier": "groq",
+      "article": "Why is Pezeshkian urging an end to Iran\u2019s \u2018no war, no peace\u2019 status?"
+    },
+    {
+      "timestamp": "2026-08-09T10:38:45.694337+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: Mass drone attack on Belgorod leaves 13 injured, damages residential buildings"
+    },
+    {
+      "timestamp": "2026-08-09T10:39:06.328185+00:00",
+      "tier": "groq",
+      "article": "US bombing of Hiroshima, Nagasaki dire crime against humanity"
     }
   ]
 }
