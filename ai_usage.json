@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5715,
+  "total_calls": 5719,
   "tiers": {
-    "groq": 5696,
+    "groq": 5700,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T10:55:54.029246+00:00",
-      "tier": "groq",
-      "article": "Houthis launch missile strike on displacement camp in Yemen\u2019s Marib Governorate \u2014 TV"
-    },
-    {
-      "timestamp": "2026-08-07T10:56:28.358209+00:00",
-      "tier": "groq",
-      "article": "Three civilians injured in Ukrainian drone strike on Russia\u2019s Belgorod"
-    },
-    {
-      "timestamp": "2026-08-07T10:56:47.611220+00:00",
-      "tier": "groq",
-      "article": "Russia hits three dry cargo ships, destroys Ukrainian army train: results of new strikes"
-    },
-    {
-      "timestamp": "2026-08-07T10:57:06.633860+00:00",
-      "tier": "groq",
-      "article": "Intel. min. arrests 21 Mossad-linked mercenaries in SE Iran"
-    },
     {
       "timestamp": "2026-08-07T13:10:28.932317+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T10:39:06.328185+00:00",
       "tier": "groq",
       "article": "US bombing of Hiroshima, Nagasaki dire crime against humanity"
+    },
+    {
+      "timestamp": "2026-08-09T12:56:51.868967+00:00",
+      "tier": "groq",
+      "article": "Houthis report striking military warehouses in Yemen\u2019s Mokha with missiles, UAVs"
+    },
+    {
+      "timestamp": "2026-08-09T12:57:27.088076+00:00",
+      "tier": "groq",
+      "article": "Agreement with Oman does not mean reopening Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-08-09T12:58:13.169235+00:00",
+      "tier": "groq",
+      "article": "Yemeni army warns Houthis after attacks heighten escalation risk"
+    },
+    {
+      "timestamp": "2026-08-09T12:59:00.099969+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Army Force fully prepared to counter any ground threat"
     }
   ]
 }

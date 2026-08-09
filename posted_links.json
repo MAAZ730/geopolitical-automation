@@ -1,4 +1,49 @@
 {
+  "06d41b718786da4c38d923c73aa9595dd5946f9b15a7fec676e9caa33de9e056": {
+    "url": "boris_rozhin/221534",
+    "title": "Ukrainian Forces Secure Villages, Enemy Soldier Killed in Attempt to Evade Detection",
+    "published": "2026-08-09T13:04:29.324720+00:00"
+  },
+  "d17f040856c4eca74ec1889a4f09523cd99a85cd54b127ec5e69729a17351584": {
+    "url": "intelslava/92329",
+    "title": "Houthi Rebels Strike Military Shipment at Yemen's Mukha Port",
+    "published": "2026-08-09T13:02:53.845535+00:00"
+  },
+  "739d7a8828e16520b872e5c65863f7c9d98b7458372187ae83580a3c499fe0a0": {
+    "url": "intelslava/92331",
+    "title": "Russian Forces Conduct Aerial Operations Against Ukrainian Personnel in Zaporizhzhia",
+    "published": "2026-08-09T13:02:21.725824+00:00"
+  },
+  "46a552108e474a26d06adf764db16a5f45f401b30f97f459645af73a39b1459c": {
+    "url": "intelslava/92333",
+    "title": "Russia Destroys Ukrainian Drone Control Station in Kherson",
+    "published": "2026-08-09T13:01:12.087060+00:00"
+  },
+  "e4d3ab5458c5bbf60c0f80fa224e5e835fc3b5e11e2603bddfcfd0fbf24df20b": {
+    "url": "thecradlemedia/65871",
+    "title": "Israel Advances West Bank Settlement Amid Escalating Settler Violence",
+    "published": "2026-08-09T12:59:06.736351+00:00"
+  },
+  "45a0c3787101db46b347982134bd45400ecb3eed7ab3eba96ce6b9225ba834a7": {
+    "url": "thecradlemedia/65872",
+    "title": "Israeli Artillery Strikes Al-Mansouri in South Lebanon",
+    "published": "2026-08-09T12:59:05.750380+00:00"
+  },
+  "66601da4e416c90c006e6c144dc22fa191ce2eecc972515bc3eb67a3ae10d6f6": {
+    "url": "https://en.mehrnews.com/news/246855/Iran-s-Army-Force-fully-prepared-to-counter-any-ground-threat",
+    "title": "Iran\u2019s Army Force fully prepared to counter any ground threat",
+    "published": "2026-08-09T12:46:38+00:00"
+  },
+  "8ad0d0dd8d8a305dae3d9db3026bd4d8c9b2ac680e5e485a670720cb73841c4a": {
+    "url": "https://tass.com/world/2170685",
+    "title": "Houthis report striking military warehouses in Yemen\u2019s Mokha with missiles, UAVs",
+    "published": "2026-08-09T11:16:04+00:00"
+  },
+  "045302d15d045a6ff1f9e419d26190c87f44ddb890ea63fb420a0e3b2214b9dd": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
+    "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
+    "published": "2026-08-09T10:45:57+00:00"
+  },
   "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
     "url": "CensoredMen/222",
     "title": "US Forces Enforce Maritime Blockade Against Iran",
@@ -484,6 +529,11 @@
     "title": "Typhoon Dolphin slams Japan, injuring six and knocking out power",
     "published": "2026-08-08T13:35:08+00:00"
   },
+  "eb313dd02030c1b9590262df3515fcbc3192fd7f25a2151b9d24c6d5c2227bd5": {
+    "url": "https://en.mehrnews.com/news/246833/Agreement-with-Oman-does-not-mean-reopening-Hormuz-Strait",
+    "title": "Agreement with Oman does not mean reopening Hormuz Strait",
+    "published": "2026-08-08T13:00:48+00:00"
+  },
   "f990a9d3f6005e631cf73131b97f44d74d8151b7b28384c63224d81bb44dabc2": {
     "url": "QudsNen/234567",
     "title": "Israeli Artillery Strike Hits Al-Mansouri, Southern Lebanon",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/defense/2170441",
     "title": "Russian forces strike defense enterprise, fuel depot in Kiev",
     "published": "2026-08-08T05:02:52+00:00"
-  },
-  "5757fcdd3e77035b2e296af535331e402dd5db2dc02a2434d768f363a3e280fa": {
-    "url": "Slavyangrad/172512",
-    "title": "Explosions Rock Ukraine's Dnepropetrovsk Region Amid Drone Attacks",
-    "published": "2026-08-08T05:02:23.831862+00:00"
-  },
-  "5fc1629c80271425cc8ebcff308dc74488c8c69924831889a0b3276e4694f4d0": {
-    "url": "QudsNen/234503",
-    "title": "Tennessee Republican Primary Election: Ogles Trails Hatcher",
-    "published": "2026-08-08T05:01:40.957306+00:00"
-  },
-  "37f6e751f123bc5a6dbca6bb8d7d0a3dfa2e4f879f8683ecb9057713ba71e9cf": {
-    "url": "QudsNen/234504",
-    "title": "Israeli Tanks Open Fire in Deir al-Balah",
-    "published": "2026-08-08T05:01:39.829072+00:00"
-  },
-  "2f0faab273d6c2399e5b0bbb33cbf4a6cc57731c500c91533ba8c76e5e2b3cb9": {
-    "url": "https://tass.com/emergencies/2170435",
-    "title": "Two wounded by drone fragments in Central Russia\u2019s Lipetsk Region",
-    "published": "2026-08-08T04:45:30+00:00"
-  },
-  "eb0768f69bbb39d5b3fa2873250250e65f5a95aa3599d1cab671035a2031abab": {
-    "url": "Slavyangrad/172518",
-    "title": "Southern Forces Destroy Ukrainian T-72 Tank",
-    "published": "2026-08-08T03:42:43.698339+00:00"
-  },
-  "c0f804a1b8ec0546ad3c6c9daf40d15f98730cd31bdc57c96733c34553fbc322": {
-    "url": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
-    "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
-    "published": "2026-08-08T03:42:43+00:00"
-  },
-  "056638ec6f4cc42ffc7c6acb1aed5c3f4f8cbf36bb998348eaeefffa3e5af9c3": {
-    "url": "Slavyangrad/172525",
-    "title": "Lvov Region Bus Assault: Elderly Woman Forced Off for Speaking Russian",
-    "published": "2026-08-08T03:41:33.220711+00:00"
-  },
-  "ba4708acf1c937be079fe565cfeee8a593f1fb3087395014eef40172b6086f67": {
-    "url": "intelslava/92263",
-    "title": "Russian Forces Target Ukrainian Logistics in Kharkiv Oblast",
-    "published": "2026-08-08T03:39:55.516144+00:00"
-  },
-  "e851266e447c58d6ab2d4e8b47521f775fab300493a28acfe751e4d93e482fb4": {
-    "url": "intelslava/92264",
-    "title": "Settlers Attack Ambulance in West Bank Clashes",
-    "published": "2026-08-08T03:38:13.433850+00:00"
-  },
-  "a11dabc02277f7702f71ac2d8903f22cc4c8bb6695068dd1b3bcad6529bcc895": {
-    "url": "QudsNen/234505",
-    "title": "Israeli Forces Detain Activists, Subject Them to Physical Abuse on Warships",
-    "published": "2026-08-08T03:37:31.673168+00:00"
   }
 }
