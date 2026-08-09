@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5735,
+  "total_calls": 5739,
   "tiers": {
-    "groq": 5716,
+    "groq": 5720,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T20:44:18.712100+00:00",
-      "tier": "groq",
-      "article": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant"
-    },
-    {
-      "timestamp": "2026-08-07T20:44:59.640258+00:00",
-      "tier": "groq",
-      "article": "Iraqi paramilitary groups postpone attack on neighboring country"
-    },
-    {
-      "timestamp": "2026-08-07T20:45:18.456304+00:00",
-      "tier": "groq",
-      "article": "How North Korean forces are bolstering Russia\u2019s war against Ukraine"
-    },
-    {
-      "timestamp": "2026-08-07T20:45:34.686487+00:00",
-      "tier": "groq",
-      "article": "All Russian Navy fleets possess unmanned maritime systems units \u2014 admiral"
-    },
     {
       "timestamp": "2026-08-07T22:39:13.349438+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T20:38:52.617959+00:00",
       "tier": "groq",
       "article": "16 Iranian fishermen missing for 3+ months, US helicopter last seen overhead"
+    },
+    {
+      "timestamp": "2026-08-09T22:35:09.239447+00:00",
+      "tier": "groq",
+      "article": "Two killed, seven wounded in Ukraine\u2019s drone attacks on DPR during day"
+    },
+    {
+      "timestamp": "2026-08-09T22:35:28.544884+00:00",
+      "tier": "groq",
+      "article": "Bulgarian foreign ministry summons Ukrainian ambassador over drone incident \u2014 agency"
+    },
+    {
+      "timestamp": "2026-08-09T22:35:52.737828+00:00",
+      "tier": "groq",
+      "article": "Germany warns of \u2018daily hybrid warfare\u2019 after explosive-laden drone found"
+    },
+    {
+      "timestamp": "2026-08-09T22:36:38.292228+00:00",
+      "tier": "groq",
+      "article": "Palestinians say Netanyahu\u2019s decision leaves \u2018no clear path\u2019 to peace"
     }
   ]
 }

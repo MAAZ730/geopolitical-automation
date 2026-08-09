@@ -1,4 +1,39 @@
 {
+  "11f9b9dd02f38def953ee75f8f9b9ddc1a7848119b006898bc413d791a249a0b": {
+    "url": "BellumActaNews/176292",
+    "title": "IRGC Launches Anti-Ship Missiles in Strait of Hormuz",
+    "published": "2026-08-09T22:38:49.201270+00:00"
+  },
+  "3b6317cab7940decbcb1e374745daafc7248fcd30cb4171b9d0da296ee9a8a00": {
+    "url": "DDGeopolitics/190958",
+    "title": "Vessel Ablaze Off Oman Coast Amid Reports of IRGC Strike",
+    "published": "2026-08-09T22:38:14.734381+00:00"
+  },
+  "c61871eadea58476d3014f2d43e2e5ec4eeb50c2d9b1fc84a0336df0456cfe68": {
+    "url": "QudsNen/234728",
+    "title": "Gaza City Under Fire: Israeli Drone Strike Injures Palestinian",
+    "published": "2026-08-09T22:37:40.957202+00:00"
+  },
+  "1a09e6f8f9b2b652059c45e260badea5d7a6835d1d47530886c0038369365368": {
+    "url": "QudsNen/234730",
+    "title": "Gaza City: Israeli Tanks Fire on Palestinian Homes",
+    "published": "2026-08-09T22:37:25.228303+00:00"
+  },
+  "7adbc568224ca821be58b2dc1104d6e552433b1ad6bd2f3dd73e64c107fd7068": {
+    "url": "Middle_East_Spectator/35802",
+    "title": "Iran Supreme National Security Council Secretary Denies Replacement Reports",
+    "published": "2026-08-09T22:36:44.133812+00:00"
+  },
+  "a6c7f5b6da611f84397cb939185c859e0cc7ee49f9fd63cc193ca01b68cbf881": {
+    "url": "Middle_East_Spectator/35806",
+    "title": "Trump Eyes End to Iran War if Strait of Hormuz Reopens",
+    "published": "2026-08-09T22:36:42.803190+00:00"
+  },
+  "0383c3abb302575bf5de2f2e2775841640415a11157640f2e203e81dbda79a73": {
+    "url": "https://tass.com/politics/2170747",
+    "title": "Two killed, seven wounded in Ukraine\u2019s drone attacks on DPR during day",
+    "published": "2026-08-09T20:50:00+00:00"
+  },
   "d0f685344f6d3a281ccc6ffc2f7e40e740a53e2ab3e010ba4a0c4fbf4f574487": {
     "url": "mod_russia_en/28773",
     "title": "Russian Forces Intercept Ukrainian Troop Rotation in Krasny Liman",
@@ -19,6 +54,11 @@
     "title": "Russian Forces Strike Odessa Power Infrastructure",
     "published": "2026-08-09T20:41:27.462952+00:00"
   },
+  "b7396efb05fa8bd41c4d8fddcd5c01555d86b5fdedca7d83834c4d0a96e316be": {
+    "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+    "title": "Germany warns of \u2018daily hybrid warfare\u2019 after explosive-laden drone found",
+    "published": "2026-08-09T20:40:25+00:00"
+  },
   "f2111b74a45ca3f37d52d74d176a1322061007948c2a613d712caf7534d23440": {
     "url": "Middle_East_Spectator/35807",
     "title": "Iran's Supreme Leader Appoints New Representative to Supreme National Security Council",
@@ -33,6 +73,11 @@
     "url": "https://tass.com/world/2170743",
     "title": "Vucic describes Europe\u2019s actions against Russia as 'hybrid war'",
     "published": "2026-08-09T20:11:16+00:00"
+  },
+  "a9abef944fc7b57e181e16f684fb93039117b8e702ff0ba4f2264b7de0712745": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+    "title": "Palestinians say Netanyahu\u2019s decision leaves \u2018no clear path\u2019 to peace",
+    "published": "2026-08-09T20:02:57+00:00"
   },
   "05204c4f65611097d12a9a84593e8c177840491773e79632ca67af733445f9e5": {
     "url": "https://english.almanar.com.lb/article/114167/",
@@ -429,6 +474,11 @@
     "title": "Gaza Amputee Footballers Face Equipment Shortage",
     "published": "2026-08-09T03:47:59.491641+00:00"
   },
+  "34641bb5ca2e73f2d2a8b5f0bab4994e55902f83c954daebecdbd40f61052aaa": {
+    "url": "https://tass.com/world/2170597",
+    "title": "Bulgarian foreign ministry summons Ukrainian ambassador over drone incident \u2014 agency",
+    "published": "2026-08-09T02:01:00+00:00"
+  },
   "473f17c4215979d7dd6d0e88480115fd3f1eed466e5f06587753556ff9a54d76": {
     "url": "presstv/202068",
     "title": "Israeli Forces Defy Ceasefire in Southern Lebanon",
@@ -698,55 +748,5 @@
     "url": "QudsNen/234568",
     "title": "Israeli Soldier Confiscates Palestinian Home in West Bank Village Amid Ongoing Tensions",
     "published": "2026-08-08T14:40:14.498708+00:00"
-  },
-  "5c4bc9fdee68b972b9c130c2ac960a8415a041b3158dad83b26c9fecbd7071be": {
-    "url": "thecradlemedia/65848",
-    "title": "Israeli Forces Launch Airstrikes in Southern Lebanon",
-    "published": "2026-08-08T14:37:12.881993+00:00"
-  },
-  "660fa7d26335d7a9ee133de983d40acc3e4f6ff3afcd2055758d118dd1a57d19": {
-    "url": "thecradlemedia/65852",
-    "title": "US Bill Ties Lebanon Aid to Hezbollah Disarmament",
-    "published": "2026-08-08T14:37:10.781795+00:00"
-  },
-  "5bb76b650afc42bc34f60dd4fa276abd6a5e69f9b80f64bb21f10f7bbca9fa65": {
-    "url": "https://tass.com/emergencies/2170507",
-    "title": "Explosions reported in eastern Ukrainian city of Kharkov",
-    "published": "2026-08-08T14:10:34+00:00"
-  },
-  "140bef5377b19541d3aed60f89ea2f7ef5786cf105d802068675e6d4b8722437": {
-    "url": "https://www.tehrantimes.com/news/528949/Thievy-Bifouma-to-remain-in-Persepolis",
-    "title": "Thievy Bifouma to remain in Persepolis",
-    "published": "2026-08-08T13:48:29+00:00"
-  },
-  "a80fbe4349c6658b2792257ebba4f745d2b777acd1835d165e998b2bd77cdde2": {
-    "url": "https://tass.com/world/2170503",
-    "title": "Zelensky claims Kiev reaches agreement with US on monthly interceptor missile supplies",
-    "published": "2026-08-08T13:39:33+00:00"
-  },
-  "7d415961afc534c15cff25086ad80465d6956514b632854b153c63fe2bdcb67d": {
-    "url": "https://www.rt.com/news/644015-japan-powerful-typhoon-dolphin-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Typhoon Dolphin slams Japan, injuring six and knocking out power",
-    "published": "2026-08-08T13:35:08+00:00"
-  },
-  "eb313dd02030c1b9590262df3515fcbc3192fd7f25a2151b9d24c6d5c2227bd5": {
-    "url": "https://en.mehrnews.com/news/246833/Agreement-with-Oman-does-not-mean-reopening-Hormuz-Strait",
-    "title": "Agreement with Oman does not mean reopening Hormuz Strait",
-    "published": "2026-08-08T13:00:48+00:00"
-  },
-  "f990a9d3f6005e631cf73131b97f44d74d8151b7b28384c63224d81bb44dabc2": {
-    "url": "QudsNen/234567",
-    "title": "Israeli Artillery Strike Hits Al-Mansouri, Southern Lebanon",
-    "published": "2026-08-08T12:59:25.946511+00:00"
-  },
-  "f6d4b48cb7c48c7841a1231b97bd9130408d060cfc8ec24ed979254a07490f55": {
-    "url": "thecradlemedia/65829",
-    "title": "Israel Revokes Entry Permits for US Citizens Over Palestine Solidarity Work",
-    "published": "2026-08-08T12:58:45.505646+00:00"
-  },
-  "c6f2fcc092b5dd842713344deaf09bf3d601d8c6378371d95cd8909a241c4ef0": {
-    "url": "thecradlemedia/65830",
-    "title": "Iran's Velayati Demands Foreign Forces Leave Region Amid Escalations",
-    "published": "2026-08-08T12:58:43.245251+00:00"
   }
 }
