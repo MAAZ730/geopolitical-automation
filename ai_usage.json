@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5707,
+  "total_calls": 5711,
   "tiers": {
-    "groq": 5688,
+    "groq": 5692,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T07:20:48.943297+00:00",
-      "tier": "groq",
-      "article": "NATO directly involved in strikes on Russian territory, hackers say citing files"
-    },
-    {
-      "timestamp": "2026-08-07T07:21:22.764940+00:00",
-      "tier": "groq",
-      "article": "Hackers obtain files on Ukrainian strikes against oil storage terminals in Russia"
-    },
-    {
-      "timestamp": "2026-08-07T07:22:15.951577+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike Ukrainian army\u2019s infrastructure sites, logistics centers in past day"
-    },
-    {
-      "timestamp": "2026-08-07T07:22:33.725454+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Army Force fully prepared to confront enemies: spox"
-    },
     {
       "timestamp": "2026-08-07T09:02:47.062956+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T07:02:37.409848+00:00",
       "tier": "groq",
       "article": "Ghalibaf praises journalists as defenders of natl. identity"
+    },
+    {
+      "timestamp": "2026-08-09T08:46:45.527606+00:00",
+      "tier": "groq",
+      "article": "Three killed, 25 injured in overnight Ukrainian drone attack on Belgorod"
+    },
+    {
+      "timestamp": "2026-08-09T08:47:19.513695+00:00",
+      "tier": "groq",
+      "article": "Iraqi Resistance group promises revenge for US-Saudi strikes"
+    },
+    {
+      "timestamp": "2026-08-09T08:47:38.010942+00:00",
+      "tier": "groq",
+      "article": "Yemeni Armed Forces Spokesman Brig. Gen. Yahya Saree announces drone strike targeting Aramco refinery in Saudi Arabia\u2019s Jazan - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-09T08:47:54.371864+00:00",
+      "tier": "groq",
+      "article": "Foreign forces must leave region: Senior adviser to Leader"
     }
   ]
 }
