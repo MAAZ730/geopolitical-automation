@@ -1,4 +1,44 @@
 {
+  "f7d0ac0171c7cd5fac31c26d37547f1a943cec2626923d6054e5180492745c07": {
+    "url": "OSINT_defender/316",
+    "title": "Pentagon Ceremony Honors Border Defense Medal Recipients",
+    "published": "2026-08-09T05:15:07.069945+00:00"
+  },
+  "473e9643001c9ebc4c17d7b5547b751a06774742851c46cc46eafb566e664d88": {
+    "url": "CyberspecNews/113920",
+    "title": "Ukraine Conflict Death Toll Nears 800,000",
+    "published": "2026-08-09T05:13:28.792574+00:00"
+  },
+  "47b80db0149a70f99976434649900a464bc3cbf20f969a87d7b2fb09adc09089": {
+    "url": "Slavyangrad/172623",
+    "title": "Belgorod Drone Attack Leaves Dozens Injured, Multiple Buildings Damaged",
+    "published": "2026-08-09T05:11:19.281144+00:00"
+  },
+  "1786c3cc4b651123e1118817cf5a3f01f0481184eb9cc9d448c9bcba0328e470": {
+    "url": "Slavyangrad/172629",
+    "title": "Russian Forces Strike Odessa Port and Substation",
+    "published": "2026-08-09T05:10:20.323569+00:00"
+  },
+  "8795b26d7362f53b844cc3b76cf8849cce47d5fb303971fd98556e0897b8066d": {
+    "url": "BellumActaNews/176284",
+    "title": "Saudi Arabia Industrial Fire: Jubail City Explosion Rocks Gas Facilities",
+    "published": "2026-08-09T05:10:07.392140+00:00"
+  },
+  "e78fb084b62cee0673204eb8e422d896c8a1acd94695a8798afe2fc87cb32ebb": {
+    "url": "BellumActaNews/176286",
+    "title": "Iraq Seizes Iranian Drones in Counter-Terrorism Operation",
+    "published": "2026-08-09T05:10:06.679566+00:00"
+  },
+  "416f75f2d6c8fe97bc6348a67456e15a60f49d52687b85c8ad20e1241a421227": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+    "title": "Iran seeks way out of \u2018neither war nor peace\u2019 stalemate with US",
+    "published": "2026-08-09T04:12:39+00:00"
+  },
+  "ef2213cf811f62a8a0ae07dfc29eb8948dc768028f59377bdb051cb8adc4b062": {
+    "url": "https://www.rt.com/news/644023-iran-makeshormuz-demands/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Iran sets six conditions for reopening Strait of Hormuz",
+    "published": "2026-08-09T03:58:27+00:00"
+  },
   "ab7cf76d3f1e90c5335e97b966f014964100d183a30ab2fe1369ef6c7990e342": {
     "url": "CyberspecNews/113921",
     "title": "Colombia's New President Signals Shift in Armed Group Policy Amid Protests",
@@ -429,6 +469,11 @@
     "title": "Russia strikes dry cargo ship east of Odessa transporting weapons for Ukrainian military",
     "published": "2026-08-08T08:33:35+00:00"
   },
+  "505fd3d62cb2a0f9d7984f179021b29f2a3e13e0dad1fd22f6c64b16a7a8e8f1": {
+    "url": "https://en.mehrnews.com/news/246822/Why-is-it-high-time-for-US-to-withdraw-from-West-Asia",
+    "title": "Why is it high time for US to withdraw from West Asia region?",
+    "published": "2026-08-08T08:08:00+00:00"
+  },
   "ade559e97dfa350bc3a4094d4f51bb694834daad705f988915ef5ad95699ea94": {
     "url": "Slavyangrad/172533",
     "title": "Russian Forces Disrupt Ukrainian Logistics with Railway Strike",
@@ -458,6 +503,11 @@
     "url": "QudsNen/234524",
     "title": "Gaza Mother's Desperate Bid to Cope with Scorching Heat Amid Ongoing Conflict",
     "published": "2026-08-08T07:00:20.180726+00:00"
+  },
+  "895933b4d5d045e63e329edea9f92e3e162ba78d1d30f72825554091061364d9": {
+    "url": "https://tass.com/world/2170451",
+    "title": "Spanish specialist behind disclosure of 400 spies linked to NATO, Ukrainian intelligence",
+    "published": "2026-08-08T06:52:53+00:00"
   },
   "d54e6973111326164d21e41662171ba07ffe6003db8428c482b5491e3eaa2e3b": {
     "url": "https://en.mehrnews.com/news/246821/Oil-prices-climb-as-uncertainty-over-Strait-of-Hormuz",
@@ -698,55 +748,5 @@
     "url": "presstv/201953",
     "title": "Israeli Artillery Strikes Ignite Fire in Southern Lebanon",
     "published": "2026-08-07T19:09:02.675096+00:00"
-  },
-  "f7c20a0d976c789d621e6ac548eb9cbcced3f9a6315eee7b98040d46ba6ef825": {
-    "url": "militarywave/24690",
-    "title": "Russian Fighters Repel Ukrainian Drone Attacks with Calculated Precision",
-    "published": "2026-08-07T19:07:43.032460+00:00"
-  },
-  "523c72c2d0b38bf3f5e26733f9ce0a1c7a04b6d6ec0f6855c27b05d7bacc2e6e": {
-    "url": "militarywave/24692",
-    "title": "Dachshund's Anxiety Eased by Giant Mannequin",
-    "published": "2026-08-07T19:05:56.001965+00:00"
-  },
-  "7ad85230b4b335cd468e3031cde210ae805daea5548f8b594987e4ce6b1475f6": {
-    "url": "QudsNen/234487",
-    "title": "Israeli Artillery Shelling Sparks Fire in Al-Mansouri, Lebanon",
-    "published": "2026-08-07T19:05:16.676957+00:00"
-  },
-  "d11bff1eb4041bd5b3b0adcb60d8d7f1c6e6fd018df5ce1eb6624e34f389c4d6": {
-    "url": "Middle_East_Spectator/35784",
-    "title": "Iraqi Islamic Resistance Postpones Retaliation Against Saudi Arabia",
-    "published": "2026-08-07T19:03:55.817560+00:00"
-  },
-  "83d6b8ca82d4778cdab366d9f2816d7ada359f738b0dda4ebf5804d66a3466b7": {
-    "url": "thecradlemedia/65784",
-    "title": "Yemen Strikes Saudi-Backed Mercenaries for Second Straight Day",
-    "published": "2026-08-07T19:03:54.222162+00:00"
-  },
-  "f04e26b17551ca72480f7a647e2e794c19e6760de6a1665de8068e1a3e736715": {
-    "url": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-    "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-    "published": "2026-08-07T18:54:55+00:00"
-  },
-  "214aee22d394a25eb05affdc1a06427e2b4d94c7f7e3116e72651aa5992bd3ab": {
-    "url": "https://english.almanar.com.lb/article/113457/",
-    "title": "Yemeni Armed Forces Announce New Strikes on Pro-Saudi Military Camp, Affirm Siege-for-Siege and Escalation-for-Escalation Formulas - Al-Manar TV Lebanon",
-    "published": "2026-08-07T18:46:02+00:00"
-  },
-  "67a4f48ad380e6a13fd2d4683a20a0528514571594c5aa13f4551fd7d2302b38": {
-    "url": "https://tass.com/world/2170355",
-    "title": "Houthis say attacked military base of pro-Saudi forces in Yemen",
-    "published": "2026-08-07T18:42:54+00:00"
-  },
-  "4df0301a36ed088d32ef08e1eb47e8492bf6f5ef0dd2204489cdef8fa1639b46": {
-    "url": "https://www.defensenews.com/global/europe/2026/08/07/how-north-korean-forces-are-bolstering-russias-war-against-ukraine/",
-    "title": "How North Korean forces are bolstering Russia\u2019s war against Ukraine",
-    "published": "2026-08-07T18:29:25+00:00"
-  },
-  "bd18b38c45fdca4ad42983c524b27dd0663011bceb4f96affdc4562dd0755924": {
-    "url": "https://en.mehrnews.com/news/246815/Iraqi-Resistance-delays-planned-retaliatory-strikes",
-    "title": "Iraqi Resistance 'delays' planned retaliatory strikes",
-    "published": "2026-08-07T18:06:02+00:00"
   }
 }

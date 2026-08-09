@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5699,
+  "total_calls": 5703,
   "tiers": {
-    "groq": 5680,
+    "groq": 5684,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T00:05:00.648256+00:00",
-      "tier": "groq",
-      "article": "Houthis launch deadly attacks on Saudi-led coalition forces in Yemen"
-    },
-    {
-      "timestamp": "2026-08-07T00:05:39.146401+00:00",
-      "tier": "groq",
-      "article": "Iran issues warning to Gulf states: US must desist or you\u2019ll be hit hard"
-    },
-    {
-      "timestamp": "2026-08-07T00:06:32.503342+00:00",
-      "tier": "groq",
-      "article": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime"
-    },
-    {
-      "timestamp": "2026-08-07T00:07:26.017723+00:00",
-      "tier": "groq",
-      "article": "Iran says deal with Oman on Strait of Hormuz is 'in final stages'"
-    },
     {
       "timestamp": "2026-08-07T04:28:35.627442+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T03:47:51.357483+00:00",
       "tier": "groq",
       "article": "Thievy Bifouma to remain in Persepolis"
+    },
+    {
+      "timestamp": "2026-08-09T05:08:43.926587+00:00",
+      "tier": "groq",
+      "article": "Iran sets six conditions for reopening Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-08-09T05:09:22.697957+00:00",
+      "tier": "groq",
+      "article": "Spanish specialist behind disclosure of 400 spies linked to NATO, Ukrainian intelligence"
+    },
+    {
+      "timestamp": "2026-08-09T05:09:41.198046+00:00",
+      "tier": "groq",
+      "article": "Iran seeks way out of \u2018neither war nor peace\u2019 stalemate with US"
+    },
+    {
+      "timestamp": "2026-08-09T05:09:57.128038+00:00",
+      "tier": "groq",
+      "article": "Why is it high time for US to withdraw from West Asia region?"
     }
   ]
 }
