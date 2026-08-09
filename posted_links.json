@@ -1,4 +1,39 @@
 {
+  "473f17c4215979d7dd6d0e88480115fd3f1eed466e5f06587753556ff9a54d76": {
+    "url": "presstv/202068",
+    "title": "Israeli Forces Defy Ceasefire in Southern Lebanon",
+    "published": "2026-08-09T02:00:50.234417+00:00"
+  },
+  "fa1c7d00b1461f4ca3b53345446858dbcd8d8235e2f7b2ad9252cae838e44632": {
+    "url": "warmonitors/45235",
+    "title": "IDF Artillery Strikes Hit Southern Lebanon",
+    "published": "2026-08-09T02:00:30.903199+00:00"
+  },
+  "45d57e924082909d65f733baa80e3ae00bc253c6813854e2efed535312c757c7": {
+    "url": "QudsNen/234623",
+    "title": "Israeli Artillery Strikes Hit Northern Gaza",
+    "published": "2026-08-09T02:00:12.822327+00:00"
+  },
+  "1985c13486fcb892bd3a2b843fa45a8f1bd4cae64fa7d9342b591063c1fccbb0": {
+    "url": "QudsNen/234626",
+    "title": "Israeli Soldier Removes Palestinian Flag in Qusra Raid",
+    "published": "2026-08-09T02:00:11.156013+00:00"
+  },
+  "2c5e63dd932e9fe9cc89303b147efe1c59b0e62bdac1527c67abbf2b16b6bbc1": {
+    "url": "QudsNen/234631",
+    "title": "Israeli Artillery Strikes East of Gaza City's Al-Tuffah Neighbourhood",
+    "published": "2026-08-09T01:59:40.501061+00:00"
+  },
+  "58e2c810a64d0540c3daed683c166fa67798b0607730f57166fdd620581a7264": {
+    "url": "QudsNen/234632",
+    "title": "Israeli Forces Open Fire in Gaza's Al-Tuffah Neighborhood",
+    "published": "2026-08-09T01:59:39.021890+00:00"
+  },
+  "bc1ea71050ed3ee1a2bbe33dffea126756fac41460a7c3379a0d506e9e156da9": {
+    "url": "https://tass.com/world/2170587",
+    "title": "Ukraine needs at least 12 months to start making Patriots \u2014 Zelensky",
+    "published": "2026-08-09T00:22:00+00:00"
+  },
   "976bbe1ed8558e96f8bc37c3febc9b2689168f4e7c35b8354b8b5afe91e5733b": {
     "url": "presstv/202069",
     "title": "Russian Troops Counter Ukrainian Drone Incursion",
@@ -113,6 +148,16 @@
     "url": "https://www.tehrantimes.com/news/528950/Trump-s-top-general-seeks-off-ramp-as-Iran-war-exposes-limits",
     "title": "Trump\u2019s top general seeks \u2018off-ramp\u2019 as Iran war exposes limits of US military power",
     "published": "2026-08-08T18:07:57+00:00"
+  },
+  "2e54947f3ca1ae7ad1d7a72ca8e8072cec7c4e1b7f92e6925248c0cfb5f644c8": {
+    "url": "https://www.tehrantimes.com/news/528963/Iran-judiciary-warns-enemy-crimes-will-be-punished",
+    "title": "Iran judiciary warns enemy crimes will be punished",
+    "published": "2026-08-08T18:03:53+00:00"
+  },
+  "28f45ebd99821551582fe7ecad5387b7a04adff5a492a3464f542ec5b11871b4": {
+    "url": "https://www.tehrantimes.com/news/528952/Deputy-health-minister-Evidence-points-to-phosphorus-bombing",
+    "title": "Deputy health minister: Evidence points to phosphorus bombing in Lamerd",
+    "published": "2026-08-08T17:51:56+00:00"
   },
   "8424064eede719f294897bf38f7965d61918243ce9ad8319bd30286b35c9824d": {
     "url": "https://www.tehrantimes.com/news/528959/We-will-stand-firm-behind-Leader-s-decision-on-war",
@@ -419,6 +464,11 @@
     "title": "Israeli Tanks Open Fire in Deir al-Balah",
     "published": "2026-08-08T05:01:39.829072+00:00"
   },
+  "2f0faab273d6c2399e5b0bbb33cbf4a6cc57731c500c91533ba8c76e5e2b3cb9": {
+    "url": "https://tass.com/emergencies/2170435",
+    "title": "Two wounded by drone fragments in Central Russia\u2019s Lipetsk Region",
+    "published": "2026-08-08T04:45:30+00:00"
+  },
   "eb0768f69bbb39d5b3fa2873250250e65f5a95aa3599d1cab671035a2031abab": {
     "url": "Slavyangrad/172518",
     "title": "Southern Forces Destroy Ukrainian T-72 Tank",
@@ -698,55 +748,5 @@
     "url": "https://www.tehrantimes.com/news/528912/Iranian-attacks-leave-hundreds-of-US-service-members-with-enduring",
     "title": "Iranian attacks leave hundreds of US service members with enduring brain trauma",
     "published": "2026-08-07T16:53:48+00:00"
-  },
-  "a15c4f3d8725e21595aa25115a0b3a08e368798abdade03a1b7249c3f95b9438": {
-    "url": "https://tass.com/politics/2170325",
-    "title": "Russia calls incident with drone at Leipzig airport hastily concocted provocation",
-    "published": "2026-08-07T16:53:20+00:00"
-  },
-  "bec4bf930f697b8da3664b1dd72a385faf5b2941a866d29586c53e9248737db2": {
-    "url": "https://tass.com/world/2170313",
-    "title": "Musk denies Kiev assistance in targeting strikes against Russia \u2014 magazine",
-    "published": "2026-08-07T16:35:26+00:00"
-  },
-  "cecd181f23ab44fe2f64784025bae1a82c6a3a62dd45add41afdfa3029e5c030": {
-    "url": "https://tass.com/emergencies/2170309",
-    "title": "Turkish dry cargo ship attacked by drone near Novorossiysk \u2014 media",
-    "published": "2026-08-07T15:56:24+00:00"
-  },
-  "ecdbf915915c712b5f91afe34cbca6e89682204272c38cdbe84dc5475a25349a": {
-    "url": "https://en.mehrnews.com/news/246813/Mossad-dismisses-top-officials-after-failure-against-Iran",
-    "title": "Mossad dismisses top officials after failure against Iran",
-    "published": "2026-08-07T15:34:16+00:00"
-  },
-  "ea4ed8bc5fbc7f3bb54047a02cc32ceb600c2ddf344fcf9c499f21b1bf046c7b": {
-    "url": "https://en.mehrnews.com/news/246812/Yemeni-attacks-leave-dozens-of-Saudi-backed-mercenaries-dead",
-    "title": "Yemeni attacks leave dozens of Saudi-backed mercenaries dead",
-    "published": "2026-08-07T15:30:28+00:00"
-  },
-  "eae53f7713b5dd4cc7b9941d2722d2937d9beb938f86a1ac11acf7a83d6354bc": {
-    "url": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
-    "title": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
-    "published": "2026-08-07T15:10:22+00:00"
-  },
-  "94ff0b55d15cb45518cc8048156f8f290a3720709e252e034da1dcc8e3fac666": {
-    "url": "DDGeopolitics/190828",
-    "title": "Iran Displays Remains of Downed US, Israeli Drones",
-    "published": "2026-08-07T15:01:25.027277+00:00"
-  },
-  "414a59be7884f94c3909d231583514f9c115c271e98977aff1018be3f80f19cb": {
-    "url": "DDGeopolitics/190833",
-    "title": "US Redirects European-Bought Patriot Missiles to Refill Domestic Stockpiles",
-    "published": "2026-08-07T15:00:30.518139+00:00"
-  },
-  "0fa1557daa50475b8d1592cdf0bece4eab8fb6234424ea04c70c177765369ae5": {
-    "url": "https://tass.com/world/2170281",
-    "title": "Zelensky\u2019s visit to Serbia works against Belgrade, harms relations with Russia",
-    "published": "2026-08-07T14:59:08+00:00"
-  },
-  "c452fe6d2a4b2b6d911cc93d15a074a5fff21a42f8e9846f8a283d51ab12d1ce": {
-    "url": "QudsNen/234441",
-    "title": "Israeli Forces Launch Incendiary Bombing Campaign in Southern Lebanon's Al-Mansouri",
-    "published": "2026-08-07T14:58:52.803422+00:00"
   }
 }

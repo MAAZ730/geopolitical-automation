@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5691,
+  "total_calls": 5695,
   "tiers": {
-    "groq": 5672,
+    "groq": 5676,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-06T10:46:57.181769+00:00",
-      "tier": "groq",
-      "article": "Southern Lebanon: Civilians Wounded, Displaced as Israeli Strikes Pound Tyre Towns - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-06T10:47:32.147643+00:00",
-      "tier": "groq",
-      "article": "Lebanese Health Ministry says Israeli strikes on southern town of Burj Al-Shamali injured 8 citizens - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-06T10:48:22.982351+00:00",
-      "tier": "groq",
-      "article": "Russian strikes kill six in Ukraine as Moscow intercepts hundreds of drones"
-    },
-    {
-      "timestamp": "2026-08-06T10:49:09.106727+00:00",
-      "tier": "groq",
-      "article": "VIDEO: China launches Smart Dragon-3 carrier rocket from sea"
-    },
     {
       "timestamp": "2026-08-06T14:18:29.839536+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-08T22:34:47.832115+00:00",
       "tier": "groq",
       "article": "Iranian Intelligence Ministry hails journalists for thwarting enemy's war of narratives"
+    },
+    {
+      "timestamp": "2026-08-09T01:56:06.756287+00:00",
+      "tier": "groq",
+      "article": "Ukraine needs at least 12 months to start making Patriots \u2014 Zelensky"
+    },
+    {
+      "timestamp": "2026-08-09T01:56:25.907375+00:00",
+      "tier": "groq",
+      "article": "Two wounded by drone fragments in Central Russia\u2019s Lipetsk Region"
+    },
+    {
+      "timestamp": "2026-08-09T01:56:50.940611+00:00",
+      "tier": "groq",
+      "article": "Iran judiciary warns enemy crimes will be punished"
+    },
+    {
+      "timestamp": "2026-08-09T01:57:09.488736+00:00",
+      "tier": "groq",
+      "article": "Deputy health minister: Evidence points to phosphorus bombing in Lamerd"
     }
   ]
 }
