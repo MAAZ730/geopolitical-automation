@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5727,
+  "total_calls": 5731,
   "tiers": {
-    "groq": 5708,
+    "groq": 5712,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-07T16:56:59.374638+00:00",
-      "tier": "groq",
-      "article": "Iranian attacks leave hundreds of US service members with enduring brain trauma"
-    },
-    {
-      "timestamp": "2026-08-07T16:57:40.709135+00:00",
-      "tier": "groq",
-      "article": "Two civilians killed in Houthi strike on Marib, says Yemen\u2019s government"
-    },
-    {
-      "timestamp": "2026-08-07T16:58:31.459604+00:00",
-      "tier": "groq",
-      "article": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos"
-    },
-    {
-      "timestamp": "2026-08-07T16:58:47.763611+00:00",
-      "tier": "groq",
-      "article": "Iran says Hormuz deal \u2018nearing completion\u2019"
-    },
     {
       "timestamp": "2026-08-07T19:01:30.604062+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-09T16:40:46.775789+00:00",
       "tier": "groq",
       "article": "War on Iran: Phase II: Day 29"
+    },
+    {
+      "timestamp": "2026-08-09T18:45:35.253486+00:00",
+      "tier": "groq",
+      "article": "Araghchi: Iran will neither forgive nor forget assassination of Leader"
+    },
+    {
+      "timestamp": "2026-08-09T18:46:15.122491+00:00",
+      "tier": "groq",
+      "article": "Strait of Hormuz may remain closed to shipping for up to one year \u2014 Iraqi expert"
+    },
+    {
+      "timestamp": "2026-08-09T18:46:33.960999+00:00",
+      "tier": "groq",
+      "article": "Israel rejects Gaza peace plan as Netanyahu, facing elections, digs in for continued war"
+    },
+    {
+      "timestamp": "2026-08-09T18:47:18.500769+00:00",
+      "tier": "groq",
+      "article": "IRGC: US has accepted defeat in Iran war as Hormuz becomes \u2018Geography of Battle\u2019"
     }
   ]
 }
