@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5767,
+  "total_calls": 5771,
   "tiers": {
-    "groq": 5748,
+    "groq": 5752,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T12:55:12.334231+00:00",
-      "tier": "groq",
-      "article": "Houthis say attacked military base of pro-Saudi forces in Yemen"
-    },
-    {
-      "timestamp": "2026-08-08T12:55:51.494471+00:00",
-      "tier": "groq",
-      "article": "Moscow Reports Overnight Strikes on Kiev Missile Plant and Fuel Depot as Drones Target Weapons Cargo Ships - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-08T12:56:37.672993+00:00",
-      "tier": "groq",
-      "article": "Three people injured in UAV attack by Ukraine on truck in Belgorod region"
-    },
-    {
-      "timestamp": "2026-08-08T12:56:56.468421+00:00",
-      "tier": "groq",
-      "article": "Zelensky\u2019s visit to Serbia works against Belgrade, harms relations with Russia"
-    },
     {
       "timestamp": "2026-08-08T14:34:54.817847+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T15:02:44.868527+00:00",
       "tier": "groq",
       "article": "Ukraine currently too corrupt to join the EU \u2013 FT"
+    },
+    {
+      "timestamp": "2026-08-10T16:56:36.678183+00:00",
+      "tier": "groq",
+      "article": "Deadly Yemeni attack kills Saudi-backed mercenaries in Shabwa"
+    },
+    {
+      "timestamp": "2026-08-10T16:57:10.072001+00:00",
+      "tier": "groq",
+      "article": "Russian strikes paralyze Ukraine\u2019s southern power grid \u2014 official"
+    },
+    {
+      "timestamp": "2026-08-10T16:58:03.332084+00:00",
+      "tier": "groq",
+      "article": "Russian troops strike Ukrainian army\u2019s energy, transport infrastructure over past day"
+    },
+    {
+      "timestamp": "2026-08-10T16:58:54.491209+00:00",
+      "tier": "groq",
+      "article": "Mobarak Puppet Theater Festival opens with works dedicated to Gaza journalists, Minab children"
     }
   ]
 }
