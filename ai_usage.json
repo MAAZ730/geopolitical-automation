@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5747,
+  "total_calls": 5751,
   "tiers": {
-    "groq": 5728,
+    "groq": 5732,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T03:35:47.910339+00:00",
-      "tier": "groq",
-      "article": "Chair of US Joint Chiefs of Staff in search for \u2018off-ramp\u2019 from Iran war \u2014 TV"
-    },
-    {
-      "timestamp": "2026-08-08T03:36:25.337239+00:00",
-      "tier": "groq",
-      "article": "Spain gives Italy deadline to end border checks over migrant surge"
-    },
-    {
-      "timestamp": "2026-08-08T03:36:43.433510+00:00",
-      "tier": "groq",
-      "article": "Su-30SM2 fighters destroy mock enemy with missiles during exercise near Kaliningrad"
-    },
-    {
-      "timestamp": "2026-08-08T03:37:19.620982+00:00",
-      "tier": "groq",
-      "article": "Israeli troops enter southern Syria, open fire on populated areas \u2014 TV"
-    },
     {
       "timestamp": "2026-08-08T04:59:59.180380+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T04:07:09.583417+00:00",
       "tier": "groq",
       "article": "Over 350 media staff martyred in three imposed wars on Iran"
+    },
+    {
+      "timestamp": "2026-08-10T07:46:34.547053+00:00",
+      "tier": "groq",
+      "article": "Watch Yemeni Strike on Saudi-backed Forces in Mokha - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-10T07:47:12.720651+00:00",
+      "tier": "groq",
+      "article": "US president says he is using economic pressure, not strikes, on Iran"
+    },
+    {
+      "timestamp": "2026-08-10T07:48:00.202283+00:00",
+      "tier": "groq",
+      "article": "Takaichi lacks courage to say who dropped atomic bomb on Japan \u2014 MFA"
+    },
+    {
+      "timestamp": "2026-08-10T07:48:18.621420+00:00",
+      "tier": "groq",
+      "article": "Why Military Cooperation in the Indian Ocean Still Falls Short"
     }
   ]
 }
