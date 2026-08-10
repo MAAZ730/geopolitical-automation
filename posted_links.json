@@ -1,4 +1,39 @@
 {
+  "495c25f38856733e6cf5f5222c814cd074b2c423cd4e11b0217deaa611720e34": {
+    "url": "CyberspecNews/113998",
+    "title": "Iran Shoots Down US Reconnaissance Drone",
+    "published": "2026-08-10T04:10:05.152987+00:00"
+  },
+  "f4f23c09a32972cbb34844e247f8d930d2e38a7d869feecd8d10aee0b8a1259b": {
+    "url": "intelslava/92359",
+    "title": "Iran Retrieves Remains of Downed Unidentified Drone",
+    "published": "2026-08-10T04:09:32.360365+00:00"
+  },
+  "c002f8b1b1c07887f2f029257dd3dede5d40497d68fb75db840da2af53657c47": {
+    "url": "BellumActaNews/176300",
+    "title": "Saudi Drone Downed by Iranian Air Defenses in Hormozgan Province",
+    "published": "2026-08-10T04:09:02.932170+00:00"
+  },
+  "13b672ce766643690ee1d1b6055df6ad4e50ed1fe81eb8d6e6d676be7776136c": {
+    "url": "DDGeopolitics/190948",
+    "title": "US Faces Critical Shortage of High-Purity Aluminum for Defense Manufacturing",
+    "published": "2026-08-10T04:08:36.224355+00:00"
+  },
+  "377382da61d38dab1f18df93406d36205c44bc72f9572872eb4c7b17f258736c": {
+    "url": "DDGeopolitics/190949",
+    "title": "Yemen Conflict Escalates as Country Confronts Israel and US",
+    "published": "2026-08-10T04:08:34.595130+00:00"
+  },
+  "a6ea84cfaa912991e46387157700ff9915273d935e8333a175ebb53b5de8f861": {
+    "url": "Middle_East_Spectator/35813",
+    "title": "Syrian Shia Faction Attacks Israeli Outpost in Daraa Province",
+    "published": "2026-08-10T04:08:27.637228+00:00"
+  },
+  "6599e44fc10b3444ce187e193a17cb7c3fac0bf1ed1866d899ab84781142f293": {
+    "url": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
+    "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
+    "published": "2026-08-10T02:48:51+00:00"
+  },
   "533c977300925893658c3f12ed3b9f63658b80c1ee27871a86f4a321be7666eb": {
     "url": "Slavyangrad/172739",
     "title": "Israeli Forces Deploy Stun Grenade in Palestinian Family Vehicle",
@@ -259,6 +294,11 @@
     "title": "Kim Dotcom warns AI could supercharge US surveillance",
     "published": "2026-08-09T14:19:04+00:00"
   },
+  "d048dc3c93719655eff229090e4c9d5ead6bc37ae7a60db5170fd9242ad45b4e": {
+    "url": "https://tass.com/world/2170699",
+    "title": "Israel insists on implementing 5 principles of ending war in Gaza \u2014 adviser",
+    "published": "2026-08-09T13:37:16+00:00"
+  },
   "06d41b718786da4c38d923c73aa9595dd5946f9b15a7fec676e9caa33de9e056": {
     "url": "boris_rozhin/221534",
     "title": "Ukrainian Forces Secure Villages, Enemy Soldier Killed in Attempt to Evade Detection",
@@ -298,6 +338,11 @@
     "url": "https://www.rt.com/news/644034-ukraines-gamification-killing-macabre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "UK defense chief calls Ukraine\u2019s drone kill-points system \u2018macabre\u2019",
     "published": "2026-08-09T12:36:56+00:00"
+  },
+  "06ecb177ffd28cd7804958acc2abbf6087ef586e53b8022bec4f16bc39e39141": {
+    "url": "https://en.mehrnews.com/news/246854/Over-350-media-staff-martyred-in-three-imposed-wars-on-Iran",
+    "title": "Over 350 media staff martyred in three imposed wars on Iran",
+    "published": "2026-08-09T12:06:23+00:00"
   },
   "8ad0d0dd8d8a305dae3d9db3026bd4d8c9b2ac680e5e485a670720cb73841c4a": {
     "url": "https://tass.com/world/2170685",
@@ -478,6 +523,11 @@
     "url": "BellumActaNews/176286",
     "title": "Iraq Seizes Iranian Drones in Counter-Terrorism Operation",
     "published": "2026-08-09T05:10:06.679566+00:00"
+  },
+  "378a47e610e61bf394776cdd831cfc95189fabf36d8511a9246cc5c78986df70": {
+    "url": "https://tass.com/politics/2170609",
+    "title": "Around 20 drones destroyed in Taganrog, eight districts of Rostov Region",
+    "published": "2026-08-09T04:15:01+00:00"
   },
   "416f75f2d6c8fe97bc6348a67456e15a60f49d52687b85c8ad20e1241a421227": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "https://www.tehrantimes.com/news/528952/Deputy-health-minister-Evidence-points-to-phosphorus-bombing",
     "title": "Deputy health minister: Evidence points to phosphorus bombing in Lamerd",
     "published": "2026-08-08T17:51:56+00:00"
-  },
-  "92257d8c59d836bd171641899ec90476411b48bfa1ef2dd08f228b93d6ee3094": {
-    "url": "https://www.tehrantimes.com/news/528960/Hormuz-reopening-depends-on-US-Iran-says",
-    "title": "Hormuz reopening depends on US, Iran says",
-    "published": "2026-08-08T17:49:37+00:00"
-  },
-  "8424064eede719f294897bf38f7965d61918243ce9ad8319bd30286b35c9824d": {
-    "url": "https://www.tehrantimes.com/news/528959/We-will-stand-firm-behind-Leader-s-decision-on-war",
-    "title": "\u00a0We will stand firm behind Leader\u2019s decision on war",
-    "published": "2026-08-08T17:43:50+00:00"
-  },
-  "9557a7abf99e82a0296ca3eb004cad98725e56662fec206a94f8382d0f6f8469": {
-    "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-    "title": "British Columbia wildfire forces more than 20,000 to flee, destroys homes",
-    "published": "2026-08-08T17:14:09+00:00"
-  },
-  "22c8b35bdfe83f77de37bf57b2debca123f87ed69ad79966b6e64ea3e179b1d6": {
-    "url": "https://www.tehrantimes.com/news/528958/A-beat-written-in-blood-across-Gaza-Lebanon-Yemen-and-Iran",
-    "title": "A beat written in blood across Gaza, Lebanon, Yemen, and Iran",
-    "published": "2026-08-08T17:07:36+00:00"
-  },
-  "3bffe3b3ca6370aa19cd76359b81ad0fa07818baee55e42face9fb592b049848": {
-    "url": "Slavyangrad/172574",
-    "title": "Russian Paratroopers Dislodge Enemy Forces in Zaporozhye Region",
-    "published": "2026-08-08T16:44:21.807643+00:00"
-  },
-  "68474a1ce6b280234b95e803be91fc835e67c2ca379532f5e6ffa45fa0bc72d4": {
-    "url": "Slavyangrad/172575",
-    "title": "Ukrainian Forces Use Civilian Infrastructure for Military Purposes in Zaporizhzhia",
-    "published": "2026-08-08T16:43:27.279021+00:00"
-  },
-  "c3152da5aa6ed7dc20fc4cdd53fc794b43da23f578ca72813016fded15d6daf1": {
-    "url": "militarywave/24677",
-    "title": "Russian Forces Liberate Kursk Region from Ukrainian Occupation",
-    "published": "2026-08-08T16:43:12.108679+00:00"
-  },
-  "92ca900ebf343bec6cf114aa2b8c43434869b07565e41abc034d5107ae61a707": {
-    "url": "BellumActaNews/176267",
-    "title": "US-Iran Tensions: Washington Pursues Diplomatic and Economic Goals",
-    "published": "2026-08-08T16:41:56.303069+00:00"
-  },
-  "77b3f909a508c1fd8619588e9dca0e5dadb94ba01769fda0bfcecf8077ab264f": {
-    "url": "thecradlemedia/65853",
-    "title": "X Flags Post by International Law Scholar Over Israel ICC Criticism",
-    "published": "2026-08-08T16:38:51.463823+00:00"
-  },
-  "b745ce1729a5c676642de4a6e62379a066dacae59a40e72841b612a695828282": {
-    "url": "thecradlemedia/65854",
-    "title": "Black Sea Maritime Disrupted by Drone Attacks",
-    "published": "2026-08-08T16:38:49.532594+00:00"
   }
 }
