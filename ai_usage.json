@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5763,
+  "total_calls": 5767,
   "tiers": {
-    "groq": 5744,
+    "groq": 5748,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T10:37:07.903375+00:00",
-      "tier": "groq",
-      "article": "Israel attacks kill 1,257 in Gaza since last year\u2019s ceasefire"
-    },
-    {
-      "timestamp": "2026-08-08T10:37:46.876521+00:00",
-      "tier": "groq",
-      "article": "Iran, Russia pledge to deepen trade ties, remove banking, transport hurdles"
-    },
-    {
-      "timestamp": "2026-08-08T10:38:05.347186+00:00",
-      "tier": "groq",
-      "article": "CNN: Top US Military Leaders Seek Face-Saving Exit from Iran War - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-08T10:38:44.360666+00:00",
-      "tier": "groq",
-      "article": "Danube low water levels reveal Nazi soldiers\u2019 remains and WWII relics in Budapest"
-    },
     {
       "timestamp": "2026-08-08T12:55:12.334231+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T13:15:59.309930+00:00",
       "tier": "groq",
       "article": "Iran to launch 3 new satellites before year end"
+    },
+    {
+      "timestamp": "2026-08-10T15:01:43.870350+00:00",
+      "tier": "groq",
+      "article": "Russia says world bodies\u2019 silence on Kiev attacks on its cities to be seen as complicity"
+    },
+    {
+      "timestamp": "2026-08-10T15:02:03.037915+00:00",
+      "tier": "groq",
+      "article": "\u2018Long-range sanctions\u2019: Ukraine hopes strikes cause Russia fear and losses"
+    },
+    {
+      "timestamp": "2026-08-10T15:02:19.072787+00:00",
+      "tier": "groq",
+      "article": "Iranian missiles have ability to change trajectory after launch \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-08-10T15:02:44.868527+00:00",
+      "tier": "groq",
+      "article": "Ukraine currently too corrupt to join the EU \u2013 FT"
     }
   ]
 }
