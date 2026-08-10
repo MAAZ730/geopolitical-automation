@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5751,
+  "total_calls": 5755,
   "tiers": {
-    "groq": 5732,
+    "groq": 5736,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T04:59:59.180380+00:00",
-      "tier": "groq",
-      "article": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation"
-    },
-    {
-      "timestamp": "2026-08-08T05:00:15.537912+00:00",
-      "tier": "groq",
-      "article": "Kalashnikov Group begins signing contracts with customers for next year"
-    },
-    {
-      "timestamp": "2026-08-08T05:00:45.135534+00:00",
-      "tier": "groq",
-      "article": "Spain threatens Italy with 'proportional measures' over border controls \u2014 Reuters"
-    },
-    {
-      "timestamp": "2026-08-08T05:01:32.479969+00:00",
-      "tier": "groq",
-      "article": "Russia calls incident with drone at Leipzig airport hastily concocted provocation"
-    },
     {
       "timestamp": "2026-08-08T06:58:31.678958+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T07:48:18.621420+00:00",
       "tier": "groq",
       "article": "Why Military Cooperation in the Indian Ocean Still Falls Short"
+    },
+    {
+      "timestamp": "2026-08-10T09:26:47.604125+00:00",
+      "tier": "groq",
+      "article": "Tatarstan residents killed as result of drone attack on civilian facilities \u2014 region head"
+    },
+    {
+      "timestamp": "2026-08-10T09:27:24.953829+00:00",
+      "tier": "groq",
+      "article": "Finland rules out additional air defense missiles for Ukraine"
+    },
+    {
+      "timestamp": "2026-08-10T09:28:12.816980+00:00",
+      "tier": "groq",
+      "article": "Kalashnikov modifies Vikhr missile to combat UAVs as armored vehicles withdraw \u2014 CEO"
+    },
+    {
+      "timestamp": "2026-08-10T09:28:36.123716+00:00",
+      "tier": "groq",
+      "article": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms \u2014 Netanyahu"
     }
   ]
 }

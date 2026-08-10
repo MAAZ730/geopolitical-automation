@@ -1,4 +1,49 @@
 {
+  "fed1c09e0f46e4843c16cc6cd30d9693480e6a388ad626aa1f6d9dd91e732c26": {
+    "url": "QudsNen/234756",
+    "title": "Israeli Settlers Attack Bedouin Community in West Bank",
+    "published": "2026-08-10T09:32:20.974845+00:00"
+  },
+  "36bd042e1a9043252dbfbeae790e0bf6bd0101c9d7f000c4c168d4b71ed37a32": {
+    "url": "QudsNen/234763",
+    "title": "Israel Kills Palestinian Journalist Anas Al-Sharif in Gaza City Strike",
+    "published": "2026-08-10T09:31:31.831542+00:00"
+  },
+  "3f0e7f2e92b91bdbe436158394ef7fc7b3fcba33c0aa942d6b1cc35e33491d76": {
+    "url": "thecradlemedia/65879",
+    "title": "Israeli Military Operations in Southern Lebanon",
+    "published": "2026-08-10T09:29:55.919790+00:00"
+  },
+  "3e5e118f4dabdae185f4c4b5fe519dbee6bc3fc78187c7791cf5fdc02158c808": {
+    "url": "thecradlemedia/65886",
+    "title": "Netanyahu Signals Private Support for US Gaza Disarmament Plan",
+    "published": "2026-08-10T09:29:30.844802+00:00"
+  },
+  "285868e97e85a86f60898f7f4a143e9c1b87287831da10f0e9ddd4a1d067d452": {
+    "url": "thecradlemedia/65887",
+    "title": "Settlers Assault Residents in Al-Kaabneh Community",
+    "published": "2026-08-10T09:29:29.802938+00:00"
+  },
+  "3b1be3408f3f114b62f29862fa4b2e72a78aa2465d27ee37dd56293d323f0856": {
+    "url": "thecradlemedia/65888",
+    "title": "Israeli Forces Target Palestinian Journalists in July",
+    "published": "2026-08-10T09:28:41.556135+00:00"
+  },
+  "9ce0f93c0cd2c10e1c73412c0ef53ee2c6945554b1cfd7e915f335c4ef850359": {
+    "url": "https://tass.com/emergencies/2170843",
+    "title": "Tatarstan residents killed as result of drone attack on civilian facilities \u2014 region head",
+    "published": "2026-08-10T08:33:20+00:00"
+  },
+  "2c613e1697d68b9f809fd57a4685ecdc3e3e729d3a63db64508b2118f74e78ad": {
+    "url": "https://tass.com/defense/2170837",
+    "title": "Kalashnikov modifies Vikhr missile to combat UAVs as armored vehicles withdraw \u2014 CEO",
+    "published": "2026-08-10T08:29:22+00:00"
+  },
+  "2c67940be27e737fb56f0a653ae7496c739c4f764a216fbfa38d7a626db2e2ef": {
+    "url": "https://www.rt.com/news/644054-finland-rebuffs-ukraine-missile-plea/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Finland rules out additional air defense missiles for Ukraine",
+    "published": "2026-08-10T08:16:14+00:00"
+  },
   "2dd89a2e53359acde5d32fb4dc3b844349d626b83f4a83988a780693585c660b": {
     "url": "Slavyangrad/172764",
     "title": "Zaporozhye Hit by Drone Attack",
@@ -384,6 +429,11 @@
     "title": "UK defense chief calls Ukraine\u2019s drone kill-points system \u2018macabre\u2019",
     "published": "2026-08-09T12:36:56+00:00"
   },
+  "a3eb19b50daffc8c00598fdd756c60c59a2687cc3935ee93b1169970238de060": {
+    "url": "https://tass.com/world/2170691",
+    "title": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms \u2014 Netanyahu",
+    "published": "2026-08-09T12:25:28+00:00"
+  },
   "06ecb177ffd28cd7804958acc2abbf6087ef586e53b8022bec4f16bc39e39141": {
     "url": "https://en.mehrnews.com/news/246854/Over-350-media-staff-martyred-in-three-imposed-wars-on-Iran",
     "title": "Over 350 media staff martyred in three imposed wars on Iran",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/35793",
     "title": "Iraq Seizes Iranian Drones in Babil Province",
     "published": "2026-08-08T22:34:51.644755+00:00"
-  },
-  "6534794deaf579e0653b297c4595fbc9595e20c6e5e0d6ff548abb28f0bf27ff": {
-    "url": "https://tass.com/world/2170563",
-    "title": "US has below 1,700 Patriot missiles left amid Iran operation \u2014 newspaper",
-    "published": "2026-08-08T21:05:54+00:00"
-  },
-  "4af3c6d6d95f8376e750a0604a718bb1fa6770313012d81f1aa20cea1c7db464": {
-    "url": "https://tass.com/world/2170561",
-    "title": "Strait of Hormuz may remain closed to shipping for up to one year \u2014 Iraqi expert",
-    "published": "2026-08-08T20:55:00+00:00"
-  },
-  "fe2f92b48ff4975155eae359cae039f7d1c85be9a7df3823f936cdc273b4d3fb": {
-    "url": "mod_russia_en/28763",
-    "title": "Russian Forces Intercept Enemy Drones in Aerial Engagement",
-    "published": "2026-08-08T20:42:15.854330+00:00"
-  },
-  "822d9aaeb90f1b62dd6523e42d6e8289d897b8a1038ace1740be258e90135326": {
-    "url": "mod_russia_en/28765",
-    "title": "Ukrainian Military Medics Remove Explosive Device from Wounded Serviceman",
-    "published": "2026-08-08T20:41:31.989604+00:00"
-  },
-  "d2b6d0c224242abccb1bb9ced5f07ab14fce5b0441cd1d33084545d6b1a1a367": {
-    "url": "Slavyangrad/172588",
-    "title": "Ukraine's Dnepropetrovsk Region Hit by Multiple Drone Strikes",
-    "published": "2026-08-08T20:40:41.919600+00:00"
-  },
-  "cb068f635f8ec453dad39103044657e030f0e3f20f5cfc247c9afd3760651c2d": {
-    "url": "QudsNen/234601",
-    "title": "Israeli Settlers, Soldier Allegedly Assault Palestinian in West Bank Confrontation",
-    "published": "2026-08-08T20:36:50.533533+00:00"
-  },
-  "905a023483bc661b709b6c0e593adf8c2b7d92b286c74e5c982d2a2747156f76": {
-    "url": "QudsNen/234603",
-    "title": "Egypt Slams Israel Over Gaza Civilian Casualties",
-    "published": "2026-08-08T20:35:39.317734+00:00"
-  },
-  "1285a1eb44dac95f8ea541ecfef33c869c8b78725a8c0eed2152c4ac602c2ee7": {
-    "url": "QudsNen/234607",
-    "title": "Israeli Artillery Shells Hit Northern al-Bureij Camp in Gaza",
-    "published": "2026-08-08T20:35:37.793625+00:00"
-  },
-  "4c14d888ed9c2a54864a0fb5cf52f3d39ad3ab31b5eefeab64571e8b33987dbd": {
-    "url": "https://en.irna.ir/news/86230884/Iranian-Intelligence-Ministry-hails-journalists-for-thwarting",
-    "title": "Iranian Intelligence Ministry hails journalists for thwarting enemy's war of narratives",
-    "published": "2026-08-08T19:56:03+00:00"
-  },
-  "fe4c9759188a335879ecd42388639530b09a67a784bdbe73bf1f71d9d2895168": {
-    "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
-    "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
-    "published": "2026-08-08T19:00:43+00:00"
   }
 }
