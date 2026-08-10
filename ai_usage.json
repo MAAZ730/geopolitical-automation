@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5775,
+  "total_calls": 5779,
   "tiers": {
-    "groq": 5756,
+    "groq": 5760,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T16:37:02.228888+00:00",
-      "tier": "groq",
-      "article": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties"
-    },
-    {
-      "timestamp": "2026-08-08T16:37:39.469306+00:00",
-      "tier": "groq",
-      "article": "Russian strikes hit ships carrying military cargo at Nikolayev port, in Black Sea"
-    },
-    {
-      "timestamp": "2026-08-08T16:38:25.933655+00:00",
-      "tier": "groq",
-      "article": "Russian forces hit military warehouses storing electronic warfare equipment at Odessa port"
-    },
-    {
-      "timestamp": "2026-08-08T16:38:44.190075+00:00",
-      "tier": "groq",
-      "article": "Unknown drones spotted over Bundeswehr base in western Germany \u2014 newspaper"
-    },
     {
       "timestamp": "2026-08-08T18:41:42.092722+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T19:02:49.943548+00:00",
       "tier": "groq",
       "article": "Can \u2018Islamic NATO\u2019 rein in both Israel and Iran?"
+    },
+    {
+      "timestamp": "2026-08-10T20:45:37.476506+00:00",
+      "tier": "groq",
+      "article": "Russia Says Kiev Hit Foreigners to Drive Wedge into Its Relations with Fraternal Nations - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-10T20:46:12.154209+00:00",
+      "tier": "groq",
+      "article": "One dies, two wounded after Ukraine\u2019s drone attacks on Belgorod Region"
+    },
+    {
+      "timestamp": "2026-08-10T20:46:30.337665+00:00",
+      "tier": "groq",
+      "article": "Israeli warplanes raid Al-Mansouri town, South Lebanon, with two missiles: Al-Manar reporter - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-10T20:47:04.377777+00:00",
+      "tier": "groq",
+      "article": "Casualties reported as Yemen targets Saudi coalition sites"
     }
   ]
 }

@@ -1,4 +1,44 @@
 {
+  "d2f16685242775290d3e35521e0c71068babc2d08e3df3372ad1431c3f0f9dbc": {
+    "url": "BellumActaNews/176335",
+    "title": "Ukraine Claims Success in Crimea Airstrikes Against Russian Air Defenses",
+    "published": "2026-08-10T20:53:01.664937+00:00"
+  },
+  "155b601a52542363aabb2da93fce8aa4e5e078c83cc86ad27c78e88556d7a20a": {
+    "url": "DDGeopolitics/191018",
+    "title": "US Diplomat Warns of Escalation in Iran Conflict",
+    "published": "2026-08-10T20:51:22.705560+00:00"
+  },
+  "35953ddf28016ef6c2907fcd1ddce49ed723f7c14a4803e5cfe8f0a6da5b646e": {
+    "url": "DDGeopolitics/191023",
+    "title": "Iranian Protesters Display Defiance in Enqelab Square, Tehran",
+    "published": "2026-08-10T20:50:28.170569+00:00"
+  },
+  "542036a6249065618b2a411a3b87c30d5b8ee2af53948634c277207b6393be28": {
+    "url": "QudsNen/234841",
+    "title": "Qusra Settler Siege: Israeli Occupation Forces Fail to Intervene",
+    "published": "2026-08-10T20:49:16.734438+00:00"
+  },
+  "eddba5e0ad64e589dc705a8d495be26ae7ab97984a27fb876b92f7b540583e5a": {
+    "url": "thecradlemedia/65916",
+    "title": "ADNOC Announces New LNG Export Facility to Bypass Strait of Hormuz Amid Maritime Attacks",
+    "published": "2026-08-10T20:47:24.225827+00:00"
+  },
+  "332c1c6df1549443715afd232ff86a145087a49b3f82e71d7c30b9f49b5a060e": {
+    "url": "thecradlemedia/65918",
+    "title": "Israeli Reconnaissance Flights Persist Over Lebanon",
+    "published": "2026-08-10T20:47:14.954140+00:00"
+  },
+  "a591a45d0c0c9bb857b4d633aac6ce3cc331921bc80cd07df9b772a30fc5a546": {
+    "url": "https://english.almanar.com.lb/article/114512/",
+    "title": "Russia Says Kiev Hit Foreigners to Drive Wedge into Its Relations with Fraternal Nations - Al-Manar TV Lebanon",
+    "published": "2026-08-10T20:22:51+00:00"
+  },
+  "930824625e0cb83f1659bf54a790fb4f37827c0ba501f255ddd8d1803bfd7b7f": {
+    "url": "https://english.almanar.com.lb/article/114527/",
+    "title": "Israeli warplanes raid Al-Mansouri town, South Lebanon, with two missiles: Al-Manar reporter - Al-Manar TV Lebanon",
+    "published": "2026-08-10T19:18:42+00:00"
+  },
   "b227692ef85883b521f55d249dd4313cb40ee7b756509d7c691975e150a8a996": {
     "url": "DDGeopolitics/191009",
     "title": "Pentagon Renames Joint Base Charleston in Honor of Late Senator Lindsey Graham",
@@ -108,6 +148,11 @@
     "url": "https://tass.com/politics/2170999",
     "title": "Russia says world bodies\u2019 silence on Kiev attacks on its cities to be seen as complicity",
     "published": "2026-08-10T14:04:03+00:00"
+  },
+  "c7211d3813f10ba13269c5304eccc024b659dd1d1e37d010bc655f075a6f7a87": {
+    "url": "https://tass.com/emergencies/2170989",
+    "title": "One dies, two wounded after Ukraine\u2019s drone attacks on Belgorod Region",
+    "published": "2026-08-10T13:33:26+00:00"
   },
   "c6d149a70fbe6478b16a86af56484faf09f889090136960eda87ca1d2bc290da": {
     "url": "QudsNen/234791",
@@ -308,6 +353,11 @@
     "url": "https://warontherocks.com/why-military-cooperation-in-the-indian-ocean-still-falls-short/",
     "title": "Why Military Cooperation in the Indian Ocean Still Falls Short",
     "published": "2026-08-10T07:30:32+00:00"
+  },
+  "3504e162f9e32157b656072fdc8631b56e662e2169b1d4109c49b00029d54f83": {
+    "url": "https://en.mehrnews.com/news/246864/Casualties-reported-as-Yemen-targets-Saudi-coalition-sites",
+    "title": "Casualties reported as Yemen targets Saudi coalition sites",
+    "published": "2026-08-10T04:12:25+00:00"
   },
   "495c25f38856733e6cf5f5222c814cd074b2c423cd4e11b0217deaa611720e34": {
     "url": "CyberspecNews/113998",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
     "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
     "published": "2026-08-09T10:45:57+00:00"
-  },
-  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
-    "url": "CensoredMen/222",
-    "title": "US Forces Enforce Maritime Blockade Against Iran",
-    "published": "2026-08-09T10:42:02.592131+00:00"
-  },
-  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
-    "url": "CensoredMen/229",
-    "title": "Ukraine Strikes Second Wildberries Warehouse in Nevinnomyssk",
-    "published": "2026-08-09T10:41:01.632304+00:00"
-  },
-  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
-    "url": "CensoredMen/230",
-    "title": "IRGC Strike on U.S. Installation Near Aqaba, Jordan",
-    "published": "2026-08-09T10:40:02.425914+00:00"
-  },
-  "546edf458136ad10ae801545df3821c4755952839fd13b3cbec4f63c31c7f57e": {
-    "url": "QudsNen/234658",
-    "title": "Settler Confronts Human Rights Activist in West Bank",
-    "published": "2026-08-09T10:39:43.109493+00:00"
-  },
-  "60e45b53de1446c8323dea6eaa44af8c1ce044585243c0acb08a6a83f9542600": {
-    "url": "Middle_East_Spectator/35777",
-    "title": "US MQ-1C Drone Downed in Middle East",
-    "published": "2026-08-09T10:39:17.314507+00:00"
-  },
-  "a7b3e5f786a281954f143c9ea3c4116b0988128b1f59905327d675b095ebe37b": {
-    "url": "Middle_East_Spectator/35779",
-    "title": "Israeli Drone Downed in Likely Electronic Warfare Incident",
-    "published": "2026-08-09T10:39:15.885489+00:00"
-  },
-  "73065888fa5c16660c99000f63977c3bd43489d017d877785ca2ad6ccd63a1d9": {
-    "url": "https://tass.com/politics/2170683",
-    "title": "Takaichi lacks courage to say who dropped atomic bomb on Japan \u2014 MFA",
-    "published": "2026-08-09T10:32:24+00:00"
-  },
-  "1991f6557db9251b7faac097d74e8d13cf336a0bee7ec77d701492df6f6706c4": {
-    "url": "https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss",
-    "title": "Why is Pezeshkian urging an end to Iran\u2019s \u2018no war, no peace\u2019 status?",
-    "published": "2026-08-09T10:02:59+00:00"
-  },
-  "73fa1f142b21bfab1dc13e2b88ab157ba88a5ccb18ddc1adb6f7b66975404636": {
-    "url": "https://tass.com/defense/2170677",
-    "title": "Russian air defenses down 10 bombs, four HIMARS rockets, 970 Ukrainian drones in 24 hours",
-    "published": "2026-08-09T09:56:25+00:00"
-  },
-  "4333d96b4a1493619d4e0fce0960258d03023867bdb1d1e24ebbf99c62f8d132": {
-    "url": "two_majors/81049",
-    "title": "Wildberries Warehouse Engulfed in Flames in Pavlograd, Ukraine",
-    "published": "2026-08-09T08:52:50.251944+00:00"
   }
 }
