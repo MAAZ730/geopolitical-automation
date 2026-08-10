@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5779,
+  "total_calls": 5783,
   "tiers": {
-    "groq": 5760,
+    "groq": 5764,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T18:41:42.092722+00:00",
-      "tier": "groq",
-      "article": "Eleven civilians injured in Ukraine\u2019s drone attacks on DPR"
-    },
-    {
-      "timestamp": "2026-08-08T18:42:23.371380+00:00",
-      "tier": "groq",
-      "article": "A beat written in blood across Gaza, Lebanon, Yemen, and Iran"
-    },
-    {
-      "timestamp": "2026-08-08T18:43:11.356601+00:00",
-      "tier": "groq",
-      "article": "Zelensky not welcome in Serbia, his visit not in its interests \u2014 Serbian politician"
-    },
-    {
-      "timestamp": "2026-08-08T18:43:56.412935+00:00",
-      "tier": "groq",
-      "article": "Strait of Hormuz will stay closed until US changes course: Iran\u2019s security chief"
-    },
     {
       "timestamp": "2026-08-08T20:33:38.835182+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T20:47:04.377777+00:00",
       "tier": "groq",
       "article": "Casualties reported as Yemen targets Saudi coalition sites"
+    },
+    {
+      "timestamp": "2026-08-10T22:40:32.093270+00:00",
+      "tier": "groq",
+      "article": "Ukraine must pay for deadly ship strike \u2013 Iran"
+    },
+    {
+      "timestamp": "2026-08-10T22:40:49.976107+00:00",
+      "tier": "groq",
+      "article": "DARPA developing hypersonic cruise missile to evade enemy air defenses "
+    },
+    {
+      "timestamp": "2026-08-10T22:41:20.871534+00:00",
+      "tier": "groq",
+      "article": "IRGC Spokesman: Our Missiles Can Change Course to Counter Enemy Air Defense Systems - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-10T22:41:39.450944+00:00",
+      "tier": "groq",
+      "article": "Israel \"greatest threat to regional security\": Iran FM spox"
     }
   ]
 }

@@ -1,4 +1,44 @@
 {
+  "da259becf13ba1a97fa3d8f3487e32e003170abfddfeb72903565c00409a728a": {
+    "url": "presstv/202278",
+    "title": "Explosions Rock Libya's Zawiya Refinery",
+    "published": "2026-08-10T22:45:14.325923+00:00"
+  },
+  "5d84be636cdafdba0731a37e98c14f952c8885d31f9bf916e47a727e284511d9": {
+    "url": "presstv/202279",
+    "title": "Israeli Airstrikes Hit Southern Lebanese Town of Mansouri",
+    "published": "2026-08-10T22:44:22.152382+00:00"
+  },
+  "9e8ced02ab0014d744f0439ab1291d558e6f23596caeba5303084e94c73e2e60": {
+    "url": "DDGeopolitics/191025",
+    "title": "Russian Zircon Missile Strikes Hit Kiev Amid Ongoing Conflict",
+    "published": "2026-08-10T22:43:53.462582+00:00"
+  },
+  "d0452c3fa8fb71ca979e0f0ce08191bac6ac2520b1e9e1673e3956f579817331": {
+    "url": "QudsNen/234848",
+    "title": "Israeli Settlers Clash with Palestinians in Ramallah Region",
+    "published": "2026-08-10T22:43:33.428783+00:00"
+  },
+  "6e3f50747ecdce2dfcfda358b80de841d1a10e927c79b882f28e0de567947b0f": {
+    "url": "Middle_East_Spectator/35824",
+    "title": "Iran Supreme Leader Announces Military Leadership Appointments",
+    "published": "2026-08-10T22:41:48.906160+00:00"
+  },
+  "be0cab8930b3f7b02ebc696417803bcd86962f19a30e6452322b89e666ed22df": {
+    "url": "Middle_East_Spectator/35826",
+    "title": "Iran's Supreme Leader Promotes Vahidi to Major General Amid IRGC Leadership Change",
+    "published": "2026-08-10T22:41:46.887367+00:00"
+  },
+  "8fc2514073427852b9f79b570870f85b69285b338c46511d54cf844790bc4500": {
+    "url": "https://www.rt.com/news/644085-ukraine-attack-iranian-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Ukraine must pay for deadly ship strike \u2013 Iran",
+    "published": "2026-08-10T20:54:42+00:00"
+  },
+  "aa90d56994fa44d76b485d8e534ddde44ee26913ee6973a8ebe6fc65e8850663": {
+    "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
+    "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses ",
+    "published": "2026-08-10T20:54:38+00:00"
+  },
   "d2f16685242775290d3e35521e0c71068babc2d08e3df3372ad1431c3f0f9dbc": {
     "url": "BellumActaNews/176335",
     "title": "Ukraine Claims Success in Crimea Airstrikes Against Russian Air Defenses",
@@ -143,6 +183,11 @@
     "url": "thecradlemedia/65925",
     "title": "Greek Residents Protest Israeli Cruise Tourists in Coastal Areas",
     "published": "2026-08-10T15:04:18.262214+00:00"
+  },
+  "6dd53322148a066928ab3d1d47e16e4d6f49c5aecd5237cc9808ae34956d6a0f": {
+    "url": "https://english.almanar.com.lb/article/114432/",
+    "title": "IRGC Spokesman: Our Missiles Can Change Course to Counter Enemy Air Defense Systems - Al-Manar TV Lebanon",
+    "published": "2026-08-10T14:52:46+00:00"
   },
   "5aadc913e5ba7b3eacfd9213be0578974f9640b5791dca261fa9ea18176c64c7": {
     "url": "https://tass.com/politics/2170999",
@@ -298,6 +343,11 @@
     "url": "thecradlemedia/65888",
     "title": "Israeli Forces Target Palestinian Journalists in July",
     "published": "2026-08-10T09:28:41.556135+00:00"
+  },
+  "466b29038e5dd333cc17c83c1579865f49297de815f9bc8785a72df539aa1067": {
+    "url": "https://en.mehrnews.com/news/246871/Iran-asks-reg-states-to-bolster-own-security-sans-foreigners",
+    "title": "Israel \"greatest threat to regional security\": Iran FM spox",
+    "published": "2026-08-10T08:45:35+00:00"
   },
   "9ce0f93c0cd2c10e1c73412c0ef53ee2c6945554b1cfd7e915f335c4ef850359": {
     "url": "https://tass.com/emergencies/2170843",
@@ -698,55 +748,5 @@
     "url": "intelslava/92329",
     "title": "Houthi Rebels Strike Military Shipment at Yemen's Mukha Port",
     "published": "2026-08-09T13:02:53.845535+00:00"
-  },
-  "739d7a8828e16520b872e5c65863f7c9d98b7458372187ae83580a3c499fe0a0": {
-    "url": "intelslava/92331",
-    "title": "Russian Forces Conduct Aerial Operations Against Ukrainian Personnel in Zaporizhzhia",
-    "published": "2026-08-09T13:02:21.725824+00:00"
-  },
-  "46a552108e474a26d06adf764db16a5f45f401b30f97f459645af73a39b1459c": {
-    "url": "intelslava/92333",
-    "title": "Russia Destroys Ukrainian Drone Control Station in Kherson",
-    "published": "2026-08-09T13:01:12.087060+00:00"
-  },
-  "e4d3ab5458c5bbf60c0f80fa224e5e835fc3b5e11e2603bddfcfd0fbf24df20b": {
-    "url": "thecradlemedia/65871",
-    "title": "Israel Advances West Bank Settlement Amid Escalating Settler Violence",
-    "published": "2026-08-09T12:59:06.736351+00:00"
-  },
-  "45a0c3787101db46b347982134bd45400ecb3eed7ab3eba96ce6b9225ba834a7": {
-    "url": "thecradlemedia/65872",
-    "title": "Israeli Artillery Strikes Al-Mansouri in South Lebanon",
-    "published": "2026-08-09T12:59:05.750380+00:00"
-  },
-  "66601da4e416c90c006e6c144dc22fa191ce2eecc972515bc3eb67a3ae10d6f6": {
-    "url": "https://en.mehrnews.com/news/246855/Iran-s-Army-Force-fully-prepared-to-counter-any-ground-threat",
-    "title": "Iran\u2019s Army Force fully prepared to counter any ground threat",
-    "published": "2026-08-09T12:46:38+00:00"
-  },
-  "42f4ce9525beead46f1783db325f813332adf6ee8e219cc86cc02d5bd32e545d": {
-    "url": "https://www.rt.com/news/644034-ukraines-gamification-killing-macabre/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "UK defense chief calls Ukraine\u2019s drone kill-points system \u2018macabre\u2019",
-    "published": "2026-08-09T12:36:56+00:00"
-  },
-  "a3eb19b50daffc8c00598fdd756c60c59a2687cc3935ee93b1169970238de060": {
-    "url": "https://tass.com/world/2170691",
-    "title": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms \u2014 Netanyahu",
-    "published": "2026-08-09T12:25:28+00:00"
-  },
-  "06ecb177ffd28cd7804958acc2abbf6087ef586e53b8022bec4f16bc39e39141": {
-    "url": "https://en.mehrnews.com/news/246854/Over-350-media-staff-martyred-in-three-imposed-wars-on-Iran",
-    "title": "Over 350 media staff martyred in three imposed wars on Iran",
-    "published": "2026-08-09T12:06:23+00:00"
-  },
-  "8ad0d0dd8d8a305dae3d9db3026bd4d8c9b2ac680e5e485a670720cb73841c4a": {
-    "url": "https://tass.com/world/2170685",
-    "title": "Houthis report striking military warehouses in Yemen\u2019s Mokha with missiles, UAVs",
-    "published": "2026-08-09T11:16:04+00:00"
-  },
-  "045302d15d045a6ff1f9e419d26190c87f44ddb890ea63fb420a0e3b2214b9dd": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss",
-    "title": "Yemeni army warns Houthis after attacks heighten escalation risk",
-    "published": "2026-08-09T10:45:57+00:00"
   }
 }
