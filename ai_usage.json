@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5759,
+  "total_calls": 5763,
   "tiers": {
-    "groq": 5740,
+    "groq": 5744,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T08:45:36.292264+00:00",
-      "tier": "groq",
-      "article": "Russia strikes dry cargo ship east of Odessa transporting weapons for Ukrainian military"
-    },
-    {
-      "timestamp": "2026-08-08T08:46:14.516325+00:00",
-      "tier": "groq",
-      "article": "Tehran, Beijing set sights on strategic economic partnership beyond trade"
-    },
-    {
-      "timestamp": "2026-08-08T08:47:03.283359+00:00",
-      "tier": "groq",
-      "article": "Qalibaf slams Trump\u2019s \u2018theater diplomacy\u2019 toward Iran"
-    },
-    {
-      "timestamp": "2026-08-08T08:47:54.808511+00:00",
-      "tier": "groq",
-      "article": "Tehran seeks dialogue while refusing pressure"
-    },
     {
       "timestamp": "2026-08-08T10:37:07.903375+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T11:13:36.649057+00:00",
       "tier": "groq",
       "article": "Israel remains in buffer zone in Lebanon as it failed to disarm Hezbollah \u2014 adviser"
+    },
+    {
+      "timestamp": "2026-08-10T13:15:00.367897+00:00",
+      "tier": "groq",
+      "article": "Seven citizens of Uzbekistan die in drone attack on Nizhnekamsk"
+    },
+    {
+      "timestamp": "2026-08-10T13:15:24.148385+00:00",
+      "tier": "groq",
+      "article": "Israel conducts new attack in southern Lebanon despite truce"
+    },
+    {
+      "timestamp": "2026-08-10T13:15:43.065674+00:00",
+      "tier": "groq",
+      "article": "What\u2019s behind Trump\u2019s shift to economic pressure on Iran? Will it work?"
+    },
+    {
+      "timestamp": "2026-08-10T13:15:59.309930+00:00",
+      "tier": "groq",
+      "article": "Iran to launch 3 new satellites before year end"
     }
   ]
 }
