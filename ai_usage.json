@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5755,
+  "total_calls": 5759,
   "tiers": {
-    "groq": 5736,
+    "groq": 5740,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T06:58:31.678958+00:00",
-      "tier": "groq",
-      "article": "Zelensky counts the cost, missing missile defense, Nazi memories surfacing: RT\u2019s top stories this week"
-    },
-    {
-      "timestamp": "2026-08-08T06:58:50.023434+00:00",
-      "tier": "groq",
-      "article": "Yemen targets Saudi military centre, warns of new equation"
-    },
-    {
-      "timestamp": "2026-08-08T06:59:18.462368+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike defense enterprise, fuel depot in Kiev"
-    },
-    {
-      "timestamp": "2026-08-08T07:00:10.424127+00:00",
-      "tier": "groq",
-      "article": "Iran, a strategic partner of EAEU on path to trade development, regional integration"
-    },
     {
       "timestamp": "2026-08-08T08:45:36.292264+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-10T09:28:36.123716+00:00",
       "tier": "groq",
       "article": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms \u2014 Netanyahu"
+    },
+    {
+      "timestamp": "2026-08-10T11:11:51.273435+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Drone attack on Nizhnekamsk kills thirteen people killed, including child"
+    },
+    {
+      "timestamp": "2026-08-10T11:12:29.124068+00:00",
+      "tier": "groq",
+      "article": "Ukrainian forces attacked Belgorod Region more than 110 times in 24 hours"
+    },
+    {
+      "timestamp": "2026-08-10T11:13:16.305526+00:00",
+      "tier": "groq",
+      "article": "Number of people injured in drone attack on Nizhnekamsk climbs to 48"
+    },
+    {
+      "timestamp": "2026-08-10T11:13:36.649057+00:00",
+      "tier": "groq",
+      "article": "Israel remains in buffer zone in Lebanon as it failed to disarm Hezbollah \u2014 adviser"
     }
   ]
 }

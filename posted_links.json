@@ -1,8 +1,53 @@
 {
+  "b3d0fa2c94511469971b1f891d69646e1852fcbc777b66f198e8703a6c0bab58": {
+    "url": "mod_russia_en/28787",
+    "title": "Russian Artillery Strikes Krasny Liman Deployment Area",
+    "published": "2026-08-10T11:19:19.234382+00:00"
+  },
+  "5a161642b605142b74b6a1773299b458e6d763435fbbf070ca661bff98d39046": {
+    "url": "thecradlemedia/65892",
+    "title": "Israeli Forces Launch Incursion into Mays al-Jabal, Lebanon",
+    "published": "2026-08-10T11:18:09.285302+00:00"
+  },
+  "b4d2ea82cc8b53171c9577d12428acdeb98023d2011101b72024cafa8e9539d8": {
+    "url": "thecradlemedia/65894",
+    "title": "Israeli Artillery Strikes Southern Lebanon, Igniting Fire",
+    "published": "2026-08-10T11:17:43.587815+00:00"
+  },
+  "ea29c1d76eb411d59dd4d87a1a9b228d962b544ad1d6d6c55ca864c18a4282d4": {
+    "url": "thecradlemedia/65895",
+    "title": "US Senator Criticizes Trump Administration's Iran Policy",
+    "published": "2026-08-10T11:16:48.738724+00:00"
+  },
+  "126b98068632abe54be60ea3252059afd982bf7cf0b627d5126c418b180d0c06": {
+    "url": "thecradlemedia/65902",
+    "title": "Gaza's Pregnant Women Suffer Amidst Heat, Malnutrition, and Medical Crisis",
+    "published": "2026-08-10T11:13:45.727437+00:00"
+  },
+  "923f3949e1b49e3106dc74494feeac8513aafb1e5e4f207ea8254747c0a7d12b": {
+    "url": "thecradlemedia/65903",
+    "title": "UAE Foils Advanced Cyberattacks on Energy, Aviation, and Education Sectors",
+    "published": "2026-08-10T11:13:44.057582+00:00"
+  },
+  "c06412d6d3c611249008781687db607f02ef1d5c1c474ac70d3c7ed60525f347": {
+    "url": "https://tass.com/politics/2170905",
+    "title": "Ukrainian forces attacked Belgorod Region more than 110 times in 24 hours",
+    "published": "2026-08-10T10:36:14+00:00"
+  },
+  "3f590c04914c54e4b1a68b5742af071dc4d1e14252fdc7418babf1b0451ae013": {
+    "url": "https://tass.com/emergencies/2170889",
+    "title": "Number of people injured in drone attack on Nizhnekamsk climbs to 48",
+    "published": "2026-08-10T10:07:38+00:00"
+  },
   "fed1c09e0f46e4843c16cc6cd30d9693480e6a388ad626aa1f6d9dd91e732c26": {
     "url": "QudsNen/234756",
     "title": "Israeli Settlers Attack Bedouin Community in West Bank",
     "published": "2026-08-10T09:32:20.974845+00:00"
+  },
+  "2454a408697d30cfd5323573d0ce945e77a139d4c00b0e920225f97eb6ded994": {
+    "url": "https://tass.com/emergencies/2170873",
+    "title": "IN BRIEF: Drone attack on Nizhnekamsk kills thirteen people killed, including child",
+    "published": "2026-08-10T09:32:13+00:00"
   },
   "36bd042e1a9043252dbfbeae790e0bf6bd0101c9d7f000c4c168d4b71ed37a32": {
     "url": "QudsNen/234763",
@@ -384,6 +429,11 @@
     "title": "Kim Dotcom warns AI could supercharge US surveillance",
     "published": "2026-08-09T14:19:04+00:00"
   },
+  "ffc7bb2ec6c3e3312d6637c2ae6f685282914915229edc0616400a41fe3ab052": {
+    "url": "https://tass.com/world/2170705",
+    "title": "Israel remains in buffer zone in Lebanon as it failed to disarm Hezbollah \u2014 adviser",
+    "published": "2026-08-09T14:05:00+00:00"
+  },
   "d048dc3c93719655eff229090e4c9d5ead6bc37ae7a60db5170fd9242ad45b4e": {
     "url": "https://tass.com/world/2170699",
     "title": "Israel insists on implementing 5 principles of ending war in Gaza \u2014 adviser",
@@ -698,55 +748,5 @@
     "url": "QudsNen/234626",
     "title": "Israeli Soldier Removes Palestinian Flag in Qusra Raid",
     "published": "2026-08-09T02:00:11.156013+00:00"
-  },
-  "2c5e63dd932e9fe9cc89303b147efe1c59b0e62bdac1527c67abbf2b16b6bbc1": {
-    "url": "QudsNen/234631",
-    "title": "Israeli Artillery Strikes East of Gaza City's Al-Tuffah Neighbourhood",
-    "published": "2026-08-09T01:59:40.501061+00:00"
-  },
-  "58e2c810a64d0540c3daed683c166fa67798b0607730f57166fdd620581a7264": {
-    "url": "QudsNen/234632",
-    "title": "Israeli Forces Open Fire in Gaza's Al-Tuffah Neighborhood",
-    "published": "2026-08-09T01:59:39.021890+00:00"
-  },
-  "f80b542be0a5f8e1a352647b3769a106e8adf7527b7c34451389096270573b3b": {
-    "url": "https://tass.com/politics/2170591",
-    "title": "Three drones downed en route to Moscow \u2014 mayor",
-    "published": "2026-08-09T01:02:53+00:00"
-  },
-  "bc1ea71050ed3ee1a2bbe33dffea126756fac41460a7c3379a0d506e9e156da9": {
-    "url": "https://tass.com/world/2170587",
-    "title": "Ukraine needs at least 12 months to start making Patriots \u2014 Zelensky",
-    "published": "2026-08-09T00:22:00+00:00"
-  },
-  "976bbe1ed8558e96f8bc37c3febc9b2689168f4e7c35b8354b8b5afe91e5733b": {
-    "url": "presstv/202069",
-    "title": "Russian Troops Counter Ukrainian Drone Incursion",
-    "published": "2026-08-08T22:39:16.538171+00:00"
-  },
-  "08c92f981a124fc5a4f1af157fb4464bfbd03786959619b5efd0826ec4f6ba9e": {
-    "url": "BellumActaNews/176276",
-    "title": "Serbia, Israel to Launch Joint Drone Factory Amid Regional Rivalries",
-    "published": "2026-08-08T22:38:24.682112+00:00"
-  },
-  "ccf10ea208c27adb536b198bd28264798b58c01a3c3e432daba3a20790121266": {
-    "url": "QudsNen/234610",
-    "title": "Israeli Artillery Strikes Ali al-Taher Heights in Southern Lebanon",
-    "published": "2026-08-08T22:35:23.171164+00:00"
-  },
-  "3b66bb2d02a4c099d90bd398559533a1b7ce5404419e5c97ddfaf2966cf424aa": {
-    "url": "QudsNen/234621",
-    "title": "Tear Gas Deployed in Qalqilya as Israeli Forces Conduct Raid",
-    "published": "2026-08-08T22:35:06.125253+00:00"
-  },
-  "46990daa50e3898075bc002695e8529a3c6338190dfc50f6f00383e4d1648f9b": {
-    "url": "QudsNen/234624",
-    "title": "Israel Revokes Entry Permits of US Citizens, Jewish Activists in West Bank",
-    "published": "2026-08-08T22:34:55.464985+00:00"
-  },
-  "705144960b2e6ce519c99d6f826e3810b5616bb074537f81f909159b42045a1f": {
-    "url": "Middle_East_Spectator/35793",
-    "title": "Iraq Seizes Iranian Drones in Babil Province",
-    "published": "2026-08-08T22:34:51.644755+00:00"
   }
 }
