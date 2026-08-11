@@ -1,4 +1,44 @@
 {
+  "d2a4bce00db0d86960ad502b6d3207487f778c2dc33a5f5fdfeb6803f74eaaa7": {
+    "url": "intelslava/92400",
+    "title": "Israeli Forces Raid Home in West Bank Village, Cause Damage",
+    "published": "2026-08-11T05:18:29.197812+00:00"
+  },
+  "603f663d02845672e4920b1014805324872910d83a5a4f7c7c8edef7aeea8e75": {
+    "url": "intelslava/92405",
+    "title": "Ukrainian MiG-29 Fighter Jet Crashes in Odesa Region",
+    "published": "2026-08-11T05:17:36.066659+00:00"
+  },
+  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
+    "url": "CensoredMen/222",
+    "title": "US Forces Enforce Maritime Blockade Against Iran",
+    "published": "2026-08-11T05:16:08.955880+00:00"
+  },
+  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
+    "url": "CensoredMen/229",
+    "title": "Ukraine Strikes Second Wildberries Warehouse in Nevinnomyssk",
+    "published": "2026-08-11T05:15:07.894698+00:00"
+  },
+  "730583f340458803defcad8c2a6261a8532acac1f21c08e14f6ff09a46219052": {
+    "url": "DDGeopolitics/191026",
+    "title": "Trump-Linked Firm Deploys Drilling Equipment on Greenland's Eastern Coast Without Approval",
+    "published": "2026-08-11T05:14:04.205436+00:00"
+  },
+  "a9e71f6075f93042bf01306524851bee023dced03b7a49253ffdad3b2fd20d95": {
+    "url": "QudsNen/234843",
+    "title": "Israel's Former National Security Chief Advocates for Gaza Strip Destruction",
+    "published": "2026-08-11T05:14:00.587426+00:00"
+  },
+  "6c2ea93f860a57da94e076479a9a7eea2ca9b6c6774619875e18a448d6e95018": {
+    "url": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
+    "title": "Huge fire breaks out at Libya\u2019s Zawiya refinery after drone attack",
+    "published": "2026-08-11T04:37:27+00:00"
+  },
+  "c35ae7921df6698f928ff13693959db1f2088e076af7ff86bd881cd263a42a3e": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
+    "title": "Fire rages after drone strikes Libya\u2019s largest oil refinery",
+    "published": "2026-08-11T04:09:10+00:00"
+  },
   "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
     "url": "CensoredMen/230",
     "title": "IRGC Claims Strike on U.S. Installation in Jordan",
@@ -188,6 +228,11 @@
     "url": "https://www.tehrantimes.com/news/529022/MP-Retaliation-for-martyred-leader-s-assassination-to-be-pursued",
     "title": "MP: Retaliation for martyred leader\u2019s assassination to be pursued on all fronts",
     "published": "2026-08-10T18:41:13+00:00"
+  },
+  "965bee5cba51a680a7e78c4b22897c07cacf5673900185812372c0d2795cce8e": {
+    "url": "https://www.tehrantimes.com/news/529017/Iran-says-regional-defense-pact-signals-shift-toward-indigenous",
+    "title": "Iran says regional defense pact signals shift toward indigenous security",
+    "published": "2026-08-10T18:13:22+00:00"
   },
   "ba3ab1d3fffbc65bcf017ae2acec3bd97cdf24363ed38d0dbf0619976cfddf26": {
     "url": "DDGeopolitics/190986",
@@ -504,6 +549,11 @@
     "title": "Why Military Cooperation in the Indian Ocean Still Falls Short",
     "published": "2026-08-10T07:30:32+00:00"
   },
+  "6c572845ee38e6614a0bcebeba3a89a5809ff54bffef0e6ad4a13d2d2a0fc050": {
+    "url": "https://en.mehrnews.com/news/246866/Oil-rises-as-Strait-of-Hormuz-reopening-remains-uncertain",
+    "title": "Oil rises as Strait of Hormuz reopening remains uncertain",
+    "published": "2026-08-10T05:14:50+00:00"
+  },
   "3504e162f9e32157b656072fdc8631b56e662e2169b1d4109c49b00029d54f83": {
     "url": "https://en.mehrnews.com/news/246864/Casualties-reported-as-Yemen-targets-Saudi-coalition-sites",
     "title": "Casualties reported as Yemen targets Saudi coalition sites",
@@ -698,55 +748,5 @@
     "url": "QudsNen/234717",
     "title": "Israeli Settlers Cut Down Fruit Trees in West Bank Village",
     "published": "2026-08-09T18:50:26.656554+00:00"
-  },
-  "943f70044d2183351dfb67a1b55cdce63bc6a349e44210334536fd6a24c76148": {
-    "url": "thecradlemedia/65867",
-    "title": "Iraq's Nujaba Movement Leader Demands Military Action Against Saudi Arabia",
-    "published": "2026-08-09T18:47:33.823117+00:00"
-  },
-  "127721fd6c5633990d4b07625c19202db7c39806559fbe732feffaa4e24feffd": {
-    "url": "thecradlemedia/65868",
-    "title": "Israeli Drone Strikes Ali al-Taher Hill in South Lebanon",
-    "published": "2026-08-09T18:47:24.379176+00:00"
-  },
-  "b5b825cbfba5f8e920f0609796dbc24c4a29e212ae9b9b953702e65d5b8aa0eb": {
-    "url": "https://www.tehrantimes.com/news/528987/Israel-rejects-Gaza-peace-plan-as-Netanyahu-facing-elections",
-    "title": "Israel rejects Gaza peace plan as Netanyahu, facing elections, digs in for continued war",
-    "published": "2026-08-09T17:34:48+00:00"
-  },
-  "54e3cf31278b84719955cb0de21f9d7ea8e59b71f94d88090b20ec814c2842b5": {
-    "url": "https://www.tehrantimes.com/news/528989/Araghchi-Iran-will-neither-forgive-nor-forget-assassination",
-    "title": "Araghchi: Iran will neither forgive nor forget assassination of Leader",
-    "published": "2026-08-09T17:29:30+00:00"
-  },
-  "1b209df96dd2f7cd92c83bd7c6d26ba490d0daa15579c4ba444f52b2af70684a": {
-    "url": "https://www.tehrantimes.com/news/528969/Mobarak-Puppet-Theater-Festival-opens-with-works-dedicated-to",
-    "title": "Mobarak Puppet Theater Festival opens with works dedicated to Gaza journalists, Minab children",
-    "published": "2026-08-09T17:25:34+00:00"
-  },
-  "021cc547a7ee8aab63001fec2357626b210168951f0d20374ce9998fa89b5724": {
-    "url": "https://www.tehrantimes.com/news/528991/IRGC-US-has-accepted-defeat-in-Iran-war-as-Hormuz-becomes-Geography",
-    "title": "IRGC: US has accepted defeat in Iran war as Hormuz becomes \u2018Geography of Battle\u2019",
-    "published": "2026-08-09T17:12:08+00:00"
-  },
-  "b164e7cdd7e08e86bb2769d7dc2bb47660588e8b9b264bcc9f28c6634d5b953d": {
-    "url": "https://www.tehrantimes.com/news/528978/Waiting-on-the-shore-The-families-of-17-missing-fishermen-in",
-    "title": "16 Iranian fishermen missing for 3+ months, US helicopter last seen overhead",
-    "published": "2026-08-09T16:52:01+00:00"
-  },
-  "24ee6e0c01544d0bab647a0b4186d582f4554e24fff0d8c85a40297e29537ea2": {
-    "url": "boris_rozhin/221551",
-    "title": "Russian Forces Destroy Hostile Drone and Equipment in Kazachya Lopan",
-    "published": "2026-08-09T16:45:10.556938+00:00"
-  },
-  "f1106bb7bbd6cbf9cc3635def2e9d954d8d554677505ea174fe0cacf3693012a": {
-    "url": "intelslava/92345",
-    "title": "Russian Forces Destroy Ukrainian Howitzer in Zaporizhzhia Oblast",
-    "published": "2026-08-09T16:42:11.374233+00:00"
-  },
-  "4434fe010340af4f2cb69e0b292912476fa61cfd3162af642849acd9c1ee463b": {
-    "url": "presstv/202138",
-    "title": "US Embassy Warns of Aircraft Distress in Djibouti",
-    "published": "2026-08-09T16:41:30.841317+00:00"
   }
 }

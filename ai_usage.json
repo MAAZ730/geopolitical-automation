@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5791,
+  "total_calls": 5795,
   "tiers": {
-    "groq": 5772,
+    "groq": 5776,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T01:56:06.756287+00:00",
-      "tier": "groq",
-      "article": "Ukraine needs at least 12 months to start making Patriots \u2014 Zelensky"
-    },
-    {
-      "timestamp": "2026-08-09T01:56:25.907375+00:00",
-      "tier": "groq",
-      "article": "Two wounded by drone fragments in Central Russia\u2019s Lipetsk Region"
-    },
-    {
-      "timestamp": "2026-08-09T01:56:50.940611+00:00",
-      "tier": "groq",
-      "article": "Iran judiciary warns enemy crimes will be punished"
-    },
-    {
-      "timestamp": "2026-08-09T01:57:09.488736+00:00",
-      "tier": "groq",
-      "article": "Deputy health minister: Evidence points to phosphorus bombing in Lamerd"
-    },
     {
       "timestamp": "2026-08-09T03:46:11.647157+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T03:49:30.189045+00:00",
       "tier": "groq",
       "article": "Deputy Parliament speaker says Hormuz will not return to pre-war status"
+    },
+    {
+      "timestamp": "2026-08-11T05:12:42.792810+00:00",
+      "tier": "groq",
+      "article": "Fire rages after drone strikes Libya\u2019s largest oil refinery"
+    },
+    {
+      "timestamp": "2026-08-11T05:13:14.910361+00:00",
+      "tier": "groq",
+      "article": "Oil rises as Strait of Hormuz reopening remains uncertain"
+    },
+    {
+      "timestamp": "2026-08-11T05:13:34.201176+00:00",
+      "tier": "groq",
+      "article": "Huge fire breaks out at Libya\u2019s Zawiya refinery after drone attack"
+    },
+    {
+      "timestamp": "2026-08-11T05:13:50.696289+00:00",
+      "tier": "groq",
+      "article": "Iran says regional defense pact signals shift toward indigenous security"
     }
   ]
 }
