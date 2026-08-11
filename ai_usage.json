@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5819,
+  "total_calls": 5823,
   "tiers": {
-    "groq": 5800,
+    "groq": 5804,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T14:37:53.667962+00:00",
-      "tier": "groq",
-      "article": "Tucker for president? MAGA rebels declare independence from Israel"
-    },
-    {
-      "timestamp": "2026-08-09T14:38:13.257089+00:00",
-      "tier": "groq",
-      "article": "UK defense chief calls Ukraine\u2019s drone kill-points system \u2018macabre\u2019"
-    },
-    {
-      "timestamp": "2026-08-09T14:38:31.422298+00:00",
-      "tier": "groq",
-      "article": "Russian air defenses down 10 bombs, four HIMARS rockets, 970 Ukrainian drones in 24 hours"
-    },
-    {
-      "timestamp": "2026-08-09T14:38:52.562736+00:00",
-      "tier": "groq",
-      "article": "Iran not to give up on Hormuz Strait by any means"
-    },
     {
       "timestamp": "2026-08-09T16:39:12.410223+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T17:30:21.961368+00:00",
       "tier": "groq",
       "article": "US Army exploring 50mm cannon to destroy drones"
+    },
+    {
+      "timestamp": "2026-08-11T19:06:35.692121+00:00",
+      "tier": "groq",
+      "article": "Death toll in Houthi strike on Tihama rises to six"
+    },
+    {
+      "timestamp": "2026-08-11T19:07:10.320421+00:00",
+      "tier": "groq",
+      "article": "Death toll in Houthi strike on vessel rises to four"
+    },
+    {
+      "timestamp": "2026-08-11T19:07:56.154336+00:00",
+      "tier": "groq",
+      "article": "Pro-Islamic Establishment rallies in Mashhad"
+    },
+    {
+      "timestamp": "2026-08-11T19:08:16.056793+00:00",
+      "tier": "groq",
+      "article": "US military opens fire at ship trying to break through blockade on Iran \u2014 WSJ"
     }
   ]
 }
