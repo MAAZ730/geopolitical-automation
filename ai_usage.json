@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5799,
+  "total_calls": 5803,
   "tiers": {
-    "groq": 5780,
+    "groq": 5784,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T05:08:43.926587+00:00",
-      "tier": "groq",
-      "article": "Iran sets six conditions for reopening Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-08-09T05:09:22.697957+00:00",
-      "tier": "groq",
-      "article": "Spanish specialist behind disclosure of 400 spies linked to NATO, Ukrainian intelligence"
-    },
-    {
-      "timestamp": "2026-08-09T05:09:41.198046+00:00",
-      "tier": "groq",
-      "article": "Iran seeks way out of \u2018neither war nor peace\u2019 stalemate with US"
-    },
-    {
-      "timestamp": "2026-08-09T05:09:57.128038+00:00",
-      "tier": "groq",
-      "article": "Why is it high time for US to withdraw from West Asia region?"
-    },
     {
       "timestamp": "2026-08-09T07:00:56.250473+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T07:14:39.582182+00:00",
       "tier": "groq",
       "article": "The White House Is Right on AI. Now Let Defenders Use It."
+    },
+    {
+      "timestamp": "2026-08-11T09:00:34.789488+00:00",
+      "tier": "groq",
+      "article": "Lebanese Health Ministry says two people injured in Israeli strike on Nabatieh - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-11T09:01:15.136313+00:00",
+      "tier": "groq",
+      "article": "FACTBOX: One killed, fires at warehouses in Voronezh Region, 396 UAV attack aftermath"
+    },
+    {
+      "timestamp": "2026-08-11T09:02:02.380552+00:00",
+      "tier": "groq",
+      "article": "US faces $13 billion in damage from Iranian strikes \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-11T09:02:52.516767+00:00",
+      "tier": "groq",
+      "article": "Safeguarding Iran, its values is shared national responsibility: tourism minister"
     }
   ]
 }
