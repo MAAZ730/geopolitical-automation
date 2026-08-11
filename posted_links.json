@@ -1,4 +1,44 @@
 {
+  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
+    "url": "CensoredMen/239",
+    "title": "China Enforces Nighttime Swimming Ban with Drone Surveillance in Qingdao",
+    "published": "2026-08-11T02:01:17.363209+00:00"
+  },
+  "5ab8658a1e1aa0e47c8c293a6da6b65cc2ec5e863f42b1a106c7e7a9f3d61e54": {
+    "url": "DDGeopolitics/191027",
+    "title": "Russian Zircon Missiles Strike Targets in Kiev",
+    "published": "2026-08-11T02:00:26.166335+00:00"
+  },
+  "e408bc3be3d6765511377ea13079d9ce5e0846c283cd8b1bb6220acd397c7211": {
+    "url": "QudsNen/234855",
+    "title": "Israel Detains Bodies of 1,700 Palestinians Amid Criticism of Collective Punishment",
+    "published": "2026-08-11T02:00:04.828958+00:00"
+  },
+  "9d60565862b5c5651525861475a8d70a6858daa5d2007135990e13a9b425c3a5": {
+    "url": "QudsNen/234857",
+    "title": "Netanyahu Unveils AI Ambitions Amid Gaza Criticism",
+    "published": "2026-08-11T02:00:03.334968+00:00"
+  },
+  "ca4c2c3e8eca1a126fa7fa2de2f75de401edb74ad53adce0e8738b5444e25965": {
+    "url": "Middle_East_Spectator/35835",
+    "title": "Libya Oil Storage Facilities Hit in Drone Strike",
+    "published": "2026-08-11T01:59:59.198679+00:00"
+  },
+  "079f3915b29200d0f6236b0541b9f9f52417272175deb00f7b578d06fb3fe9e4": {
+    "url": "Middle_East_Spectator/35836",
+    "title": "Yemeni Forces Launch Multiple Attacks on Saudi-Backed Forces",
+    "published": "2026-08-11T01:58:42.261798+00:00"
+  },
+  "0cf764d75c0264610ca201bc7ef979063ff16c094747ba6c8b18c32ade7c5c8f": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
+    "title": "Inside a secret launch site for Ukraine\u2019s deep-strike drones",
+    "published": "2026-08-10T23:18:53+00:00"
+  },
+  "ad2ea39635d86776324e4209e6b1a5767dd24fdfb06e3ed4a8bfb3e16facb20c": {
+    "url": "https://tass.com/defense/2171155",
+    "title": "Kiev troops bombard Donetsk People\u2019s Republic 27 times over past day",
+    "published": "2026-08-10T23:17:16+00:00"
+  },
   "da259becf13ba1a97fa3d8f3487e32e003170abfddfeb72903565c00409a728a": {
     "url": "presstv/202278",
     "title": "Explosions Rock Libya's Zawiya Refinery",
@@ -234,6 +274,11 @@
     "title": "Iranian missiles have ability to change trajectory after launch \u2014 IRGC",
     "published": "2026-08-10T13:08:54+00:00"
   },
+  "949d9361703f8c3c2d776258ee751ce6e705aa88fe17bd2862219749ccfb993c": {
+    "url": "https://en.mehrnews.com/news/246879/S-Korea-US-troops-to-begin-annual-drill-next-week",
+    "title": "S Korea, US troops to begin annual drill next week",
+    "published": "2026-08-10T12:53:01+00:00"
+  },
   "7c19cb5f5eeabc400ddfaf2ab77d70de9bcc62b18cd6ad77697015b78cd1d467": {
     "url": "https://www.aljazeera.com/news/2026/8/10/has-the-sudanese-army-turned-the-page-on-control-of-western-sudan?traffic_source=rss",
     "title": "Has the army turned the page on control of western Sudan?",
@@ -298,6 +343,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss",
     "title": "What\u2019s behind Trump\u2019s shift to economic pressure on Iran? Will it work?",
     "published": "2026-08-10T11:11:33+00:00"
+  },
+  "4ca5702139b50f176fb7bf2d0b5c0abac00626eed0e3f7323a2badf3901a8be4": {
+    "url": "https://en.irna.ir/news/86232385/Baqaei-dismisses-Netanyahu-s-claim-on-Iran-s-nuclear-program",
+    "title": "Baqaei dismisses Netanyahu\u2019s claim on Iran\u2019s nuclear program as fabrication",
+    "published": "2026-08-10T11:11:22+00:00"
   },
   "c06412d6d3c611249008781687db607f02ef1d5c1c474ac70d3c7ed60525f347": {
     "url": "https://tass.com/politics/2170905",
@@ -698,55 +748,5 @@
     "url": "mod_russia_en/28779",
     "title": "Ukraine Oil Infrastructure Hit in Drone Strike",
     "published": "2026-08-09T14:41:13.600643+00:00"
-  },
-  "477baaac3d6580685386b50630e77bff9369a05b00168f5789c4b061ac26d16e": {
-    "url": "Slavyangrad/172690",
-    "title": "Houthi Rebels Launch Missile and Drone Strike on Yemen's Mokha Port",
-    "published": "2026-08-09T14:39:55.924603+00:00"
-  },
-  "8de0406b065210b08bebbe939a5c4a02e2e8ede0c6a3c3c47fad58e28583ddb4": {
-    "url": "Slavyangrad/172693",
-    "title": "Kiev Supermarkets Reel from Russian Airstrikes, Food Shortages Worsen",
-    "published": "2026-08-09T14:39:26.458736+00:00"
-  },
-  "f1e84675c0197911d1dcbea7084aa09eb8e4feae5ac34c756e0587abeee03ee9": {
-    "url": "thecradlemedia/65874",
-    "title": "Israel Rejects Gaza Withdrawal Proposal Amid Ongoing Occupation",
-    "published": "2026-08-09T14:39:03.506119+00:00"
-  },
-  "7c6cd8cad66623bec69cd8bfe672bd564e67e56b0f2de21c69d2e2c6099fa0f9": {
-    "url": "thecradlemedia/65875",
-    "title": "Yemeni Forces Strike Saudi Aramco Site in Jizan",
-    "published": "2026-08-09T14:39:02.259742+00:00"
-  },
-  "2f954fbbd8cb3970b2f09518dafc56b618727c568092557a175f39df6c02a581": {
-    "url": "https://en.mehrnews.com/news/246857/Iran-not-to-give-up-on-Hormuz-Strait-Ayt-Larijani",
-    "title": "Iran not to give up on Hormuz Strait by any means",
-    "published": "2026-08-09T14:23:09+00:00"
-  },
-  "e7f193c6865d531f3c32ecf36fe4e9e566f97eaaf44ce0a325402814971491a3": {
-    "url": "https://www.rt.com/news/644033-kim-dotcom-ai-us-surveillance/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Kim Dotcom warns AI could supercharge US surveillance",
-    "published": "2026-08-09T14:19:04+00:00"
-  },
-  "ffc7bb2ec6c3e3312d6637c2ae6f685282914915229edc0616400a41fe3ab052": {
-    "url": "https://tass.com/world/2170705",
-    "title": "Israel remains in buffer zone in Lebanon as it failed to disarm Hezbollah \u2014 adviser",
-    "published": "2026-08-09T14:05:00+00:00"
-  },
-  "d048dc3c93719655eff229090e4c9d5ead6bc37ae7a60db5170fd9242ad45b4e": {
-    "url": "https://tass.com/world/2170699",
-    "title": "Israel insists on implementing 5 principles of ending war in Gaza \u2014 adviser",
-    "published": "2026-08-09T13:37:16+00:00"
-  },
-  "06d41b718786da4c38d923c73aa9595dd5946f9b15a7fec676e9caa33de9e056": {
-    "url": "boris_rozhin/221534",
-    "title": "Ukrainian Forces Secure Villages, Enemy Soldier Killed in Attempt to Evade Detection",
-    "published": "2026-08-09T13:04:29.324720+00:00"
-  },
-  "d17f040856c4eca74ec1889a4f09523cd99a85cd54b127ec5e69729a17351584": {
-    "url": "intelslava/92329",
-    "title": "Houthi Rebels Strike Military Shipment at Yemen's Mukha Port",
-    "published": "2026-08-09T13:02:53.845535+00:00"
   }
 }
