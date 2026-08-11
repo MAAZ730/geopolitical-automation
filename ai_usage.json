@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5803,
+  "total_calls": 5807,
   "tiers": {
-    "groq": 5784,
+    "groq": 5788,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T07:00:56.250473+00:00",
-      "tier": "groq",
-      "article": "Russian troops strike Ukrainian UAV, radio-electronic equipment depots in Kharkov Region"
-    },
-    {
-      "timestamp": "2026-08-09T07:01:32.264773+00:00",
-      "tier": "groq",
-      "article": "Iran war leaves US allies in Asia less defended \u2013 NYT"
-    },
-    {
-      "timestamp": "2026-08-09T07:02:18.618098+00:00",
-      "tier": "groq",
-      "article": "Yemen hits Saudi Arabia's Aramco refinery with drone"
-    },
-    {
-      "timestamp": "2026-08-09T07:02:37.409848+00:00",
-      "tier": "groq",
-      "article": "Ghalibaf praises journalists as defenders of natl. identity"
-    },
     {
       "timestamp": "2026-08-09T08:46:45.527606+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T09:02:52.516767+00:00",
       "tier": "groq",
       "article": "Safeguarding Iran, its values is shared national responsibility: tourism minister"
+    },
+    {
+      "timestamp": "2026-08-11T10:53:04.788169+00:00",
+      "tier": "groq",
+      "article": "Missile strike kills three crewmembers aboard commercial ship in Bab al-Mandab"
+    },
+    {
+      "timestamp": "2026-08-11T10:53:40.157327+00:00",
+      "tier": "groq",
+      "article": "Ukrainian strikes kill 43 civilians, including four children, over past week \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-08-11T10:54:32.177031+00:00",
+      "tier": "groq",
+      "article": "Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective"
+    },
+    {
+      "timestamp": "2026-08-11T10:54:48.025912+00:00",
+      "tier": "groq",
+      "article": "Chisinau bolsters cooperation with Kiev \u2014 senior Russian diplomat"
     }
   ]
 }

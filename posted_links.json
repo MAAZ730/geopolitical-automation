@@ -1,4 +1,39 @@
 {
+  "e7a5da16f0725c6dec320838dd288b3932929a832fe37961c8bad1cd412929d5": {
+    "url": "DDGeopolitics/191035",
+    "title": "Trump Disputes Depletion of US Ammunition Stocks Amid Ukraine Arms Transfers",
+    "published": "2026-08-11T11:01:59.260577+00:00"
+  },
+  "e0ddd3e9c3367f269805dec5261ca204fb670c1cb5af9a8da5b8f93fa2df12cf": {
+    "url": "DDGeopolitics/191040",
+    "title": "Russian Forces Secure Control of Novoye Pole in Zaporozhye Region",
+    "published": "2026-08-11T10:59:58.063968+00:00"
+  },
+  "a4423338b7d0d46f2455b9ca6a2e7e43526e24c2effc24125af3126bfb22de3c": {
+    "url": "DDGeopolitics/191041",
+    "title": "Drone Strike Hits Libya's Zawiya Oil Refinery",
+    "published": "2026-08-11T10:58:11.366142+00:00"
+  },
+  "1c2aa348fdf75db951090248b90eb5fabee58af38cece1b9603cd8c0eafcb08f": {
+    "url": "thecradlemedia/65965",
+    "title": "Syrian Authorities Impose Curfew in Ain al-Arab Following Government Facility Attacks",
+    "published": "2026-08-11T10:55:39.633778+00:00"
+  },
+  "3217a421a2dbff0d56f34e3e6e6075665bd4e4c0293e0b3be6dd7ddd86d27d34": {
+    "url": "thecradlemedia/65970",
+    "title": "Lebanese President Aoun Calls for Peace and Reconstruction Amid Ongoing Negotiations with Israel",
+    "published": "2026-08-11T10:54:56.599054+00:00"
+  },
+  "3a5289fbcd570055f2ee129ad948e9bf54597b3c81f45c5f1276f4a78148fc0f": {
+    "url": "thecradlemedia/65972",
+    "title": "Missile Strike Hits Commercial Ship in Bab al-Mandab Strait",
+    "published": "2026-08-11T10:54:54.928561+00:00"
+  },
+  "802382325bb0c907b7aa7ce9eb1f4dc170890e022dbb6a8a2fa5ad0a6bd351f0": {
+    "url": "https://thecradle.co/articles-id/39316",
+    "title": "Missile strike kills three crewmembers aboard commercial ship in Bab al-Mandab",
+    "published": "2026-08-11T10:43:31+00:00"
+  },
   "3263ca6c9277352842841d4c9435cd12d29ebf822d5e872d136b3389afe680bd": {
     "url": "presstv/202343",
     "title": "Escalating Violence in Gaza: UN Condemns Israeli Military Actions",
@@ -29,6 +64,11 @@
     "title": "Gulf Stocks Fall Amid Weakening US-Iran Deal Hopes",
     "published": "2026-08-11T09:02:57.412384+00:00"
   },
+  "173903ce0e15d049508be0cb1aa5ded8d3b84f533cc5ab6c1bf289e4427746df": {
+    "url": "https://tass.com/politics/2171261",
+    "title": "Ukrainian strikes kill 43 civilians, including four children, over past week \u2014 diplomat",
+    "published": "2026-08-11T08:58:19+00:00"
+  },
   "04d42a18253091547bbf01fd50d178c0e642d5cc240217d78c28eb49170c9ab0": {
     "url": "https://english.almanar.com.lb/article/114612/",
     "title": "Lebanese Health Ministry says two people injured in Israeli strike on Nabatieh - Al-Manar TV Lebanon",
@@ -43,6 +83,11 @@
     "url": "https://tass.com/emergencies/2171231",
     "title": "FACTBOX: One killed, fires at warehouses in Voronezh Region, 396 UAV attack aftermath",
     "published": "2026-08-11T07:46:46+00:00"
+  },
+  "b1fcef5d3a6769e954a1a8e1808693130c7f1491ba0add69dcaa4e1d1572f3ca": {
+    "url": "https://warontherocks.com/putting-armageddon-on-autopilot-how-artificial-intelligence-could-make-nuclear-threats-more-effective/",
+    "title": "Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective",
+    "published": "2026-08-11T07:30:08+00:00"
   },
   "483dba88d0b9fec593a8d417ed2e9744bf620f22e4f55f0cc46bb9cb2de75c5f": {
     "url": "Slavyangrad/172884",
@@ -399,6 +444,11 @@
     "title": "IRGC Spokesman: Our Missiles Can Change Course to Counter Enemy Air Defense Systems - Al-Manar TV Lebanon",
     "published": "2026-08-10T14:52:46+00:00"
   },
+  "2495ee14fdd675060519307e077b1c3523e7863bfacd3b4b53b8f34400a73fcd": {
+    "url": "https://tass.com/politics/2171009",
+    "title": "Chisinau bolsters cooperation with Kiev \u2014 senior Russian diplomat",
+    "published": "2026-08-10T14:30:04+00:00"
+  },
   "5aadc913e5ba7b3eacfd9213be0578974f9640b5791dca261fa9ea18176c64c7": {
     "url": "https://tass.com/politics/2170999",
     "title": "Russia says world bodies\u2019 silence on Kiev attacks on its cities to be seen as complicity",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
     "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
     "published": "2026-08-10T02:48:51+00:00"
-  },
-  "533c977300925893658c3f12ed3b9f63658b80c1ee27871a86f4a321be7666eb": {
-    "url": "Slavyangrad/172739",
-    "title": "Israeli Forces Deploy Stun Grenade in Palestinian Family Vehicle",
-    "published": "2026-08-10T02:06:42.640700+00:00"
-  },
-  "c163a0919477521f465582537e0e4c064f90cf0956763f7d2db825cd25a7df90": {
-    "url": "intelslava/92356",
-    "title": "IRGC Navy Fires Anti-Ship Cruise Missiles on Blockade-Breaching Vessel off Oman",
-    "published": "2026-08-10T02:04:54.007298+00:00"
-  },
-  "4f58fb8d2bfe72e7ee810c2412e89d7ef74540a531fc1e2806f1dff325070a1a": {
-    "url": "DDGeopolitics/190960",
-    "title": "Iranian Air Defenses Down Unidentified Drone Near Strait of Hormuz",
-    "published": "2026-08-10T02:04:18.750516+00:00"
-  },
-  "6cc25eb3b68531481d89c79f41024bafea828d9f30bdef11d2ce71b8b5ce37db": {
-    "url": "QudsNen/234723",
-    "title": "Israeli Artillery Strikes Al-Deir Neighborhood in Nabatieh al-Fawqa",
-    "published": "2026-08-10T02:03:54.041868+00:00"
-  },
-  "8887c02fea824f560c4252d97baffe742dc902874a65be204cde36b6fe11aa20": {
-    "url": "QudsNen/234739",
-    "title": "Israeli Occupation Forces Shell Ali al-Taher Hill in Southern Lebanon",
-    "published": "2026-08-10T02:03:52.926180+00:00"
-  },
-  "8b1999abb9d79f38a0797c8db0868e0caec436756a393c3c8e907cd9b412f8d4": {
-    "url": "QudsNen/234741",
-    "title": "Israeli Forces Storm Hebron Refugee Camp, Detain Palestinian",
-    "published": "2026-08-10T02:03:01.892244+00:00"
-  },
-  "d7783249c9686acb4dea4f3ecb1ecb9c7e67fc75bdb0795ea21e40d961b9a828": {
-    "url": "https://tass.com/world/2170759",
-    "title": "Israel works with Board of Peace despite rejecting its Gaza plan \u2014 newspaper",
-    "published": "2026-08-10T00:05:00+00:00"
-  },
-  "4500c9cfd812ff4f4f64fc56152745ad30d10e7c36ff95ffc3cb950a302ac2bf": {
-    "url": "https://www.rt.com/news/644046-yemen-strikes-saudi-mokha/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Yemen\u2019s Houthis unleash missile barrage on Saudi-backed troops (VIDEOS)",
-    "published": "2026-08-09T23:52:15+00:00"
-  },
-  "11f9b9dd02f38def953ee75f8f9b9ddc1a7848119b006898bc413d791a249a0b": {
-    "url": "BellumActaNews/176292",
-    "title": "IRGC Launches Anti-Ship Missiles in Strait of Hormuz",
-    "published": "2026-08-09T22:38:49.201270+00:00"
-  },
-  "3b6317cab7940decbcb1e374745daafc7248fcd30cb4171b9d0da296ee9a8a00": {
-    "url": "DDGeopolitics/190958",
-    "title": "Vessel Ablaze Off Oman Coast Amid Reports of IRGC Strike",
-    "published": "2026-08-09T22:38:14.734381+00:00"
   }
 }
