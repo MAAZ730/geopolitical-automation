@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5823,
+  "total_calls": 5827,
   "tiers": {
-    "groq": 5804,
+    "groq": 5808,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T16:39:12.410223+00:00",
-      "tier": "groq",
-      "article": "Hormuz reopening depends on US, Iran says"
-    },
-    {
-      "timestamp": "2026-08-09T16:39:47.874767+00:00",
-      "tier": "groq",
-      "article": "Media a pillar of national power and deterrence: Acting defense minister"
-    },
-    {
-      "timestamp": "2026-08-09T16:40:04.926572+00:00",
-      "tier": "groq",
-      "article": "Pentagon pushes arms makers to boost output as Iran war drains stocks \u2013 WaPo"
-    },
-    {
-      "timestamp": "2026-08-09T16:40:46.775789+00:00",
-      "tier": "groq",
-      "article": "War on Iran: Phase II: Day 29"
-    },
     {
       "timestamp": "2026-08-09T18:45:35.253486+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T19:08:16.056793+00:00",
       "tier": "groq",
       "article": "US military opens fire at ship trying to break through blockade on Iran \u2014 WSJ"
+    },
+    {
+      "timestamp": "2026-08-11T20:49:46.004918+00:00",
+      "tier": "groq",
+      "article": "Houthis say they attacked Saudi forces\u2019 positions in Yemen"
+    },
+    {
+      "timestamp": "2026-08-11T20:50:23.784885+00:00",
+      "tier": "groq",
+      "article": "Houthis reportedly kill six in first deadly attack since start of Iran war"
+    },
+    {
+      "timestamp": "2026-08-11T20:51:10.880875+00:00",
+      "tier": "groq",
+      "article": "Yemeni Armed Forces Successfully Target Pro-Saudi Militias in Marib: Spokesperson - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-11T20:52:02.450492+00:00",
+      "tier": "groq",
+      "article": "Private sector can be a pillar of sustainability for any potential agreement: ICCIMA head"
     }
   ]
 }
