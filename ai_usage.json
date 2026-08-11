@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5815,
+  "total_calls": 5819,
   "tiers": {
-    "groq": 5796,
+    "groq": 5800,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T12:56:51.868967+00:00",
-      "tier": "groq",
-      "article": "Houthis report striking military warehouses in Yemen\u2019s Mokha with missiles, UAVs"
-    },
-    {
-      "timestamp": "2026-08-09T12:57:27.088076+00:00",
-      "tier": "groq",
-      "article": "Agreement with Oman does not mean reopening Hormuz Strait"
-    },
-    {
-      "timestamp": "2026-08-09T12:58:13.169235+00:00",
-      "tier": "groq",
-      "article": "Yemeni army warns Houthis after attacks heighten escalation risk"
-    },
-    {
-      "timestamp": "2026-08-09T12:59:00.099969+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Army Force fully prepared to counter any ground threat"
-    },
     {
       "timestamp": "2026-08-09T14:37:53.667962+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T15:03:05.133195+00:00",
       "tier": "groq",
       "article": "Iran is not Venezuela: Hormuz Strait and limits of US power"
+    },
+    {
+      "timestamp": "2026-08-11T17:29:18.994258+00:00",
+      "tier": "groq",
+      "article": "Russian strikes destroy 80,000-100,000 sq m of refrigerated warehouses near Kiev \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-11T17:29:37.634176+00:00",
+      "tier": "groq",
+      "article": "Lockheed Martin launches modular missile tech with dedicated \u2018storefront\u2019"
+    },
+    {
+      "timestamp": "2026-08-11T17:30:04.240457+00:00",
+      "tier": "groq",
+      "article": "Palestinian officials report over 5,400 casualties in Gaza since start of US-backed &#039;ceasefire&#039;"
+    },
+    {
+      "timestamp": "2026-08-11T17:30:21.961368+00:00",
+      "tier": "groq",
+      "article": "US Army exploring 50mm cannon to destroy drones"
     }
   ]
 }

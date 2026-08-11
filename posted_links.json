@@ -1,4 +1,34 @@
 {
+  "e6c6eff967423377647ba36f60b7330c3d03c2244b6b82c5124c83992fcc131a": {
+    "url": "intelslava/92421",
+    "title": "Russia Deploys Electronic Warfare on Geran Drones to Counter Ukraine's FPV Interceptors",
+    "published": "2026-08-11T17:32:56.477857+00:00"
+  },
+  "932c14a51db9924e433aec4c123d52fdc7e4daf3e065de310feffe5c5ce21abb": {
+    "url": "BellumActaNews/176359",
+    "title": "Russia's Supreme Court Bans Opposition Yabloko Party from State Duma Elections",
+    "published": "2026-08-11T17:32:27.661928+00:00"
+  },
+  "c73decce02508c2645f05fdd3118d411306a8bfeea7fa4ea4a631133de64557d": {
+    "url": "QudsNen/234937",
+    "title": "Israeli Artillery Strikes Kafr Roumman in Southern Lebanon",
+    "published": "2026-08-11T17:31:44.506963+00:00"
+  },
+  "9d74bce0860165960c7302ca8294092438bd20c1efdaf7239ad2f7a5bc30e237": {
+    "url": "thecradlemedia/65993",
+    "title": "IRGC Quds Force Chief in Baghdad for High-Level Talks Amid US Disarmament Push",
+    "published": "2026-08-11T17:31:17.248508+00:00"
+  },
+  "a4527c73a271803eaa6002fccb37e37c5639383cb846c5e0e705f5ab8215e78d": {
+    "url": "thecradlemedia/66005",
+    "title": "Israeli Artillery Strikes Kfar Rumman in South Lebanon",
+    "published": "2026-08-11T17:31:16.384052+00:00"
+  },
+  "ded9220547e64982ec14dcaa1b3639e0d37b8e88d420503c8cae73e6d99e0d8e": {
+    "url": "thecradlemedia/66008",
+    "title": "EU Rushes to Supply Ukraine with Missile Defenses Amid Low Stockpiles",
+    "published": "2026-08-11T17:30:26.597814+00:00"
+  },
   "daf791cde32b702a553ee3f5cda95462bb769d5d44e61fe9ca0d42f671903d4c": {
     "url": "intelslava/92429",
     "title": "Independent Network Aims to Provide Unbiased Coverage of Global Conflicts",
@@ -8,6 +38,11 @@
     "url": "presstv/202374",
     "title": "Iran Displays Military Strength and Diplomatic Restraint Amid Regional Tensions",
     "published": "2026-08-11T15:12:29.739532+00:00"
+  },
+  "c3934daf27605d5b3b1e3adb2705126dfb846f5afb2ebdca85b3752e38f7b44b": {
+    "url": "https://tass.com/world/2171493",
+    "title": "Russian strikes destroy 80,000-100,000 sq m of refrigerated warehouses near Kiev \u2014 expert",
+    "published": "2026-08-11T15:12:06+00:00"
   },
   "8c3c67b9b559cbc2a60fa05a5ca7b19779328f66f240f4c282c3342f28ffafac": {
     "url": "DDGeopolitics/191060",
@@ -28,6 +63,16 @@
     "url": "thecradlemedia/66004",
     "title": "Israel's Secret Visits to Iran's Fordo Nuclear Enrichment Facility Exposed",
     "published": "2026-08-11T15:03:09.756029+00:00"
+  },
+  "d5cce712c2a58400b186ca27ac2e803c7c0c50c5e0c5dc61639ab6898bc46172": {
+    "url": "https://www.defensenews.com/news/your-military/2026/08/11/lockheed-martin-launches-modular-missile-tech-with-dedicated-storefront/",
+    "title": "Lockheed Martin launches modular missile tech with dedicated \u2018storefront\u2019",
+    "published": "2026-08-11T14:38:29+00:00"
+  },
+  "2e0a556477f0f93188228d9842c7b6b3f1371f38197a4ae2baa26c9309e54dcd": {
+    "url": "https://thecradle.co/articles-id/39321",
+    "title": "Palestinian officials report over 5,400 casualties in Gaza since start of US-backed &#039;ceasefire&#039;",
+    "published": "2026-08-11T14:05:00+00:00"
   },
   "cae82dde70945aa5fda0acb1f30ff064e690e0815eea5d1d30a77012d576e9f6": {
     "url": "https://tass.com/world/2171465",
@@ -459,6 +504,11 @@
     "title": "Iran says regional defense pact signals shift toward indigenous security",
     "published": "2026-08-10T18:13:22+00:00"
   },
+  "06d8169e30ceaf592d84528602208b538ff1171374d5e5d56c8d742a0ba0b5e8": {
+    "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
+    "title": "US Army exploring 50mm cannon to destroy drones",
+    "published": "2026-08-10T18:10:52+00:00"
+  },
   "ba3ab1d3fffbc65bcf017ae2acec3bd97cdf24363ed38d0dbf0619976cfddf26": {
     "url": "DDGeopolitics/190986",
     "title": "Vu\u010di\u0107 Calls for Shift in Western Rhetoric on Ukraine Conflict",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/politics/2170905",
     "title": "Ukrainian forces attacked Belgorod Region more than 110 times in 24 hours",
     "published": "2026-08-10T10:36:14+00:00"
-  },
-  "3f590c04914c54e4b1a68b5742af071dc4d1e14252fdc7418babf1b0451ae013": {
-    "url": "https://tass.com/emergencies/2170889",
-    "title": "Number of people injured in drone attack on Nizhnekamsk climbs to 48",
-    "published": "2026-08-10T10:07:38+00:00"
-  },
-  "fed1c09e0f46e4843c16cc6cd30d9693480e6a388ad626aa1f6d9dd91e732c26": {
-    "url": "QudsNen/234756",
-    "title": "Israeli Settlers Attack Bedouin Community in West Bank",
-    "published": "2026-08-10T09:32:20.974845+00:00"
-  },
-  "2454a408697d30cfd5323573d0ce945e77a139d4c00b0e920225f97eb6ded994": {
-    "url": "https://tass.com/emergencies/2170873",
-    "title": "IN BRIEF: Drone attack on Nizhnekamsk kills thirteen people killed, including child",
-    "published": "2026-08-10T09:32:13+00:00"
-  },
-  "36bd042e1a9043252dbfbeae790e0bf6bd0101c9d7f000c4c168d4b71ed37a32": {
-    "url": "QudsNen/234763",
-    "title": "Israel Kills Palestinian Journalist Anas Al-Sharif in Gaza City Strike",
-    "published": "2026-08-10T09:31:31.831542+00:00"
-  },
-  "3f0e7f2e92b91bdbe436158394ef7fc7b3fcba33c0aa942d6b1cc35e33491d76": {
-    "url": "thecradlemedia/65879",
-    "title": "Israeli Military Operations in Southern Lebanon",
-    "published": "2026-08-10T09:29:55.919790+00:00"
-  },
-  "3e5e118f4dabdae185f4c4b5fe519dbee6bc3fc78187c7791cf5fdc02158c808": {
-    "url": "thecradlemedia/65886",
-    "title": "Netanyahu Signals Private Support for US Gaza Disarmament Plan",
-    "published": "2026-08-10T09:29:30.844802+00:00"
-  },
-  "285868e97e85a86f60898f7f4a143e9c1b87287831da10f0e9ddd4a1d067d452": {
-    "url": "thecradlemedia/65887",
-    "title": "Settlers Assault Residents in Al-Kaabneh Community",
-    "published": "2026-08-10T09:29:29.802938+00:00"
-  },
-  "3b1be3408f3f114b62f29862fa4b2e72a78aa2465d27ee37dd56293d323f0856": {
-    "url": "thecradlemedia/65888",
-    "title": "Israeli Forces Target Palestinian Journalists in July",
-    "published": "2026-08-10T09:28:41.556135+00:00"
-  },
-  "466b29038e5dd333cc17c83c1579865f49297de815f9bc8785a72df539aa1067": {
-    "url": "https://en.mehrnews.com/news/246871/Iran-asks-reg-states-to-bolster-own-security-sans-foreigners",
-    "title": "Israel \"greatest threat to regional security\": Iran FM spox",
-    "published": "2026-08-10T08:45:35+00:00"
-  },
-  "9ce0f93c0cd2c10e1c73412c0ef53ee2c6945554b1cfd7e915f335c4ef850359": {
-    "url": "https://tass.com/emergencies/2170843",
-    "title": "Tatarstan residents killed as result of drone attack on civilian facilities \u2014 region head",
-    "published": "2026-08-10T08:33:20+00:00"
   }
 }
