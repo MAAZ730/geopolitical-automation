@@ -1,4 +1,49 @@
 {
+  "3c9f671fc3ac71b636ffa454d48a5e2c705f7925b687da636c5f5ca5ccee2a65": {
+    "url": "presstv/202358",
+    "title": "US Republican Candidate Confronts Former Israeli Commander Over Gaza Bombings",
+    "published": "2026-08-11T13:25:23.168880+00:00"
+  },
+  "53c0368e18f54559fc0d6073bd836ff4efca8e198af99a25db4f7fadf5d5bf85": {
+    "url": "DDGeopolitics/191050",
+    "title": "Russia Conducts Precision Strikes Against Ukrainian Military Facilities",
+    "published": "2026-08-11T13:19:09.910707+00:00"
+  },
+  "4c1312123c132c84cf9ba2dd800706ac5af83ac29475f4e73a3b309e4eeb6d98": {
+    "url": "DDGeopolitics/191055",
+    "title": "Trump Golfing Under Missile Shield at Bedminster Club",
+    "published": "2026-08-11T13:18:11.420755+00:00"
+  },
+  "29da521d101ceda2665d9ec5013d2819ceee025dd6dfc12b7e3e2748ee8b59b2": {
+    "url": "thecradlemedia/65976",
+    "title": "Drone Strike Hits Libya's Zawiya Oil Refinery",
+    "published": "2026-08-11T13:16:32.802382+00:00"
+  },
+  "e8531e0a72a5b91134fabb2052e78e8250c1e7b4688af69ea0a9680cf8dcf344": {
+    "url": "thecradlemedia/65990",
+    "title": "Israeli Artillery Strikes Mansouri in Southern Lebanon",
+    "published": "2026-08-11T13:13:58.315448+00:00"
+  },
+  "e442dcb0feddc039aaa21e450fc8804d5b5500ba5f5d14213f6ba24b74c5e525": {
+    "url": "thecradlemedia/65992",
+    "title": "Syria and Russia Agree on Future of Moscow's Military Bases",
+    "published": "2026-08-11T13:13:49.426121+00:00"
+  },
+  "a5069bf4da2a45af7fa41f9765cf56fe187a33ec6ba4d437fcf784ba352eca23": {
+    "url": "https://tass.com/world/2171373",
+    "title": "Container ship likely hit by missile in Gulf of Oman \u2014 news agency",
+    "published": "2026-08-11T11:07:24+00:00"
+  },
+  "01489e01e386ab2ab344d2632161bf9feb3ebb2f56296925c7837886a28712f9": {
+    "url": "https://tass.com/world/2171361",
+    "title": "Western defense industry moving toward decentralization, clustering to cut costs \u2014 expert",
+    "published": "2026-08-11T11:06:26+00:00"
+  },
+  "1ae807b291338cfa934d4889a62570a4dd5eadbd565acc045816b588f36c46c2": {
+    "url": "https://english.almanar.com.lb/article/114692/",
+    "title": "Children Among Six Wounded in West Bank Raid as Settler Attacks Surge 63% - Al-Manar TV Lebanon",
+    "published": "2026-08-11T11:03:09+00:00"
+  },
   "e7a5da16f0725c6dec320838dd288b3932929a832fe37961c8bad1cd412929d5": {
     "url": "DDGeopolitics/191035",
     "title": "Trump Disputes Depletion of US Ammunition Stocks Amid Ukraine Arms Transfers",
@@ -439,6 +484,11 @@
     "title": "Greek Residents Protest Israeli Cruise Tourists in Coastal Areas",
     "published": "2026-08-10T15:04:18.262214+00:00"
   },
+  "1a4165a50b34c9bdd99f5d1d3a68d4fe50a4670112fbadb68effde806e51a607": {
+    "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
+    "title": "US Navy tests AI-powered submarine hunter",
+    "published": "2026-08-10T15:01:39+00:00"
+  },
   "6dd53322148a066928ab3d1d47e16e4d6f49c5aecd5237cc9808ae34956d6a0f": {
     "url": "https://english.almanar.com.lb/article/114432/",
     "title": "IRGC Spokesman: Our Missiles Can Change Course to Counter Enemy Air Defense Systems - Al-Manar TV Lebanon",
@@ -698,55 +748,5 @@
     "url": "https://warontherocks.com/why-military-cooperation-in-the-indian-ocean-still-falls-short/",
     "title": "Why Military Cooperation in the Indian Ocean Still Falls Short",
     "published": "2026-08-10T07:30:32+00:00"
-  },
-  "6c572845ee38e6614a0bcebeba3a89a5809ff54bffef0e6ad4a13d2d2a0fc050": {
-    "url": "https://en.mehrnews.com/news/246866/Oil-rises-as-Strait-of-Hormuz-reopening-remains-uncertain",
-    "title": "Oil rises as Strait of Hormuz reopening remains uncertain",
-    "published": "2026-08-10T05:14:50+00:00"
-  },
-  "3504e162f9e32157b656072fdc8631b56e662e2169b1d4109c49b00029d54f83": {
-    "url": "https://en.mehrnews.com/news/246864/Casualties-reported-as-Yemen-targets-Saudi-coalition-sites",
-    "title": "Casualties reported as Yemen targets Saudi coalition sites",
-    "published": "2026-08-10T04:12:25+00:00"
-  },
-  "495c25f38856733e6cf5f5222c814cd074b2c423cd4e11b0217deaa611720e34": {
-    "url": "CyberspecNews/113998",
-    "title": "Iran Shoots Down US Reconnaissance Drone",
-    "published": "2026-08-10T04:10:05.152987+00:00"
-  },
-  "f4f23c09a32972cbb34844e247f8d930d2e38a7d869feecd8d10aee0b8a1259b": {
-    "url": "intelslava/92359",
-    "title": "Iran Retrieves Remains of Downed Unidentified Drone",
-    "published": "2026-08-10T04:09:32.360365+00:00"
-  },
-  "c002f8b1b1c07887f2f029257dd3dede5d40497d68fb75db840da2af53657c47": {
-    "url": "BellumActaNews/176300",
-    "title": "Saudi Drone Downed by Iranian Air Defenses in Hormozgan Province",
-    "published": "2026-08-10T04:09:02.932170+00:00"
-  },
-  "13b672ce766643690ee1d1b6055df6ad4e50ed1fe81eb8d6e6d676be7776136c": {
-    "url": "DDGeopolitics/190948",
-    "title": "US Faces Critical Shortage of High-Purity Aluminum for Defense Manufacturing",
-    "published": "2026-08-10T04:08:36.224355+00:00"
-  },
-  "377382da61d38dab1f18df93406d36205c44bc72f9572872eb4c7b17f258736c": {
-    "url": "DDGeopolitics/190949",
-    "title": "Yemen Conflict Escalates as Country Confronts Israel and US",
-    "published": "2026-08-10T04:08:34.595130+00:00"
-  },
-  "a6ea84cfaa912991e46387157700ff9915273d935e8333a175ebb53b5de8f861": {
-    "url": "Middle_East_Spectator/35813",
-    "title": "Syrian Shia Faction Attacks Israeli Outpost in Daraa Province",
-    "published": "2026-08-10T04:08:27.637228+00:00"
-  },
-  "0eb21c54576ab120d30de8f265deb0b1efa65cdcb1ff03c96da4c6c7abe32dfe": {
-    "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
-    "title": "US president says he is using economic pressure, not strikes, on Iran",
-    "published": "2026-08-10T03:48:19+00:00"
-  },
-  "6599e44fc10b3444ce187e193a17cb7c3fac0bf1ed1866d899ab84781142f293": {
-    "url": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
-    "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
-    "published": "2026-08-10T02:48:51+00:00"
   }
 }

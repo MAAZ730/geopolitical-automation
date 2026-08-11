@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5807,
+  "total_calls": 5811,
   "tiers": {
-    "groq": 5788,
+    "groq": 5792,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T08:46:45.527606+00:00",
-      "tier": "groq",
-      "article": "Three killed, 25 injured in overnight Ukrainian drone attack on Belgorod"
-    },
-    {
-      "timestamp": "2026-08-09T08:47:19.513695+00:00",
-      "tier": "groq",
-      "article": "Iraqi Resistance group promises revenge for US-Saudi strikes"
-    },
-    {
-      "timestamp": "2026-08-09T08:47:38.010942+00:00",
-      "tier": "groq",
-      "article": "Yemeni Armed Forces Spokesman Brig. Gen. Yahya Saree announces drone strike targeting Aramco refinery in Saudi Arabia\u2019s Jazan - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-09T08:47:54.371864+00:00",
-      "tier": "groq",
-      "article": "Foreign forces must leave region: Senior adviser to Leader"
-    },
     {
       "timestamp": "2026-08-09T10:38:09.757839+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T10:54:48.025912+00:00",
       "tier": "groq",
       "article": "Chisinau bolsters cooperation with Kiev \u2014 senior Russian diplomat"
+    },
+    {
+      "timestamp": "2026-08-11T13:12:01.752015+00:00",
+      "tier": "groq",
+      "article": "Container ship likely hit by missile in Gulf of Oman \u2014 news agency"
+    },
+    {
+      "timestamp": "2026-08-11T13:12:36.503051+00:00",
+      "tier": "groq",
+      "article": "Western defense industry moving toward decentralization, clustering to cut costs \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-11T13:13:26.082700+00:00",
+      "tier": "groq",
+      "article": "Children Among Six Wounded in West Bank Raid as Settler Attacks Surge 63% - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-11T13:13:46.044343+00:00",
+      "tier": "groq",
+      "article": "US Navy tests AI-powered submarine hunter"
     }
   ]
 }
