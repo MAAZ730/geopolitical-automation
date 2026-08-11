@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5827,
+  "total_calls": 5831,
   "tiers": {
-    "groq": 5808,
+    "groq": 5812,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T18:45:35.253486+00:00",
-      "tier": "groq",
-      "article": "Araghchi: Iran will neither forgive nor forget assassination of Leader"
-    },
-    {
-      "timestamp": "2026-08-09T18:46:15.122491+00:00",
-      "tier": "groq",
-      "article": "Strait of Hormuz may remain closed to shipping for up to one year \u2014 Iraqi expert"
-    },
-    {
-      "timestamp": "2026-08-09T18:46:33.960999+00:00",
-      "tier": "groq",
-      "article": "Israel rejects Gaza peace plan as Netanyahu, facing elections, digs in for continued war"
-    },
-    {
-      "timestamp": "2026-08-09T18:47:18.500769+00:00",
-      "tier": "groq",
-      "article": "IRGC: US has accepted defeat in Iran war as Hormuz becomes \u2018Geography of Battle\u2019"
-    },
     {
       "timestamp": "2026-08-09T20:36:37.353444+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T20:52:02.450492+00:00",
       "tier": "groq",
       "article": "Private sector can be a pillar of sustainability for any potential agreement: ICCIMA head"
+    },
+    {
+      "timestamp": "2026-08-11T22:46:22.949368+00:00",
+      "tier": "groq",
+      "article": "US company Blackstone Medical Services faces backlash over Colombia earthquake response"
+    },
+    {
+      "timestamp": "2026-08-11T22:46:42.601004+00:00",
+      "tier": "groq",
+      "article": "Seven dead in brawl aboard USS Abraham Lincoln"
+    },
+    {
+      "timestamp": "2026-08-11T22:47:11.324940+00:00",
+      "tier": "groq",
+      "article": "Trump demands compensation from Iran after Tehran seeks reparations"
+    },
+    {
+      "timestamp": "2026-08-11T22:47:29.058735+00:00",
+      "tier": "groq",
+      "article": "CENTCOM reports disabling ship that attempted to breach blockade on Iran"
     }
   ]
 }
