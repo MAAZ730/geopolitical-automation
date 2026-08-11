@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5787,
+  "total_calls": 5791,
   "tiers": {
-    "groq": 5768,
+    "groq": 5772,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-08T22:32:59.576082+00:00",
-      "tier": "groq",
-      "article": "US has below 1,700 Patriot missiles left amid Iran operation \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-08-08T22:33:37.027260+00:00",
-      "tier": "groq",
-      "article": "Pentagon accuses former Air Force chief of leaking classified information"
-    },
-    {
-      "timestamp": "2026-08-08T22:34:29.494287+00:00",
-      "tier": "groq",
-      "article": "Neutralizing sanctions through structural reform"
-    },
-    {
-      "timestamp": "2026-08-08T22:34:47.832115+00:00",
-      "tier": "groq",
-      "article": "Iranian Intelligence Ministry hails journalists for thwarting enemy's war of narratives"
-    },
     {
       "timestamp": "2026-08-09T01:56:06.756287+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T01:58:07.424472+00:00",
       "tier": "groq",
       "article": "Baqaei dismisses Netanyahu\u2019s claim on Iran\u2019s nuclear program as fabrication"
+    },
+    {
+      "timestamp": "2026-08-11T03:48:12.083411+00:00",
+      "tier": "groq",
+      "article": "Australia to buy sophisticated US air-to-air missiles"
+    },
+    {
+      "timestamp": "2026-08-11T03:48:55.737467+00:00",
+      "tier": "groq",
+      "article": "Germany logs record UFO sightings after Pentagon file releases"
+    },
+    {
+      "timestamp": "2026-08-11T03:49:13.701385+00:00",
+      "tier": "groq",
+      "article": "President Pezeshkian: Iran\u2019s Armed Forces key to national strength"
+    },
+    {
+      "timestamp": "2026-08-11T03:49:30.189045+00:00",
+      "tier": "groq",
+      "article": "Deputy Parliament speaker says Hormuz will not return to pre-war status"
     }
   ]
 }
