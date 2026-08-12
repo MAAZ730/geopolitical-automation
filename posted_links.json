@@ -1,4 +1,49 @@
 {
+  "21375ff300866eb8cea2cfa5c7cc9ce0a5b6f7e275fbc77eca7e8ad86a5da818": {
+    "url": "presstv/202497",
+    "title": "Ukraine Targets Russian Port of Novorossiysk in Drone Strike",
+    "published": "2026-08-12T13:24:59.279940+00:00"
+  },
+  "e4c90c5f7a3135a2e845da33b360912794c2e3985976b225bcc7acb27de6431c": {
+    "url": "DDGeopolitics/191091",
+    "title": "Warehouses ablaze in Brovary, Kiev region, after strikes",
+    "published": "2026-08-12T13:24:21.197397+00:00"
+  },
+  "5d4636a8a0f6d18441ea944122e7696d529db865a1bbe0182af57e02b7ff226d": {
+    "url": "DDGeopolitics/191092",
+    "title": "Novorossiysk Drone Strike: Multiple Regions Hit in Overnight Assault",
+    "published": "2026-08-12T13:23:02.454935+00:00"
+  },
+  "7b5ab165753fa3fed0674fcf14b2370c2b3f76fed9a00de36bd863582c781f41": {
+    "url": "QudsNen/235013",
+    "title": "Israeli Forces Clash with Palestinians in Balata Refugee Camp",
+    "published": "2026-08-12T13:20:58.111231+00:00"
+  },
+  "07e4cd0b6ebb3703ce63f94eb4311ad1309867e03df47018ba203b7c6f0351cf": {
+    "url": "thecradlemedia/66055",
+    "title": "Israeli Forces Accused of Destroying Homes in Qabrikha, Lebanon",
+    "published": "2026-08-12T13:19:40.666814+00:00"
+  },
+  "be3556b39441fd5b0a84385b5497ad699037a47e82a36e4eb68ff46c3a708007": {
+    "url": "thecradlemedia/66062",
+    "title": "Israeli Airstrike Targets Mansouri in Southern Lebanon",
+    "published": "2026-08-12T13:19:34.086909+00:00"
+  },
+  "d74f1c1add44448723cf01b85f271023b620f6c5621aa6eb24c3f087a6d8d20a": {
+    "url": "https://tass.com/world/2171891",
+    "title": "Houthis fire two ballistic missiles at Yemeni port of Mokha",
+    "published": "2026-08-12T12:21:52+00:00"
+  },
+  "5c3a2856d1079f6ee480fa38df678507f66142c2784f96c6afe913b56a7539e0": {
+    "url": "https://tass.com/world/2171893",
+    "title": "Multinational statement on missile launches signals preparations for major war \u2014 expert",
+    "published": "2026-08-12T12:21:15+00:00"
+  },
+  "8709da0a3d7d384535438a00699c7341711c17bc705923ca18528692c531d274": {
+    "url": "https://tass.com/defense/2171881",
+    "title": "Su-35S pilot destroys two Ukrainian Su-27s in single air battle \u2014 commander",
+    "published": "2026-08-12T12:20:08+00:00"
+  },
   "85a09633409747264387b91f47a09d9324b65c53e37ba3ff680862e99d63f2b5": {
     "url": "Slavyangrad/173006",
     "title": "Russians Destroy Enemy Artillery, Eliminate Ukrainian Forces in Kherson and Sumy",
@@ -384,6 +429,11 @@
     "title": "Death toll in Houthi strike on vessel rises to four",
     "published": "2026-08-11T17:27:13+00:00"
   },
+  "6c535afc857f738a8f812d4019f480490c2a9dcac79b0dd14649804b5fc26369": {
+    "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+    "title": "Lebanon parliament votes to abolish death penalty",
+    "published": "2026-08-11T15:24:07+00:00"
+  },
   "daf791cde32b702a553ee3f5cda95462bb769d5d44e61fe9ca0d42f671903d4c": {
     "url": "intelslava/92429",
     "title": "Independent Network Aims to Provide Unbiased Coverage of Global Conflicts",
@@ -698,55 +748,5 @@
     "url": "CensoredMen/230",
     "title": "IRGC Claims Strike on U.S. Installation in Jordan",
     "published": "2026-08-11T03:53:49.135994+00:00"
-  },
-  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
-    "url": "CensoredMen/232",
-    "title": "Trump Dismisses Claims of US Public Backlash Against Ongoing Conflict",
-    "published": "2026-08-11T03:53:35.025219+00:00"
-  },
-  "703f396e3fb95640398af8bb918bf593f63b9b1ce4896634b50f45067c7f1057": {
-    "url": "presstv/202305",
-    "title": "Kiev Targeted by Russian Ballistic Missiles",
-    "published": "2026-08-11T03:51:57.928248+00:00"
-  },
-  "dd63fa8720fb788e418fd69975370673af444e2b8215310f140593bb5024c206": {
-    "url": "presstv/202306",
-    "title": "Tehran Residents Hold Pro-Iran Rally in Enghelab Square",
-    "published": "2026-08-11T03:51:17.221587+00:00"
-  },
-  "d8006dccb30f36eb92d83c7bfb2efcbb90351a73a4c3db8d23629b2b52ea786d": {
-    "url": "QudsNen/234846",
-    "title": "Israeli Forces Open Fire in Khan Yunis, Gaza Strip",
-    "published": "2026-08-11T03:49:35.654865+00:00"
-  },
-  "6bee400f72a49f6ad3977fddd072cc4a2cbe3616cae1df7960f76b51359feaef": {
-    "url": "Middle_East_Spectator/35841",
-    "title": "Trump Golfing Amid Tensions with Iran",
-    "published": "2026-08-11T03:49:32.916308+00:00"
-  },
-  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
-    "url": "CensoredMen/239",
-    "title": "China Enforces Nighttime Swimming Ban with Drone Surveillance in Qingdao",
-    "published": "2026-08-11T02:01:17.363209+00:00"
-  },
-  "5ab8658a1e1aa0e47c8c293a6da6b65cc2ec5e863f42b1a106c7e7a9f3d61e54": {
-    "url": "DDGeopolitics/191027",
-    "title": "Russian Zircon Missiles Strike Targets in Kiev",
-    "published": "2026-08-11T02:00:26.166335+00:00"
-  },
-  "e408bc3be3d6765511377ea13079d9ce5e0846c283cd8b1bb6220acd397c7211": {
-    "url": "QudsNen/234855",
-    "title": "Israel Detains Bodies of 1,700 Palestinians Amid Criticism of Collective Punishment",
-    "published": "2026-08-11T02:00:04.828958+00:00"
-  },
-  "9d60565862b5c5651525861475a8d70a6858daa5d2007135990e13a9b425c3a5": {
-    "url": "QudsNen/234857",
-    "title": "Netanyahu Unveils AI Ambitions Amid Gaza Criticism",
-    "published": "2026-08-11T02:00:03.334968+00:00"
-  },
-  "ca4c2c3e8eca1a126fa7fa2de2f75de401edb74ad53adce0e8738b5444e25965": {
-    "url": "Middle_East_Spectator/35835",
-    "title": "Libya Oil Storage Facilities Hit in Drone Strike",
-    "published": "2026-08-11T01:59:59.198679+00:00"
   }
 }

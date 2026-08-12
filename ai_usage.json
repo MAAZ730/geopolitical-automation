@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5851,
+  "total_calls": 5855,
   "tiers": {
-    "groq": 5832,
+    "groq": 5836,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T09:26:47.604125+00:00",
-      "tier": "groq",
-      "article": "Tatarstan residents killed as result of drone attack on civilian facilities \u2014 region head"
-    },
-    {
-      "timestamp": "2026-08-10T09:27:24.953829+00:00",
-      "tier": "groq",
-      "article": "Finland rules out additional air defense missiles for Ukraine"
-    },
-    {
-      "timestamp": "2026-08-10T09:28:12.816980+00:00",
-      "tier": "groq",
-      "article": "Kalashnikov modifies Vikhr missile to combat UAVs as armored vehicles withdraw \u2014 CEO"
-    },
-    {
-      "timestamp": "2026-08-10T09:28:36.123716+00:00",
-      "tier": "groq",
-      "article": "Israel rejects 15-point Gaza document, not to withdraw until Hamas disarms \u2014 Netanyahu"
-    },
     {
       "timestamp": "2026-08-10T11:11:51.273435+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T11:04:24.429415+00:00",
       "tier": "groq",
       "article": "Iranian President calls for stronger deterrence as new IRGC leadership takes office"
+    },
+    {
+      "timestamp": "2026-08-12T13:18:30.178933+00:00",
+      "tier": "groq",
+      "article": "Multinational statement on missile launches signals preparations for major war \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-12T13:18:50.027732+00:00",
+      "tier": "groq",
+      "article": "Houthis fire two ballistic missiles at Yemeni port of Mokha"
+    },
+    {
+      "timestamp": "2026-08-12T13:19:09.107920+00:00",
+      "tier": "groq",
+      "article": "Su-35S pilot destroys two Ukrainian Su-27s in single air battle \u2014 commander"
+    },
+    {
+      "timestamp": "2026-08-12T13:19:28.560920+00:00",
+      "tier": "groq",
+      "article": "Lebanon parliament votes to abolish death penalty"
     }
   ]
 }
