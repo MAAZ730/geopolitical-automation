@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5863,
+  "total_calls": 5867,
   "tiers": {
-    "groq": 5844,
+    "groq": 5848,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T15:01:43.870350+00:00",
-      "tier": "groq",
-      "article": "Russia says world bodies\u2019 silence on Kiev attacks on its cities to be seen as complicity"
-    },
-    {
-      "timestamp": "2026-08-10T15:02:03.037915+00:00",
-      "tier": "groq",
-      "article": "\u2018Long-range sanctions\u2019: Ukraine hopes strikes cause Russia fear and losses"
-    },
-    {
-      "timestamp": "2026-08-10T15:02:19.072787+00:00",
-      "tier": "groq",
-      "article": "Iranian missiles have ability to change trajectory after launch \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-08-10T15:02:44.868527+00:00",
-      "tier": "groq",
-      "article": "Ukraine currently too corrupt to join the EU \u2013 FT"
-    },
     {
       "timestamp": "2026-08-10T16:56:36.678183+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T17:01:49.840184+00:00",
       "tier": "groq",
       "article": "Hormuz will reopen only when US accepts Iran\u2019s conditions"
+    },
+    {
+      "timestamp": "2026-08-12T19:05:10.438408+00:00",
+      "tier": "groq",
+      "article": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns"
+    },
+    {
+      "timestamp": "2026-08-12T19:05:52.159920+00:00",
+      "tier": "groq",
+      "article": "Why has North Korea fired a missile before US-South Korea drills?"
+    },
+    {
+      "timestamp": "2026-08-12T19:06:45.355923+00:00",
+      "tier": "groq",
+      "article": "Iran remains defiant as it vows to fight US until demands met"
+    },
+    {
+      "timestamp": "2026-08-12T19:07:01.288692+00:00",
+      "tier": "groq",
+      "article": "Burned-out US carrier sailors near Iran tried to jump overboard \u2013 Military Times"
     }
   ]
 }
