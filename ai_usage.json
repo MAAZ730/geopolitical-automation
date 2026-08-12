@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5847,
+  "total_calls": 5851,
   "tiers": {
-    "groq": 5828,
+    "groq": 5832,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T07:46:34.547053+00:00",
-      "tier": "groq",
-      "article": "Watch Yemeni Strike on Saudi-backed Forces in Mokha - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-10T07:47:12.720651+00:00",
-      "tier": "groq",
-      "article": "US president says he is using economic pressure, not strikes, on Iran"
-    },
-    {
-      "timestamp": "2026-08-10T07:48:00.202283+00:00",
-      "tier": "groq",
-      "article": "Takaichi lacks courage to say who dropped atomic bomb on Japan \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-08-10T07:48:18.621420+00:00",
-      "tier": "groq",
-      "article": "Why Military Cooperation in the Indian Ocean Still Falls Short"
-    },
     {
       "timestamp": "2026-08-10T09:26:47.604125+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T09:16:14.445538+00:00",
       "tier": "groq",
       "article": "Iranian Armed Forces chief pledges full support for IRGC"
+    },
+    {
+      "timestamp": "2026-08-12T11:02:44.416136+00:00",
+      "tier": "groq",
+      "article": "Forpost UAVs guide Oniks missiles to strike mock enemy ships in Pacific drills"
+    },
+    {
+      "timestamp": "2026-08-12T11:03:19.507218+00:00",
+      "tier": "groq",
+      "article": "Twelve evacuated from homes damaged in Ukrainian drone strike on Gelendzhik"
+    },
+    {
+      "timestamp": "2026-08-12T11:04:08.306049+00:00",
+      "tier": "groq",
+      "article": "Trump says his decoy plane faced \u2018greater risk\u2019 in secret flight change"
+    },
+    {
+      "timestamp": "2026-08-12T11:04:24.429415+00:00",
+      "tier": "groq",
+      "article": "Iranian President calls for stronger deterrence as new IRGC leadership takes office"
     }
   ]
 }
