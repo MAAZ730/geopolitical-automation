@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5867,
+  "total_calls": 5871,
   "tiers": {
-    "groq": 5848,
+    "groq": 5852,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T16:56:36.678183+00:00",
-      "tier": "groq",
-      "article": "Deadly Yemeni attack kills Saudi-backed mercenaries in Shabwa"
-    },
-    {
-      "timestamp": "2026-08-10T16:57:10.072001+00:00",
-      "tier": "groq",
-      "article": "Russian strikes paralyze Ukraine\u2019s southern power grid \u2014 official"
-    },
-    {
-      "timestamp": "2026-08-10T16:58:03.332084+00:00",
-      "tier": "groq",
-      "article": "Russian troops strike Ukrainian army\u2019s energy, transport infrastructure over past day"
-    },
-    {
-      "timestamp": "2026-08-10T16:58:54.491209+00:00",
-      "tier": "groq",
-      "article": "Mobarak Puppet Theater Festival opens with works dedicated to Gaza journalists, Minab children"
-    },
     {
       "timestamp": "2026-08-10T19:01:47.519088+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T19:07:01.288692+00:00",
       "tier": "groq",
       "article": "Burned-out US carrier sailors near Iran tried to jump overboard \u2013 Military Times"
+    },
+    {
+      "timestamp": "2026-08-12T20:50:11.276506+00:00",
+      "tier": "groq",
+      "article": "Ukrainian drone attacks wound 12 DPR residents in one day \u2014 republic's head"
+    },
+    {
+      "timestamp": "2026-08-12T20:50:43.113942+00:00",
+      "tier": "groq",
+      "article": "Iran: US \u2018unprecedented violations\u2019 of Geneva Conventions cannot be ignored"
+    },
+    {
+      "timestamp": "2026-08-12T20:50:58.814798+00:00",
+      "tier": "groq",
+      "article": "Pacific Fleet maneuvers demonstrate Russia's nuclear deterrence tools \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-12T20:51:17.024605+00:00",
+      "tier": "groq",
+      "article": "Pakistan hopes for Putin\u2019s visit to SCO summit in 2027 \u2014 ambassador to Russia"
     }
   ]
 }
