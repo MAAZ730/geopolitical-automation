@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5871,
+  "total_calls": 5875,
   "tiers": {
-    "groq": 5852,
+    "groq": 5856,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T19:01:47.519088+00:00",
-      "tier": "groq",
-      "article": "Iraq files UN complaint over deadly US-Saudi attack on resistance forces"
-    },
-    {
-      "timestamp": "2026-08-10T19:02:05.027983+00:00",
-      "tier": "groq",
-      "article": "MP: Retaliation for martyred leader\u2019s assassination to be pursued on all fronts"
-    },
-    {
-      "timestamp": "2026-08-10T19:02:24.363176+00:00",
-      "tier": "groq",
-      "article": "Has the army turned the page on control of western Sudan?"
-    },
-    {
-      "timestamp": "2026-08-10T19:02:49.943548+00:00",
-      "tier": "groq",
-      "article": "Can \u2018Islamic NATO\u2019 rein in both Israel and Iran?"
-    },
     {
       "timestamp": "2026-08-10T20:45:37.476506+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T20:51:17.024605+00:00",
       "tier": "groq",
       "article": "Pakistan hopes for Putin\u2019s visit to SCO summit in 2027 \u2014 ambassador to Russia"
+    },
+    {
+      "timestamp": "2026-08-12T22:46:07.642557+00:00",
+      "tier": "groq",
+      "article": "Drone attacks on energy infrastructure deepen Libya\u2019s energy crisis"
+    },
+    {
+      "timestamp": "2026-08-12T22:46:46.405949+00:00",
+      "tier": "groq",
+      "article": "Hegseth cautions that ICC may investigate US boat strikes in Latin America"
+    },
+    {
+      "timestamp": "2026-08-12T22:47:02.751350+00:00",
+      "tier": "groq",
+      "article": "Kiev confirms limitation of data on Russian missile launches against targets in Ukraine"
+    },
+    {
+      "timestamp": "2026-08-12T22:47:21.213275+00:00",
+      "tier": "groq",
+      "article": "AK balances odds of guy from African backwoods with colonizer \u2014 Kalashnikov CEO"
     }
   ]
 }

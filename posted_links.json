@@ -1,4 +1,44 @@
 {
+  "20fa6d750151f3cc531b0e6b9fd4f211e508c27b8a73f763bf6201d16a967b1b": {
+    "url": "Slavyangrad/173061",
+    "title": "Russia's Bortnikov Vows Enhanced Security for Energy and Transport Infrastructure Amid Escalating Threats",
+    "published": "2026-08-12T22:52:28.890052+00:00"
+  },
+  "4c8f9cc0b31e79a04481d785262c924345f49f403fa4a82aa0d0318d44c8e7d5": {
+    "url": "Slavyangrad/173068",
+    "title": "China's Changsha Technology Unveils Bionic Drone for Underwater and Aerial Operations",
+    "published": "2026-08-12T22:49:43.437385+00:00"
+  },
+  "596b28bfabd634935679049e5639ea973331c9dc27d1ea6dd514b8fc76f2b85d": {
+    "url": "DDGeopolitics/191132",
+    "title": "Kiev Residents Flee to Metro Amid Fears of Missile Strikes",
+    "published": "2026-08-12T22:49:00.808671+00:00"
+  },
+  "eba29bd2372200ef5429c8f5d14f6493c3ebb19d59a09b6dfa85b15eb801ee30": {
+    "url": "QudsNen/235084",
+    "title": "Israeli Artillery Strikes Hit Southern Lebanon Border",
+    "published": "2026-08-12T22:47:54.402778+00:00"
+  },
+  "5c19154e87bde4bea75faac36d1d86d61ecb0de36a7c9485327236f989795441": {
+    "url": "Middle_East_Spectator/35859",
+    "title": "Israel Conducts Airstrikes in Lebanese Town of Al-Mansouri",
+    "published": "2026-08-12T22:47:31.271189+00:00"
+  },
+  "7dd94d437e82f5c14152637f832e0811362c5caef23f35f3ee4fa56906c2f805": {
+    "url": "Middle_East_Spectator/35869",
+    "title": "Trump Asserts U.S. Dominance Over Hormuz Strait, Criticizes Iran's Military and Economic Situation",
+    "published": "2026-08-12T22:47:30.012160+00:00"
+  },
+  "18e819d9cc814f383bdffbd5fae0eab41f48f0022c37166270ae8ec13a59fe2a": {
+    "url": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+    "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+    "published": "2026-08-12T21:52:18+00:00"
+  },
+  "3e0f4df7605a9ff6d2696c2114d221571fdbedb88be9c24e2e32da1fc1601834": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
+    "title": "Drone attacks on energy infrastructure deepen Libya\u2019s energy crisis",
+    "published": "2026-08-12T20:59:52+00:00"
+  },
   "8a7b4e04c04abbcf83131ef2df17177f5ff240c87857d17342465ce89461fc6f": {
     "url": "intelslava/92474",
     "title": "Ukraine Confirms Deployment of New Geran-2 Variant in Sumy Oblast",
@@ -28,6 +68,11 @@
     "url": "Middle_East_Spectator/35874",
     "title": "Ukraine's Drone Forces Outmaneuver US Armored Brigade in German Exercise",
     "published": "2026-08-12T20:51:22.609186+00:00"
+  },
+  "346638b979ce80bf48d81d9cba45e214f6656d54b71d4eeea2b3078201e57001": {
+    "url": "https://tass.com/world/2172121",
+    "title": "Kiev confirms limitation of data on Russian missile launches against targets in Ukraine",
+    "published": "2026-08-12T20:33:01+00:00"
   },
   "c8ecf2b67fb2d606aa69b01e361a448c420891221a724e3733b738ae43c85535": {
     "url": "https://en.irna.ir/news/86234389/Iran-US-unprecedented-violations-of-Geneva-Conventions-cannot",
@@ -203,6 +248,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
     "title": "Why has North Korea fired a missile before US-South Korea drills?",
     "published": "2026-08-12T13:10:14+00:00"
+  },
+  "74df7c2e7fb554b70c2852cff262f3662c4dd6715991b728ef6e5aaf8c52bc6d": {
+    "url": "https://tass.com/defense/2171915",
+    "title": "AK balances odds of guy from African backwoods with colonizer \u2014 Kalashnikov CEO",
+    "published": "2026-08-12T13:05:58+00:00"
   },
   "d74f1c1add44448723cf01b85f271023b620f6c5621aa6eb24c3f087a6d8d20a": {
     "url": "https://tass.com/world/2171891",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/world/2171443",
     "title": "US military opens fire at ship trying to break through blockade on Iran \u2014 WSJ",
     "published": "2026-08-11T13:28:06+00:00"
-  },
-  "3c9f671fc3ac71b636ffa454d48a5e2c705f7925b687da636c5f5ca5ccee2a65": {
-    "url": "presstv/202358",
-    "title": "US Republican Candidate Confronts Former Israeli Commander Over Gaza Bombings",
-    "published": "2026-08-11T13:25:23.168880+00:00"
-  },
-  "53c0368e18f54559fc0d6073bd836ff4efca8e198af99a25db4f7fadf5d5bf85": {
-    "url": "DDGeopolitics/191050",
-    "title": "Russia Conducts Precision Strikes Against Ukrainian Military Facilities",
-    "published": "2026-08-11T13:19:09.910707+00:00"
-  },
-  "4c1312123c132c84cf9ba2dd800706ac5af83ac29475f4e73a3b309e4eeb6d98": {
-    "url": "DDGeopolitics/191055",
-    "title": "Trump Golfing Under Missile Shield at Bedminster Club",
-    "published": "2026-08-11T13:18:11.420755+00:00"
-  },
-  "29da521d101ceda2665d9ec5013d2819ceee025dd6dfc12b7e3e2748ee8b59b2": {
-    "url": "thecradlemedia/65976",
-    "title": "Drone Strike Hits Libya's Zawiya Oil Refinery",
-    "published": "2026-08-11T13:16:32.802382+00:00"
-  },
-  "e8531e0a72a5b91134fabb2052e78e8250c1e7b4688af69ea0a9680cf8dcf344": {
-    "url": "thecradlemedia/65990",
-    "title": "Israeli Artillery Strikes Mansouri in Southern Lebanon",
-    "published": "2026-08-11T13:13:58.315448+00:00"
-  },
-  "e442dcb0feddc039aaa21e450fc8804d5b5500ba5f5d14213f6ba24b74c5e525": {
-    "url": "thecradlemedia/65992",
-    "title": "Syria and Russia Agree on Future of Moscow's Military Bases",
-    "published": "2026-08-11T13:13:49.426121+00:00"
-  },
-  "a5069bf4da2a45af7fa41f9765cf56fe187a33ec6ba4d437fcf784ba352eca23": {
-    "url": "https://tass.com/world/2171373",
-    "title": "Container ship likely hit by missile in Gulf of Oman \u2014 news agency",
-    "published": "2026-08-11T11:07:24+00:00"
-  },
-  "01489e01e386ab2ab344d2632161bf9feb3ebb2f56296925c7837886a28712f9": {
-    "url": "https://tass.com/world/2171361",
-    "title": "Western defense industry moving toward decentralization, clustering to cut costs \u2014 expert",
-    "published": "2026-08-11T11:06:26+00:00"
-  },
-  "1ae807b291338cfa934d4889a62570a4dd5eadbd565acc045816b588f36c46c2": {
-    "url": "https://english.almanar.com.lb/article/114692/",
-    "title": "Children Among Six Wounded in West Bank Raid as Settler Attacks Surge 63% - Al-Manar TV Lebanon",
-    "published": "2026-08-11T11:03:09+00:00"
-  },
-  "e7a5da16f0725c6dec320838dd288b3932929a832fe37961c8bad1cd412929d5": {
-    "url": "DDGeopolitics/191035",
-    "title": "Trump Disputes Depletion of US Ammunition Stocks Amid Ukraine Arms Transfers",
-    "published": "2026-08-11T11:01:59.260577+00:00"
   }
 }
