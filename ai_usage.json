@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5831,
+  "total_calls": 5835,
   "tiers": {
-    "groq": 5812,
+    "groq": 5816,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T20:36:37.353444+00:00",
-      "tier": "groq",
-      "article": "Three drones downed en route to Moscow \u2014 mayor"
-    },
-    {
-      "timestamp": "2026-08-09T20:37:09.356634+00:00",
-      "tier": "groq",
-      "article": "Vucic describes Europe\u2019s actions against Russia as 'hybrid war'"
-    },
-    {
-      "timestamp": "2026-08-09T20:37:58.393524+00:00",
-      "tier": "groq",
-      "article": "Hezbollah: Israeli Map Exposes Expansionist Designs on Lebanon, Concessions Put Country at Greater Risk - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-09T20:38:52.617959+00:00",
-      "tier": "groq",
-      "article": "16 Iranian fishermen missing for 3+ months, US helicopter last seen overhead"
-    },
     {
       "timestamp": "2026-08-09T22:35:09.239447+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-11T22:47:29.058735+00:00",
       "tier": "groq",
       "article": "CENTCOM reports disabling ship that attempted to breach blockade on Iran"
+    },
+    {
+      "timestamp": "2026-08-12T02:08:54.201429+00:00",
+      "tier": "groq",
+      "article": "N Korea launches ballistic missile as S Korea, US plan military drills"
+    },
+    {
+      "timestamp": "2026-08-12T02:09:31.223777+00:00",
+      "tier": "groq",
+      "article": "Japan expresses protest to North Korea over launch of ballistic missile"
+    },
+    {
+      "timestamp": "2026-08-12T02:10:17.050704+00:00",
+      "tier": "groq",
+      "article": "Missile launched by North Korea falls outside Japan's exclusive economic zone \u2014 Kyodo"
+    },
+    {
+      "timestamp": "2026-08-12T02:10:36.772470+00:00",
+      "tier": "groq",
+      "article": "Oil edges higher as US, Iran hit impasse over Hormuz strait"
     }
   ]
 }

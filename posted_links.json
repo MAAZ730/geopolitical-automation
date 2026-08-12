@@ -1,4 +1,49 @@
 {
+  "c107a0bc1f766addbde8e12229ea50cb9b1413922fe2cc75111bcfae34bc1cab": {
+    "url": "presstv/202442",
+    "title": "Ukraine Launches Drone Strike on Russian Port of Novorossiysk",
+    "published": "2026-08-12T02:15:50.792672+00:00"
+  },
+  "df7179daa4f06840c2765873cb145acb92080bc4c8aa4d08ab2c204f3a02fdea": {
+    "url": "presstv/202445",
+    "title": "Drone Attack Targets Power Station in Zawiya, Libya",
+    "published": "2026-08-12T02:15:21.751800+00:00"
+  },
+  "238df8e76de04f4bf9fab76f8b708306cbfdadb7d87e1d171f4bce2d2ad2857a": {
+    "url": "presstv/202446",
+    "title": "Drone Attack Targets Power Station in Zawiya, Libya",
+    "published": "2026-08-12T02:15:02.248404+00:00"
+  },
+  "6e62d9cc2b034667c0a0f28356d3cf06f612146e4ac43ded4b5b3d8b3d39bf0a": {
+    "url": "BellumActaNews/176368",
+    "title": "Drone Activity Halts Flight Operations at Hannover International Airport",
+    "published": "2026-08-12T02:13:23.897847+00:00"
+  },
+  "0b8dca031e9775e938421619d6fd0852403d0155e679dfcd703306d26f028cf0": {
+    "url": "DDGeopolitics/191068",
+    "title": "Scotland's Independence Support Surges Amidst Westminster Instability",
+    "published": "2026-08-12T02:13:20.686469+00:00"
+  },
+  "5544cadece92091084c61b3bd475b5bac43345722a7c0935433d9fba21690327": {
+    "url": "QudsNen/234983",
+    "title": "Gaza Crisis Worsens Amid Ongoing Humanitarian Shortfalls",
+    "published": "2026-08-12T02:13:18.068189+00:00"
+  },
+  "15673df3edad1bea7bcac8ea02d118e2d1938d62030ff13e8f86d199b4faa7a0": {
+    "url": "https://tass.com/world/2171619",
+    "title": "Japan expresses protest to North Korea over launch of ballistic missile",
+    "published": "2026-08-12T00:59:24+00:00"
+  },
+  "8cb133a70e14c5c7bca684610395046219ed00deac7b88622eef9c42e27e4664": {
+    "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
+    "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
+    "published": "2026-08-12T00:39:53+00:00"
+  },
+  "8c5c574fcf19878bc1b8c72f9f10eb3db16c6bc0287069a1f783e5a6a9cfcb7e": {
+    "url": "https://tass.com/world/2171615",
+    "title": "Missile launched by North Korea falls outside Japan's exclusive economic zone \u2014 Kyodo",
+    "published": "2026-08-12T00:14:44+00:00"
+  },
   "87ee7fc8efcd8ce3672a1e28790996c27e4b20d13a1a7f0cc7f9a7605b9db32f": {
     "url": "Slavyangrad/172941",
     "title": "Russia Deploys A-50 AWACS to Counter Drone Threats",
@@ -434,6 +479,11 @@
     "title": "Israel's Former National Security Chief Advocates for Gaza Strip Destruction",
     "published": "2026-08-11T05:14:00.587426+00:00"
   },
+  "d851962e7aa08ae85bb0aa4b3c0dd915f01208e07703c027abe601ba188fbc14": {
+    "url": "https://en.mehrnews.com/news/246892/Oil-edges-higher-as-US-Iran-hit-impasse-over-Hormuz-strait",
+    "title": "Oil edges higher as US, Iran hit impasse over Hormuz strait",
+    "published": "2026-08-11T04:55:18+00:00"
+  },
   "6c2ea93f860a57da94e076479a9a7eea2ca9b6c6774619875e18a448d6e95018": {
     "url": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
     "title": "Huge fire breaks out at Libya\u2019s Zawiya refinery after drone attack",
@@ -698,55 +748,5 @@
     "url": "https://www.tehrantimes.com/news/529008/Iran-is-not-Venezuela-Hormuz-Strait-and-limits-of-US-power",
     "title": "Iran is not Venezuela: Hormuz Strait and limits of US power",
     "published": "2026-08-10T15:53:50+00:00"
-  },
-  "6cb6d69cf71f70016cb6e53e3c85861fa09a81f38f37d9c56d6d378741a37a1c": {
-    "url": "https://thecradle.co/articles-id/39304",
-    "title": "Deadly Yemeni attack kills Saudi-backed mercenaries in Shabwa",
-    "published": "2026-08-10T15:53:26+00:00"
-  },
-  "aea7fb5c42deac638f99478602c1fc81db1773d43dccf37a798ef686af506fb6": {
-    "url": "Middle_East_Spectator/35820",
-    "title": "Iran's Former Armed Forces Commander Spends Time with Grandchildren",
-    "published": "2026-08-10T15:07:11.551421+00:00"
-  },
-  "99a3028c2083ad0e98975a12dbff0d37df76b68bc93019898ca7c1a52ea2f4e7": {
-    "url": "thecradlemedia/65917",
-    "title": "Settlers Attack Activist in West Bank Village",
-    "published": "2026-08-10T15:06:21.737492+00:00"
-  },
-  "dfb71e50455b58c5eb79bb4b29f43a66f999224f85fc262de9bf6d042a6d8d56": {
-    "url": "thecradlemedia/65920",
-    "title": "Israeli Aerial Strike Deploys Incendiary Munitions Over Ali al-Taher Heights",
-    "published": "2026-08-10T15:04:39.248083+00:00"
-  },
-  "21a652f8cd52dd9d21432d06a38efa3b4c5e2ca3d8a78013ef4c9ba282e1580a": {
-    "url": "thecradlemedia/65921",
-    "title": "Saudi-Turkiye-Pakistan Security Pact Sparks Skepticism in Iran",
-    "published": "2026-08-10T15:04:21.156336+00:00"
-  },
-  "cef1378cabd64e1227208f77ad522bd96ab3872a07674785968e7aaee930535e": {
-    "url": "thecradlemedia/65924",
-    "title": "Iran Unveils Advanced Mid-Flight Course-Correction Missile Technology",
-    "published": "2026-08-10T15:04:20.047323+00:00"
-  },
-  "6680504afd2d5efd41d667f64e622c22f86dee8d09814e64b006589c5bec52e2": {
-    "url": "thecradlemedia/65925",
-    "title": "Greek Residents Protest Israeli Cruise Tourists in Coastal Areas",
-    "published": "2026-08-10T15:04:18.262214+00:00"
-  },
-  "1a4165a50b34c9bdd99f5d1d3a68d4fe50a4670112fbadb68effde806e51a607": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
-    "title": "US Navy tests AI-powered submarine hunter",
-    "published": "2026-08-10T15:01:39+00:00"
-  },
-  "6dd53322148a066928ab3d1d47e16e4d6f49c5aecd5237cc9808ae34956d6a0f": {
-    "url": "https://english.almanar.com.lb/article/114432/",
-    "title": "IRGC Spokesman: Our Missiles Can Change Course to Counter Enemy Air Defense Systems - Al-Manar TV Lebanon",
-    "published": "2026-08-10T14:52:46+00:00"
-  },
-  "2495ee14fdd675060519307e077b1c3523e7863bfacd3b4b53b8f34400a73fcd": {
-    "url": "https://tass.com/politics/2171009",
-    "title": "Chisinau bolsters cooperation with Kiev \u2014 senior Russian diplomat",
-    "published": "2026-08-10T14:30:04+00:00"
   }
 }
