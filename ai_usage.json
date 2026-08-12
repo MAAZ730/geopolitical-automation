@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5859,
+  "total_calls": 5863,
   "tiers": {
-    "groq": 5840,
+    "groq": 5844,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T13:15:00.367897+00:00",
-      "tier": "groq",
-      "article": "Seven citizens of Uzbekistan die in drone attack on Nizhnekamsk"
-    },
-    {
-      "timestamp": "2026-08-10T13:15:24.148385+00:00",
-      "tier": "groq",
-      "article": "Israel conducts new attack in southern Lebanon despite truce"
-    },
-    {
-      "timestamp": "2026-08-10T13:15:43.065674+00:00",
-      "tier": "groq",
-      "article": "What\u2019s behind Trump\u2019s shift to economic pressure on Iran? Will it work?"
-    },
-    {
-      "timestamp": "2026-08-10T13:15:59.309930+00:00",
-      "tier": "groq",
-      "article": "Iran to launch 3 new satellites before year end"
-    },
     {
       "timestamp": "2026-08-10T15:01:43.870350+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T15:02:31.252740+00:00",
       "tier": "groq",
       "article": "Pezeshkian congratulates new IRGC Navy commander"
+    },
+    {
+      "timestamp": "2026-08-12T17:00:07.698453+00:00",
+      "tier": "groq",
+      "article": "Is Russia\u2019s economy cracking despite the Iran war windfall?"
+    },
+    {
+      "timestamp": "2026-08-12T17:00:41.997652+00:00",
+      "tier": "groq",
+      "article": "Russian troops hammer Ukrainian fuel tanks, ship with military cargo in new strikes"
+    },
+    {
+      "timestamp": "2026-08-12T17:01:29.438502+00:00",
+      "tier": "groq",
+      "article": "Houthis lose over 80 fighters in Yemen in six days \u2014 TV"
+    },
+    {
+      "timestamp": "2026-08-12T17:01:49.840184+00:00",
+      "tier": "groq",
+      "article": "Hormuz will reopen only when US accepts Iran\u2019s conditions"
     }
   ]
 }
