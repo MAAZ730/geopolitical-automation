@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5843,
+  "total_calls": 5847,
   "tiers": {
-    "groq": 5824,
+    "groq": 5828,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T04:05:27.840914+00:00",
-      "tier": "groq",
-      "article": "Around 20 drones destroyed in Taganrog, eight districts of Rostov Region"
-    },
-    {
-      "timestamp": "2026-08-10T04:06:02.545240+00:00",
-      "tier": "groq",
-      "article": "Malaysian PM Anwar Ibrahim undergoes medical procedure"
-    },
-    {
-      "timestamp": "2026-08-10T04:06:49.528408+00:00",
-      "tier": "groq",
-      "article": "Israel insists on implementing 5 principles of ending war in Gaza \u2014 adviser"
-    },
-    {
-      "timestamp": "2026-08-10T04:07:09.583417+00:00",
-      "tier": "groq",
-      "article": "Over 350 media staff martyred in three imposed wars on Iran"
-    },
     {
       "timestamp": "2026-08-10T07:46:34.547053+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T07:29:32.253356+00:00",
       "tier": "groq",
       "article": "Israel advances plan to build 650 housing units illegally"
+    },
+    {
+      "timestamp": "2026-08-12T09:14:40.364307+00:00",
+      "tier": "groq",
+      "article": "Drone strike hits northern Iraq"
+    },
+    {
+      "timestamp": "2026-08-12T09:15:13.882180+00:00",
+      "tier": "groq",
+      "article": "Ukrainian attacks on Belgorod Region kill two people, injure three others over past day"
+    },
+    {
+      "timestamp": "2026-08-12T09:15:32.260270+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Casualties, strike on overpass in Novorossiysk, 502 UAV attack aftermath"
+    },
+    {
+      "timestamp": "2026-08-12T09:16:14.445538+00:00",
+      "tier": "groq",
+      "article": "Iranian Armed Forces chief pledges full support for IRGC"
     }
   ]
 }

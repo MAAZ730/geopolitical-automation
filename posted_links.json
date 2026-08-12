@@ -1,4 +1,44 @@
 {
+  "0b1b94ce94161bc6b88e87d9b522c80f769ec5f47af092ab1e992342de9103de": {
+    "url": "DDGeopolitics/191082",
+    "title": "Ukraine Conflict: Warehouses ablaze in Brovary after strikes",
+    "published": "2026-08-12T09:20:48.772471+00:00"
+  },
+  "b4492832ca92f4f2ae086fa9987055846f43f84263002cb540ddab0f43569de5": {
+    "url": "DDGeopolitics/191084",
+    "title": "Russia Deploys Counter-Drone Measures in Ukraine",
+    "published": "2026-08-12T09:19:59.516037+00:00"
+  },
+  "b59ccecf9ae2b5f808c107e16c63501c89f3283bf60d89988112937df762a350": {
+    "url": "thecradlemedia/66012",
+    "title": "Israeli Forces Launch Widespread Attacks in Southern Lebanon",
+    "published": "2026-08-12T09:19:33.633460+00:00"
+  },
+  "b91043b5c2886cdf48a751256aa087a640c7205b4cae593b0d7f8624dd724b7f": {
+    "url": "thecradlemedia/66014",
+    "title": "Iranian Drones Crash in Erbil Province Amid Cross-Border Security Operations",
+    "published": "2026-08-12T09:19:08.330349+00:00"
+  },
+  "58e43d29ec167fd07c616c4013a829ceec23c3b3b6902042a0738062d6570d15": {
+    "url": "thecradlemedia/66021",
+    "title": "Israeli Drone Conducts Aerial Strike in Southern Lebanon",
+    "published": "2026-08-12T09:16:19.733458+00:00"
+  },
+  "21be492b9efa1b16f96b3c301305e63432c4420746a5587d6ff4e987e31dffe6": {
+    "url": "thecradlemedia/66024",
+    "title": "Israeli Drone Drops Explosives in Southern Lebanon",
+    "published": "2026-08-12T09:16:17.735016+00:00"
+  },
+  "9e92c64b23409349c19a51dd62972ace336b01161940d19bb01e9903accbf1c9": {
+    "url": "https://tass.com/emergencies/2171753",
+    "title": "Ukrainian attacks on Belgorod Region kill two people, injure three others over past day",
+    "published": "2026-08-12T08:35:11+00:00"
+  },
+  "728f179b0432b7aab2ec2c0b7af3773c597f33577ea63cc09aa09c9000cccaa7": {
+    "url": "https://en.mehrnews.com/news/246923/Drone-strike-hits-northern-Iraq",
+    "title": "Drone strike hits northern Iraq",
+    "published": "2026-08-12T07:49:09+00:00"
+  },
   "4e71f45782b961d7cd07997711aab9dd9b35715e229cfd29464aa34141843286": {
     "url": "mod_russia_en/28800",
     "title": "Russian Airstrikes Hit Ukrainian Military Targets in Eastern Ukraine",
@@ -28,6 +68,11 @@
     "url": "QudsNen/234988",
     "title": "Israeli Artillery Strikes Ali Al-Taher Heights with Phosphorus Shells",
     "published": "2026-08-12T07:30:11.221566+00:00"
+  },
+  "e67462bfaddc2391dda5635c6034f5c7b5e8e876dad7e348a3945e64f0ed1607": {
+    "url": "https://tass.com/emergencies/2171681",
+    "title": "IN BRIEF: Casualties, strike on overpass in Novorossiysk, 502 UAV attack aftermath",
+    "published": "2026-08-12T07:29:25+00:00"
   },
   "55f1443cef4ee2da3f10231362afd3e8b9f33b3a98837b3d163f5dd58add7752": {
     "url": "https://tass.com/emergencies/2171673",
@@ -419,6 +464,11 @@
     "title": "Syrian Authorities Impose Curfew in Ain al-Arab Following Government Facility Attacks",
     "published": "2026-08-11T10:55:39.633778+00:00"
   },
+  "d5159216b2f8676c5f874ce542be4a36369e17c885a3b7132e43cb43c00dc9a2": {
+    "url": "https://en.irna.ir/news/86233405/Iranian-Armed-Forces-chief-pledges-full-support-for-IRGC",
+    "title": "Iranian Armed Forces chief pledges full support for IRGC",
+    "published": "2026-08-11T10:55:01+00:00"
+  },
   "3217a421a2dbff0d56f34e3e6e6075665bd4e4c0293e0b3be6dd7ddd86d27d34": {
     "url": "thecradlemedia/65970",
     "title": "Lebanese President Aoun Calls for Peace and Reconstruction Amid Ongoing Negotiations with Israel",
@@ -698,55 +748,5 @@
     "url": "Middle_East_Spectator/35826",
     "title": "Iran's Supreme Leader Promotes Vahidi to Major General Amid IRGC Leadership Change",
     "published": "2026-08-10T22:41:46.887367+00:00"
-  },
-  "e9097bada421b1d92bbc602ed013567bdb33847b83e2d5cc8aa8804ac7d03810": {
-    "url": "https://www.tehrantimes.com/news/529023/Private-sector-can-be-a-pillar-of-sustainability-for-any-potential",
-    "title": "Private sector can be a pillar of sustainability for any potential agreement: ICCIMA head",
-    "published": "2026-08-10T21:00:36+00:00"
-  },
-  "8fc2514073427852b9f79b570870f85b69285b338c46511d54cf844790bc4500": {
-    "url": "https://www.rt.com/news/644085-ukraine-attack-iranian-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Ukraine must pay for deadly ship strike \u2013 Iran",
-    "published": "2026-08-10T20:54:42+00:00"
-  },
-  "aa90d56994fa44d76b485d8e534ddde44ee26913ee6973a8ebe6fc65e8850663": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
-    "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses ",
-    "published": "2026-08-10T20:54:38+00:00"
-  },
-  "d2f16685242775290d3e35521e0c71068babc2d08e3df3372ad1431c3f0f9dbc": {
-    "url": "BellumActaNews/176335",
-    "title": "Ukraine Claims Success in Crimea Airstrikes Against Russian Air Defenses",
-    "published": "2026-08-10T20:53:01.664937+00:00"
-  },
-  "155b601a52542363aabb2da93fce8aa4e5e078c83cc86ad27c78e88556d7a20a": {
-    "url": "DDGeopolitics/191018",
-    "title": "US Diplomat Warns of Escalation in Iran Conflict",
-    "published": "2026-08-10T20:51:22.705560+00:00"
-  },
-  "35953ddf28016ef6c2907fcd1ddce49ed723f7c14a4803e5cfe8f0a6da5b646e": {
-    "url": "DDGeopolitics/191023",
-    "title": "Iranian Protesters Display Defiance in Enqelab Square, Tehran",
-    "published": "2026-08-10T20:50:28.170569+00:00"
-  },
-  "542036a6249065618b2a411a3b87c30d5b8ee2af53948634c277207b6393be28": {
-    "url": "QudsNen/234841",
-    "title": "Qusra Settler Siege: Israeli Occupation Forces Fail to Intervene",
-    "published": "2026-08-10T20:49:16.734438+00:00"
-  },
-  "eddba5e0ad64e589dc705a8d495be26ae7ab97984a27fb876b92f7b540583e5a": {
-    "url": "thecradlemedia/65916",
-    "title": "ADNOC Announces New LNG Export Facility to Bypass Strait of Hormuz Amid Maritime Attacks",
-    "published": "2026-08-10T20:47:24.225827+00:00"
-  },
-  "332c1c6df1549443715afd232ff86a145087a49b3f82e71d7c30b9f49b5a060e": {
-    "url": "thecradlemedia/65918",
-    "title": "Israeli Reconnaissance Flights Persist Over Lebanon",
-    "published": "2026-08-10T20:47:14.954140+00:00"
-  },
-  "a591a45d0c0c9bb857b4d633aac6ce3cc331921bc80cd07df9b772a30fc5a546": {
-    "url": "https://english.almanar.com.lb/article/114512/",
-    "title": "Russia Says Kiev Hit Foreigners to Drive Wedge into Its Relations with Fraternal Nations - Al-Manar TV Lebanon",
-    "published": "2026-08-10T20:22:51+00:00"
   }
 }
