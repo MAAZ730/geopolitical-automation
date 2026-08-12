@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5855,
+  "total_calls": 5859,
   "tiers": {
-    "groq": 5836,
+    "groq": 5840,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T11:11:51.273435+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Drone attack on Nizhnekamsk kills thirteen people killed, including child"
-    },
-    {
-      "timestamp": "2026-08-10T11:12:29.124068+00:00",
-      "tier": "groq",
-      "article": "Ukrainian forces attacked Belgorod Region more than 110 times in 24 hours"
-    },
-    {
-      "timestamp": "2026-08-10T11:13:16.305526+00:00",
-      "tier": "groq",
-      "article": "Number of people injured in drone attack on Nizhnekamsk climbs to 48"
-    },
-    {
-      "timestamp": "2026-08-10T11:13:36.649057+00:00",
-      "tier": "groq",
-      "article": "Israel remains in buffer zone in Lebanon as it failed to disarm Hezbollah \u2014 adviser"
-    },
     {
       "timestamp": "2026-08-10T13:15:00.367897+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T13:19:28.560920+00:00",
       "tier": "groq",
       "article": "Lebanon parliament votes to abolish death penalty"
+    },
+    {
+      "timestamp": "2026-08-12T15:00:51.172706+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s missile production exceeds use for strikes against enemies \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-08-12T15:01:26.214748+00:00",
+      "tier": "groq",
+      "article": "North Korea missile launch poses no threat to US, allies \u2014 Pentagon"
+    },
+    {
+      "timestamp": "2026-08-12T15:02:12.309585+00:00",
+      "tier": "groq",
+      "article": "Death toll from Ukrainian drone attack on Krasnodar Region rises to three"
+    },
+    {
+      "timestamp": "2026-08-12T15:02:31.252740+00:00",
+      "tier": "groq",
+      "article": "Pezeshkian congratulates new IRGC Navy commander"
     }
   ]
 }

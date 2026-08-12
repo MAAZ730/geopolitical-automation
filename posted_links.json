@@ -1,4 +1,49 @@
 {
+  "2581d09bda0581552aa966e0f75142baf70c888e0beda77bee7aa53d23286132": {
+    "url": "presstv/202513",
+    "title": "Iran's Missile and Drone Programs Fuelled by External Pressures, Expert Claims",
+    "published": "2026-08-12T15:10:31.424694+00:00"
+  },
+  "e51791a54e5b5de8c72ebb6393a35d363efed1f205876b4a9dbb3710ed2fb96b": {
+    "url": "militarywave/24730",
+    "title": "Kuban Region Hit by Drone Strikes, Multiple Fatalities Reported",
+    "published": "2026-08-12T15:08:25.769674+00:00"
+  },
+  "1c9e719b5e4a10cb57fd1beca9668e5414efb3e80316925505af36603627d200": {
+    "url": "QudsNen/235020",
+    "title": "Israeli Airstrike Devastates Palestinian Family in Gaza",
+    "published": "2026-08-12T15:07:14.776158+00:00"
+  },
+  "b55370fe2f2ae4c44f9bc324e645cfb82209f6084870d518a1f781f68c3ce33e": {
+    "url": "QudsNen/235025",
+    "title": "Pro-Palestine Activist Honored in Gaza",
+    "published": "2026-08-12T15:04:40.385359+00:00"
+  },
+  "e69369399095750b5d980c866986ed79c9e6add5899a8de05c3ac77aeebc7344": {
+    "url": "thecradlemedia/66052",
+    "title": "Yemen Targets Saudi Assets with Ballistic Missiles",
+    "published": "2026-08-12T15:02:36.388268+00:00"
+  },
+  "62da2a285418f58a4589cb77500e1e25ee763b9942a47de775d0b3adf04a88b3": {
+    "url": "thecradlemedia/66054",
+    "title": "Iran Denies Regional Instability, Accuses US and Israel",
+    "published": "2026-08-12T15:02:35.190680+00:00"
+  },
+  "92fc611304c3543c48593341204b83069af27a6cd85004fb6c30e83a4bc9d1aa": {
+    "url": "https://tass.com/emergencies/2171951",
+    "title": "Death toll from Ukrainian drone attack on Krasnodar Region rises to three",
+    "published": "2026-08-12T13:54:10+00:00"
+  },
+  "46df43db00743c5179fdd7e5dd99ac154af01b17a304563da3bc7eba84f5be0f": {
+    "url": "https://tass.com/world/2171945",
+    "title": "Iran\u2019s missile production exceeds use for strikes against enemies \u2014 IRGC",
+    "published": "2026-08-12T13:50:15+00:00"
+  },
+  "6e82a9f68fdd646a4586b16c9d8556fdf557ab262ac3440d957aec922ddfd519": {
+    "url": "https://tass.com/world/2171927",
+    "title": "North Korea missile launch poses no threat to US, allies \u2014 Pentagon",
+    "published": "2026-08-12T13:32:13+00:00"
+  },
   "21375ff300866eb8cea2cfa5c7cc9ce0a5b6f7e275fbc77eca7e8ad86a5da818": {
     "url": "presstv/202497",
     "title": "Ukraine Targets Russian Port of Novorossiysk in Drone Strike",
@@ -429,6 +474,11 @@
     "title": "Death toll in Houthi strike on vessel rises to four",
     "published": "2026-08-11T17:27:13+00:00"
   },
+  "2185dc2766138a6b2ecb6a0d9cd6d77ef7df173385bd38b8252786e375cbba77": {
+    "url": "https://en.irna.ir/news/86233698/Pezeshkian-congratulates-new-IRGC-Navy-commander",
+    "title": "Pezeshkian congratulates new IRGC Navy commander",
+    "published": "2026-08-11T15:30:09+00:00"
+  },
   "6c535afc857f738a8f812d4019f480490c2a9dcac79b0dd14649804b5fc26369": {
     "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
     "title": "Lebanon parliament votes to abolish death penalty",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/246896/Who-are-the-six-newly-appointed-Iranian-commanders",
     "title": "Who are the six newly-appointed Iranian commanders?",
     "published": "2026-08-11T06:14:24+00:00"
-  },
-  "d2a4bce00db0d86960ad502b6d3207487f778c2dc33a5f5fdfeb6803f74eaaa7": {
-    "url": "intelslava/92400",
-    "title": "Israeli Forces Raid Home in West Bank Village, Cause Damage",
-    "published": "2026-08-11T05:18:29.197812+00:00"
-  },
-  "603f663d02845672e4920b1014805324872910d83a5a4f7c7c8edef7aeea8e75": {
-    "url": "intelslava/92405",
-    "title": "Ukrainian MiG-29 Fighter Jet Crashes in Odesa Region",
-    "published": "2026-08-11T05:17:36.066659+00:00"
-  },
-  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
-    "url": "CensoredMen/222",
-    "title": "US Forces Enforce Maritime Blockade Against Iran",
-    "published": "2026-08-11T05:16:08.955880+00:00"
-  },
-  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
-    "url": "CensoredMen/229",
-    "title": "Ukraine Strikes Second Wildberries Warehouse in Nevinnomyssk",
-    "published": "2026-08-11T05:15:07.894698+00:00"
-  },
-  "730583f340458803defcad8c2a6261a8532acac1f21c08e14f6ff09a46219052": {
-    "url": "DDGeopolitics/191026",
-    "title": "Trump-Linked Firm Deploys Drilling Equipment on Greenland's Eastern Coast Without Approval",
-    "published": "2026-08-11T05:14:04.205436+00:00"
-  },
-  "a9e71f6075f93042bf01306524851bee023dced03b7a49253ffdad3b2fd20d95": {
-    "url": "QudsNen/234843",
-    "title": "Israel's Former National Security Chief Advocates for Gaza Strip Destruction",
-    "published": "2026-08-11T05:14:00.587426+00:00"
-  },
-  "d851962e7aa08ae85bb0aa4b3c0dd915f01208e07703c027abe601ba188fbc14": {
-    "url": "https://en.mehrnews.com/news/246892/Oil-edges-higher-as-US-Iran-hit-impasse-over-Hormuz-strait",
-    "title": "Oil edges higher as US, Iran hit impasse over Hormuz strait",
-    "published": "2026-08-11T04:55:18+00:00"
-  },
-  "6c2ea93f860a57da94e076479a9a7eea2ca9b6c6774619875e18a448d6e95018": {
-    "url": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
-    "title": "Huge fire breaks out at Libya\u2019s Zawiya refinery after drone attack",
-    "published": "2026-08-11T04:37:27+00:00"
-  },
-  "c35ae7921df6698f928ff13693959db1f2088e076af7ff86bd881cd263a42a3e": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-    "title": "Fire rages after drone strikes Libya\u2019s largest oil refinery",
-    "published": "2026-08-11T04:09:10+00:00"
-  },
-  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
-    "url": "CensoredMen/230",
-    "title": "IRGC Claims Strike on U.S. Installation in Jordan",
-    "published": "2026-08-11T03:53:49.135994+00:00"
   }
 }
