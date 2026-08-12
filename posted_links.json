@@ -1,4 +1,49 @@
 {
+  "003b723574a7ab1933e1ae986a0441c2e711b0009e6e5b4e4372b74ebb8eae03": {
+    "url": "Slavyangrad/172975",
+    "title": "Russian Drones Strike Shopping Center in Occupied Zaporozhye Region",
+    "published": "2026-08-12T05:46:22.059628+00:00"
+  },
+  "f6445df3b2729dab22f776113cb4ab055cd30989293ddfb8f11992ffe484d8e6": {
+    "url": "Slavyangrad/172983",
+    "title": "Russia Conducts Drone Strike on Kherson City Energy Infrastructure",
+    "published": "2026-08-12T05:45:54.200215+00:00"
+  },
+  "bb5cf7f39b26493148d2d30db5ae5a7facd4fdb03a013501109db74a8f8d259c": {
+    "url": "boris_rozhin/221828",
+    "title": "Ivory Coast Enhances Military Capabilities with Chinese Drones",
+    "published": "2026-08-12T05:45:15.799478+00:00"
+  },
+  "9dc45983d7aa017e35383310c50985cf7f82f6c5238c07c07cf43b04c4a2d5a7": {
+    "url": "intelslava/92457",
+    "title": "Russian Lancet Loitering Munition Strikes Ukrainian Pickup Truck in Eastern Ukraine",
+    "published": "2026-08-12T05:42:41.480489+00:00"
+  },
+  "88f87c4a6d5b544c8a0e04b0dfe9028a1d363e73154674bc38cbdf8e2e50e91e": {
+    "url": "BellumActaNews/176367",
+    "title": "Syrian Court Sentences Bashar al-Assad to Death in Absentia",
+    "published": "2026-08-12T05:41:49.707774+00:00"
+  },
+  "625b38a144990a0ed90f3b6543aefdce9e6abdb748105e191e266831e7afb558": {
+    "url": "QudsNen/234984",
+    "title": "Israeli Forces Detain Palestinian Journalist in West Bank Raid",
+    "published": "2026-08-12T05:41:45.252388+00:00"
+  },
+  "08e02a695d3230b3c44c8b1fc1f21d980d4c4b67690a4394f84c34eb8979e769": {
+    "url": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
+    "title": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+    "published": "2026-08-12T04:59:19+00:00"
+  },
+  "68e239506e3957f1417418f7c723617c6f7287b7887f0dff7b29e40d91298d5a": {
+    "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
+    "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen\u2019s government says",
+    "published": "2026-08-12T03:09:06+00:00"
+  },
+  "c85c11e4fb100273099b6b1ae1f464eddbccb646a9f623159d6f3c4d1db81f8f": {
+    "url": "https://tass.com/world/2171627",
+    "title": "US controls Strait of Hormuz, would strike Iran if it attempted to change that \u2014 Trump",
+    "published": "2026-08-12T02:26:28+00:00"
+  },
   "c107a0bc1f766addbde8e12229ea50cb9b1413922fe2cc75111bcfae34bc1cab": {
     "url": "presstv/202442",
     "title": "Ukraine Launches Drone Strike on Russian Port of Novorossiysk",
@@ -449,6 +494,11 @@
     "title": "Russian Aerospace Forces strike Ukrainian targets in DPR, Kharkov, Sumy",
     "published": "2026-08-11T06:44:02+00:00"
   },
+  "082daa253769632efb548ed3131909ea6db7692121418829d02a83aa3d516cfb": {
+    "url": "https://en.mehrnews.com/news/246896/Who-are-the-six-newly-appointed-Iranian-commanders",
+    "title": "Who are the six newly-appointed Iranian commanders?",
+    "published": "2026-08-11T06:14:24+00:00"
+  },
   "d2a4bce00db0d86960ad502b6d3207487f778c2dc33a5f5fdfeb6803f74eaaa7": {
     "url": "intelslava/92400",
     "title": "Israeli Forces Raid Home in West Bank Village, Cause Damage",
@@ -698,55 +748,5 @@
     "url": "https://www.tehrantimes.com/news/529022/MP-Retaliation-for-martyred-leader-s-assassination-to-be-pursued",
     "title": "MP: Retaliation for martyred leader\u2019s assassination to be pursued on all fronts",
     "published": "2026-08-10T18:41:13+00:00"
-  },
-  "965bee5cba51a680a7e78c4b22897c07cacf5673900185812372c0d2795cce8e": {
-    "url": "https://www.tehrantimes.com/news/529017/Iran-says-regional-defense-pact-signals-shift-toward-indigenous",
-    "title": "Iran says regional defense pact signals shift toward indigenous security",
-    "published": "2026-08-10T18:13:22+00:00"
-  },
-  "06d8169e30ceaf592d84528602208b538ff1171374d5e5d56c8d742a0ba0b5e8": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
-    "title": "US Army exploring 50mm cannon to destroy drones",
-    "published": "2026-08-10T18:10:52+00:00"
-  },
-  "ba3ab1d3fffbc65bcf017ae2acec3bd97cdf24363ed38d0dbf0619976cfddf26": {
-    "url": "DDGeopolitics/190986",
-    "title": "Vu\u010di\u0107 Calls for Shift in Western Rhetoric on Ukraine Conflict",
-    "published": "2026-08-10T17:03:10.928156+00:00"
-  },
-  "9cb05444f6c7e532d7a9043fcc590635280a8b71c7dc495c1e34874431561822": {
-    "url": "DDGeopolitics/191002",
-    "title": "Russian Airstrikes Hit Zaporozhye Region in Southeastern Ukraine",
-    "published": "2026-08-10T17:01:18.403186+00:00"
-  },
-  "abd960c40cf5e963092d29112f106652f36eef9acb65d960e6460a46ecbab2b3": {
-    "url": "QudsNen/234809",
-    "title": "Israeli Drones Strike Southern Lebanon",
-    "published": "2026-08-10T17:00:59.552749+00:00"
-  },
-  "a516358871540065a3a47fe1df510907c60d81716a22434dd4cb7ec1f1310b9a": {
-    "url": "QudsNen/234816",
-    "title": "Icelandic Artist Defies Threats, Remains Committed to Palestine Support",
-    "published": "2026-08-10T17:00:39.618095+00:00"
-  },
-  "8008b2bfeb7dd00958ae960b64bbb2341b4b08cd56034d6b2d9ca069acd49030": {
-    "url": "thecradlemedia/65930",
-    "title": "Yemeni Forces Launch Deadly Attack on Saudi-Backed Mercenaries in Shabwa",
-    "published": "2026-08-10T16:59:02.205879+00:00"
-  },
-  "e97dc2fe527193147081cdb22315dd945e6dd18fb82f968ca989e0bbf24d48fb": {
-    "url": "thecradlemedia/65931",
-    "title": "US-Saudi Coalition Airstrike Kills Iraqi PMU Forces Amid Tensions Over Drone Strikes",
-    "published": "2026-08-10T16:59:00.458575+00:00"
-  },
-  "3cf28f2f175951bfbb9649fd43e3ad58d5fa58e1dac60a42caabc64867314e96": {
-    "url": "https://thecradle.co/articles-id/39305",
-    "title": "Iraq files UN complaint over deadly US-Saudi attack on resistance forces",
-    "published": "2026-08-10T16:25:00+00:00"
-  },
-  "c9c25fdb1bcee19dac6e8c205724e4e63d2c38a97ac05a5635f77c4aa64389f1": {
-    "url": "https://www.tehrantimes.com/news/529008/Iran-is-not-Venezuela-Hormuz-Strait-and-limits-of-US-power",
-    "title": "Iran is not Venezuela: Hormuz Strait and limits of US power",
-    "published": "2026-08-10T15:53:50+00:00"
   }
 }

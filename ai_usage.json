@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5835,
+  "total_calls": 5839,
   "tiers": {
-    "groq": 5816,
+    "groq": 5820,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-09T22:35:09.239447+00:00",
-      "tier": "groq",
-      "article": "Two killed, seven wounded in Ukraine\u2019s drone attacks on DPR during day"
-    },
-    {
-      "timestamp": "2026-08-09T22:35:28.544884+00:00",
-      "tier": "groq",
-      "article": "Bulgarian foreign ministry summons Ukrainian ambassador over drone incident \u2014 agency"
-    },
-    {
-      "timestamp": "2026-08-09T22:35:52.737828+00:00",
-      "tier": "groq",
-      "article": "Germany warns of \u2018daily hybrid warfare\u2019 after explosive-laden drone found"
-    },
-    {
-      "timestamp": "2026-08-09T22:36:38.292228+00:00",
-      "tier": "groq",
-      "article": "Palestinians say Netanyahu\u2019s decision leaves \u2018no clear path\u2019 to peace"
-    },
     {
       "timestamp": "2026-08-10T02:00:39.255434+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T02:10:36.772470+00:00",
       "tier": "groq",
       "article": "Oil edges higher as US, Iran hit impasse over Hormuz strait"
+    },
+    {
+      "timestamp": "2026-08-12T05:39:49.110673+00:00",
+      "tier": "groq",
+      "article": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen\u2019s government says"
+    },
+    {
+      "timestamp": "2026-08-12T05:40:35.546212+00:00",
+      "tier": "groq",
+      "article": "Israeli raids, demolitions continue as UN warns West Bank at breaking point"
+    },
+    {
+      "timestamp": "2026-08-12T05:40:51.505064+00:00",
+      "tier": "groq",
+      "article": "US controls Strait of Hormuz, would strike Iran if it attempted to change that \u2014 Trump"
+    },
+    {
+      "timestamp": "2026-08-12T05:41:37.411946+00:00",
+      "tier": "groq",
+      "article": "Who are the six newly-appointed Iranian commanders?"
     }
   ]
 }
