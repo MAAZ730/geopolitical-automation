@@ -1,4 +1,44 @@
 {
+  "4133d0b7f6d1e922d58dee8f1d9db814f733a0e02bd3abcf3e2ed64645074ba3": {
+    "url": "CyberspecNews/114203",
+    "title": "Drone Attack Targets Traffic on Dnepropetrovsk-Kryvyi Rog Road",
+    "published": "2026-08-13T09:21:16.639477+00:00"
+  },
+  "046a76968422c1797076c2280859efa07308e9366e7b55c30d9e24ad4e5f4983": {
+    "url": "mod_russia_en/28836",
+    "title": "Russia Builds School for Servicemen's Children in Abkhazia",
+    "published": "2026-08-13T09:20:55.307047+00:00"
+  },
+  "311cdbdef6e1a76fb7b121160bd1523de63b62eb3eecc771219bab67c07af7ca": {
+    "url": "QudsNen/235126",
+    "title": "Israeli Forces Establish Outpost in Qusra Residence",
+    "published": "2026-08-13T09:19:06.122719+00:00"
+  },
+  "8b3c367b67584f1b9a7c054713448ea653381dd93977b2921b511ff738f9d68e": {
+    "url": "QudsNen/235130",
+    "title": "Israeli Forces Raid Palestinian Homes in Hizma, Leaving Trail of Destruction",
+    "published": "2026-08-13T09:18:34.631552+00:00"
+  },
+  "fbc813048095626f374e7135acb28669f201f492fbcc29d4721d75ddb1e69b75": {
+    "url": "QudsNen/235133",
+    "title": "Israeli Forces Seize Bulldozer in Qalqilya Village Raid",
+    "published": "2026-08-13T09:18:33.520880+00:00"
+  },
+  "7357fd84f9daa4686433cf9894fde0abb21ebaae55d12060b13114d056116a92": {
+    "url": "thecradlemedia/66084",
+    "title": "Israel-South Lebanon Wildfires Spark Environmental Concerns",
+    "published": "2026-08-13T09:18:01.620187+00:00"
+  },
+  "ef0b262aa490cdea462926f75efe7755268d9160347dc39988c8069c3ac328cb": {
+    "url": "https://tass.com/emergencies/2172247",
+    "title": "IN BRIEF: Casualties after UAV attacks, fire in Bashkortostan Region, Sevastopol blackout",
+    "published": "2026-08-13T08:19:59+00:00"
+  },
+  "420f5a188b2ead9396ccfd8e893fa6230e905b8567bc747928dbd49610af458f": {
+    "url": "https://tass.com/defense/2172235",
+    "title": "Ukrainian Navy command post, port infrastructure hit in new strikes by Russian Forces",
+    "published": "2026-08-13T07:54:35+00:00"
+  },
   "ee902f5392600ea3d0a6ca8c0f27ff3da9dd4184f3a76afd0b466e871c362078": {
     "url": "mod_russia_en/28817",
     "title": "Russian Pacific Fleet Conducts Large-Scale Exercise with Drone-Assisted Missile Strikes",
@@ -28,6 +68,11 @@
     "url": "QudsNen/235115",
     "title": "Israeli Settlers Expand Outpost Near Ma'azi Jaba Bedouin Community",
     "published": "2026-08-13T07:41:11.316179+00:00"
+  },
+  "ef3c68e2500f465cf67e8d8e58d26d18f2788c2f1548bf3fda709bf722d6f17e": {
+    "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
+    "title": "Israeli strikes in south Lebanon a \u2018violation of international law\u2019: PM",
+    "published": "2026-08-13T07:11:05+00:00"
   },
   "9193c08078e510ac74547180c8056426b8f6269e7fcf7e62c483f0132ae1ab04": {
     "url": "https://tass.com/world/2172213",
@@ -328,6 +373,11 @@
     "url": "thecradlemedia/66054",
     "title": "Iran Denies Regional Instability, Accuses US and Israel",
     "published": "2026-08-12T15:02:35.190680+00:00"
+  },
+  "56d3853619ca27a86b39e1ac85ecda4c1cc68c7c171a47a911125298ae31fc04": {
+    "url": "https://tass.com/politics/2171991",
+    "title": "Russia slams Yerevan over plans to interrogate WWII veteran",
+    "published": "2026-08-12T14:59:43+00:00"
   },
   "2b880b03f11656cf974bfed3cc1a24bc534f969b1173a7bb7fba05bba6f5dd63": {
     "url": "https://tass.com/world/2171981",
@@ -698,55 +748,5 @@
     "url": "https://en.mehrnews.com/news/246920/Hormuz-will-reopen-only-when-US-accepts-Iran-s-conditions",
     "title": "Hormuz will reopen only when US accepts Iran\u2019s conditions",
     "published": "2026-08-11T22:05:28+00:00"
-  },
-  "21dc7cf0ed5e3bf605447ebb2b26903c36448813247132bdd4800c89fe15d76d": {
-    "url": "https://en.mehrnews.com/news/246919/Deadly-brawl-reported-aboard-USS-Abraham-Lincoln",
-    "title": "Seven dead in brawl aboard USS Abraham Lincoln",
-    "published": "2026-08-11T21:43:58+00:00"
-  },
-  "f82b8c7012cdb6fbafd5836418817cb1a97e2b08ae9469bd056ac8b4169e11ab": {
-    "url": "Slavyangrad/172942",
-    "title": "Libya's Zawiya Refinery Hit by Drone Strike for Third Time in Days",
-    "published": "2026-08-11T20:56:52.766088+00:00"
-  },
-  "920914727f14804ce2e111797a18ee49c63d40902d7913fd08f1e784500c300e": {
-    "url": "presstv/202416",
-    "title": "IRGC Threatens to Target Critical Infrastructure",
-    "published": "2026-08-11T20:56:07.243509+00:00"
-  },
-  "5492d4f1c88d0828f46b41267847bb412dd22138d8e1d3235d4d1d42c7ac7e6b": {
-    "url": "DDGeopolitics/191074",
-    "title": "Kharkiv Police Conduct Nighttime Raids on Male Residents",
-    "published": "2026-08-11T20:53:49.517822+00:00"
-  },
-  "bbaa54fe07f5e5a6a5e6865724643cde03edd87696563078856d35e21ac17357": {
-    "url": "QudsNen/234956",
-    "title": "Israeli Artillery Strikes Doha Kafr Ruman, Southern Lebanon",
-    "published": "2026-08-11T20:52:19.898988+00:00"
-  },
-  "aa1ec5534664ad88a911f03c36a06988a4a4e8b3a0d2441c85b06349338c0871": {
-    "url": "QudsNen/234958",
-    "title": "NYC Mayor Meets with Jewish Leaders Amid Criticism of Israel",
-    "published": "2026-08-11T20:52:14.367915+00:00"
-  },
-  "3e8f78f69140bb291986c8f268d470f0ba99f59dff3d6faff1bed639be9717cd": {
-    "url": "QudsNen/234959",
-    "title": "Netanyahu Sought to Block Abbas Return Amid Diplomatic Vacuum",
-    "published": "2026-08-11T20:52:12.773328+00:00"
-  },
-  "b0a998cfd657f5a2d629bbe5843486bbfba427f8ba520a25b56a1c0e96831963": {
-    "url": "https://tass.com/world/2171589",
-    "title": "CENTCOM reports disabling ship that attempted to breach blockade on Iran",
-    "published": "2026-08-11T20:36:19+00:00"
-  },
-  "211016d2aab8432da4507febecfb0dafa4cadb47f609f6417f7163dabd6f0e11": {
-    "url": "https://tass.com/world/2171587",
-    "title": "Houthis say they attacked Saudi forces\u2019 positions in Yemen",
-    "published": "2026-08-11T20:30:50+00:00"
-  },
-  "ed0792323a189c3f1ca525676b4b3257ea6e08acde5b6c3efb7057334b17fed4": {
-    "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-    "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-    "published": "2026-08-11T19:27:17+00:00"
   }
 }

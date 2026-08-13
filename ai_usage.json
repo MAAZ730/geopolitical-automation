@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5887,
+  "total_calls": 5891,
   "tiers": {
-    "groq": 5868,
+    "groq": 5872,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T03:48:12.083411+00:00",
-      "tier": "groq",
-      "article": "Australia to buy sophisticated US air-to-air missiles"
-    },
-    {
-      "timestamp": "2026-08-11T03:48:55.737467+00:00",
-      "tier": "groq",
-      "article": "Germany logs record UFO sightings after Pentagon file releases"
-    },
-    {
-      "timestamp": "2026-08-11T03:49:13.701385+00:00",
-      "tier": "groq",
-      "article": "President Pezeshkian: Iran\u2019s Armed Forces key to national strength"
-    },
-    {
-      "timestamp": "2026-08-11T03:49:30.189045+00:00",
-      "tier": "groq",
-      "article": "Deputy Parliament speaker says Hormuz will not return to pre-war status"
-    },
     {
       "timestamp": "2026-08-11T05:12:42.792810+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T07:40:35.001523+00:00",
       "tier": "groq",
       "article": "US environ. damage must be addressed in Hormuz arrangements"
+    },
+    {
+      "timestamp": "2026-08-13T09:15:34.198701+00:00",
+      "tier": "groq",
+      "article": "Israeli strikes in south Lebanon a \u2018violation of international law\u2019: PM"
+    },
+    {
+      "timestamp": "2026-08-13T09:16:13.727565+00:00",
+      "tier": "groq",
+      "article": "Ukrainian Navy command post, port infrastructure hit in new strikes by Russian Forces"
+    },
+    {
+      "timestamp": "2026-08-13T09:17:06.237356+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: Casualties after UAV attacks, fire in Bashkortostan Region, Sevastopol blackout"
+    },
+    {
+      "timestamp": "2026-08-13T09:17:56.573167+00:00",
+      "tier": "groq",
+      "article": "Russia slams Yerevan over plans to interrogate WWII veteran"
     }
   ]
 }
