@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5899,
+  "total_calls": 5903,
   "tiers": {
-    "groq": 5880,
+    "groq": 5884,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T09:00:34.789488+00:00",
-      "tier": "groq",
-      "article": "Lebanese Health Ministry says two people injured in Israeli strike on Nabatieh - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-11T09:01:15.136313+00:00",
-      "tier": "groq",
-      "article": "FACTBOX: One killed, fires at warehouses in Voronezh Region, 396 UAV attack aftermath"
-    },
-    {
-      "timestamp": "2026-08-11T09:02:02.380552+00:00",
-      "tier": "groq",
-      "article": "US faces $13 billion in damage from Iranian strikes \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-08-11T09:02:52.516767+00:00",
-      "tier": "groq",
-      "article": "Safeguarding Iran, its values is shared national responsibility: tourism minister"
-    },
     {
       "timestamp": "2026-08-11T10:53:04.788169+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T13:21:02.911642+00:00",
       "tier": "groq",
       "article": "Beyond the headlines, Pakistan and Russia are drawing closer"
+    },
+    {
+      "timestamp": "2026-08-13T15:00:42.446424+00:00",
+      "tier": "groq",
+      "article": "Army opens test ranges to private industry"
+    },
+    {
+      "timestamp": "2026-08-13T15:01:21.560475+00:00",
+      "tier": "groq",
+      "article": "Deputy foreign minister comments on Tokyo summoning Russian envoy, Black Sea proposals"
+    },
+    {
+      "timestamp": "2026-08-13T15:02:09.632194+00:00",
+      "tier": "groq",
+      "article": "Partnership between Russia, China not bloc-based in nature \u2014 envoys"
+    },
+    {
+      "timestamp": "2026-08-13T15:02:28.263447+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s Blurry Line Between Science and Sabotage Beneath the Ocean\u2019s Surface"
     }
   ]
 }

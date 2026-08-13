@@ -1,4 +1,34 @@
 {
+  "de6d6f663eaafa67de2689520bcd905a14c9d975da7cd239cebc27b314110043": {
+    "url": "intelslava/92528",
+    "title": "Russian Forces Conduct Drone Strike in Zaporizhzhia Oblast",
+    "published": "2026-08-13T15:09:05.065875+00:00"
+  },
+  "b3cb9308b68244abd11c7a0619b026a55a30fcb70fa0fdf82e1931e6627c79d8": {
+    "url": "presstv/202618",
+    "title": "Israeli Drone Strike Hits Palestinian Vehicle in Gaza",
+    "published": "2026-08-13T15:08:06.599103+00:00"
+  },
+  "3f811db42ef35b2d593842bcce275134159232455058cdf93d2520af03c9ae5d": {
+    "url": "presstv/202626",
+    "title": "Explosion Rocks Italy's KNDS Ammo Italy Munitions Plant in Colleferro",
+    "published": "2026-08-13T15:07:46.778988+00:00"
+  },
+  "4368471db2512326879d955f4565813feface995c0d4627d54827165269edd2d": {
+    "url": "DDGeopolitics/191187",
+    "title": "Explosion Rocks Ammunition Factory Near Rome",
+    "published": "2026-08-13T15:05:09.272848+00:00"
+  },
+  "affebc726a296ab052e59a635ec41959b7b3b0c8172344d52a82e2505a1d7331": {
+    "url": "thecradlemedia/66106",
+    "title": "Israeli Drone Strike Kills Gaza Governorate Police Director",
+    "published": "2026-08-13T15:02:34.941242+00:00"
+  },
+  "61e8188576374d34808d33bbd73b26a74bff1ad1ecd3e1198dd992b1eb2bd81e": {
+    "url": "thecradlemedia/66110",
+    "title": "Putin Threatens Retaliation Over Seized Russian Tankers",
+    "published": "2026-08-13T15:02:31.733484+00:00"
+  },
   "c267b4781baa1c0c76747bb117f862ddc708c637a0216678acd082b2147b3019": {
     "url": "intelslava/92529",
     "title": "Ukraine's Odesa Oblast Hit by Russian-Backed Drone Strikes",
@@ -33,6 +63,11 @@
     "url": "https://tass.com/world/2172417",
     "title": "US seeks to develop next-gen hypersonic cruise missile",
     "published": "2026-08-13T13:01:17+00:00"
+  },
+  "5e86714b6c74d069abfa1cc76a9202c99a715cacc3de6dc1dd95ef2e22f8fecc": {
+    "url": "https://tass.com/politics/2172413",
+    "title": "Deputy foreign minister comments on Tokyo summoning Russian envoy, Black Sea proposals",
+    "published": "2026-08-13T12:55:21+00:00"
   },
   "723cc45d734e3c3627744dd7cab195b74ea4053e29370dd6f40667994cd8e709": {
     "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
@@ -73,6 +108,11 @@
     "url": "thecradlemedia/66091",
     "title": "Yemeni Forces Repel Ansarallah Maritime Attack, Destroy Boats in Bab al-Mandab Strait",
     "published": "2026-08-13T11:05:13.529579+00:00"
+  },
+  "a79e748c0a0562e21439a0b63b31c9e6ce7d13a3d28e8db6b141c8fc10f28e80": {
+    "url": "https://tass.com/politics/2172297",
+    "title": "Partnership between Russia, China not bloc-based in nature \u2014 envoys",
+    "published": "2026-08-13T09:24:59+00:00"
   },
   "6d268e405fa1bf8b6b00b0dab2d2637c8a17e2277574f2567ed3dccce1f189f2": {
     "url": "https://tass.com/world/2172293",
@@ -299,6 +339,11 @@
     "title": "Drone attacks on energy infrastructure deepen Libya\u2019s energy crisis",
     "published": "2026-08-12T20:59:52+00:00"
   },
+  "7055489bd84c1460565d63d59aefe8ff1476f6501087d7477ab9f807feb88856": {
+    "url": "https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
+    "title": "Army opens test ranges to private industry",
+    "published": "2026-08-12T20:59:14+00:00"
+  },
   "8a7b4e04c04abbcf83131ef2df17177f5ff240c87857d17342465ce89461fc6f": {
     "url": "intelslava/92474",
     "title": "Ukraine Confirms Deployment of New Geran-2 Variant in Sumy Oblast",
@@ -383,6 +428,11 @@
     "url": "https://www.rt.com/news/644172-russia-pakistan-drawing-closer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "Beyond the headlines, Pakistan and Russia are drawing closer",
     "published": "2026-08-12T18:22:20+00:00"
+  },
+  "330df1268189ff8d93a3bf25cdd3cee196fe8bd4964bdc25927b6e4edb0d1a53": {
+    "url": "https://warontherocks.com/russias-blurry-line-between-science-and-sabotage-beneath-the-oceans-surface/",
+    "title": "Russia\u2019s Blurry Line Between Science and Sabotage Beneath the Ocean\u2019s Surface",
+    "published": "2026-08-12T17:30:08+00:00"
   },
   "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
     "url": "CensoredMen/232",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/emergencies/2171681",
     "title": "IN BRIEF: Casualties, strike on overpass in Novorossiysk, 502 UAV attack aftermath",
     "published": "2026-08-12T07:29:25+00:00"
-  },
-  "55f1443cef4ee2da3f10231362afd3e8b9f33b3a98837b3d163f5dd58add7752": {
-    "url": "https://tass.com/emergencies/2171673",
-    "title": "Ukrainian attack on Energodar injures three people, including two Zaporozhye NPP employees",
-    "published": "2026-08-12T07:22:32+00:00"
-  },
-  "a1b03adf653875e1576d5ea864c3ae19824bb50a2059c6c5d239e81fa74a0aea": {
-    "url": "https://en.mehrnews.com/news/246922/IRGC-ordered-to-build-capability-to-strike-enemy-soil",
-    "title": "IRGC ordered to build capability to strike enemy soil",
-    "published": "2026-08-12T06:57:46+00:00"
-  },
-  "19e3076d07e36284801d38199df94041b995fbb54563d8db39b684c9bc738867": {
-    "url": "https://tass.com/world/2171653",
-    "title": "JD Vance personally asks Kiev to stop strikes on CPC infrastructure \u2014 newspaper",
-    "published": "2026-08-12T06:22:42+00:00"
-  },
-  "003b723574a7ab1933e1ae986a0441c2e711b0009e6e5b4e4372b74ebb8eae03": {
-    "url": "Slavyangrad/172975",
-    "title": "Russian Drones Strike Shopping Center in Occupied Zaporozhye Region",
-    "published": "2026-08-12T05:46:22.059628+00:00"
-  },
-  "f6445df3b2729dab22f776113cb4ab055cd30989293ddfb8f11992ffe484d8e6": {
-    "url": "Slavyangrad/172983",
-    "title": "Russia Conducts Drone Strike on Kherson City Energy Infrastructure",
-    "published": "2026-08-12T05:45:54.200215+00:00"
-  },
-  "bb5cf7f39b26493148d2d30db5ae5a7facd4fdb03a013501109db74a8f8d259c": {
-    "url": "boris_rozhin/221828",
-    "title": "Ivory Coast Enhances Military Capabilities with Chinese Drones",
-    "published": "2026-08-12T05:45:15.799478+00:00"
-  },
-  "9dc45983d7aa017e35383310c50985cf7f82f6c5238c07c07cf43b04c4a2d5a7": {
-    "url": "intelslava/92457",
-    "title": "Russian Lancet Loitering Munition Strikes Ukrainian Pickup Truck in Eastern Ukraine",
-    "published": "2026-08-12T05:42:41.480489+00:00"
-  },
-  "88f87c4a6d5b544c8a0e04b0dfe9028a1d363e73154674bc38cbdf8e2e50e91e": {
-    "url": "BellumActaNews/176367",
-    "title": "Syrian Court Sentences Bashar al-Assad to Death in Absentia",
-    "published": "2026-08-12T05:41:49.707774+00:00"
-  },
-  "625b38a144990a0ed90f3b6543aefdce9e6abdb748105e191e266831e7afb558": {
-    "url": "QudsNen/234984",
-    "title": "Israeli Forces Detain Palestinian Journalist in West Bank Raid",
-    "published": "2026-08-12T05:41:45.252388+00:00"
-  },
-  "08e02a695d3230b3c44c8b1fc1f21d980d4c4b67690a4394f84c34eb8979e769": {
-    "url": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
-    "title": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
-    "published": "2026-08-12T04:59:19+00:00"
   }
 }
