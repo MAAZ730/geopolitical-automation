@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5883,
+  "total_calls": 5887,
   "tiers": {
-    "groq": 5864,
+    "groq": 5868,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T01:56:27.873809+00:00",
-      "tier": "groq",
-      "article": "Inside a secret launch site for Ukraine\u2019s deep-strike drones"
-    },
-    {
-      "timestamp": "2026-08-11T01:57:00.008150+00:00",
-      "tier": "groq",
-      "article": "Kiev troops bombard Donetsk People\u2019s Republic 27 times over past day"
-    },
-    {
-      "timestamp": "2026-08-11T01:57:47.747201+00:00",
-      "tier": "groq",
-      "article": "S Korea, US troops to begin annual drill next week"
-    },
-    {
-      "timestamp": "2026-08-11T01:58:07.424472+00:00",
-      "tier": "groq",
-      "article": "Baqaei dismisses Netanyahu\u2019s claim on Iran\u2019s nuclear program as fabrication"
-    },
     {
       "timestamp": "2026-08-11T03:48:12.083411+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T05:44:46.176954+00:00",
       "tier": "groq",
       "article": "US calls Kiev to heel over Black Sea tanker attacks \u2013 FT"
+    },
+    {
+      "timestamp": "2026-08-13T07:38:57.230706+00:00",
+      "tier": "groq",
+      "article": "Ukraine needs 5% of US Patriot missile stockpiles to survive winter \u2014 Zelensky"
+    },
+    {
+      "timestamp": "2026-08-13T07:39:34.430600+00:00",
+      "tier": "groq",
+      "article": "Oil from tanker that ran aground off coast of Oman has reached mainland \u2014 UN"
+    },
+    {
+      "timestamp": "2026-08-13T07:39:53.788398+00:00",
+      "tier": "groq",
+      "article": "US menace against civilian sites breach of Geneva Convention"
+    },
+    {
+      "timestamp": "2026-08-13T07:40:35.001523+00:00",
+      "tier": "groq",
+      "article": "US environ. damage must be addressed in Hormuz arrangements"
     }
   ]
 }
