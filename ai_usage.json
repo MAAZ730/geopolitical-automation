@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5907,
+  "total_calls": 5911,
   "tiers": {
-    "groq": 5888,
+    "groq": 5892,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T13:12:01.752015+00:00",
-      "tier": "groq",
-      "article": "Container ship likely hit by missile in Gulf of Oman \u2014 news agency"
-    },
-    {
-      "timestamp": "2026-08-11T13:12:36.503051+00:00",
-      "tier": "groq",
-      "article": "Western defense industry moving toward decentralization, clustering to cut costs \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-11T13:13:26.082700+00:00",
-      "tier": "groq",
-      "article": "Children Among Six Wounded in West Bank Raid as Settler Attacks Surge 63% - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-11T13:13:46.044343+00:00",
-      "tier": "groq",
-      "article": "US Navy tests AI-powered submarine hunter"
-    },
     {
       "timestamp": "2026-08-11T15:01:48.656428+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T17:00:05.960465+00:00",
       "tier": "groq",
       "article": "Russian Battlegroup West destroys 83 Ukrainian heavy six-rotor drones in past day"
+    },
+    {
+      "timestamp": "2026-08-13T19:05:56.876152+00:00",
+      "tier": "groq",
+      "article": "CENTCOM to create first multinational attack drone strike force"
+    },
+    {
+      "timestamp": "2026-08-13T19:06:36.575351+00:00",
+      "tier": "groq",
+      "article": "Zelensky\u2019s missile math mistakes: A few Patriots won\u2019t save him"
+    },
+    {
+      "timestamp": "2026-08-13T19:07:24.195892+00:00",
+      "tier": "groq",
+      "article": "Patriot missiles Ukraine requests from US enough to counter 25 targets \u2014 Russian military"
+    },
+    {
+      "timestamp": "2026-08-13T19:07:42.296734+00:00",
+      "tier": "groq",
+      "article": "FM Araghchi slams France over \"vivid\" human rights hypocrisy"
     }
   ]
 }
