@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5911,
+  "total_calls": 5915,
   "tiers": {
-    "groq": 5892,
+    "groq": 5896,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T15:01:48.656428+00:00",
-      "tier": "groq",
-      "article": "Russia destroys Ukraine\u2019s US-made Humvee vehicle in Donetsk region"
-    },
-    {
-      "timestamp": "2026-08-11T15:02:27.135084+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Latest Russian strike targets defense industry sites, logistic centers"
-    },
-    {
-      "timestamp": "2026-08-11T15:02:45.634092+00:00",
-      "tier": "groq",
-      "article": "Ukrainian army stops publishing data on Russian missile attacks \u2014 Bloomberg"
-    },
-    {
-      "timestamp": "2026-08-11T15:03:05.133195+00:00",
-      "tier": "groq",
-      "article": "Iran is not Venezuela: Hormuz Strait and limits of US power"
-    },
     {
       "timestamp": "2026-08-11T17:29:18.994258+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T19:07:42.296734+00:00",
       "tier": "groq",
       "article": "FM Araghchi slams France over \"vivid\" human rights hypocrisy"
+    },
+    {
+      "timestamp": "2026-08-13T20:48:09.733763+00:00",
+      "tier": "groq",
+      "article": "Zelensky trying to shift responsibility for missile shortage onto Trump \u2014 ex-spox"
+    },
+    {
+      "timestamp": "2026-08-13T20:48:47.319768+00:00",
+      "tier": "groq",
+      "article": "EC unsure whether allotment of remaining 2026 aid to solve Kiev's Patriot problem"
+    },
+    {
+      "timestamp": "2026-08-13T20:49:06.869998+00:00",
+      "tier": "groq",
+      "article": "Knowledge, human dignity in eyes of Islamic personality"
+    },
+    {
+      "timestamp": "2026-08-13T20:49:26.395119+00:00",
+      "tier": "groq",
+      "article": "Israeli Channel 14: An attack targeting Defense Minister Yisrael Katz was thwarted this morning in Jenin - Al-Manar TV Lebanon"
     }
   ]
 }

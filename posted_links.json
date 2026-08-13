@@ -1,4 +1,34 @@
 {
+  "846c5f309bf58eadd424e58bcffd62a3100eb934e2cb5a4bd8cc653e5ac156a6": {
+    "url": "OSINT_defender/313",
+    "title": "Russia Targets Kyiv in Major Drone and Missile Attack",
+    "published": "2026-08-13T20:54:26.009150+00:00"
+  },
+  "f7d0ac0171c7cd5fac31c26d37547f1a943cec2626923d6054e5180492745c07": {
+    "url": "OSINT_defender/316",
+    "title": "Pentagon Ceremony Honors Service Members with Border Defense Medal",
+    "published": "2026-08-13T20:52:52.254024+00:00"
+  },
+  "a8a96a84c9f9d58220a484d111277d3f4fab7329627641c7d50492e0455b786e": {
+    "url": "mod_russia_en/28845",
+    "title": "Russian UAVs Strike Ukrainian Recovery Train in Odessa Region",
+    "published": "2026-08-13T20:51:10.023490+00:00"
+  },
+  "c6a3b1480e2afaf0c841f54ef2ed8f85cb2016803663f9caa57e2543cc59ea61": {
+    "url": "Middle_East_Spectator/35885",
+    "title": "Iran Tests New Ballistic Missile or Air Defense Projectile in Kerman",
+    "published": "2026-08-13T20:50:28.540439+00:00"
+  },
+  "caa2a189d32af7ad76c4c024def6d8f39ee1b6e5d2d4db8efbdf12432808cc15": {
+    "url": "Middle_East_Spectator/35886",
+    "title": "Saudi-Backed Forces Engage Yemeni Drones in Marib Province",
+    "published": "2026-08-13T20:50:27.268285+00:00"
+  },
+  "75add74bc7eec037acc9aed66ccd88187655c2f15c1bbd3f6fdca59122e7a593": {
+    "url": "thecradlemedia/66120",
+    "title": "Lebanon Denies US Plan to Deploy Foreign Troops to Disarm Hezbollah",
+    "published": "2026-08-13T20:49:28.919167+00:00"
+  },
   "0f9045b5d1b3ed2a313503abab7f0616ea174e0e514a76e5ef2e0d6e11722af2": {
     "url": "Slavyangrad/173145",
     "title": "Russian Logistics Warehouse Hit in Pavlograd, Ukraine",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/66103",
     "title": "CIA Casts Doubt on Israeli Warning of Iranian Threat to Trump",
     "published": "2026-08-13T19:07:46.432413+00:00"
+  },
+  "519670b5e0c05d69881e510f30985feb0d99f0f66699c2e903df52ee9d999434": {
+    "url": "https://english.almanar.com.lb/article/115657/",
+    "title": "Israeli Channel 14: An attack targeting Defense Minister Yisrael Katz was thwarted this morning in Jenin - Al-Manar TV Lebanon",
+    "published": "2026-08-13T18:34:32+00:00"
   },
   "cb2ffab27d1b73f650d8efde2fe56e1a029f6fc1299ecde10ed9098e7ab3fef2": {
     "url": "https://tass.com/world/2172551",
@@ -74,6 +109,11 @@
     "title": "Russian-Israeli Historian Missing After Arriving in Tel Aviv",
     "published": "2026-08-13T17:00:10.529739+00:00"
   },
+  "01e4692da38a466073432f3075b649a17ec5fba94f35ce5e3c494f147a0e0b25": {
+    "url": "https://tass.com/world/2172521",
+    "title": "Zelensky trying to shift responsibility for missile shortage onto Trump \u2014 ex-spox",
+    "published": "2026-08-13T16:47:47+00:00"
+  },
   "e64ed91da48a19ed63323bbfd4fd353ef3302e8955b187dfe6f9020fa8e31da9": {
     "url": "https://tass.com/politics/2172517",
     "title": "Ukraine's war-fighting capacity dwindling \u2014 Russian MFA",
@@ -88,6 +128,11 @@
     "url": "https://tass.com/politics/2172493",
     "title": "Zelensky \u2018reaps fruits\u2019 of miscalculated choices, veteran says about Russian strikes",
     "published": "2026-08-13T15:32:27+00:00"
+  },
+  "765e5ab70e65efe444bff007684a558b613e67db1abb21a84befb2f47c6d4356": {
+    "url": "https://tass.com/world/2172481",
+    "title": "EC unsure whether allotment of remaining 2026 aid to solve Kiev's Patriot problem",
+    "published": "2026-08-13T15:13:41+00:00"
   },
   "de6d6f663eaafa67de2689520bcd905a14c9d975da7cd239cebc27b314110043": {
     "url": "intelslava/92528",
@@ -293,6 +338,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm?traffic_source=rss",
     "title": "Israeli strikes in south Lebanon a \u2018violation of international law\u2019: PM",
     "published": "2026-08-13T07:11:05+00:00"
+  },
+  "148acf185707e89a6a753872d3aa9a93b510d1f1e702827d7117d84bd5eb4588": {
+    "url": "https://en.mehrnews.com/news/246932/Knowledge-human-dignity-in-eyes-of-Islamic-personality",
+    "title": "Knowledge, human dignity in eyes of Islamic personality",
+    "published": "2026-08-13T06:51:59+00:00"
   },
   "9193c08078e510ac74547180c8056426b8f6269e7fcf7e62c483f0132ae1ab04": {
     "url": "https://tass.com/world/2172213",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/defense/2171915",
     "title": "AK balances odds of guy from African backwoods with colonizer \u2014 Kalashnikov CEO",
     "published": "2026-08-12T13:05:58+00:00"
-  },
-  "84b965a6172c84929d8b02b233b02a9c4d58c9ac1d67a2355bd3958697e8edbd": {
-    "url": "https://tass.com/society/2171907",
-    "title": "IN BRIEF: What we know about foiled terrorist attack against Defense Ministry officer",
-    "published": "2026-08-12T13:00:58+00:00"
-  },
-  "d74f1c1add44448723cf01b85f271023b620f6c5621aa6eb24c3f087a6d8d20a": {
-    "url": "https://tass.com/world/2171891",
-    "title": "Houthis fire two ballistic missiles at Yemeni port of Mokha",
-    "published": "2026-08-12T12:21:52+00:00"
-  },
-  "5c3a2856d1079f6ee480fa38df678507f66142c2784f96c6afe913b56a7539e0": {
-    "url": "https://tass.com/world/2171893",
-    "title": "Multinational statement on missile launches signals preparations for major war \u2014 expert",
-    "published": "2026-08-12T12:21:15+00:00"
-  },
-  "8709da0a3d7d384535438a00699c7341711c17bc705923ca18528692c531d274": {
-    "url": "https://tass.com/defense/2171881",
-    "title": "Su-35S pilot destroys two Ukrainian Su-27s in single air battle \u2014 commander",
-    "published": "2026-08-12T12:20:08+00:00"
-  },
-  "75a3dbc72a6d8230c2228bc5974768d749bcbc1e0a7bba1e08e1e4e4c0b97cd9": {
-    "url": "https://tass.com/defense/2171879",
-    "title": "Pacific Fleet maneuvers demonstrate Russia's nuclear deterrence tools \u2014 expert",
-    "published": "2026-08-12T11:55:21+00:00"
-  },
-  "85a09633409747264387b91f47a09d9324b65c53e37ba3ff680862e99d63f2b5": {
-    "url": "Slavyangrad/173006",
-    "title": "Russians Destroy Enemy Artillery, Eliminate Ukrainian Forces in Kherson and Sumy",
-    "published": "2026-08-12T11:10:36.195367+00:00"
-  },
-  "6aa69fa1b3d8a5c416142e01c67dffb1199f29d8540410b6cec235f1389e81e5": {
-    "url": "presstv/202495",
-    "title": "US Demands Reparations from Iran Amid Ongoing Tensions",
-    "published": "2026-08-12T11:09:32.113305+00:00"
-  },
-  "4615ae9004f5b9d62618ad79de9589bbf498d1d121782f28b949b54e1cdb8694": {
-    "url": "DDGeopolitics/191088",
-    "title": "Drone Attack Rocks Kiev City Centre",
-    "published": "2026-08-12T11:06:56.979128+00:00"
-  },
-  "faa58922e4194dadfd1f48d83e1ec8ac3bb189b3a1619bcf64eb8754128da42f": {
-    "url": "https://tass.com/world/2171843",
-    "title": "Pakistan hopes for Putin\u2019s visit to SCO summit in 2027 \u2014 ambassador to Russia",
-    "published": "2026-08-12T11:06:32+00:00"
-  },
-  "9c13c4d994416735486348ec5fbb768d1efbbb04529c00ebbdf202c7d4904b5b": {
-    "url": "thecradlemedia/66045",
-    "title": "Israeli Drone Strike Hits Car in Nabatieh, Lebanon",
-    "published": "2026-08-12T11:06:13.272693+00:00"
   }
 }
