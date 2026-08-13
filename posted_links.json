@@ -1,4 +1,49 @@
 {
+  "65f559bce808d416d8dd4b9c6326282ac29ac37640793462325330aac6851f9a": {
+    "url": "mod_russia_en/28843",
+    "title": "Russian Troops Evacuate Elderly Residents from Konstantinovka Basements",
+    "published": "2026-08-13T17:11:08.567846+00:00"
+  },
+  "0d4641394f9e08cd451703e721a6e3814de631107a2dc15d9bf1020ea6b80eb7": {
+    "url": "Slavyangrad/173137",
+    "title": "Explosion and Fire Rock Ammunition Factory near Rome",
+    "published": "2026-08-13T17:06:16.543724+00:00"
+  },
+  "dbab7a16ece9bcac3a1e9bc54db8c57fe5044b54b4144853107b06b2e86ba354": {
+    "url": "BellumActaNews/176435",
+    "title": "Explosion Rocks Italian Ammunition Plant",
+    "published": "2026-08-13T17:02:01.607913+00:00"
+  },
+  "bcefbd1079224fad76d3eca8fe41fde7e736ec9edecdc96c9b5e12e0c7d3a527": {
+    "url": "BellumActaNews/176436",
+    "title": "Heavy Rains Trigger Emergency in Chiba Prefecture, Japan",
+    "published": "2026-08-13T17:01:11.742960+00:00"
+  },
+  "6c426d2b062ae4a5522d32e5493af1c5c3e3f934b4aa57cf08b378103555c651": {
+    "url": "thecradlemedia/66114",
+    "title": "Israel and Lebanon Consider Foreign Troops for Hezbollah Disarmament",
+    "published": "2026-08-13T17:00:11.944552+00:00"
+  },
+  "2d09447d51eeabdea8eeade6b6a11eda45a27aa5681238ed24e3353db2a25d08": {
+    "url": "thecradlemedia/66117",
+    "title": "Russian-Israeli Historian Missing After Arriving in Tel Aviv",
+    "published": "2026-08-13T17:00:10.529739+00:00"
+  },
+  "e64ed91da48a19ed63323bbfd4fd353ef3302e8955b187dfe6f9020fa8e31da9": {
+    "url": "https://tass.com/politics/2172517",
+    "title": "Ukraine's war-fighting capacity dwindling \u2014 Russian MFA",
+    "published": "2026-08-13T16:40:04+00:00"
+  },
+  "ca3f1330e546baa20549e63e2ad25b1d3a3ccd2fc7d98dac59f9aa4ba8dc12c6": {
+    "url": "https://english.almanar.com.lb/article/115577/",
+    "title": "Yemeni Armed Forces Strike Aramco Refinery in Jizan with Two Drones - Al-Manar TV Lebanon",
+    "published": "2026-08-13T16:17:45+00:00"
+  },
+  "4370e1abeaf18ef1e9127931c8db8de50e11b510cc879b428c39b0a10d668b67": {
+    "url": "https://tass.com/politics/2172493",
+    "title": "Zelensky \u2018reaps fruits\u2019 of miscalculated choices, veteran says about Russian strikes",
+    "published": "2026-08-13T15:32:27+00:00"
+  },
   "de6d6f663eaafa67de2689520bcd905a14c9d975da7cd239cebc27b314110043": {
     "url": "intelslava/92528",
     "title": "Russian Forces Conduct Drone Strike in Zaporizhzhia Oblast",
@@ -268,6 +313,11 @@
     "url": "Slavyangrad/173072",
     "title": "Ukrainian Patrol Boat Destroyed by 'Geran' Drone in Ochakiv",
     "published": "2026-08-13T02:14:54.924337+00:00"
+  },
+  "5b17cf6cbb6eb24f02849d13d6e3890469199a8894e51b93a3b090abe68a2a52": {
+    "url": "https://tass.com/politics/2172173",
+    "title": "Russian Battlegroup West destroys 83 Ukrainian heavy six-rotor drones in past day",
+    "published": "2026-08-13T02:14:26+00:00"
   },
   "f716ee83949ab2ec86e93b60e4844693cacb5f39251e263d406e2ae2158078e8": {
     "url": "Slavyangrad/173073",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/66024",
     "title": "Israeli Drone Drops Explosives in Southern Lebanon",
     "published": "2026-08-12T09:16:17.735016+00:00"
-  },
-  "9e92c64b23409349c19a51dd62972ace336b01161940d19bb01e9903accbf1c9": {
-    "url": "https://tass.com/emergencies/2171753",
-    "title": "Ukrainian attacks on Belgorod Region kill two people, injure three others over past day",
-    "published": "2026-08-12T08:35:11+00:00"
-  },
-  "728f179b0432b7aab2ec2c0b7af3773c597f33577ea63cc09aa09c9000cccaa7": {
-    "url": "https://en.mehrnews.com/news/246923/Drone-strike-hits-northern-Iraq",
-    "title": "Drone strike hits northern Iraq",
-    "published": "2026-08-12T07:49:09+00:00"
-  },
-  "4e71f45782b961d7cd07997711aab9dd9b35715e229cfd29464aa34141843286": {
-    "url": "mod_russia_en/28800",
-    "title": "Russian Airstrikes Hit Ukrainian Military Targets in Eastern Ukraine",
-    "published": "2026-08-12T07:33:30.423086+00:00"
-  },
-  "8801ad00c82ec79cf1b603ea92fae0e8bff9deea60de9c8dba26b47abedfa056": {
-    "url": "presstv/202463",
-    "title": "Israel Air Strikes in Southern Lebanon",
-    "published": "2026-08-12T07:32:27.109948+00:00"
-  },
-  "e4953a3145c57d4647cb1f4e9269b2abeb44751c3bfee480331475bff0e79bd9": {
-    "url": "presstv/202467",
-    "title": "Israeli Violence Escalates in Occupied West Bank",
-    "published": "2026-08-12T07:32:02.896582+00:00"
-  },
-  "db95033b67066c7433724568cffd8fae127baa9017dfd8de56cb4fae6e837f29": {
-    "url": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss",
-    "title": "Trump says his decoy plane faced \u2018greater risk\u2019 in secret flight change",
-    "published": "2026-08-12T07:31:15+00:00"
-  },
-  "1abe055250a7ec9557e7b85ff4834aa3f0862436a0f7436558bff269cf943944": {
-    "url": "militarywave/24703",
-    "title": "Nuclear Power Plant Security Concerns",
-    "published": "2026-08-12T07:30:20.577966+00:00"
-  },
-  "3ae61f180a4abb06ac52e21ba048fe560ab3acd46d29f1c5391e71b20240cb7e": {
-    "url": "BellumActaNews/176355",
-    "title": "Libyan National Army Intelligence Chief Killed in Car Bombing in Benghazi",
-    "published": "2026-08-12T07:30:16.277932+00:00"
-  },
-  "5c41d69c686d248f38170cdad969529e9d0c0fd26b599771b723858268753674": {
-    "url": "QudsNen/234988",
-    "title": "Israeli Artillery Strikes Ali Al-Taher Heights with Phosphorus Shells",
-    "published": "2026-08-12T07:30:11.221566+00:00"
-  },
-  "e67462bfaddc2391dda5635c6034f5c7b5e8e876dad7e348a3945e64f0ed1607": {
-    "url": "https://tass.com/emergencies/2171681",
-    "title": "IN BRIEF: Casualties, strike on overpass in Novorossiysk, 502 UAV attack aftermath",
-    "published": "2026-08-12T07:29:25+00:00"
   }
 }
