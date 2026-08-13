@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5891,
+  "total_calls": 5895,
   "tiers": {
-    "groq": 5872,
+    "groq": 5876,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T05:12:42.792810+00:00",
-      "tier": "groq",
-      "article": "Fire rages after drone strikes Libya\u2019s largest oil refinery"
-    },
-    {
-      "timestamp": "2026-08-11T05:13:14.910361+00:00",
-      "tier": "groq",
-      "article": "Oil rises as Strait of Hormuz reopening remains uncertain"
-    },
-    {
-      "timestamp": "2026-08-11T05:13:34.201176+00:00",
-      "tier": "groq",
-      "article": "Huge fire breaks out at Libya\u2019s Zawiya refinery after drone attack"
-    },
-    {
-      "timestamp": "2026-08-11T05:13:50.696289+00:00",
-      "tier": "groq",
-      "article": "Iran says regional defense pact signals shift toward indigenous security"
-    },
     {
       "timestamp": "2026-08-11T07:13:05.873606+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T09:17:56.573167+00:00",
       "tier": "groq",
       "article": "Russia slams Yerevan over plans to interrogate WWII veteran"
+    },
+    {
+      "timestamp": "2026-08-13T11:03:14.399887+00:00",
+      "tier": "groq",
+      "article": "The getaway truck; when Trump gets stuck in Iran\u2019s quagmire"
+    },
+    {
+      "timestamp": "2026-08-13T11:03:58.843711+00:00",
+      "tier": "groq",
+      "article": "US demands info on missile launches from other countries to distract attention \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-13T11:04:18.224517+00:00",
+      "tier": "groq",
+      "article": "American mercenary Conor Kennedy arrested in absentia in Russia, placed on wanted list"
+    },
+    {
+      "timestamp": "2026-08-13T11:05:02.185390+00:00",
+      "tier": "groq",
+      "article": "The True Cost of Cheap Chips"
     }
   ]
 }

@@ -1,4 +1,39 @@
 {
+  "db9a25345008860eabdcf774d8fde8a188c7854ddda2061b2916287081e81078": {
+    "url": "Slavyangrad/173104",
+    "title": "Russian Paratroopers Secure Key Logistics Route in Zaporozhye Region",
+    "published": "2026-08-13T11:11:46.758771+00:00"
+  },
+  "42946cd0a0587c6c023fc8e001789c00a7abb9b4585e2c55605409c7f32e3904": {
+    "url": "intelslava/92517",
+    "title": "Ukraine Conflict: Locomotive Damaged in Odesa-Dnipro Train Attack",
+    "published": "2026-08-13T11:10:29.510472+00:00"
+  },
+  "ad0453197e5a8e8908003a2aaddaec91fe602a3f7e7d1ca32807e04b954fb25a": {
+    "url": "militarywave/24734",
+    "title": "Moscow Zoo Animals Adapt to Cold Weather",
+    "published": "2026-08-13T11:07:23.467003+00:00"
+  },
+  "c3e7859eaac39f0288f93aede9ba7a53226a9114b885011a348c16ac70fab47e": {
+    "url": "DDGeopolitics/191166",
+    "title": "Drone Strikes Hit Trains in Ukraine's Odessa Region",
+    "published": "2026-08-13T11:06:02.099505+00:00"
+  },
+  "5aa5ceee0f325103ed2f8b30a12ecbd21c446ef2e3eaa6593ca8425f94b080cc": {
+    "url": "thecradlemedia/66090",
+    "title": "Trump Approval Rating Hits Record Low Amid Iran Tensions and Affordability Concerns",
+    "published": "2026-08-13T11:05:18.962953+00:00"
+  },
+  "b324a824b892926c818b5f5fee7f88aaac12b9166079ef33db86b7493808ecfd": {
+    "url": "thecradlemedia/66091",
+    "title": "Yemeni Forces Repel Ansarallah Maritime Attack, Destroy Boats in Bab al-Mandab Strait",
+    "published": "2026-08-13T11:05:13.529579+00:00"
+  },
+  "6d268e405fa1bf8b6b00b0dab2d2637c8a17e2277574f2567ed3dccce1f189f2": {
+    "url": "https://tass.com/world/2172293",
+    "title": "US demands info on missile launches from other countries to distract attention \u2014 expert",
+    "published": "2026-08-13T09:23:45+00:00"
+  },
   "4133d0b7f6d1e922d58dee8f1d9db814f733a0e02bd3abcf3e2ed64645074ba3": {
     "url": "CyberspecNews/114203",
     "title": "Drone Attack Targets Traffic on Dnepropetrovsk-Kryvyi Rog Road",
@@ -33,6 +68,16 @@
     "url": "https://tass.com/emergencies/2172247",
     "title": "IN BRIEF: Casualties after UAV attacks, fire in Bashkortostan Region, Sevastopol blackout",
     "published": "2026-08-13T08:19:59+00:00"
+  },
+  "b4636325c12b1521c48c7fef8947dc4a220566ef08bf637ad0874586d8aee37e": {
+    "url": "https://en.mehrnews.com/news/246933/The-getaway-truck-when-Trump-gets-stuck-in-Iran-s-quagmire",
+    "title": "The getaway truck; when Trump gets stuck in Iran\u2019s quagmire",
+    "published": "2026-08-13T08:10:01+00:00"
+  },
+  "49bcc16f83b458ba4c393676494eb8da1b5c671e1ce61df712875a53c3663cad": {
+    "url": "https://warontherocks.com/cogs-of-war/the-true-cost-of-cheap-chips/",
+    "title": "The True Cost of Cheap Chips",
+    "published": "2026-08-13T08:00:29+00:00"
   },
   "420f5a188b2ead9396ccfd8e893fa6230e905b8567bc747928dbd49610af458f": {
     "url": "https://tass.com/defense/2172235",
@@ -318,6 +363,11 @@
     "url": "thecradlemedia/66076",
     "title": "Lebanon and Israel Agree on Countries for Hezbollah Disarmament Verification",
     "published": "2026-08-12T17:01:56.261306+00:00"
+  },
+  "a81274865e2b1c9622e69af283c7f238876435277b0f399b6fe2c5eb8fcd8715": {
+    "url": "https://tass.com/politics/2172031",
+    "title": "American mercenary Conor Kennedy arrested in absentia in Russia, placed on wanted list",
+    "published": "2026-08-12T16:34:55+00:00"
   },
   "1a53b5db54c06b0d7a93659416c73192f6cf47058011857b1cbb42e10048d540": {
     "url": "https://tass.com/world/2172025",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/world/2171619",
     "title": "Japan expresses protest to North Korea over launch of ballistic missile",
     "published": "2026-08-12T00:59:24+00:00"
-  },
-  "8cb133a70e14c5c7bca684610395046219ed00deac7b88622eef9c42e27e4664": {
-    "url": "https://www.aljazeera.com/news/2026/8/12/n-korea-launches-ballistic-missile-as-s-korea-us-plan-military-drills?traffic_source=rss",
-    "title": "N Korea launches ballistic missile as S Korea, US plan military drills",
-    "published": "2026-08-12T00:39:53+00:00"
-  },
-  "8c5c574fcf19878bc1b8c72f9f10eb3db16c6bc0287069a1f783e5a6a9cfcb7e": {
-    "url": "https://tass.com/world/2171615",
-    "title": "Missile launched by North Korea falls outside Japan's exclusive economic zone \u2014 Kyodo",
-    "published": "2026-08-12T00:14:44+00:00"
-  },
-  "87ee7fc8efcd8ce3672a1e28790996c27e4b20d13a1a7f0cc7f9a7605b9db32f": {
-    "url": "Slavyangrad/172941",
-    "title": "Russia Deploys A-50 AWACS to Counter Drone Threats",
-    "published": "2026-08-11T22:50:32.617645+00:00"
-  },
-  "a67d658a94c868a3c0b5f2d636b8e15e2d1e57018ab3137ede1d30921d80c2ff": {
-    "url": "Slavyangrad/172960",
-    "title": "Russian Gerans Equipped with EW Capabilities Engaged by Ukrainian Interceptor",
-    "published": "2026-08-11T22:49:53.060794+00:00"
-  },
-  "d72e7526c110616821dea65672b210169a16e93128ad2c2dea15bb8e459e4b91": {
-    "url": "intelslava/92449",
-    "title": "Settlers Attack Taybeh Village in Occupied West Bank",
-    "published": "2026-08-11T22:49:24.218899+00:00"
-  },
-  "cc73484a4e161eea184d96097c22b32694f271e4d33c72f696c383436d31c535": {
-    "url": "DDGeopolitics/191069",
-    "title": "Iran's Military Situation Shaken by New Appointments",
-    "published": "2026-08-11T22:48:13.869640+00:00"
-  },
-  "e27fefb9bab913a7598878b3b7d7bdc3eb251c3216ebbbedc1c663cf74cfcbaa": {
-    "url": "DDGeopolitics/191073",
-    "title": "Iran Threatens to Keep Strait of Hormuz Closed Unless US Meets Demands",
-    "published": "2026-08-11T22:48:11.974488+00:00"
-  },
-  "a906d6343d759602f514b0a0808657e50e3c5b4e4a1b0663945a7d507dc11e3b": {
-    "url": "QudsNen/234974",
-    "title": "Israeli Artillery Strikes Hit Wadi al-Hajir in Southern Lebanon",
-    "published": "2026-08-11T22:48:09.153874+00:00"
-  },
-  "9a24ed3a2b282d217380d1f03acd435090ee75d5465a02fb2bb480f249492655": {
-    "url": "https://www.rt.com/news/644129-colombia-earthquake-us-firm-backlash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US company Blackstone Medical Services faces backlash over Colombia earthquake response",
-    "published": "2026-08-11T22:12:16+00:00"
-  },
-  "7dd0e38a0e30844ca3a64ce1a784e56e11d8a6a931d13847d0823b9acc03959f": {
-    "url": "https://en.mehrnews.com/news/246920/Hormuz-will-reopen-only-when-US-accepts-Iran-s-conditions",
-    "title": "Hormuz will reopen only when US accepts Iran\u2019s conditions",
-    "published": "2026-08-11T22:05:28+00:00"
   }
 }
