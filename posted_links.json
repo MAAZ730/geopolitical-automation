@@ -1,4 +1,49 @@
 {
+  "45eea7ceac6c66d9411fa9aaab72ab9edbcb724d02f6a45587ed7383bc3948b4": {
+    "url": "presstv/202663",
+    "title": "Israeli Forces Strike Nabatieh al-Fawqa with Artillery Shells",
+    "published": "2026-08-13T22:50:35.251250+00:00"
+  },
+  "1aa82332df7d26a3ddd8ee9225922d677c14553616ba6a166c9c1894dd29e595": {
+    "url": "BellumActaNews/176447",
+    "title": "Germany Tests Truck-Mounted Drone Launcher",
+    "published": "2026-08-13T22:50:06.671701+00:00"
+  },
+  "84e6e4692c43cc87b4e43137a792129bd541466e54209512fc7dad32b53cf49c": {
+    "url": "DDGeopolitics/191205",
+    "title": "Drone Strike Hits Ukrainian Flag in Kramatorsk",
+    "published": "2026-08-13T22:48:39.005601+00:00"
+  },
+  "c4a1bf6d7d86694f66ee33002fbea5e9d00c4db65236b1def16d6b49123642a9": {
+    "url": "QudsNen/235211",
+    "title": "Israeli Artillery Strikes Nabatieh al-Fawqa in Southern Lebanon",
+    "published": "2026-08-13T22:47:48.257564+00:00"
+  },
+  "059e334aac6d9639c5a03a74f0ec4886b2639bf4f4d6ba3c820c1009598015ce": {
+    "url": "Middle_East_Spectator/35882",
+    "title": "US Loses Quarter of MQ-9 Reaper Drones in Iran Conflict",
+    "published": "2026-08-13T22:47:18.277911+00:00"
+  },
+  "b451820341be55146248efd97cbf182c14cd0405387dc672226c3a4fc91ec7bc": {
+    "url": "Middle_East_Spectator/35887",
+    "title": "Iran's Defence Industry Rapidly Recovers Post-War",
+    "published": "2026-08-13T22:47:16.856711+00:00"
+  },
+  "4ac73b1ab8f50aa39956c79ef9748b11076e574660da00ceac73769bce955345": {
+    "url": "https://tass.com/world/2172619",
+    "title": "Houthis fire two missiles at military airfield near Bab el-Mandeb Strait",
+    "published": "2026-08-13T22:02:00+00:00"
+  },
+  "b35b997b06ab2ea73f73b1f834bf50821daf7bb257df6fec733dd821f620102c": {
+    "url": "https://tass.com/world/2172617",
+    "title": "Two Emirati vessels come under attack in Strait of Hormuz",
+    "published": "2026-08-13T21:30:01+00:00"
+  },
+  "ab3476659fdd07840690b5de26bba61abbff9c43b21eb6405cbf9b0d9cca28b2": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+    "title": "Israeli strikes in Gaza kill two, including police chief",
+    "published": "2026-08-13T21:10:47+00:00"
+  },
   "846c5f309bf58eadd424e58bcffd62a3100eb934e2cb5a4bd8cc653e5ac156a6": {
     "url": "OSINT_defender/313",
     "title": "Russia Targets Kyiv in Major Drone and Missile Attack",
@@ -283,6 +328,11 @@
     "url": "thecradlemedia/66084",
     "title": "Israel-South Lebanon Wildfires Spark Environmental Concerns",
     "published": "2026-08-13T09:18:01.620187+00:00"
+  },
+  "30571b7597de5fe76e4ab7919c17682166a22f27af1649146d04a829945a82da": {
+    "url": "https://tass.com/politics/2172263",
+    "title": "Russia to promptly arrange reception for Witkoff, Kushner \u2014 senior diplomat",
+    "published": "2026-08-13T08:46:19+00:00"
   },
   "ef0b262aa490cdea462926f75efe7755268d9160347dc39988c8069c3ac328cb": {
     "url": "https://tass.com/emergencies/2172247",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/emergencies/2171951",
     "title": "Death toll from Ukrainian drone attack on Krasnodar Region rises to three",
     "published": "2026-08-12T13:54:10+00:00"
-  },
-  "46df43db00743c5179fdd7e5dd99ac154af01b17a304563da3bc7eba84f5be0f": {
-    "url": "https://tass.com/world/2171945",
-    "title": "Iran\u2019s missile production exceeds use for strikes against enemies \u2014 IRGC",
-    "published": "2026-08-12T13:50:15+00:00"
-  },
-  "6e82a9f68fdd646a4586b16c9d8556fdf557ab262ac3440d957aec922ddfd519": {
-    "url": "https://tass.com/world/2171927",
-    "title": "North Korea missile launch poses no threat to US, allies \u2014 Pentagon",
-    "published": "2026-08-12T13:32:13+00:00"
-  },
-  "21375ff300866eb8cea2cfa5c7cc9ce0a5b6f7e275fbc77eca7e8ad86a5da818": {
-    "url": "presstv/202497",
-    "title": "Ukraine Targets Russian Port of Novorossiysk in Drone Strike",
-    "published": "2026-08-12T13:24:59.279940+00:00"
-  },
-  "e4c90c5f7a3135a2e845da33b360912794c2e3985976b225bcc7acb27de6431c": {
-    "url": "DDGeopolitics/191091",
-    "title": "Warehouses ablaze in Brovary, Kiev region, after strikes",
-    "published": "2026-08-12T13:24:21.197397+00:00"
-  },
-  "5d4636a8a0f6d18441ea944122e7696d529db865a1bbe0182af57e02b7ff226d": {
-    "url": "DDGeopolitics/191092",
-    "title": "Novorossiysk Drone Strike: Multiple Regions Hit in Overnight Assault",
-    "published": "2026-08-12T13:23:02.454935+00:00"
-  },
-  "7b5ab165753fa3fed0674fcf14b2370c2b3f76fed9a00de36bd863582c781f41": {
-    "url": "QudsNen/235013",
-    "title": "Israeli Forces Clash with Palestinians in Balata Refugee Camp",
-    "published": "2026-08-12T13:20:58.111231+00:00"
-  },
-  "07e4cd0b6ebb3703ce63f94eb4311ad1309867e03df47018ba203b7c6f0351cf": {
-    "url": "thecradlemedia/66055",
-    "title": "Israeli Forces Accused of Destroying Homes in Qabrikha, Lebanon",
-    "published": "2026-08-12T13:19:40.666814+00:00"
-  },
-  "be3556b39441fd5b0a84385b5497ad699037a47e82a36e4eb68ff46c3a708007": {
-    "url": "thecradlemedia/66062",
-    "title": "Israeli Airstrike Targets Mansouri in Southern Lebanon",
-    "published": "2026-08-12T13:19:34.086909+00:00"
-  },
-  "97765682b5a8e5342646bc0d253bfe3c818892c9785f51904bf3f3d1b605862c": {
-    "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills?traffic_source=rss",
-    "title": "Why has North Korea fired a missile before US-South Korea drills?",
-    "published": "2026-08-12T13:10:14+00:00"
-  },
-  "74df7c2e7fb554b70c2852cff262f3662c4dd6715991b728ef6e5aaf8c52bc6d": {
-    "url": "https://tass.com/defense/2171915",
-    "title": "AK balances odds of guy from African backwoods with colonizer \u2014 Kalashnikov CEO",
-    "published": "2026-08-12T13:05:58+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5915,
+  "total_calls": 5919,
   "tiers": {
-    "groq": 5896,
+    "groq": 5900,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T17:29:18.994258+00:00",
-      "tier": "groq",
-      "article": "Russian strikes destroy 80,000-100,000 sq m of refrigerated warehouses near Kiev \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-11T17:29:37.634176+00:00",
-      "tier": "groq",
-      "article": "Lockheed Martin launches modular missile tech with dedicated \u2018storefront\u2019"
-    },
-    {
-      "timestamp": "2026-08-11T17:30:04.240457+00:00",
-      "tier": "groq",
-      "article": "Palestinian officials report over 5,400 casualties in Gaza since start of US-backed &#039;ceasefire&#039;"
-    },
-    {
-      "timestamp": "2026-08-11T17:30:21.961368+00:00",
-      "tier": "groq",
-      "article": "US Army exploring 50mm cannon to destroy drones"
-    },
     {
       "timestamp": "2026-08-11T19:06:35.692121+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T20:49:26.395119+00:00",
       "tier": "groq",
       "article": "Israeli Channel 14: An attack targeting Defense Minister Yisrael Katz was thwarted this morning in Jenin - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-13T22:45:26.300269+00:00",
+      "tier": "groq",
+      "article": "Houthis fire two missiles at military airfield near Bab el-Mandeb Strait"
+    },
+    {
+      "timestamp": "2026-08-13T22:45:58.894289+00:00",
+      "tier": "groq",
+      "article": "Israeli strikes in Gaza kill two, including police chief"
+    },
+    {
+      "timestamp": "2026-08-13T22:46:46.813391+00:00",
+      "tier": "groq",
+      "article": "Two Emirati vessels come under attack in Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-08-13T22:47:05.008389+00:00",
+      "tier": "groq",
+      "article": "Russia to promptly arrange reception for Witkoff, Kushner \u2014 senior diplomat"
     }
   ]
 }
