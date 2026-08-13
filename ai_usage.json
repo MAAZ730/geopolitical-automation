@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5879,
+  "total_calls": 5883,
   "tiers": {
-    "groq": 5860,
+    "groq": 5864,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T22:40:32.093270+00:00",
-      "tier": "groq",
-      "article": "Ukraine must pay for deadly ship strike \u2013 Iran"
-    },
-    {
-      "timestamp": "2026-08-10T22:40:49.976107+00:00",
-      "tier": "groq",
-      "article": "DARPA developing hypersonic cruise missile to evade enemy air defenses "
-    },
-    {
-      "timestamp": "2026-08-10T22:41:20.871534+00:00",
-      "tier": "groq",
-      "article": "IRGC Spokesman: Our Missiles Can Change Course to Counter Enemy Air Defense Systems - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-10T22:41:39.450944+00:00",
-      "tier": "groq",
-      "article": "Israel \"greatest threat to regional security\": Iran FM spox"
-    },
     {
       "timestamp": "2026-08-11T01:56:27.873809+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T02:12:33.297665+00:00",
       "tier": "groq",
       "article": "IN BRIEF: What we know about foiled terrorist attack against Defense Ministry officer"
+    },
+    {
+      "timestamp": "2026-08-13T05:43:06.595975+00:00",
+      "tier": "groq",
+      "article": "Ohio prison lightning strike injures 16 inmates during deadly Midwest storms"
+    },
+    {
+      "timestamp": "2026-08-13T05:43:48.081464+00:00",
+      "tier": "groq",
+      "article": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors"
+    },
+    {
+      "timestamp": "2026-08-13T05:44:05.139327+00:00",
+      "tier": "groq",
+      "article": "US, Iran have no deal to extend ceasefire \u2014 Reuters"
+    },
+    {
+      "timestamp": "2026-08-13T05:44:46.176954+00:00",
+      "tier": "groq",
+      "article": "US calls Kiev to heel over Black Sea tanker attacks \u2013 FT"
     }
   ]
 }
