@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5895,
+  "total_calls": 5899,
   "tiers": {
-    "groq": 5876,
+    "groq": 5880,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T07:13:05.873606+00:00",
-      "tier": "groq",
-      "article": "Russian Aerospace Forces strike Ukrainian targets in DPR, Kharkov, Sumy"
-    },
-    {
-      "timestamp": "2026-08-11T07:13:24.278749+00:00",
-      "tier": "groq",
-      "article": "Israeli drone strikes vehicle in the vicinity of Nabatieh City, Al-Manar correspondent in southern Lebanon reports - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-11T07:13:46.574840+00:00",
-      "tier": "groq",
-      "article": "SNSC could strengthen strategic coord. btw field, diplomacy"
-    },
-    {
-      "timestamp": "2026-08-11T07:14:39.582182+00:00",
-      "tier": "groq",
-      "article": "The White House Is Right on AI. Now Let Defenders Use It."
-    },
     {
       "timestamp": "2026-08-11T09:00:34.789488+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T11:05:02.185390+00:00",
       "tier": "groq",
       "article": "The True Cost of Cheap Chips"
+    },
+    {
+      "timestamp": "2026-08-13T13:18:32.488804+00:00",
+      "tier": "groq",
+      "article": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN"
+    },
+    {
+      "timestamp": "2026-08-13T13:19:16.709478+00:00",
+      "tier": "groq",
+      "article": "US seeks to develop next-gen hypersonic cruise missile"
+    },
+    {
+      "timestamp": "2026-08-13T13:20:10.464114+00:00",
+      "tier": "groq",
+      "article": "US-Iran talks in deadlock \u2013 what\u2019s the latest?"
+    },
+    {
+      "timestamp": "2026-08-13T13:21:02.911642+00:00",
+      "tier": "groq",
+      "article": "Beyond the headlines, Pakistan and Russia are drawing closer"
     }
   ]
 }

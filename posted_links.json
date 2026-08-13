@@ -1,4 +1,49 @@
 {
+  "c267b4781baa1c0c76747bb117f862ddc708c637a0216678acd082b2147b3019": {
+    "url": "intelslava/92529",
+    "title": "Ukraine's Odesa Oblast Hit by Russian-Backed Drone Strikes",
+    "published": "2026-08-13T13:27:21.448138+00:00"
+  },
+  "02e96774f8852c2143e322eded14afc2e5feef3cae48d374051c25f827c31a23": {
+    "url": "militarywave/24735",
+    "title": "Russian Forces Target Ukrainian Drone Control Centre in Donetsk Region",
+    "published": "2026-08-13T13:26:31.441837+00:00"
+  },
+  "01776aba3c9763403dedf2bf73077190dbcd6a6f6c2ecf8cde02226040289d75": {
+    "url": "DDGeopolitics/191179",
+    "title": "Israeli Minister Warns of Imminent Conflict in Syria",
+    "published": "2026-08-13T13:24:34.225240+00:00"
+  },
+  "554b33feae74f21b6c35adfc2433d74d102316c288e07fe154000f75e9b13dd7": {
+    "url": "DDGeopolitics/191182",
+    "title": "Serbia Condemns German Journalist's Comments on 'Killing Russians'",
+    "published": "2026-08-13T13:22:22.111432+00:00"
+  },
+  "7b8b10015edef12316e00758aac7ee0a890dcb979c521dc02e1a0909f08a0431": {
+    "url": "thecradlemedia/66104",
+    "title": "Israel Pledges Extended Military Presence in Southern Lebanon Amid Hezbollah Disarmament Concerns",
+    "published": "2026-08-13T13:21:10.210589+00:00"
+  },
+  "041cf40ddf6cb296062c295938a5c71b2a416df6f99e156c8bac02d8ea43831a": {
+    "url": "thecradlemedia/66105",
+    "title": "US Confirms Civilian Casualties in Yemen War",
+    "published": "2026-08-13T13:21:08.456963+00:00"
+  },
+  "4eba20a9edc09c141ff1d60f7ec96de192b3527a71bf4231435dcd7e4161eb74": {
+    "url": "https://tass.com/world/2172417",
+    "title": "US seeks to develop next-gen hypersonic cruise missile",
+    "published": "2026-08-13T13:01:17+00:00"
+  },
+  "723cc45d734e3c3627744dd7cab195b74ea4053e29370dd6f40667994cd8e709": {
+    "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+    "title": "US-Iran talks in deadlock \u2013 what\u2019s the latest?",
+    "published": "2026-08-13T11:56:40+00:00"
+  },
+  "3945ca52a5d8aa7c0b0710c9997d17535f292d286f6b01a88f60129af10e049a": {
+    "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
+    "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
+    "published": "2026-08-13T11:14:35+00:00"
+  },
   "db9a25345008860eabdcf774d8fde8a188c7854ddda2061b2916287081e81078": {
     "url": "Slavyangrad/173104",
     "title": "Russian Paratroopers Secure Key Logistics Route in Zaporozhye Region",
@@ -333,6 +378,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
     "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
     "published": "2026-08-12T18:23:25+00:00"
+  },
+  "71e9d51699d96a74d89c50691e774625ffc683eb20fe20ea8cb3d72a3ea4fbe4": {
+    "url": "https://www.rt.com/news/644172-russia-pakistan-drawing-closer/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Beyond the headlines, Pakistan and Russia are drawing closer",
+    "published": "2026-08-12T18:22:20+00:00"
   },
   "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
     "url": "CensoredMen/232",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
     "title": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
     "published": "2026-08-12T04:59:19+00:00"
-  },
-  "68e239506e3957f1417418f7c723617c6f7287b7887f0dff7b29e40d91298d5a": {
-    "url": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-    "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen\u2019s government says",
-    "published": "2026-08-12T03:09:06+00:00"
-  },
-  "3a647bdcfa6f37ed4b3e983b4ae04c5b496e3e47f8cd4257872284b443757bec": {
-    "url": "https://www.rt.com/news/644132-sailors-burnt-out-ship-us/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Burned-out US carrier sailors near Iran tried to jump overboard \u2013 Military Times",
-    "published": "2026-08-12T03:00:36+00:00"
-  },
-  "c85c11e4fb100273099b6b1ae1f464eddbccb646a9f623159d6f3c4d1db81f8f": {
-    "url": "https://tass.com/world/2171627",
-    "title": "US controls Strait of Hormuz, would strike Iran if it attempted to change that \u2014 Trump",
-    "published": "2026-08-12T02:26:28+00:00"
-  },
-  "c107a0bc1f766addbde8e12229ea50cb9b1413922fe2cc75111bcfae34bc1cab": {
-    "url": "presstv/202442",
-    "title": "Ukraine Launches Drone Strike on Russian Port of Novorossiysk",
-    "published": "2026-08-12T02:15:50.792672+00:00"
-  },
-  "df7179daa4f06840c2765873cb145acb92080bc4c8aa4d08ab2c204f3a02fdea": {
-    "url": "presstv/202445",
-    "title": "Drone Attack Targets Power Station in Zawiya, Libya",
-    "published": "2026-08-12T02:15:21.751800+00:00"
-  },
-  "238df8e76de04f4bf9fab76f8b708306cbfdadb7d87e1d171f4bce2d2ad2857a": {
-    "url": "presstv/202446",
-    "title": "Drone Attack Targets Power Station in Zawiya, Libya",
-    "published": "2026-08-12T02:15:02.248404+00:00"
-  },
-  "6e62d9cc2b034667c0a0f28356d3cf06f612146e4ac43ded4b5b3d8b3d39bf0a": {
-    "url": "BellumActaNews/176368",
-    "title": "Drone Activity Halts Flight Operations at Hannover International Airport",
-    "published": "2026-08-12T02:13:23.897847+00:00"
-  },
-  "0b8dca031e9775e938421619d6fd0852403d0155e679dfcd703306d26f028cf0": {
-    "url": "DDGeopolitics/191068",
-    "title": "Scotland's Independence Support Surges Amidst Westminster Instability",
-    "published": "2026-08-12T02:13:20.686469+00:00"
-  },
-  "5544cadece92091084c61b3bd475b5bac43345722a7c0935433d9fba21690327": {
-    "url": "QudsNen/234983",
-    "title": "Gaza Crisis Worsens Amid Ongoing Humanitarian Shortfalls",
-    "published": "2026-08-12T02:13:18.068189+00:00"
-  },
-  "15673df3edad1bea7bcac8ea02d118e2d1938d62030ff13e8f86d199b4faa7a0": {
-    "url": "https://tass.com/world/2171619",
-    "title": "Japan expresses protest to North Korea over launch of ballistic missile",
-    "published": "2026-08-12T00:59:24+00:00"
   }
 }
