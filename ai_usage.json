@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5875,
+  "total_calls": 5879,
   "tiers": {
-    "groq": 5856,
+    "groq": 5860,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-10T20:45:37.476506+00:00",
-      "tier": "groq",
-      "article": "Russia Says Kiev Hit Foreigners to Drive Wedge into Its Relations with Fraternal Nations - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-10T20:46:12.154209+00:00",
-      "tier": "groq",
-      "article": "One dies, two wounded after Ukraine\u2019s drone attacks on Belgorod Region"
-    },
-    {
-      "timestamp": "2026-08-10T20:46:30.337665+00:00",
-      "tier": "groq",
-      "article": "Israeli warplanes raid Al-Mansouri town, South Lebanon, with two missiles: Al-Manar reporter - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-10T20:47:04.377777+00:00",
-      "tier": "groq",
-      "article": "Casualties reported as Yemen targets Saudi coalition sites"
-    },
     {
       "timestamp": "2026-08-10T22:40:32.093270+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-12T22:47:21.213275+00:00",
       "tier": "groq",
       "article": "AK balances odds of guy from African backwoods with colonizer \u2014 Kalashnikov CEO"
+    },
+    {
+      "timestamp": "2026-08-13T02:10:49.015770+00:00",
+      "tier": "groq",
+      "article": "Girl injured due to falling drone in Rostov Region"
+    },
+    {
+      "timestamp": "2026-08-13T02:11:25.285662+00:00",
+      "tier": "groq",
+      "article": "Germany\u2019s domestic spy agency to be given offensive powers \u2013 Bild"
+    },
+    {
+      "timestamp": "2026-08-13T02:12:14.799281+00:00",
+      "tier": "groq",
+      "article": "North Korea can deliver \u2018death' blow in case of external threat \u2014 Foreign Ministry"
+    },
+    {
+      "timestamp": "2026-08-13T02:12:33.297665+00:00",
+      "tier": "groq",
+      "article": "IN BRIEF: What we know about foiled terrorist attack against Defense Ministry officer"
     }
   ]
 }
