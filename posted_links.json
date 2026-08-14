@@ -1,4 +1,34 @@
 {
+  "d1002d76a99a7171d7890f5a436194d5830f4258527ddef753d418bcca816c54": {
+    "url": "Slavyangrad/173299",
+    "title": "Locomotive Attacked in Arzys, Odessa Oblast",
+    "published": "2026-08-14T22:36:36.600895+00:00"
+  },
+  "9888e91b0646db9a4623d2c975a7174840173c25caef08fbc3143926d8980634": {
+    "url": "intelslava/92588",
+    "title": "Fire Engulfs Mokha Port After Houthi Missile Strike",
+    "published": "2026-08-14T22:36:13.658711+00:00"
+  },
+  "ad0453197e5a8e8908003a2aaddaec91fe602a3f7e7d1ca32807e04b954fb25a": {
+    "url": "militarywave/24734",
+    "title": "Moscow Zoo Residents Adjust to Winter Conditions",
+    "published": "2026-08-14T22:34:31.799714+00:00"
+  },
+  "a53e13c161269a8d63d1a0300c13d9713a30fb103eb0778138483ab8248af205": {
+    "url": "QudsNen/235318",
+    "title": "Israeli Forces Clash with Palestinians at Al-Eizariya Wedding Hall",
+    "published": "2026-08-14T22:33:06.557696+00:00"
+  },
+  "e0a02cdb4c9d31ec3870a9228e7d7afe4c938eb433e67da98a056a81d6199561": {
+    "url": "Middle_East_Spectator/35901",
+    "title": "Iran Displays Captured Drones as Engineers Begin Reverse-Engineering",
+    "published": "2026-08-14T22:27:54.186888+00:00"
+  },
+  "55b1b5d2075402bdf1516f8984daef936d987c985e4f79d1e9ea2953b4e8959e": {
+    "url": "Middle_East_Spectator/35909",
+    "title": "Yemeni Missile Strike Destroys Saudi Logistics Ships at Mokha Port",
+    "published": "2026-08-14T22:27:52.759830+00:00"
+  },
   "1272bd90a738c02fe9ac38467c07342a6e58342d1e56396d429246077a7347c7": {
     "url": "intelslava/92594",
     "title": "Russia Deploys AI-Powered Drones in Ukraine",
@@ -69,10 +99,20 @@
     "title": "Houthis say they attacked Saudi Aramco facility in Najran",
     "published": "2026-08-14T17:51:04+00:00"
   },
+  "040b52f694cdffd563eec0c2fb981a2fadbff179390571e079acbcd10053f48d": {
+    "url": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
+    "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up ",
+    "published": "2026-08-14T17:40:00+00:00"
+  },
   "ec8417d582a7da19a35bf5d8648f66fa8dd998c961d78c1e14b7d63eb4ba294b": {
     "url": "https://tass.com/world/2173513",
     "title": "Houthis attack Yemeni port of Mokha with missiles, drones",
     "published": "2026-08-14T17:20:38+00:00"
+  },
+  "934691ab9ba4dd77b6f0c229ce39a2f20583f9e50501128cd432b2289659ffd8": {
+    "url": "https://tass.com/world/2173509",
+    "title": "Colombia earthquake death toll rises to 287",
+    "published": "2026-08-14T17:11:31+00:00"
   },
   "8085f74a3809ccae0af8bb4ee0406b61cc59b38f38ee151b211e57f3a5e5b71b": {
     "url": "QudsNen/235283",
@@ -123,6 +163,11 @@
     "url": "https://tass.com/politics/2173487",
     "title": "One dead, seven injured: consequences of Ukrainian missile strike on Bryansk",
     "published": "2026-08-14T16:30:17+00:00"
+  },
+  "f0a0ad90c5655f944da73192d3af981c4ca72e6d16207a22b0a99c0f2f6dac5c": {
+    "url": "https://www.rt.com/news/644243-idf-enabling-terror-palestinians-settlers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Israel forces Palestinians out of Qusra after siege by Jewish settlers",
+    "published": "2026-08-14T15:27:37+00:00"
   },
   "ea983c54b43cb691f41e87129ebb8a78215ed1bbc6d8ea672455aada5a21ab10": {
     "url": "https://tass.com/politics/2173455",
@@ -328,6 +373,11 @@
     "url": "https://warontherocks.com/cheap-drones-dry-taps-the-iran-war-opens-a-new-era-of-water-infrastructure-risk/",
     "title": "Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk",
     "published": "2026-08-14T07:30:30+00:00"
+  },
+  "d1d597fa1a89e2f5cb08510aa8dce9c8db241d89aa9ce36d609761506c21c65b": {
+    "url": "https://www.rt.com/news/644223-trump-us-drone-tariffs/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump imposes 100% drone tariffs as Ukraine eyes US sales",
+    "published": "2026-08-14T07:10:21+00:00"
   },
   "e25c3fab48a91508ed1ec833f7ee911bbc10aae9823c11795de015a6006cd198": {
     "url": "https://tass.com/defense/2172685",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/66104",
     "title": "Israel Pledges Extended Military Presence in Southern Lebanon Amid Hezbollah Disarmament Concerns",
     "published": "2026-08-13T13:21:10.210589+00:00"
-  },
-  "041cf40ddf6cb296062c295938a5c71b2a416df6f99e156c8bac02d8ea43831a": {
-    "url": "thecradlemedia/66105",
-    "title": "US Confirms Civilian Casualties in Yemen War",
-    "published": "2026-08-13T13:21:08.456963+00:00"
-  },
-  "e905aabbab94471283790301f2b61c98965e21f1cebd929994472ff1c1d4d35c": {
-    "url": "https://en.irna.ir/news/86234748/Iran-No-ship-can-transit-Hormuz-without-authorization",
-    "title": "Iran: No ship can transit Hormuz without authorization",
-    "published": "2026-08-13T13:16:54+00:00"
-  },
-  "4eba20a9edc09c141ff1d60f7ec96de192b3527a71bf4231435dcd7e4161eb74": {
-    "url": "https://tass.com/world/2172417",
-    "title": "US seeks to develop next-gen hypersonic cruise missile",
-    "published": "2026-08-13T13:01:17+00:00"
-  },
-  "5e86714b6c74d069abfa1cc76a9202c99a715cacc3de6dc1dd95ef2e22f8fecc": {
-    "url": "https://tass.com/politics/2172413",
-    "title": "Deputy foreign minister comments on Tokyo summoning Russian envoy, Black Sea proposals",
-    "published": "2026-08-13T12:55:21+00:00"
-  },
-  "4ebc940c6a0ccc2069a4327a013bd02bfafd6527db1cef71deda9cfc2003387b": {
-    "url": "https://tass.com/politics/2172397",
-    "title": "Russian troops liberate Petrovka community in Ukraine operation over past day \u2014 top brass",
-    "published": "2026-08-13T12:22:46+00:00"
-  },
-  "723cc45d734e3c3627744dd7cab195b74ea4053e29370dd6f40667994cd8e709": {
-    "url": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
-    "title": "US-Iran talks in deadlock \u2013 what\u2019s the latest?",
-    "published": "2026-08-13T11:56:40+00:00"
-  },
-  "3945ca52a5d8aa7c0b0710c9997d17535f292d286f6b01a88f60129af10e049a": {
-    "url": "https://www.aljazeera.com/news/2026/8/13/civilian-deaths-in-ukraine-in-july-hit-highest-level-since-may-2022-un?traffic_source=rss",
-    "title": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN",
-    "published": "2026-08-13T11:14:35+00:00"
-  },
-  "db9a25345008860eabdcf774d8fde8a188c7854ddda2061b2916287081e81078": {
-    "url": "Slavyangrad/173104",
-    "title": "Russian Paratroopers Secure Key Logistics Route in Zaporozhye Region",
-    "published": "2026-08-13T11:11:46.758771+00:00"
-  },
-  "2ef8c3ee6ce7f1eaacc7b7fbd551463bf6160d8269b36f655775745ba899bb29": {
-    "url": "https://tass.com/emergencies/2172369",
-    "title": "Four pyrotechnicians, one security guard die during munition disposal in Sevastopol",
-    "published": "2026-08-13T11:10:41+00:00"
-  },
-  "42946cd0a0587c6c023fc8e001789c00a7abb9b4585e2c55605409c7f32e3904": {
-    "url": "intelslava/92517",
-    "title": "Ukraine Conflict: Locomotive Damaged in Odesa-Dnipro Train Attack",
-    "published": "2026-08-13T11:10:29.510472+00:00"
   }
 }

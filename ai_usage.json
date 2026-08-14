@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5959,
+  "total_calls": 5963,
   "tiers": {
-    "groq": 5940,
+    "groq": 5944,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T17:00:07.698453+00:00",
-      "tier": "groq",
-      "article": "Is Russia\u2019s economy cracking despite the Iran war windfall?"
-    },
-    {
-      "timestamp": "2026-08-12T17:00:41.997652+00:00",
-      "tier": "groq",
-      "article": "Russian troops hammer Ukrainian fuel tanks, ship with military cargo in new strikes"
-    },
-    {
-      "timestamp": "2026-08-12T17:01:29.438502+00:00",
-      "tier": "groq",
-      "article": "Houthis lose over 80 fighters in Yemen in six days \u2014 TV"
-    },
-    {
-      "timestamp": "2026-08-12T17:01:49.840184+00:00",
-      "tier": "groq",
-      "article": "Hormuz will reopen only when US accepts Iran\u2019s conditions"
-    },
     {
       "timestamp": "2026-08-12T19:05:10.438408+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T20:35:55.891424+00:00",
       "tier": "groq",
       "article": "Russia\u2019s Battlegroup West shoots down 110 Ukrainian heavy hexacopters over past day"
+    },
+    {
+      "timestamp": "2026-08-14T22:26:33.210581+00:00",
+      "tier": "groq",
+      "article": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up "
+    },
+    {
+      "timestamp": "2026-08-14T22:27:12.343409+00:00",
+      "tier": "groq",
+      "article": "Colombia earthquake death toll rises to 287"
+    },
+    {
+      "timestamp": "2026-08-14T22:27:30.657244+00:00",
+      "tier": "groq",
+      "article": "Israel forces Palestinians out of Qusra after siege by Jewish settlers"
+    },
+    {
+      "timestamp": "2026-08-14T22:27:48.948311+00:00",
+      "tier": "groq",
+      "article": "Trump imposes 100% drone tariffs as Ukraine eyes US sales"
     }
   ]
 }
