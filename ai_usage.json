@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5919,
+  "total_calls": 5923,
   "tiers": {
-    "groq": 5900,
+    "groq": 5904,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T19:06:35.692121+00:00",
-      "tier": "groq",
-      "article": "Death toll in Houthi strike on Tihama rises to six"
-    },
-    {
-      "timestamp": "2026-08-11T19:07:10.320421+00:00",
-      "tier": "groq",
-      "article": "Death toll in Houthi strike on vessel rises to four"
-    },
-    {
-      "timestamp": "2026-08-11T19:07:56.154336+00:00",
-      "tier": "groq",
-      "article": "Pro-Islamic Establishment rallies in Mashhad"
-    },
-    {
-      "timestamp": "2026-08-11T19:08:16.056793+00:00",
-      "tier": "groq",
-      "article": "US military opens fire at ship trying to break through blockade on Iran \u2014 WSJ"
-    },
     {
       "timestamp": "2026-08-11T20:49:46.004918+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-13T22:47:05.008389+00:00",
       "tier": "groq",
       "article": "Russia to promptly arrange reception for Witkoff, Kushner \u2014 senior diplomat"
+    },
+    {
+      "timestamp": "2026-08-14T02:09:02.994861+00:00",
+      "tier": "groq",
+      "article": "Gaza City police chief killed as Israel pushes on with deadly strikes"
+    },
+    {
+      "timestamp": "2026-08-14T02:09:41.575808+00:00",
+      "tier": "groq",
+      "article": "Next secretary-general must heed Russia, if he does not want UN to decline \u2014 MFA"
+    },
+    {
+      "timestamp": "2026-08-14T02:10:01.986713+00:00",
+      "tier": "groq",
+      "article": "Yemen faces highest risk of returning to war since 2022 truce, UN warns"
+    },
+    {
+      "timestamp": "2026-08-14T02:10:18.688542+00:00",
+      "tier": "groq",
+      "article": "Japan is arming for a long range fight, and China is worried"
     }
   ]
 }
