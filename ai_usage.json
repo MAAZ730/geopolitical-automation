@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5947,
+  "total_calls": 5951,
   "tiers": {
-    "groq": 5928,
+    "groq": 5932,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T11:02:44.416136+00:00",
-      "tier": "groq",
-      "article": "Forpost UAVs guide Oniks missiles to strike mock enemy ships in Pacific drills"
-    },
-    {
-      "timestamp": "2026-08-12T11:03:19.507218+00:00",
-      "tier": "groq",
-      "article": "Twelve evacuated from homes damaged in Ukrainian drone strike on Gelendzhik"
-    },
-    {
-      "timestamp": "2026-08-12T11:04:08.306049+00:00",
-      "tier": "groq",
-      "article": "Trump says his decoy plane faced \u2018greater risk\u2019 in secret flight change"
-    },
-    {
-      "timestamp": "2026-08-12T11:04:24.429415+00:00",
-      "tier": "groq",
-      "article": "Iranian President calls for stronger deterrence as new IRGC leadership takes office"
-    },
     {
       "timestamp": "2026-08-12T13:18:30.178933+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T14:56:31.760364+00:00",
       "tier": "groq",
       "article": "OIC warns of rising Israeli regime\u2019s crimes in West Bank"
+    },
+    {
+      "timestamp": "2026-08-14T16:56:40.832705+00:00",
+      "tier": "groq",
+      "article": "One dead, seven injured: consequences of Ukrainian missile strike on Bryansk"
+    },
+    {
+      "timestamp": "2026-08-14T16:57:03.315079+00:00",
+      "tier": "groq",
+      "article": "Russian forces deliver strikes on Ukrainian military warehouses at Odessa, Yuzhny ports"
+    },
+    {
+      "timestamp": "2026-08-14T16:57:22.114690+00:00",
+      "tier": "groq",
+      "article": "Three civilians injured, 10 buildings damaged in Ukrainian drone attack on Sevastopol"
+    },
+    {
+      "timestamp": "2026-08-14T16:57:41.355921+00:00",
+      "tier": "groq",
+      "article": "Beirut denies agreement on &#039;shortlist&#039; of nations to enforce Hezbollah disarmament: Report"
     }
   ]
 }
