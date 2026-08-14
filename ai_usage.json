@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5935,
+  "total_calls": 5939,
   "tiers": {
-    "groq": 5916,
+    "groq": 5920,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T05:39:49.110673+00:00",
-      "tier": "groq",
-      "article": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen\u2019s government says"
-    },
-    {
-      "timestamp": "2026-08-12T05:40:35.546212+00:00",
-      "tier": "groq",
-      "article": "Israeli raids, demolitions continue as UN warns West Bank at breaking point"
-    },
-    {
-      "timestamp": "2026-08-12T05:40:51.505064+00:00",
-      "tier": "groq",
-      "article": "US controls Strait of Hormuz, would strike Iran if it attempted to change that \u2014 Trump"
-    },
-    {
-      "timestamp": "2026-08-12T05:41:37.411946+00:00",
-      "tier": "groq",
-      "article": "Who are the six newly-appointed Iranian commanders?"
-    },
     {
       "timestamp": "2026-08-12T07:28:38.925011+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T09:12:14.544079+00:00",
       "tier": "groq",
       "article": "Four pyrotechnicians, one security guard die during munition disposal in Sevastopol"
+    },
+    {
+      "timestamp": "2026-08-14T11:46:05.714980+00:00",
+      "tier": "groq",
+      "article": "Russia says hit Ukrainian railway and port facilities in new strikes"
+    },
+    {
+      "timestamp": "2026-08-14T11:46:40.805178+00:00",
+      "tier": "groq",
+      "article": "Remaining member of a terrorist team arrested in southeast of Iran"
+    },
+    {
+      "timestamp": "2026-08-14T11:46:58.664143+00:00",
+      "tier": "groq",
+      "article": "Russian troops liberate Petrovka community in Ukraine operation over past day \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-14T11:47:46.432658+00:00",
+      "tier": "groq",
+      "article": "Iran War Depletes US Arsenal: Military Lost Roughly 25% of Its Reaper Drones - Al-Manar TV Lebanon"
     }
   ]
 }
