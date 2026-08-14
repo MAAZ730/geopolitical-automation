@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5943,
+  "total_calls": 5947,
   "tiers": {
-    "groq": 5924,
+    "groq": 5928,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T09:14:40.364307+00:00",
-      "tier": "groq",
-      "article": "Drone strike hits northern Iraq"
-    },
-    {
-      "timestamp": "2026-08-12T09:15:13.882180+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attacks on Belgorod Region kill two people, injure three others over past day"
-    },
-    {
-      "timestamp": "2026-08-12T09:15:32.260270+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Casualties, strike on overpass in Novorossiysk, 502 UAV attack aftermath"
-    },
-    {
-      "timestamp": "2026-08-12T09:16:14.445538+00:00",
-      "tier": "groq",
-      "article": "Iranian Armed Forces chief pledges full support for IRGC"
-    },
     {
       "timestamp": "2026-08-12T11:02:44.416136+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T13:13:30.497522+00:00",
       "tier": "groq",
       "article": "Lebanon Speaker Berri: Key to Stability Compelling \u2018Israel\u2019 to Cease War, Withdraw to Int\u2019l Borders - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-14T14:54:52.655530+00:00",
+      "tier": "groq",
+      "article": "US War Department: We are working to maintain supply chains of munitions and interceptor missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-14T14:55:25.302327+00:00",
+      "tier": "groq",
+      "article": "Kalashnikov launches mass production of smoke grenade against AI-powered drones"
+    },
+    {
+      "timestamp": "2026-08-14T14:56:15.935639+00:00",
+      "tier": "groq",
+      "article": "The Commercial Space Race"
+    },
+    {
+      "timestamp": "2026-08-14T14:56:31.760364+00:00",
+      "tier": "groq",
+      "article": "OIC warns of rising Israeli regime\u2019s crimes in West Bank"
     }
   ]
 }
