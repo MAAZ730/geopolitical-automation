@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5955,
+  "total_calls": 5959,
   "tiers": {
-    "groq": 5936,
+    "groq": 5940,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T15:00:51.172706+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s missile production exceeds use for strikes against enemies \u2014 IRGC"
-    },
-    {
-      "timestamp": "2026-08-12T15:01:26.214748+00:00",
-      "tier": "groq",
-      "article": "North Korea missile launch poses no threat to US, allies \u2014 Pentagon"
-    },
-    {
-      "timestamp": "2026-08-12T15:02:12.309585+00:00",
-      "tier": "groq",
-      "article": "Death toll from Ukrainian drone attack on Krasnodar Region rises to three"
-    },
-    {
-      "timestamp": "2026-08-12T15:02:31.252740+00:00",
-      "tier": "groq",
-      "article": "Pezeshkian congratulates new IRGC Navy commander"
-    },
     {
       "timestamp": "2026-08-12T17:00:07.698453+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T19:00:04.125793+00:00",
       "tier": "groq",
       "article": "US ambassador condemns Israeli \u2018terrorist\u2019 settlers (VIDEO)"
+    },
+    {
+      "timestamp": "2026-08-14T20:34:53.842186+00:00",
+      "tier": "groq",
+      "article": "Houthis attack Yemeni port of Mokha with missiles, drones"
+    },
+    {
+      "timestamp": "2026-08-14T20:35:12.920822+00:00",
+      "tier": "groq",
+      "article": "Ukraine facing shortage of personnel, anti-missile systems \u2014 US military intel"
+    },
+    {
+      "timestamp": "2026-08-14T20:35:39.576631+00:00",
+      "tier": "groq",
+      "article": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components"
+    },
+    {
+      "timestamp": "2026-08-14T20:35:55.891424+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s Battlegroup West shoots down 110 Ukrainian heavy hexacopters over past day"
     }
   ]
 }
