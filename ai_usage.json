@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5931,
+  "total_calls": 5935,
   "tiers": {
-    "groq": 5912,
+    "groq": 5916,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T02:08:54.201429+00:00",
-      "tier": "groq",
-      "article": "N Korea launches ballistic missile as S Korea, US plan military drills"
-    },
-    {
-      "timestamp": "2026-08-12T02:09:31.223777+00:00",
-      "tier": "groq",
-      "article": "Japan expresses protest to North Korea over launch of ballistic missile"
-    },
-    {
-      "timestamp": "2026-08-12T02:10:17.050704+00:00",
-      "tier": "groq",
-      "article": "Missile launched by North Korea falls outside Japan's exclusive economic zone \u2014 Kyodo"
-    },
-    {
-      "timestamp": "2026-08-12T02:10:36.772470+00:00",
-      "tier": "groq",
-      "article": "Oil edges higher as US, Iran hit impasse over Hormuz strait"
-    },
     {
       "timestamp": "2026-08-12T05:39:49.110673+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T07:30:39.988610+00:00",
       "tier": "groq",
       "article": "Putin's Kuril Islands visit does little to normalize bilateral relations \u2014 Japanese PM"
+    },
+    {
+      "timestamp": "2026-08-14T09:10:58.954691+00:00",
+      "tier": "groq",
+      "article": "Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk"
+    },
+    {
+      "timestamp": "2026-08-14T09:11:37.739973+00:00",
+      "tier": "groq",
+      "article": "An Israeli occupation aircraft launches an airstrike on Al-Mansouri, in southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-14T09:11:55.475867+00:00",
+      "tier": "groq",
+      "article": "The desperation of the aggressors coming to surface"
+    },
+    {
+      "timestamp": "2026-08-14T09:12:14.544079+00:00",
+      "tier": "groq",
+      "article": "Four pyrotechnicians, one security guard die during munition disposal in Sevastopol"
     }
   ]
 }
