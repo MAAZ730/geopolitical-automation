@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5939,
+  "total_calls": 5943,
   "tiers": {
-    "groq": 5920,
+    "groq": 5924,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T07:28:38.925011+00:00",
-      "tier": "groq",
-      "article": "IRGC ordered to build capability to strike enemy soil"
-    },
-    {
-      "timestamp": "2026-08-12T07:28:56.895837+00:00",
-      "tier": "groq",
-      "article": "JD Vance personally asks Kiev to stop strikes on CPC infrastructure \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-08-12T07:29:14.256594+00:00",
-      "tier": "groq",
-      "article": "Ukrainian attack on Energodar injures three people, including two Zaporozhye NPP employees"
-    },
-    {
-      "timestamp": "2026-08-12T07:29:32.253356+00:00",
-      "tier": "groq",
-      "article": "Israel advances plan to build 650 housing units illegally"
-    },
     {
       "timestamp": "2026-08-12T09:14:40.364307+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T11:47:46.432658+00:00",
       "tier": "groq",
       "article": "Iran War Depletes US Arsenal: Military Lost Roughly 25% of Its Reaper Drones - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-14T13:12:21.601192+00:00",
+      "tier": "groq",
+      "article": "Iran threatens hundreds of strikes across Syria if Damascus &#039;intervenes&#039; in Lebanon: Report"
+    },
+    {
+      "timestamp": "2026-08-14T13:12:56.703278+00:00",
+      "tier": "groq",
+      "article": "Iran Rebuilds Missile Arsenal Far Faster Than \u2018Israel\u2019 Expected: Hebrew Media - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-14T13:13:14.609780+00:00",
+      "tier": "groq",
+      "article": "Iran: No ship can transit Hormuz without authorization"
+    },
+    {
+      "timestamp": "2026-08-14T13:13:30.497522+00:00",
+      "tier": "groq",
+      "article": "Lebanon Speaker Berri: Key to Stability Compelling \u2018Israel\u2019 to Cease War, Withdraw to Int\u2019l Borders - Al-Manar TV Lebanon"
     }
   ]
 }
