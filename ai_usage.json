@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5951,
+  "total_calls": 5955,
   "tiers": {
-    "groq": 5932,
+    "groq": 5936,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T13:18:30.178933+00:00",
-      "tier": "groq",
-      "article": "Multinational statement on missile launches signals preparations for major war \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-12T13:18:50.027732+00:00",
-      "tier": "groq",
-      "article": "Houthis fire two ballistic missiles at Yemeni port of Mokha"
-    },
-    {
-      "timestamp": "2026-08-12T13:19:09.107920+00:00",
-      "tier": "groq",
-      "article": "Su-35S pilot destroys two Ukrainian Su-27s in single air battle \u2014 commander"
-    },
-    {
-      "timestamp": "2026-08-12T13:19:28.560920+00:00",
-      "tier": "groq",
-      "article": "Lebanon parliament votes to abolish death penalty"
-    },
     {
       "timestamp": "2026-08-12T15:00:51.172706+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T16:57:41.355921+00:00",
       "tier": "groq",
       "article": "Beirut denies agreement on &#039;shortlist&#039; of nations to enforce Hezbollah disarmament: Report"
+    },
+    {
+      "timestamp": "2026-08-14T18:58:25.503012+00:00",
+      "tier": "groq",
+      "article": "Houthis say they attacked Saudi Aramco facility in Najran"
+    },
+    {
+      "timestamp": "2026-08-14T18:58:59.018048+00:00",
+      "tier": "groq",
+      "article": "US failed to achieve its goals in war on Iran: senior cleric"
+    },
+    {
+      "timestamp": "2026-08-14T18:59:45.631134+00:00",
+      "tier": "groq",
+      "article": "Pion self-propelled artillery system crews destroy Ukrainian temporary deployment sites"
+    },
+    {
+      "timestamp": "2026-08-14T19:00:04.125793+00:00",
+      "tier": "groq",
+      "article": "US ambassador condemns Israeli \u2018terrorist\u2019 settlers (VIDEO)"
     }
   ]
 }
