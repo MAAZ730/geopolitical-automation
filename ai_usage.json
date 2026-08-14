@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5927,
+  "total_calls": 5931,
   "tiers": {
-    "groq": 5908,
+    "groq": 5912,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-11T22:46:22.949368+00:00",
-      "tier": "groq",
-      "article": "US company Blackstone Medical Services faces backlash over Colombia earthquake response"
-    },
-    {
-      "timestamp": "2026-08-11T22:46:42.601004+00:00",
-      "tier": "groq",
-      "article": "Seven dead in brawl aboard USS Abraham Lincoln"
-    },
-    {
-      "timestamp": "2026-08-11T22:47:11.324940+00:00",
-      "tier": "groq",
-      "article": "Trump demands compensation from Iran after Tehran seeks reparations"
-    },
-    {
-      "timestamp": "2026-08-11T22:47:29.058735+00:00",
-      "tier": "groq",
-      "article": "CENTCOM reports disabling ship that attempted to breach blockade on Iran"
-    },
     {
       "timestamp": "2026-08-12T02:08:54.201429+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T05:41:46.282743+00:00",
       "tier": "groq",
       "article": "Iran denounces Israeli claims over occupied Golan Heights"
+    },
+    {
+      "timestamp": "2026-08-14T07:28:57.345631+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike two tugboats, Izmail port rail station in new attacks"
+    },
+    {
+      "timestamp": "2026-08-14T07:29:31.465230+00:00",
+      "tier": "groq",
+      "article": "Drone debris damages Wildberries warehouse near Tver"
+    },
+    {
+      "timestamp": "2026-08-14T07:30:21.266359+00:00",
+      "tier": "groq",
+      "article": "Iran's offensive strategy to change global power equations"
+    },
+    {
+      "timestamp": "2026-08-14T07:30:39.988610+00:00",
+      "tier": "groq",
+      "article": "Putin's Kuril Islands visit does little to normalize bilateral relations \u2014 Japanese PM"
     }
   ]
 }
