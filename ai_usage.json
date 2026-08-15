@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5963,
+  "total_calls": 5967,
   "tiers": {
-    "groq": 5944,
+    "groq": 5948,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T19:05:10.438408+00:00",
-      "tier": "groq",
-      "article": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns"
-    },
-    {
-      "timestamp": "2026-08-12T19:05:52.159920+00:00",
-      "tier": "groq",
-      "article": "Why has North Korea fired a missile before US-South Korea drills?"
-    },
-    {
-      "timestamp": "2026-08-12T19:06:45.355923+00:00",
-      "tier": "groq",
-      "article": "Iran remains defiant as it vows to fight US until demands met"
-    },
-    {
-      "timestamp": "2026-08-12T19:07:01.288692+00:00",
-      "tier": "groq",
-      "article": "Burned-out US carrier sailors near Iran tried to jump overboard \u2013 Military Times"
-    },
     {
       "timestamp": "2026-08-12T20:50:11.276506+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-14T22:27:48.948311+00:00",
       "tier": "groq",
       "article": "Trump imposes 100% drone tariffs as Ukraine eyes US sales"
+    },
+    {
+      "timestamp": "2026-08-15T01:22:24.146117+00:00",
+      "tier": "groq",
+      "article": "Ship of UAE company ADNOC attacked while crossing Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-08-15T01:23:05.125069+00:00",
+      "tier": "groq",
+      "article": "Russian troops liberate eight communities in Ukraine operation over week \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-15T01:23:51.092045+00:00",
+      "tier": "groq",
+      "article": "Houthi attack on port kills four eroding truce with Yemen\u2019s government"
+    },
+    {
+      "timestamp": "2026-08-15T01:24:36.576995+00:00",
+      "tier": "groq",
+      "article": "Oil tanker targeted near Strait of Hormuz"
     }
   ]
 }
