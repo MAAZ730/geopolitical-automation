@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5987,
+  "total_calls": 5991,
   "tiers": {
-    "groq": 5968,
+    "groq": 5972,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T09:15:34.198701+00:00",
-      "tier": "groq",
-      "article": "Israeli strikes in south Lebanon a \u2018violation of international law\u2019: PM"
-    },
-    {
-      "timestamp": "2026-08-13T09:16:13.727565+00:00",
-      "tier": "groq",
-      "article": "Ukrainian Navy command post, port infrastructure hit in new strikes by Russian Forces"
-    },
-    {
-      "timestamp": "2026-08-13T09:17:06.237356+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: Casualties after UAV attacks, fire in Bashkortostan Region, Sevastopol blackout"
-    },
-    {
-      "timestamp": "2026-08-13T09:17:56.573167+00:00",
-      "tier": "groq",
-      "article": "Russia slams Yerevan over plans to interrogate WWII veteran"
-    },
     {
       "timestamp": "2026-08-13T11:03:14.399887+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T10:28:13.204951+00:00",
       "tier": "groq",
       "article": "IRGC chief praises armed forces after 6 months of war"
+    },
+    {
+      "timestamp": "2026-08-15T12:42:22.140054+00:00",
+      "tier": "groq",
+      "article": "Iran urges ICRC's probe into fate of 3 pilots held in Qatar"
+    },
+    {
+      "timestamp": "2026-08-15T12:43:00.023474+00:00",
+      "tier": "groq",
+      "article": "Geran drone strikes destroy Ukrainian military refueling point, ministry says"
+    },
+    {
+      "timestamp": "2026-08-15T12:43:19.055859+00:00",
+      "tier": "groq",
+      "article": "Russian air defense intercepts 17 Flamingo missiles, 1,328 fixed-wing UAVs of Kiev forces"
+    },
+    {
+      "timestamp": "2026-08-15T12:43:56.854250+00:00",
+      "tier": "groq",
+      "article": "Zelensky losing Western support, says opposition politician"
     }
   ]
 }
