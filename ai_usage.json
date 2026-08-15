@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5971,
+  "total_calls": 5975,
   "tiers": {
-    "groq": 5952,
+    "groq": 5956,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T22:46:07.642557+00:00",
-      "tier": "groq",
-      "article": "Drone attacks on energy infrastructure deepen Libya\u2019s energy crisis"
-    },
-    {
-      "timestamp": "2026-08-12T22:46:46.405949+00:00",
-      "tier": "groq",
-      "article": "Hegseth cautions that ICC may investigate US boat strikes in Latin America"
-    },
-    {
-      "timestamp": "2026-08-12T22:47:02.751350+00:00",
-      "tier": "groq",
-      "article": "Kiev confirms limitation of data on Russian missile launches against targets in Ukraine"
-    },
-    {
-      "timestamp": "2026-08-12T22:47:21.213275+00:00",
-      "tier": "groq",
-      "article": "AK balances odds of guy from African backwoods with colonizer \u2014 Kalashnikov CEO"
-    },
     {
       "timestamp": "2026-08-13T02:10:49.015770+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T02:57:07.709855+00:00",
       "tier": "groq",
       "article": "Apple warns users in 110 countries about spyware attacks \u2014 TechCrunch"
+    },
+    {
+      "timestamp": "2026-08-15T04:35:04.482885+00:00",
+      "tier": "groq",
+      "article": "Israeli regime violates Lebanon truce, strikes Syria"
+    },
+    {
+      "timestamp": "2026-08-15T04:35:37.205698+00:00",
+      "tier": "groq",
+      "article": "Missile strikes industrial site in Volga area"
+    },
+    {
+      "timestamp": "2026-08-15T04:36:22.582967+00:00",
+      "tier": "groq",
+      "article": "Did the US really destroy Iran\u2019s ballistic missile capability?"
+    },
+    {
+      "timestamp": "2026-08-15T04:36:38.899461+00:00",
+      "tier": "groq",
+      "article": "Romania\u2019s sole nuclear plant shut down as Danube hits record low"
     }
   ]
 }
