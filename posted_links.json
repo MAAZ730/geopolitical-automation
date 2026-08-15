@@ -1,4 +1,34 @@
 {
+  "4aff5af3a5fdfd4f2fee8e0610f4ed74fc7ba4e08f39d7305b05a3777ecd7a1c": {
+    "url": "militarywave/24744",
+    "title": "Russian Gymnasts Secure Top Spots in Individual All-Around Competition",
+    "published": "2026-08-15T20:35:18.962981+00:00"
+  },
+  "e370298bc45648e7649b6b2376948e1423b9099bfd1ca29cd1bb37ad38a0ba3a": {
+    "url": "BellumActaNews/176468",
+    "title": "Japanese Politician Visits Yasukuni Shrine Amid Controversy",
+    "published": "2026-08-15T20:32:55.102247+00:00"
+  },
+  "408123d85c9eb7fe7260d90809abdc1b79c094fa0edc1b002902eea447eb4c12": {
+    "url": "DDGeopolitics/191290",
+    "title": "Wildfire Wreaks Havoc on Croatia's Dalmatian Coast",
+    "published": "2026-08-15T20:29:53.829375+00:00"
+  },
+  "8e59addc54f28c5589bc5e3ae4f0265cf77225c58babd42a96ab5c930a375828": {
+    "url": "QudsNen/235420",
+    "title": "Israeli Forces Raid Qarawat Bani Zeid, Open Fire on Wedding Party",
+    "published": "2026-08-15T20:27:27.147548+00:00"
+  },
+  "ce5896ffe4a3018b8971d4d66f3f0e0d3fa2d3b00b659676781f0d1cddd9d318": {
+    "url": "thecradlemedia/66231",
+    "title": "Yemen's Military Vows Retaliation Over Mokha Port Attack",
+    "published": "2026-08-15T20:26:49.762561+00:00"
+  },
+  "5d32760f12cc1c905088ad50e0e022fdaa102167ea6b8f53ee308dbe737b5605": {
+    "url": "thecradlemedia/66233",
+    "title": "US Sailors Reportedly Attempt Suicides Amid Warship Deployments",
+    "published": "2026-08-15T20:26:43.378103+00:00"
+  },
   "72e8b15f6e91f512fe620a726eb9d5562bed9a11cb1e297c1e73e335ad7a2816": {
     "url": "Slavyangrad/173351",
     "title": "Russian Forces Strike Ukrainian Infrastructure",
@@ -33,6 +63,11 @@
     "url": "https://www.tehrantimes.com/news/529067/Iranian-public-libraries-host-Toward-Minab-reading-club-for",
     "title": "Iranian public libraries host \u201cToward Minab\u201d reading club for children, teenagers",
     "published": "2026-08-15T18:16:09+00:00"
+  },
+  "433546ee3686f9dab8276e60f1bea630daaba5d431967a028bd67a7521dd8a3c": {
+    "url": "https://tass.com/politics/2173749",
+    "title": "US, Turkish arms supplies to Kiev to prolong agony of Banderite regime \u2014 Russian MFA",
+    "published": "2026-08-15T18:10:58+00:00"
   },
   "a0c993ed3e91267631efa071a4ee6dd75924dd6e78b4cc4001bb3b2a09850c8a": {
     "url": "https://www.tehrantimes.com/news/529081/Major-General-Vahidi-Iran-brought-the-world-s-most-heavily-armed",
@@ -83,6 +118,16 @@
     "url": "https://english.almanar.com.lb/article/116637/",
     "title": "Lebanese Health Ministry: Israeli strikes on Saturday have resulted in 11 martyrs and wounded 19 others - Al-Manar TV Lebanon",
     "published": "2026-08-15T15:31:15+00:00"
+  },
+  "05b869f5eea9c9869e5f21b8f7ddfe85dcea704a4c014cbad0032c16f6cc2cc2": {
+    "url": "https://english.almanar.com.lb/article/116612/",
+    "title": "Hezbollah: Israeli Occupation\u2019s Continued Attacks on Lebanon Will Be Met With an Appropriate Response - Al-Manar TV Lebanon",
+    "published": "2026-08-15T15:14:42+00:00"
+  },
+  "36964999de3d2ec940872df61dddafac15a3acf179c227e08e93ac79f75c73a2": {
+    "url": "https://tass.com/politics/2173717",
+    "title": "Terms of new US arms supplies to Ukraine via Turkey controversial \u2014 Russian MFA",
+    "published": "2026-08-15T15:04:28+00:00"
   },
   "9b460a3fff7c700b8deebe8598ae1cf2a548727217db699cb4c3f92facd2f03a": {
     "url": "https://thecradle.co/articles-id/39404",
@@ -424,6 +469,11 @@
     "title": "Houthi attack on port kills four eroding truce with Yemen\u2019s government",
     "published": "2026-08-14T22:58:58+00:00"
   },
+  "255170e94f21e69593ee2bbc12135d6a18a0e7af99fb87ae58d50303e49cd21e": {
+    "url": "https://www.rt.com/news/644258-rt-top-stories-ukraine-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Russia\u2019s retribution, Islamic NATO, showdown in the West Bank: RT stories that shaped the week",
+    "published": "2026-08-14T22:51:23+00:00"
+  },
   "d1002d76a99a7171d7890f5a436194d5830f4258527ddef753d418bcca816c54": {
     "url": "Slavyangrad/173299",
     "title": "Locomotive Attacked in Arzys, Odessa Oblast",
@@ -698,55 +748,5 @@
     "url": "https://www.tehrantimes.com/news/529048/Pakistani-Embassy-in-Tehran-celebrates-79th-Independence-Day",
     "title": "Pakistani Embassy in Tehran celebrates 79th Independence Day, eyes $10bn trade target with Iran",
     "published": "2026-08-14T13:20:56+00:00"
-  },
-  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
-    "url": "CensoredMen/232",
-    "title": "Trump Dismisses Claims of US Opposition to Ongoing Conflict",
-    "published": "2026-08-14T13:19:15.375962+00:00"
-  },
-  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
-    "url": "CensoredMen/239",
-    "title": "China Enforces Nighttime Swimming Ban with Drone Surveillance in Qingdao",
-    "published": "2026-08-14T13:17:46.816113+00:00"
-  },
-  "f3ddda0d942e7754834c9018b8fdd069f177b7a2fa12a40e277d5efb409e25d7": {
-    "url": "presstv/202730",
-    "title": "Israeli Airstrike Rocks Displaced Palestinian Family's Tent in Gaza",
-    "published": "2026-08-14T13:17:00.404958+00:00"
-  },
-  "f04f7e79744b940b1be20b1004357c6f6e66fd5e10e2b096324019a157068cc6": {
-    "url": "thecradlemedia/66164",
-    "title": "US F-15 Fighter Jet Downed by Iranian Air Defenses",
-    "published": "2026-08-14T13:16:22.600991+00:00"
-  },
-  "57a86b17de17c036d69b28c8bfc5a641bf4523ef9bdd0755956a0d0058bb4efd": {
-    "url": "https://www.rt.com/news/644239-romania-nuclear-shut-danube-drought/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Romania\u2019s sole nuclear plant shut down as Danube hits record low",
-    "published": "2026-08-14T13:15:59+00:00"
-  },
-  "69575c8b8bb90c1d2d636e988c6b8150959f702fb41bc13a6c94de4b0d3cbd36": {
-    "url": "thecradlemedia/66165",
-    "title": "US Navy Boosts Missile Defense Capacity with Boeing and RTX Production Deals",
-    "published": "2026-08-14T13:13:36.525717+00:00"
-  },
-  "3a557de2ba628f10ff15d94920dd2dc7d8c471cb3074cf87560dfae4241b7322": {
-    "url": "thecradlemedia/66166",
-    "title": "Iran Threatens Syria with Widespread Strikes over Lebanon Involvement",
-    "published": "2026-08-14T13:13:34.640063+00:00"
-  },
-  "e965010570c80ee9f0f42b0c218b0eb6031b9a5982deb326a9ad6b32403272b0": {
-    "url": "https://english.almanar.com.lb/article/115922/",
-    "title": "US War Department: We are working to maintain supply chains of munitions and interceptor missiles - Al-Manar TV Lebanon",
-    "published": "2026-08-14T13:13:09+00:00"
-  },
-  "02bb1a8c1c0003da930b7dcbb445b11378c48e292447542e2761b094294db1da": {
-    "url": "https://thecradle.co/articles-id/39385",
-    "title": "Iran threatens hundreds of strikes across Syria if Damascus &#039;intervenes&#039; in Lebanon: Report",
-    "published": "2026-08-14T12:44:09+00:00"
-  },
-  "ca61a77b1fff03f64402c36b7f0ab4edca92a6b3e4a037656e860ff2152fb35e": {
-    "url": "https://english.almanar.com.lb/article/115902/",
-    "title": "Iran Rebuilds Missile Arsenal Far Faster Than \u2018Israel\u2019 Expected: Hebrew Media - Al-Manar TV Lebanon",
-    "published": "2026-08-14T12:33:44+00:00"
   }
 }

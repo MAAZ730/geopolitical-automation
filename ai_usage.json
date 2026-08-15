@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6003,
+  "total_calls": 6007,
   "tiers": {
-    "groq": 5984,
+    "groq": 5988,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T16:58:26.971393+00:00",
-      "tier": "groq",
-      "article": "Ukraine's war-fighting capacity dwindling \u2014 Russian MFA"
-    },
-    {
-      "timestamp": "2026-08-13T16:59:00.199374+00:00",
-      "tier": "groq",
-      "article": "Yemeni Armed Forces Strike Aramco Refinery in Jizan with Two Drones - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-13T16:59:47.483652+00:00",
-      "tier": "groq",
-      "article": "Zelensky \u2018reaps fruits\u2019 of miscalculated choices, veteran says about Russian strikes"
-    },
-    {
-      "timestamp": "2026-08-13T17:00:05.960465+00:00",
-      "tier": "groq",
-      "article": "Russian Battlegroup West destroys 83 Ukrainian heavy six-rotor drones in past day"
-    },
     {
       "timestamp": "2026-08-13T19:05:56.876152+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T18:34:34.503971+00:00",
       "tier": "groq",
       "article": "Trump confirms return of aircraft carrier USS Abraham Lincoln from Middle East"
+    },
+    {
+      "timestamp": "2026-08-15T20:25:31.417659+00:00",
+      "tier": "groq",
+      "article": "US, Turkish arms supplies to Kiev to prolong agony of Banderite regime \u2014 Russian MFA"
+    },
+    {
+      "timestamp": "2026-08-15T20:25:50.250805+00:00",
+      "tier": "groq",
+      "article": "Terms of new US arms supplies to Ukraine via Turkey controversial \u2014 Russian MFA"
+    },
+    {
+      "timestamp": "2026-08-15T20:26:20.409960+00:00",
+      "tier": "groq",
+      "article": "Russia\u2019s retribution, Islamic NATO, showdown in the West Bank: RT stories that shaped the week"
+    },
+    {
+      "timestamp": "2026-08-15T20:26:38.635256+00:00",
+      "tier": "groq",
+      "article": "Hezbollah: Israeli Occupation\u2019s Continued Attacks on Lebanon Will Be Met With an Appropriate Response - Al-Manar TV Lebanon"
     }
   ]
 }
