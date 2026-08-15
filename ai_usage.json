@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6007,
+  "total_calls": 6011,
   "tiers": {
-    "groq": 5988,
+    "groq": 5992,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T19:05:56.876152+00:00",
-      "tier": "groq",
-      "article": "CENTCOM to create first multinational attack drone strike force"
-    },
-    {
-      "timestamp": "2026-08-13T19:06:36.575351+00:00",
-      "tier": "groq",
-      "article": "Zelensky\u2019s missile math mistakes: A few Patriots won\u2019t save him"
-    },
-    {
-      "timestamp": "2026-08-13T19:07:24.195892+00:00",
-      "tier": "groq",
-      "article": "Patriot missiles Ukraine requests from US enough to counter 25 targets \u2014 Russian military"
-    },
-    {
-      "timestamp": "2026-08-13T19:07:42.296734+00:00",
-      "tier": "groq",
-      "article": "FM Araghchi slams France over \"vivid\" human rights hypocrisy"
-    },
     {
       "timestamp": "2026-08-13T20:48:09.733763+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T20:26:38.635256+00:00",
       "tier": "groq",
       "article": "Hezbollah: Israeli Occupation\u2019s Continued Attacks on Lebanon Will Be Met With an Appropriate Response - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-15T22:25:58.551918+00:00",
+      "tier": "groq",
+      "article": "Ukrainian army attacks premises of unified dispatch service in Energodar"
+    },
+    {
+      "timestamp": "2026-08-15T22:26:31.357135+00:00",
+      "tier": "groq",
+      "article": "Five more drones downed en route to Moscow"
+    },
+    {
+      "timestamp": "2026-08-15T22:27:17.279377+00:00",
+      "tier": "groq",
+      "article": "Hezbollah: The Israeli enemy must understand clearly that its attacks, violations, and attempts to impose a new reality cannot continue and will be met with an appropriate response in defense of Lebanon, its people, sovereignty, and national dignity - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-15T22:27:34.516277+00:00",
+      "tier": "groq",
+      "article": "Qatar denies capturing three Iranian pilots after downing fighter jets"
     }
   ]
 }
