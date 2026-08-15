@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5967,
+  "total_calls": 5971,
   "tiers": {
-    "groq": 5948,
+    "groq": 5952,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-12T20:50:11.276506+00:00",
-      "tier": "groq",
-      "article": "Ukrainian drone attacks wound 12 DPR residents in one day \u2014 republic's head"
-    },
-    {
-      "timestamp": "2026-08-12T20:50:43.113942+00:00",
-      "tier": "groq",
-      "article": "Iran: US \u2018unprecedented violations\u2019 of Geneva Conventions cannot be ignored"
-    },
-    {
-      "timestamp": "2026-08-12T20:50:58.814798+00:00",
-      "tier": "groq",
-      "article": "Pacific Fleet maneuvers demonstrate Russia's nuclear deterrence tools \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-12T20:51:17.024605+00:00",
-      "tier": "groq",
-      "article": "Pakistan hopes for Putin\u2019s visit to SCO summit in 2027 \u2014 ambassador to Russia"
-    },
     {
       "timestamp": "2026-08-12T22:46:07.642557+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T01:24:36.576995+00:00",
       "tier": "groq",
       "article": "Oil tanker targeted near Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-08-15T02:54:55.113024+00:00",
+      "tier": "groq",
+      "article": "7.7-magnitude earthquake strikes eastern Indonesia"
+    },
+    {
+      "timestamp": "2026-08-15T02:55:27.292446+00:00",
+      "tier": "groq",
+      "article": "Kiev troops shell DPR 34 times in past day, one killed"
+    },
+    {
+      "timestamp": "2026-08-15T02:56:20.523280+00:00",
+      "tier": "groq",
+      "article": "DOE ready to put Caspian Sea water-level decline at center of regional talks"
+    },
+    {
+      "timestamp": "2026-08-15T02:57:07.709855+00:00",
+      "tier": "groq",
+      "article": "Apple warns users in 110 countries about spyware attacks \u2014 TechCrunch"
     }
   ]
 }

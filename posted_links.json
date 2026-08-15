@@ -1,4 +1,39 @@
 {
+  "02e96774f8852c2143e322eded14afc2e5feef3cae48d374051c25f827c31a23": {
+    "url": "militarywave/24735",
+    "title": "Russian Forces Target Ukrainian Drone Control Centre in Donetsk Region",
+    "published": "2026-08-15T03:03:43.328431+00:00"
+  },
+  "418f45e53763e37494e6771d05db58ba6a0bb161a3046d15229e2ac8d963e156": {
+    "url": "QudsNen/235320",
+    "title": "Settler Violence Threatens Palestinian Families in Qusra, West Bank",
+    "published": "2026-08-15T03:01:48.997431+00:00"
+  },
+  "7d0cfbad3b9fefc68b7850907da5c3944d4be25a292ada719e3d9ddf8f82a239": {
+    "url": "QudsNen/235336",
+    "title": "Israeli Airstrike Targets Wadi Ansar-Al-Zarariya in Southern Lebanon",
+    "published": "2026-08-15T02:58:47.110457+00:00"
+  },
+  "fb2d513dc0720b0d14b97cb10c0a364d1585e79a526c3ab79a3be194b08ed70e": {
+    "url": "QudsNen/235337",
+    "title": "Israeli Airstrike Hits Nabatieh al-Fawqa in Southern Lebanon",
+    "published": "2026-08-15T02:58:45.790345+00:00"
+  },
+  "7a26660a704a635c663a96da28ed6092016eb95dd101caaa9473c6bcecb4d394": {
+    "url": "Middle_East_Spectator/35915",
+    "title": "Hezbollah Repels Israeli Raid on Nabatieh Stronghold",
+    "published": "2026-08-15T02:57:45.269013+00:00"
+  },
+  "4e5dadc5f906d99deea1ae47a8ee9dd84aab4eb449fa46c08dd6a97c8f06f3ed": {
+    "url": "Middle_East_Spectator/35918",
+    "title": "IDF Operation Foiled in Hezbollah Stronghold",
+    "published": "2026-08-15T02:57:14.599857+00:00"
+  },
+  "e3d57f0ec19eeb2d121811873bf729771b41d12abc8a06d78c710451a198cdff": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
+    "title": "7.7-magnitude earthquake strikes eastern Indonesia",
+    "published": "2026-08-15T02:03:22+00:00"
+  },
   "f044d1a1050f2046dcba176c8f68f8195e69b77acba9a8481f2deb8c7977d523": {
     "url": "QudsNen/235327",
     "title": "Israeli Occupation Forces Storm Al-Zawiya, Abduct Blindfolded Palestinian",
@@ -58,6 +93,11 @@
     "url": "QudsNen/235318",
     "title": "Israeli Forces Clash with Palestinians at Al-Eizariya Wedding Hall",
     "published": "2026-08-14T22:33:06.557696+00:00"
+  },
+  "3ad15d2043d8d26f81ad7ed6e6a1829c990f65bb2e6275b2b0334ac611edb09a": {
+    "url": "https://tass.com/defense/2173595",
+    "title": "Kiev troops shell DPR 34 times in past day, one killed",
+    "published": "2026-08-14T22:32:17+00:00"
   },
   "e0a02cdb4c9d31ec3870a9228e7d7afe4c938eb433e67da98a056a81d6199561": {
     "url": "Middle_East_Spectator/35901",
@@ -133,6 +173,11 @@
     "url": "thecradlemedia/66175",
     "title": "Oil Slicks Emerge in Persian Gulf Amid US-Iran Tensions",
     "published": "2026-08-14T19:00:09.125477+00:00"
+  },
+  "feb5b3f9ee01ee5b5e1b3ac6557398738749a69d2117af76db16bdfef5b86a89": {
+    "url": "https://tass.com/economy/2173539",
+    "title": "Apple warns users in 110 countries about spyware attacks \u2014 TechCrunch",
+    "published": "2026-08-14T18:33:10+00:00"
   },
   "c170fdcb39f420df866cbe8a57c550fde259d6e1adae50802c9e9c0e7f694ed0": {
     "url": "https://tass.com/world/2173525",
@@ -343,6 +388,11 @@
     "url": "https://en.irna.ir/news/86235241/Remaining-member-of-a-terrorist-team-arrested-in-southeast-of",
     "title": "Remaining member of a terrorist team arrested in southeast of Iran",
     "published": "2026-08-14T11:35:42+00:00"
+  },
+  "b7360f426b7d2d40d51e368a364e779eb052f0dac8145a148e7df3e77a5ea5c1": {
+    "url": "https://www.tehrantimes.com/news/529036/DOE-ready-to-put-Caspian-Sea-water-level-decline-at-center-of",
+    "title": "DOE ready to put Caspian Sea water-level decline at center of regional talks",
+    "published": "2026-08-14T11:30:54+00:00"
   },
   "5e8f28770a1327fb5a019ac03e19082f1af5035f3869ab9da8e172096a7226d6": {
     "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "BellumActaNews/176435",
     "title": "Explosion Rocks Italian Ammunition Plant",
     "published": "2026-08-13T17:02:01.607913+00:00"
-  },
-  "bcefbd1079224fad76d3eca8fe41fde7e736ec9edecdc96c9b5e12e0c7d3a527": {
-    "url": "BellumActaNews/176436",
-    "title": "Heavy Rains Trigger Emergency in Chiba Prefecture, Japan",
-    "published": "2026-08-13T17:01:11.742960+00:00"
-  },
-  "6c426d2b062ae4a5522d32e5493af1c5c3e3f934b4aa57cf08b378103555c651": {
-    "url": "thecradlemedia/66114",
-    "title": "Israel and Lebanon Consider Foreign Troops for Hezbollah Disarmament",
-    "published": "2026-08-13T17:00:11.944552+00:00"
-  },
-  "2d09447d51eeabdea8eeade6b6a11eda45a27aa5681238ed24e3353db2a25d08": {
-    "url": "thecradlemedia/66117",
-    "title": "Russian-Israeli Historian Missing After Arriving in Tel Aviv",
-    "published": "2026-08-13T17:00:10.529739+00:00"
-  },
-  "01e4692da38a466073432f3075b649a17ec5fba94f35ce5e3c494f147a0e0b25": {
-    "url": "https://tass.com/world/2172521",
-    "title": "Zelensky trying to shift responsibility for missile shortage onto Trump \u2014 ex-spox",
-    "published": "2026-08-13T16:47:47+00:00"
-  },
-  "e64ed91da48a19ed63323bbfd4fd353ef3302e8955b187dfe6f9020fa8e31da9": {
-    "url": "https://tass.com/politics/2172517",
-    "title": "Ukraine's war-fighting capacity dwindling \u2014 Russian MFA",
-    "published": "2026-08-13T16:40:04+00:00"
-  },
-  "ca3f1330e546baa20549e63e2ad25b1d3a3ccd2fc7d98dac59f9aa4ba8dc12c6": {
-    "url": "https://english.almanar.com.lb/article/115577/",
-    "title": "Yemeni Armed Forces Strike Aramco Refinery in Jizan with Two Drones - Al-Manar TV Lebanon",
-    "published": "2026-08-13T16:17:45+00:00"
-  },
-  "4370e1abeaf18ef1e9127931c8db8de50e11b510cc879b428c39b0a10d668b67": {
-    "url": "https://tass.com/politics/2172493",
-    "title": "Zelensky \u2018reaps fruits\u2019 of miscalculated choices, veteran says about Russian strikes",
-    "published": "2026-08-13T15:32:27+00:00"
-  },
-  "765e5ab70e65efe444bff007684a558b613e67db1abb21a84befb2f47c6d4356": {
-    "url": "https://tass.com/world/2172481",
-    "title": "EC unsure whether allotment of remaining 2026 aid to solve Kiev's Patriot problem",
-    "published": "2026-08-13T15:13:41+00:00"
-  },
-  "de6d6f663eaafa67de2689520bcd905a14c9d975da7cd239cebc27b314110043": {
-    "url": "intelslava/92528",
-    "title": "Russian Forces Conduct Drone Strike in Zaporizhzhia Oblast",
-    "published": "2026-08-13T15:09:05.065875+00:00"
-  },
-  "b3cb9308b68244abd11c7a0619b026a55a30fcb70fa0fdf82e1931e6627c79d8": {
-    "url": "presstv/202618",
-    "title": "Israeli Drone Strike Hits Palestinian Vehicle in Gaza",
-    "published": "2026-08-13T15:08:06.599103+00:00"
   }
 }
