@@ -1,4 +1,49 @@
 {
+  "0fc61a606f3d3ea2f8de91e326d466e60585552c71549bcb7a28f17a4f7bc078": {
+    "url": "Slavyangrad/173326",
+    "title": "Russia Adapts Underground Tactics to Counter Drone Strikes",
+    "published": "2026-08-15T08:40:16.728554+00:00"
+  },
+  "b4559084672a261f5d11ced6b6818a8acd3086d90952476c10944e7aa8255819": {
+    "url": "intelslava/92609",
+    "title": "Russian Forces Disrupt Ukrainian Drone Operations in Zaporizhzhia",
+    "published": "2026-08-15T08:38:57.152930+00:00"
+  },
+  "3aacdf4ba8a1d2019685fadd814b01b46d637944eaa67e27e74c49a9168d691b": {
+    "url": "presstv/202814",
+    "title": "IRGC Shoots Down US MQ-9 Reaper Drone Over Hormozgan",
+    "published": "2026-08-15T08:38:24.153595+00:00"
+  },
+  "91875653d12ba3fc387b20840bab0ff08d4d0de0bf41b76f34030156b8de8089": {
+    "url": "QudsNen/235350",
+    "title": "Gaza Conflict: Teenage Girl Left to Care for Siblings Amid Ongoing Violence",
+    "published": "2026-08-15T08:36:14.473141+00:00"
+  },
+  "62ca130dac0e8e88f23eb7966ed0441c204624a918bf16f4349eac9eb155e6d6": {
+    "url": "thecradlemedia/66192",
+    "title": "Israeli Forces Clash with Hezbollah in South Lebanon",
+    "published": "2026-08-15T08:36:05.719434+00:00"
+  },
+  "31027af8682b70629f0ba9cab52418e43c1207be392692e0281d1d0d1e34d16d": {
+    "url": "thecradlemedia/66199",
+    "title": "Israeli Airstrikes Hit Deir al-Zahrani in Southern Lebanon",
+    "published": "2026-08-15T08:35:16.090188+00:00"
+  },
+  "b71afa7d384368f21b4f1ef6db045952cdf677932c63cbbe532cdd58a1d1ba16": {
+    "url": "https://english.almanar.com.lb/article/116412/",
+    "title": "South Lebanon: Israeli Airstrike on Family Home Kills Seven in Overnight Massacre - Al-Manar TV Lebanon",
+    "published": "2026-08-15T07:39:04+00:00"
+  },
+  "a53a693a2cb50e318087915d98df51d2b11fc0c0f5d033282960308b2be2561a": {
+    "url": "https://tass.com/emergencies/2173661",
+    "title": "Massive missile strike hits Samara Region, causing casualties \u2014 city mayor",
+    "published": "2026-08-15T07:29:31+00:00"
+  },
+  "1803e598ea3b7aa24ac65cf5c60f897ea03da3e4bc5eaf207f53b30e8b9f92b4": {
+    "url": "https://english.almanar.com.lb/article/116402/",
+    "title": "Lebanese Civil Defense: 7 reported martyred, 3 wounded in an Israeli massacre in Ansar, following an airstrike that targeted an inhabited home - Al-Manar TV Lebanon",
+    "published": "2026-08-15T06:57:45+00:00"
+  },
   "5ee0332f639ef32a83fede6cff389760c9056ebff2a4decd275fb91ac6f6e8db": {
     "url": "presstv/202807",
     "title": "Israeli Airstrike Hits Residential Building in Nabatieh, Lebanon",
@@ -394,6 +439,11 @@
     "title": "OIC warns of rising Israeli regime\u2019s crimes in West Bank",
     "published": "2026-08-14T14:38:44+00:00"
   },
+  "c37bf3bc52642d83307d5c33931d6367526de3017e3be4580e88fc808dea1e46": {
+    "url": "https://www.rt.com/news/644253-france-landes-wildfires-spread/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Wildfires spread in France\u2019s Landes",
+    "published": "2026-08-14T13:26:25+00:00"
+  },
   "c325ff52534b32ea4006f52ea1fcaf2d5d1c94985261ec7a7cfe4d4f2a70efd3": {
     "url": "https://www.tehrantimes.com/news/529048/Pakistani-Embassy-in-Tehran-celebrates-79th-Independence-Day",
     "title": "Pakistani Embassy in Tehran celebrates 79th Independence Day, eyes $10bn trade target with Iran",
@@ -698,55 +748,5 @@
     "url": "BellumActaNews/176447",
     "title": "Germany Tests Truck-Mounted Drone Launcher",
     "published": "2026-08-13T22:50:06.671701+00:00"
-  },
-  "84e6e4692c43cc87b4e43137a792129bd541466e54209512fc7dad32b53cf49c": {
-    "url": "DDGeopolitics/191205",
-    "title": "Drone Strike Hits Ukrainian Flag in Kramatorsk",
-    "published": "2026-08-13T22:48:39.005601+00:00"
-  },
-  "c4a1bf6d7d86694f66ee33002fbea5e9d00c4db65236b1def16d6b49123642a9": {
-    "url": "QudsNen/235211",
-    "title": "Israeli Artillery Strikes Nabatieh al-Fawqa in Southern Lebanon",
-    "published": "2026-08-13T22:47:48.257564+00:00"
-  },
-  "059e334aac6d9639c5a03a74f0ec4886b2639bf4f4d6ba3c820c1009598015ce": {
-    "url": "Middle_East_Spectator/35882",
-    "title": "US Loses Quarter of MQ-9 Reaper Drones in Iran Conflict",
-    "published": "2026-08-13T22:47:18.277911+00:00"
-  },
-  "b451820341be55146248efd97cbf182c14cd0405387dc672226c3a4fc91ec7bc": {
-    "url": "Middle_East_Spectator/35887",
-    "title": "Iran's Defence Industry Rapidly Recovers Post-War",
-    "published": "2026-08-13T22:47:16.856711+00:00"
-  },
-  "4ac73b1ab8f50aa39956c79ef9748b11076e574660da00ceac73769bce955345": {
-    "url": "https://tass.com/world/2172619",
-    "title": "Houthis fire two missiles at military airfield near Bab el-Mandeb Strait",
-    "published": "2026-08-13T22:02:00+00:00"
-  },
-  "b35b997b06ab2ea73f73b1f834bf50821daf7bb257df6fec733dd821f620102c": {
-    "url": "https://tass.com/world/2172617",
-    "title": "Two Emirati vessels come under attack in Strait of Hormuz",
-    "published": "2026-08-13T21:30:01+00:00"
-  },
-  "ab3476659fdd07840690b5de26bba61abbff9c43b21eb6405cbf9b0d9cca28b2": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
-    "title": "Israeli strikes in Gaza kill two, including police chief",
-    "published": "2026-08-13T21:10:47+00:00"
-  },
-  "846c5f309bf58eadd424e58bcffd62a3100eb934e2cb5a4bd8cc653e5ac156a6": {
-    "url": "OSINT_defender/313",
-    "title": "Russia Targets Kyiv in Major Drone and Missile Attack",
-    "published": "2026-08-13T20:54:26.009150+00:00"
-  },
-  "f7d0ac0171c7cd5fac31c26d37547f1a943cec2626923d6054e5180492745c07": {
-    "url": "OSINT_defender/316",
-    "title": "Pentagon Ceremony Honors Service Members with Border Defense Medal",
-    "published": "2026-08-13T20:52:52.254024+00:00"
-  },
-  "a8a96a84c9f9d58220a484d111277d3f4fab7329627641c7d50492e0455b786e": {
-    "url": "mod_russia_en/28845",
-    "title": "Russian UAVs Strike Ukrainian Recovery Train in Odessa Region",
-    "published": "2026-08-13T20:51:10.023490+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5979,
+  "total_calls": 5983,
   "tiers": {
-    "groq": 5960,
+    "groq": 5964,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T05:43:06.595975+00:00",
-      "tier": "groq",
-      "article": "Ohio prison lightning strike injures 16 inmates during deadly Midwest storms"
-    },
-    {
-      "timestamp": "2026-08-13T05:43:48.081464+00:00",
-      "tier": "groq",
-      "article": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors"
-    },
-    {
-      "timestamp": "2026-08-13T05:44:05.139327+00:00",
-      "tier": "groq",
-      "article": "US, Iran have no deal to extend ceasefire \u2014 Reuters"
-    },
-    {
-      "timestamp": "2026-08-13T05:44:46.176954+00:00",
-      "tier": "groq",
-      "article": "US calls Kiev to heel over Black Sea tanker attacks \u2013 FT"
-    },
     {
       "timestamp": "2026-08-13T07:38:57.230706+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T06:44:17.322045+00:00",
       "tier": "groq",
       "article": "Pakistani Embassy in Tehran celebrates 79th Independence Day, eyes $10bn trade target with Iran"
+    },
+    {
+      "timestamp": "2026-08-15T08:33:26.806077+00:00",
+      "tier": "groq",
+      "article": "Massive missile strike hits Samara Region, causing casualties \u2014 city mayor"
+    },
+    {
+      "timestamp": "2026-08-15T08:33:59.510966+00:00",
+      "tier": "groq",
+      "article": "Lebanese Civil Defense: 7 reported martyred, 3 wounded in an Israeli massacre in Ansar, following an airstrike that targeted an inhabited home - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-15T08:34:15.527683+00:00",
+      "tier": "groq",
+      "article": "South Lebanon: Israeli Airstrike on Family Home Kills Seven in Overnight Massacre - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-15T08:34:58.292935+00:00",
+      "tier": "groq",
+      "article": "Wildfires spread in France\u2019s Landes"
     }
   ]
 }
