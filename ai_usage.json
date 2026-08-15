@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5995,
+  "total_calls": 5999,
   "tiers": {
-    "groq": 5976,
+    "groq": 5980,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T13:18:32.488804+00:00",
-      "tier": "groq",
-      "article": "Civilian deaths in Ukraine in July hit highest level since May 2022: UN"
-    },
-    {
-      "timestamp": "2026-08-13T13:19:16.709478+00:00",
-      "tier": "groq",
-      "article": "US seeks to develop next-gen hypersonic cruise missile"
-    },
-    {
-      "timestamp": "2026-08-13T13:20:10.464114+00:00",
-      "tier": "groq",
-      "article": "US-Iran talks in deadlock \u2013 what\u2019s the latest?"
-    },
-    {
-      "timestamp": "2026-08-13T13:21:02.911642+00:00",
-      "tier": "groq",
-      "article": "Beyond the headlines, Pakistan and Russia are drawing closer"
-    },
     {
       "timestamp": "2026-08-13T15:00:42.446424+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T14:27:54.055675+00:00",
       "tier": "groq",
       "article": "DPRK ambassador to Russia slams Kiev\u2019s invasion of Kursk Region by neo-Nazi clique"
+    },
+    {
+      "timestamp": "2026-08-15T16:28:08.581644+00:00",
+      "tier": "groq",
+      "article": "Lebanese Health Ministry: Israeli strikes on Saturday have resulted in 11 martyrs and wounded 19 others - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-15T16:28:39.344293+00:00",
+      "tier": "groq",
+      "article": "Israel kills 11 people, including several children, in deadliest south Lebanon attack in months"
+    },
+    {
+      "timestamp": "2026-08-15T16:28:57.097850+00:00",
+      "tier": "groq",
+      "article": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package"
+    },
+    {
+      "timestamp": "2026-08-15T16:29:42.547193+00:00",
+      "tier": "groq",
+      "article": "Activists deliver aid to Palestinians in homes besieged by Israeli settlers"
     }
   ]
 }

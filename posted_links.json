@@ -1,4 +1,49 @@
 {
+  "f629f44db14f39e32cd535641a94886f86de00976ed6efa9c37960a355a28f87": {
+    "url": "Slavyangrad/173341",
+    "title": "Russia's 'East' Grouping Liberates 19 Settlements Amid Summer Campaign",
+    "published": "2026-08-15T16:39:43.258704+00:00"
+  },
+  "07fa24883cbfea3cc6c3378a6692024ae36759a57131b5f226b64052cbeb7be8": {
+    "url": "Slavyangrad/173344",
+    "title": "Rheinmetall Tests FV-014 Loitering Munition from Containerized Launcher System",
+    "published": "2026-08-15T16:38:44.309920+00:00"
+  },
+  "2a6787b95ed903139fc2aac3223ca7ccab51df0eb8878c9a8f94a6da0ac6e2be": {
+    "url": "intelslava/92629",
+    "title": "Ukrainian Towing Vessel Hit by Loitering Munition in Dnieper Estuary",
+    "published": "2026-08-15T16:37:15.391652+00:00"
+  },
+  "bb8a0b4ba6b1e76bad5b226506288396a47c0d8048a19e05b0b09bfb1441bf54": {
+    "url": "intelslava/92630",
+    "title": "Slavyansk Pedestrian Bridge Damaged in Aerial Bombing",
+    "published": "2026-08-15T16:34:29.985227+00:00"
+  },
+  "206a7d4f2662ae3943377e52d85e2ee468795be986329fe5e067409d42475258": {
+    "url": "thecradlemedia/66244",
+    "title": "Israeli Military Operation Kills 11 in South Lebanon",
+    "published": "2026-08-15T16:29:47.797993+00:00"
+  },
+  "eb5f43194ef80d8e826f07c985fd1356c589078bfb995831ff903c1323ed6682": {
+    "url": "thecradlemedia/66245",
+    "title": "Israeli Forces Conduct Explosions in Southern Lebanon",
+    "published": "2026-08-15T16:29:45.424264+00:00"
+  },
+  "3080bb32151ee44a98697d1cad6439a04acec9f8d501c013c59dd2e9af1a5617": {
+    "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+    "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+    "published": "2026-08-15T15:50:06+00:00"
+  },
+  "7fa11359fe9a6cbbad50231dbf47dbb738b7925ebbbdf47bf5f3765de04313e4": {
+    "url": "https://english.almanar.com.lb/article/116637/",
+    "title": "Lebanese Health Ministry: Israeli strikes on Saturday have resulted in 11 martyrs and wounded 19 others - Al-Manar TV Lebanon",
+    "published": "2026-08-15T15:31:15+00:00"
+  },
+  "9b460a3fff7c700b8deebe8598ae1cf2a548727217db699cb4c3f92facd2f03a": {
+    "url": "https://thecradle.co/articles-id/39404",
+    "title": "Israel kills 11 people, including several children, in deadliest south Lebanon attack in months",
+    "published": "2026-08-15T14:38:56+00:00"
+  },
   "9d10313208c8d355ef85410df562601cdda246562ee352ebed446a0f4fe87361": {
     "url": "militarywave/24756",
     "title": "Armenian Battalion Soldiers Reflect on Special Military Operation Experience",
@@ -459,6 +504,11 @@
     "title": "Colombia earthquake death toll rises to 287",
     "published": "2026-08-14T17:11:31+00:00"
   },
+  "29fb99015674661872d55446f5567cea0e9188b387e2759d68f7ef64749be4ad": {
+    "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+    "title": "Activists deliver aid to Palestinians in homes besieged by Israeli settlers",
+    "published": "2026-08-14T17:03:17+00:00"
+  },
   "8085f74a3809ccae0af8bb4ee0406b61cc59b38f38ee151b211e57f3a5e5b71b": {
     "url": "QudsNen/235283",
     "title": "Amsterdam Protesters Rally Against Israeli-Palestinian Conflict",
@@ -698,55 +748,5 @@
     "url": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
     "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
     "published": "2026-08-14T09:28:03+00:00"
-  },
-  "8a6a7245b4190325872d3523cfce05d101fc30a6c8f7f709b27495769488a633": {
-    "url": "https://en.mehrnews.com/news/246949/Oil-tanker-targeted-near-Strait-of-Hormuz",
-    "title": "Oil tanker targeted near Strait of Hormuz",
-    "published": "2026-08-14T09:22:25+00:00"
-  },
-  "2925df8d8de60b3216ba9a59b5fecace94b200614e46f1065d7774ff9e332dae": {
-    "url": "presstv/202699",
-    "title": "Israeli Airstrikes Hit Mansouri in Southern Lebanon",
-    "published": "2026-08-14T09:14:24.588784+00:00"
-  },
-  "a1973d6aaf53ecd308529a2d373645e5e9177d4df639028de15044037a95c91b": {
-    "url": "DDGeopolitics/191212",
-    "title": "Russia Strikes Ukraine's Largest Warehouse Complex in Brovary",
-    "published": "2026-08-14T09:13:46.882090+00:00"
-  },
-  "bab708c8a4fd1657b40c050f9fdce195782da661e045443aeeb68e9d5ba55c2a": {
-    "url": "DDGeopolitics/191219",
-    "title": "Kherson Under Fire: Russian Missile Strike Causes Widespread Damage",
-    "published": "2026-08-14T09:13:02.493010+00:00"
-  },
-  "e76ecd3441d1f6f34cb331b4e8280f91aaf2391f2d498a1e9403f708a01f7365": {
-    "url": "thecradlemedia/66121",
-    "title": "Israeli Forces Launch Overnight Strikes in Southern Lebanon",
-    "published": "2026-08-14T09:12:42.920446+00:00"
-  },
-  "4b1774998eb9a33b8148f688e37e063467689e53095f6048ccaedeb8c9fd9540": {
-    "url": "thecradlemedia/66128",
-    "title": "USS Abraham Lincoln Crew Crisis Amid CENTCOM Denials",
-    "published": "2026-08-14T09:12:23.166260+00:00"
-  },
-  "00f511261039563bc4e4a637fd6b99c9aa4031e0230f7e4d700146d14b4a7fc2": {
-    "url": "thecradlemedia/66130",
-    "title": "US Citizen Detained by Israel Amid Health Concerns and Diplomatic Row",
-    "published": "2026-08-14T09:12:21.049253+00:00"
-  },
-  "6b9a5d0bade6e0cadf752a1c6f3a1e1415427aab47ce1217f01253c15b3ba4fa": {
-    "url": "https://en.mehrnews.com/news/246947/The-desperation-of-the-aggressors-coming-to-surface",
-    "title": "The desperation of the aggressors coming to surface",
-    "published": "2026-08-14T08:17:17+00:00"
-  },
-  "8a362475627eee08106e0c80a844f65eb8f756b876764b3f382928a0c1b643b5": {
-    "url": "https://english.almanar.com.lb/article/115702/",
-    "title": "Iran War Depletes US Arsenal: Military Lost Roughly 25% of Its Reaper Drones - Al-Manar TV Lebanon",
-    "published": "2026-08-14T07:36:43+00:00"
-  },
-  "36067a3f254b1b16e7d6b77ad17798db5181e13f42186cb134a8917ea4e8889a": {
-    "url": "EurasianChoice/66051",
-    "title": "US Conducts Experimental Missile Test in Iran, Resulting in Civilian Casualties",
-    "published": "2026-08-14T07:34:59.482668+00:00"
   }
 }
