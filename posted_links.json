@@ -1,4 +1,39 @@
 {
+  "7a11de4369c7a2a63be5a59c20f1c0d5b2b7777a995c8db9cd5abb41817c6477": {
+    "url": "DDGeopolitics/191264",
+    "title": "Israeli Airstrike Hits Southern Lebanon, Multiple Fatalities Reported",
+    "published": "2026-08-15T10:31:47.426281+00:00"
+  },
+  "9b39fac09cf815d3cee045e7fb727c5323be923c6ce32a062c56b0a688fee286": {
+    "url": "QudsNen/235357",
+    "title": "Israeli Warplanes Strike Southern Lebanon",
+    "published": "2026-08-15T10:31:13.407852+00:00"
+  },
+  "38da0d64c27d148e350f9b896d946eb71efae4f73891ad622981662352ae459c": {
+    "url": "QudsNen/235363",
+    "title": "Israeli Drone Strike Hits Motorcycle Near Al-Aqsa Martyrs Hospital in Gaza",
+    "published": "2026-08-15T10:30:37.147778+00:00"
+  },
+  "fbdb1ba2fc15d7108a2fa33bf81b41b3ea36f6027cd47ded1c91608e0ab67b4d": {
+    "url": "thecradlemedia/66201",
+    "title": "Israeli Airstrikes Hit Deir al-Zahrani in Southern Lebanon",
+    "published": "2026-08-15T10:29:27.111987+00:00"
+  },
+  "8a0a9ac2a4be8b15db8568f8d25e6dedddce851ebc9bf0a5507dea6e3b065e9b": {
+    "url": "thecradlemedia/66211",
+    "title": "UAE Vows to Safeguard Sovereignty Amid Tanker Attacks",
+    "published": "2026-08-15T10:28:23.809595+00:00"
+  },
+  "33da24c92232e67be57d990db55544abec9050d65ec6bf7d8078e18db6b1f30a": {
+    "url": "thecradlemedia/66213",
+    "title": "Iran Denies Ceasefire Reports, Clarifies Negotiation Status",
+    "published": "2026-08-15T10:28:22.440642+00:00"
+  },
+  "850dc7615150dadce72383b0b1b0540874a2c6d1bcc93a3be4b7e0d718c0c801": {
+    "url": "https://tass.com/defense/2173677",
+    "title": "Russian defense chief presents St. George's Banner Ribbon to Battlegroup East unit",
+    "published": "2026-08-15T09:39:07+00:00"
+  },
   "0fc61a606f3d3ea2f8de91e326d466e60585552c71549bcb7a28f17a4f7bc078": {
     "url": "Slavyangrad/173326",
     "title": "Russia Adapts Underground Tactics to Counter Drone Strikes",
@@ -78,6 +113,16 @@
     "url": "https://tass.com/emergencies/2173653",
     "title": "Eight drones shot down over Moscow region overnight \u2014 region\u2019s governor",
     "published": "2026-08-15T06:35:56+00:00"
+  },
+  "ae5dee00f5cf9bb8bdaedde317b9b512d47683581cdcd98ca037a46a276b26c3": {
+    "url": "https://en.mehrnews.com/news/246965/IRGC-chief-praises-armed-forces-after-6-months-of-war",
+    "title": "IRGC chief praises armed forces after 6 months of war",
+    "published": "2026-08-15T06:21:16+00:00"
+  },
+  "87a0c757f03b3d61723335298eef4659b4b17eb5d287029441e703e030dfc55c": {
+    "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+    "title": "Taiwan passes defence budget after record delay, retains drone funding",
+    "published": "2026-08-15T04:44:14+00:00"
   },
   "6451a532b4fff93708dd852ed690bc6904af7f196287fb7fa8a70c24e0f31163": {
     "url": "presstv/202796",
@@ -389,6 +434,11 @@
     "title": "Israel forces Palestinians out of Qusra after siege by Jewish settlers",
     "published": "2026-08-14T15:27:37+00:00"
   },
+  "82cb92b88ea30078cb4686e026e3cc92cdbbec08bcd48163a9f15cd4c6aaff8e": {
+    "url": "https://en.mehrnews.com/news/246954/IRGC-Navy-commander-stresses-closure-of-Hormuz-Strait",
+    "title": "IRGC Navy commander stresses closure of Hormuz Strait",
+    "published": "2026-08-14T15:25:17+00:00"
+  },
   "ea983c54b43cb691f41e87129ebb8a78215ed1bbc6d8ea672455aada5a21ab10": {
     "url": "https://tass.com/politics/2173455",
     "title": "Russian forces deliver strikes on Ukrainian military warehouses at Odessa, Yuzhny ports",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/politics/2172643",
     "title": "Ukraine seeks moratorium on civilian-target strikes to achieve tactical goals \u2014 expert",
     "published": "2026-08-14T03:00:01+00:00"
-  },
-  "a125a51feb2f362602745fcccf567022875695bffdfbc874fda84ed42cdec245": {
-    "url": "intelslava/92555",
-    "title": "Explosions Reported Near Erbil International Airport, Iranian Drone Intercepted",
-    "published": "2026-08-14T02:14:10.383896+00:00"
-  },
-  "3b129053923eccc41132b2b6fedf74eeef6fb789ed25cbf8f8d34096cf4a0502": {
-    "url": "Middle_East_Spectator/35878",
-    "title": "Iran Warns of Crushing Response to Any Threat in Strait of Hormuz",
-    "published": "2026-08-14T02:13:35.637526+00:00"
-  },
-  "2306817d18b9c464e9faf2f4981a14bebf3093a601b537936db525a14d6de792": {
-    "url": "Middle_East_Spectator/35889",
-    "title": "Iran Conducts Drone Strike on Erbil, Iraq",
-    "published": "2026-08-14T02:13:34.283176+00:00"
-  },
-  "9c0cf5ef61ada5ff72b9d6aed4083f80a88d7e61a4fa7a019c10e2bdda96e08f": {
-    "url": "Middle_East_Spectator/35892",
-    "title": "Houthi Forces Advance in Mokha, Red Sea Port City",
-    "published": "2026-08-14T02:12:00.843766+00:00"
-  },
-  "8f343516031895945e7434fbd69ba8c59229eeeb9beda6a78763ecc1eb02f1d8": {
-    "url": "Middle_East_Spectator/35893",
-    "title": "Yemen Conflict: Clashes Intensify in Al-Mokha",
-    "published": "2026-08-14T02:11:06.110267+00:00"
-  },
-  "168adb650ba22bd2fd088b34005f3b5258e51b67a887f679a4280dfdaa84599d": {
-    "url": "Middle_East_Spectator/35897",
-    "title": "Houthi Forces Seize Strategic Towns in Yemen",
-    "published": "2026-08-14T02:10:24.584982+00:00"
-  },
-  "970871dde2c73016ae521ec4ae5c5309190c7e069f0d1c5d7de060996451dab0": {
-    "url": "https://www.aljazeera.com/news/2026/8/14/yemen-faces-highest-risk-of-returning-to-war-since-2022-truce-un-warns?traffic_source=rss",
-    "title": "Yemen faces highest risk of returning to war since 2022 truce, UN warns",
-    "published": "2026-08-14T00:02:22+00:00"
-  },
-  "ed19ccf9c11917ba00c7179230d9e0687c8340949d0ea92b0a683d79ab9f8d4d": {
-    "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
-    "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-    "published": "2026-08-13T23:09:15+00:00"
-  },
-  "45eea7ceac6c66d9411fa9aaab72ab9edbcb724d02f6a45587ed7383bc3948b4": {
-    "url": "presstv/202663",
-    "title": "Israeli Forces Strike Nabatieh al-Fawqa with Artillery Shells",
-    "published": "2026-08-13T22:50:35.251250+00:00"
-  },
-  "1aa82332df7d26a3ddd8ee9225922d677c14553616ba6a166c9c1894dd29e595": {
-    "url": "BellumActaNews/176447",
-    "title": "Germany Tests Truck-Mounted Drone Launcher",
-    "published": "2026-08-13T22:50:06.671701+00:00"
   }
 }

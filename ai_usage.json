@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5983,
+  "total_calls": 5987,
   "tiers": {
-    "groq": 5964,
+    "groq": 5968,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T07:38:57.230706+00:00",
-      "tier": "groq",
-      "article": "Ukraine needs 5% of US Patriot missile stockpiles to survive winter \u2014 Zelensky"
-    },
-    {
-      "timestamp": "2026-08-13T07:39:34.430600+00:00",
-      "tier": "groq",
-      "article": "Oil from tanker that ran aground off coast of Oman has reached mainland \u2014 UN"
-    },
-    {
-      "timestamp": "2026-08-13T07:39:53.788398+00:00",
-      "tier": "groq",
-      "article": "US menace against civilian sites breach of Geneva Convention"
-    },
-    {
-      "timestamp": "2026-08-13T07:40:35.001523+00:00",
-      "tier": "groq",
-      "article": "US environ. damage must be addressed in Hormuz arrangements"
-    },
     {
       "timestamp": "2026-08-13T09:15:34.198701+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T08:34:58.292935+00:00",
       "tier": "groq",
       "article": "Wildfires spread in France\u2019s Landes"
+    },
+    {
+      "timestamp": "2026-08-15T10:26:03.910792+00:00",
+      "tier": "groq",
+      "article": "Taiwan passes defence budget after record delay, retains drone funding"
+    },
+    {
+      "timestamp": "2026-08-15T10:26:39.294892+00:00",
+      "tier": "groq",
+      "article": "IRGC Navy commander stresses closure of Hormuz Strait"
+    },
+    {
+      "timestamp": "2026-08-15T10:27:26.025836+00:00",
+      "tier": "groq",
+      "article": "Russian defense chief presents St. George's Banner Ribbon to Battlegroup East unit"
+    },
+    {
+      "timestamp": "2026-08-15T10:28:13.204951+00:00",
+      "tier": "groq",
+      "article": "IRGC chief praises armed forces after 6 months of war"
     }
   ]
 }
