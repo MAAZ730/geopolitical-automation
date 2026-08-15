@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5975,
+  "total_calls": 5979,
   "tiers": {
-    "groq": 5956,
+    "groq": 5960,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T02:10:49.015770+00:00",
-      "tier": "groq",
-      "article": "Girl injured due to falling drone in Rostov Region"
-    },
-    {
-      "timestamp": "2026-08-13T02:11:25.285662+00:00",
-      "tier": "groq",
-      "article": "Germany\u2019s domestic spy agency to be given offensive powers \u2013 Bild"
-    },
-    {
-      "timestamp": "2026-08-13T02:12:14.799281+00:00",
-      "tier": "groq",
-      "article": "North Korea can deliver \u2018death' blow in case of external threat \u2014 Foreign Ministry"
-    },
-    {
-      "timestamp": "2026-08-13T02:12:33.297665+00:00",
-      "tier": "groq",
-      "article": "IN BRIEF: What we know about foiled terrorist attack against Defense Ministry officer"
-    },
     {
       "timestamp": "2026-08-13T05:43:06.595975+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T04:36:38.899461+00:00",
       "tier": "groq",
       "article": "Romania\u2019s sole nuclear plant shut down as Danube hits record low"
+    },
+    {
+      "timestamp": "2026-08-15T06:41:58.031553+00:00",
+      "tier": "groq",
+      "article": "CENTCOM launches multinational attack drone task force"
+    },
+    {
+      "timestamp": "2026-08-15T06:42:35.070791+00:00",
+      "tier": "groq",
+      "article": "Eight drones shot down over Moscow region overnight \u2014 region\u2019s governor"
+    },
+    {
+      "timestamp": "2026-08-15T06:43:26.871831+00:00",
+      "tier": "groq",
+      "article": "At least 20 killed as magnitude 7.7 quake hits Indonesia"
+    },
+    {
+      "timestamp": "2026-08-15T06:44:17.322045+00:00",
+      "tier": "groq",
+      "article": "Pakistani Embassy in Tehran celebrates 79th Independence Day, eyes $10bn trade target with Iran"
     }
   ]
 }

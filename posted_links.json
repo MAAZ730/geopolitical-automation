@@ -1,4 +1,39 @@
 {
+  "5ee0332f639ef32a83fede6cff389760c9056ebff2a4decd275fb91ac6f6e8db": {
+    "url": "presstv/202807",
+    "title": "Israeli Airstrike Hits Residential Building in Nabatieh, Lebanon",
+    "published": "2026-08-15T06:46:21.126196+00:00"
+  },
+  "dbab7a16ece9bcac3a1e9bc54db8c57fe5044b54b4144853107b06b2e86ba354": {
+    "url": "BellumActaNews/176435",
+    "title": "Explosion Rocks Italian Ammunition Plant, Supplying European Armies",
+    "published": "2026-08-15T06:45:57.321878+00:00"
+  },
+  "20cb65448df60c0e465fdbeef278fe0e065515ffaf955d979fa4bc994ae1fdfe": {
+    "url": "DDGeopolitics/191257",
+    "title": "White House Prioritizes Domestic Defense Over Ukraine Interceptor Shipments",
+    "published": "2026-08-15T06:45:10.531496+00:00"
+  },
+  "b46c610375dac2ead94c2683be90d526df3a30671d64a81bcc5abcf74aa25922": {
+    "url": "QudsNen/235326",
+    "title": "Gaza's Healthcare System Fails Young Dialysis Patient",
+    "published": "2026-08-15T06:45:08.803048+00:00"
+  },
+  "4ddb1ad75b19404f54e6f9e5055e98f81a7de56bbdede773afb92817575fabed": {
+    "url": "QudsNen/235340",
+    "title": "Israeli Airstrike Kills Six in Southern Lebanon",
+    "published": "2026-08-15T06:45:07.616881+00:00"
+  },
+  "b0401562c6414858f47422825c908c72a167c43e40b2fa60b97cf87357696592": {
+    "url": "QudsNen/235343",
+    "title": "Israeli Forces Clash with Palestinians in Al-Mughayir Village",
+    "published": "2026-08-15T06:44:44.821167+00:00"
+  },
+  "225cb378db029ea0a8812788405c21609a4d6d63217e9658b113c7ea1be9801a": {
+    "url": "https://tass.com/emergencies/2173653",
+    "title": "Eight drones shot down over Moscow region overnight \u2014 region\u2019s governor",
+    "published": "2026-08-15T06:35:56+00:00"
+  },
   "6451a532b4fff93708dd852ed690bc6904af7f196287fb7fa8a70c24e0f31163": {
     "url": "presstv/202796",
     "title": "Israeli Airstrike Targets House in Nabatieh, Lebanon",
@@ -78,6 +113,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-indonesia-quake-sv-mp4?traffic_source=rss",
     "title": "7.7-magnitude earthquake strikes eastern Indonesia",
     "published": "2026-08-15T02:03:22+00:00"
+  },
+  "48083845285bf79648eac388a32fa620087ea1f20d94eaa5264aa26fccb4568b": {
+    "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
+    "title": "At least 20 killed as magnitude 7.7 quake hits Indonesia",
+    "published": "2026-08-15T01:36:04+00:00"
   },
   "f044d1a1050f2046dcba176c8f68f8195e69b77acba9a8481f2deb8c7977d523": {
     "url": "QudsNen/235327",
@@ -309,6 +349,11 @@
     "title": "Russian forces deliver strikes on Ukrainian military warehouses at Odessa, Yuzhny ports",
     "published": "2026-08-14T15:15:10+00:00"
   },
+  "2dd444d99e352364aa56435d533ec4ff01080849b676b648722cbd537fcb7ee1": {
+    "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
+    "title": "CENTCOM launches multinational attack drone task force",
+    "published": "2026-08-14T15:09:04+00:00"
+  },
   "892b97871697f9f2daf44d94829844b1f6b08b43b4bc9fc1ea4971eeda72a44c": {
     "url": "https://en.mehrnews.com/news/246953/US-failed-to-achieve-its-goals-in-war-on-Iran-senior-cleric",
     "title": "US failed to achieve its goals in war on Iran: senior cleric",
@@ -348,6 +393,11 @@
     "url": "https://en.irna.ir/news/86235280/OIC-warns-of-rising-Israeli-regime-s-crimes-in-West-Bank",
     "title": "OIC warns of rising Israeli regime\u2019s crimes in West Bank",
     "published": "2026-08-14T14:38:44+00:00"
+  },
+  "c325ff52534b32ea4006f52ea1fcaf2d5d1c94985261ec7a7cfe4d4f2a70efd3": {
+    "url": "https://www.tehrantimes.com/news/529048/Pakistani-Embassy-in-Tehran-celebrates-79th-Independence-Day",
+    "title": "Pakistani Embassy in Tehran celebrates 79th Independence Day, eyes $10bn trade target with Iran",
+    "published": "2026-08-14T13:20:56+00:00"
   },
   "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
     "url": "CensoredMen/232",
@@ -698,55 +748,5 @@
     "url": "mod_russia_en/28845",
     "title": "Russian UAVs Strike Ukrainian Recovery Train in Odessa Region",
     "published": "2026-08-13T20:51:10.023490+00:00"
-  },
-  "c6a3b1480e2afaf0c841f54ef2ed8f85cb2016803663f9caa57e2543cc59ea61": {
-    "url": "Middle_East_Spectator/35885",
-    "title": "Iran Tests New Ballistic Missile or Air Defense Projectile in Kerman",
-    "published": "2026-08-13T20:50:28.540439+00:00"
-  },
-  "caa2a189d32af7ad76c4c024def6d8f39ee1b6e5d2d4db8efbdf12432808cc15": {
-    "url": "Middle_East_Spectator/35886",
-    "title": "Saudi-Backed Forces Engage Yemeni Drones in Marib Province",
-    "published": "2026-08-13T20:50:27.268285+00:00"
-  },
-  "75add74bc7eec037acc9aed66ccd88187655c2f15c1bbd3f6fdca59122e7a593": {
-    "url": "thecradlemedia/66120",
-    "title": "Lebanon Denies US Plan to Deploy Foreign Troops to Disarm Hezbollah",
-    "published": "2026-08-13T20:49:28.919167+00:00"
-  },
-  "13f2245d04e828003e82bbc4102ace933e733175dec56ccd394de690d111e5e5": {
-    "url": "https://www.rt.com/news/644212-us-envoy-slams-israeli-terrorist-settlers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US ambassador condemns Israeli \u2018terrorist\u2019 settlers (VIDEO)",
-    "published": "2026-08-13T20:38:07+00:00"
-  },
-  "af3e823b5e705cd57622ad6c25efa163fc5baf15a3abbdb39e2ba5f22364e26a": {
-    "url": "https://www.rt.com/news/644215-japan-arming-china-worried/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Japan is arming for a long range fight, and China is worried",
-    "published": "2026-08-13T19:23:16+00:00"
-  },
-  "0f9045b5d1b3ed2a313503abab7f0616ea174e0e514a76e5ef2e0d6e11722af2": {
-    "url": "Slavyangrad/173145",
-    "title": "Russian Logistics Warehouse Hit in Pavlograd, Ukraine",
-    "published": "2026-08-13T19:09:44.985968+00:00"
-  },
-  "91c9f3e9c8b4efc7d8046659c8f9799df246e0f7074aa6d153da75efabd9b368": {
-    "url": "Slavyangrad/173152",
-    "title": "Kherson Drone Strike Sparks Widespread Fires",
-    "published": "2026-08-13T19:09:33.040251+00:00"
-  },
-  "d3b5ee294270af37fc7245e60df5ad51d8af7f29bae33c2e5bcc8e667dbe4f6e": {
-    "url": "intelslava/92536",
-    "title": "Explosion Rocks Ammunition Plant in Colleferro, Italy",
-    "published": "2026-08-13T19:08:50.967193+00:00"
-  },
-  "bc67ce51e168a44d4de5b29f25b9c51c8c71e28357ef5885e1b918beef64e07e": {
-    "url": "Middle_East_Spectator/35884",
-    "title": "Houthi Missile and Drone Strikes Hit Mokha Port in Western Yemen",
-    "published": "2026-08-13T19:07:57.267679+00:00"
-  },
-  "74bae2455a1e290fc921a531964316d0cbce6fd52e47bbb68b0de89ad8bc7155": {
-    "url": "thecradlemedia/66102",
-    "title": "Israel Re-Establishes Ganim Settlement in West Bank",
-    "published": "2026-08-13T19:07:53.423624+00:00"
   }
 }
