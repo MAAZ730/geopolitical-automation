@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 5991,
+  "total_calls": 5995,
   "tiers": {
-    "groq": 5972,
+    "groq": 5976,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T11:03:14.399887+00:00",
-      "tier": "groq",
-      "article": "The getaway truck; when Trump gets stuck in Iran\u2019s quagmire"
-    },
-    {
-      "timestamp": "2026-08-13T11:03:58.843711+00:00",
-      "tier": "groq",
-      "article": "US demands info on missile launches from other countries to distract attention \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-13T11:04:18.224517+00:00",
-      "tier": "groq",
-      "article": "American mercenary Conor Kennedy arrested in absentia in Russia, placed on wanted list"
-    },
-    {
-      "timestamp": "2026-08-13T11:05:02.185390+00:00",
-      "tier": "groq",
-      "article": "The True Cost of Cheap Chips"
-    },
     {
       "timestamp": "2026-08-13T13:18:32.488804+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-15T12:43:56.854250+00:00",
       "tier": "groq",
       "article": "Zelensky losing Western support, says opposition politician"
+    },
+    {
+      "timestamp": "2026-08-15T14:26:14.232451+00:00",
+      "tier": "groq",
+      "article": "Japanese minister visits shrine to war dead, angering China, South Korea"
+    },
+    {
+      "timestamp": "2026-08-15T14:26:50.423195+00:00",
+      "tier": "groq",
+      "article": "Iran reveals downed US drones equipped with Starlink devices"
+    },
+    {
+      "timestamp": "2026-08-15T14:27:36.053957+00:00",
+      "tier": "groq",
+      "article": "Israeli officials &#039;stunned&#039; by Iran\u2019s rapid ballistic missile recovery: Report"
+    },
+    {
+      "timestamp": "2026-08-15T14:27:54.055675+00:00",
+      "tier": "groq",
+      "article": "DPRK ambassador to Russia slams Kiev\u2019s invasion of Kursk Region by neo-Nazi clique"
     }
   ]
 }
