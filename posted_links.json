@@ -1,4 +1,49 @@
 {
+  "7ffc35a966cd82f88ea23ff78f71a24674eed3d13664faae6d39b014c1d6e189": {
+    "url": "mod_russia_en/28894",
+    "title": "Russian Airstrike Destroys Ukrainian Special Operations Brigade's Drone Command Post in Donetsk",
+    "published": "2026-08-16T18:38:54.571489+00:00"
+  },
+  "ef51cf2cec52791aad75f30124cb501f8bf20ce3b53d6f784de355011717d3f1": {
+    "url": "infantmilitario/193694",
+    "title": "US Navy Denies Reports of Fatal Brawl on USS Abraham Lincoln",
+    "published": "2026-08-16T18:38:25.245937+00:00"
+  },
+  "e3c2c7ee1a55ae475c2f556c0560eb1f31fc296970e73f8b0a717c954e4e2dfa": {
+    "url": "Slavyangrad/173477",
+    "title": "Russian Airstrike Targets Ukrainian Drone Command Post in Eastern Ukraine",
+    "published": "2026-08-16T18:36:15.718606+00:00"
+  },
+  "eaeb38e7f722bef9b71835095b8723c60b5c9a21d80da447ecbe25cc2ab1018f": {
+    "url": "DDGeopolitics/191330",
+    "title": "South Korea Seeks Direct Talks with North Korea to End Korean War",
+    "published": "2026-08-16T18:35:34.097799+00:00"
+  },
+  "d51df4013478647f4c78e161340f491b19e3b17d6b7dd0e1272cf7fb8a5bb9f4": {
+    "url": "QudsNen/235505",
+    "title": "Gaza-bound Vessel Detours After Kiel Docking Incident",
+    "published": "2026-08-16T18:35:32.188318+00:00"
+  },
+  "3c977c9f4e1e8a8d270e782923ce8023512a326c8fc6baced281463c7a66c0fc": {
+    "url": "QudsNen/235518",
+    "title": "Israeli Settlers Establish New Outpost in Barqa, West Bank",
+    "published": "2026-08-16T18:35:30.835065+00:00"
+  },
+  "87cada62d749e78a7796b4e80a73a16524964ad162202522341bd8d6e037abe8": {
+    "url": "https://en.mehrnews.com/news/247016/Russia-intercepts-over-800-drones-fired-by-Ukraine",
+    "title": "Russia intercepts over 800 drones fired by Ukraine",
+    "published": "2026-08-16T17:35:29+00:00"
+  },
+  "b2cd0e7f59d8615d52dda6780d318ae579dca5ea5d47acac836164ecf4171117": {
+    "url": "https://english.almanar.com.lb/article/116982/",
+    "title": "Hezbollah Explosive Drone Hit Israeli Soldier 32 Years after His Father Was Injured in South Lebanon As Well: Yedioth Ahronoth - Al-Manar TV Lebanon",
+    "published": "2026-08-16T17:08:50+00:00"
+  },
+  "732c6677a76e856d977c750d6002ac798329c377238fed7a630ae2f98e14acb4": {
+    "url": "https://english.almanar.com.lb/article/116992/",
+    "title": "A military source told Yemen\u2019s Saba news: Armed forces targeted Saudi military gatherings in Mocha and Marib province with ballistic missiles and drones - Al-Manar TV Lebanon",
+    "published": "2026-08-16T16:51:44+00:00"
+  },
   "373d1113d2070393ab947f7bfb463713c44b50b809211314d7532b25b5feb3f0": {
     "url": "Slavyangrad/173466",
     "title": "Zaporizhzhia Under Fire: Ukrainian City Hit by Russian Guided Bombs",
@@ -384,6 +429,11 @@
     "title": "Army drops roses on Syrian crowds in a far cry from war",
     "published": "2026-08-16T00:50:12+00:00"
   },
+  "92e142a4f6d74aa2d11808ee325748bfe7f246516ec319489a25067075f8cfb8": {
+    "url": "https://tass.com/emergencies/2173783",
+    "title": "Drone debris, third in one day, found in Turkey \u2014 Nefes",
+    "published": "2026-08-16T00:03:49+00:00"
+  },
   "059ed030731c9c04ac9b84b253099c30d4be4b622705ea3134355eed0dfd8a51": {
     "url": "https://www.rt.com/news/644294-south-korea-proposes-dialogue-to/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "South Korea proposes dialogue to end war with North Korea",
@@ -698,55 +748,5 @@
     "url": "DDGeopolitics/191264",
     "title": "Israeli Airstrike Hits Southern Lebanon, Multiple Fatalities Reported",
     "published": "2026-08-15T10:31:47.426281+00:00"
-  },
-  "9b39fac09cf815d3cee045e7fb727c5323be923c6ce32a062c56b0a688fee286": {
-    "url": "QudsNen/235357",
-    "title": "Israeli Warplanes Strike Southern Lebanon",
-    "published": "2026-08-15T10:31:13.407852+00:00"
-  },
-  "38da0d64c27d148e350f9b896d946eb71efae4f73891ad622981662352ae459c": {
-    "url": "QudsNen/235363",
-    "title": "Israeli Drone Strike Hits Motorcycle Near Al-Aqsa Martyrs Hospital in Gaza",
-    "published": "2026-08-15T10:30:37.147778+00:00"
-  },
-  "fbdb1ba2fc15d7108a2fa33bf81b41b3ea36f6027cd47ded1c91608e0ab67b4d": {
-    "url": "thecradlemedia/66201",
-    "title": "Israeli Airstrikes Hit Deir al-Zahrani in Southern Lebanon",
-    "published": "2026-08-15T10:29:27.111987+00:00"
-  },
-  "8a0a9ac2a4be8b15db8568f8d25e6dedddce851ebc9bf0a5507dea6e3b065e9b": {
-    "url": "thecradlemedia/66211",
-    "title": "UAE Vows to Safeguard Sovereignty Amid Tanker Attacks",
-    "published": "2026-08-15T10:28:23.809595+00:00"
-  },
-  "33da24c92232e67be57d990db55544abec9050d65ec6bf7d8078e18db6b1f30a": {
-    "url": "thecradlemedia/66213",
-    "title": "Iran Denies Ceasefire Reports, Clarifies Negotiation Status",
-    "published": "2026-08-15T10:28:22.440642+00:00"
-  },
-  "850dc7615150dadce72383b0b1b0540874a2c6d1bcc93a3be4b7e0d718c0c801": {
-    "url": "https://tass.com/defense/2173677",
-    "title": "Russian defense chief presents St. George's Banner Ribbon to Battlegroup East unit",
-    "published": "2026-08-15T09:39:07+00:00"
-  },
-  "8212040fe908a724bfaf401a5000db39346ba219ed07415cb76f8c1f32d0a5b4": {
-    "url": "https://tass.com/defense/2173675",
-    "title": "Analytical center for drone use established within Battlegroup East, ministry says",
-    "published": "2026-08-15T08:44:05+00:00"
-  },
-  "0fc61a606f3d3ea2f8de91e326d466e60585552c71549bcb7a28f17a4f7bc078": {
-    "url": "Slavyangrad/173326",
-    "title": "Russia Adapts Underground Tactics to Counter Drone Strikes",
-    "published": "2026-08-15T08:40:16.728554+00:00"
-  },
-  "b4559084672a261f5d11ced6b6818a8acd3086d90952476c10944e7aa8255819": {
-    "url": "intelslava/92609",
-    "title": "Russian Forces Disrupt Ukrainian Drone Operations in Zaporizhzhia",
-    "published": "2026-08-15T08:38:57.152930+00:00"
-  },
-  "3aacdf4ba8a1d2019685fadd814b01b46d637944eaa67e27e74c49a9168d691b": {
-    "url": "presstv/202814",
-    "title": "IRGC Shoots Down US MQ-9 Reaper Drone Over Hormozgan",
-    "published": "2026-08-15T08:38:24.153595+00:00"
   }
 }

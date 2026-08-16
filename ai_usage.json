@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6047,
+  "total_calls": 6051,
   "tiers": {
-    "groq": 6028,
+    "groq": 6032,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T16:56:40.832705+00:00",
-      "tier": "groq",
-      "article": "One dead, seven injured: consequences of Ukrainian missile strike on Bryansk"
-    },
-    {
-      "timestamp": "2026-08-14T16:57:03.315079+00:00",
-      "tier": "groq",
-      "article": "Russian forces deliver strikes on Ukrainian military warehouses at Odessa, Yuzhny ports"
-    },
-    {
-      "timestamp": "2026-08-14T16:57:22.114690+00:00",
-      "tier": "groq",
-      "article": "Three civilians injured, 10 buildings damaged in Ukrainian drone attack on Sevastopol"
-    },
-    {
-      "timestamp": "2026-08-14T16:57:41.355921+00:00",
-      "tier": "groq",
-      "article": "Beirut denies agreement on &#039;shortlist&#039; of nations to enforce Hezbollah disarmament: Report"
-    },
     {
       "timestamp": "2026-08-14T18:58:25.503012+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T16:31:21.152718+00:00",
       "tier": "groq",
       "article": "Iran\u2019s Army announces financial reward for killing US forces"
+    },
+    {
+      "timestamp": "2026-08-16T18:33:07.830032+00:00",
+      "tier": "groq",
+      "article": "Russia intercepts over 800 drones fired by Ukraine"
+    },
+    {
+      "timestamp": "2026-08-16T18:33:42.756669+00:00",
+      "tier": "groq",
+      "article": "Hezbollah Explosive Drone Hit Israeli Soldier 32 Years after His Father Was Injured in South Lebanon As Well: Yedioth Ahronoth - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-16T18:34:02.412788+00:00",
+      "tier": "groq",
+      "article": "A military source told Yemen\u2019s Saba news: Armed forces targeted Saudi military gatherings in Mocha and Marib province with ballistic missiles and drones - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-16T18:34:35.728105+00:00",
+      "tier": "groq",
+      "article": "Drone debris, third in one day, found in Turkey \u2014 Nefes"
     }
   ]
 }
