@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6015,
+  "total_calls": 6019,
   "tiers": {
-    "groq": 5996,
+    "groq": 6000,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-13T22:45:26.300269+00:00",
-      "tier": "groq",
-      "article": "Houthis fire two missiles at military airfield near Bab el-Mandeb Strait"
-    },
-    {
-      "timestamp": "2026-08-13T22:45:58.894289+00:00",
-      "tier": "groq",
-      "article": "Israeli strikes in Gaza kill two, including police chief"
-    },
-    {
-      "timestamp": "2026-08-13T22:46:46.813391+00:00",
-      "tier": "groq",
-      "article": "Two Emirati vessels come under attack in Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-08-13T22:47:05.008389+00:00",
-      "tier": "groq",
-      "article": "Russia to promptly arrange reception for Witkoff, Kushner \u2014 senior diplomat"
-    },
     {
       "timestamp": "2026-08-14T02:09:02.994861+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T01:29:19.866462+00:00",
       "tier": "groq",
       "article": "Army drops roses on Syrian crowds in a far cry from war"
+    },
+    {
+      "timestamp": "2026-08-16T03:03:10.539752+00:00",
+      "tier": "groq",
+      "article": "No decision made so far on resuming talks with US"
+    },
+    {
+      "timestamp": "2026-08-16T03:03:43.823362+00:00",
+      "tier": "groq",
+      "article": "Russian Armed Forces struck depots containing military equipment at Odessa port"
+    },
+    {
+      "timestamp": "2026-08-16T03:04:29.524421+00:00",
+      "tier": "groq",
+      "article": "Al Jazeera journalist opens beach cafe in the Gaza she loves"
+    },
+    {
+      "timestamp": "2026-08-16T03:04:45.487939+00:00",
+      "tier": "groq",
+      "article": "South Korea proposes dialogue to end war with North Korea"
     }
   ]
 }

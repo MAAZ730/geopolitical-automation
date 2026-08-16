@@ -1,4 +1,39 @@
 {
+  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
+    "url": "CensoredMen/230",
+    "title": "IRGC Claims Responsibility for Strike on U.S. Installation near Jordanian Border",
+    "published": "2026-08-16T03:07:44.893103+00:00"
+  },
+  "a9384d18bb3f9cf4bb4a649266f814597ee63f87b9193414ef13bd1b4450ce59": {
+    "url": "CensoredMen/232",
+    "title": "Trump Defends War Stance Amid Public Opposition",
+    "published": "2026-08-16T03:07:31.616511+00:00"
+  },
+  "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
+    "url": "CensoredMen/239",
+    "title": "China Deploys Surveillance Drone to Enforce Nighttime Swimming Ban in Qingdao",
+    "published": "2026-08-16T03:06:03.414346+00:00"
+  },
+  "a60266bf8d479be8e3b23915808555fe78ba99c834593dd9dce9e22ed20c2f83": {
+    "url": "presstv/202937",
+    "title": "Israeli Artillery Strikes Target Jabal al-Rafie in Southern Lebanon",
+    "published": "2026-08-16T03:05:16.351901+00:00"
+  },
+  "dd2fae40d08da72217cf4e6bb552cbc76fe9c06ae3c357a62a1ee14f00e5bace": {
+    "url": "QudsNen/235417",
+    "title": "Gaza's Oxygen Supply on Brink of Collapse Amid Israeli Blockade",
+    "published": "2026-08-16T03:04:53.496280+00:00"
+  },
+  "409e76ded1844ad5c0e8b9871ea938496c0bfc88b6a28556aae9aea0d5011369": {
+    "url": "QudsNen/235431",
+    "title": "Israeli Airstrike Targets Ali Al-Taher Hills in Southern Lebanon",
+    "published": "2026-08-16T03:04:52.354845+00:00"
+  },
+  "b9b21d63030099a405f193f9e0beedcfafd86e3e553dcdf9cec5fd32d837398f": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+    "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+    "published": "2026-08-16T02:26:54+00:00"
+  },
   "3ed30f38dd43252c89435e16005156faf3d58b330f2a83d191c39e4d921cb1dc": {
     "url": "presstv/202932",
     "title": "Iranians Rally Behind National Defense Amid Regional Tensions",
@@ -33,6 +68,11 @@
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
     "title": "Army drops roses on Syrian crowds in a far cry from war",
     "published": "2026-08-16T00:50:12+00:00"
+  },
+  "059ed030731c9c04ac9b84b253099c30d4be4b622705ea3134355eed0dfd8a51": {
+    "url": "https://www.rt.com/news/644294-south-korea-proposes-dialogue-to/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "South Korea proposes dialogue to end war with North Korea",
+    "published": "2026-08-15T23:58:54+00:00"
   },
   "7da98e40d08bdbdc5d7e5438d535c8cdc7283873f0dc8ec93bcfea5f19702500": {
     "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
@@ -198,6 +238,11 @@
     "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
     "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
     "published": "2026-08-15T15:50:06+00:00"
+  },
+  "de882d339e9b4ce3ac2c9fee6b93efcc4857c077c4eec11597d511031f797e3d": {
+    "url": "https://tass.com/defense/2173733",
+    "title": "Russian Armed Forces struck depots containing military equipment at Odessa port",
+    "published": "2026-08-15T15:43:16+00:00"
   },
   "7fa11359fe9a6cbbad50231dbf47dbb738b7925ebbbdf47bf5f3765de04313e4": {
     "url": "https://english.almanar.com.lb/article/116637/",
@@ -428,6 +473,11 @@
     "url": "https://en.mehrnews.com/news/246965/IRGC-chief-praises-armed-forces-after-6-months-of-war",
     "title": "IRGC chief praises armed forces after 6 months of war",
     "published": "2026-08-15T06:21:16+00:00"
+  },
+  "a09006efc945db0834757162a7f75e1c11c37cb8b2b680f9009e1ea8fc67dbe2": {
+    "url": "https://en.mehrnews.com/news/246962/No-decision-made-so-far-on-resuming-talks-with-US",
+    "title": "No decision made so far on resuming talks with US",
+    "published": "2026-08-15T04:57:56+00:00"
   },
   "87a0c757f03b3d61723335298eef4659b4b17eb5d287029441e703e030dfc55c": {
     "url": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/world/2173513",
     "title": "Houthis attack Yemeni port of Mokha with missiles, drones",
     "published": "2026-08-14T17:20:38+00:00"
-  },
-  "934691ab9ba4dd77b6f0c229ce39a2f20583f9e50501128cd432b2289659ffd8": {
-    "url": "https://tass.com/world/2173509",
-    "title": "Colombia earthquake death toll rises to 287",
-    "published": "2026-08-14T17:11:31+00:00"
-  },
-  "29fb99015674661872d55446f5567cea0e9188b387e2759d68f7ef64749be4ad": {
-    "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-    "title": "Activists deliver aid to Palestinians in homes besieged by Israeli settlers",
-    "published": "2026-08-14T17:03:17+00:00"
-  },
-  "8085f74a3809ccae0af8bb4ee0406b61cc59b38f38ee151b211e57f3a5e5b71b": {
-    "url": "QudsNen/235283",
-    "title": "Amsterdam Protesters Rally Against Israeli-Palestinian Conflict",
-    "published": "2026-08-14T17:01:01.723252+00:00"
-  },
-  "5b8f4c9e3848381c66aed7424619721e33349941e3eb818cf456df0fde83058f": {
-    "url": "Middle_East_Spectator/35904",
-    "title": "Yemen Conflict: Ansarallah Forces Strike Mokha Port, Destroying Saudi Arms Shipment",
-    "published": "2026-08-14T17:00:15.550742+00:00"
-  },
-  "2a8d9d4e6e4e6b7c5feb6a419127a6ec702ad6cafee4bb6bacfe388ac603fb84": {
-    "url": "Middle_East_Spectator/35906",
-    "title": "Yemen Conflict: Ansarallah Forces Destroy Saudi Arms Shipment in Mokha Port",
-    "published": "2026-08-14T16:58:50.524144+00:00"
-  },
-  "644a61d5c11c05a337b64b9a371e454f8cee4dd921caf417d0156d892fc64671": {
-    "url": "thecradlemedia/66183",
-    "title": "Israeli Forces Target Ali al-Taher Heights with Incendiary Munitions",
-    "published": "2026-08-14T16:58:18.605815+00:00"
-  },
-  "2d7a957bff2b05bbd135d76ab86c055cb6c6fb5f05e230169b44350dce7624d2": {
-    "url": "thecradlemedia/66185",
-    "title": "Palestinians Skeptical of Disarmament as Precondition for Israeli Withdrawal from Gaza",
-    "published": "2026-08-14T16:57:53.107242+00:00"
-  },
-  "51462da9fc1e737fd7cbd6541400c59ec13f45b7f07cf26b292d0b6ef43c9740": {
-    "url": "thecradlemedia/66187",
-    "title": "Hezbollah Leader Marks 20th Anniversary of 2006 Victory",
-    "published": "2026-08-14T16:57:48.224256+00:00"
-  },
-  "1a1084f72b9a2c43db135d2d6b405d3554ac2af9ec60ffcfee9c71497383ccfa": {
-    "url": "https://tass.com/politics/2173103",
-    "title": "Pion self-propelled artillery system crews destroy Ukrainian temporary deployment sites",
-    "published": "2026-08-14T16:53:48+00:00"
-  },
-  "979a03bb4350da818b3b0f18b63db9d9f2837d1631105efcf390334dd9d8834b": {
-    "url": "https://tass.com/politics/2173279",
-    "title": "Three civilians injured, 10 buildings damaged in Ukrainian drone attack on Sevastopol",
-    "published": "2026-08-14T16:47:14+00:00"
   }
 }
