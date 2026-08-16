@@ -1,4 +1,39 @@
 {
+  "7c52e8bb06b403f79a1d73da4e0a78b3bc685394c26cac12c5ece9ed1b541c5e": {
+    "url": "CyberspecNews/114441",
+    "title": "Drone Strike Hits Gas Station in Occupied Zaporizhzhia",
+    "published": "2026-08-16T22:34:20.142118+00:00"
+  },
+  "fa300b1698df765fdf8271654c262ca86675dc1cd309ca00d0c159c4a657d5f5": {
+    "url": "Slavyangrad/173491",
+    "title": "Glide Bomb Hits Zaporozhye Amid Ongoing Conflict",
+    "published": "2026-08-16T22:32:42.990855+00:00"
+  },
+  "dd6430461e3f6d073b9194656a1dc4aacedb6bcad6ac5fc746cda10918a9d353": {
+    "url": "boris_rozhin/222455",
+    "title": "Russian Forces Target Enemy Personnel in Kharkiv Region",
+    "published": "2026-08-16T22:31:10.848625+00:00"
+  },
+  "e5fe2868a6bbf448bb776564186d0109dbc6db740a4bfac50aad58886a403dca": {
+    "url": "presstv/203053",
+    "title": "India Unveils Locally Designed Jet-Powered Loitering Munition",
+    "published": "2026-08-16T22:29:27.311194+00:00"
+  },
+  "2697abf64a94bfb4335fac788054f7a95cb67b0d0b34a4b98145130918818046": {
+    "url": "QudsNen/235537",
+    "title": "Hamas Reaffirms Gaza Plan Commitments in Cairo Talks",
+    "published": "2026-08-16T22:26:22.214954+00:00"
+  },
+  "59e04af3d5b1de19e18f5dd796fdd0968ae6f40c32cf0f243b5c5f4ecca6350d": {
+    "url": "QudsNen/235538",
+    "title": "Gaza Strip: Israeli Artillery Strikes Al-Bureij Refugee Camp",
+    "published": "2026-08-16T22:26:20.770588+00:00"
+  },
+  "080c52da35c87e79c50afb343e887e6e12aa0bc64df3258ddeb06c41a118bbff": {
+    "url": "https://tass.com/politics/2173931",
+    "title": "One civilian died, ten more wounded in Ukraine\u2019s attacks on DPR",
+    "published": "2026-08-16T20:50:01+00:00"
+  },
   "249bf5bc04fcd1de36c4a6888b41e1e14e62de95b6e695b307983c07f4e83d7e": {
     "url": "mod_russia_en/28879",
     "title": "Russian Military Trains Kyrgyz Contingent in Modern Warfare Tactics",
@@ -79,10 +114,20 @@
     "title": "Iran will win \u2018economic war\u2019 as it did on battlefield: Vice president",
     "published": "2026-08-16T17:19:47+00:00"
   },
+  "6d7f8c026479a1e78dd17889e8f67631f83761d32795a7bfd924fe9e610eb1bc": {
+    "url": "https://www.tehrantimes.com/news/529133/Iran-Offers-30-000-Reward-for-Capturing-or-Killing-US-Military",
+    "title": "Iran Offers $30,000 Reward for Capturing or Killing US Military Personnel",
+    "published": "2026-08-16T17:13:16+00:00"
+  },
   "b2cd0e7f59d8615d52dda6780d318ae579dca5ea5d47acac836164ecf4171117": {
     "url": "https://english.almanar.com.lb/article/116982/",
     "title": "Hezbollah Explosive Drone Hit Israeli Soldier 32 Years after His Father Was Injured in South Lebanon As Well: Yedioth Ahronoth - Al-Manar TV Lebanon",
     "published": "2026-08-16T17:08:50+00:00"
+  },
+  "616afc73d4b7a658a26e15de4883f2c80dcc4e9d7a99de96a931eb3c25bb422c": {
+    "url": "https://www.tehrantimes.com/news/529123/Case-of-3-Iranian-pilots-is-a-serious-test-to-determine-Qatar-s",
+    "title": "Case of 3 Iranian pilots is a serious test to determine Qatar\u2019s role in the war",
+    "published": "2026-08-16T16:55:22+00:00"
   },
   "732c6677a76e856d977c750d6002ac798329c377238fed7a630ae2f98e14acb4": {
     "url": "https://english.almanar.com.lb/article/116992/",
@@ -348,6 +393,11 @@
     "url": "https://en.mehrnews.com/news/246992/Massive-drone-attack-taregts-Russian-capital",
     "title": "Massive drone attack taregts Russian capital",
     "published": "2026-08-16T05:42:46+00:00"
+  },
+  "fe14f14e29340ef1e0897902cf75ebdf2753285ae7505eed433f14c7bc9acfa0": {
+    "url": "https://en.mehrnews.com/news/246991/Hamas-delegation-due-in-Cairo-for-talks-on-Gaza-ceasefire",
+    "title": "Hamas delegation due in Cairo for talks on Gaza ceasefire",
+    "published": "2026-08-16T05:37:31+00:00"
   },
   "f00bafdec92cc226b8bfb3ef7f69667754664903c35341b1d23f6adb86151635": {
     "url": "https://en.mehrnews.com/news/246990/Trump-must-be-worried-for-his-security-Senior-Iranian-MP",
@@ -698,55 +748,5 @@
     "url": "warmonitors/45296",
     "title": "Israeli Artillery Strikes Hit Residential Areas in Southern Lebanon",
     "published": "2026-08-15T14:31:20.534994+00:00"
-  },
-  "d381236e302e076201ee21fea27476af40fc1e560dc0542ea10321b52b1c706a": {
-    "url": "DDGeopolitics/191267",
-    "title": "US Withdrawal from Afghanistan Marks Fifth Anniversary of Taliban's Return to Power",
-    "published": "2026-08-15T14:30:53.354432+00:00"
-  },
-  "82d504626bba2fb2b5bf9024913d3b862609dcab28487c4d75ca7511f859bcfb": {
-    "url": "QudsNen/235389",
-    "title": "Israeli Settlers Redirect Floodwaters towards Palestinian Homes in West Bank",
-    "published": "2026-08-15T14:29:09.677783+00:00"
-  },
-  "4e337d29e76041b319c0756ca8c5e2ef6dc6e90ac5f6c2e0cd8f42c7bdf4cc3c": {
-    "url": "thecradlemedia/66237",
-    "title": "Iran Seizes US Drones Equipped with Starlink Devices",
-    "published": "2026-08-15T14:28:06.088884+00:00"
-  },
-  "723034d0b9a15134f47cc049241626d65c4d839b35c42f543603c1a6e41a3da1": {
-    "url": "thecradlemedia/66242",
-    "title": "Erdogan Urges Ceasefire in Lebanon as Turkey Reiterates Regional Support",
-    "published": "2026-08-15T14:28:04.597149+00:00"
-  },
-  "98b94a1e72c155de58d3a33955ca8334875583a8e15a5740db95676de2fd27a7": {
-    "url": "https://english.almanar.com.lb/article/116602/",
-    "title": "Hezbollah: The Israeli enemy must understand clearly that its attacks, violations, and attempts to impose a new reality cannot continue and will be met with an appropriate response in defense of Lebanon, its people, sovereignty, and national dignity - Al-Manar TV Lebanon",
-    "published": "2026-08-15T13:49:19+00:00"
-  },
-  "fe6688930d286aa543b05fdf78d474f695d1cc19f6a4ab18a3180da39af95f70": {
-    "url": "https://thecradle.co/articles-id/39402",
-    "title": "Iran reveals downed US drones equipped with Starlink devices",
-    "published": "2026-08-15T13:40:00+00:00"
-  },
-  "cb9f9b368ccbb28d82d86adcaab88e44d9eb0f717e54a5b4730f80b6a25c712b": {
-    "url": "https://tass.com/world/2173697",
-    "title": "Moroccan police use force against hundreds of migrants at Ceuta border, newspaper reports",
-    "published": "2026-08-15T13:10:28+00:00"
-  },
-  "d71fe18361dce7e5934ebe52c909ac693b53a3eaa603b9aef3b496b52180463e": {
-    "url": "DDGeopolitics/191270",
-    "title": "Russian Drone Strikes Target Ukrainian Tugboats in Dnieper Estuary",
-    "published": "2026-08-15T12:50:46.735558+00:00"
-  },
-  "dc4d890b2193f88187cae84caf45796be59f3ab30822bbb4aa5ac4aee726c0b4": {
-    "url": "DDGeopolitics/191275",
-    "title": "Russian Forces Target Slavyansk Bridge in Ongoing Donbass Campaign",
-    "published": "2026-08-15T12:49:23.078029+00:00"
-  },
-  "a7119508530bca9a03f305421a4448ae3dca6f2a0698b00ec28003fcbe35f3cc": {
-    "url": "thecradlemedia/66210",
-    "title": "Iran Displays Starlink Devices on Downed US Drones",
-    "published": "2026-08-15T12:47:39.258626+00:00"
   }
 }

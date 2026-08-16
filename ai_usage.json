@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6055,
+  "total_calls": 6059,
   "tiers": {
-    "groq": 6036,
+    "groq": 6040,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T20:34:53.842186+00:00",
-      "tier": "groq",
-      "article": "Houthis attack Yemeni port of Mokha with missiles, drones"
-    },
-    {
-      "timestamp": "2026-08-14T20:35:12.920822+00:00",
-      "tier": "groq",
-      "article": "Ukraine facing shortage of personnel, anti-missile systems \u2014 US military intel"
-    },
-    {
-      "timestamp": "2026-08-14T20:35:39.576631+00:00",
-      "tier": "groq",
-      "article": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components"
-    },
-    {
-      "timestamp": "2026-08-14T20:35:55.891424+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s Battlegroup West shoots down 110 Ukrainian heavy hexacopters over past day"
-    },
     {
       "timestamp": "2026-08-14T22:26:33.210581+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T20:27:43.052853+00:00",
       "tier": "groq",
       "article": "Iran will win \u2018economic war\u2019 as it did on battlefield: Vice president"
+    },
+    {
+      "timestamp": "2026-08-16T22:24:29.506455+00:00",
+      "tier": "groq",
+      "article": "One civilian died, ten more wounded in Ukraine\u2019s attacks on DPR"
+    },
+    {
+      "timestamp": "2026-08-16T22:25:03.618954+00:00",
+      "tier": "groq",
+      "article": "Hamas delegation due in Cairo for talks on Gaza ceasefire"
+    },
+    {
+      "timestamp": "2026-08-16T22:25:21.593048+00:00",
+      "tier": "groq",
+      "article": "Iran Offers $30,000 Reward for Capturing or Killing US Military Personnel"
+    },
+    {
+      "timestamp": "2026-08-16T22:26:09.859693+00:00",
+      "tier": "groq",
+      "article": "Case of 3 Iranian pilots is a serious test to determine Qatar\u2019s role in the war"
     }
   ]
 }
