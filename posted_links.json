@@ -1,8 +1,53 @@
 {
+  "f2f7a924daa41e4f9263c8560bd515729c3675f2babf8f86a6a0a3b7c767ed0b": {
+    "url": "mod_russia_en/28884",
+    "title": "Russia Claims to Disrupt Ukrainian Supply Operation in Zaporozhye Region",
+    "published": "2026-08-16T06:57:20.672898+00:00"
+  },
+  "d42e8cf80936a5fe297e62b8587f4cefdee734e6fe43ed082e0818e4790dd7a3": {
+    "url": "Slavyangrad/173402",
+    "title": "Russia Deploys Swarm Drone Tactics in Combat Operations",
+    "published": "2026-08-16T06:55:17.936006+00:00"
+  },
+  "2231b582f939073b12ca8f4bbfda649eeb605489217da146e461835f93a87887": {
+    "url": "Slavyangrad/173411",
+    "title": "Russia Launches Coordinated Attack on Ukrainian Targets",
+    "published": "2026-08-16T06:53:27.960907+00:00"
+  },
+  "e35d6cd1b61229b31c95f4b77562547e68b745494c089798731e876d1ca4af3b": {
+    "url": "intelslava/92647",
+    "title": "IAF Airstrikes Hit Nabatieh al-Fawqa, Lebanon",
+    "published": "2026-08-16T06:48:32.674869+00:00"
+  },
+  "c935781d3f382b34a9b8495b1cb2e2eb6d49bfb6d517ddee1f8908e5156c83ef": {
+    "url": "DDGeopolitics/191281",
+    "title": "Dnepropetrovsk Demolishes Monument to Soviet Commander Vasily Margelov",
+    "published": "2026-08-16T06:44:54.997363+00:00"
+  },
+  "98b3745093fc971cb50f91be947efe5babe190ead96c21aa7d2034d59053e354": {
+    "url": "DDGeopolitics/191284",
+    "title": "US Navy Destroyer Crippled by Generator Failure in South China Sea",
+    "published": "2026-08-16T06:44:53.952464+00:00"
+  },
+  "eab23e8fa9f5bf59a8df9ac0676c7c62116546ed2b938c7d173b648f32551911": {
+    "url": "https://en.mehrnews.com/news/246992/Massive-drone-attack-taregts-Russian-capital",
+    "title": "Massive drone attack taregts Russian capital",
+    "published": "2026-08-16T05:42:46+00:00"
+  },
+  "40f7981e1b1c9f0a286ac88543294572ce409e50fea0e0920a15cbb39e6eeda9": {
+    "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+    "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+    "published": "2026-08-16T04:54:33+00:00"
+  },
   "279400388bc4ab27313846c669a6afe7e7bbc5ff3d0734cd00c0bd65adffc91a": {
     "url": "intelslava/92649",
     "title": "Russian Ballistic Missiles Hit Kryvyi Rih in Ukraine",
     "published": "2026-08-16T04:50:16.966489+00:00"
+  },
+  "6ec0d4848e72eae183f3170c98b4a305e324db4c505ec02fd827fe54ed6254f6": {
+    "url": "https://tass.com/politics/2173809",
+    "title": "Three killed, one injured in drone attack on Russia\u2019s Rostov Region \u2014 governor",
+    "published": "2026-08-16T04:49:01+00:00"
   },
   "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
     "url": "CensoredMen/222",
@@ -434,6 +479,11 @@
     "title": "Russian defense chief presents St. George's Banner Ribbon to Battlegroup East unit",
     "published": "2026-08-15T09:39:07+00:00"
   },
+  "8212040fe908a724bfaf401a5000db39346ba219ed07415cb76f8c1f32d0a5b4": {
+    "url": "https://tass.com/defense/2173675",
+    "title": "Analytical center for drone use established within Battlegroup East, ministry says",
+    "published": "2026-08-15T08:44:05+00:00"
+  },
   "0fc61a606f3d3ea2f8de91e326d466e60585552c71549bcb7a28f17a4f7bc078": {
     "url": "Slavyangrad/173326",
     "title": "Russia Adapts Underground Tactics to Counter Drone Strikes",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/defense/2173595",
     "title": "Kiev troops shell DPR 34 times in past day, one killed",
     "published": "2026-08-14T22:32:17+00:00"
-  },
-  "e0a02cdb4c9d31ec3870a9228e7d7afe4c938eb433e67da98a056a81d6199561": {
-    "url": "Middle_East_Spectator/35901",
-    "title": "Iran Displays Captured Drones as Engineers Begin Reverse-Engineering",
-    "published": "2026-08-14T22:27:54.186888+00:00"
-  },
-  "55b1b5d2075402bdf1516f8984daef936d987c985e4f79d1e9ea2953b4e8959e": {
-    "url": "Middle_East_Spectator/35909",
-    "title": "Yemeni Missile Strike Destroys Saudi Logistics Ships at Mokha Port",
-    "published": "2026-08-14T22:27:52.759830+00:00"
-  },
-  "1272bd90a738c02fe9ac38467c07342a6e58342d1e56396d429246077a7347c7": {
-    "url": "intelslava/92594",
-    "title": "Russia Deploys AI-Powered Drones in Ukraine",
-    "published": "2026-08-14T20:38:47.727336+00:00"
-  },
-  "d9fe0b2b3acbeabe33573c758b4b5e9b318da8d8fa12c0fc1c758dd175c03b3a": {
-    "url": "DDGeopolitics/191255",
-    "title": "Yemeni Forces Launch Ballistic Missile Strikes on Al-Mukha Port",
-    "published": "2026-08-14T20:38:10.412306+00:00"
-  },
-  "2d7f5f84d4a0b3ece5012e10b37d882f7d7a897916a2e557976c8315411c1c84": {
-    "url": "QudsNen/235312",
-    "title": "Israeli Airstrikes Hit Al-Mansouri in Southern Lebanon",
-    "published": "2026-08-14T20:36:59.602732+00:00"
-  },
-  "3320665199931f24a6dac734ef3e1ddd09f72d8f7f4480955b98e1802f2ada77": {
-    "url": "QudsNen/235313",
-    "title": "Israeli Forces Clash with Palestinians in Deir Ballut",
-    "published": "2026-08-14T20:36:44.173377+00:00"
-  },
-  "71aa92a112be338515cd3c295a8d6f2e4d6f71019131229e5cfb407cfc88054e": {
-    "url": "Middle_East_Spectator/35910",
-    "title": "Yemeni Missile Strike Destroys Saudi Logistics Ships at Mokha Port",
-    "published": "2026-08-14T20:36:03.780113+00:00"
-  },
-  "dd5078244e261c60a62e1d0437aded6218d44bb39a94e14c5a19ebb1813e84ef": {
-    "url": "thecradlemedia/66172",
-    "title": "Israel Plans to Shift West Bank Law Enforcement to Police",
-    "published": "2026-08-14T20:36:02.052682+00:00"
-  },
-  "cc42778af7966b05e0b6dde782a87225948a277abbd36091ef1aeb5dc25516fc": {
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
-    "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
-    "published": "2026-08-14T19:57:54+00:00"
-  },
-  "2505b8d04a577a537212a0992235a0bde670991d84a16b49ed53788fae1210b3": {
-    "url": "militarywave/24748",
-    "title": "Women's Prison Beauty Pageant Offers Rare Chance for Self-Expression",
-    "published": "2026-08-14T19:05:31.200012+00:00"
   }
 }

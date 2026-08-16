@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6023,
+  "total_calls": 6027,
   "tiers": {
-    "groq": 6004,
+    "groq": 6008,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T05:40:05.174598+00:00",
-      "tier": "groq",
-      "article": "Ukraine seeks moratorium on civilian-target strikes to achieve tactical goals \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-14T05:40:41.483586+00:00",
-      "tier": "groq",
-      "article": "Israel stunned by Iran\u2019s rapid military recovery \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-08-14T05:41:30.318126+00:00",
-      "tier": "groq",
-      "article": "Record rainfall leaves four dead, thousands stranded in Japan"
-    },
-    {
-      "timestamp": "2026-08-14T05:41:46.282743+00:00",
-      "tier": "groq",
-      "article": "Iran denounces Israeli claims over occupied Golan Heights"
-    },
     {
       "timestamp": "2026-08-14T07:28:57.345631+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T04:40:23.551572+00:00",
       "tier": "groq",
       "article": "Indonesian earthquake death toll rises to five \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-16T06:43:08.347814+00:00",
+      "tier": "groq",
+      "article": "Three killed, one injured in drone attack on Russia\u2019s Rostov Region \u2014 governor"
+    },
+    {
+      "timestamp": "2026-08-16T06:43:44.622309+00:00",
+      "tier": "groq",
+      "article": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania"
+    },
+    {
+      "timestamp": "2026-08-16T06:44:29.909186+00:00",
+      "tier": "groq",
+      "article": "Massive drone attack taregts Russian capital"
+    },
+    {
+      "timestamp": "2026-08-16T06:44:47.742894+00:00",
+      "tier": "groq",
+      "article": "Analytical center for drone use established within Battlegroup East, ministry says"
     }
   ]
 }
