@@ -1,4 +1,49 @@
 {
+  "279400388bc4ab27313846c669a6afe7e7bbc5ff3d0734cd00c0bd65adffc91a": {
+    "url": "intelslava/92649",
+    "title": "Russian Ballistic Missiles Hit Kryvyi Rih in Ukraine",
+    "published": "2026-08-16T04:50:16.966489+00:00"
+  },
+  "abd41969632c3b50b3f270a056f02c536df77866b80a26140f1dda142167af7d": {
+    "url": "CensoredMen/222",
+    "title": "U.S. Enforces Maritime Blockade Against Iran",
+    "published": "2026-08-16T04:47:46.531676+00:00"
+  },
+  "1b620c804f936775ed4d94bf7d33fd59a587486636d48e059755a36b938232d2": {
+    "url": "CensoredMen/229",
+    "title": "Ukraine Strikes Second Wildberries Warehouse in Nevinnomyssk",
+    "published": "2026-08-16T04:46:41.635263+00:00"
+  },
+  "95ebbbcce1388d343e56e880b5c2ab86079d6e1ac23be7f2f0ff4a1e6173f2da": {
+    "url": "DDGeopolitics/191289",
+    "title": "Ukraine's Missile Defense Efforts Face Delays and Hurdles",
+    "published": "2026-08-16T04:42:33.049465+00:00"
+  },
+  "4c2c57fae890c4d2677948a81414a2538bc536e3276444004923cf3acaca18c9": {
+    "url": "DDGeopolitics/191296",
+    "title": "Kremenchug Oil Refinery Hit by Ballistic Missile Strikes",
+    "published": "2026-08-16T04:42:31.656088+00:00"
+  },
+  "6671f10ab6381e8f6d5f29a0a24287e72d632b6b891d2cbe74aa8151ef7a5041": {
+    "url": "QudsNen/235435",
+    "title": "Hebron Settler Violence Escalates Amid Occupation Force Presence",
+    "published": "2026-08-16T04:42:29.776097+00:00"
+  },
+  "51c935a1c425ea0d583f5a1477c5c224a1271b9f6abeedb706549b5d5d6ace17": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+    "title": "Yemeni government forces hit back after new Houthi offensive",
+    "published": "2026-08-16T04:09:01+00:00"
+  },
+  "349f48a6c2c2856c9de89a2d019f83b075d0b78e50ce64545e7dff12602354c1": {
+    "url": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
+    "title": "Who killed Tupac? What to know about the trial of Duane \u2018Keffe D\u2019 Davis",
+    "published": "2026-08-16T03:47:43+00:00"
+  },
+  "236ebe61882629e37b6c5b9318ca6df1e5dcb9ffd76cdd6cdfd069cc8ad450d4": {
+    "url": "https://tass.com/emergencies/2173797",
+    "title": "Three injured as Moscow comes under massive drone attack \u2014 mayor",
+    "published": "2026-08-16T03:41:36+00:00"
+  },
   "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
     "url": "CensoredMen/230",
     "title": "IRGC Claims Responsibility for Strike on U.S. Installation near Jordanian Border",
@@ -474,6 +519,11 @@
     "title": "IRGC chief praises armed forces after 6 months of war",
     "published": "2026-08-15T06:21:16+00:00"
   },
+  "ecc3921458dc121e95c085a7ba6578f5dbf678212c5417ad1a38172ad5ab07c7": {
+    "url": "https://tass.com/emergencies/2173647",
+    "title": "Indonesian earthquake death toll rises to five \u2014 newspaper",
+    "published": "2026-08-15T04:59:58+00:00"
+  },
   "a09006efc945db0834757162a7f75e1c11c37cb8b2b680f9009e1ea8fc67dbe2": {
     "url": "https://en.mehrnews.com/news/246962/No-decision-made-so-far-on-resuming-talks-with-US",
     "title": "No decision made so far on resuming talks with US",
@@ -698,55 +748,5 @@
     "url": "militarywave/24748",
     "title": "Women's Prison Beauty Pageant Offers Rare Chance for Self-Expression",
     "published": "2026-08-14T19:05:31.200012+00:00"
-  },
-  "9e75407952f2b43eb6bdcf6d5f68f027011e5fba4e713e13fe1e61b3e8a38c41": {
-    "url": "DDGeopolitics/191249",
-    "title": "Russia Adopts 'Waiting Drone' Tactic Against Ukrainian Vehicles",
-    "published": "2026-08-14T19:02:44.146839+00:00"
-  },
-  "59362503082b265c8ec2ebd21bbcd95eab7857dbd8cab1397608e34f08b411c3": {
-    "url": "DDGeopolitics/191252",
-    "title": "Yemeni Forces Launch Ballistic Missile Strikes on Al-Mukha Port",
-    "published": "2026-08-14T19:01:36.755362+00:00"
-  },
-  "19d40e5cf71afc75b588220b3ce53d600dedca598ec9073807c6d9adff8ba446": {
-    "url": "QudsNen/235301",
-    "title": "Fire Engulfs Livestock Barracks in Gaza Following Israeli Artillery Shelling",
-    "published": "2026-08-14T19:01:05.604236+00:00"
-  },
-  "38acedbd2442462f2329354485db522aa3de538e71ce741a5a86e929de9f5d9c": {
-    "url": "thecradlemedia/66173",
-    "title": "Israeli Merkava Tank Conducts Security Sweep Near Khiam, Lebanon",
-    "published": "2026-08-14T19:00:15.257922+00:00"
-  },
-  "d532e8ff245cd752334c994577c4c21da5066fa8d8a75d544562646585a68f88": {
-    "url": "thecradlemedia/66175",
-    "title": "Oil Slicks Emerge in Persian Gulf Amid US-Iran Tensions",
-    "published": "2026-08-14T19:00:09.125477+00:00"
-  },
-  "7b383206f9c96d62907843f3ec85b91d0916cca572e44068b51ba8b93a0f9518": {
-    "url": "https://tass.com/world/2173545",
-    "title": "Trump confirms return of aircraft carrier USS Abraham Lincoln from Middle East",
-    "published": "2026-08-14T18:37:02+00:00"
-  },
-  "feb5b3f9ee01ee5b5e1b3ac6557398738749a69d2117af76db16bdfef5b86a89": {
-    "url": "https://tass.com/economy/2173539",
-    "title": "Apple warns users in 110 countries about spyware attacks \u2014 TechCrunch",
-    "published": "2026-08-14T18:33:10+00:00"
-  },
-  "c170fdcb39f420df866cbe8a57c550fde259d6e1adae50802c9e9c0e7f694ed0": {
-    "url": "https://tass.com/world/2173525",
-    "title": "Houthis say they attacked Saudi Aramco facility in Najran",
-    "published": "2026-08-14T17:51:04+00:00"
-  },
-  "040b52f694cdffd563eec0c2fb981a2fadbff179390571e079acbcd10053f48d": {
-    "url": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
-    "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up ",
-    "published": "2026-08-14T17:40:00+00:00"
-  },
-  "ec8417d582a7da19a35bf5d8648f66fa8dd998c961d78c1e14b7d63eb4ba294b": {
-    "url": "https://tass.com/world/2173513",
-    "title": "Houthis attack Yemeni port of Mokha with missiles, drones",
-    "published": "2026-08-14T17:20:38+00:00"
   }
 }

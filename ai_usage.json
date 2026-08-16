@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6019,
+  "total_calls": 6023,
   "tiers": {
-    "groq": 6000,
+    "groq": 6004,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T02:09:02.994861+00:00",
-      "tier": "groq",
-      "article": "Gaza City police chief killed as Israel pushes on with deadly strikes"
-    },
-    {
-      "timestamp": "2026-08-14T02:09:41.575808+00:00",
-      "tier": "groq",
-      "article": "Next secretary-general must heed Russia, if he does not want UN to decline \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-08-14T02:10:01.986713+00:00",
-      "tier": "groq",
-      "article": "Yemen faces highest risk of returning to war since 2022 truce, UN warns"
-    },
-    {
-      "timestamp": "2026-08-14T02:10:18.688542+00:00",
-      "tier": "groq",
-      "article": "Japan is arming for a long range fight, and China is worried"
-    },
     {
       "timestamp": "2026-08-14T05:40:05.174598+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T03:04:45.487939+00:00",
       "tier": "groq",
       "article": "South Korea proposes dialogue to end war with North Korea"
+    },
+    {
+      "timestamp": "2026-08-16T04:38:49.588782+00:00",
+      "tier": "groq",
+      "article": "Three injured as Moscow comes under massive drone attack \u2014 mayor"
+    },
+    {
+      "timestamp": "2026-08-16T04:39:07.441656+00:00",
+      "tier": "groq",
+      "article": "Yemeni government forces hit back after new Houthi offensive"
+    },
+    {
+      "timestamp": "2026-08-16T04:39:36.858637+00:00",
+      "tier": "groq",
+      "article": "Who killed Tupac? What to know about the trial of Duane \u2018Keffe D\u2019 Davis"
+    },
+    {
+      "timestamp": "2026-08-16T04:40:23.551572+00:00",
+      "tier": "groq",
+      "article": "Indonesian earthquake death toll rises to five \u2014 newspaper"
     }
   ]
 }
