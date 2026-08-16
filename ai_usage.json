@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6039,
+  "total_calls": 6043,
   "tiers": {
-    "groq": 6020,
+    "groq": 6024,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T13:12:21.601192+00:00",
-      "tier": "groq",
-      "article": "Iran threatens hundreds of strikes across Syria if Damascus &#039;intervenes&#039; in Lebanon: Report"
-    },
-    {
-      "timestamp": "2026-08-14T13:12:56.703278+00:00",
-      "tier": "groq",
-      "article": "Iran Rebuilds Missile Arsenal Far Faster Than \u2018Israel\u2019 Expected: Hebrew Media - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-14T13:13:14.609780+00:00",
-      "tier": "groq",
-      "article": "Iran: No ship can transit Hormuz without authorization"
-    },
-    {
-      "timestamp": "2026-08-14T13:13:30.497522+00:00",
-      "tier": "groq",
-      "article": "Lebanon Speaker Berri: Key to Stability Compelling \u2018Israel\u2019 to Cease War, Withdraw to Int\u2019l Borders - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-14T14:54:52.655530+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T12:45:31.125905+00:00",
       "tier": "groq",
       "article": "Ghalibaf: Iran Truly Won the War, Militarily and Politically - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-16T14:26:07.145633+00:00",
+      "tier": "groq",
+      "article": "Russian air defenses shoot down record-breaking number of Ukrainian drones in one day"
+    },
+    {
+      "timestamp": "2026-08-16T14:26:40.717845+00:00",
+      "tier": "groq",
+      "article": "Yemeni army reports over 180 operations against Houthis in past day"
+    },
+    {
+      "timestamp": "2026-08-16T14:26:59.619618+00:00",
+      "tier": "groq",
+      "article": "Only previously manufactured US weapons can be supplied to Ukraine from Turkey \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-16T14:27:35.498373+00:00",
+      "tier": "groq",
+      "article": "Tehran calls out US hypocrisy as Trump prioritizes military over social spending"
     }
   ]
 }
