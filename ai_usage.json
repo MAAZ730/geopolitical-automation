@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6051,
+  "total_calls": 6055,
   "tiers": {
-    "groq": 6032,
+    "groq": 6036,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T18:58:25.503012+00:00",
-      "tier": "groq",
-      "article": "Houthis say they attacked Saudi Aramco facility in Najran"
-    },
-    {
-      "timestamp": "2026-08-14T18:58:59.018048+00:00",
-      "tier": "groq",
-      "article": "US failed to achieve its goals in war on Iran: senior cleric"
-    },
-    {
-      "timestamp": "2026-08-14T18:59:45.631134+00:00",
-      "tier": "groq",
-      "article": "Pion self-propelled artillery system crews destroy Ukrainian temporary deployment sites"
-    },
-    {
-      "timestamp": "2026-08-14T19:00:04.125793+00:00",
-      "tier": "groq",
-      "article": "US ambassador condemns Israeli \u2018terrorist\u2019 settlers (VIDEO)"
-    },
     {
       "timestamp": "2026-08-14T20:34:53.842186+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T18:34:35.728105+00:00",
       "tier": "groq",
       "article": "Drone debris, third in one day, found in Turkey \u2014 Nefes"
+    },
+    {
+      "timestamp": "2026-08-16T20:26:36.126968+00:00",
+      "tier": "groq",
+      "article": "Ghalibaf: USA and \u2018Israel\u2019 attacked us in the war with nine specific and declared objectives, and they were unable to achieve any of them, which is considered their greatest absolute failure - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-16T20:27:08.524468+00:00",
+      "tier": "groq",
+      "article": "Trump must be worried for his security: Senior Iranian MP"
+    },
+    {
+      "timestamp": "2026-08-16T20:27:26.562243+00:00",
+      "tier": "groq",
+      "article": "Canada reduced to US \u2018farm team\u2019 in war against Iran: Foreign Ministry spox"
+    },
+    {
+      "timestamp": "2026-08-16T20:27:43.052853+00:00",
+      "tier": "groq",
+      "article": "Iran will win \u2018economic war\u2019 as it did on battlefield: Vice president"
     }
   ]
 }
