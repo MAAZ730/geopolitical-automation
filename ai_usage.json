@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6031,
+  "total_calls": 6035,
   "tiers": {
-    "groq": 6012,
+    "groq": 6016,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T09:10:58.954691+00:00",
-      "tier": "groq",
-      "article": "Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk"
-    },
-    {
-      "timestamp": "2026-08-14T09:11:37.739973+00:00",
-      "tier": "groq",
-      "article": "An Israeli occupation aircraft launches an airstrike on Al-Mansouri, in southern Lebanon - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-14T09:11:55.475867+00:00",
-      "tier": "groq",
-      "article": "The desperation of the aggressors coming to surface"
-    },
-    {
-      "timestamp": "2026-08-14T09:12:14.544079+00:00",
-      "tier": "groq",
-      "article": "Four pyrotechnicians, one security guard die during munition disposal in Sevastopol"
-    },
     {
       "timestamp": "2026-08-14T11:46:05.714980+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T08:34:13.286386+00:00",
       "tier": "groq",
       "article": "Armed Forces' statement on anniv. of return of POWs to home"
+    },
+    {
+      "timestamp": "2026-08-16T10:26:41.801981+00:00",
+      "tier": "groq",
+      "article": "Israel escalates strikes on strategic hill near Nabatieh after attack wounds three soldiers"
+    },
+    {
+      "timestamp": "2026-08-16T10:27:13.777778+00:00",
+      "tier": "groq",
+      "article": "Death toll from Indonesia earthquake rises to 38"
+    },
+    {
+      "timestamp": "2026-08-16T10:27:44.924166+00:00",
+      "tier": "groq",
+      "article": "East Azarbaijan prepares for post-war tourism market with major investment: Official"
+    },
+    {
+      "timestamp": "2026-08-16T10:28:16.139019+00:00",
+      "tier": "groq",
+      "article": "ICT ministry\u2019s priority was to ensure sustainable communications in Iran during war: Minister"
     }
   ]
 }
