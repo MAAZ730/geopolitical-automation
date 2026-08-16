@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6043,
+  "total_calls": 6047,
   "tiers": {
-    "groq": 6024,
+    "groq": 6028,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T14:54:52.655530+00:00",
-      "tier": "groq",
-      "article": "US War Department: We are working to maintain supply chains of munitions and interceptor missiles - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-14T14:55:25.302327+00:00",
-      "tier": "groq",
-      "article": "Kalashnikov launches mass production of smoke grenade against AI-powered drones"
-    },
-    {
-      "timestamp": "2026-08-14T14:56:15.935639+00:00",
-      "tier": "groq",
-      "article": "The Commercial Space Race"
-    },
-    {
-      "timestamp": "2026-08-14T14:56:31.760364+00:00",
-      "tier": "groq",
-      "article": "OIC warns of rising Israeli regime\u2019s crimes in West Bank"
-    },
     {
       "timestamp": "2026-08-14T16:56:40.832705+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T14:27:35.498373+00:00",
       "tier": "groq",
       "article": "Tehran calls out US hypocrisy as Trump prioritizes military over social spending"
+    },
+    {
+      "timestamp": "2026-08-16T16:29:39.230551+00:00",
+      "tier": "groq",
+      "article": "Israel strikes Hamas, Islamic Jihad terrorists in Gaza Strip \u2014 IDF"
+    },
+    {
+      "timestamp": "2026-08-16T16:30:19.002103+00:00",
+      "tier": "groq",
+      "article": "Women\u2019s sport shouldn\u2019t have to bend to the trans delusion"
+    },
+    {
+      "timestamp": "2026-08-16T16:31:04.466181+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Army chief warns US forces not allowed in Persian Gulf, Sea of Oman, Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-08-16T16:31:21.152718+00:00",
+      "tier": "groq",
+      "article": "Iran\u2019s Army announces financial reward for killing US forces"
     }
   ]
 }
