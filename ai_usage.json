@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6027,
+  "total_calls": 6031,
   "tiers": {
-    "groq": 6008,
+    "groq": 6012,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T07:28:57.345631+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike two tugboats, Izmail port rail station in new attacks"
-    },
-    {
-      "timestamp": "2026-08-14T07:29:31.465230+00:00",
-      "tier": "groq",
-      "article": "Drone debris damages Wildberries warehouse near Tver"
-    },
-    {
-      "timestamp": "2026-08-14T07:30:21.266359+00:00",
-      "tier": "groq",
-      "article": "Iran's offensive strategy to change global power equations"
-    },
-    {
-      "timestamp": "2026-08-14T07:30:39.988610+00:00",
-      "tier": "groq",
-      "article": "Putin's Kuril Islands visit does little to normalize bilateral relations \u2014 Japanese PM"
-    },
     {
       "timestamp": "2026-08-14T09:10:58.954691+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T06:44:47.742894+00:00",
       "tier": "groq",
       "article": "Analytical center for drone use established within Battlegroup East, ministry says"
+    },
+    {
+      "timestamp": "2026-08-16T08:33:01.865252+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike defense industry facilities, oil refinery, steel plant"
+    },
+    {
+      "timestamp": "2026-08-16T08:33:36.401427+00:00",
+      "tier": "groq",
+      "article": "One killed, four injured in a shooting in Kentucky Concert"
+    },
+    {
+      "timestamp": "2026-08-16T08:33:54.679966+00:00",
+      "tier": "groq",
+      "article": "Iran's envoy slams 168 days of intl. silence over Minab crime"
+    },
+    {
+      "timestamp": "2026-08-16T08:34:13.286386+00:00",
+      "tier": "groq",
+      "article": "Armed Forces' statement on anniv. of return of POWs to home"
     }
   ]
 }
