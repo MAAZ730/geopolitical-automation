@@ -1,4 +1,44 @@
 {
+  "3ed30f38dd43252c89435e16005156faf3d58b330f2a83d191c39e4d921cb1dc": {
+    "url": "presstv/202932",
+    "title": "Iranians Rally Behind National Defense Amid Regional Tensions",
+    "published": "2026-08-16T01:33:38.699034+00:00"
+  },
+  "6dac9b1dea0211aa9215283c584b1b6c6b24a691875f278530d6d9d20d1caf2f": {
+    "url": "militarywave/24746",
+    "title": "Bryansk Residential Building Hit in Ukrainian Missile Strike",
+    "published": "2026-08-16T01:31:22.885303+00:00"
+  },
+  "e0e02bc3b2d884c9ade56e8ee37b961f46dfbf06497d3076b505676f18d3f495": {
+    "url": "warmonitors/45304",
+    "title": "Israeli Aerial Strikes Continue in South Lebanon",
+    "published": "2026-08-16T01:31:01.198131+00:00"
+  },
+  "cd2e883a93c21d071b5ed8ffaa91692611a24e1dfc38b041403e0d3f2f8d6d4a": {
+    "url": "Middle_East_Spectator/35922",
+    "title": "Iranian Pilots Held Captive in Qatar After Su-24 Downing",
+    "published": "2026-08-16T01:30:11.057771+00:00"
+  },
+  "1105af3a13ae9466e4a45f8614da6582ed37e7ecc08aabf347bfd70cd9a55241": {
+    "url": "Middle_East_Spectator/35938",
+    "title": "US Aircraft Losses Exceed Combined Totals of Iraq War, Vietnam, and Korea in Iran Conflict",
+    "published": "2026-08-16T01:30:09.559467+00:00"
+  },
+  "0b1f3c8854e637dc036c824a0d0343249368c6fa6d137238bd54dee2da6f99d6": {
+    "url": "thecradlemedia/66246",
+    "title": "Israeli Warplanes Strike Southern Lebanon",
+    "published": "2026-08-16T01:30:07.491700+00:00"
+  },
+  "b0bc34ef344be8033629a051c1c8b7124f812da000b86e2be03ca3cc0879a460": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+    "title": "Army drops roses on Syrian crowds in a far cry from war",
+    "published": "2026-08-16T00:50:12+00:00"
+  },
+  "7da98e40d08bdbdc5d7e5438d535c8cdc7283873f0dc8ec93bcfea5f19702500": {
+    "url": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
+    "title": "Yemen\u2019s government says Houthi strikes hit residential areas in Marib",
+    "published": "2026-08-15T23:27:10+00:00"
+  },
   "427731f91edcbd02201d4692ca03fc5e6f9088062e5fab5fa8083e1fcf1174c5": {
     "url": "presstv/202915",
     "title": "US Sailors on USS Abraham Lincoln Face Mutiny Fears Amid War Doubts",
@@ -28,6 +68,11 @@
     "url": "Middle_East_Spectator/35935",
     "title": "US Navy Amphibious Assault Ship Runs Out of Menstrual Supplies",
     "published": "2026-08-15T22:27:37.216488+00:00"
+  },
+  "d5bab33d4cf6a1ace21bef298727dab7a1f6df8d94e566e402fa15235228df44": {
+    "url": "https://tass.com/defense/2173777",
+    "title": "Four civilians injured as Ukrainian troops launch more than 40 attacks on DPR in past day",
+    "published": "2026-08-15T22:25:45+00:00"
   },
   "ff42b9432c374fc92f508686026f4601677786fe66d2b141cf60def1ece23792": {
     "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
@@ -419,6 +464,11 @@
     "title": "Israeli Airstrike Targets Ali Al-Taher Hills in Southern Lebanon",
     "published": "2026-08-15T04:36:46.509000+00:00"
   },
+  "31d249c920d295624ecbfc343f3712253ff9a0fae1ee6c18dce518542c571d08": {
+    "url": "https://tass.com/politics/2173633",
+    "title": "Suspension of navigation in Black Sea to become Ukraine\u2019s slow death \u2014 expert",
+    "published": "2026-08-15T04:00:22+00:00"
+  },
   "7149d21dd71f5759a9682dbd98bb5d56034c56303a2b9323c7c6d047ebb360fb": {
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
     "title": "Did the US really destroy Iran\u2019s ballistic missile capability?",
@@ -698,55 +748,5 @@
     "url": "https://tass.com/politics/2173279",
     "title": "Three civilians injured, 10 buildings damaged in Ukrainian drone attack on Sevastopol",
     "published": "2026-08-14T16:47:14+00:00"
-  },
-  "58f766e8d954670a205407135e2a5daca0b15080c754e2a0d7742a287de23436": {
-    "url": "https://tass.com/world/2173131",
-    "title": "Ukraine facing shortage of personnel, anti-missile systems \u2014 US military intel",
-    "published": "2026-08-14T16:44:34+00:00"
-  },
-  "43c3890ea53b63e564030569f5be2130f636607d211bb3cce6422bdf43688a72": {
-    "url": "https://tass.com/world/2173497",
-    "title": "DPRK ambassador to Russia slams Kiev\u2019s invasion of Kursk Region by neo-Nazi clique",
-    "published": "2026-08-14T16:43:20+00:00"
-  },
-  "c6d740b243f7de679d93cf590ce0e6582768b8da27ec38144dc39e283b27760c": {
-    "url": "https://tass.com/politics/2173487",
-    "title": "One dead, seven injured: consequences of Ukrainian missile strike on Bryansk",
-    "published": "2026-08-14T16:30:17+00:00"
-  },
-  "4ca6ba6c62a6ae7e9b2e2c7d964b5b4b265a2e86b46c242249bedac505a486da": {
-    "url": "https://tass.com/world/2173263",
-    "title": "Zelensky losing Western support, says opposition politician",
-    "published": "2026-08-14T16:01:26+00:00"
-  },
-  "5ec6fba0e2d5a307385edafedee99ff3fb1bfacee51af3ca6e51c7ac2f2d7dd1": {
-    "url": "https://thecradle.co/articles-id/39396",
-    "title": "Israeli officials &#039;stunned&#039; by Iran\u2019s rapid ballistic missile recovery: Report",
-    "published": "2026-08-14T15:55:00+00:00"
-  },
-  "b05eb2326215ae8d5939dcedc6e547242fd87b4e4723317302d9b62b17591254": {
-    "url": "https://tass.com/politics/2173289",
-    "title": "Russian troops liberate eight communities in Ukraine operation over week \u2014 top brass",
-    "published": "2026-08-14T15:36:27+00:00"
-  },
-  "f0a0ad90c5655f944da73192d3af981c4ca72e6d16207a22b0a99c0f2f6dac5c": {
-    "url": "https://www.rt.com/news/644243-idf-enabling-terror-palestinians-settlers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Israel forces Palestinians out of Qusra after siege by Jewish settlers",
-    "published": "2026-08-14T15:27:37+00:00"
-  },
-  "82cb92b88ea30078cb4686e026e3cc92cdbbec08bcd48163a9f15cd4c6aaff8e": {
-    "url": "https://en.mehrnews.com/news/246954/IRGC-Navy-commander-stresses-closure-of-Hormuz-Strait",
-    "title": "IRGC Navy commander stresses closure of Hormuz Strait",
-    "published": "2026-08-14T15:25:17+00:00"
-  },
-  "ea983c54b43cb691f41e87129ebb8a78215ed1bbc6d8ea672455aada5a21ab10": {
-    "url": "https://tass.com/politics/2173455",
-    "title": "Russian forces deliver strikes on Ukrainian military warehouses at Odessa, Yuzhny ports",
-    "published": "2026-08-14T15:15:10+00:00"
-  },
-  "2dd444d99e352364aa56435d533ec4ff01080849b676b648722cbd537fcb7ee1": {
-    "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
-    "title": "CENTCOM launches multinational attack drone task force",
-    "published": "2026-08-14T15:09:04+00:00"
   }
 }
