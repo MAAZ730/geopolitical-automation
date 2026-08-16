@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6035,
+  "total_calls": 6039,
   "tiers": {
-    "groq": 6016,
+    "groq": 6020,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T11:46:05.714980+00:00",
-      "tier": "groq",
-      "article": "Russia says hit Ukrainian railway and port facilities in new strikes"
-    },
-    {
-      "timestamp": "2026-08-14T11:46:40.805178+00:00",
-      "tier": "groq",
-      "article": "Remaining member of a terrorist team arrested in southeast of Iran"
-    },
-    {
-      "timestamp": "2026-08-14T11:46:58.664143+00:00",
-      "tier": "groq",
-      "article": "Russian troops liberate Petrovka community in Ukraine operation over past day \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-08-14T11:47:46.432658+00:00",
-      "tier": "groq",
-      "article": "Iran War Depletes US Arsenal: Military Lost Roughly 25% of Its Reaper Drones - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-14T13:12:21.601192+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T10:28:16.139019+00:00",
       "tier": "groq",
       "article": "ICT ministry\u2019s priority was to ensure sustainable communications in Iran during war: Minister"
+    },
+    {
+      "timestamp": "2026-08-16T12:44:03.838981+00:00",
+      "tier": "groq",
+      "article": "Al-Manar correspondent in Gaza: Seven Palestinians injured in Israeli drone attack targeting tent of displaced people in Al-Mawasi, Khan Younis - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-16T12:44:37.476904+00:00",
+      "tier": "groq",
+      "article": "Moroccan police use force against hundreds of migrants at Ceuta border, newspaper reports"
+    },
+    {
+      "timestamp": "2026-08-16T12:44:56.825496+00:00",
+      "tier": "groq",
+      "article": "Iran managing continuous enemy cyberattacks: ICT minister"
+    },
+    {
+      "timestamp": "2026-08-16T12:45:31.125905+00:00",
+      "tier": "groq",
+      "article": "Ghalibaf: Iran Truly Won the War, Militarily and Politically - Al-Manar TV Lebanon"
     }
   ]
 }
