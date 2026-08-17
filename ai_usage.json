@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6090,
+  "total_calls": 6094,
   "tiers": {
     "groq": 6056,
-    "gemini": 34
+    "gemini": 38
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T12:43:56.854250+00:00",
-      "tier": "groq",
-      "article": "Zelensky losing Western support, says opposition politician"
-    },
-    {
-      "timestamp": "2026-08-15T14:26:14.232451+00:00",
-      "tier": "groq",
-      "article": "Japanese minister visits shrine to war dead, angering China, South Korea"
-    },
-    {
-      "timestamp": "2026-08-15T14:26:50.423195+00:00",
-      "tier": "groq",
-      "article": "Iran reveals downed US drones equipped with Starlink devices"
-    },
-    {
-      "timestamp": "2026-08-15T14:27:36.053957+00:00",
-      "tier": "groq",
-      "article": "Israeli officials &#039;stunned&#039; by Iran\u2019s rapid ballistic missile recovery: Report"
-    },
     {
       "timestamp": "2026-08-15T14:27:54.055675+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-17T18:43:06.909244+00:00",
       "tier": "gemini",
       "article": "War on Iran: Phase II, Day 37"
+    },
+    {
+      "timestamp": "2026-08-17T20:31:04.480152+00:00",
+      "tier": "gemini",
+      "article": "US warship loses power and toilets in South China Sea \u2013 CNN"
+    },
+    {
+      "timestamp": "2026-08-17T20:31:28.123018+00:00",
+      "tier": "gemini",
+      "article": "IN BRIEF: Russian forces deliver strikes on Izmail, Odessa ports, logistics targets"
+    },
+    {
+      "timestamp": "2026-08-17T20:31:54.171649+00:00",
+      "tier": "gemini",
+      "article": "Greek tanker attacked by Ukrainian drone in Black Sea near port of Novorossiysk"
+    },
+    {
+      "timestamp": "2026-08-17T20:32:25.986770+00:00",
+      "tier": "gemini",
+      "article": "Why the Mecca alliance may work in Russia\u2019s favor"
     }
   ]
 }
