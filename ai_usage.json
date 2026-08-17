@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6071,
+  "total_calls": 6075,
   "tiers": {
-    "groq": 6052,
+    "groq": 6056,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T04:35:04.482885+00:00",
-      "tier": "groq",
-      "article": "Israeli regime violates Lebanon truce, strikes Syria"
-    },
-    {
-      "timestamp": "2026-08-15T04:35:37.205698+00:00",
-      "tier": "groq",
-      "article": "Missile strikes industrial site in Volga area"
-    },
-    {
-      "timestamp": "2026-08-15T04:36:22.582967+00:00",
-      "tier": "groq",
-      "article": "Did the US really destroy Iran\u2019s ballistic missile capability?"
-    },
-    {
-      "timestamp": "2026-08-15T04:36:38.899461+00:00",
-      "tier": "groq",
-      "article": "Romania\u2019s sole nuclear plant shut down as Danube hits record low"
-    },
     {
       "timestamp": "2026-08-15T06:41:58.031553+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-17T04:47:01.057275+00:00",
       "tier": "groq",
       "article": "Israeli minister calls for killing \u201930 to 40\u2032 Palestinians in Gaza nightly"
+    },
+    {
+      "timestamp": "2026-08-17T07:00:41.214275+00:00",
+      "tier": "groq",
+      "article": "6 civilians killed in Russia, 2 in Ukraine as Moscow and Kyiv exchange overnight air strikes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-17T07:00:58.405659+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike Ukraine\u2019s Tarantul-class patrol boat at Odessa port overnight"
+    },
+    {
+      "timestamp": "2026-08-17T07:01:17.046752+00:00",
+      "tier": "groq",
+      "article": "Russian forces strike transport, energy infrastructure used by Ukrainian troops"
+    },
+    {
+      "timestamp": "2026-08-17T07:01:34.813779+00:00",
+      "tier": "groq",
+      "article": "Indonesian earthquake death toll exceeds 50 \u2014 agency"
     }
   ]
 }
