@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6089,
+  "total_calls": 6090,
   "tiers": {
     "groq": 6056,
-    "gemini": 33
+    "gemini": 34
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T12:43:19.055859+00:00",
-      "tier": "groq",
-      "article": "Russian air defense intercepts 17 Flamingo missiles, 1,328 fixed-wing UAVs of Kiev forces"
-    },
     {
       "timestamp": "2026-08-15T12:43:56.854250+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-17T16:31:49.404564+00:00",
       "tier": "gemini",
       "article": "Trump renews threat to bomb Oman &#039;if it gets in the way&#039; of US war on Iran"
+    },
+    {
+      "timestamp": "2026-08-17T18:43:06.909244+00:00",
+      "tier": "gemini",
+      "article": "War on Iran: Phase II, Day 37"
     }
   ]
 }
