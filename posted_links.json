@@ -1,4 +1,39 @@
 {
+  "846c5f309bf58eadd424e58bcffd62a3100eb934e2cb5a4bd8cc653e5ac156a6": {
+    "url": "OSINT_defender/313",
+    "title": "Russia Launches Large-Scale Drone and Missile Attack on Kyiv",
+    "published": "2026-08-17T01:32:23.992002+00:00"
+  },
+  "f7d0ac0171c7cd5fac31c26d37547f1a943cec2626923d6054e5180492745c07": {
+    "url": "OSINT_defender/316",
+    "title": "Pentagon Ceremony Honors U.S. Military Personnel with Border Defense Medal",
+    "published": "2026-08-17T01:30:51.136740+00:00"
+  },
+  "dbbc04fb5bbb8735d7217a6fac1b34a3043594498abe992e6f47b4e0f79ae421": {
+    "url": "CyberspecNews/114465",
+    "title": "Sudan Conflict Escalates as Turkish-Made Drones Used Against UAE-Backed Rebels",
+    "published": "2026-08-17T01:29:12.644117+00:00"
+  },
+  "a0100269f88914bf832f4ec947832b8c3cd245e7ff1b94a919d5a0d80efdcf3a": {
+    "url": "intelslava/92691",
+    "title": "Russian Forces Repel Ukrainian Rotation Attempt in Eastern Ukraine",
+    "published": "2026-08-17T01:26:45.759005+00:00"
+  },
+  "9462133b43b7dac9a15d6ba5ec057cebfe54629b23860ee4da095abe13036286": {
+    "url": "QudsNen/235535",
+    "title": "Israeli Airstrike Hits Al-Qantara in Southern Lebanon",
+    "published": "2026-08-17T01:26:22.615969+00:00"
+  },
+  "04c639a4a0c63d1c44f71a693dccb93930760e0cc782db6843c5a113286f5ebf": {
+    "url": "QudsNen/235541",
+    "title": "Israeli Artillery Shell Hits Palestinian Home in Gaza's Al-Tuffah Neighborhood",
+    "published": "2026-08-17T01:26:21.556249+00:00"
+  },
+  "4bdc71517762076d8b00aa7eaf2b3cb01ecc1ed1bb8ce5a00847ea4d1df21c6d": {
+    "url": "https://www.rt.com/news/644313-us-iran-nuclear-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US discussing nuclear weapons against Iran \u2013 Greene",
+    "published": "2026-08-17T01:12:42+00:00"
+  },
   "7c52e8bb06b403f79a1d73da4e0a78b3bc685394c26cac12c5ece9ed1b541c5e": {
     "url": "CyberspecNews/114441",
     "title": "Drone Strike Hits Gas Station in Occupied Zaporizhzhia",
@@ -28,6 +63,11 @@
     "url": "QudsNen/235538",
     "title": "Gaza Strip: Israeli Artillery Strikes Al-Bureij Refugee Camp",
     "published": "2026-08-16T22:26:20.770588+00:00"
+  },
+  "4c387a17c7e0ca737e86d4a871ec195f2a68d55a19679c516c67fd8b04a4b996": {
+    "url": "https://www.rt.com/news/644310-15-rapes-ceuta-spain-migrants/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Ceuta migrant crisis puts Spain under pressure as 15 rape cases reported",
+    "published": "2026-08-16T22:06:42+00:00"
   },
   "080c52da35c87e79c50afb343e887e6e12aa0bc64df3258ddeb06c41a118bbff": {
     "url": "https://tass.com/politics/2173931",
@@ -209,6 +249,11 @@
     "title": "Israeli War Minister Vows to Defend Citizens Amid Escalating Lebanon Conflict",
     "published": "2026-08-16T14:27:43.638908+00:00"
   },
+  "0ed2b1cd11a46d7b59e497adc97a162d5857acaa614c8da592c642c3a2927293": {
+    "url": "https://www.rt.com/news/644303-us-russia-s-400-radar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "US eyes Russian S-300, S-400 model for new air defense radars \u2013 Military Watch",
+    "published": "2026-08-16T14:14:33+00:00"
+  },
   "249921d3935861b2cde4d9e7d1e992f36955c1a092aed2d0e8fecd3b71ab2438": {
     "url": "https://tass.com/world/2173869",
     "title": "Yemeni army reports over 180 operations against Houthis in past day",
@@ -318,6 +363,11 @@
     "url": "DDGeopolitics/191300",
     "title": "Yemeni Forces Launch Drone and Missile Strikes on Al-Mukha Port",
     "published": "2026-08-16T08:36:04.333166+00:00"
+  },
+  "8f2f87f4de0ad49441ed412367cdac4c5518614a1284f6f095920cffb5a457ac": {
+    "url": "https://en.mehrnews.com/news/246999/Iran-executes-man-for-running-over-law-enforcement-forces",
+    "title": "Iran executes man for running over law enforcement forces",
+    "published": "2026-08-16T08:35:39+00:00"
   },
   "8f0c99f943d4c7a9f3eb68c8bb3fc739a6961db382b2130b929d8e52b430b8c1": {
     "url": "DDGeopolitics/191304",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/66244",
     "title": "Israeli Military Operation Kills 11 in South Lebanon",
     "published": "2026-08-15T16:29:47.797993+00:00"
-  },
-  "eb5f43194ef80d8e826f07c985fd1356c589078bfb995831ff903c1323ed6682": {
-    "url": "thecradlemedia/66245",
-    "title": "Israeli Forces Conduct Explosions in Southern Lebanon",
-    "published": "2026-08-15T16:29:45.424264+00:00"
-  },
-  "3080bb32151ee44a98697d1cad6439a04acec9f8d501c013c59dd2e9af1a5617": {
-    "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
-    "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-    "published": "2026-08-15T15:50:06+00:00"
-  },
-  "de882d339e9b4ce3ac2c9fee6b93efcc4857c077c4eec11597d511031f797e3d": {
-    "url": "https://tass.com/defense/2173733",
-    "title": "Russian Armed Forces struck depots containing military equipment at Odessa port",
-    "published": "2026-08-15T15:43:16+00:00"
-  },
-  "7fa11359fe9a6cbbad50231dbf47dbb738b7925ebbbdf47bf5f3765de04313e4": {
-    "url": "https://english.almanar.com.lb/article/116637/",
-    "title": "Lebanese Health Ministry: Israeli strikes on Saturday have resulted in 11 martyrs and wounded 19 others - Al-Manar TV Lebanon",
-    "published": "2026-08-15T15:31:15+00:00"
-  },
-  "05b869f5eea9c9869e5f21b8f7ddfe85dcea704a4c014cbad0032c16f6cc2cc2": {
-    "url": "https://english.almanar.com.lb/article/116612/",
-    "title": "Hezbollah: Israeli Occupation\u2019s Continued Attacks on Lebanon Will Be Met With an Appropriate Response - Al-Manar TV Lebanon",
-    "published": "2026-08-15T15:14:42+00:00"
-  },
-  "36964999de3d2ec940872df61dddafac15a3acf179c227e08e93ac79f75c73a2": {
-    "url": "https://tass.com/politics/2173717",
-    "title": "Terms of new US arms supplies to Ukraine via Turkey controversial \u2014 Russian MFA",
-    "published": "2026-08-15T15:04:28+00:00"
-  },
-  "a25f3a2c6c2cbb6d31e8d3a116e1c8d5680ab51b4801856fcda5c9246aef0305": {
-    "url": "https://tass.com/world/2173725",
-    "title": "Only previously manufactured US weapons can be supplied to Ukraine from Turkey \u2014 expert",
-    "published": "2026-08-15T15:02:57+00:00"
-  },
-  "9b460a3fff7c700b8deebe8598ae1cf2a548727217db699cb4c3f92facd2f03a": {
-    "url": "https://thecradle.co/articles-id/39404",
-    "title": "Israel kills 11 people, including several children, in deadliest south Lebanon attack in months",
-    "published": "2026-08-15T14:38:56+00:00"
-  },
-  "9d10313208c8d355ef85410df562601cdda246562ee352ebed446a0f4fe87361": {
-    "url": "militarywave/24756",
-    "title": "Armenian Battalion Soldiers Reflect on Special Military Operation Experience",
-    "published": "2026-08-15T14:36:39.733977+00:00"
-  },
-  "f58a12a1fb850409229459d930cf84ce1d512991fb341216613e048b4bd48913": {
-    "url": "warmonitors/45296",
-    "title": "Israeli Artillery Strikes Hit Residential Areas in Southern Lebanon",
-    "published": "2026-08-15T14:31:20.534994+00:00"
   }
 }

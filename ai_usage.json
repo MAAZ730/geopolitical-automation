@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6059,
+  "total_calls": 6063,
   "tiers": {
-    "groq": 6040,
+    "groq": 6044,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-14T22:26:33.210581+00:00",
-      "tier": "groq",
-      "article": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up "
-    },
-    {
-      "timestamp": "2026-08-14T22:27:12.343409+00:00",
-      "tier": "groq",
-      "article": "Colombia earthquake death toll rises to 287"
-    },
-    {
-      "timestamp": "2026-08-14T22:27:30.657244+00:00",
-      "tier": "groq",
-      "article": "Israel forces Palestinians out of Qusra after siege by Jewish settlers"
-    },
-    {
-      "timestamp": "2026-08-14T22:27:48.948311+00:00",
-      "tier": "groq",
-      "article": "Trump imposes 100% drone tariffs as Ukraine eyes US sales"
-    },
     {
       "timestamp": "2026-08-15T01:22:24.146117+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-16T22:26:09.859693+00:00",
       "tier": "groq",
       "article": "Case of 3 Iranian pilots is a serious test to determine Qatar\u2019s role in the war"
+    },
+    {
+      "timestamp": "2026-08-17T01:24:34.841605+00:00",
+      "tier": "groq",
+      "article": "US discussing nuclear weapons against Iran \u2013 Greene"
+    },
+    {
+      "timestamp": "2026-08-17T01:24:52.169987+00:00",
+      "tier": "groq",
+      "article": "Iran executes man for running over law enforcement forces"
+    },
+    {
+      "timestamp": "2026-08-17T01:25:22.999077+00:00",
+      "tier": "groq",
+      "article": "Ceuta migrant crisis puts Spain under pressure as 15 rape cases reported"
+    },
+    {
+      "timestamp": "2026-08-17T01:26:12.285854+00:00",
+      "tier": "groq",
+      "article": "US eyes Russian S-300, S-400 model for new air defense radars \u2013 Military Watch"
     }
   ]
 }
