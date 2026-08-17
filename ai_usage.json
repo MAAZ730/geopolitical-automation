@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6083,
+  "total_calls": 6086,
   "tiers": {
     "groq": 6056,
-    "gemini": 27
+    "gemini": 30
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T10:26:03.910792+00:00",
-      "tier": "groq",
-      "article": "Taiwan passes defence budget after record delay, retains drone funding"
-    },
-    {
-      "timestamp": "2026-08-15T10:26:39.294892+00:00",
-      "tier": "groq",
-      "article": "IRGC Navy commander stresses closure of Hormuz Strait"
-    },
-    {
-      "timestamp": "2026-08-15T10:27:26.025836+00:00",
-      "tier": "groq",
-      "article": "Russian defense chief presents St. George's Banner Ribbon to Battlegroup East unit"
-    },
     {
       "timestamp": "2026-08-15T10:28:13.204951+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-17T10:36:32.733444+00:00",
       "tier": "gemini",
       "article": "White House contacted IRGC via mediator who has offered assistance again - media"
+    },
+    {
+      "timestamp": "2026-08-17T12:49:35.413037+00:00",
+      "tier": "gemini",
+      "article": "Houthis claim strike on Saudi warship in Red Sea"
+    },
+    {
+      "timestamp": "2026-08-17T12:49:58.275499+00:00",
+      "tier": "gemini",
+      "article": "Yemeni Ballistic Missiles Strike Saudi Military Ship in the Red Sea: We\u2019re Closely Monitoring All Enemy Movements - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-17T12:50:25.480655+00:00",
+      "tier": "gemini",
+      "article": "UK moves toward nuclear war by allowing Ukraine to launch British-made UAVs against Russia"
     }
   ]
 }
