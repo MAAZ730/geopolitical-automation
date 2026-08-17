@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6087,
+  "total_calls": 6089,
   "tiers": {
     "groq": 6056,
-    "gemini": 31
+    "gemini": 33
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T12:42:22.140054+00:00",
-      "tier": "groq",
-      "article": "Iran urges ICRC's probe into fate of 3 pilots held in Qatar"
-    },
-    {
-      "timestamp": "2026-08-15T12:43:00.023474+00:00",
-      "tier": "groq",
-      "article": "Geran drone strikes destroy Ukrainian military refueling point, ministry says"
-    },
     {
       "timestamp": "2026-08-15T12:43:19.055859+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-17T14:31:40.078578+00:00",
       "tier": "gemini",
       "article": "\u2018Everybody loves a winner\u2019: US-Ukraine intel sharing surges as Kyiv racks up wins "
+    },
+    {
+      "timestamp": "2026-08-17T16:31:15.124933+00:00",
+      "tier": "gemini",
+      "article": "Malaysian PM lauds Iran's resiliance in face of US aggression"
+    },
+    {
+      "timestamp": "2026-08-17T16:31:49.404564+00:00",
+      "tier": "gemini",
+      "article": "Trump renews threat to bomb Oman &#039;if it gets in the way&#039; of US war on Iran"
     }
   ]
 }
