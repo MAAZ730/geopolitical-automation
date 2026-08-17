@@ -1,8 +1,43 @@
 {
+  "f7fa089cd939cdc017a9418ca24f04d7b60f615c3faa4eb6b795984e0db3ad09": {
+    "url": "wargonzo/36273",
+    "title": "Russia Targets Ukrainian Naval Infrastructure in Odessa",
+    "published": "2026-08-17T03:08:39.596258+00:00"
+  },
+  "6da8d5aa52febc0f3dd9b32d20e1fa4a87a42ba3bf66076a15c209965bcfd0b3": {
+    "url": "two_majors/81673",
+    "title": "Fitness App Exposes US Military Personnel in Region",
+    "published": "2026-08-17T03:08:25.689451+00:00"
+  },
+  "9d10313208c8d355ef85410df562601cdda246562ee352ebed446a0f4fe87361": {
+    "url": "militarywave/24756",
+    "title": "Armenian Battalion Soldiers Describe Frontline Experiences",
+    "published": "2026-08-17T03:07:38.873847+00:00"
+  },
+  "f58a12a1fb850409229459d930cf84ce1d512991fb341216613e048b4bd48913": {
+    "url": "warmonitors/45296",
+    "title": "Israeli Artillery Fire Kills Civilian in Southern Lebanon",
+    "published": "2026-08-17T03:05:47.106483+00:00"
+  },
+  "6dc10f610f97ed7561e653ea55c5556e8be00e99ff61ef1ae921cb388945c5ef": {
+    "url": "QudsNen/235545",
+    "title": "Israeli Airstrikes Hit Eastern Gaza City",
+    "published": "2026-08-17T03:05:27.173580+00:00"
+  },
+  "eb5f43194ef80d8e826f07c985fd1356c589078bfb995831ff903c1323ed6682": {
+    "url": "thecradlemedia/66245",
+    "title": "Israeli Forces Conduct Explosions in South Lebanon",
+    "published": "2026-08-17T03:05:22.665985+00:00"
+  },
   "846c5f309bf58eadd424e58bcffd62a3100eb934e2cb5a4bd8cc653e5ac156a6": {
     "url": "OSINT_defender/313",
     "title": "Russia Launches Large-Scale Drone and Missile Attack on Kyiv",
     "published": "2026-08-17T01:32:23.992002+00:00"
+  },
+  "1ef6cded88677500cb40a524d379725c73ac08a169507524615179b31b54926c": {
+    "url": "https://tass.com/emergencies/2173957",
+    "title": "5.7-magnitude earthquake strikes Indonesia \u2014 statement",
+    "published": "2026-08-17T01:32:01+00:00"
   },
   "f7d0ac0171c7cd5fac31c26d37547f1a943cec2626923d6054e5180492745c07": {
     "url": "OSINT_defender/316",
@@ -33,6 +68,11 @@
     "url": "https://www.rt.com/news/644313-us-iran-nuclear-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "US discussing nuclear weapons against Iran \u2013 Greene",
     "published": "2026-08-17T01:12:42+00:00"
+  },
+  "f3c506ed757597f4cb6878c413cf05d1b91e8e9bae12215181708df3d8105c2c": {
+    "url": "https://tass.com/politics/2173951",
+    "title": "Ukrainian forces shell DPR settlements 26 times over past 24 hours \u2014 statement",
+    "published": "2026-08-17T00:24:01+00:00"
   },
   "7c52e8bb06b403f79a1d73da4e0a78b3bc685394c26cac12c5ece9ed1b541c5e": {
     "url": "CyberspecNews/114441",
@@ -249,6 +289,11 @@
     "title": "Israeli War Minister Vows to Defend Citizens Amid Escalating Lebanon Conflict",
     "published": "2026-08-16T14:27:43.638908+00:00"
   },
+  "7bb534745522c2296bbc215c5a49a4ffed0bd69bcc3a6f8408804bec1f047d02": {
+    "url": "https://en.mehrnews.com/news/247008/Israeli-forces-launch-vast-attacks-in-southern-Syria",
+    "title": "Israeli forces launch vast attacks in southern Syria",
+    "published": "2026-08-16T14:26:57+00:00"
+  },
   "0ed2b1cd11a46d7b59e497adc97a162d5857acaa614c8da592c642c3a2927293": {
     "url": "https://www.rt.com/news/644303-us-russia-s-400-radar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "US eyes Russian S-300, S-400 model for new air defense radars \u2013 Military Watch",
@@ -268,6 +313,11 @@
     "url": "https://en.irna.ir/news/86237159/Tehran-calls-out-US-hypocrisy-as-Trump-prioritizes-military-over",
     "title": "Tehran calls out US hypocrisy as Trump prioritizes military over social spending",
     "published": "2026-08-16T13:21:31+00:00"
+  },
+  "ca8e074c9ae68fdc625099be975edfa8db01a2fcd6e0844c6b4451d33bf1169f": {
+    "url": "https://tass.com/politics/2173861",
+    "title": "China shows stance on WWII outcome with Kuril Islands statement \u2014 Russian senator",
+    "published": "2026-08-16T12:54:10+00:00"
   },
   "16216922c6a00136845d9d12878b6fa945fa8266c1846591b6772321bd369c01": {
     "url": "presstv/202996",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/66243",
     "title": "Israeli Forces Kill Four in Lebanon Village",
     "published": "2026-08-15T18:34:51.085384+00:00"
-  },
-  "c1e2af1b3206276beb0cf82c02dcd5e6bd7c5b6185dad1d7184168ddec5e5da2": {
-    "url": "https://www.tehrantimes.com/news/529067/Iranian-public-libraries-host-Toward-Minab-reading-club-for",
-    "title": "Iranian public libraries host \u201cToward Minab\u201d reading club for children, teenagers",
-    "published": "2026-08-15T18:16:09+00:00"
-  },
-  "433546ee3686f9dab8276e60f1bea630daaba5d431967a028bd67a7521dd8a3c": {
-    "url": "https://tass.com/politics/2173749",
-    "title": "US, Turkish arms supplies to Kiev to prolong agony of Banderite regime \u2014 Russian MFA",
-    "published": "2026-08-15T18:10:58+00:00"
-  },
-  "a0c993ed3e91267631efa071a4ee6dd75924dd6e78b4cc4001bb3b2a09850c8a": {
-    "url": "https://www.tehrantimes.com/news/529081/Major-General-Vahidi-Iran-brought-the-world-s-most-heavily-armed",
-    "title": "Major General Vahidi: Iran brought the world's most heavily armed military to its knees",
-    "published": "2026-08-15T18:07:47+00:00"
-  },
-  "1c859e7cd84b66ead97fa764f482a032560aa4c164cd041c9e13c655288688a5": {
-    "url": "https://www.tehrantimes.com/news/529088/Military-official-Three-Iranian-pilots-held-captive-in-Qatar",
-    "title": "Military official: Three Iranian pilots held captive in Qatar for nearly six months",
-    "published": "2026-08-15T18:07:22+00:00"
-  },
-  "1e58f31a01cd47957380fa28fe68f0c6c0befc19de7c8a6e00f713a7338c8aef": {
-    "url": "https://www.rt.com/news/644285-womens-sport-trans-delusion/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "Women\u2019s sport shouldn\u2019t have to bend to the trans delusion",
-    "published": "2026-08-15T16:42:52+00:00"
-  },
-  "f629f44db14f39e32cd535641a94886f86de00976ed6efa9c37960a355a28f87": {
-    "url": "Slavyangrad/173341",
-    "title": "Russia's 'East' Grouping Liberates 19 Settlements Amid Summer Campaign",
-    "published": "2026-08-15T16:39:43.258704+00:00"
-  },
-  "07fa24883cbfea3cc6c3378a6692024ae36759a57131b5f226b64052cbeb7be8": {
-    "url": "Slavyangrad/173344",
-    "title": "Rheinmetall Tests FV-014 Loitering Munition from Containerized Launcher System",
-    "published": "2026-08-15T16:38:44.309920+00:00"
-  },
-  "2a6787b95ed903139fc2aac3223ca7ccab51df0eb8878c9a8f94a6da0ac6e2be": {
-    "url": "intelslava/92629",
-    "title": "Ukrainian Towing Vessel Hit by Loitering Munition in Dnieper Estuary",
-    "published": "2026-08-15T16:37:15.391652+00:00"
-  },
-  "bb8a0b4ba6b1e76bad5b226506288396a47c0d8048a19e05b0b09bfb1441bf54": {
-    "url": "intelslava/92630",
-    "title": "Slavyansk Pedestrian Bridge Damaged in Aerial Bombing",
-    "published": "2026-08-15T16:34:29.985227+00:00"
-  },
-  "206a7d4f2662ae3943377e52d85e2ee468795be986329fe5e067409d42475258": {
-    "url": "thecradlemedia/66244",
-    "title": "Israeli Military Operation Kills 11 in South Lebanon",
-    "published": "2026-08-15T16:29:47.797993+00:00"
   }
 }

@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6063,
+  "total_calls": 6067,
   "tiers": {
-    "groq": 6044,
+    "groq": 6048,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T01:22:24.146117+00:00",
-      "tier": "groq",
-      "article": "Ship of UAE company ADNOC attacked while crossing Strait of Hormuz"
-    },
-    {
-      "timestamp": "2026-08-15T01:23:05.125069+00:00",
-      "tier": "groq",
-      "article": "Russian troops liberate eight communities in Ukraine operation over week \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-08-15T01:23:51.092045+00:00",
-      "tier": "groq",
-      "article": "Houthi attack on port kills four eroding truce with Yemen\u2019s government"
-    },
-    {
-      "timestamp": "2026-08-15T01:24:36.576995+00:00",
-      "tier": "groq",
-      "article": "Oil tanker targeted near Strait of Hormuz"
-    },
     {
       "timestamp": "2026-08-15T02:54:55.113024+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-17T01:26:12.285854+00:00",
       "tier": "groq",
       "article": "US eyes Russian S-300, S-400 model for new air defense radars \u2013 Military Watch"
+    },
+    {
+      "timestamp": "2026-08-17T03:03:36.567616+00:00",
+      "tier": "groq",
+      "article": "Ukrainian forces shell DPR settlements 26 times over past 24 hours \u2014 statement"
+    },
+    {
+      "timestamp": "2026-08-17T03:04:09.194250+00:00",
+      "tier": "groq",
+      "article": "5.7-magnitude earthquake strikes Indonesia \u2014 statement"
+    },
+    {
+      "timestamp": "2026-08-17T03:04:56.999181+00:00",
+      "tier": "groq",
+      "article": "China shows stance on WWII outcome with Kuril Islands statement \u2014 Russian senator"
+    },
+    {
+      "timestamp": "2026-08-17T03:05:16.198875+00:00",
+      "tier": "groq",
+      "article": "Israeli forces launch vast attacks in southern Syria"
     }
   ]
 }
