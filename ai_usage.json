@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6075,
+  "total_calls": 6079,
   "tiers": {
     "groq": 6056,
-    "gemini": 19
+    "gemini": 23
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T06:41:58.031553+00:00",
-      "tier": "groq",
-      "article": "CENTCOM launches multinational attack drone task force"
-    },
-    {
-      "timestamp": "2026-08-15T06:42:35.070791+00:00",
-      "tier": "groq",
-      "article": "Eight drones shot down over Moscow region overnight \u2014 region\u2019s governor"
-    },
-    {
-      "timestamp": "2026-08-15T06:43:26.871831+00:00",
-      "tier": "groq",
-      "article": "At least 20 killed as magnitude 7.7 quake hits Indonesia"
-    },
-    {
-      "timestamp": "2026-08-15T06:44:17.322045+00:00",
-      "tier": "groq",
-      "article": "Pakistani Embassy in Tehran celebrates 79th Independence Day, eyes $10bn trade target with Iran"
-    },
     {
       "timestamp": "2026-08-15T08:33:26.806077+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-17T07:01:34.813779+00:00",
       "tier": "groq",
       "article": "Indonesian earthquake death toll exceeds 50 \u2014 agency"
+    },
+    {
+      "timestamp": "2026-08-17T08:47:06.532258+00:00",
+      "tier": "gemini",
+      "article": "At least six people killed in Ukrainian missile attack on Russia\u2019s Belgorod"
+    },
+    {
+      "timestamp": "2026-08-17T08:47:32.470456+00:00",
+      "tier": "gemini",
+      "article": "2 killed as blast hits vehicle in SW Pakistan"
+    },
+    {
+      "timestamp": "2026-08-17T08:47:57.409395+00:00",
+      "tier": "gemini",
+      "article": "Battlegroup Center\u2019s Tornado-S system strikes Ukrainian command post at Dobropolye"
+    },
+    {
+      "timestamp": "2026-08-17T08:48:28.989745+00:00",
+      "tier": "gemini",
+      "article": "Concerns raised as prolonged deployment at US Abraham Lincoln"
     }
   ]
 }
