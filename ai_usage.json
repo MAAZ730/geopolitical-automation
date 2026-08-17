@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6079,
+  "total_calls": 6083,
   "tiers": {
     "groq": 6056,
-    "gemini": 23
+    "gemini": 27
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T08:33:26.806077+00:00",
-      "tier": "groq",
-      "article": "Massive missile strike hits Samara Region, causing casualties \u2014 city mayor"
-    },
-    {
-      "timestamp": "2026-08-15T08:33:59.510966+00:00",
-      "tier": "groq",
-      "article": "Lebanese Civil Defense: 7 reported martyred, 3 wounded in an Israeli massacre in Ansar, following an airstrike that targeted an inhabited home - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-15T08:34:15.527683+00:00",
-      "tier": "groq",
-      "article": "South Lebanon: Israeli Airstrike on Family Home Kills Seven in Overnight Massacre - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-15T08:34:58.292935+00:00",
-      "tier": "groq",
-      "article": "Wildfires spread in France\u2019s Landes"
-    },
     {
       "timestamp": "2026-08-15T10:26:03.910792+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-17T08:48:28.989745+00:00",
       "tier": "gemini",
       "article": "Concerns raised as prolonged deployment at US Abraham Lincoln"
+    },
+    {
+      "timestamp": "2026-08-17T10:35:08.282792+00:00",
+      "tier": "gemini",
+      "article": "Ukrainian missile attack on Russia\u2019s Belgorod Region kills six, leaves four others injured"
+    },
+    {
+      "timestamp": "2026-08-17T10:35:32.550384+00:00",
+      "tier": "gemini",
+      "article": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, two killed"
+    },
+    {
+      "timestamp": "2026-08-17T10:36:01.129684+00:00",
+      "tier": "gemini",
+      "article": "Israel conducts fresh attacks on areas in Lebanon\u2019s Nabatieh"
+    },
+    {
+      "timestamp": "2026-08-17T10:36:32.733444+00:00",
+      "tier": "gemini",
+      "article": "White House contacted IRGC via mediator who has offered assistance again - media"
     }
   ]
 }
