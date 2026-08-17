@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6067,
+  "total_calls": 6071,
   "tiers": {
-    "groq": 6048,
+    "groq": 6052,
     "gemini": 19
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T02:54:55.113024+00:00",
-      "tier": "groq",
-      "article": "7.7-magnitude earthquake strikes eastern Indonesia"
-    },
-    {
-      "timestamp": "2026-08-15T02:55:27.292446+00:00",
-      "tier": "groq",
-      "article": "Kiev troops shell DPR 34 times in past day, one killed"
-    },
-    {
-      "timestamp": "2026-08-15T02:56:20.523280+00:00",
-      "tier": "groq",
-      "article": "DOE ready to put Caspian Sea water-level decline at center of regional talks"
-    },
-    {
-      "timestamp": "2026-08-15T02:57:07.709855+00:00",
-      "tier": "groq",
-      "article": "Apple warns users in 110 countries about spyware attacks \u2014 TechCrunch"
-    },
     {
       "timestamp": "2026-08-15T04:35:04.482885+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-17T03:05:16.198875+00:00",
       "tier": "groq",
       "article": "Israeli forces launch vast attacks in southern Syria"
+    },
+    {
+      "timestamp": "2026-08-17T04:45:14.170511+00:00",
+      "tier": "groq",
+      "article": "Echoes of the past: Golden-lustre ceramic bowl"
+    },
+    {
+      "timestamp": "2026-08-17T04:45:53.855215+00:00",
+      "tier": "groq",
+      "article": "Iran vows to fight back in economic warfare"
+    },
+    {
+      "timestamp": "2026-08-17T04:46:43.129072+00:00",
+      "tier": "groq",
+      "article": "Iran places $30,000 bounty on US soldiers"
+    },
+    {
+      "timestamp": "2026-08-17T04:47:01.057275+00:00",
+      "tier": "groq",
+      "article": "Israeli minister calls for killing \u201930 to 40\u2032 Palestinians in Gaza nightly"
     }
   ]
 }
