@@ -1,4 +1,34 @@
 {
+  "b29f2f554baea3ca3ac0ae003c7aba5eb5d5a3235e8881efd573a1242430a564": {
+    "url": "Slavyangrad/173565",
+    "title": "\ud83c\uddf7\ud83c\uddfa Russian Airstrikes on UkraineKherson and Stepantovka faced combined strikes. ",
+    "published": "2026-08-17T22:35:14.459185+00:00"
+  },
+  "7fdc7a212559970ceb051dc1ef8159daa0de8a1dd1660e29d95635d2ad84cb15": {
+    "url": "Slavyangrad/173579",
+    "title": "\ud83c\uddfa\ud83c\udde6 Ukrainian Political & Military DevelopmentsKiev Deputy Oleksandr Khlan claims",
+    "published": "2026-08-17T22:34:41.370494+00:00"
+  },
+  "41c07bde0d99fc437be3c954af024abd5d6799c012eaf8cd07ed730f804691a2": {
+    "url": "Slavyangrad/173584",
+    "title": "\ud83c\uddf7\ud83c\uddfa Russian Night Strikes Hit Ukrainian PortsThe Ministry of Defense of Russia re",
+    "published": "2026-08-17T22:33:29.823291+00:00"
+  },
+  "0380008bbb8310d89165a2a9acac4114d43dc63ad707fec25144fd41aa3afd84": {
+    "url": "intelslava/92744",
+    "title": "Earlier tonight, an Iranian drone struck a fuel tank in Tasluja, Sulaymaniyah Go",
+    "published": "2026-08-17T22:30:13.018628+00:00"
+  },
+  "b9f374637d3fdcaa92da79a1b2e444147a0a8ed2a6da0a5a380b160ca645c77c": {
+    "url": "Middle_East_Spectator/35951",
+    "title": "Iraqi Kurdistan PM's Office Allegedly Hit by Iranian 'Hadid-110' Drones",
+    "published": "2026-08-17T22:29:22.094039+00:00"
+  },
+  "adbc824627a969e4bde3bf09cc9ceffb17d00ce87cbff9d17cfb25ee09a21cb0": {
+    "url": "Middle_East_Spectator/35961",
+    "title": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf7 NEW: Two Iranian \u2018Hadid-110\u2019 fast stealth drones allegedly targeted the ",
+    "published": "2026-08-17T22:29:10.093746+00:00"
+  },
   "ff886bad2eb5153277163c61f73a1f2beb0ad66b7dfae67bd5d4906f24ef5d9c": {
     "url": "Slavyangrad/173574",
     "title": "\ud83c\uddf2\ud83c\udde9 Unknown Object Enters Moldovan AirspaceAt 17:37, surveillance systems detecte",
@@ -148,6 +178,11 @@
     "url": "https://www.defensenews.com/global/europe/2026/08/17/everybody-loves-a-winner-us-ukraine-intel-sharing-surges-as-kyiv-racks-up-wins/",
     "title": "\u2018Everybody loves a winner\u2019: US-Ukraine intel sharing surges as Kyiv racks up wins ",
     "published": "2026-08-17T14:00:00+00:00"
+  },
+  "1b64171d0edae5a8c9f027300dff6cbf2ccd41197afeceabb263a00909d71682": {
+    "url": "https://en.irna.ir/news/86238157/Yemeni-forces-target-Saudi-military-ship-four-boats-in-Red-Sea",
+    "title": "Yemeni forces target Saudi military ship, four boats in Red Sea",
+    "published": "2026-08-17T13:35:59+00:00"
   },
   "ff8b747125096920214ee85aa073c70b35639c34a2a474df810794de886fec59": {
     "url": "CensoredMen/239",
@@ -713,40 +748,5 @@
     "url": "https://en.irna.ir/news/86237159/Tehran-calls-out-US-hypocrisy-as-Trump-prioritizes-military-over",
     "title": "Tehran calls out US hypocrisy as Trump prioritizes military over social spending",
     "published": "2026-08-16T13:21:31+00:00"
-  },
-  "ca8e074c9ae68fdc625099be975edfa8db01a2fcd6e0844c6b4451d33bf1169f": {
-    "url": "https://tass.com/politics/2173861",
-    "title": "China shows stance on WWII outcome with Kuril Islands statement \u2014 Russian senator",
-    "published": "2026-08-16T12:54:10+00:00"
-  },
-  "16216922c6a00136845d9d12878b6fa945fa8266c1846591b6772321bd369c01": {
-    "url": "presstv/202996",
-    "title": "IRGC Down US MQ-1C Drone with Advanced Air Defense System",
-    "published": "2026-08-16T12:49:56.737112+00:00"
-  },
-  "2dd935ab906c08438cdc0bf987fa7fb656d40ba5b4fff7e0d19688cfdeb68196": {
-    "url": "QudsNen/235482",
-    "title": "Israeli Settler Militias Attack Palestinian Civilians in Huwara",
-    "published": "2026-08-16T12:48:16.365193+00:00"
-  },
-  "a68cb33bd21b733ab7770d3511b9ce0d8a89d824f3f258449020d759d236efde": {
-    "url": "QudsNen/235483",
-    "title": "Israeli Airstrike Targets Displaced Palestinians in Khan Younis",
-    "published": "2026-08-16T12:46:50.179615+00:00"
-  },
-  "80ae4aab611c49ea5cb96ebd0a38d2cf906b2a9e1b586662f6fd5e6c50fb5d3f": {
-    "url": "Middle_East_Spectator/35942",
-    "title": "Iran Launches Shahed-136 Drone from Territory, Target Unknown",
-    "published": "2026-08-16T12:45:56.112485+00:00"
-  },
-  "5f34926ba0a1234c63daad8efc3a4a70ae9006c68b89a7ca054e60ec24505ffc": {
-    "url": "thecradlemedia/66254",
-    "title": "Qatar Denies Holding Iranian Pilots Captured in March Airstrike",
-    "published": "2026-08-16T12:45:39.594742+00:00"
-  },
-  "a10fb5dfd034c0adaa92f6fcf2a9c1b3a21e4299ff2cbf518647cdbf790191f2": {
-    "url": "thecradlemedia/66259",
-    "title": "US Oil Reserves Plummet Amid Iran Tensions",
-    "published": "2026-08-16T12:45:38.601247+00:00"
   }
 }

@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6094,
+  "total_calls": 6095,
   "tiers": {
     "groq": 6056,
-    "gemini": 38
+    "gemini": 39
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T14:27:54.055675+00:00",
-      "tier": "groq",
-      "article": "DPRK ambassador to Russia slams Kiev\u2019s invasion of Kursk Region by neo-Nazi clique"
-    },
     {
       "timestamp": "2026-08-15T16:28:08.581644+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-17T20:32:25.986770+00:00",
       "tier": "gemini",
       "article": "Why the Mecca alliance may work in Russia\u2019s favor"
+    },
+    {
+      "timestamp": "2026-08-17T22:28:32.840624+00:00",
+      "tier": "gemini",
+      "article": "Yemeni forces target Saudi military ship, four boats in Red Sea"
     }
   ]
 }
