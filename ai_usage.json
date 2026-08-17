@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6086,
+  "total_calls": 6087,
   "tiers": {
     "groq": 6056,
-    "gemini": 30
+    "gemini": 31
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T10:28:13.204951+00:00",
-      "tier": "groq",
-      "article": "IRGC chief praises armed forces after 6 months of war"
-    },
     {
       "timestamp": "2026-08-15T12:42:22.140054+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-17T12:50:25.480655+00:00",
       "tier": "gemini",
       "article": "UK moves toward nuclear war by allowing Ukraine to launch British-made UAVs against Russia"
+    },
+    {
+      "timestamp": "2026-08-17T14:31:40.078578+00:00",
+      "tier": "gemini",
+      "article": "\u2018Everybody loves a winner\u2019: US-Ukraine intel sharing surges as Kyiv racks up wins "
     }
   ]
 }
