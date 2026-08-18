@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6110,
+  "total_calls": 6112,
   "tiers": {
     "groq": 6056,
-    "gemini": 54
+    "gemini": 56
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T22:27:34.516277+00:00",
-      "tier": "groq",
-      "article": "Qatar denies capturing three Iranian pilots after downing fighter jets"
-    },
-    {
-      "timestamp": "2026-08-16T01:28:07.582285+00:00",
-      "tier": "groq",
-      "article": "Four civilians injured as Ukrainian troops launch more than 40 attacks on DPR in past day"
-    },
     {
       "timestamp": "2026-08-16T01:28:44.472958+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-18T10:33:57.331809+00:00",
       "tier": "gemini",
       "article": "Hamas respresentative's presser in Tehran"
+    },
+    {
+      "timestamp": "2026-08-18T12:51:39.430553+00:00",
+      "tier": "gemini",
+      "article": "Qatar rejects Iran's claims about captured pilots as false \u2014 MFA"
+    },
+    {
+      "timestamp": "2026-08-18T12:52:04.387552+00:00",
+      "tier": "gemini",
+      "article": "Warsaw, Kiev continue discussions on Patriot missile supplies \u2014 ambassador"
     }
   ]
 }
