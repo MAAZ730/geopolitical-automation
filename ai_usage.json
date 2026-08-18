@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6103,
+  "total_calls": 6106,
   "tiers": {
     "groq": 6056,
-    "gemini": 47
+    "gemini": 50
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T20:25:31.417659+00:00",
-      "tier": "groq",
-      "article": "US, Turkish arms supplies to Kiev to prolong agony of Banderite regime \u2014 Russian MFA"
-    },
-    {
-      "timestamp": "2026-08-15T20:25:50.250805+00:00",
-      "tier": "groq",
-      "article": "Terms of new US arms supplies to Ukraine via Turkey controversial \u2014 Russian MFA"
-    },
-    {
-      "timestamp": "2026-08-15T20:26:20.409960+00:00",
-      "tier": "groq",
-      "article": "Russia\u2019s retribution, Islamic NATO, showdown in the West Bank: RT stories that shaped the week"
-    },
     {
       "timestamp": "2026-08-15T20:26:38.635256+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-18T06:49:16.883766+00:00",
       "tier": "gemini",
       "article": "Kushner, Blair discuss US-backed Gaza \u2018ceasefire\u2019 with Netanyahu"
+    },
+    {
+      "timestamp": "2026-08-18T08:40:57.263798+00:00",
+      "tier": "gemini",
+      "article": "Three people, including child, injured in drone attack on Moscow Region"
+    },
+    {
+      "timestamp": "2026-08-18T08:41:24.805230+00:00",
+      "tier": "gemini",
+      "article": "AI and the Risks of Tearing Down an Old System"
+    },
+    {
+      "timestamp": "2026-08-18T08:41:48.424110+00:00",
+      "tier": "gemini",
+      "article": "Oil tankers \u2018go dark\u2019 as crude keeps flowing through Strait of Hormuz \u2013 Bloomberg"
     }
   ]
 }
