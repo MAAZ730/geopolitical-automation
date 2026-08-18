@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6118,
+  "total_calls": 6119,
   "tiers": {
     "groq": 6056,
-    "gemini": 62
+    "gemini": 63
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T03:04:45.487939+00:00",
-      "tier": "groq",
-      "article": "South Korea proposes dialogue to end war with North Korea"
-    },
     {
       "timestamp": "2026-08-16T04:38:49.588782+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-18T18:46:09.468615+00:00",
       "tier": "gemini",
       "article": "Erbil false-flag attack: Foreign sabotage against Iran-Iraq unity"
+    },
+    {
+      "timestamp": "2026-08-18T20:27:35.573529+00:00",
+      "tier": "gemini",
+      "article": "Despite al-Jolani\u2019s appeasement, Israel strikes Syrian airfield, warning Ankara"
     }
   ]
 }
