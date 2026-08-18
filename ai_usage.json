@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6099,
+  "total_calls": 6100,
   "tiers": {
     "groq": 6056,
-    "gemini": 43
+    "gemini": 44
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T18:33:16.320166+00:00",
-      "tier": "groq",
-      "article": "Iranian public libraries host \u201cToward Minab\u201d reading club for children, teenagers"
-    },
     {
       "timestamp": "2026-08-15T18:33:58.343467+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-18T03:03:25.399240+00:00",
       "tier": "gemini",
       "article": "Russia\u2019s Battlegroup North artillery eliminates over 50 Ukrainian troops overnight"
+    },
+    {
+      "timestamp": "2026-08-18T04:39:27.860441+00:00",
+      "tier": "gemini",
+      "article": "Ukraine has no missiles for Patriot systems \u2014 TV"
     }
   ]
 }
