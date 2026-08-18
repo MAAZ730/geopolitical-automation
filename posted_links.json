@@ -1,4 +1,39 @@
 {
+  "243838f0fd65a944fc683fb4eda77be6d59b61fb1dab84bfcd25445522ef947c": {
+    "url": "intelslava/92762",
+    "title": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe\u26a1\ufe0f\u00a0\u2014 The Israeli Air Force (IAF) carried out an airstrike targeting Abu al-D",
+    "published": "2026-08-18T14:44:01.703780+00:00"
+  },
+  "9f72c361ac01a94296adfeb742674303f18fff6701a12b5c5e27a32166ece1cc": {
+    "url": "presstv/203223",
+    "title": "\u25b6\ufe0f Iran's Parliament Speaker Ghalibaf says that Iranian MPs will not forsake the",
+    "published": "2026-08-18T14:43:34.332726+00:00"
+  },
+  "7310fcf8a196db8833f8f3484b93f56cf2c6ee33f76b97f0b09fa36edf17cd9a": {
+    "url": "presstv/203235",
+    "title": "Russia launched a missile attack on a village in northeastern Ukraine, reportedl",
+    "published": "2026-08-18T14:40:59.132014+00:00"
+  },
+  "f1d203ed47c3ad0422fd1a6e12b1bb48f4a6dff7329f2fa29fe85a8213428119": {
+    "url": "BellumActaNews/176493",
+    "title": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe \u2014 The Israeli Air Force carried out four airstrikes overnight on Abu al-Duh",
+    "published": "2026-08-18T14:39:00.819270+00:00"
+  },
+  "e9359d74ca39a26eaf5119515a6c43f0ad96255f7c4e9c96593802671a822dd8": {
+    "url": "thecradlemedia/66380",
+    "title": "Kataib Hezbollah says Iraqi resistance \u2018running out of patience\u2019 over govt crack",
+    "published": "2026-08-18T14:38:23.027013+00:00"
+  },
+  "87ee2da034edbc657e404ea73ae1714d030e1a45516184c8c56dabb792be8f9c": {
+    "url": "thecradlemedia/66381",
+    "title": "\u2757\ufe0fAustralian judge slams envoy's antisemitism definition as tool to silence anti",
+    "published": "2026-08-18T14:38:21.760465+00:00"
+  },
+  "85c59287822bfd2a48d8c04ba2453b50832c468423882653d1441a160688c5ef": {
+    "url": "https://tass.com/world/2174721",
+    "title": "Grossi urges to stop attacks on nuclear facilities after deadly strike on Energodar",
+    "published": "2026-08-18T14:25:12+00:00"
+  },
   "70a675427f85ebb4fc3c04b410c08ff8c4457367df2aca57a35b4f9a30f6eefb": {
     "url": "presstv/203224",
     "title": "\ud83d\udd34 Iran Parliament Speaker: Hormuz Strait won\u2019t reopen before oil sanctions are l",
@@ -28,6 +63,11 @@
     "url": "thecradlemedia/66369",
     "title": "Israel bombs Syrian military base as US praises Damascus\u2019s \u2018de-escalatory\u2019 polic",
     "published": "2026-08-18T12:52:36.277181+00:00"
+  },
+  "909f4d71bc71da9dd05aebc4f853a47d59e1be1cdbaf5a47ac0310f58acb5471": {
+    "url": "https://tass.com/world/2174641",
+    "title": "Syrian Foreign Ministry calls Israeli strike on Idlib airbase 'unjustified aggression'",
+    "published": "2026-08-18T12:11:15+00:00"
   },
   "60ef3017064bdc26ba486c24b153eb243ad07bf46ded002f9eb4d86b23a61e06": {
     "url": "https://tass.com/world/2174607",
@@ -113,6 +153,11 @@
     "url": "https://warontherocks.com/ai-and-the-risks-of-tearing-down-an-old-system/",
     "title": "AI and the Risks of Tearing Down an Old System",
     "published": "2026-08-18T07:30:31+00:00"
+  },
+  "3af3c210a0c5df8ee5812563dfea09dcb4e2223275e4a8bab856423e7bcd5236": {
+    "url": "https://en.irna.ir/news/86238647/Araghchi-honors-martyred-Iranian-teachers-students-as-symbols",
+    "title": "Araghchi honors martyred Iranian teachers, students as symbols of resistance",
+    "published": "2026-08-18T07:13:56+00:00"
   },
   "58d53ba9501f8ee740846f974f261ec7ad76eccd886844892b051151311b2684": {
     "url": "presstv/203204",
@@ -333,6 +378,11 @@
     "url": "https://www.rt.com/news/644341-us-ship-breakdown-china/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
     "title": "US warship loses power and toilets in South China Sea \u2013 CNN",
     "published": "2026-08-17T18:42:36+00:00"
+  },
+  "095ca6b45dc4ba8c02148f84b925fdac826a3508e17a9a713345c8bd69bf3246": {
+    "url": "https://www.rt.com/news/644339-trump-bomb-oman-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "title": "Trump threatens to \u2018bomb the sh*t out of\u2019 Oman",
+    "published": "2026-08-17T17:13:15+00:00"
   },
   "43309018acef3c9da9c2cf516fbc1c45f7cd1f981257e1b9fa4238cce3a85799": {
     "url": "warmonitors/45315",
@@ -698,55 +748,5 @@
     "url": "thecradlemedia/66245",
     "title": "Israeli Forces Conduct Explosions in South Lebanon",
     "published": "2026-08-17T03:05:22.665985+00:00"
-  },
-  "846c5f309bf58eadd424e58bcffd62a3100eb934e2cb5a4bd8cc653e5ac156a6": {
-    "url": "OSINT_defender/313",
-    "title": "Russia Launches Large-Scale Drone and Missile Attack on Kyiv",
-    "published": "2026-08-17T01:32:23.992002+00:00"
-  },
-  "1ef6cded88677500cb40a524d379725c73ac08a169507524615179b31b54926c": {
-    "url": "https://tass.com/emergencies/2173957",
-    "title": "5.7-magnitude earthquake strikes Indonesia \u2014 statement",
-    "published": "2026-08-17T01:32:01+00:00"
-  },
-  "f7d0ac0171c7cd5fac31c26d37547f1a943cec2626923d6054e5180492745c07": {
-    "url": "OSINT_defender/316",
-    "title": "Pentagon Ceremony Honors U.S. Military Personnel with Border Defense Medal",
-    "published": "2026-08-17T01:30:51.136740+00:00"
-  },
-  "dbbc04fb5bbb8735d7217a6fac1b34a3043594498abe992e6f47b4e0f79ae421": {
-    "url": "CyberspecNews/114465",
-    "title": "Sudan Conflict Escalates as Turkish-Made Drones Used Against UAE-Backed Rebels",
-    "published": "2026-08-17T01:29:12.644117+00:00"
-  },
-  "a0100269f88914bf832f4ec947832b8c3cd245e7ff1b94a919d5a0d80efdcf3a": {
-    "url": "intelslava/92691",
-    "title": "Russian Forces Repel Ukrainian Rotation Attempt in Eastern Ukraine",
-    "published": "2026-08-17T01:26:45.759005+00:00"
-  },
-  "9462133b43b7dac9a15d6ba5ec057cebfe54629b23860ee4da095abe13036286": {
-    "url": "QudsNen/235535",
-    "title": "Israeli Airstrike Hits Al-Qantara in Southern Lebanon",
-    "published": "2026-08-17T01:26:22.615969+00:00"
-  },
-  "04c639a4a0c63d1c44f71a693dccb93930760e0cc782db6843c5a113286f5ebf": {
-    "url": "QudsNen/235541",
-    "title": "Israeli Artillery Shell Hits Palestinian Home in Gaza's Al-Tuffah Neighborhood",
-    "published": "2026-08-17T01:26:21.556249+00:00"
-  },
-  "4bdc71517762076d8b00aa7eaf2b3cb01ecc1ed1bb8ce5a00847ea4d1df21c6d": {
-    "url": "https://www.rt.com/news/644313-us-iran-nuclear-strike/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-    "title": "US discussing nuclear weapons against Iran \u2013 Greene",
-    "published": "2026-08-17T01:12:42+00:00"
-  },
-  "f3c506ed757597f4cb6878c413cf05d1b91e8e9bae12215181708df3d8105c2c": {
-    "url": "https://tass.com/politics/2173951",
-    "title": "Ukrainian forces shell DPR settlements 26 times over past 24 hours \u2014 statement",
-    "published": "2026-08-17T00:24:01+00:00"
-  },
-  "388fa1f453f5f75e1540ac5c4d373b5c9f5c557df707aa341922a84d2c79e286": {
-    "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
-    "title": "Israeli minister calls for killing \u201930 to 40\u2032 Palestinians in Gaza nightly",
-    "published": "2026-08-16T23:58:34+00:00"
   }
 }

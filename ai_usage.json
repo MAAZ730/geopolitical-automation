@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6112,
+  "total_calls": 6116,
   "tiers": {
     "groq": 6056,
-    "gemini": 56
+    "gemini": 60
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T01:28:44.472958+00:00",
-      "tier": "groq",
-      "article": "Yemen\u2019s government says Houthi strikes hit residential areas in Marib"
-    },
-    {
-      "timestamp": "2026-08-16T01:29:00.718914+00:00",
-      "tier": "groq",
-      "article": "Suspension of navigation in Black Sea to become Ukraine\u2019s slow death \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-16T01:29:19.866462+00:00",
-      "tier": "groq",
-      "article": "Army drops roses on Syrian crowds in a far cry from war"
-    },
-    {
-      "timestamp": "2026-08-16T03:03:10.539752+00:00",
-      "tier": "groq",
-      "article": "No decision made so far on resuming talks with US"
-    },
     {
       "timestamp": "2026-08-16T03:03:43.823362+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-18T12:52:04.387552+00:00",
       "tier": "gemini",
       "article": "Warsaw, Kiev continue discussions on Patriot missile supplies \u2014 ambassador"
+    },
+    {
+      "timestamp": "2026-08-18T14:36:43.530347+00:00",
+      "tier": "gemini",
+      "article": "Grossi urges to stop attacks on nuclear facilities after deadly strike on Energodar"
+    },
+    {
+      "timestamp": "2026-08-18T14:37:17.151601+00:00",
+      "tier": "gemini",
+      "article": "Araghchi honors martyred Iranian teachers, students as symbols of resistance"
+    },
+    {
+      "timestamp": "2026-08-18T14:37:42.727122+00:00",
+      "tier": "gemini",
+      "article": "Syrian Foreign Ministry calls Israeli strike on Idlib airbase 'unjustified aggression'"
+    },
+    {
+      "timestamp": "2026-08-18T14:38:15.307061+00:00",
+      "tier": "gemini",
+      "article": "Trump threatens to \u2018bomb the sh*t out of\u2019 Oman"
     }
   ]
 }
