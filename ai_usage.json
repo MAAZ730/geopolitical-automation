@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6116,
+  "total_calls": 6118,
   "tiers": {
     "groq": 6056,
-    "gemini": 60
+    "gemini": 62
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T03:03:43.823362+00:00",
-      "tier": "groq",
-      "article": "Russian Armed Forces struck depots containing military equipment at Odessa port"
-    },
-    {
-      "timestamp": "2026-08-16T03:04:29.524421+00:00",
-      "tier": "groq",
-      "article": "Al Jazeera journalist opens beach cafe in the Gaza she loves"
-    },
     {
       "timestamp": "2026-08-16T03:04:45.487939+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-18T14:38:15.307061+00:00",
       "tier": "gemini",
       "article": "Trump threatens to \u2018bomb the sh*t out of\u2019 Oman"
+    },
+    {
+      "timestamp": "2026-08-18T18:45:44.037559+00:00",
+      "tier": "gemini",
+      "article": "How did Iranian strikes damage Abraham Lincoln carrier?"
+    },
+    {
+      "timestamp": "2026-08-18T18:46:09.468615+00:00",
+      "tier": "gemini",
+      "article": "Erbil false-flag attack: Foreign sabotage against Iran-Iraq unity"
     }
   ]
 }
