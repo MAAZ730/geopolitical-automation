@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6106,
+  "total_calls": 6110,
   "tiers": {
     "groq": 6056,
-    "gemini": 50
+    "gemini": 54
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T20:26:38.635256+00:00",
-      "tier": "groq",
-      "article": "Hezbollah: Israeli Occupation\u2019s Continued Attacks on Lebanon Will Be Met With an Appropriate Response - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-15T22:25:58.551918+00:00",
-      "tier": "groq",
-      "article": "Ukrainian army attacks premises of unified dispatch service in Energodar"
-    },
-    {
-      "timestamp": "2026-08-15T22:26:31.357135+00:00",
-      "tier": "groq",
-      "article": "Five more drones downed en route to Moscow"
-    },
-    {
-      "timestamp": "2026-08-15T22:27:17.279377+00:00",
-      "tier": "groq",
-      "article": "Hezbollah: The Israeli enemy must understand clearly that its attacks, violations, and attempts to impose a new reality cannot continue and will be met with an appropriate response in defense of Lebanon, its people, sovereignty, and national dignity - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-15T22:27:34.516277+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-18T08:41:48.424110+00:00",
       "tier": "gemini",
       "article": "Oil tankers \u2018go dark\u2019 as crude keeps flowing through Strait of Hormuz \u2013 Bloomberg"
+    },
+    {
+      "timestamp": "2026-08-18T10:32:16.042817+00:00",
+      "tier": "gemini",
+      "article": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow"
+    },
+    {
+      "timestamp": "2026-08-18T10:32:38.916784+00:00",
+      "tier": "gemini",
+      "article": "Israeli Airstrikes Hit Abu Al-Duhur Military Airport in Syria\u2019s Idlib - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-18T10:33:33.960467+00:00",
+      "tier": "gemini",
+      "article": "Eight strikes hit airbase in Syria\u2019s Idlib"
+    },
+    {
+      "timestamp": "2026-08-18T10:33:57.331809+00:00",
+      "tier": "gemini",
+      "article": "Hamas respresentative's presser in Tehran"
     }
   ]
 }
