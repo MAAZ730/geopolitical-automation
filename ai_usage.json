@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6119,
+  "total_calls": 6121,
   "tiers": {
     "groq": 6056,
-    "gemini": 63
+    "gemini": 65
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T04:38:49.588782+00:00",
-      "tier": "groq",
-      "article": "Three injured as Moscow comes under massive drone attack \u2014 mayor"
-    },
-    {
-      "timestamp": "2026-08-16T04:39:07.441656+00:00",
-      "tier": "groq",
-      "article": "Yemeni government forces hit back after new Houthi offensive"
-    },
     {
       "timestamp": "2026-08-16T04:39:36.858637+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-18T20:27:35.573529+00:00",
       "tier": "gemini",
       "article": "Despite al-Jolani\u2019s appeasement, Israel strikes Syrian airfield, warning Ankara"
+    },
+    {
+      "timestamp": "2026-08-18T22:27:09.907915+00:00",
+      "tier": "gemini",
+      "article": "Russian missile strike kills 10 civilians in Kharkiv"
+    },
+    {
+      "timestamp": "2026-08-18T22:27:40.558408+00:00",
+      "tier": "gemini",
+      "article": "Zionist Enemy Carries Out a Number of Attacks in South Lebanon - Al-Manar TV Lebanon"
     }
   ]
 }
