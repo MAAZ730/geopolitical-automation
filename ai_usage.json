@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6095,
+  "total_calls": 6099,
   "tiers": {
     "groq": 6056,
-    "gemini": 39
+    "gemini": 43
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T16:28:08.581644+00:00",
-      "tier": "groq",
-      "article": "Lebanese Health Ministry: Israeli strikes on Saturday have resulted in 11 martyrs and wounded 19 others - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-15T16:28:39.344293+00:00",
-      "tier": "groq",
-      "article": "Israel kills 11 people, including several children, in deadliest south Lebanon attack in months"
-    },
-    {
-      "timestamp": "2026-08-15T16:28:57.097850+00:00",
-      "tier": "groq",
-      "article": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package"
-    },
-    {
-      "timestamp": "2026-08-15T16:29:42.547193+00:00",
-      "tier": "groq",
-      "article": "Activists deliver aid to Palestinians in homes besieged by Israeli settlers"
-    },
     {
       "timestamp": "2026-08-15T18:33:16.320166+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-17T22:28:32.840624+00:00",
       "tier": "gemini",
       "article": "Yemeni forces target Saudi military ship, four boats in Red Sea"
+    },
+    {
+      "timestamp": "2026-08-18T03:02:07.100836+00:00",
+      "tier": "gemini",
+      "article": "Large fire breaks out at fuel depot near Iraq\u2019s Sulaimaniyah"
+    },
+    {
+      "timestamp": "2026-08-18T03:02:34.759498+00:00",
+      "tier": "gemini",
+      "article": "\u2018We will not allow Gaza to be rebuilt\u2019 until Hamas disarms, Kushner says"
+    },
+    {
+      "timestamp": "2026-08-18T03:02:59.282435+00:00",
+      "tier": "gemini",
+      "article": "Patriot missiles in short supply, Poland needs them itself \u2014 former defense minister"
+    },
+    {
+      "timestamp": "2026-08-18T03:03:25.399240+00:00",
+      "tier": "gemini",
+      "article": "Russia\u2019s Battlegroup North artillery eliminates over 50 Ukrainian troops overnight"
     }
   ]
 }
