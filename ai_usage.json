@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6100,
+  "total_calls": 6103,
   "tiers": {
     "groq": 6056,
-    "gemini": 44
+    "gemini": 47
   },
   "log": [
-    {
-      "timestamp": "2026-08-15T18:33:58.343467+00:00",
-      "tier": "groq",
-      "article": "Military official: Three Iranian pilots held captive in Qatar for nearly six months"
-    },
-    {
-      "timestamp": "2026-08-15T18:34:16.489514+00:00",
-      "tier": "groq",
-      "article": "Major General Vahidi: Iran brought the world's most heavily armed military to its knees"
-    },
-    {
-      "timestamp": "2026-08-15T18:34:34.503971+00:00",
-      "tier": "groq",
-      "article": "Trump confirms return of aircraft carrier USS Abraham Lincoln from Middle East"
-    },
     {
       "timestamp": "2026-08-15T20:25:31.417659+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-18T04:39:27.860441+00:00",
       "tier": "gemini",
       "article": "Ukraine has no missiles for Patriot systems \u2014 TV"
+    },
+    {
+      "timestamp": "2026-08-18T06:48:11.266321+00:00",
+      "tier": "gemini",
+      "article": "Nearly 70 Russian residents killed in Ukraine attacks"
+    },
+    {
+      "timestamp": "2026-08-18T06:48:37.924290+00:00",
+      "tier": "gemini",
+      "article": "Ukrainian strikes kill around 70 Russian residents in past week, including 3 children"
+    },
+    {
+      "timestamp": "2026-08-18T06:49:16.883766+00:00",
+      "tier": "gemini",
+      "article": "Kushner, Blair discuss US-backed Gaza \u2018ceasefire\u2019 with Netanyahu"
     }
   ]
 }
