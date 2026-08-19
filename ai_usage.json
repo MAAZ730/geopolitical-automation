@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6130,
+  "total_calls": 6134,
   "tiers": {
     "groq": 6056,
-    "gemini": 74
+    "gemini": 78
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T08:34:13.286386+00:00",
-      "tier": "groq",
-      "article": "Armed Forces' statement on anniv. of return of POWs to home"
-    },
-    {
-      "timestamp": "2026-08-16T10:26:41.801981+00:00",
-      "tier": "groq",
-      "article": "Israel escalates strikes on strategic hill near Nabatieh after attack wounds three soldiers"
-    },
-    {
-      "timestamp": "2026-08-16T10:27:13.777778+00:00",
-      "tier": "groq",
-      "article": "Death toll from Indonesia earthquake rises to 38"
-    },
-    {
-      "timestamp": "2026-08-16T10:27:44.924166+00:00",
-      "tier": "groq",
-      "article": "East Azarbaijan prepares for post-war tourism market with major investment: Official"
-    },
     {
       "timestamp": "2026-08-16T10:28:16.139019+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-19T11:20:50.440022+00:00",
       "tier": "gemini",
       "article": "US-led Board of Peace considers &#039;wholesale&#039; Hamas disarmament deal to satisfy Israel: Report"
+    },
+    {
+      "timestamp": "2026-08-19T12:53:04.194502+00:00",
+      "tier": "gemini",
+      "article": "Enemy Warplanes, Artillery, and Ground Forces Strike in Coordinated Wave - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-19T12:53:30.612436+00:00",
+      "tier": "gemini",
+      "article": "Iran Refutes UAE Allegation of Missile Attack - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-19T12:53:54.600418+00:00",
+      "tier": "gemini",
+      "article": "UN calls for end to Israeli air strikes on Syria"
+    },
+    {
+      "timestamp": "2026-08-19T12:54:18.218603+00:00",
+      "tier": "gemini",
+      "article": "Russia and Egypt reject Politico claims of violations at El Dabaa nuclear plant"
     }
   ]
 }
