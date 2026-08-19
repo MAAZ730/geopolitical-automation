@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6124,
+  "total_calls": 6126,
   "tiers": {
     "groq": 6056,
-    "gemini": 68
+    "gemini": 70
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T06:43:44.622309+00:00",
-      "tier": "groq",
-      "article": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania"
-    },
-    {
-      "timestamp": "2026-08-16T06:44:29.909186+00:00",
-      "tier": "groq",
-      "article": "Massive drone attack taregts Russian capital"
-    },
     {
       "timestamp": "2026-08-16T06:44:47.742894+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-19T01:24:22.340860+00:00",
       "tier": "gemini",
       "article": "US won\u2019t allow Gaza reconstruction until Hamas disarms \u2013 Kushner"
+    },
+    {
+      "timestamp": "2026-08-19T06:56:45.246322+00:00",
+      "tier": "gemini",
+      "article": "Iran rejects UAE attack claim as baseless"
+    },
+    {
+      "timestamp": "2026-08-19T06:57:11.427487+00:00",
+      "tier": "gemini",
+      "article": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase"
     }
   ]
 }
