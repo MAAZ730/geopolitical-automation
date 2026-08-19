@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6134,
+  "total_calls": 6136,
   "tiers": {
     "groq": 6056,
-    "gemini": 78
+    "gemini": 80
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T10:28:16.139019+00:00",
-      "tier": "groq",
-      "article": "ICT ministry\u2019s priority was to ensure sustainable communications in Iran during war: Minister"
-    },
-    {
-      "timestamp": "2026-08-16T12:44:03.838981+00:00",
-      "tier": "groq",
-      "article": "Al-Manar correspondent in Gaza: Seven Palestinians injured in Israeli drone attack targeting tent of displaced people in Al-Mawasi, Khan Younis - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-16T12:44:37.476904+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-19T12:54:18.218603+00:00",
       "tier": "gemini",
       "article": "Russia and Egypt reject Politico claims of violations at El Dabaa nuclear plant"
+    },
+    {
+      "timestamp": "2026-08-19T14:37:26.152393+00:00",
+      "tier": "gemini",
+      "article": "Zionist regime\u2019s drone attack kills 6 Palestinians in Gaza"
+    },
+    {
+      "timestamp": "2026-08-19T14:37:53.460916+00:00",
+      "tier": "gemini",
+      "article": "2 killed in Lebanon after suspected Israel war remnant blasts"
     }
   ]
 }
