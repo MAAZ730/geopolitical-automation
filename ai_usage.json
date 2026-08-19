@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6121,
+  "total_calls": 6124,
   "tiers": {
     "groq": 6056,
-    "gemini": 65
+    "gemini": 68
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T04:39:36.858637+00:00",
-      "tier": "groq",
-      "article": "Who killed Tupac? What to know about the trial of Duane \u2018Keffe D\u2019 Davis"
-    },
-    {
-      "timestamp": "2026-08-16T04:40:23.551572+00:00",
-      "tier": "groq",
-      "article": "Indonesian earthquake death toll rises to five \u2014 newspaper"
-    },
-    {
-      "timestamp": "2026-08-16T06:43:08.347814+00:00",
-      "tier": "groq",
-      "article": "Three killed, one injured in drone attack on Russia\u2019s Rostov Region \u2014 governor"
-    },
     {
       "timestamp": "2026-08-16T06:43:44.622309+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-18T22:27:40.558408+00:00",
       "tier": "gemini",
       "article": "Zionist Enemy Carries Out a Number of Attacks in South Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-19T01:23:29.463324+00:00",
+      "tier": "gemini",
+      "article": "Russia reports Ukrainian drone strike near Zaporizhzhia nuclear plant"
+    },
+    {
+      "timestamp": "2026-08-19T01:23:59.391318+00:00",
+      "tier": "gemini",
+      "article": "Israeli strike reported to kill at least six in Gaza City"
+    },
+    {
+      "timestamp": "2026-08-19T01:24:22.340860+00:00",
+      "tier": "gemini",
+      "article": "US won\u2019t allow Gaza reconstruction until Hamas disarms \u2013 Kushner"
     }
   ]
 }
