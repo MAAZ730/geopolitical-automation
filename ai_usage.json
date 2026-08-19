@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6143,
+  "total_calls": 6146,
   "tiers": {
     "groq": 6056,
-    "gemini": 87
+    "gemini": 90
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T16:29:39.230551+00:00",
-      "tier": "groq",
-      "article": "Israel strikes Hamas, Islamic Jihad terrorists in Gaza Strip \u2014 IDF"
-    },
-    {
-      "timestamp": "2026-08-16T16:30:19.002103+00:00",
-      "tier": "groq",
-      "article": "Women\u2019s sport shouldn\u2019t have to bend to the trans delusion"
-    },
-    {
-      "timestamp": "2026-08-16T16:31:04.466181+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Army chief warns US forces not allowed in Persian Gulf, Sea of Oman, Strait of Hormuz"
-    },
     {
       "timestamp": "2026-08-16T16:31:21.152718+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-19T20:36:23.024913+00:00",
       "tier": "gemini",
       "article": "VIDEO: Ghalibaf visits martyr Soleimani memorial site in Iraq"
+    },
+    {
+      "timestamp": "2026-08-19T22:28:24.858119+00:00",
+      "tier": "gemini",
+      "article": "Israeli strike on Gaza City police headquarters kills women\u2019s police chief"
+    },
+    {
+      "timestamp": "2026-08-19T22:28:49.233965+00:00",
+      "tier": "gemini",
+      "article": "What\u2019s behind Israel\u2019s latest attack on Syria?"
+    },
+    {
+      "timestamp": "2026-08-19T22:29:22.209069+00:00",
+      "tier": "gemini",
+      "article": "US seeks dignified exit from region, Israel has no future"
     }
   ]
 }
