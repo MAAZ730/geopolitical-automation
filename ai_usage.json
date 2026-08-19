@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6138,
+  "total_calls": 6139,
   "tiers": {
     "groq": 6056,
-    "gemini": 82
+    "gemini": 83
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T12:45:31.125905+00:00",
-      "tier": "groq",
-      "article": "Ghalibaf: Iran Truly Won the War, Militarily and Politically - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-16T14:26:07.145633+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-19T17:13:50.135915+00:00",
       "tier": "gemini",
       "article": "North Korea\u2019s Kim Yo Jong warns Japan of strike in response to possible threat"
+    },
+    {
+      "timestamp": "2026-08-19T18:39:37.830127+00:00",
+      "tier": "gemini",
+      "article": "Hamas condemns \u2018new war crime\u2019 as Israel kills 10 in crowded Gaza hubs"
     }
   ]
 }
