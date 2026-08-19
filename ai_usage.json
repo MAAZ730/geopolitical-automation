@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6139,
+  "total_calls": 6143,
   "tiers": {
     "groq": 6056,
-    "gemini": 83
+    "gemini": 87
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T14:26:07.145633+00:00",
-      "tier": "groq",
-      "article": "Russian air defenses shoot down record-breaking number of Ukrainian drones in one day"
-    },
-    {
-      "timestamp": "2026-08-16T14:26:40.717845+00:00",
-      "tier": "groq",
-      "article": "Yemeni army reports over 180 operations against Houthis in past day"
-    },
-    {
-      "timestamp": "2026-08-16T14:26:59.619618+00:00",
-      "tier": "groq",
-      "article": "Only previously manufactured US weapons can be supplied to Ukraine from Turkey \u2014 expert"
-    },
-    {
-      "timestamp": "2026-08-16T14:27:35.498373+00:00",
-      "tier": "groq",
-      "article": "Tehran calls out US hypocrisy as Trump prioritizes military over social spending"
-    },
     {
       "timestamp": "2026-08-16T16:29:39.230551+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-19T18:39:37.830127+00:00",
       "tier": "gemini",
       "article": "Hamas condemns \u2018new war crime\u2019 as Israel kills 10 in crowded Gaza hubs"
+    },
+    {
+      "timestamp": "2026-08-19T20:34:54.048484+00:00",
+      "tier": "gemini",
+      "article": "Gaza: Multiple deadly Israeli strikes in under 24 hours"
+    },
+    {
+      "timestamp": "2026-08-19T20:35:29.440568+00:00",
+      "tier": "gemini",
+      "article": "Washington Post: Trump stuck in quagmire of war with Iran"
+    },
+    {
+      "timestamp": "2026-08-19T20:35:54.613336+00:00",
+      "tier": "gemini",
+      "article": "Strike on Abu-Duhur could provoke military clash between Israel, Turkey, Syria \u2014 US envoy"
+    },
+    {
+      "timestamp": "2026-08-19T20:36:23.024913+00:00",
+      "tier": "gemini",
+      "article": "VIDEO: Ghalibaf visits martyr Soleimani memorial site in Iraq"
     }
   ]
 }
