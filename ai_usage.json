@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6126,
+  "total_calls": 6130,
   "tiers": {
     "groq": 6056,
-    "gemini": 70
+    "gemini": 74
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T06:44:47.742894+00:00",
-      "tier": "groq",
-      "article": "Analytical center for drone use established within Battlegroup East, ministry says"
-    },
-    {
-      "timestamp": "2026-08-16T08:33:01.865252+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike defense industry facilities, oil refinery, steel plant"
-    },
-    {
-      "timestamp": "2026-08-16T08:33:36.401427+00:00",
-      "tier": "groq",
-      "article": "One killed, four injured in a shooting in Kentucky Concert"
-    },
-    {
-      "timestamp": "2026-08-16T08:33:54.679966+00:00",
-      "tier": "groq",
-      "article": "Iran's envoy slams 168 days of intl. silence over Minab crime"
-    },
     {
       "timestamp": "2026-08-16T08:34:13.286386+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-19T06:57:11.427487+00:00",
       "tier": "gemini",
       "article": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase"
+    },
+    {
+      "timestamp": "2026-08-19T11:19:36.618893+00:00",
+      "tier": "gemini",
+      "article": "Japan to begin developing submarine-launched hypersonic missiles in 2027"
+    },
+    {
+      "timestamp": "2026-08-19T11:20:03.103339+00:00",
+      "tier": "gemini",
+      "article": "Ukraine must compensate for attack on Iranian ship: Envoy"
+    },
+    {
+      "timestamp": "2026-08-19T11:20:28.162789+00:00",
+      "tier": "gemini",
+      "article": "Aid workers faced record number of attacks in 2025"
+    },
+    {
+      "timestamp": "2026-08-19T11:20:50.440022+00:00",
+      "tier": "gemini",
+      "article": "US-led Board of Peace considers &#039;wholesale&#039; Hamas disarmament deal to satisfy Israel: Report"
     }
   ]
 }
