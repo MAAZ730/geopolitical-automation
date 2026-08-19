@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6136,
+  "total_calls": 6138,
   "tiers": {
     "groq": 6056,
-    "gemini": 80
+    "gemini": 82
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T12:44:37.476904+00:00",
-      "tier": "groq",
-      "article": "Moroccan police use force against hundreds of migrants at Ceuta border, newspaper reports"
-    },
-    {
-      "timestamp": "2026-08-16T12:44:56.825496+00:00",
-      "tier": "groq",
-      "article": "Iran managing continuous enemy cyberattacks: ICT minister"
-    },
     {
       "timestamp": "2026-08-16T12:45:31.125905+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-19T14:37:53.460916+00:00",
       "tier": "gemini",
       "article": "2 killed in Lebanon after suspected Israel war remnant blasts"
+    },
+    {
+      "timestamp": "2026-08-19T17:13:21.860183+00:00",
+      "tier": "gemini",
+      "article": "Israel kills nine in Gaza police station bombing"
+    },
+    {
+      "timestamp": "2026-08-19T17:13:50.135915+00:00",
+      "tier": "gemini",
+      "article": "North Korea\u2019s Kim Yo Jong warns Japan of strike in response to possible threat"
     }
   ]
 }
