@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6162,
+  "total_calls": 6165,
   "tiers": {
     "groq": 6056,
-    "gemini": 106
+    "gemini": 109
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T01:26:12.285854+00:00",
-      "tier": "groq",
-      "article": "US eyes Russian S-300, S-400 model for new air defense radars \u2013 Military Watch"
-    },
-    {
-      "timestamp": "2026-08-17T03:03:36.567616+00:00",
-      "tier": "groq",
-      "article": "Ukrainian forces shell DPR settlements 26 times over past 24 hours \u2014 statement"
-    },
-    {
-      "timestamp": "2026-08-17T03:04:09.194250+00:00",
-      "tier": "groq",
-      "article": "5.7-magnitude earthquake strikes Indonesia \u2014 statement"
-    },
     {
       "timestamp": "2026-08-17T03:04:56.999181+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-20T12:54:56.769170+00:00",
       "tier": "gemini",
       "article": "One civilian killed in Ukrainian drone strike on electricians\u2019 vehicle in Kherson Region"
+    },
+    {
+      "timestamp": "2026-08-20T14:39:54.447411+00:00",
+      "tier": "gemini",
+      "article": "Kiev never asked for air defense systems from EU, only strike weapons \u2014 EC"
+    },
+    {
+      "timestamp": "2026-08-20T14:40:23.259355+00:00",
+      "tier": "gemini",
+      "article": "Ukraine\u2019s air defense increasingly struggling to cope with Russian strikes \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-20T14:40:49.808995+00:00",
+      "tier": "gemini",
+      "article": "Turkiye, Egypt, Qatar Condemn Israeli Attacks on Gaza - Al-Manar TV Lebanon"
     }
   ]
 }
