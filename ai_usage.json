@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6167,
+  "total_calls": 6168,
   "tiers": {
     "groq": 6056,
-    "gemini": 111
+    "gemini": 112
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T04:45:14.170511+00:00",
-      "tier": "groq",
-      "article": "Echoes of the past: Golden-lustre ceramic bowl"
-    },
     {
       "timestamp": "2026-08-17T04:45:53.855215+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-20T16:38:55.120172+00:00",
       "tier": "gemini",
       "article": "Persian Empire: New scholarly work sheds light on Achaemenid monetary systems"
+    },
+    {
+      "timestamp": "2026-08-20T18:42:50.668781+00:00",
+      "tier": "gemini",
+      "article": "Israeli strike on Syrian base undermines Syria\u2019s stability \u2014 Turkish Defense Ministry"
     }
   ]
 }
