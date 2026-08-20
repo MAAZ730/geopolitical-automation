@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6157,
+  "total_calls": 6161,
   "tiers": {
     "groq": 6056,
-    "gemini": 101
+    "gemini": 105
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T22:25:21.593048+00:00",
-      "tier": "groq",
-      "article": "Iran Offers $30,000 Reward for Capturing or Killing US Military Personnel"
-    },
-    {
-      "timestamp": "2026-08-16T22:26:09.859693+00:00",
-      "tier": "groq",
-      "article": "Case of 3 Iranian pilots is a serious test to determine Qatar\u2019s role in the war"
-    },
-    {
-      "timestamp": "2026-08-17T01:24:34.841605+00:00",
-      "tier": "groq",
-      "article": "US discussing nuclear weapons against Iran \u2013 Greene"
-    },
-    {
-      "timestamp": "2026-08-17T01:24:52.169987+00:00",
-      "tier": "groq",
-      "article": "Iran executes man for running over law enforcement forces"
-    },
     {
       "timestamp": "2026-08-17T01:25:22.999077+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-20T08:43:33.005740+00:00",
       "tier": "gemini",
       "article": "From nationalizing Iran oil to CIA-backed evil coup of 1953"
+    },
+    {
+      "timestamp": "2026-08-20T10:34:15.572486+00:00",
+      "tier": "gemini",
+      "article": "North Korea launches approximately 10 missiles toward Sea of Japan \u2014 South Korean military"
+    },
+    {
+      "timestamp": "2026-08-20T10:34:39.784496+00:00",
+      "tier": "gemini",
+      "article": "Civilians injured, 726 UAVs downed: aftermath of attacks on Russian regions"
+    },
+    {
+      "timestamp": "2026-08-20T10:35:03.932710+00:00",
+      "tier": "gemini",
+      "article": "Russian forces strike logistics center in Kiev Region with Geran UAVs \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-20T10:35:47.607582+00:00",
+      "tier": "gemini",
+      "article": "US sanctions ICC president in widening crackdown against court"
     }
   ]
 }
