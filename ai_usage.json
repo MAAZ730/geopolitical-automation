@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6165,
+  "total_calls": 6167,
   "tiers": {
     "groq": 6056,
-    "gemini": 109
+    "gemini": 111
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T03:04:56.999181+00:00",
-      "tier": "groq",
-      "article": "China shows stance on WWII outcome with Kuril Islands statement \u2014 Russian senator"
-    },
-    {
-      "timestamp": "2026-08-17T03:05:16.198875+00:00",
-      "tier": "groq",
-      "article": "Israeli forces launch vast attacks in southern Syria"
-    },
     {
       "timestamp": "2026-08-17T04:45:14.170511+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-20T14:40:49.808995+00:00",
       "tier": "gemini",
       "article": "Turkiye, Egypt, Qatar Condemn Israeli Attacks on Gaza - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-20T16:38:19.869741+00:00",
+      "tier": "gemini",
+      "article": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack"
+    },
+    {
+      "timestamp": "2026-08-20T16:38:55.120172+00:00",
+      "tier": "gemini",
+      "article": "Persian Empire: New scholarly work sheds light on Achaemenid monetary systems"
     }
   ]
 }
