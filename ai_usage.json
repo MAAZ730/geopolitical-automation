@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6148,
+  "total_calls": 6150,
   "tiers": {
     "groq": 6056,
-    "gemini": 92
+    "gemini": 94
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T18:33:42.756669+00:00",
-      "tier": "groq",
-      "article": "Hezbollah Explosive Drone Hit Israeli Soldier 32 Years after His Father Was Injured in South Lebanon As Well: Yedioth Ahronoth - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-16T18:34:02.412788+00:00",
-      "tier": "groq",
-      "article": "A military source told Yemen\u2019s Saba news: Armed forces targeted Saudi military gatherings in Mocha and Marib province with ballistic missiles and drones - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-16T18:34:35.728105+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-20T01:22:58.529395+00:00",
       "tier": "gemini",
       "article": "Iran rejects UAE missile launch claims, cites 'false-flag' sabotage"
+    },
+    {
+      "timestamp": "2026-08-20T02:59:52.654027+00:00",
+      "tier": "gemini",
+      "article": "The Economist reports panic in Ukraine over shortage of Patriot missiles"
+    },
+    {
+      "timestamp": "2026-08-20T03:00:20.132496+00:00",
+      "tier": "gemini",
+      "article": "US Navy destroyer spent 4 days without power in South China Sea"
     }
   ]
 }
