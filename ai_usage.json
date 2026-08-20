@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6150,
+  "total_calls": 6151,
   "tiers": {
     "groq": 6056,
-    "gemini": 94
+    "gemini": 95
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T18:34:35.728105+00:00",
-      "tier": "groq",
-      "article": "Drone debris, third in one day, found in Turkey \u2014 Nefes"
-    },
     {
       "timestamp": "2026-08-16T20:26:36.126968+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-20T03:00:20.132496+00:00",
       "tier": "gemini",
       "article": "US Navy destroyer spent 4 days without power in South China Sea"
+    },
+    {
+      "timestamp": "2026-08-20T04:40:22.447634+00:00",
+      "tier": "gemini",
+      "article": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections"
     }
   ]
 }
