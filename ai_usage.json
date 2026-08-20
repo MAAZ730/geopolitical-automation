@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6161,
+  "total_calls": 6162,
   "tiers": {
     "groq": 6056,
-    "gemini": 105
+    "gemini": 106
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T01:25:22.999077+00:00",
-      "tier": "groq",
-      "article": "Ceuta migrant crisis puts Spain under pressure as 15 rape cases reported"
-    },
     {
       "timestamp": "2026-08-17T01:26:12.285854+00:00",
       "tier": "groq",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-20T10:35:47.607582+00:00",
       "tier": "gemini",
       "article": "US sanctions ICC president in widening crackdown against court"
+    },
+    {
+      "timestamp": "2026-08-20T12:54:56.769170+00:00",
+      "tier": "gemini",
+      "article": "One civilian killed in Ukrainian drone strike on electricians\u2019 vehicle in Kherson Region"
     }
   ]
 }
