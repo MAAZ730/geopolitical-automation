@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6171,
+  "total_calls": 6173,
   "tiers": {
     "groq": 6056,
-    "gemini": 115
+    "gemini": 117
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T07:00:41.214275+00:00",
-      "tier": "groq",
-      "article": "6 civilians killed in Russia, 2 in Ukraine as Moscow and Kyiv exchange overnight air strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-17T07:00:58.405659+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike Ukraine\u2019s Tarantul-class patrol boat at Odessa port overnight"
-    },
     {
       "timestamp": "2026-08-17T07:01:17.046752+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-20T20:32:50.356481+00:00",
       "tier": "gemini",
       "article": "Whoever wins the Meta trial, the masses will remain willing slaves"
+    },
+    {
+      "timestamp": "2026-08-20T22:31:00.264967+00:00",
+      "tier": "gemini",
+      "article": "US envoy condemns Israeli strikes on Syrian airbase"
+    },
+    {
+      "timestamp": "2026-08-20T22:31:34.744764+00:00",
+      "tier": "gemini",
+      "article": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv"
     }
   ]
 }
