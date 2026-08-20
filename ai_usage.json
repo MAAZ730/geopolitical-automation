@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6153,
+  "total_calls": 6157,
   "tiers": {
     "groq": 6056,
-    "gemini": 97
+    "gemini": 101
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T20:27:26.562243+00:00",
-      "tier": "groq",
-      "article": "Canada reduced to US \u2018farm team\u2019 in war against Iran: Foreign Ministry spox"
-    },
-    {
-      "timestamp": "2026-08-16T20:27:43.052853+00:00",
-      "tier": "groq",
-      "article": "Iran will win \u2018economic war\u2019 as it did on battlefield: Vice president"
-    },
-    {
-      "timestamp": "2026-08-16T22:24:29.506455+00:00",
-      "tier": "groq",
-      "article": "One civilian died, ten more wounded in Ukraine\u2019s attacks on DPR"
-    },
-    {
-      "timestamp": "2026-08-16T22:25:03.618954+00:00",
-      "tier": "groq",
-      "article": "Hamas delegation due in Cairo for talks on Gaza ceasefire"
-    },
     {
       "timestamp": "2026-08-16T22:25:21.593048+00:00",
       "tier": "groq",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-20T06:51:51.311418+00:00",
       "tier": "gemini",
       "article": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev"
+    },
+    {
+      "timestamp": "2026-08-20T08:42:07.728821+00:00",
+      "tier": "gemini",
+      "article": "Video shows Russian missile strike on Ukrainian capital"
+    },
+    {
+      "timestamp": "2026-08-20T08:42:41.339025+00:00",
+      "tier": "gemini",
+      "article": "Ukraine says 12 people killed, 33 injured in Russia\u2019s overnight strike on Kyiv - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-20T08:43:07.671023+00:00",
+      "tier": "gemini",
+      "article": "War: Watt Is It Good For?"
+    },
+    {
+      "timestamp": "2026-08-20T08:43:33.005740+00:00",
+      "tier": "gemini",
+      "article": "From nationalizing Iran oil to CIA-backed evil coup of 1953"
     }
   ]
 }
