@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6146,
+  "total_calls": 6148,
   "tiers": {
     "groq": 6056,
-    "gemini": 90
+    "gemini": 92
   },
   "log": [
-    {
-      "timestamp": "2026-08-16T16:31:21.152718+00:00",
-      "tier": "groq",
-      "article": "Iran\u2019s Army announces financial reward for killing US forces"
-    },
-    {
-      "timestamp": "2026-08-16T18:33:07.830032+00:00",
-      "tier": "groq",
-      "article": "Russia intercepts over 800 drones fired by Ukraine"
-    },
     {
       "timestamp": "2026-08-16T18:33:42.756669+00:00",
       "tier": "groq",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-19T22:29:22.209069+00:00",
       "tier": "gemini",
       "article": "US seeks dignified exit from region, Israel has no future"
+    },
+    {
+      "timestamp": "2026-08-20T01:22:25.207688+00:00",
+      "tier": "gemini",
+      "article": "Houthis attack eight Saudi oil tankers over month \u2014 spokesman"
+    },
+    {
+      "timestamp": "2026-08-20T01:22:58.529395+00:00",
+      "tier": "gemini",
+      "article": "Iran rejects UAE missile launch claims, cites 'false-flag' sabotage"
     }
   ]
 }
