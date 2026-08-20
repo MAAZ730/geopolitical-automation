@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6168,
+  "total_calls": 6171,
   "tiers": {
     "groq": 6056,
-    "gemini": 112
+    "gemini": 115
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T04:45:53.855215+00:00",
-      "tier": "groq",
-      "article": "Iran vows to fight back in economic warfare"
-    },
-    {
-      "timestamp": "2026-08-17T04:46:43.129072+00:00",
-      "tier": "groq",
-      "article": "Iran places $30,000 bounty on US soldiers"
-    },
-    {
-      "timestamp": "2026-08-17T04:47:01.057275+00:00",
-      "tier": "groq",
-      "article": "Israeli minister calls for killing \u201930 to 40\u2032 Palestinians in Gaza nightly"
-    },
     {
       "timestamp": "2026-08-17T07:00:41.214275+00:00",
       "tier": "groq",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-20T18:42:50.668781+00:00",
       "tier": "gemini",
       "article": "Israeli strike on Syrian base undermines Syria\u2019s stability \u2014 Turkish Defense Ministry"
+    },
+    {
+      "timestamp": "2026-08-20T20:31:53.878121+00:00",
+      "tier": "gemini",
+      "article": "Russia vows &#039;proportionate response&#039; to Ukrainian strikes, warns Kiev to abandon &#039;dangerous illusion of victory&#039;"
+    },
+    {
+      "timestamp": "2026-08-20T20:32:17.741495+00:00",
+      "tier": "gemini",
+      "article": "Thai schools hold shooter drills after deadly attack"
+    },
+    {
+      "timestamp": "2026-08-20T20:32:50.356481+00:00",
+      "tier": "gemini",
+      "article": "Whoever wins the Meta trial, the masses will remain willing slaves"
     }
   ]
 }
