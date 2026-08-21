@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6178,
+  "total_calls": 6181,
   "tiers": {
     "groq": 6056,
-    "gemini": 122
+    "gemini": 125
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T08:48:28.989745+00:00",
-      "tier": "gemini",
-      "article": "Concerns raised as prolonged deployment at US Abraham Lincoln"
-    },
-    {
-      "timestamp": "2026-08-17T10:35:08.282792+00:00",
-      "tier": "gemini",
-      "article": "Ukrainian missile attack on Russia\u2019s Belgorod Region kills six, leaves four others injured"
-    },
-    {
-      "timestamp": "2026-08-17T10:35:32.550384+00:00",
-      "tier": "gemini",
-      "article": "FACTBOX: Aftermath of Ukrainian drone attack on Russian regions, two killed"
-    },
     {
       "timestamp": "2026-08-17T10:36:01.129684+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-21T03:07:52.089860+00:00",
       "tier": "gemini",
       "article": "Iran urges Islamic states to back Palestine, counter Israel"
+    },
+    {
+      "timestamp": "2026-08-21T04:41:13.241565+00:00",
+      "tier": "gemini",
+      "article": "World Humanitarian Day: let\u2019s make protecting each other our greatest achievement"
+    },
+    {
+      "timestamp": "2026-08-21T04:41:42.299601+00:00",
+      "tier": "gemini",
+      "article": "Iran warns US space ambitions risk fueling arms race"
+    },
+    {
+      "timestamp": "2026-08-21T04:42:05.412505+00:00",
+      "tier": "gemini",
+      "article": "Iran\u2019s deputy FM: US military aggression failed, next defeat is \u2018economic war\u2019"
     }
   ]
 }
