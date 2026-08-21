@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6175,
+  "total_calls": 6178,
   "tiers": {
     "groq": 6056,
-    "gemini": 119
+    "gemini": 122
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T08:47:06.532258+00:00",
-      "tier": "gemini",
-      "article": "At least six people killed in Ukrainian missile attack on Russia\u2019s Belgorod"
-    },
-    {
-      "timestamp": "2026-08-17T08:47:32.470456+00:00",
-      "tier": "gemini",
-      "article": "2 killed as blast hits vehicle in SW Pakistan"
-    },
-    {
-      "timestamp": "2026-08-17T08:47:57.409395+00:00",
-      "tier": "gemini",
-      "article": "Battlegroup Center\u2019s Tornado-S system strikes Ukrainian command post at Dobropolye"
-    },
     {
       "timestamp": "2026-08-17T08:48:28.989745+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-21T01:27:30.124487+00:00",
       "tier": "gemini",
       "article": "Production of fuel for Ukrainian missiles in Denmark delayed until 2027"
+    },
+    {
+      "timestamp": "2026-08-21T03:07:01.477974+00:00",
+      "tier": "gemini",
+      "article": "US Navy leads multinational effort for next-gen SeaSparrow missile"
+    },
+    {
+      "timestamp": "2026-08-21T03:07:25.597691+00:00",
+      "tier": "gemini",
+      "article": "Kiev to return to talks with Russia on terms worse than those in 2022 \u2014 magazine"
+    },
+    {
+      "timestamp": "2026-08-21T03:07:52.089860+00:00",
+      "tier": "gemini",
+      "article": "Iran urges Islamic states to back Palestine, counter Israel"
     }
   ]
 }
