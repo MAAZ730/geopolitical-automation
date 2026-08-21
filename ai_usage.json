@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6200,
+  "total_calls": 6201,
   "tiers": {
     "groq": 6056,
-    "gemini": 144
+    "gemini": 145
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T06:48:11.266321+00:00",
-      "tier": "gemini",
-      "article": "Nearly 70 Russian residents killed in Ukraine attacks"
-    },
     {
       "timestamp": "2026-08-18T06:48:37.924290+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-21T20:29:24.989049+00:00",
       "tier": "gemini",
       "article": "Yemeni drones strike Aramco oil facilities, Najran airport"
+    },
+    {
+      "timestamp": "2026-08-21T22:28:10.582287+00:00",
+      "tier": "gemini",
+      "article": "\u2018Shameful\u2019: Western allies slam Israel ending probe on aid worker killings"
     }
   ]
 }
