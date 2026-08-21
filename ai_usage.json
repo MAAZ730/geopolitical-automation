@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6193,
+  "total_calls": 6195,
   "tiers": {
     "groq": 6056,
-    "gemini": 137
+    "gemini": 139
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T20:32:25.986770+00:00",
-      "tier": "gemini",
-      "article": "Why the Mecca alliance may work in Russia\u2019s favor"
-    },
-    {
-      "timestamp": "2026-08-17T22:28:32.840624+00:00",
-      "tier": "gemini",
-      "article": "Yemeni forces target Saudi military ship, four boats in Red Sea"
-    },
     {
       "timestamp": "2026-08-18T03:02:07.100836+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-21T12:54:19.728295+00:00",
       "tier": "gemini",
       "article": "Iran's military power altered strategic equation"
+    },
+    {
+      "timestamp": "2026-08-21T14:38:17.798881+00:00",
+      "tier": "gemini",
+      "article": "More Israeli Attacks on South Lebanon Reported - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-21T14:38:46.311479+00:00",
+      "tier": "gemini",
+      "article": "Russian troops liberate 11 communities in Ukraine operation over week \u2014 top brass"
     }
   ]
 }
