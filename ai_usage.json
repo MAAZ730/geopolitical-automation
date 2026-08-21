@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6195,
+  "total_calls": 6197,
   "tiers": {
     "groq": 6056,
-    "gemini": 139
+    "gemini": 141
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T03:02:07.100836+00:00",
-      "tier": "gemini",
-      "article": "Large fire breaks out at fuel depot near Iraq\u2019s Sulaimaniyah"
-    },
-    {
-      "timestamp": "2026-08-18T03:02:34.759498+00:00",
-      "tier": "gemini",
-      "article": "\u2018We will not allow Gaza to be rebuilt\u2019 until Hamas disarms, Kushner says"
-    },
     {
       "timestamp": "2026-08-18T03:02:59.282435+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-21T14:38:46.311479+00:00",
       "tier": "gemini",
       "article": "Russian troops liberate 11 communities in Ukraine operation over week \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-21T16:38:18.856956+00:00",
+      "tier": "gemini",
+      "article": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza"
+    },
+    {
+      "timestamp": "2026-08-21T16:39:01.300100+00:00",
+      "tier": "gemini",
+      "article": "Palestine and genocide: Redefining resilience"
     }
   ]
 }
