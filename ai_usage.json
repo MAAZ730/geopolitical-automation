@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6173,
+  "total_calls": 6175,
   "tiers": {
     "groq": 6056,
-    "gemini": 117
+    "gemini": 119
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T07:01:17.046752+00:00",
-      "tier": "groq",
-      "article": "Russian forces strike transport, energy infrastructure used by Ukrainian troops"
-    },
-    {
-      "timestamp": "2026-08-17T07:01:34.813779+00:00",
-      "tier": "groq",
-      "article": "Indonesian earthquake death toll exceeds 50 \u2014 agency"
-    },
     {
       "timestamp": "2026-08-17T08:47:06.532258+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-20T22:31:34.744764+00:00",
       "tier": "gemini",
       "article": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv"
+    },
+    {
+      "timestamp": "2026-08-21T01:26:57.423518+00:00",
+      "tier": "gemini",
+      "article": "Zelensky calls Russian ballistic missiles 'main threat' to Ukrainian military industry"
+    },
+    {
+      "timestamp": "2026-08-21T01:27:30.124487+00:00",
+      "tier": "gemini",
+      "article": "Production of fuel for Ukrainian missiles in Denmark delayed until 2027"
     }
   ]
 }
