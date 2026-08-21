@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6197,
+  "total_calls": 6198,
   "tiers": {
     "groq": 6056,
-    "gemini": 141
+    "gemini": 142
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T03:02:59.282435+00:00",
-      "tier": "gemini",
-      "article": "Patriot missiles in short supply, Poland needs them itself \u2014 former defense minister"
-    },
     {
       "timestamp": "2026-08-18T03:03:25.399240+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-21T16:39:01.300100+00:00",
       "tier": "gemini",
       "article": "Palestine and genocide: Redefining resilience"
+    },
+    {
+      "timestamp": "2026-08-21T18:40:16.602086+00:00",
+      "tier": "gemini",
+      "article": "Is Israel trying to start a proxy war in Syria?"
     }
   ]
 }
