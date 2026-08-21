@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6198,
+  "total_calls": 6200,
   "tiers": {
     "groq": 6056,
-    "gemini": 142
+    "gemini": 144
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T03:03:25.399240+00:00",
-      "tier": "gemini",
-      "article": "Russia\u2019s Battlegroup North artillery eliminates over 50 Ukrainian troops overnight"
-    },
-    {
-      "timestamp": "2026-08-18T04:39:27.860441+00:00",
-      "tier": "gemini",
-      "article": "Ukraine has no missiles for Patriot systems \u2014 TV"
-    },
     {
       "timestamp": "2026-08-18T06:48:11.266321+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-21T18:40:16.602086+00:00",
       "tier": "gemini",
       "article": "Is Israel trying to start a proxy war in Syria?"
+    },
+    {
+      "timestamp": "2026-08-21T20:29:03.689708+00:00",
+      "tier": "gemini",
+      "article": "Drone strike on Ukraine shopping centre kills 14, over 100 injured"
+    },
+    {
+      "timestamp": "2026-08-21T20:29:24.989049+00:00",
+      "tier": "gemini",
+      "article": "Yemeni drones strike Aramco oil facilities, Najran airport"
     }
   ]
 }
