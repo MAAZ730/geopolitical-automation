@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6191,
+  "total_calls": 6193,
   "tiers": {
     "groq": 6056,
-    "gemini": 135
+    "gemini": 137
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T20:31:28.123018+00:00",
-      "tier": "gemini",
-      "article": "IN BRIEF: Russian forces deliver strikes on Izmail, Odessa ports, logistics targets"
-    },
-    {
-      "timestamp": "2026-08-17T20:31:54.171649+00:00",
-      "tier": "gemini",
-      "article": "Greek tanker attacked by Ukrainian drone in Black Sea near port of Novorossiysk"
-    },
     {
       "timestamp": "2026-08-17T20:32:25.986770+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-21T10:34:48.065449+00:00",
       "tier": "gemini",
       "article": "Houthis and government trade attacks as Yemen slides back to full-scale war"
+    },
+    {
+      "timestamp": "2026-08-21T12:53:45.020019+00:00",
+      "tier": "gemini",
+      "article": "Ukrainian strikes kill one, injure eight civilians in Lugansk People\u2019s Republic"
+    },
+    {
+      "timestamp": "2026-08-21T12:54:19.728295+00:00",
+      "tier": "gemini",
+      "article": "Iran's military power altered strategic equation"
     }
   ]
 }
