@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6181,
+  "total_calls": 6183,
   "tiers": {
     "groq": 6056,
-    "gemini": 125
+    "gemini": 127
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T10:36:01.129684+00:00",
-      "tier": "gemini",
-      "article": "Israel conducts fresh attacks on areas in Lebanon\u2019s Nabatieh"
-    },
-    {
-      "timestamp": "2026-08-17T10:36:32.733444+00:00",
-      "tier": "gemini",
-      "article": "White House contacted IRGC via mediator who has offered assistance again - media"
-    },
     {
       "timestamp": "2026-08-17T12:49:35.413037+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-21T04:42:05.412505+00:00",
       "tier": "gemini",
       "article": "Iran\u2019s deputy FM: US military aggression failed, next defeat is \u2018economic war\u2019"
+    },
+    {
+      "timestamp": "2026-08-21T06:52:41.934090+00:00",
+      "tier": "gemini",
+      "article": "Hormuz risks remain even if outcome of Iran-Oman talks successful, Russian diplomat says"
+    },
+    {
+      "timestamp": "2026-08-21T06:53:14.459432+00:00",
+      "tier": "gemini",
+      "article": "Russia conducts missile test near Kuril Islands after Japanese protest"
     }
   ]
 }
