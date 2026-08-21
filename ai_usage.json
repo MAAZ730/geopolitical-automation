@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6187,
+  "total_calls": 6191,
   "tiers": {
     "groq": 6056,
-    "gemini": 131
+    "gemini": 135
   },
   "log": [
-    {
-      "timestamp": "2026-08-17T16:31:15.124933+00:00",
-      "tier": "gemini",
-      "article": "Malaysian PM lauds Iran's resiliance in face of US aggression"
-    },
-    {
-      "timestamp": "2026-08-17T16:31:49.404564+00:00",
-      "tier": "gemini",
-      "article": "Trump renews threat to bomb Oman &#039;if it gets in the way&#039; of US war on Iran"
-    },
-    {
-      "timestamp": "2026-08-17T18:43:06.909244+00:00",
-      "tier": "gemini",
-      "article": "War on Iran: Phase II, Day 37"
-    },
-    {
-      "timestamp": "2026-08-17T20:31:04.480152+00:00",
-      "tier": "gemini",
-      "article": "US warship loses power and toilets in South China Sea \u2013 CNN"
-    },
     {
       "timestamp": "2026-08-17T20:31:28.123018+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-21T08:44:39.796858+00:00",
       "tier": "gemini",
       "article": "Hezbollah stronghold residents reject call to disarm (VIDEO)"
+    },
+    {
+      "timestamp": "2026-08-21T10:33:27.634802+00:00",
+      "tier": "gemini",
+      "article": "Green Light for Assassinations: Gaza Death Toll Mounts as \u2018Israel\u2019 Defies Ceasefire - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-21T10:33:52.034037+00:00",
+      "tier": "gemini",
+      "article": "Charter plane crashes in western Alaska, 8 killed"
+    },
+    {
+      "timestamp": "2026-08-21T10:34:20.888557+00:00",
+      "tier": "gemini",
+      "article": "Claims of Iran\u2019s defeat caused by enemies' miscalculations"
+    },
+    {
+      "timestamp": "2026-08-21T10:34:48.065449+00:00",
+      "tier": "gemini",
+      "article": "Houthis and government trade attacks as Yemen slides back to full-scale war"
     }
   ]
 }
