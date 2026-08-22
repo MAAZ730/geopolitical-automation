@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6227,
+  "total_calls": 6229,
   "tiers": {
     "groq": 6056,
-    "gemini": 171
+    "gemini": 173
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T11:20:03.103339+00:00",
-      "tier": "gemini",
-      "article": "Ukraine must compensate for attack on Iranian ship: Envoy"
-    },
-    {
-      "timestamp": "2026-08-19T11:20:28.162789+00:00",
-      "tier": "gemini",
-      "article": "Aid workers faced record number of attacks in 2025"
-    },
     {
       "timestamp": "2026-08-19T11:20:50.440022+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-22T16:28:58.056586+00:00",
       "tier": "gemini",
       "article": "Ozon evacuates more than 500 staff amid drone attack on its warehouse in Samara Region"
+    },
+    {
+      "timestamp": "2026-08-22T18:35:06.699501+00:00",
+      "tier": "gemini",
+      "article": "Russia\u2019s Iskander missiles destroy up to 40 trucks modified for UAV launches near Kiev"
+    },
+    {
+      "timestamp": "2026-08-22T18:36:32.873595+00:00",
+      "tier": "gemini",
+      "article": "IEA chief compares situation surrounding Strait of Hormuz to broken vase"
     }
   ]
 }
