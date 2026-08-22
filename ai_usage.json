@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6210,
+  "total_calls": 6214,
   "tiers": {
     "groq": 6056,
-    "gemini": 154
+    "gemini": 158
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T12:51:39.430553+00:00",
-      "tier": "gemini",
-      "article": "Qatar rejects Iran's claims about captured pilots as false \u2014 MFA"
-    },
-    {
-      "timestamp": "2026-08-18T12:52:04.387552+00:00",
-      "tier": "gemini",
-      "article": "Warsaw, Kiev continue discussions on Patriot missile supplies \u2014 ambassador"
-    },
-    {
-      "timestamp": "2026-08-18T14:36:43.530347+00:00",
-      "tier": "gemini",
-      "article": "Grossi urges to stop attacks on nuclear facilities after deadly strike on Energodar"
-    },
-    {
-      "timestamp": "2026-08-18T14:37:17.151601+00:00",
-      "tier": "gemini",
-      "article": "Araghchi honors martyred Iranian teachers, students as symbols of resistance"
-    },
     {
       "timestamp": "2026-08-18T14:37:42.727122+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-22T06:44:17.975341+00:00",
       "tier": "gemini",
       "article": "Qalibaf calls for trade in national currencies"
+    },
+    {
+      "timestamp": "2026-08-22T08:33:46.796948+00:00",
+      "tier": "gemini",
+      "article": "Russian forces strike Darnitsa locomotive depot in Kiev \u2014 top brass"
+    },
+    {
+      "timestamp": "2026-08-22T08:34:45.184191+00:00",
+      "tier": "gemini",
+      "article": "Four injured in drone attack on Ozon logistics center in Russia\u2019s Samara region"
+    },
+    {
+      "timestamp": "2026-08-22T08:35:36.609037+00:00",
+      "tier": "gemini",
+      "article": "Driver mechanics of Yars missile systems undergo training on new simulators"
+    },
+    {
+      "timestamp": "2026-08-22T08:36:22.498755+00:00",
+      "tier": "gemini",
+      "article": "Ukrainian troops shot at Kharkov Region residents attempting to evacuate \u2014 administration"
     }
   ]
 }
