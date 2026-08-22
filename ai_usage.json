@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6231,
+  "total_calls": 6233,
   "tiers": {
     "groq": 6056,
-    "gemini": 175
+    "gemini": 177
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T12:53:30.612436+00:00",
-      "tier": "gemini",
-      "article": "Iran Refutes UAE Allegation of Missile Attack - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-19T12:53:54.600418+00:00",
-      "tier": "gemini",
-      "article": "UN calls for end to Israeli air strikes on Syria"
-    },
     {
       "timestamp": "2026-08-19T12:54:18.218603+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-22T20:26:54.248214+00:00",
       "tier": "gemini",
       "article": "Iran's defense surges as US war machine crumbles"
+    },
+    {
+      "timestamp": "2026-08-22T22:25:12.228886+00:00",
+      "tier": "gemini",
+      "article": "Envoy says Israel did not give the US notice before strikes on Syrian base"
+    },
+    {
+      "timestamp": "2026-08-22T22:25:46.962975+00:00",
+      "tier": "gemini",
+      "article": "Bering Strait tunnel project requires massive infrastructure development \u2014 senator"
     }
   ]
 }
