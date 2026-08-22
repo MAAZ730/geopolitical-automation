@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6204,
+  "total_calls": 6206,
   "tiers": {
     "groq": 6056,
-    "gemini": 148
+    "gemini": 150
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T08:41:24.805230+00:00",
-      "tier": "gemini",
-      "article": "AI and the Risks of Tearing Down an Old System"
-    },
-    {
-      "timestamp": "2026-08-18T08:41:48.424110+00:00",
-      "tier": "gemini",
-      "article": "Oil tankers \u2018go dark\u2019 as crude keeps flowing through Strait of Hormuz \u2013 Bloomberg"
-    },
     {
       "timestamp": "2026-08-18T10:32:16.042817+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-22T01:23:03.794062+00:00",
       "tier": "gemini",
       "article": "Israel re-establishes closed West Bank settlement, defying growing international protests"
+    },
+    {
+      "timestamp": "2026-08-22T02:56:58.542524+00:00",
+      "tier": "gemini",
+      "article": "Poland plans to deploy missiles with range of over 1,000 km in its east \u2014 defense ministry"
+    },
+    {
+      "timestamp": "2026-08-22T02:57:30.007219+00:00",
+      "tier": "gemini",
+      "article": "US Army to end experimental drone battalion in Europe"
     }
   ]
 }
