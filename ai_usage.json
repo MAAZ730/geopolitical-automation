@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6206,
+  "total_calls": 6208,
   "tiers": {
     "groq": 6056,
-    "gemini": 150
+    "gemini": 152
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T10:32:16.042817+00:00",
-      "tier": "gemini",
-      "article": "Russian strikes kill 10 in Kharkiv as Ukrainian drones hit Moscow"
-    },
-    {
-      "timestamp": "2026-08-18T10:32:38.916784+00:00",
-      "tier": "gemini",
-      "article": "Israeli Airstrikes Hit Abu Al-Duhur Military Airport in Syria\u2019s Idlib - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-18T10:33:33.960467+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-22T02:57:30.007219+00:00",
       "tier": "gemini",
       "article": "US Army to end experimental drone battalion in Europe"
+    },
+    {
+      "timestamp": "2026-08-22T04:35:48.115149+00:00",
+      "tier": "gemini",
+      "article": "Civilian killed in Ukrainian drone explosion in Belgorod Region"
+    },
+    {
+      "timestamp": "2026-08-22T04:36:21.610211+00:00",
+      "tier": "gemini",
+      "article": "Three civilians killed in Ukrainian drone attacks on DPR during day"
     }
   ]
 }
