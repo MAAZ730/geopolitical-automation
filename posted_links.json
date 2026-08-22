@@ -1,4 +1,34 @@
 {
+  "3c19e6f8f3f25509df7d0b97697abbd0635116b910af007099aa44e95b032c58": {
+    "url": "DDGeopolitics/191646",
+    "title": "Russian Iskander-M Missile With Cluster Munition Strikes Boryspil",
+    "published": "2026-08-22T10:32:33.637378+00:00"
+  },
+  "f8f1ce444ed8e264840914900acd722b7d6f9f7cab87f5a3d3532cad2af85c56": {
+    "url": "QudsNen/236170",
+    "title": "Khirbet Al-Kharaba: Israeli Settlers Attempt Livestock Seizure Amidst Security Force Presence",
+    "published": "2026-08-22T10:31:23.904462+00:00"
+  },
+  "ca53589004824b2aeecba8d9760d9581016be91b69477bfc348fc0eaebc24b03": {
+    "url": "QudsNen/236177",
+    "title": "Israeli Forces Bar Medics from Injured Man After Settler Assault in West Bank",
+    "published": "2026-08-22T10:30:45.073935+00:00"
+  },
+  "7c2cc2b899c8e0900fde3f339db66898c43ec098038cfee9aeaf5673aeb455f4": {
+    "url": "thecradlemedia/66626",
+    "title": "Israeli Forces Execute Explosive Operation in Southern Lebanon Village",
+    "published": "2026-08-22T10:29:38.026094+00:00"
+  },
+  "2694f771b1f95a2d4cd893b9f99c5f02a8e639e882753fd3433a0c415ce8b80d": {
+    "url": "thecradlemedia/66629",
+    "title": "Israeli Reconnaissance UAV Activity Persists Across Lebanese Airspace",
+    "published": "2026-08-22T10:29:25.459871+00:00"
+  },
+  "687d363aae7f35ab103ccd5ece356ce1af6d47300686692da412208c52858cb2": {
+    "url": "thecradlemedia/66630",
+    "title": "Israeli Forces Trigger Major Explosion in Southern Lebanese Towns Mays al-Jabal and Talousa",
+    "published": "2026-08-22T10:29:17.896857+00:00"
+  },
   "095f28a13ce85afa30e409d7dcd4421beb2c3ff8186ca4afe9be4600550d06df": {
     "url": "Slavyangrad/174127",
     "title": "Taiwanese Rocket Test Fails to Meet Objectives",
@@ -28,6 +58,11 @@
     "url": "thecradlemedia/66623",
     "title": "Israeli Forces Kill Palestinian Man in Southern Gaza Amidst Ceasefire Violation Claims",
     "published": "2026-08-22T08:37:27.145040+00:00"
+  },
+  "138749578517b8cb273e3fbd622e1b093cdbd7df64e6eea160af2609fe4b7296": {
+    "url": "https://english.almanar.com.lb/article/118967/",
+    "title": "Ukraine says death toll from Russian drone strike in Kryvyi Rih rises to 16 - Al-Manar TV Lebanon",
+    "published": "2026-08-22T08:33:30+00:00"
   },
   "42120c3c9a688b4b94e755acf96190f09f3e406367bf3793a21d2dd6283daa5f": {
     "url": "https://tass.com/emergencies/2176383",
@@ -68,6 +103,11 @@
     "url": "https://tass.com/defense/2176365",
     "title": "Russian forces strike Darnitsa locomotive depot in Kiev \u2014 top brass",
     "published": "2026-08-22T06:15:34+00:00"
+  },
+  "b9084180d734f96dd6f7e2bf56c55d1711621dd256cbd1dc8fd5a582d4547149": {
+    "url": "https://en.irna.ir/news/86241780/IRGC-chief-Enemies-will-never-stop-plotting-against-Iranian",
+    "title": "IRGC chief: Enemies will never stop plotting against Iranian nation",
+    "published": "2026-08-22T05:37:33+00:00"
   },
   "a52c29179119fff01521d337e4d130a3cabadaf8bc0a0f82311ac89c50ba777c": {
     "url": "Slavyangrad/174093",
@@ -319,6 +359,11 @@
     "title": "Palestine and genocide: Redefining resilience",
     "published": "2026-08-21T16:09:41+00:00"
   },
+  "67b8a7e324d5ce1a914f22e6258db48db9a4a1c791c1ce5d9952b77c01872858": {
+    "url": "https://www.tehrantimes.com/news/529280/Iran-s-top-generals-warn-of-devastating-response-to-any-threat",
+    "title": "Iran\u2019s top generals warn of \u2018devastating\u2019 response to any threat",
+    "published": "2026-08-21T16:04:15+00:00"
+  },
   "09a55579576497ce1e25b58da75c7cf9907592ae6a1d5dbc3b8241ecf609a766": {
     "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
     "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
@@ -408,6 +453,11 @@
     "url": "https://tass.com/politics/2176139",
     "title": "Ukrainian strikes kill one, injure eight civilians in Lugansk People\u2019s Republic",
     "published": "2026-08-21T12:36:41+00:00"
+  },
+  "ad882987a2f57322b3b87ee8facc4d2e348a645e063584a8cf133891815f1c31": {
+    "url": "https://en.mehrnews.com/news/247135/No-clause-in-Islamabad-MoU-signals-Iran-s-surrender",
+    "title": "No clause in Islamabad MoU signals Iran's surrender",
+    "published": "2026-08-21T12:21:09+00:00"
   },
   "7e18843a3c0eb152afee4f3eaec43fdd24265e3425389bcf307b93815e69817a": {
     "url": "https://tass.com/emergencies/2176123",
@@ -698,55 +748,5 @@
     "url": "Slavyangrad/173998",
     "title": "\ud83c\uddfa\ud83c\udde6\ud83d\udd25 In Kiev, following a daytime drone attack, a \"ECO Market\" warehouse and a bu",
     "published": "2026-08-20T20:41:49.316473+00:00"
-  },
-  "20087bde5edbdd7ad1e9460dd72c5af891a3841b9ff174af89742719746290f0": {
-    "url": "Slavyangrad/174004",
-    "title": "Images of a warehouse destroyed by Russian strikes in the Dnepropetrovsk region.",
-    "published": "2026-08-20T20:41:08.139804+00:00"
-  },
-  "c837c3094830eac40814e49a6e5d5149dde1dc07b7c7f551506dc8954ef18edd": {
-    "url": "Slavyangrad/174005",
-    "title": "\ud83e\ude82 Airborne Troops Advance Under FireRussian paratroopers face extreme risks whil",
-    "published": "2026-08-20T20:39:01.471158+00:00"
-  },
-  "25c0a81c18618976be454968ff77a71bd82fa3a5d3dd93e0147f888cc3c70dc4": {
-    "url": "QudsNen/236013",
-    "title": "Israeli extremist settlers assaulted six Palestinians in the Marj Sa\u2019i plain nea",
-    "published": "2026-08-20T20:37:09.608903+00:00"
-  },
-  "f11820c79dc0e4f0d5825718b191c79524e099d6a9a55f00274ab6a3682b74ce": {
-    "url": "Middle_East_Spectator/36007",
-    "title": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The USS George Washington has arrived in the CENTCOM area of operat",
-    "published": "2026-08-20T20:33:12.013988+00:00"
-  },
-  "a17a78926da8ced5aec14bcc123a0aeac931be5e796cc1fe099f815ecf104c59": {
-    "url": "thecradlemedia/66526",
-    "title": "Syria accuses Israel of 'abandoning' security commitments, says talks 'still pos",
-    "published": "2026-08-20T20:33:09.426144+00:00"
-  },
-  "32947dd8296a72dddaa555950132a9eb5b06bca051cd3e3eb62b15cddf04272a": {
-    "url": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
-    "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
-    "published": "2026-08-20T20:23:22+00:00"
-  },
-  "53c31c6e41dfc647eec773b49686b7eff113cb23874feafa5b19e1f7ad4c45aa": {
-    "url": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
-    "title": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
-    "published": "2026-08-20T20:09:46+00:00"
-  },
-  "8093edd898d44d1d6d016df34b9bd0ee4059c9530a851063ab1fb5a7d29087cf": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss",
-    "title": "Thai schools hold shooter drills after deadly attack",
-    "published": "2026-08-20T18:59:08+00:00"
-  },
-  "60f4f1d502a3ddbbd9df5dac04afcdc864c19d002a73d2e6bdee4df972964bcf": {
-    "url": "intelslava/92898",
-    "title": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 The aftermath of the overnight strike on the KLO oil depot in the Brova",
-    "published": "2026-08-20T18:51:27.195793+00:00"
-  },
-  "9248ff363e591560ef3db388a0bd7318e17f1100a86e8d62731120b14dc402e9": {
-    "url": "presstv/203554",
-    "title": "\u25b6\ufe0f Chinese Foreign Ministry spokesman Lin Jian slammed the US economic war again",
-    "published": "2026-08-20T18:50:34.228479+00:00"
   }
 }

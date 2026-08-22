@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6214,
+  "total_calls": 6218,
   "tiers": {
     "groq": 6056,
-    "gemini": 158
+    "gemini": 162
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T14:37:42.727122+00:00",
-      "tier": "gemini",
-      "article": "Syrian Foreign Ministry calls Israeli strike on Idlib airbase 'unjustified aggression'"
-    },
-    {
-      "timestamp": "2026-08-18T14:38:15.307061+00:00",
-      "tier": "gemini",
-      "article": "Trump threatens to \u2018bomb the sh*t out of\u2019 Oman"
-    },
-    {
-      "timestamp": "2026-08-18T18:45:44.037559+00:00",
-      "tier": "gemini",
-      "article": "How did Iranian strikes damage Abraham Lincoln carrier?"
-    },
-    {
-      "timestamp": "2026-08-18T18:46:09.468615+00:00",
-      "tier": "gemini",
-      "article": "Erbil false-flag attack: Foreign sabotage against Iran-Iraq unity"
-    },
     {
       "timestamp": "2026-08-18T20:27:35.573529+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-22T08:36:22.498755+00:00",
       "tier": "gemini",
       "article": "Ukrainian troops shot at Kharkov Region residents attempting to evacuate \u2014 administration"
+    },
+    {
+      "timestamp": "2026-08-22T10:27:09.934924+00:00",
+      "tier": "gemini",
+      "article": "Ukraine says death toll from Russian drone strike in Kryvyi Rih rises to 16 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-22T10:27:32.735165+00:00",
+      "tier": "gemini",
+      "article": "IRGC chief: Enemies will never stop plotting against Iranian nation"
+    },
+    {
+      "timestamp": "2026-08-22T10:27:59.123270+00:00",
+      "tier": "gemini",
+      "article": "No clause in Islamabad MoU signals Iran's surrender"
+    },
+    {
+      "timestamp": "2026-08-22T10:28:34.211478+00:00",
+      "tier": "gemini",
+      "article": "Iran\u2019s top generals warn of \u2018devastating\u2019 response to any threat"
     }
   ]
 }
