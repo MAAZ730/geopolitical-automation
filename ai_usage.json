@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6208,
+  "total_calls": 6210,
   "tiers": {
     "groq": 6056,
-    "gemini": 152
+    "gemini": 154
   },
   "log": [
-    {
-      "timestamp": "2026-08-18T10:33:33.960467+00:00",
-      "tier": "gemini",
-      "article": "Eight strikes hit airbase in Syria\u2019s Idlib"
-    },
-    {
-      "timestamp": "2026-08-18T10:33:57.331809+00:00",
-      "tier": "gemini",
-      "article": "Hamas respresentative's presser in Tehran"
-    },
     {
       "timestamp": "2026-08-18T12:51:39.430553+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-22T04:36:21.610211+00:00",
       "tier": "gemini",
       "article": "Three civilians killed in Ukrainian drone attacks on DPR during day"
+    },
+    {
+      "timestamp": "2026-08-22T06:43:40.679567+00:00",
+      "tier": "gemini",
+      "article": "At least 4,348 killed by Israeli regime in Lebanon"
+    },
+    {
+      "timestamp": "2026-08-22T06:44:17.975341+00:00",
+      "tier": "gemini",
+      "article": "Qalibaf calls for trade in national currencies"
     }
   ]
 }
