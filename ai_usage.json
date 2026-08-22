@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6224,
+  "total_calls": 6227,
   "tiers": {
     "groq": 6056,
-    "gemini": 168
+    "gemini": 171
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T06:56:45.246322+00:00",
-      "tier": "gemini",
-      "article": "Iran rejects UAE attack claim as baseless"
-    },
-    {
-      "timestamp": "2026-08-19T06:57:11.427487+00:00",
-      "tier": "gemini",
-      "article": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase"
-    },
-    {
-      "timestamp": "2026-08-19T11:19:36.618893+00:00",
-      "tier": "gemini",
-      "article": "Japan to begin developing submarine-launched hypersonic missiles in 2027"
-    },
     {
       "timestamp": "2026-08-19T11:20:03.103339+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-22T14:25:55.538547+00:00",
       "tier": "gemini",
       "article": "Iran must become constant warning to aggressive regimes: Leader\u2019s military advisor"
+    },
+    {
+      "timestamp": "2026-08-22T16:28:00.950944+00:00",
+      "tier": "gemini",
+      "article": "Russian forces strike two trains transporting military cargo in Ukraine"
+    },
+    {
+      "timestamp": "2026-08-22T16:28:26.378944+00:00",
+      "tier": "gemini",
+      "article": "No need for new constitutional amendments now \u2014 presidential envoy"
+    },
+    {
+      "timestamp": "2026-08-22T16:28:58.056586+00:00",
+      "tier": "gemini",
+      "article": "Ozon evacuates more than 500 staff amid drone attack on its warehouse in Samara Region"
     }
   ]
 }
