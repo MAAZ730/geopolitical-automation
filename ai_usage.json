@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6241,
+  "total_calls": 6245,
   "tiers": {
     "groq": 6056,
-    "gemini": 185
+    "gemini": 189
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T20:35:54.613336+00:00",
-      "tier": "gemini",
-      "article": "Strike on Abu-Duhur could provoke military clash between Israel, Turkey, Syria \u2014 US envoy"
-    },
-    {
-      "timestamp": "2026-08-19T20:36:23.024913+00:00",
-      "tier": "gemini",
-      "article": "VIDEO: Ghalibaf visits martyr Soleimani memorial site in Iraq"
-    },
-    {
-      "timestamp": "2026-08-19T22:28:24.858119+00:00",
-      "tier": "gemini",
-      "article": "Israeli strike on Gaza City police headquarters kills women\u2019s police chief"
-    },
-    {
-      "timestamp": "2026-08-19T22:28:49.233965+00:00",
-      "tier": "gemini",
-      "article": "What\u2019s behind Israel\u2019s latest attack on Syria?"
-    },
     {
       "timestamp": "2026-08-19T22:29:22.209069+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-23T06:45:52.978425+00:00",
       "tier": "gemini",
       "article": "Air defense system repels attack by six drones flying towards Moscow \u2014 mayor"
+    },
+    {
+      "timestamp": "2026-08-23T08:34:29.023494+00:00",
+      "tier": "gemini",
+      "article": "Gaza: One Palestinian martyred, several others injured in an Israeli drone strike targeting a group of civilians near the entrance to the Maghazi refugee camp - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-23T08:34:56.180784+00:00",
+      "tier": "gemini",
+      "article": "Global map of power is currently changing: Basij chief"
+    },
+    {
+      "timestamp": "2026-08-23T08:35:28.635655+00:00",
+      "tier": "gemini",
+      "article": "Why is this end of the line for Trump in Iran war?"
+    },
+    {
+      "timestamp": "2026-08-23T08:35:52.857932+00:00",
+      "tier": "gemini",
+      "article": "General Talaei-Nik: Sanctions turned into opportunity for localization, leap in Iran\u2019s defense industry"
     }
   ]
 }
