@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6233,
+  "total_calls": 6236,
   "tiers": {
     "groq": 6056,
-    "gemini": 177
+    "gemini": 180
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T12:54:18.218603+00:00",
-      "tier": "gemini",
-      "article": "Russia and Egypt reject Politico claims of violations at El Dabaa nuclear plant"
-    },
-    {
-      "timestamp": "2026-08-19T14:37:26.152393+00:00",
-      "tier": "gemini",
-      "article": "Zionist regime\u2019s drone attack kills 6 Palestinians in Gaza"
-    },
-    {
-      "timestamp": "2026-08-19T14:37:53.460916+00:00",
-      "tier": "gemini",
-      "article": "2 killed in Lebanon after suspected Israel war remnant blasts"
-    },
     {
       "timestamp": "2026-08-19T17:13:21.860183+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-22T22:25:46.962975+00:00",
       "tier": "gemini",
       "article": "Bering Strait tunnel project requires massive infrastructure development \u2014 senator"
+    },
+    {
+      "timestamp": "2026-08-23T01:34:13.593450+00:00",
+      "tier": "gemini",
+      "article": "Israeli strikes kill two and injure others as Gaza attacks continue"
+    },
+    {
+      "timestamp": "2026-08-23T01:34:38.360032+00:00",
+      "tier": "gemini",
+      "article": "IN BRIEF: Putin comments on Kiev\u2019s provocative moves and Russia\u2019s retaliatory strikes"
+    },
+    {
+      "timestamp": "2026-08-23T01:35:05.666157+00:00",
+      "tier": "gemini",
+      "article": "Israel escalates strikes and ground raids across Syria"
     }
   ]
 }
