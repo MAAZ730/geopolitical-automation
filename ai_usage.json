@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6257,
+  "total_calls": 6259,
   "tiers": {
     "groq": 6056,
-    "gemini": 201
+    "gemini": 203
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T10:34:15.572486+00:00",
-      "tier": "gemini",
-      "article": "North Korea launches approximately 10 missiles toward Sea of Japan \u2014 South Korean military"
-    },
-    {
-      "timestamp": "2026-08-20T10:34:39.784496+00:00",
-      "tier": "gemini",
-      "article": "Civilians injured, 726 UAVs downed: aftermath of attacks on Russian regions"
-    },
     {
       "timestamp": "2026-08-20T10:35:03.932710+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-23T18:34:05.952413+00:00",
       "tier": "gemini",
       "article": "Iran shifts to offensive posture"
+    },
+    {
+      "timestamp": "2026-08-23T20:26:37.256410+00:00",
+      "tier": "gemini",
+      "article": "Turkish sailor survives drone strike only to be killed after rescue ship is hit \u2013 media"
+    },
+    {
+      "timestamp": "2026-08-23T20:27:02.582482+00:00",
+      "tier": "gemini",
+      "article": "Once again, Israel bombs populated Lebanese villages with prohibited white phosphorus"
     }
   ]
 }
