@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6251,
+  "total_calls": 6253,
   "tiers": {
     "groq": 6056,
-    "gemini": 195
+    "gemini": 197
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T06:51:28.211752+00:00",
-      "tier": "gemini",
-      "article": "At least 6 killed in multiple Russian missile strikes across Ukraine"
-    },
-    {
-      "timestamp": "2026-08-20T06:51:51.311418+00:00",
-      "tier": "gemini",
-      "article": "Russian forces hit Fire Point facility manufacturing attack drone components in Kiev"
-    },
     {
       "timestamp": "2026-08-20T08:42:07.728821+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-23T12:45:24.679410+00:00",
       "tier": "gemini",
       "article": "\u2018Attacked\u2019 by Trump on Trade, Canada Is \u2018at War\u2019 With U.S., Prime Minister Says - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-23T14:26:54.491547+00:00",
+      "tier": "gemini",
+      "article": "Financial Times: Iranian Strikes Drive Washington to Reconsider Gulf Basing Rules - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-23T14:27:33.695241+00:00",
+      "tier": "gemini",
+      "article": "America cannot turn a failed policy into a winning card"
     }
   ]
 }
