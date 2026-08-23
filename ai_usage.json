@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6245,
+  "total_calls": 6249,
   "tiers": {
     "groq": 6056,
-    "gemini": 189
+    "gemini": 193
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T22:29:22.209069+00:00",
-      "tier": "gemini",
-      "article": "US seeks dignified exit from region, Israel has no future"
-    },
-    {
-      "timestamp": "2026-08-20T01:22:25.207688+00:00",
-      "tier": "gemini",
-      "article": "Houthis attack eight Saudi oil tankers over month \u2014 spokesman"
-    },
-    {
-      "timestamp": "2026-08-20T01:22:58.529395+00:00",
-      "tier": "gemini",
-      "article": "Iran rejects UAE missile launch claims, cites 'false-flag' sabotage"
-    },
-    {
-      "timestamp": "2026-08-20T02:59:52.654027+00:00",
-      "tier": "gemini",
-      "article": "The Economist reports panic in Ukraine over shortage of Patriot missiles"
-    },
     {
       "timestamp": "2026-08-20T03:00:20.132496+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-23T08:35:52.857932+00:00",
       "tier": "gemini",
       "article": "General Talaei-Nik: Sanctions turned into opportunity for localization, leap in Iran\u2019s defense industry"
+    },
+    {
+      "timestamp": "2026-08-23T10:27:37.626630+00:00",
+      "tier": "gemini",
+      "article": "Israeli air strike near Gaza refugee camp kills one person and injures two"
+    },
+    {
+      "timestamp": "2026-08-23T10:28:00.334021+00:00",
+      "tier": "gemini",
+      "article": "West Bank: Settler injured in Stabbing Incident in the Jordan Valley - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-23T10:28:27.147794+00:00",
+      "tier": "gemini",
+      "article": "DR Congo, M23 rebels agree on roadmap for peace talks"
+    },
+    {
+      "timestamp": "2026-08-23T10:28:49.052884+00:00",
+      "tier": "gemini",
+      "article": "Moscow region targeted with more than 2,500 enemy drones over past week \u2014 mayor"
     }
   ]
 }
