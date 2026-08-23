@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6239,
+  "total_calls": 6241,
   "tiers": {
     "groq": 6056,
-    "gemini": 183
+    "gemini": 185
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T20:34:54.048484+00:00",
-      "tier": "gemini",
-      "article": "Gaza: Multiple deadly Israeli strikes in under 24 hours"
-    },
-    {
-      "timestamp": "2026-08-19T20:35:29.440568+00:00",
-      "tier": "gemini",
-      "article": "Washington Post: Trump stuck in quagmire of war with Iran"
-    },
     {
       "timestamp": "2026-08-19T20:35:54.613336+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-23T04:40:57.066391+00:00",
       "tier": "gemini",
       "article": "Militants carried out more than 10 attacks injuring two people in southern Thailand"
+    },
+    {
+      "timestamp": "2026-08-23T06:45:22.047133+00:00",
+      "tier": "gemini",
+      "article": "Russian military keeps attaining special op\u2019s goals, accelerate offensive \u2014 Putin"
+    },
+    {
+      "timestamp": "2026-08-23T06:45:52.978425+00:00",
+      "tier": "gemini",
+      "article": "Air defense system repels attack by six drones flying towards Moscow \u2014 mayor"
     }
   ]
 }
