@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6236,
+  "total_calls": 6238,
   "tiers": {
     "groq": 6056,
-    "gemini": 180
+    "gemini": 182
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T17:13:21.860183+00:00",
-      "tier": "gemini",
-      "article": "Israel kills nine in Gaza police station bombing"
-    },
-    {
-      "timestamp": "2026-08-19T17:13:50.135915+00:00",
-      "tier": "gemini",
-      "article": "North Korea\u2019s Kim Yo Jong warns Japan of strike in response to possible threat"
-    },
     {
       "timestamp": "2026-08-19T18:39:37.830127+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-23T01:35:05.666157+00:00",
       "tier": "gemini",
       "article": "Israel escalates strikes and ground raids across Syria"
+    },
+    {
+      "timestamp": "2026-08-23T03:05:49.394278+00:00",
+      "tier": "gemini",
+      "article": "Trump rants at Tucker Carlson and other MAGA defectors"
+    },
+    {
+      "timestamp": "2026-08-23T03:06:19.807849+00:00",
+      "tier": "gemini",
+      "article": "Putin describes attempt to defeat Russia in 40 days as another provocative move"
     }
   ]
 }
