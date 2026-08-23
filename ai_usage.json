@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6238,
+  "total_calls": 6239,
   "tiers": {
     "groq": 6056,
-    "gemini": 182
+    "gemini": 183
   },
   "log": [
-    {
-      "timestamp": "2026-08-19T18:39:37.830127+00:00",
-      "tier": "gemini",
-      "article": "Hamas condemns \u2018new war crime\u2019 as Israel kills 10 in crowded Gaza hubs"
-    },
     {
       "timestamp": "2026-08-19T20:34:54.048484+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-23T03:06:19.807849+00:00",
       "tier": "gemini",
       "article": "Putin describes attempt to defeat Russia in 40 days as another provocative move"
+    },
+    {
+      "timestamp": "2026-08-23T04:40:57.066391+00:00",
+      "tier": "gemini",
+      "article": "Militants carried out more than 10 attacks injuring two people in southern Thailand"
     }
   ]
 }
