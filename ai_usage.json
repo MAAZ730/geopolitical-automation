@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6249,
+  "total_calls": 6251,
   "tiers": {
     "groq": 6056,
-    "gemini": 193
+    "gemini": 195
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T03:00:20.132496+00:00",
-      "tier": "gemini",
-      "article": "US Navy destroyer spent 4 days without power in South China Sea"
-    },
-    {
-      "timestamp": "2026-08-20T04:40:22.447634+00:00",
-      "tier": "gemini",
-      "article": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections"
-    },
     {
       "timestamp": "2026-08-20T06:51:28.211752+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-23T10:28:49.052884+00:00",
       "tier": "gemini",
       "article": "Moscow region targeted with more than 2,500 enemy drones over past week \u2014 mayor"
+    },
+    {
+      "timestamp": "2026-08-23T12:45:00.371785+00:00",
+      "tier": "gemini",
+      "article": "Russian troops hit Ukrainian army\u2019s energy, transport infrastructure sites in past day"
+    },
+    {
+      "timestamp": "2026-08-23T12:45:24.679410+00:00",
+      "tier": "gemini",
+      "article": "\u2018Attacked\u2019 by Trump on Trade, Canada Is \u2018at War\u2019 With U.S., Prime Minister Says - Al-Manar TV Lebanon"
     }
   ]
 }
