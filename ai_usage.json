@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6259,
+  "total_calls": 6260,
   "tiers": {
     "groq": 6056,
-    "gemini": 203
+    "gemini": 204
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T10:35:03.932710+00:00",
-      "tier": "gemini",
-      "article": "Russian forces strike logistics center in Kiev Region with Geran UAVs \u2014 top brass"
-    },
     {
       "timestamp": "2026-08-20T10:35:47.607582+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-23T20:27:02.582482+00:00",
       "tier": "gemini",
       "article": "Once again, Israel bombs populated Lebanese villages with prohibited white phosphorus"
+    },
+    {
+      "timestamp": "2026-08-23T22:25:37.349734+00:00",
+      "tier": "gemini",
+      "article": "Magnitude 6.0 earthquake strikes off Japan\u2019s Hokkaido"
     }
   ]
 }
