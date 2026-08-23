@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6253,
+  "total_calls": 6255,
   "tiers": {
     "groq": 6056,
-    "gemini": 197
+    "gemini": 199
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T08:42:07.728821+00:00",
-      "tier": "gemini",
-      "article": "Video shows Russian missile strike on Ukrainian capital"
-    },
-    {
-      "timestamp": "2026-08-20T08:42:41.339025+00:00",
-      "tier": "gemini",
-      "article": "Ukraine says 12 people killed, 33 injured in Russia\u2019s overnight strike on Kyiv - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-20T08:43:07.671023+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-23T14:27:33.695241+00:00",
       "tier": "gemini",
       "article": "America cannot turn a failed policy into a winning card"
+    },
+    {
+      "timestamp": "2026-08-23T16:29:32.133726+00:00",
+      "tier": "gemini",
+      "article": "Heavy Israeli air strike hits warehouse in central Gaza"
+    },
+    {
+      "timestamp": "2026-08-23T16:29:56.139963+00:00",
+      "tier": "gemini",
+      "article": "Death toll from Israel\u2019s genocidal war on Gaza rises"
     }
   ]
 }
