@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6255,
+  "total_calls": 6257,
   "tiers": {
     "groq": 6056,
-    "gemini": 199
+    "gemini": 201
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T08:43:07.671023+00:00",
-      "tier": "gemini",
-      "article": "War: Watt Is It Good For?"
-    },
-    {
-      "timestamp": "2026-08-20T08:43:33.005740+00:00",
-      "tier": "gemini",
-      "article": "From nationalizing Iran oil to CIA-backed evil coup of 1953"
-    },
     {
       "timestamp": "2026-08-20T10:34:15.572486+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-23T16:29:56.139963+00:00",
       "tier": "gemini",
       "article": "Death toll from Israel\u2019s genocidal war on Gaza rises"
+    },
+    {
+      "timestamp": "2026-08-23T18:33:34.912977+00:00",
+      "tier": "gemini",
+      "article": "US-Israeli strikes hit medical and nuclear facilities, Iran nuclear chief says\u00a0"
+    },
+    {
+      "timestamp": "2026-08-23T18:34:05.952413+00:00",
+      "tier": "gemini",
+      "article": "Iran shifts to offensive posture"
     }
   ]
 }
