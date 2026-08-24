@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6284,
+  "total_calls": 6287,
   "tiers": {
     "groq": 6056,
-    "gemini": 228
+    "gemini": 231
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T08:43:54.463953+00:00",
-      "tier": "gemini",
-      "article": "Al-Manar correspondent in southern Lebanon reports Israeli air strike on the town of Bar\u2019ashit - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-21T08:44:16.287622+00:00",
-      "tier": "gemini",
-      "article": "Russian strike brings Ukrainian industrial site in Brovary near Kiev offline \u2014 top brass"
-    },
-    {
-      "timestamp": "2026-08-21T08:44:39.796858+00:00",
-      "tier": "gemini",
-      "article": "Hezbollah stronghold residents reject call to disarm (VIDEO)"
-    },
     {
       "timestamp": "2026-08-21T10:33:27.634802+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-24T20:34:57.607691+00:00",
       "tier": "gemini",
       "article": "Armenia\u2019s CSTO future, response to Kiev's strikes on targets in Russia: Kremlin\u2019s briefing"
+    },
+    {
+      "timestamp": "2026-08-24T22:29:52.676340+00:00",
+      "tier": "gemini",
+      "article": "Ambush in South Sudan kills peacekeeping troops"
+    },
+    {
+      "timestamp": "2026-08-24T22:30:17.719973+00:00",
+      "tier": "gemini",
+      "article": "Displaced Palestinians in Gaza face intensifying Israeli strikes"
+    },
+    {
+      "timestamp": "2026-08-24T22:30:42.692450+00:00",
+      "tier": "gemini",
+      "article": "Two civilians killed, nine wounded in Ukrainian drone attacks on LPR"
     }
   ]
 }
