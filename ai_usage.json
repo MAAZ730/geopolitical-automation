@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6269,
+  "total_calls": 6273,
   "tiers": {
     "groq": 6056,
-    "gemini": 213
+    "gemini": 217
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T20:32:17.741495+00:00",
-      "tier": "gemini",
-      "article": "Thai schools hold shooter drills after deadly attack"
-    },
-    {
-      "timestamp": "2026-08-20T20:32:50.356481+00:00",
-      "tier": "gemini",
-      "article": "Whoever wins the Meta trial, the masses will remain willing slaves"
-    },
-    {
-      "timestamp": "2026-08-20T22:31:00.264967+00:00",
-      "tier": "gemini",
-      "article": "US envoy condemns Israeli strikes on Syrian airbase"
-    },
-    {
-      "timestamp": "2026-08-20T22:31:34.744764+00:00",
-      "tier": "gemini",
-      "article": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv"
-    },
     {
       "timestamp": "2026-08-21T01:26:57.423518+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-24T07:04:58.154859+00:00",
       "tier": "gemini",
       "article": "NATO, EU to be unable to talk their way out publicly from assisting Ukraine \u2014 Lavrov"
+    },
+    {
+      "timestamp": "2026-08-24T08:51:57.661049+00:00",
+      "tier": "gemini",
+      "article": "Israeli Enemy Intensifies Attacks on Southern Lebanon, Caries Out Airstrikes and Demolitions - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-24T08:52:23.514287+00:00",
+      "tier": "gemini",
+      "article": "FACTBOX: Aftermath of Ukrainian drone attack on Russia, three kids killed in Krasnodar"
+    },
+    {
+      "timestamp": "2026-08-24T08:52:48.683229+00:00",
+      "tier": "gemini",
+      "article": "IN BRIEF: Russian forces strike fuel tanker, ports used in Ukrainian army\u2019s supplies"
+    },
+    {
+      "timestamp": "2026-08-24T08:53:14.894525+00:00",
+      "tier": "gemini",
+      "article": "Iran blasts \u2018unacceptable interference\u2019 of 2 French diplomats"
     }
   ]
 }
