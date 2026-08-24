@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6279,
+  "total_calls": 6281,
   "tiers": {
     "groq": 6056,
-    "gemini": 223
+    "gemini": 225
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T04:41:42.299601+00:00",
-      "tier": "gemini",
-      "article": "Iran warns US space ambitions risk fueling arms race"
-    },
-    {
-      "timestamp": "2026-08-21T04:42:05.412505+00:00",
-      "tier": "gemini",
-      "article": "Iran\u2019s deputy FM: US military aggression failed, next defeat is \u2018economic war\u2019"
-    },
     {
       "timestamp": "2026-08-21T06:52:41.934090+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-24T16:41:38.182964+00:00",
       "tier": "gemini",
       "article": "Ukrainian air force complains of missile shortage"
+    },
+    {
+      "timestamp": "2026-08-24T18:43:48.760866+00:00",
+      "tier": "gemini",
+      "article": "Israeli strike on Gaza shelter extends casualty list"
+    },
+    {
+      "timestamp": "2026-08-24T18:44:11.144620+00:00",
+      "tier": "gemini",
+      "article": "Russian MP condemns Kiev\u2019s strike on Krasnodar Region as 'PR built on blood'"
     }
   ]
 }
