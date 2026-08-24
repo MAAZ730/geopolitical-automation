@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6266,
+  "total_calls": 6269,
   "tiers": {
     "groq": 6056,
-    "gemini": 210
+    "gemini": 213
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T16:38:55.120172+00:00",
-      "tier": "gemini",
-      "article": "Persian Empire: New scholarly work sheds light on Achaemenid monetary systems"
-    },
-    {
-      "timestamp": "2026-08-20T18:42:50.668781+00:00",
-      "tier": "gemini",
-      "article": "Israeli strike on Syrian base undermines Syria\u2019s stability \u2014 Turkish Defense Ministry"
-    },
-    {
-      "timestamp": "2026-08-20T20:31:53.878121+00:00",
-      "tier": "gemini",
-      "article": "Russia vows &#039;proportionate response&#039; to Ukrainian strikes, warns Kiev to abandon &#039;dangerous illusion of victory&#039;"
-    },
     {
       "timestamp": "2026-08-20T20:32:17.741495+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-24T04:49:28.255874+00:00",
       "tier": "gemini",
       "article": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions"
+    },
+    {
+      "timestamp": "2026-08-24T07:03:58.535285+00:00",
+      "tier": "gemini",
+      "article": "Israeli airstrikes, artillery fire hit southern Lebanon"
+    },
+    {
+      "timestamp": "2026-08-24T07:04:25.466661+00:00",
+      "tier": "gemini",
+      "article": "UK to give Ukraine classified data for long-range missiles"
+    },
+    {
+      "timestamp": "2026-08-24T07:04:58.154859+00:00",
+      "tier": "gemini",
+      "article": "NATO, EU to be unable to talk their way out publicly from assisting Ukraine \u2014 Lavrov"
     }
   ]
 }
