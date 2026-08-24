@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6275,
+  "total_calls": 6276,
   "tiers": {
     "groq": 6056,
-    "gemini": 219
+    "gemini": 220
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T03:07:01.477974+00:00",
-      "tier": "gemini",
-      "article": "US Navy leads multinational effort for next-gen SeaSparrow missile"
-    },
     {
       "timestamp": "2026-08-21T03:07:25.597691+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-24T10:40:49.909925+00:00",
       "tier": "gemini",
       "article": "IRGC surveillance surpasses US knowledge"
+    },
+    {
+      "timestamp": "2026-08-24T12:55:18.512684+00:00",
+      "tier": "gemini",
+      "article": "What we know about Ukrainian drone attack on Krasnodar Region, three children killed"
     }
   ]
 }
