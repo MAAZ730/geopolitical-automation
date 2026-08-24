@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6277,
+  "total_calls": 6279,
   "tiers": {
     "groq": 6056,
-    "gemini": 221
+    "gemini": 223
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T03:07:52.089860+00:00",
-      "tier": "gemini",
-      "article": "Iran urges Islamic states to back Palestine, counter Israel"
-    },
-    {
-      "timestamp": "2026-08-21T04:41:13.241565+00:00",
-      "tier": "gemini",
-      "article": "World Humanitarian Day: let\u2019s make protecting each other our greatest achievement"
-    },
     {
       "timestamp": "2026-08-21T04:41:42.299601+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-24T14:45:35.968867+00:00",
       "tier": "gemini",
       "article": "VIDEO: Israeli attack on Gaza desalination plant"
+    },
+    {
+      "timestamp": "2026-08-24T16:41:00.681864+00:00",
+      "tier": "gemini",
+      "article": "Command and Politics in the War Between Moscow and Kyiv"
+    },
+    {
+      "timestamp": "2026-08-24T16:41:38.182964+00:00",
+      "tier": "gemini",
+      "article": "Ukrainian air force complains of missile shortage"
     }
   ]
 }
