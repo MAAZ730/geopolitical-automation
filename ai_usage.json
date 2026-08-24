@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6264,
+  "total_calls": 6266,
   "tiers": {
     "groq": 6056,
-    "gemini": 208
+    "gemini": 210
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T14:40:49.808995+00:00",
-      "tier": "gemini",
-      "article": "Turkiye, Egypt, Qatar Condemn Israeli Attacks on Gaza - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-20T16:38:19.869741+00:00",
-      "tier": "gemini",
-      "article": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack"
-    },
     {
       "timestamp": "2026-08-20T16:38:55.120172+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-24T03:06:32.029705+00:00",
       "tier": "gemini",
       "article": "Palestinian teen killed in Israeli raid buried in Occupied West Bank"
+    },
+    {
+      "timestamp": "2026-08-24T04:48:53.532482+00:00",
+      "tier": "gemini",
+      "article": "Saudi Arabia strikes northern Yemen villages"
+    },
+    {
+      "timestamp": "2026-08-24T04:49:28.255874+00:00",
+      "tier": "gemini",
+      "article": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions"
     }
   ]
 }
