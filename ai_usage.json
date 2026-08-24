@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6276,
+  "total_calls": 6277,
   "tiers": {
     "groq": 6056,
-    "gemini": 220
+    "gemini": 221
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T03:07:25.597691+00:00",
-      "tier": "gemini",
-      "article": "Kiev to return to talks with Russia on terms worse than those in 2022 \u2014 magazine"
-    },
     {
       "timestamp": "2026-08-21T03:07:52.089860+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-24T12:55:18.512684+00:00",
       "tier": "gemini",
       "article": "What we know about Ukrainian drone attack on Krasnodar Region, three children killed"
+    },
+    {
+      "timestamp": "2026-08-24T14:45:35.968867+00:00",
+      "tier": "gemini",
+      "article": "VIDEO: Israeli attack on Gaza desalination plant"
     }
   ]
 }
