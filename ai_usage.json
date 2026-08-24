@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6281,
+  "total_calls": 6284,
   "tiers": {
     "groq": 6056,
-    "gemini": 225
+    "gemini": 228
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T06:52:41.934090+00:00",
-      "tier": "gemini",
-      "article": "Hormuz risks remain even if outcome of Iran-Oman talks successful, Russian diplomat says"
-    },
-    {
-      "timestamp": "2026-08-21T06:53:14.459432+00:00",
-      "tier": "gemini",
-      "article": "Russia conducts missile test near Kuril Islands after Japanese protest"
-    },
-    {
-      "timestamp": "2026-08-21T08:43:31.121299+00:00",
-      "tier": "gemini",
-      "article": "Mental Health Is a Warfighting Readiness Problem for the U.S. Navy"
-    },
     {
       "timestamp": "2026-08-21T08:43:54.463953+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-24T18:44:11.144620+00:00",
       "tier": "gemini",
       "article": "Russian MP condemns Kiev\u2019s strike on Krasnodar Region as 'PR built on blood'"
+    },
+    {
+      "timestamp": "2026-08-24T20:34:01.065610+00:00",
+      "tier": "gemini",
+      "article": "UN states 119% growth in casualties among civilians in Russia"
+    },
+    {
+      "timestamp": "2026-08-24T20:34:30.122655+00:00",
+      "tier": "gemini",
+      "article": "IRGC: Threats to Iran's infrastructure will draw heavy strikes on US vital interests"
+    },
+    {
+      "timestamp": "2026-08-24T20:34:57.607691+00:00",
+      "tier": "gemini",
+      "article": "Armenia\u2019s CSTO future, response to Kiev's strikes on targets in Russia: Kremlin\u2019s briefing"
     }
   ]
 }
