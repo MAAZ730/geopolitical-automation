@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6273,
+  "total_calls": 6275,
   "tiers": {
     "groq": 6056,
-    "gemini": 217
+    "gemini": 219
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T01:26:57.423518+00:00",
-      "tier": "gemini",
-      "article": "Zelensky calls Russian ballistic missiles 'main threat' to Ukrainian military industry"
-    },
-    {
-      "timestamp": "2026-08-21T01:27:30.124487+00:00",
-      "tier": "gemini",
-      "article": "Production of fuel for Ukrainian missiles in Denmark delayed until 2027"
-    },
     {
       "timestamp": "2026-08-21T03:07:01.477974+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-24T08:53:14.894525+00:00",
       "tier": "gemini",
       "article": "Iran blasts \u2018unacceptable interference\u2019 of 2 French diplomats"
+    },
+    {
+      "timestamp": "2026-08-24T10:40:16.196647+00:00",
+      "tier": "gemini",
+      "article": "US will strike Iran if Tehran responds to sanctions with military escalation \u2014 secretary"
+    },
+    {
+      "timestamp": "2026-08-24T10:40:49.909925+00:00",
+      "tier": "gemini",
+      "article": "IRGC surveillance surpasses US knowledge"
     }
   ]
 }
