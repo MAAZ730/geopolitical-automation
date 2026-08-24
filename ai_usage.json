@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6262,
+  "total_calls": 6264,
   "tiers": {
     "groq": 6056,
-    "gemini": 206
+    "gemini": 208
   },
   "log": [
-    {
-      "timestamp": "2026-08-20T14:39:54.447411+00:00",
-      "tier": "gemini",
-      "article": "Kiev never asked for air defense systems from EU, only strike weapons \u2014 EC"
-    },
-    {
-      "timestamp": "2026-08-20T14:40:23.259355+00:00",
-      "tier": "gemini",
-      "article": "Ukraine\u2019s air defense increasingly struggling to cope with Russian strikes \u2014 newspaper"
-    },
     {
       "timestamp": "2026-08-20T14:40:49.808995+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-24T01:27:19.646427+00:00",
       "tier": "gemini",
       "article": "Two clergymen injured after Ukrainian drone attack near church in Gorlovka"
+    },
+    {
+      "timestamp": "2026-08-24T03:06:05.526338+00:00",
+      "tier": "gemini",
+      "article": "US Navy has announced development of ultra-long-range air-to-air missile"
+    },
+    {
+      "timestamp": "2026-08-24T03:06:32.029705+00:00",
+      "tier": "gemini",
+      "article": "Palestinian teen killed in Israeli raid buried in Occupied West Bank"
     }
   ]
 }
