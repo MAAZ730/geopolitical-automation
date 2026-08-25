@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6287,
+  "total_calls": 6288,
   "tiers": {
     "groq": 6056,
-    "gemini": 231
+    "gemini": 232
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T10:33:27.634802+00:00",
-      "tier": "gemini",
-      "article": "Green Light for Assassinations: Gaza Death Toll Mounts as \u2018Israel\u2019 Defies Ceasefire - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-21T10:33:52.034037+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-24T22:30:42.692450+00:00",
       "tier": "gemini",
       "article": "Two civilians killed, nine wounded in Ukrainian drone attacks on LPR"
+    },
+    {
+      "timestamp": "2026-08-25T01:25:00.612250+00:00",
+      "tier": "gemini",
+      "article": "Iran to firmly respond to any enemy's aggression with might"
     }
   ]
 }
