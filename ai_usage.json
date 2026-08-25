@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6301,
+  "total_calls": 6305,
   "tiers": {
     "groq": 6056,
-    "gemini": 245
+    "gemini": 249
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T01:22:06.705602+00:00",
-      "tier": "gemini",
-      "article": "Several killed in Russia\u2019s \u2018double-tap\u2019 drone strike on Ukraine mall"
-    },
-    {
-      "timestamp": "2026-08-22T01:22:30.893090+00:00",
-      "tier": "gemini",
-      "article": "Israel strikes suspected radicals in security zone in southern Lebanon"
-    },
-    {
-      "timestamp": "2026-08-22T01:23:03.794062+00:00",
-      "tier": "gemini",
-      "article": "Israel re-establishes closed West Bank settlement, defying growing international protests"
-    },
-    {
-      "timestamp": "2026-08-22T02:56:58.542524+00:00",
-      "tier": "gemini",
-      "article": "Poland plans to deploy missiles with range of over 1,000 km in its east \u2014 defense ministry"
-    },
     {
       "timestamp": "2026-08-22T02:57:30.007219+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-25T08:47:26.478359+00:00",
       "tier": "gemini",
       "article": "Government has stood by Armed Forces with all its might"
+    },
+    {
+      "timestamp": "2026-08-25T10:36:20.953252+00:00",
+      "tier": "gemini",
+      "article": "UN calls for end to attacks on civilians after Ukrainian strike on Krasnodar Region"
+    },
+    {
+      "timestamp": "2026-08-25T10:36:46.402874+00:00",
+      "tier": "gemini",
+      "article": "Kremlin adviser warns UK drone factories could face attacks"
+    },
+    {
+      "timestamp": "2026-08-25T10:37:10.204565+00:00",
+      "tier": "gemini",
+      "article": "Ukrainian forces hunting for Zaporozhye NPP personnel \u2014 diplomat"
+    },
+    {
+      "timestamp": "2026-08-25T10:37:36.052439+00:00",
+      "tier": "gemini",
+      "article": "Sunni member of Basij volunteer force martyred in Zahedan"
     }
   ]
 }
