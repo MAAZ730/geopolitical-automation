@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6314,
+  "total_calls": 6315,
   "tiers": {
     "groq": 6056,
-    "gemini": 258
+    "gemini": 259
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T10:27:09.934924+00:00",
-      "tier": "gemini",
-      "article": "Ukraine says death toll from Russian drone strike in Kryvyi Rih rises to 16 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-22T10:27:32.735165+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-25T20:33:07.391403+00:00",
       "tier": "gemini",
       "article": "West no longer willing to allow Ukraine to strike civilians in Russia \u2014 senator"
+    },
+    {
+      "timestamp": "2026-08-25T22:30:57.729454+00:00",
+      "tier": "gemini",
+      "article": "Seven killed in Gaza as Israeli strike \u2018destroys\u2019 aid supply warehouse"
     }
   ]
 }
