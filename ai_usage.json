@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6309,
+  "total_calls": 6311,
   "tiers": {
     "groq": 6056,
-    "gemini": 253
+    "gemini": 255
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T06:44:17.975341+00:00",
-      "tier": "gemini",
-      "article": "Qalibaf calls for trade in national currencies"
-    },
-    {
-      "timestamp": "2026-08-22T08:33:46.796948+00:00",
-      "tier": "gemini",
-      "article": "Russian forces strike Darnitsa locomotive depot in Kiev \u2014 top brass"
-    },
     {
       "timestamp": "2026-08-22T08:34:45.184191+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-25T14:50:59.105659+00:00",
       "tier": "gemini",
       "article": "Thousands remain buried beneath Gaza rubble"
+    },
+    {
+      "timestamp": "2026-08-25T16:40:38.131114+00:00",
+      "tier": "gemini",
+      "article": "Nearly 20 seafarers killed while crossing Hormuz since Iran war started in February"
+    },
+    {
+      "timestamp": "2026-08-25T16:41:14.816880+00:00",
+      "tier": "gemini",
+      "article": "Zelensky says Ukraine getting more Patriot missiles, but needs more"
     }
   ]
 }
