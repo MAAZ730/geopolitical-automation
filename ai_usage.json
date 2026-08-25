@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6312,
+  "total_calls": 6314,
   "tiers": {
     "groq": 6056,
-    "gemini": 256
+    "gemini": 258
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T08:35:36.609037+00:00",
-      "tier": "gemini",
-      "article": "Driver mechanics of Yars missile systems undergo training on new simulators"
-    },
-    {
-      "timestamp": "2026-08-22T08:36:22.498755+00:00",
-      "tier": "gemini",
-      "article": "Ukrainian troops shot at Kharkov Region residents attempting to evacuate \u2014 administration"
-    },
     {
       "timestamp": "2026-08-22T10:27:09.934924+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-25T18:42:46.191706+00:00",
       "tier": "gemini",
       "article": "Yemen strikes Saudi oil tanker, warns Riyadh of \u2018graveyard and hell\u2019"
+    },
+    {
+      "timestamp": "2026-08-25T20:32:39.167800+00:00",
+      "tier": "gemini",
+      "article": "Israeli forces level border villages in escalating southern Lebanon campaign"
+    },
+    {
+      "timestamp": "2026-08-25T20:33:07.391403+00:00",
+      "tier": "gemini",
+      "article": "West no longer willing to allow Ukraine to strike civilians in Russia \u2014 senator"
     }
   ]
 }
