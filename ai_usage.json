@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6305,
+  "total_calls": 6306,
   "tiers": {
     "groq": 6056,
-    "gemini": 249
+    "gemini": 250
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T02:57:30.007219+00:00",
-      "tier": "gemini",
-      "article": "US Army to end experimental drone battalion in Europe"
-    },
     {
       "timestamp": "2026-08-22T04:35:48.115149+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-25T10:37:36.052439+00:00",
       "tier": "gemini",
       "article": "Sunni member of Basij volunteer force martyred in Zahedan"
+    },
+    {
+      "timestamp": "2026-08-25T12:52:32.939201+00:00",
+      "tier": "gemini",
+      "article": "Gaza Death Toll Mounts: 8 Martyred, 36 Wounded in Latest Israeli Strikes as Ceasefire Casualties Surpass 1,200 - Al-Manar TV Lebanon"
     }
   ]
 }
