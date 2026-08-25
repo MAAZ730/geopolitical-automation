@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6295,
+  "total_calls": 6297,
   "tiers": {
     "groq": 6056,
-    "gemini": 239
+    "gemini": 241
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T16:38:18.856956+00:00",
-      "tier": "gemini",
-      "article": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza"
-    },
-    {
-      "timestamp": "2026-08-21T16:39:01.300100+00:00",
-      "tier": "gemini",
-      "article": "Palestine and genocide: Redefining resilience"
-    },
     {
       "timestamp": "2026-08-21T18:40:16.602086+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-25T04:44:01.404479+00:00",
       "tier": "gemini",
       "article": "Singapore launches data center powered by living human neurons, NUS Medicine says"
+    },
+    {
+      "timestamp": "2026-08-25T06:53:16.257861+00:00",
+      "tier": "gemini",
+      "article": "US fears Kiev to leak Patriot system tech to third countries \u2014 expert"
+    },
+    {
+      "timestamp": "2026-08-25T06:53:47.138956+00:00",
+      "tier": "gemini",
+      "article": "Greatest financial offensive admission of defeat, not victory"
     }
   ]
 }
