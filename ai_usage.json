@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6297,
+  "total_calls": 6301,
   "tiers": {
     "groq": 6056,
-    "gemini": 241
+    "gemini": 245
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T18:40:16.602086+00:00",
-      "tier": "gemini",
-      "article": "Is Israel trying to start a proxy war in Syria?"
-    },
-    {
-      "timestamp": "2026-08-21T20:29:03.689708+00:00",
-      "tier": "gemini",
-      "article": "Drone strike on Ukraine shopping centre kills 14, over 100 injured"
-    },
-    {
-      "timestamp": "2026-08-21T20:29:24.989049+00:00",
-      "tier": "gemini",
-      "article": "Yemeni drones strike Aramco oil facilities, Najran airport"
-    },
-    {
-      "timestamp": "2026-08-21T22:28:10.582287+00:00",
-      "tier": "gemini",
-      "article": "\u2018Shameful\u2019: Western allies slam Israel ending probe on aid worker killings"
-    },
     {
       "timestamp": "2026-08-22T01:22:06.705602+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-25T06:53:47.138956+00:00",
       "tier": "gemini",
       "article": "Greatest financial offensive admission of defeat, not victory"
+    },
+    {
+      "timestamp": "2026-08-25T08:46:09.387350+00:00",
+      "tier": "gemini",
+      "article": "3 killed, 3 injured in Russia-Ukraine overnight strikes - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-25T08:46:31.713161+00:00",
+      "tier": "gemini",
+      "article": "FACTBOX: Two deaths, fire at oil refinery in southern Russia, aftermath of Kiev\u2019s strike"
+    },
+    {
+      "timestamp": "2026-08-25T08:46:56.463568+00:00",
+      "tier": "gemini",
+      "article": "West Bank : Overnight Raids, Arrests, and Settler Violence Escalate Across Palestinian Territories - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-25T08:47:26.478359+00:00",
+      "tier": "gemini",
+      "article": "Government has stood by Armed Forces with all its might"
     }
   ]
 }
