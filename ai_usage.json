@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6291,
+  "total_calls": 6295,
   "tiers": {
     "groq": 6056,
-    "gemini": 235
+    "gemini": 239
   },
   "log": [
-    {
-      "timestamp": "2026-08-21T12:53:45.020019+00:00",
-      "tier": "gemini",
-      "article": "Ukrainian strikes kill one, injure eight civilians in Lugansk People\u2019s Republic"
-    },
-    {
-      "timestamp": "2026-08-21T12:54:19.728295+00:00",
-      "tier": "gemini",
-      "article": "Iran's military power altered strategic equation"
-    },
-    {
-      "timestamp": "2026-08-21T14:38:17.798881+00:00",
-      "tier": "gemini",
-      "article": "More Israeli Attacks on South Lebanon Reported - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-21T14:38:46.311479+00:00",
-      "tier": "gemini",
-      "article": "Russian troops liberate 11 communities in Ukraine operation over week \u2014 top brass"
-    },
     {
       "timestamp": "2026-08-21T16:38:18.856956+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-25T03:03:57.331733+00:00",
       "tier": "gemini",
       "article": "Iran says opposing Zionist regime\u2019s occupation is principled policy"
+    },
+    {
+      "timestamp": "2026-08-25T04:42:45.484939+00:00",
+      "tier": "gemini",
+      "article": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons"
+    },
+    {
+      "timestamp": "2026-08-25T04:43:10.307030+00:00",
+      "tier": "gemini",
+      "article": "Italy eyes US tech for souping up dumb missiles into drone interceptors"
+    },
+    {
+      "timestamp": "2026-08-25T04:43:33.606840+00:00",
+      "tier": "gemini",
+      "article": "Ukraine requests Patriot missiles from South Korea \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-25T04:44:01.404479+00:00",
+      "tier": "gemini",
+      "article": "Singapore launches data center powered by living human neurons, NUS Medicine says"
     }
   ]
 }
