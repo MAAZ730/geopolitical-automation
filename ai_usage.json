@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6311,
+  "total_calls": 6312,
   "tiers": {
     "groq": 6056,
-    "gemini": 255
+    "gemini": 256
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T08:34:45.184191+00:00",
-      "tier": "gemini",
-      "article": "Four injured in drone attack on Ozon logistics center in Russia\u2019s Samara region"
-    },
     {
       "timestamp": "2026-08-22T08:35:36.609037+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-25T16:41:14.816880+00:00",
       "tier": "gemini",
       "article": "Zelensky says Ukraine getting more Patriot missiles, but needs more"
+    },
+    {
+      "timestamp": "2026-08-25T18:42:46.191706+00:00",
+      "tier": "gemini",
+      "article": "Yemen strikes Saudi oil tanker, warns Riyadh of \u2018graveyard and hell\u2019"
     }
   ]
 }
