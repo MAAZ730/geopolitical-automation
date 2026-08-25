@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6306,
+  "total_calls": 6309,
   "tiers": {
     "groq": 6056,
-    "gemini": 250
+    "gemini": 253
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T04:35:48.115149+00:00",
-      "tier": "gemini",
-      "article": "Civilian killed in Ukrainian drone explosion in Belgorod Region"
-    },
-    {
-      "timestamp": "2026-08-22T04:36:21.610211+00:00",
-      "tier": "gemini",
-      "article": "Three civilians killed in Ukrainian drone attacks on DPR during day"
-    },
-    {
-      "timestamp": "2026-08-22T06:43:40.679567+00:00",
-      "tier": "gemini",
-      "article": "At least 4,348 killed by Israeli regime in Lebanon"
-    },
     {
       "timestamp": "2026-08-22T06:44:17.975341+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-25T12:52:32.939201+00:00",
       "tier": "gemini",
       "article": "Gaza Death Toll Mounts: 8 Martyred, 36 Wounded in Latest Israeli Strikes as Ceasefire Casualties Surpass 1,200 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-25T14:50:10.033168+00:00",
+      "tier": "gemini",
+      "article": "Israeli attacks kill five in Gaza, including two children, medics say"
+    },
+    {
+      "timestamp": "2026-08-25T14:50:33.396679+00:00",
+      "tier": "gemini",
+      "article": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes"
+    },
+    {
+      "timestamp": "2026-08-25T14:50:59.105659+00:00",
+      "tier": "gemini",
+      "article": "Thousands remain buried beneath Gaza rubble"
     }
   ]
 }
