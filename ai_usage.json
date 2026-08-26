@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6315,
+  "total_calls": 6316,
   "tiers": {
     "groq": 6056,
-    "gemini": 259
+    "gemini": 260
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T10:27:32.735165+00:00",
-      "tier": "gemini",
-      "article": "IRGC chief: Enemies will never stop plotting against Iranian nation"
-    },
     {
       "timestamp": "2026-08-22T10:27:59.123270+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-25T22:30:57.729454+00:00",
       "tier": "gemini",
       "article": "Seven killed in Gaza as Israeli strike \u2018destroys\u2019 aid supply warehouse"
+    },
+    {
+      "timestamp": "2026-08-26T01:26:57.082537+00:00",
+      "tier": "gemini",
+      "article": "Death toll from Israeli attacks on Lebanon reaches 4,350 \u2014 health ministry"
     }
   ]
 }
