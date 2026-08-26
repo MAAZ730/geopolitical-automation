@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6322,
+  "total_calls": 6323,
   "tiers": {
     "groq": 6056,
-    "gemini": 266
+    "gemini": 267
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T14:25:31.546251+00:00",
-      "tier": "gemini",
-      "article": "Russia conducting 'surgical operation' in Ukraine to avoid harming civilians \u2014 TASS chief"
-    },
     {
       "timestamp": "2026-08-22T14:25:55.538547+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-26T04:43:42.139111+00:00",
       "tier": "gemini",
       "article": "Iran-Pakistan port roadmap to be compiled in Tehran: PMO"
+    },
+    {
+      "timestamp": "2026-08-26T06:54:28.693696+00:00",
+      "tier": "gemini",
+      "article": "Russia\u2019s \u2018Amazon\u2019 Wildberries comes under Ukraine attack again"
     }
   ]
 }
