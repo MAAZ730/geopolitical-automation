@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6319,
+  "total_calls": 6322,
   "tiers": {
     "groq": 6056,
-    "gemini": 263
+    "gemini": 266
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T12:44:28.241351+00:00",
-      "tier": "gemini",
-      "article": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack"
-    },
-    {
-      "timestamp": "2026-08-22T14:24:41.582295+00:00",
-      "tier": "gemini",
-      "article": "Russian forces strike Ukrainian military airfield, energy facilities over past day"
-    },
-    {
-      "timestamp": "2026-08-22T14:25:07.105222+00:00",
-      "tier": "gemini",
-      "article": "Mehdi Taremi Joins Al Wasl"
-    },
     {
       "timestamp": "2026-08-22T14:25:31.546251+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-26T03:10:49.063874+00:00",
       "tier": "gemini",
       "article": "Qatar Reaffirms Diplomatic Push, Criticizes US Sanctions on Iran - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-26T04:42:46.425928+00:00",
+      "tier": "gemini",
+      "article": "One civilian killed, eight others injured in Ukrainian attacks on DPR during past day"
+    },
+    {
+      "timestamp": "2026-08-26T04:43:10.649710+00:00",
+      "tier": "gemini",
+      "article": "Employee injured in fire at Wildberries logistics center outside Tambov after drone attack"
+    },
+    {
+      "timestamp": "2026-08-26T04:43:42.139111+00:00",
+      "tier": "gemini",
+      "article": "Iran-Pakistan port roadmap to be compiled in Tehran: PMO"
     }
   ]
 }
