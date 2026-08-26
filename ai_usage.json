@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6339,
+  "total_calls": 6342,
   "tiers": {
     "groq": 6056,
-    "gemini": 283
+    "gemini": 286
   },
   "log": [
-    {
-      "timestamp": "2026-08-23T06:45:22.047133+00:00",
-      "tier": "gemini",
-      "article": "Russian military keeps attaining special op\u2019s goals, accelerate offensive \u2014 Putin"
-    },
-    {
-      "timestamp": "2026-08-23T06:45:52.978425+00:00",
-      "tier": "gemini",
-      "article": "Air defense system repels attack by six drones flying towards Moscow \u2014 mayor"
-    },
-    {
-      "timestamp": "2026-08-23T08:34:29.023494+00:00",
-      "tier": "gemini",
-      "article": "Gaza: One Palestinian martyred, several others injured in an Israeli drone strike targeting a group of civilians near the entrance to the Maghazi refugee camp - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-23T08:34:56.180784+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-26T19:51:13.890535+00:00",
       "tier": "gemini",
       "article": "Erdogan says Turkey won\u2019t abandon Syria or let Israel draw \u2018red lines\u2019"
+    },
+    {
+      "timestamp": "2026-08-26T22:53:55.687143+00:00",
+      "tier": "gemini",
+      "article": "Ukraine attacks Donetsk with Anglo-French Storm Shadow/SCALP-EG cruise missiles"
+    },
+    {
+      "timestamp": "2026-08-26T22:54:20.425216+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-26T22:54:48.993939+00:00",
+      "tier": "gemini",
+      "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
     }
   ]
 }
