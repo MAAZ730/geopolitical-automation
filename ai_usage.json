@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6316,
+  "total_calls": 6319,
   "tiers": {
     "groq": 6056,
-    "gemini": 260
+    "gemini": 263
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T10:27:59.123270+00:00",
-      "tier": "gemini",
-      "article": "No clause in Islamabad MoU signals Iran's surrender"
-    },
-    {
-      "timestamp": "2026-08-22T10:28:34.211478+00:00",
-      "tier": "gemini",
-      "article": "Iran\u2019s top generals warn of \u2018devastating\u2019 response to any threat"
-    },
-    {
-      "timestamp": "2026-08-22T12:43:55.033778+00:00",
-      "tier": "gemini",
-      "article": "One Injured in Israeli Strike on Southern Syria - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-22T12:44:28.241351+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-26T01:26:57.082537+00:00",
       "tier": "gemini",
       "article": "Death toll from Israeli attacks on Lebanon reaches 4,350 \u2014 health ministry"
+    },
+    {
+      "timestamp": "2026-08-26T03:09:09.144734+00:00",
+      "tier": "gemini",
+      "article": "Economy minister responds to new US sanctions: Offensive economic strategy prepared"
+    },
+    {
+      "timestamp": "2026-08-26T03:10:23.600481+00:00",
+      "tier": "gemini",
+      "article": "Saudi Arabia, France push for diplomatic Iran deal"
+    },
+    {
+      "timestamp": "2026-08-26T03:10:49.063874+00:00",
+      "tier": "gemini",
+      "article": "Qatar Reaffirms Diplomatic Push, Criticizes US Sanctions on Iran - Al-Manar TV Lebanon"
     }
   ]
 }
