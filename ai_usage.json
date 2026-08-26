@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6327,
+  "total_calls": 6331,
   "tiers": {
     "groq": 6056,
-    "gemini": 271
+    "gemini": 275
   },
   "log": [
-    {
-      "timestamp": "2026-08-22T18:35:06.699501+00:00",
-      "tier": "gemini",
-      "article": "Russia\u2019s Iskander missiles destroy up to 40 trucks modified for UAV launches near Kiev"
-    },
-    {
-      "timestamp": "2026-08-22T18:36:32.873595+00:00",
-      "tier": "gemini",
-      "article": "IEA chief compares situation surrounding Strait of Hormuz to broken vase"
-    },
-    {
-      "timestamp": "2026-08-22T20:26:15.067124+00:00",
-      "tier": "gemini",
-      "article": "Two killed, five wounded as drone fragments hit passenger bus in Crimea"
-    },
-    {
-      "timestamp": "2026-08-22T20:26:54.248214+00:00",
-      "tier": "gemini",
-      "article": "Iran's defense surges as US war machine crumbles"
-    },
     {
       "timestamp": "2026-08-22T22:25:12.228886+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-26T08:50:42.741067+00:00",
       "tier": "gemini",
       "article": "Pakistani Army chief\u2019s Tehran talks highly constructive: Pakistan\u2019s Army"
+    },
+    {
+      "timestamp": "2026-08-26T10:38:08.419091+00:00",
+      "tier": "gemini",
+      "article": "Iran\u2019s strikes caused billions in damage to US intel. sites"
+    },
+    {
+      "timestamp": "2026-08-26T10:38:34.472218+00:00",
+      "tier": "gemini",
+      "article": "Malva howitzer shells strike targets simultaneously along different trajectories \u2014 Rostec"
+    },
+    {
+      "timestamp": "2026-08-26T10:38:59.265478+00:00",
+      "tier": "gemini",
+      "article": "In photos: Reconstruction of Hormozgan\u2019s war-damaged bridges"
+    },
+    {
+      "timestamp": "2026-08-26T10:39:34.971276+00:00",
+      "tier": "gemini",
+      "article": "What broke Russia-Japan relations \u2013 and what South Korea should learn"
     }
   ]
 }
