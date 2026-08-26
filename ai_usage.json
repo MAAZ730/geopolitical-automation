@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6333,
+  "total_calls": 6336,
   "tiers": {
     "groq": 6056,
-    "gemini": 277
+    "gemini": 280
   },
   "log": [
-    {
-      "timestamp": "2026-08-23T01:34:13.593450+00:00",
-      "tier": "gemini",
-      "article": "Israeli strikes kill two and injure others as Gaza attacks continue"
-    },
-    {
-      "timestamp": "2026-08-23T01:34:38.360032+00:00",
-      "tier": "gemini",
-      "article": "IN BRIEF: Putin comments on Kiev\u2019s provocative moves and Russia\u2019s retaliatory strikes"
-    },
-    {
-      "timestamp": "2026-08-23T01:35:05.666157+00:00",
-      "tier": "gemini",
-      "article": "Israel escalates strikes and ground raids across Syria"
-    },
     {
       "timestamp": "2026-08-23T03:05:49.394278+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-26T12:59:20.209567+00:00",
       "tier": "gemini",
       "article": "Why India is sharing missile secrets with its private sector"
+    },
+    {
+      "timestamp": "2026-08-26T14:48:47.010321+00:00",
+      "tier": "gemini",
+      "article": "Western media demands answers from Israel for killing five journalists at Gaza hospital"
+    },
+    {
+      "timestamp": "2026-08-26T14:49:10.888316+00:00",
+      "tier": "gemini",
+      "article": "Italy, France agree to supply four Samp-T air defense systems to Ukraine \u2014 newspaper"
+    },
+    {
+      "timestamp": "2026-08-26T14:49:36.330675+00:00",
+      "tier": "gemini",
+      "article": "Baltic Fleet ships practice repelling air strikes in naval exercise near Kaliningrad"
     }
   ]
 }
