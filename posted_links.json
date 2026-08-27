@@ -1,4 +1,39 @@
 {
+  "db907285dea31e170259d9380bd83d11160c99cb4cb014c5f8dbf242dd74474c": {
+    "url": "QudsNen/236761",
+    "title": "Israeli Artillery Targets Southern Lebanon's Mayfadoun Outskirts",
+    "published": "2026-08-27T08:19:00.291699+00:00"
+  },
+  "f6d1216689d197f88fedb1fcbd80aab2e76d3264c9012c60bae744b7e857477c": {
+    "url": "QudsNen/236764",
+    "title": "Israeli Artillery Strikes Southern Lebanese Town of Al-Mansouri",
+    "published": "2026-08-27T08:18:35.344752+00:00"
+  },
+  "f7d7b14bfb2fcdc9cb3cb5c87f66f28c8bab9d7138a511c0b34f8e8412d02a25": {
+    "url": "QudsNen/236771",
+    "title": "IDF Artillery Strikes Wadi al-Hujeir in Southern Lebanon",
+    "published": "2026-08-27T08:17:39.139032+00:00"
+  },
+  "ac98836b1c742561985e87f0b4675e0c088d19fdd6e6ad28cd6d80ff62462794": {
+    "url": "QudsNen/236773",
+    "title": "Israeli Airstrikes Target Al-Shati\u2019 Refugee Camp in Western Gaza City",
+    "published": "2026-08-27T08:16:53.949706+00:00"
+  },
+  "9aca3decc15d751061e5821c80c32cd244c555e1a9612a038e13bd6714f3ad6b": {
+    "url": "QudsNen/236774",
+    "title": "Israeli Shelling Strikes Mays al-Jabal Outskirts",
+    "published": "2026-08-27T08:16:18.421807+00:00"
+  },
+  "f002dae355ed88e8985e86c48634d76f54ef7e2eec9fb30c53b93725a9e5d14d": {
+    "url": "QudsNen/236778",
+    "title": "Israeli Authorities Detain Palestinian Jerusalem Affairs Minister in Silwan",
+    "published": "2026-08-27T08:16:10.935749+00:00"
+  },
+  "005f55f02d876ca2bd204c1ebb8fa42b3e8565fcaeae6e7481d65dcfce47b087": {
+    "url": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy?traffic_source=rss",
+    "title": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy",
+    "published": "2026-08-27T04:25:44+00:00"
+  },
   "b9d243b742a6fe20a41d9487358d8b73f0aea6161b7ab145683c0fa13d85cdbf": {
     "url": "presstv/204288",
     "title": "Yemeni forces launch a missile attack on Saudi-backed forces in al-Mokha.@PressT",
@@ -713,40 +748,5 @@
     "url": "presstv/204092",
     "title": "Iran's Pezeshkian Warns US Against Coercion During Pakistan Military Dialogue",
     "published": "2026-08-25T09:02:18.936145+00:00"
-  },
-  "b3d9192b794f3a1c2d320fe53c600231c4dfb2cd392ac998e32400bb0c0f24cd": {
-    "url": "presstv/204094",
-    "title": "Iran Minister Minimizes Impact of New U.S. Sanctions, Cites Counter-Plan",
-    "published": "2026-08-25T08:59:28.915530+00:00"
-  },
-  "c8f4c9363c5f035a93315153a277956c5f0ffba91ea7e77405cb0a96f9fa30f2": {
-    "url": "https://tass.com/world/2177321",
-    "title": "UN calls for end to attacks on civilians after Ukrainian strike on Krasnodar Region",
-    "published": "2026-08-25T08:53:04+00:00"
-  },
-  "d47731df0aa283658942e545118e97f25162b645c64a04f0177a25a5df2af388": {
-    "url": "QudsNen/236545",
-    "title": "Gaza Child Destroys Kites Amidst Israeli Escalation Threats Over Border Incidents",
-    "published": "2026-08-25T08:50:16.015835+00:00"
-  },
-  "0aff3202bc2b3367e12cd8cdbb20690e322e83d9d24e79981f4801ac00ee912f": {
-    "url": "https://en.irna.ir/news/86245312/Pakistani-Army-chief-s-Tehran-talks-highly-constructive-Pakistan-s",
-    "title": "Pakistani Army chief\u2019s Tehran talks highly constructive: Pakistan\u2019s Army",
-    "published": "2026-08-25T08:49:36+00:00"
-  },
-  "71b78017593d3e4de5bb865cb2811968f50f11ded638c7e513fa7b75707a6403": {
-    "url": "thecradlemedia/66760",
-    "title": "Pakistan Cites 'Significant Progress' in US-Iran Talks After Army Chief's Tehran Visit",
-    "published": "2026-08-25T08:47:47.896086+00:00"
-  },
-  "eb965f9fe8d675d4906641009217c42e71ce59e87789f552e36126a0c80344b1": {
-    "url": "thecradlemedia/66761",
-    "title": "Philippines Unveils Major Drone and Naval Expansion Amid South China Sea Tensions",
-    "published": "2026-08-25T08:47:38.661922+00:00"
-  },
-  "2549420bfbd1c4d9879f5643efc0b7a4ba181e17014fddd881ad5d7b5bd2e7d5": {
-    "url": "https://en.mehrnews.com/news/247225/Iran-Pakistan-port-roadmap-to-be-compiled-in-Tehran-PMO",
-    "title": "Iran-Pakistan port roadmap to be compiled in Tehran: PMO",
-    "published": "2026-08-25T08:32:37+00:00"
   }
 }

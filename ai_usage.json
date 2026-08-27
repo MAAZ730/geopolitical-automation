@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6342,
+  "total_calls": 6346,
   "tiers": {
     "groq": 6056,
-    "gemini": 286
+    "gemini": 290
   },
   "log": [
-    {
-      "timestamp": "2026-08-23T08:34:56.180784+00:00",
-      "tier": "gemini",
-      "article": "Global map of power is currently changing: Basij chief"
-    },
-    {
-      "timestamp": "2026-08-23T08:35:28.635655+00:00",
-      "tier": "gemini",
-      "article": "Why is this end of the line for Trump in Iran war?"
-    },
-    {
-      "timestamp": "2026-08-23T08:35:52.857932+00:00",
-      "tier": "gemini",
-      "article": "General Talaei-Nik: Sanctions turned into opportunity for localization, leap in Iran\u2019s defense industry"
-    },
-    {
-      "timestamp": "2026-08-23T10:27:37.626630+00:00",
-      "tier": "gemini",
-      "article": "Israeli air strike near Gaza refugee camp kills one person and injures two"
-    },
     {
       "timestamp": "2026-08-23T10:28:00.334021+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-08-26T22:54:48.993939+00:00",
       "tier": "gemini",
       "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
+    },
+    {
+      "timestamp": "2026-08-27T08:14:30.380134+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-27T08:15:01.095894+00:00",
+      "tier": "gemini",
+      "article": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy"
+    },
+    {
+      "timestamp": "2026-08-27T08:15:28.102129+00:00",
+      "tier": "gemini",
+      "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
+    },
+    {
+      "timestamp": "2026-08-27T08:15:57.136541+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
