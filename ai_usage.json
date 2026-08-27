@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6346,
+  "total_calls": 6350,
   "tiers": {
     "groq": 6056,
-    "gemini": 290
+    "gemini": 294
   },
   "log": [
-    {
-      "timestamp": "2026-08-23T10:28:00.334021+00:00",
-      "tier": "gemini",
-      "article": "West Bank: Settler injured in Stabbing Incident in the Jordan Valley - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-23T10:28:27.147794+00:00",
-      "tier": "gemini",
-      "article": "DR Congo, M23 rebels agree on roadmap for peace talks"
-    },
-    {
-      "timestamp": "2026-08-23T10:28:49.052884+00:00",
-      "tier": "gemini",
-      "article": "Moscow region targeted with more than 2,500 enemy drones over past week \u2014 mayor"
-    },
-    {
-      "timestamp": "2026-08-23T12:45:00.371785+00:00",
-      "tier": "gemini",
-      "article": "Russian troops hit Ukrainian army\u2019s energy, transport infrastructure sites in past day"
-    },
     {
       "timestamp": "2026-08-23T12:45:24.679410+00:00",
       "tier": "gemini",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-08-27T08:15:57.136541+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-27T20:13:13.010691+00:00",
+      "tier": "gemini",
+      "article": "Six months after US strike on Iran school, parents still grieve"
+    },
+    {
+      "timestamp": "2026-08-27T20:13:39.295158+00:00",
+      "tier": "gemini",
+      "article": "Three killed in strikes on Gaza as Israel renews threats over kite-flying"
+    },
+    {
+      "timestamp": "2026-08-27T20:14:03.206330+00:00",
+      "tier": "gemini",
+      "article": "Russian UN envoy urges Israel to halt military adventurism"
+    },
+    {
+      "timestamp": "2026-08-27T20:14:31.239661+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
