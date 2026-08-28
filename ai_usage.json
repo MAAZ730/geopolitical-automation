@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6350,
+  "total_calls": 6354,
   "tiers": {
     "groq": 6056,
-    "gemini": 294
+    "gemini": 298
   },
   "log": [
-    {
-      "timestamp": "2026-08-23T12:45:24.679410+00:00",
-      "tier": "gemini",
-      "article": "\u2018Attacked\u2019 by Trump on Trade, Canada Is \u2018at War\u2019 With U.S., Prime Minister Says - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-23T14:26:54.491547+00:00",
-      "tier": "gemini",
-      "article": "Financial Times: Iranian Strikes Drive Washington to Reconsider Gulf Basing Rules - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-23T14:27:33.695241+00:00",
-      "tier": "gemini",
-      "article": "America cannot turn a failed policy into a winning card"
-    },
-    {
-      "timestamp": "2026-08-23T16:29:32.133726+00:00",
-      "tier": "gemini",
-      "article": "Heavy Israeli air strike hits warehouse in central Gaza"
-    },
     {
       "timestamp": "2026-08-23T16:29:56.139963+00:00",
       "tier": "gemini",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-08-27T20:14:31.239661+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-28T18:35:42.249779+00:00",
+      "tier": "gemini",
+      "article": "IN BRIEF: Damaged house in Sevastopol, supermarket in Moscow Region, 512 UAV attacks"
+    },
+    {
+      "timestamp": "2026-08-28T18:36:06.635481+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-28T18:36:32.732577+00:00",
+      "tier": "gemini",
+      "article": "Israeli strike kills three Palestinians in West Bank\u2019s Jenin"
+    },
+    {
+      "timestamp": "2026-08-28T18:37:04.272307+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
