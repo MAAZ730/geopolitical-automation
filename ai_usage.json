@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6355,
+  "total_calls": 6358,
   "tiers": {
     "groq": 6056,
-    "gemini": 299
+    "gemini": 302
   },
   "log": [
-    {
-      "timestamp": "2026-08-23T18:33:34.912977+00:00",
-      "tier": "gemini",
-      "article": "US-Israeli strikes hit medical and nuclear facilities, Iran nuclear chief says\u00a0"
-    },
-    {
-      "timestamp": "2026-08-23T18:34:05.952413+00:00",
-      "tier": "gemini",
-      "article": "Iran shifts to offensive posture"
-    },
-    {
-      "timestamp": "2026-08-23T20:26:37.256410+00:00",
-      "tier": "gemini",
-      "article": "Turkish sailor survives drone strike only to be killed after rescue ship is hit \u2013 media"
-    },
     {
       "timestamp": "2026-08-23T20:27:02.582482+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-08-29T02:46:28.421597+00:00",
       "tier": "gemini",
       "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-29T10:55:55.232383+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-29T10:56:18.818783+00:00",
+      "tier": "gemini",
+      "article": "Iran\u2019s enemy failed to achieve its objectives: Army commander"
+    },
+    {
+      "timestamp": "2026-08-29T10:57:02.243880+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
