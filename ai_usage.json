@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6354,
+  "total_calls": 6355,
   "tiers": {
     "groq": 6056,
-    "gemini": 298
+    "gemini": 299
   },
   "log": [
-    {
-      "timestamp": "2026-08-23T16:29:56.139963+00:00",
-      "tier": "gemini",
-      "article": "Death toll from Israel\u2019s genocidal war on Gaza rises"
-    },
     {
       "timestamp": "2026-08-23T18:33:34.912977+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-28T18:37:04.272307+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-29T02:46:28.421597+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
     }
   ]
 }
