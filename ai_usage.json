@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6362,
+  "total_calls": 6364,
   "tiers": {
     "groq": 6056,
-    "gemini": 306
+    "gemini": 308
   },
   "log": [
-    {
-      "timestamp": "2026-08-24T03:06:05.526338+00:00",
-      "tier": "gemini",
-      "article": "US Navy has announced development of ultra-long-range air-to-air missile"
-    },
-    {
-      "timestamp": "2026-08-24T03:06:32.029705+00:00",
-      "tier": "gemini",
-      "article": "Palestinian teen killed in Israeli raid buried in Occupied West Bank"
-    },
     {
       "timestamp": "2026-08-24T04:48:53.532482+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-29T16:27:09.595779+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-29T20:39:03.923121+00:00",
+      "tier": "gemini",
+      "article": "Russian strike on a munitions depot triggers deadly blasts near Kyiv"
+    },
+    {
+      "timestamp": "2026-08-29T20:39:41.507750+00:00",
+      "tier": "gemini",
+      "article": "Regional Kung Fu competitions in Tabriz"
     }
   ]
 }
