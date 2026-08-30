@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6364,
+  "total_calls": 6366,
   "tiers": {
     "groq": 6056,
-    "gemini": 308
+    "gemini": 310
   },
   "log": [
-    {
-      "timestamp": "2026-08-24T04:48:53.532482+00:00",
-      "tier": "gemini",
-      "article": "Saudi Arabia strikes northern Yemen villages"
-    },
-    {
-      "timestamp": "2026-08-24T04:49:28.255874+00:00",
-      "tier": "gemini",
-      "article": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions"
-    },
     {
       "timestamp": "2026-08-24T07:03:58.535285+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-29T20:39:41.507750+00:00",
       "tier": "gemini",
       "article": "Regional Kung Fu competitions in Tabriz"
+    },
+    {
+      "timestamp": "2026-08-29T23:58:01.417952+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-29T23:58:26.421106+00:00",
+      "tier": "gemini",
+      "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
     }
   ]
 }
