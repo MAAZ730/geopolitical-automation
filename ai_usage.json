@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6368,
+  "total_calls": 6372,
   "tiers": {
     "groq": 6056,
-    "gemini": 312
+    "gemini": 316
   },
   "log": [
-    {
-      "timestamp": "2026-08-24T07:04:58.154859+00:00",
-      "tier": "gemini",
-      "article": "NATO, EU to be unable to talk their way out publicly from assisting Ukraine \u2014 Lavrov"
-    },
-    {
-      "timestamp": "2026-08-24T08:51:57.661049+00:00",
-      "tier": "gemini",
-      "article": "Israeli Enemy Intensifies Attacks on Southern Lebanon, Caries Out Airstrikes and Demolitions - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-24T08:52:23.514287+00:00",
-      "tier": "gemini",
-      "article": "FACTBOX: Aftermath of Ukrainian drone attack on Russia, three kids killed in Krasnodar"
-    },
-    {
-      "timestamp": "2026-08-24T08:52:48.683229+00:00",
-      "tier": "gemini",
-      "article": "IN BRIEF: Russian forces strike fuel tanker, ports used in Ukrainian army\u2019s supplies"
-    },
     {
       "timestamp": "2026-08-24T08:53:14.894525+00:00",
       "tier": "gemini",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-08-30T04:59:28.978091+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-30T11:31:29.359778+00:00",
+      "tier": "gemini",
+      "article": "Russia readies to strike Ukraine\u2019s energy sites to retaliate attacks on its infrastructure"
+    },
+    {
+      "timestamp": "2026-08-30T11:32:06.389560+00:00",
+      "tier": "gemini",
+      "article": "Mapping Iran war\u2019s strikes on Gulf energy and its impact on future of oil"
+    },
+    {
+      "timestamp": "2026-08-30T11:32:33.998554+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-30T11:33:51.872739+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
