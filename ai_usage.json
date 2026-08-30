@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6372,
+  "total_calls": 6376,
   "tiers": {
     "groq": 6056,
-    "gemini": 316
+    "gemini": 320
   },
   "log": [
-    {
-      "timestamp": "2026-08-24T08:53:14.894525+00:00",
-      "tier": "gemini",
-      "article": "Iran blasts \u2018unacceptable interference\u2019 of 2 French diplomats"
-    },
-    {
-      "timestamp": "2026-08-24T10:40:16.196647+00:00",
-      "tier": "gemini",
-      "article": "US will strike Iran if Tehran responds to sanctions with military escalation \u2014 secretary"
-    },
-    {
-      "timestamp": "2026-08-24T10:40:49.909925+00:00",
-      "tier": "gemini",
-      "article": "IRGC surveillance surpasses US knowledge"
-    },
-    {
-      "timestamp": "2026-08-24T12:55:18.512684+00:00",
-      "tier": "gemini",
-      "article": "What we know about Ukrainian drone attack on Krasnodar Region, three children killed"
-    },
     {
       "timestamp": "2026-08-24T14:45:35.968867+00:00",
       "tier": "gemini",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-08-30T11:33:51.872739+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-30T16:19:34.555181+00:00",
+      "tier": "gemini",
+      "article": "\u201cFrom Nabatieh to Mansouri: Israel\u2019s Artillery and Warplanes Pound Southern Lebanon\u201d - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-08-30T16:20:05.836433+00:00",
+      "tier": "gemini",
+      "article": "Six months on, what did the strikes on Iran achieve?"
+    },
+    {
+      "timestamp": "2026-08-30T16:20:31.157794+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-30T16:21:00.826260+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
