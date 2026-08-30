@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6366,
+  "total_calls": 6368,
   "tiers": {
     "groq": 6056,
-    "gemini": 310
+    "gemini": 312
   },
   "log": [
-    {
-      "timestamp": "2026-08-24T07:03:58.535285+00:00",
-      "tier": "gemini",
-      "article": "Israeli airstrikes, artillery fire hit southern Lebanon"
-    },
-    {
-      "timestamp": "2026-08-24T07:04:25.466661+00:00",
-      "tier": "gemini",
-      "article": "UK to give Ukraine classified data for long-range missiles"
-    },
     {
       "timestamp": "2026-08-24T07:04:58.154859+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-08-29T23:58:26.421106+00:00",
       "tier": "gemini",
       "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
+    },
+    {
+      "timestamp": "2026-08-30T04:58:54.082843+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-30T04:59:28.978091+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
