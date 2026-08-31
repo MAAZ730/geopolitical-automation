@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6378,
+  "total_calls": 6379,
   "tiers": {
     "groq": 6056,
-    "gemini": 322
+    "gemini": 323
   },
   "log": [
-    {
-      "timestamp": "2026-08-24T16:41:38.182964+00:00",
-      "tier": "gemini",
-      "article": "Ukrainian air force complains of missile shortage"
-    },
     {
       "timestamp": "2026-08-24T18:43:48.760866+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-30T20:46:28.047591+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-31T00:17:22.994046+00:00",
+      "tier": "gemini",
+      "article": "US strikes Iran for first time in a month"
     }
   ]
 }
