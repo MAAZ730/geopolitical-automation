@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6383,
+  "total_calls": 6387,
   "tiers": {
     "groq": 6056,
-    "gemini": 327
+    "gemini": 331
   },
   "log": [
-    {
-      "timestamp": "2026-08-24T20:34:57.607691+00:00",
-      "tier": "gemini",
-      "article": "Armenia\u2019s CSTO future, response to Kiev's strikes on targets in Russia: Kremlin\u2019s briefing"
-    },
-    {
-      "timestamp": "2026-08-24T22:29:52.676340+00:00",
-      "tier": "gemini",
-      "article": "Ambush in South Sudan kills peacekeeping troops"
-    },
-    {
-      "timestamp": "2026-08-24T22:30:17.719973+00:00",
-      "tier": "gemini",
-      "article": "Displaced Palestinians in Gaza face intensifying Israeli strikes"
-    },
-    {
-      "timestamp": "2026-08-24T22:30:42.692450+00:00",
-      "tier": "gemini",
-      "article": "Two civilians killed, nine wounded in Ukrainian drone attacks on LPR"
-    },
     {
       "timestamp": "2026-08-25T01:25:00.612250+00:00",
       "tier": "gemini",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-08-31T08:20:51.303978+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-31T17:27:53.297191+00:00",
+      "tier": "gemini",
+      "article": "Three civilians killed, 22 injured in Ukrainian attacks on Belgorod Region over past day"
+    },
+    {
+      "timestamp": "2026-08-31T17:28:24.357721+00:00",
+      "tier": "gemini",
+      "article": "Iran response to US strikes will be \u2018very painful\u2019 \u2013 professor"
+    },
+    {
+      "timestamp": "2026-08-31T17:28:47.977829+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-08-31T17:29:13.516574+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
