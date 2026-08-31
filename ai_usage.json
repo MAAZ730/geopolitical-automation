@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6387,
+  "total_calls": 6388,
   "tiers": {
     "groq": 6056,
-    "gemini": 331
+    "gemini": 332
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T01:25:00.612250+00:00",
-      "tier": "gemini",
-      "article": "Iran to firmly respond to any enemy's aggression with might"
-    },
     {
       "timestamp": "2026-08-25T03:02:06.973387+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-31T17:29:13.516574+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-08-31T22:38:30.270605+00:00",
+      "tier": "gemini",
+      "article": "Ukrainians mourn community leader killed in Russian strike on Myla"
     }
   ]
 }
