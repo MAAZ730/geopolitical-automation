@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6397,
+  "total_calls": 6399,
   "tiers": {
     "groq": 6056,
-    "gemini": 341
+    "gemini": 343
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T08:46:09.387350+00:00",
-      "tier": "gemini",
-      "article": "3 killed, 3 injured in Russia-Ukraine overnight strikes - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-25T08:46:31.713161+00:00",
-      "tier": "gemini",
-      "article": "FACTBOX: Two deaths, fire at oil refinery in southern Russia, aftermath of Kiev\u2019s strike"
-    },
     {
       "timestamp": "2026-08-25T08:46:56.463568+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-01T16:19:10.176727+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-01T20:46:17.027871+00:00",
+      "tier": "gemini",
+      "article": "Iran promises to respond to new wave of US strikes despite Trump\u2019s threats"
+    },
+    {
+      "timestamp": "2026-09-01T20:46:54.100343+00:00",
+      "tier": "gemini",
+      "article": "Iran vows crushing retaliation after latest US attacks"
     }
   ]
 }
