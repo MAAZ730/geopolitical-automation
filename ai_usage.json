@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6388,
+  "total_calls": 6389,
   "tiers": {
     "groq": 6056,
-    "gemini": 332
+    "gemini": 333
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T03:02:06.973387+00:00",
-      "tier": "gemini",
-      "article": "Kiev not to be able to use SCALP missiles effectively without US\u2019 approval \u2014 expert"
-    },
     {
       "timestamp": "2026-08-25T03:02:33.668812+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-08-31T22:38:30.270605+00:00",
       "tier": "gemini",
       "article": "Ukrainians mourn community leader killed in Russian strike on Myla"
+    },
+    {
+      "timestamp": "2026-09-01T04:13:57.481075+00:00",
+      "tier": "gemini",
+      "article": "Iran strikes US bases in Jordan, UAE, vows \u2018more devastating\u2019 responses to every attack"
     }
   ]
 }
