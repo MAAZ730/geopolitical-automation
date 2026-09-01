@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6389,
+  "total_calls": 6393,
   "tiers": {
     "groq": 6056,
-    "gemini": 333
+    "gemini": 337
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T03:02:33.668812+00:00",
-      "tier": "gemini",
-      "article": "Iran faces 'greatest financial offensive ever', says US Treasury Secretary Scott Bessent"
-    },
-    {
-      "timestamp": "2026-08-25T03:03:57.331733+00:00",
-      "tier": "gemini",
-      "article": "Iran says opposing Zionist regime\u2019s occupation is principled policy"
-    },
-    {
-      "timestamp": "2026-08-25T04:42:45.484939+00:00",
-      "tier": "gemini",
-      "article": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons"
-    },
-    {
-      "timestamp": "2026-08-25T04:43:10.307030+00:00",
-      "tier": "gemini",
-      "article": "Italy eyes US tech for souping up dumb missiles into drone interceptors"
-    },
     {
       "timestamp": "2026-08-25T04:43:33.606840+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-09-01T04:13:57.481075+00:00",
       "tier": "gemini",
       "article": "Iran strikes US bases in Jordan, UAE, vows \u2018more devastating\u2019 responses to every attack"
+    },
+    {
+      "timestamp": "2026-09-01T11:20:09.312850+00:00",
+      "tier": "gemini",
+      "article": "Israeli Barrage Pummels Gaza City as Civilian Toll Mounts - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-09-01T11:20:39.612573+00:00",
+      "tier": "gemini",
+      "article": "US considers limited strikes against Iran in Strait of Hormuz region \u2014 Axios"
+    },
+    {
+      "timestamp": "2026-09-01T11:21:05.146540+00:00",
+      "tier": "gemini",
+      "article": "Israeli forces martyr 5 Palestinians, injured dozens in Gaza"
+    },
+    {
+      "timestamp": "2026-09-01T11:21:36.206182+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
