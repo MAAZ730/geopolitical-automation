@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6406,
+  "total_calls": 6408,
   "tiers": {
     "groq": 6056,
-    "gemini": 350
+    "gemini": 352
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T14:50:10.033168+00:00",
-      "tier": "gemini",
-      "article": "Israeli attacks kill five in Gaza, including two children, medics say"
-    },
-    {
-      "timestamp": "2026-08-25T14:50:33.396679+00:00",
-      "tier": "gemini",
-      "article": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes"
-    },
     {
       "timestamp": "2026-08-25T14:50:59.105659+00:00",
       "tier": "gemini",
@@ -505,6 +495,16 @@
     },
     {
       "timestamp": "2026-09-02T08:35:46.391380+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-02T14:14:10.430295+00:00",
+      "tier": "gemini",
+      "article": "IRGC strikes US facilities in Iraq's Erbil"
+    },
+    {
+      "timestamp": "2026-09-02T14:15:02.968864+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
