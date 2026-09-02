@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6411,
+  "total_calls": 6412,
   "tiers": {
     "groq": 6056,
-    "gemini": 355
+    "gemini": 356
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T18:42:46.191706+00:00",
-      "tier": "gemini",
-      "article": "Yemen strikes Saudi oil tanker, warns Riyadh of \u2018graveyard and hell\u2019"
-    },
     {
       "timestamp": "2026-08-25T20:32:39.167800+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-09-02T19:18:37.725227+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-02T22:28:09.006519+00:00",
+      "tier": "gemini",
+      "article": "IRGC targets US Marines camp in Jordan"
     }
   ]
 }

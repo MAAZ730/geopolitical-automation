@@ -1,4 +1,34 @@
 {
+  "8fddba2719352985c9d95c9b755974964d8015a747eee5bbc3dd7f5c44e95f61": {
+    "url": "presstv/205298",
+    "title": "Iranian Red Crescent calls for ICC to investigate deadly US wedding attack  Iran",
+    "published": "2026-09-02T22:33:38.559153+00:00"
+  },
+  "43eca23b1f9a8c5a06f7260008b97393befd34b6ea5f20874c9401da7286d8bf": {
+    "url": "BellumActaNews/176850",
+    "title": "More than 12 Israeli strikes were carried out in western Gaza City in northern G",
+    "published": "2026-09-02T22:32:18.248846+00:00"
+  },
+  "6ae3f24afd29ca6791d310aab8679bd40944164a00f1010e6b4f65d0f543af78": {
+    "url": "DDGeopolitics/192476",
+    "title": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 The Cheeto-in-Chief says he saw Ukrainian forced mobilization videos, but t",
+    "published": "2026-09-02T22:31:47.773860+00:00"
+  },
+  "cbc0ed37b02292df1cc6e8f89d4dcae6bd608c35feb9b0027cf2246f3fa5d7a7": {
+    "url": "DDGeopolitics/192478",
+    "title": "\ud83c\uddfa\ud83c\udde6\u2694\ufe0f\ud83c\uddfa\ud83c\udde6 Footage has emerged of the shootout between officers of Ukraine's Securit",
+    "published": "2026-09-02T22:30:46.014694+00:00"
+  },
+  "cbe6337f02782002f389ea5a35c6871d4d61f773c44394bd07aad26776c67249": {
+    "url": "thecradlemedia/67275",
+    "title": "Envoy Reveals Tony Blair Urged Palestinian Authority to Erase 'Palestine' from Textbooks",
+    "published": "2026-09-02T22:28:50.827075+00:00"
+  },
+  "fb8ce03bac5edae4c6574c92d050b0968d1343e5f76d46977aa8e11af6690f32": {
+    "url": "thecradlemedia/67282",
+    "title": "Deadly bombardment hits south Lebanon amid reports Hezbollah 'destroyed' Israeli",
+    "published": "2026-09-02T22:28:39.458866+00:00"
+  },
   "94f245ede9e4633649e9c11fb1741fd1b48586d6f8480a3d753d263d335dd570": {
     "url": "QudsNen/237516",
     "title": "Amnesty Ireland has warned that peaceful protesters across the EU who stand agai",
@@ -108,6 +138,11 @@
     "url": "https://en.mehrnews.com/news/247400/IRGC-strikes-US-facilities-in-Iraq-s-Erbil",
     "title": "IRGC strikes US facilities in Iraq's Erbil",
     "published": "2026-09-02T07:17:29+00:00"
+  },
+  "29987777675a7b13186118f58debf6518b583a840740687676285872711b9d33": {
+    "url": "https://en.irna.ir/news/86252767/IRGC-targets-US-Marines-camp-in-Jordan",
+    "title": "IRGC targets US Marines camp in Jordan",
+    "published": "2026-09-02T06:29:19+00:00"
   },
   "8c18e9f1c69940e342627f0995c16c9c68c167b8b4692e53f53d9d1d918d85c6": {
     "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
@@ -713,40 +748,5 @@
     "url": "thecradlemedia/67010",
     "title": "BREAKING | Israeli warplanes attack Nabatieh al-Fawqa, specifically the area nea",
     "published": "2026-08-29T20:40:07.660926+00:00"
-  },
-  "4dadc4270c19399b761fc8083562ce55818b1a62e6ec8cdbf098aeec5fa30c5b": {
-    "url": "thecradlemedia/67016",
-    "title": "\u2757\ufe0fFinland secretly signs 10-year defense material agreement with IsraelFinland a",
-    "published": "2026-08-29T20:40:06.011329+00:00"
-  },
-  "a0953bd1a672dd85fae4a717fc5f75096b26909072fca29857e03a3d236fce2a": {
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
-    "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
-    "published": "2026-08-29T16:53:55+00:00"
-  },
-  "78e78822f7186f7b717146218145fa7ab56b7bab0769b0d70d11e4c4a90a8cc6": {
-    "url": "QudsNen/237046",
-    "title": "Israeli Forces Raid Al-Mughayyir Village, Palestinian Woman Assaulted",
-    "published": "2026-08-29T16:33:03.600247+00:00"
-  },
-  "a3816d3a0e106dea8373cf5fa1a3c62966ee4d4fef4db9c27698cc94212d286d": {
-    "url": "thecradlemedia/67004",
-    "title": "Israeli Air Force Strikes Wadi al-Hujair, Mansouri in Southern Lebanon",
-    "published": "2026-08-29T16:30:43.487947+00:00"
-  },
-  "8005c69ec2831506dcf522271262794f735523b870f8f6f7cc90ff420360a8f5": {
-    "url": "thecradlemedia/67014",
-    "title": "Israeli Airstrike Targets Individual in Southern Lebanon",
-    "published": "2026-08-29T16:30:10.606480+00:00"
-  },
-  "2f7c29346a7c97b3a5a84c20eb6ce0a5604324c5f24a7e408f1d4ea04080ea5d": {
-    "url": "thecradlemedia/67018",
-    "title": "Israeli Occupation Forces Target Markaba in Southern Lebanon",
-    "published": "2026-08-29T16:28:56.533482+00:00"
-  },
-  "fd4ee681524848691481fbd8cd20599bda82c999f8c270209b644e10b0837c8e": {
-    "url": "thecradlemedia/67021",
-    "title": "Al-Mughayyir: Palestinian MoFA Urges Global Action Against Settler Violence",
-    "published": "2026-08-29T16:28:46.951123+00:00"
   }
 }
