@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6399,
+  "total_calls": 6400,
   "tiers": {
     "groq": 6056,
-    "gemini": 343
+    "gemini": 344
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T08:46:56.463568+00:00",
-      "tier": "gemini",
-      "article": "West Bank : Overnight Raids, Arrests, and Settler Violence Escalate Across Palestinian Territories - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-25T08:47:26.478359+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-09-01T20:46:54.100343+00:00",
       "tier": "gemini",
       "article": "Iran vows crushing retaliation after latest US attacks"
+    },
+    {
+      "timestamp": "2026-09-01T23:54:50.947192+00:00",
+      "tier": "gemini",
+      "article": "US begins strikes on IRGC targets in Iran amid Hormuz tensions"
     }
   ]
 }
