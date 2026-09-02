@@ -1,4 +1,44 @@
 {
+  "d425325ae91187b22e31bae4da220925911ccc325ff9676f6b4f27dad103f379": {
+    "url": "DDGeopolitics/192416",
+    "title": "Kyiv Hit by Recurrent Explosions",
+    "published": "2026-09-02T08:41:00.894729+00:00"
+  },
+  "78f29fe930bae70524904af1ad03090dae5e7e2a8c068299f0891f97d0ac7695": {
+    "url": "QudsNen/237439",
+    "title": "Artillery Strike Reported in Southern Lebanon's Mansouri Village",
+    "published": "2026-09-02T08:40:25.403656+00:00"
+  },
+  "88fde2cd7da0f923693855d21469e0432ad0e44285f711864a215e36b5d5f830": {
+    "url": "QudsNen/237450",
+    "title": "Kyrgyzstan: Cyclist Displays Palestinian Flag Amidst Positive Public Reaction",
+    "published": "2026-09-02T08:39:09.326614+00:00"
+  },
+  "2cad69a2ac7cd27a9a5ecfc3cfa07c2ca62e1a4a1292d5807ece6ca30f1acfbb": {
+    "url": "Middle_East_Spectator/36250",
+    "title": "Drone Observed Over Northern Israel Near Lebanese Frontier",
+    "published": "2026-09-02T08:37:05.168177+00:00"
+  },
+  "1685eb993cd308fafb8212e6bc05d5adf83d48b81c5b276ce2ce15e14cea49e3": {
+    "url": "Middle_East_Spectator/36259",
+    "title": "Iran's Shahrud Underground Missile Facility Shows Accelerated Expansion",
+    "published": "2026-09-02T08:36:59.459278+00:00"
+  },
+  "c1a4be6408b8a60a0b523955e2f23e58f0617313fc1884bb4045333172baa40a": {
+    "url": "Middle_East_Spectator/36260",
+    "title": "IRGC Reports Two Tankers Disabled by Mines, Blames U.S. Incitement",
+    "published": "2026-09-02T08:35:57.553118+00:00"
+  },
+  "763a5e5f954cd3e96047434051af05f037091f5c9001f5c6f655709cdc8c752a": {
+    "url": "https://english.almanar.com.lb/article/123132/",
+    "title": "US Strikes Kill 12 in Southern Iran as Tehran Vows Retaliatory \u2018Lessons\u2019 - Al-Manar TV Lebanon",
+    "published": "2026-09-02T08:02:55+00:00"
+  },
+  "8c18e9f1c69940e342627f0995c16c9c68c167b8b4692e53f53d9d1d918d85c6": {
+    "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+    "published": "2026-09-02T06:26:35+00:00"
+  },
   "551b3ec9eb564c61443b9074402e5169cc07d9b22e05ace854b24a0efcf899d3": {
     "url": "warmonitors/45432",
     "title": "\u26a1\ufe0fIranian missiles impact Jordan, Aqaba \ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casi",
@@ -28,6 +68,11 @@
     "url": "Middle_East_Spectator/36255",
     "title": "U.S. Secretary of War Hegseth Presides Over Departure of Over 20 Senior Military Officials",
     "published": "2026-09-02T03:36:37.602720+00:00"
+  },
+  "0d03a414b596c4440b519829339e1c0b7ad7792dd8c744a54fa6ab72acf8929b": {
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+    "title": "US strikes on Iran kill child at wedding ceremony",
+    "published": "2026-09-02T03:27:26+00:00"
   },
   "a01254f8d37809f0b3ec2e1a76e2425a46bcc1d4ca5d41127b48c8566b114399": {
     "url": "https://www.rt.com/news/645007-putin-sco-summit-takeaways/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -703,50 +748,5 @@
     "url": "DDGeopolitics/192064",
     "title": "\ud83c\uddf7\ud83c\uddfa\ud83d\udca5\ud83c\uddfa\ud83c\udde6 Moment of detonation at a Ukrainian Armed Forces ammunition depot in the v",
     "published": "2026-08-29T02:49:34.101597+00:00"
-  },
-  "a57304b46e97f7d88256b7283472b7f86f68e82e87f0771edadbe30517c0957f": {
-    "url": "QudsNen/236972",
-    "title": "Israeli occupation forces and armed extremist settler militias stormed the villa",
-    "published": "2026-08-29T02:48:27.335188+00:00"
-  },
-  "07e9c02291efab67512ef7336ba6698bf1c517a3a4eb3382770d76d737ac8d89": {
-    "url": "thecradlemedia/66956",
-    "title": "\u2757\ufe0fUS targets Egyptian bank in UAE to choke off Iranian financesThe US Treasury D",
-    "published": "2026-08-29T02:47:07.101460+00:00"
-  },
-  "d179bbf132fe2fc16f0337623cfa33626aff16c555098d1ab0bab00407de0728": {
-    "url": "thecradlemedia/66958",
-    "title": "\u203c\ufe0f Moments ago, an Israeli drone strike targeted a vehicle and a home in Jenin i",
-    "published": "2026-08-29T02:47:05.227369+00:00"
-  },
-  "260792a0195e1e12a31b1d3d9f385c597d5f282ed88d668635860065854640db": {
-    "url": "BellumActaNews/176741",
-    "title": "#BREAKING | \ud83c\uddf7\ud83c\uddfa \u2014 Russia has successfully launched an intercontinental ballistic ",
-    "published": "2026-08-28T18:45:21.796854+00:00"
-  },
-  "c709886d881c64ab2527827222e591e4c132dbbca0239261fe061b591478e9bb": {
-    "url": "QudsNen/236929",
-    "title": "Israeli Forces Strike Jenin, Three Palestinian Fighters Killed Amid Blockade of Medical Access",
-    "published": "2026-08-28T18:42:35.399201+00:00"
-  },
-  "d2d831b4a15dea9b28618e1b1cad988965da4136ee00e0ecc9ab6f6df6378113": {
-    "url": "Middle_East_Spectator/36078",
-    "title": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddf7 NEW: South Korea attempted to produce a copy of the Shahed-136, but it f",
-    "published": "2026-08-28T18:40:07.740931+00:00"
-  },
-  "8ce311c493dc9cb074513fc5a7ce399ce3fa2f5d7b4b7b297a689807b24d75f7": {
-    "url": "Middle_East_Spectator/36079",
-    "title": "Iranian Civilian and Basij Vessels Transit Strait of Hormuz Amid U.S. Navy Warnings",
-    "published": "2026-08-28T18:38:38.229244+00:00"
-  },
-  "568e1071539ad15f7a7b5c663ca4f076080e4049667a096576df6aa4ecb03127": {
-    "url": "thecradlemedia/66964",
-    "title": "Israeli Forces Conduct Explosive Strike in Southern Lebanon",
-    "published": "2026-08-28T18:37:26.435544+00:00"
-  },
-  "991953600922c3e43afa7ffc80897203f764ebfc3c0ca358cd6543f19416f76e": {
-    "url": "thecradlemedia/66967",
-    "title": "Israeli Official Warns of Gaza Evacuation Over Kites; Hamas Alleges Ethnic Cleansing Justification",
-    "published": "2026-08-28T18:37:13.088946+00:00"
   }
 }

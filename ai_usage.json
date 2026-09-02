@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6402,
+  "total_calls": 6406,
   "tiers": {
     "groq": 6056,
-    "gemini": 346
+    "gemini": 350
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T10:36:46.402874+00:00",
-      "tier": "gemini",
-      "article": "Kremlin adviser warns UK drone factories could face attacks"
-    },
-    {
-      "timestamp": "2026-08-25T10:37:10.204565+00:00",
-      "tier": "gemini",
-      "article": "Ukrainian forces hunting for Zaporozhye NPP personnel \u2014 diplomat"
-    },
-    {
-      "timestamp": "2026-08-25T10:37:36.052439+00:00",
-      "tier": "gemini",
-      "article": "Sunni member of Basij volunteer force martyred in Zahedan"
-    },
-    {
-      "timestamp": "2026-08-25T12:52:32.939201+00:00",
-      "tier": "gemini",
-      "article": "Gaza Death Toll Mounts: 8 Martyred, 36 Wounded in Latest Israeli Strikes as Ceasefire Casualties Surpass 1,200 - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-25T14:50:10.033168+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-09-02T03:35:57.757743+00:00",
       "tier": "gemini",
       "article": "Putin on Kiev\u2019s \u2018terrorism,\u2019 British \u2018legitimate targets\u2019 and a \u2018military secret\u2019 (KEY REMARKS)"
+    },
+    {
+      "timestamp": "2026-09-02T08:34:22.510504+00:00",
+      "tier": "gemini",
+      "article": "US Strikes Kill 12 in Southern Iran as Tehran Vows Retaliatory \u2018Lessons\u2019 - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-09-02T08:34:48.265472+00:00",
+      "tier": "gemini",
+      "article": "US strikes on Iran kill child at wedding ceremony"
+    },
+    {
+      "timestamp": "2026-09-02T08:35:20.567552+00:00",
+      "tier": "gemini",
+      "article": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party"
+    },
+    {
+      "timestamp": "2026-09-02T08:35:46.391380+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
