@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6408,
+  "total_calls": 6411,
   "tiers": {
     "groq": 6056,
-    "gemini": 352
+    "gemini": 355
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T14:50:59.105659+00:00",
-      "tier": "gemini",
-      "article": "Thousands remain buried beneath Gaza rubble"
-    },
-    {
-      "timestamp": "2026-08-25T16:40:38.131114+00:00",
-      "tier": "gemini",
-      "article": "Nearly 20 seafarers killed while crossing Hormuz since Iran war started in February"
-    },
-    {
-      "timestamp": "2026-08-25T16:41:14.816880+00:00",
-      "tier": "gemini",
-      "article": "Zelensky says Ukraine getting more Patriot missiles, but needs more"
-    },
     {
       "timestamp": "2026-08-25T18:42:46.191706+00:00",
       "tier": "gemini",
@@ -505,6 +490,21 @@
     },
     {
       "timestamp": "2026-09-02T14:15:02.968864+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-02T19:17:32.332338+00:00",
+      "tier": "gemini",
+      "article": "They came for a wedding dance, Trump gave them the dance of death"
+    },
+    {
+      "timestamp": "2026-09-02T19:18:03.082073+00:00",
+      "tier": "gemini",
+      "article": "Pro-Iranian group releases Lego video showing deadly US wedding attack"
+    },
+    {
+      "timestamp": "2026-09-02T19:18:37.725227+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
