@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6400,
+  "total_calls": 6402,
   "tiers": {
     "groq": 6056,
-    "gemini": 344
+    "gemini": 346
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T08:47:26.478359+00:00",
-      "tier": "gemini",
-      "article": "Government has stood by Armed Forces with all its might"
-    },
-    {
-      "timestamp": "2026-08-25T10:36:20.953252+00:00",
-      "tier": "gemini",
-      "article": "UN calls for end to attacks on civilians after Ukrainian strike on Krasnodar Region"
-    },
     {
       "timestamp": "2026-08-25T10:36:46.402874+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-01T23:54:50.947192+00:00",
       "tier": "gemini",
       "article": "US begins strikes on IRGC targets in Iran amid Hormuz tensions"
+    },
+    {
+      "timestamp": "2026-09-02T03:35:25.358113+00:00",
+      "tier": "gemini",
+      "article": "IRGC Announces Launching Massive Attack with Ballistic Missiles on US Marines Barracks in Jordan: Large Number of US Soldiers Dead - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-09-02T03:35:57.757743+00:00",
+      "tier": "gemini",
+      "article": "Putin on Kiev\u2019s \u2018terrorism,\u2019 British \u2018legitimate targets\u2019 and a \u2018military secret\u2019 (KEY REMARKS)"
     }
   ]
 }
