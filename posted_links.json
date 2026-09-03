@@ -1,4 +1,34 @@
 {
+  "e7fe3a08c39b50d3da4bb87b156cdd4a12750f2caff2408a5cf4947410c37f08": {
+    "url": "CensoredMen/230",
+    "title": "IRGC Claims Strike on US Facility Near Aqaba as Smoke Rises from Eilat",
+    "published": "2026-09-03T14:21:10.745419+00:00"
+  },
+  "6c78a39720bbfd826f6c8085ee66f092f7d90957dadd49fa30ca1511b21f24e6": {
+    "url": "militarywave/24941",
+    "title": "Russia Claims Capture of Three Settlements in Ukraine's Kharkiv Region",
+    "published": "2026-09-03T14:20:49.353569+00:00"
+  },
+  "8f7bd454d00c414493c964bf22445da8dc421d982709e02a8105dc47c2ff641c": {
+    "url": "DDGeopolitics/192552",
+    "title": "Iranian Media Displays Alleged Wreckage of U.S. MQ-9 Reaper Drone",
+    "published": "2026-09-03T14:19:28.865674+00:00"
+  },
+  "36247dfbb00dc9d918ff4dc2d1b545a364bca9ebe02fb5fae2f9eeec586d9b93": {
+    "url": "DDGeopolitics/192560",
+    "title": "Kyiv-Area Coca-Cola Plant Allegedly Struck by Geran Drone",
+    "published": "2026-09-03T14:16:34.216444+00:00"
+  },
+  "b8ba627d1f1c214e42e1d073f52e29bc33fa62fa908a9b1497ff5d5a5f263a59": {
+    "url": "thecradlemedia/67320",
+    "title": "US Defense Undersecretary Affirms Anthropic's \"Supply Chain Risk\" Status",
+    "published": "2026-09-03T14:16:05.647788+00:00"
+  },
+  "314eb076aabfe1bbf1e2c1a3dcd629ca3c2e0fefa3fddf63bcf6e405f3c450ef": {
+    "url": "thecradlemedia/67323",
+    "title": "Saudi Crude Exports Drop to Nine-Year Low as Regional Tensions Escalate",
+    "published": "2026-09-03T14:15:52.841511+00:00"
+  },
   "8c63653cd2c8177332b50d1c380c9130b7114fce2366dc3d2543a4a559010499": {
     "url": "DDGeopolitics/192507",
     "title": "Khmelnitsky Region Reports Double Overnight Strikes on Industrial Sites",
@@ -133,6 +163,11 @@
     "url": "thecradlemedia/67290",
     "title": "Iran\u2019s security chief warns US of \u2018new battlefield strategy\u2019 after Washington\u2019s ",
     "published": "2026-09-02T19:18:55.369455+00:00"
+  },
+  "af768d21f1dbb12119f77e49f557fb29d116dfaeb6ee9cff5ed7fbd33d12d837": {
+    "url": "https://www.tehrantimes.com/news/529631/How-Iran-disabled-the-largest-US-naval-base-in-West-Asia",
+    "title": "How Iran disabled the largest US naval base in West Asia",
+    "published": "2026-09-02T17:29:16+00:00"
   },
   "e14ce4b343f83cd471353801aa5e77366c227b851bb5ca6a2a04098ca3d13214": {
     "url": "https://www.tehrantimes.com/news/529642/They-came-for-a-wedding-dance-Trump-gave-them-the-dance-of-death",
@@ -713,40 +748,5 @@
     "url": "QudsNen/237116",
     "title": "Gaza: Israeli Airstrike Claims Two Lives, Including Child, West of Deir Al-Balah",
     "published": "2026-08-30T11:42:01.530661+00:00"
-  },
-  "1b262da67df12cb062c41374366e012379a9f4126b166ca7fec5703998bd30b5": {
-    "url": "thecradlemedia/67025",
-    "title": "Israeli Artillery Shells Three Sites in Southern Lebanon Overnight",
-    "published": "2026-08-30T11:41:20.745297+00:00"
-  },
-  "4e6f13c585e728c4508c97e9b0b459beaff5a78803af8024b0d382c2d55754dd": {
-    "url": "thecradlemedia/67032",
-    "title": "US Demands Hezbollah Disarm, Recognizes Lebanese Government as Sole Authority",
-    "published": "2026-08-30T11:39:22.005290+00:00"
-  },
-  "a8d54beee0b00a8207c938108a685cdcea4e9356349b884eebbda4e4dd3c8bd4": {
-    "url": "thecradlemedia/67033",
-    "title": "Turkish Ministry Summons Ukrainian Ambassador Following Black Sea Ship Strikes",
-    "published": "2026-08-30T11:38:48.569884+00:00"
-  },
-  "349e618190321ed3c9e7569ec4083060b0ae897995ea8a1bcf35f6dbe71f1c1d": {
-    "url": "thecradlemedia/67034",
-    "title": "Israeli Military Activity Reported in Southern Lebanon Villages",
-    "published": "2026-08-30T11:38:41.234281+00:00"
-  },
-  "95b4d4142d394dea125586c61ed62217a1cbbb772f5a0a2400570d621315583f": {
-    "url": "thecradlemedia/67039",
-    "title": "Israeli Military Operations Reported Across South Lebanon",
-    "published": "2026-08-30T11:35:12.792719+00:00"
-  },
-  "498cdd70afa92b5bb7431c9c82b9343706f72781260212f88a1bb6d0def3bf2d": {
-    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
-    "title": "Six months on, what did the strikes on Iran achieve?",
-    "published": "2026-08-30T11:24:21+00:00"
-  },
-  "1d50d9880688973ce613656ba5bed41f9b80073ef47e61ad2e0505875c9cdc96": {
-    "url": "https://tass.com/defense/2179463",
-    "title": "Russia readies to strike Ukraine\u2019s energy sites to retaliate attacks on its infrastructure",
-    "published": "2026-08-30T09:21:06+00:00"
   }
 }

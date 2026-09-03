@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6419,
+  "total_calls": 6421,
   "tiers": {
     "groq": 6056,
-    "gemini": 363
+    "gemini": 365
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T04:42:46.425928+00:00",
-      "tier": "gemini",
-      "article": "One civilian killed, eight others injured in Ukrainian attacks on DPR during past day"
-    },
-    {
-      "timestamp": "2026-08-26T04:43:10.649710+00:00",
-      "tier": "gemini",
-      "article": "Employee injured in fire at Wildberries logistics center outside Tambov after drone attack"
-    },
     {
       "timestamp": "2026-08-26T04:43:42.139111+00:00",
       "tier": "gemini",
@@ -505,6 +495,16 @@
     },
     {
       "timestamp": "2026-09-03T08:44:22.443999+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-03T14:14:57.142234+00:00",
+      "tier": "gemini",
+      "article": "How Iran disabled the largest US naval base in West Asia"
+    },
+    {
+      "timestamp": "2026-09-03T14:15:25.927173+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
