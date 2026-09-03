@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6422,
+  "total_calls": 6425,
   "tiers": {
     "groq": 6056,
-    "gemini": 366
+    "gemini": 369
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T06:54:28.693696+00:00",
-      "tier": "gemini",
-      "article": "Russia\u2019s \u2018Amazon\u2019 Wildberries comes under Ukraine attack again"
-    },
-    {
-      "timestamp": "2026-08-26T08:49:28.222749+00:00",
-      "tier": "gemini",
-      "article": "From Hormuz to the Caucasus: The New Geography of Energy Security"
-    },
-    {
-      "timestamp": "2026-08-26T08:49:52.273186+00:00",
-      "tier": "gemini",
-      "article": "Battlegroup South destroys Ukraine\u2019s Bucephalus APC, 71 fixed-wing UAVs over past day"
-    },
     {
       "timestamp": "2026-08-26T08:50:18.534556+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-09-03T19:12:44.932258+00:00",
       "tier": "gemini",
       "article": "Trump praises Hegseth after deadly Iran wedding strike"
+    },
+    {
+      "timestamp": "2026-09-03T22:25:00.506651+00:00",
+      "tier": "gemini",
+      "article": "Woman killed in Gorlovka in drone strike on bus"
+    },
+    {
+      "timestamp": "2026-09-03T22:25:29.141701+00:00",
+      "tier": "gemini",
+      "article": "Funeral held for child killed in US strike on Iranian wedding"
+    },
+    {
+      "timestamp": "2026-09-03T22:25:51.300965+00:00",
+      "tier": "gemini",
+      "article": "Ten injured in Ukraine as Kyiv expects talks with US envoys in coming days"
     }
   ]
 }
