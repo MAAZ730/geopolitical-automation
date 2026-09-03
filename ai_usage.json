@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6421,
+  "total_calls": 6422,
   "tiers": {
     "groq": 6056,
-    "gemini": 365
+    "gemini": 366
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T04:43:42.139111+00:00",
-      "tier": "gemini",
-      "article": "Iran-Pakistan port roadmap to be compiled in Tehran: PMO"
-    },
     {
       "timestamp": "2026-08-26T06:54:28.693696+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-09-03T14:15:25.927173+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-03T19:12:44.932258+00:00",
+      "tier": "gemini",
+      "article": "Trump praises Hegseth after deadly Iran wedding strike"
     }
   ]
 }
