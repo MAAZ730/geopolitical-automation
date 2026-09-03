@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6412,
+  "total_calls": 6415,
   "tiers": {
     "groq": 6056,
-    "gemini": 356
+    "gemini": 359
   },
   "log": [
-    {
-      "timestamp": "2026-08-25T20:32:39.167800+00:00",
-      "tier": "gemini",
-      "article": "Israeli forces level border villages in escalating southern Lebanon campaign"
-    },
-    {
-      "timestamp": "2026-08-25T20:33:07.391403+00:00",
-      "tier": "gemini",
-      "article": "West no longer willing to allow Ukraine to strike civilians in Russia \u2014 senator"
-    },
-    {
-      "timestamp": "2026-08-25T22:30:57.729454+00:00",
-      "tier": "gemini",
-      "article": "Seven killed in Gaza as Israeli strike \u2018destroys\u2019 aid supply warehouse"
-    },
     {
       "timestamp": "2026-08-26T01:26:57.082537+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-09-02T22:28:09.006519+00:00",
       "tier": "gemini",
       "article": "IRGC targets US Marines camp in Jordan"
+    },
+    {
+      "timestamp": "2026-09-03T03:37:16.288781+00:00",
+      "tier": "gemini",
+      "article": "Trump threatens more strikes as death toll in Iran rises to 18"
+    },
+    {
+      "timestamp": "2026-09-03T03:37:39.103031+00:00",
+      "tier": "gemini",
+      "article": "US strike in Kermanshah claims lives of four IRGC Aerospace forces"
+    },
+    {
+      "timestamp": "2026-09-03T03:38:03.113738+00:00",
+      "tier": "gemini",
+      "article": "Death toll from US Tuesday strikes rises to 18, injured to 108 \u2014 authorities"
     }
   ]
 }
