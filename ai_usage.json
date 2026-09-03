@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6415,
+  "total_calls": 6419,
   "tiers": {
     "groq": 6056,
-    "gemini": 359
+    "gemini": 363
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T01:26:57.082537+00:00",
-      "tier": "gemini",
-      "article": "Death toll from Israeli attacks on Lebanon reaches 4,350 \u2014 health ministry"
-    },
-    {
-      "timestamp": "2026-08-26T03:09:09.144734+00:00",
-      "tier": "gemini",
-      "article": "Economy minister responds to new US sanctions: Offensive economic strategy prepared"
-    },
-    {
-      "timestamp": "2026-08-26T03:10:23.600481+00:00",
-      "tier": "gemini",
-      "article": "Saudi Arabia, France push for diplomatic Iran deal"
-    },
-    {
-      "timestamp": "2026-08-26T03:10:49.063874+00:00",
-      "tier": "gemini",
-      "article": "Qatar Reaffirms Diplomatic Push, Criticizes US Sanctions on Iran - Al-Manar TV Lebanon"
-    },
     {
       "timestamp": "2026-08-26T04:42:46.425928+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-09-03T03:38:03.113738+00:00",
       "tier": "gemini",
       "article": "Death toll from US Tuesday strikes rises to 18, injured to 108 \u2014 authorities"
+    },
+    {
+      "timestamp": "2026-09-03T08:43:02.998305+00:00",
+      "tier": "gemini",
+      "article": "Targeting civilians \"clear example of war crimes\""
+    },
+    {
+      "timestamp": "2026-09-03T08:43:31.046221+00:00",
+      "tier": "gemini",
+      "article": "Iran Urges UN Security Council to Condemn Deadly US Attack on Wedding Ceremony - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-09-03T08:43:56.832831+00:00",
+      "tier": "gemini",
+      "article": "Iran condemns US strikes on civilians as war crimes, reaffirms its right to self-defense"
+    },
+    {
+      "timestamp": "2026-09-03T08:44:22.443999+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
