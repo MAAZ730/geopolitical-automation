@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6427,
+  "total_calls": 6431,
   "tiers": {
     "groq": 6056,
-    "gemini": 371
+    "gemini": 375
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T10:38:08.419091+00:00",
-      "tier": "gemini",
-      "article": "Iran\u2019s strikes caused billions in damage to US intel. sites"
-    },
-    {
-      "timestamp": "2026-08-26T10:38:34.472218+00:00",
-      "tier": "gemini",
-      "article": "Malva howitzer shells strike targets simultaneously along different trajectories \u2014 Rostec"
-    },
-    {
-      "timestamp": "2026-08-26T10:38:59.265478+00:00",
-      "tier": "gemini",
-      "article": "In photos: Reconstruction of Hormozgan\u2019s war-damaged bridges"
-    },
-    {
-      "timestamp": "2026-08-26T10:39:34.971276+00:00",
-      "tier": "gemini",
-      "article": "What broke Russia-Japan relations \u2013 and what South Korea should learn"
-    },
     {
       "timestamp": "2026-08-26T12:58:50.320545+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-09-04T03:35:32.104881+00:00",
       "tier": "gemini",
       "article": "US leaders must answer for war crimes, IRGC says after wedding attack"
+    },
+    {
+      "timestamp": "2026-09-04T08:37:57.045930+00:00",
+      "tier": "gemini",
+      "article": "Iran wedding strike likely direct hit by US munition \u2013 Reuters"
+    },
+    {
+      "timestamp": "2026-09-04T08:38:23.532399+00:00",
+      "tier": "gemini",
+      "article": "US investigating if missile hit Iran wedding, Vance says"
+    },
+    {
+      "timestamp": "2026-09-04T08:38:59.249892+00:00",
+      "tier": "gemini",
+      "article": "Are Trump\u2019s AI videos just memes or psychological warfare?"
+    },
+    {
+      "timestamp": "2026-09-04T08:39:26.388362+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
