@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6436,
+  "total_calls": 6438,
   "tiers": {
     "groq": 6056,
-    "gemini": 380
+    "gemini": 382
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T19:50:21.533810+00:00",
-      "tier": "gemini",
-      "article": "Nine killed, six wounded: What we know about Ukrainian attack on passenger bus in LPR"
-    },
-    {
-      "timestamp": "2026-08-26T19:50:43.466671+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
     {
       "timestamp": "2026-08-26T19:51:13.890535+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-04T18:54:58.262455+00:00",
       "tier": "gemini",
       "article": "Israeli regime intensifies attacks across Gaza Strip"
+    },
+    {
+      "timestamp": "2026-09-04T22:14:54.924745+00:00",
+      "tier": "gemini",
+      "article": "Six Iranian Navy personnel martyred in US strikes in southern Iran"
+    },
+    {
+      "timestamp": "2026-09-04T22:15:21.261993+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
     }
   ]
 }
