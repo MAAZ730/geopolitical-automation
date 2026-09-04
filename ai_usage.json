@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6435,
+  "total_calls": 6436,
   "tiers": {
     "groq": 6056,
-    "gemini": 379
+    "gemini": 380
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T14:49:36.330675+00:00",
-      "tier": "gemini",
-      "article": "Baltic Fleet ships practice repelling air strikes in naval exercise near Kaliningrad"
-    },
     {
       "timestamp": "2026-08-26T19:50:21.533810+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-09-04T14:07:48.559965+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-04T18:54:58.262455+00:00",
+      "tier": "gemini",
+      "article": "Israeli regime intensifies attacks across Gaza Strip"
     }
   ]
 }
