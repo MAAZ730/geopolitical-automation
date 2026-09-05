@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6442,
+  "total_calls": 6446,
   "tiers": {
     "groq": 6056,
-    "gemini": 386
+    "gemini": 390
   },
   "log": [
-    {
-      "timestamp": "2026-08-27T08:14:30.380134+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
-    {
-      "timestamp": "2026-08-27T08:15:01.095894+00:00",
-      "tier": "gemini",
-      "article": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy"
-    },
-    {
-      "timestamp": "2026-08-27T08:15:28.102129+00:00",
-      "tier": "gemini",
-      "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
-    },
-    {
-      "timestamp": "2026-08-27T08:15:57.136541+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
     {
       "timestamp": "2026-08-27T20:13:13.010691+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-09-05T08:13:03.349002+00:00",
       "tier": "gemini",
       "article": "Dozens killed, injured in Bolivia military facility blast"
+    },
+    {
+      "timestamp": "2026-09-05T13:19:08.276437+00:00",
+      "tier": "gemini",
+      "article": "At least four civilians killed in Houthi missile strike near Yemen\u2019s Taiz"
+    },
+    {
+      "timestamp": "2026-09-05T13:19:30.459820+00:00",
+      "tier": "gemini",
+      "article": "US strikes Iranian oil tanker near Kharg Island"
+    },
+    {
+      "timestamp": "2026-09-05T13:19:55.842124+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-09-05T13:20:23.898658+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
