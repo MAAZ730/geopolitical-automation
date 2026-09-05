@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6451,
+  "total_calls": 6453,
   "tiers": {
     "groq": 6056,
-    "gemini": 395
+    "gemini": 397
   },
   "log": [
-    {
-      "timestamp": "2026-08-28T18:36:06.635481+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
-    {
-      "timestamp": "2026-08-28T18:36:32.732577+00:00",
-      "tier": "gemini",
-      "article": "Israeli strike kills three Palestinians in West Bank\u2019s Jenin"
-    },
     {
       "timestamp": "2026-08-28T18:37:04.272307+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-05T20:07:03.333527+00:00",
       "tier": "gemini",
       "article": "How UK-Ukraine defense cooperation became a long-term strategy against Russia"
+    },
+    {
+      "timestamp": "2026-09-05T23:38:27.995644+00:00",
+      "tier": "gemini",
+      "article": "Ukrainian army carries out 146 attacks on Russia\u2019s Belgorod Region in past day"
+    },
+    {
+      "timestamp": "2026-09-05T23:38:52.715079+00:00",
+      "tier": "gemini",
+      "article": "Colombian government reports three killed in rebel attack on military post"
     }
   ]
 }
