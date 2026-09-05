@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6438,
+  "total_calls": 6440,
   "tiers": {
     "groq": 6056,
-    "gemini": 382
+    "gemini": 384
   },
   "log": [
-    {
-      "timestamp": "2026-08-26T19:51:13.890535+00:00",
-      "tier": "gemini",
-      "article": "Erdogan says Turkey won\u2019t abandon Syria or let Israel draw \u2018red lines\u2019"
-    },
-    {
-      "timestamp": "2026-08-26T22:53:55.687143+00:00",
-      "tier": "gemini",
-      "article": "Ukraine attacks Donetsk with Anglo-French Storm Shadow/SCALP-EG cruise missiles"
-    },
     {
       "timestamp": "2026-08-26T22:54:20.425216+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-04T22:15:21.261993+00:00",
       "tier": "gemini",
       "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-09-05T03:35:55.230413+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-09-05T03:36:17.608171+00:00",
+      "tier": "gemini",
+      "article": "IN BRIEF: Russia strikes logistics centers, equipment, cargo ships in Ukraine"
     }
   ]
 }
