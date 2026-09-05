@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6446,
+  "total_calls": 6448,
   "tiers": {
     "groq": 6056,
-    "gemini": 390
+    "gemini": 392
   },
   "log": [
-    {
-      "timestamp": "2026-08-27T20:13:13.010691+00:00",
-      "tier": "gemini",
-      "article": "Six months after US strike on Iran school, parents still grieve"
-    },
-    {
-      "timestamp": "2026-08-27T20:13:39.295158+00:00",
-      "tier": "gemini",
-      "article": "Three killed in strikes on Gaza as Israel renews threats over kite-flying"
-    },
     {
       "timestamp": "2026-08-27T20:14:03.206330+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-05T13:20:23.898658+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-05T16:38:42.260646+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-09-05T16:39:12.767490+00:00",
+      "tier": "gemini",
+      "article": "US military hunts leakers after reports expose interceptor shortages amid Iran war: Report"
     }
   ]
 }
