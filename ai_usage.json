@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6462,
+  "total_calls": 6463,
   "tiers": {
     "groq": 6056,
-    "gemini": 406
+    "gemini": 407
   },
   "log": [
-    {
-      "timestamp": "2026-08-29T20:39:03.923121+00:00",
-      "tier": "gemini",
-      "article": "Russian strike on a munitions depot triggers deadly blasts near Kyiv"
-    },
     {
       "timestamp": "2026-08-29T20:39:41.507750+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-09-06T13:30:06.601949+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-06T16:46:49.216994+00:00",
+      "tier": "gemini",
+      "article": "OIC denounces US strike on Iranian tanker in Persian Gulf"
     }
   ]
 }
