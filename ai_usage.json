@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6453,
+  "total_calls": 6455,
   "tiers": {
     "groq": 6056,
-    "gemini": 397
+    "gemini": 399
   },
   "log": [
-    {
-      "timestamp": "2026-08-28T18:37:04.272307+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
-    {
-      "timestamp": "2026-08-29T02:46:28.421597+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
     {
       "timestamp": "2026-08-29T10:55:55.232383+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-05T23:38:52.715079+00:00",
       "tier": "gemini",
       "article": "Colombian government reports three killed in rebel attack on military post"
+    },
+    {
+      "timestamp": "2026-09-06T03:37:07.004616+00:00",
+      "tier": "gemini",
+      "article": "Iranian forces strike US warships with ballistic missiles \u2014 IRGC"
+    },
+    {
+      "timestamp": "2026-09-06T03:37:32.020234+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
     }
   ]
 }
