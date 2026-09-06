@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6465,
+  "total_calls": 6467,
   "tiers": {
     "groq": 6056,
-    "gemini": 409
+    "gemini": 411
   },
   "log": [
-    {
-      "timestamp": "2026-08-29T23:58:26.421106+00:00",
-      "tier": "gemini",
-      "article": "More than 247,000 killed, wounded in Israeli genocide war in Gaza Strip"
-    },
-    {
-      "timestamp": "2026-08-30T04:58:54.082843+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
     {
       "timestamp": "2026-08-30T04:59:28.978091+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-06T20:10:30.888880+00:00",
       "tier": "gemini",
       "article": "Iran touts military response as US maintains blockade, hits tankers"
+    },
+    {
+      "timestamp": "2026-09-06T23:37:58.392523+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-09-06T23:38:29.550282+00:00",
+      "tier": "gemini",
+      "article": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz"
     }
   ]
 }
