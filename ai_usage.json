@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6463,
+  "total_calls": 6465,
   "tiers": {
     "groq": 6056,
-    "gemini": 407
+    "gemini": 409
   },
   "log": [
-    {
-      "timestamp": "2026-08-29T20:39:41.507750+00:00",
-      "tier": "gemini",
-      "article": "Regional Kung Fu competitions in Tabriz"
-    },
-    {
-      "timestamp": "2026-08-29T23:58:01.417952+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
     {
       "timestamp": "2026-08-29T23:58:26.421106+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-06T16:46:49.216994+00:00",
       "tier": "gemini",
       "article": "OIC denounces US strike on Iranian tanker in Persian Gulf"
+    },
+    {
+      "timestamp": "2026-09-06T20:09:59.918008+00:00",
+      "tier": "gemini",
+      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-09-06T20:10:30.888880+00:00",
+      "tier": "gemini",
+      "article": "Iran touts military response as US maintains blockade, hits tankers"
     }
   ]
 }
