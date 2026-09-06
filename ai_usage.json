@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6455,
+  "total_calls": 6458,
   "tiers": {
     "groq": 6056,
-    "gemini": 399
+    "gemini": 402
   },
   "log": [
-    {
-      "timestamp": "2026-08-29T10:55:55.232383+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
-    {
-      "timestamp": "2026-08-29T10:56:18.818783+00:00",
-      "tier": "gemini",
-      "article": "Iran\u2019s enemy failed to achieve its objectives: Army commander"
-    },
-    {
-      "timestamp": "2026-08-29T10:57:02.243880+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
     {
       "timestamp": "2026-08-29T16:25:47.076430+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-09-06T03:37:32.020234+00:00",
       "tier": "gemini",
       "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
+    },
+    {
+      "timestamp": "2026-09-06T08:30:10.335351+00:00",
+      "tier": "gemini",
+      "article": "Iran strikes back after US targets its tankers"
+    },
+    {
+      "timestamp": "2026-09-06T08:31:06.018849+00:00",
+      "tier": "gemini",
+      "article": "4 Martyrs as Israeli Warplanes Unleash Widespread Assault Across Nabatieh in Southern Lebanon - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-09-06T08:31:34.158174+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
