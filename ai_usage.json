@@ -2,17 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6477,
+  "total_calls": 6478,
   "tiers": {
     "groq": 6056,
-    "gemini": 421
+    "gemini": 422
   },
   "log": [
-    {
-      "timestamp": "2026-08-30T20:46:28.047591+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
     {
       "timestamp": "2026-08-31T00:17:22.994046+00:00",
       "tier": "gemini",
@@ -507,6 +502,11 @@
       "timestamp": "2026-09-07T19:42:37.777491+00:00",
       "tier": "gemini",
       "article": "Strike our assets, and you will get struck, Ghalibaf warns US"
+    },
+    {
+      "timestamp": "2026-09-07T22:38:30.852477+00:00",
+      "tier": "gemini",
+      "article": "At least two killed in Houthi missile attack on refugee camp \u2014 TV"
     }
   ]
 }
