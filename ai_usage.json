@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6471,
+  "total_calls": 6475,
   "tiers": {
     "groq": 6056,
-    "gemini": 415
+    "gemini": 419
   },
   "log": [
-    {
-      "timestamp": "2026-08-30T11:33:51.872739+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
-    {
-      "timestamp": "2026-08-30T16:19:34.555181+00:00",
-      "tier": "gemini",
-      "article": "\u201cFrom Nabatieh to Mansouri: Israel\u2019s Artillery and Warplanes Pound Southern Lebanon\u201d - Al-Manar TV Lebanon"
-    },
-    {
-      "timestamp": "2026-08-30T16:20:05.836433+00:00",
-      "tier": "gemini",
-      "article": "Six months on, what did the strikes on Iran achieve?"
-    },
-    {
-      "timestamp": "2026-08-30T16:20:31.157794+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
     {
       "timestamp": "2026-08-30T16:21:00.826260+00:00",
       "tier": "gemini",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-09-07T09:07:28.933224+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-07T15:38:13.256402+00:00",
+      "tier": "gemini",
+      "article": "Israeli attacks on Gaza kill five Palestinians, including two children"
+    },
+    {
+      "timestamp": "2026-09-07T15:38:34.500683+00:00",
+      "tier": "gemini",
+      "article": "One casualty, one wounded in strike on Perm, 306 UAVs: aftermath of attacks against Russia"
+    },
+    {
+      "timestamp": "2026-09-07T15:38:57.294974+00:00",
+      "tier": "gemini",
+      "article": "Yemeni media outlets report that the Saudi regime has renewed its targeting of the governorates of Al-Jawf, Al-Bayda, Ma\u2019rib, and Taiz with a number of airstrikes and cruise missiles - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-09-07T15:39:25.847429+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
