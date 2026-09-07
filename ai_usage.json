@@ -2,22 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6475,
+  "total_calls": 6477,
   "tiers": {
     "groq": 6056,
-    "gemini": 419
+    "gemini": 421
   },
   "log": [
-    {
-      "timestamp": "2026-08-30T16:21:00.826260+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
-    {
-      "timestamp": "2026-08-30T20:45:52.928695+00:00",
-      "tier": "gemini",
-      "article": "US strikes Iran\u2019s Larak Island in first attack in weeks"
-    },
     {
       "timestamp": "2026-08-30T20:46:28.047591+00:00",
       "tier": "gemini",
@@ -507,6 +497,16 @@
       "timestamp": "2026-09-07T15:39:25.847429+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-07T19:42:14.612306+00:00",
+      "tier": "gemini",
+      "article": "Yemen warns Saudi attacks will not go unpunished"
+    },
+    {
+      "timestamp": "2026-09-07T19:42:37.777491+00:00",
+      "tier": "gemini",
+      "article": "Strike our assets, and you will get struck, Ghalibaf warns US"
     }
   ]
 }
