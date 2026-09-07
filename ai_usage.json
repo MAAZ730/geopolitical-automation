@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6467,
+  "total_calls": 6471,
   "tiers": {
     "groq": 6056,
-    "gemini": 411
+    "gemini": 415
   },
   "log": [
-    {
-      "timestamp": "2026-08-30T04:59:28.978091+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
-    {
-      "timestamp": "2026-08-30T11:31:29.359778+00:00",
-      "tier": "gemini",
-      "article": "Russia readies to strike Ukraine\u2019s energy sites to retaliate attacks on its infrastructure"
-    },
-    {
-      "timestamp": "2026-08-30T11:32:06.389560+00:00",
-      "tier": "gemini",
-      "article": "Mapping Iran war\u2019s strikes on Gulf energy and its impact on future of oil"
-    },
-    {
-      "timestamp": "2026-08-30T11:32:33.998554+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
     {
       "timestamp": "2026-08-30T11:33:51.872739+00:00",
       "tier": "gemini",
@@ -507,6 +487,26 @@
       "timestamp": "2026-09-06T23:38:29.550282+00:00",
       "tier": "gemini",
       "article": "IRGC attacks US unmanned vessel seeking access to Strait of Hormuz"
+    },
+    {
+      "timestamp": "2026-09-07T09:06:22.368425+00:00",
+      "tier": "gemini",
+      "article": "In photos: US attack turns wedding into wake in Iran"
+    },
+    {
+      "timestamp": "2026-09-07T09:06:44.951830+00:00",
+      "tier": "gemini",
+      "article": "Lebanese Health Ministry says Israeli strike on Kfar Rumman killed 9 people, injured 13 others, including paramedics, women and children - Al-Manar TV Lebanon"
+    },
+    {
+      "timestamp": "2026-09-07T09:07:05.647824+00:00",
+      "tier": "gemini",
+      "article": "Eight-year-old Gaza girl killed by Israel on first day of school"
+    },
+    {
+      "timestamp": "2026-09-07T09:07:28.933224+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
