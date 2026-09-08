@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6478,
+  "total_calls": 6481,
   "tiers": {
     "groq": 6056,
-    "gemini": 422
+    "gemini": 425
   },
   "log": [
-    {
-      "timestamp": "2026-08-31T00:17:22.994046+00:00",
-      "tier": "gemini",
-      "article": "US strikes Iran for first time in a month"
-    },
-    {
-      "timestamp": "2026-08-31T08:19:27.707343+00:00",
-      "tier": "gemini",
-      "article": "Iran strikes two US airbases in Jordan"
-    },
-    {
-      "timestamp": "2026-08-31T08:19:57.949759+00:00",
-      "tier": "gemini",
-      "article": "Trump posts AI videos of Iran\u2019s Kharg Island oil hub \u2018being blown to smithereens\u2019"
-    },
     {
       "timestamp": "2026-08-31T08:20:23.812603+00:00",
       "tier": "gemini",
@@ -507,6 +492,21 @@
       "timestamp": "2026-09-07T22:38:30.852477+00:00",
       "tier": "gemini",
       "article": "At least two killed in Houthi missile attack on refugee camp \u2014 TV"
+    },
+    {
+      "timestamp": "2026-09-08T03:42:04.206026+00:00",
+      "tier": "gemini",
+      "article": "Iran exported its crude oil during US-Israeli aggression"
+    },
+    {
+      "timestamp": "2026-09-08T03:42:36.004632+00:00",
+      "tier": "gemini",
+      "article": "Washington Post confirms US bombing of Iranian wedding"
+    },
+    {
+      "timestamp": "2026-09-08T03:43:05.248965+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
   ]
 }
