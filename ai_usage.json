@@ -2,32 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6481,
+  "total_calls": 6485,
   "tiers": {
     "groq": 6056,
-    "gemini": 425
+    "gemini": 429
   },
   "log": [
-    {
-      "timestamp": "2026-08-31T08:20:23.812603+00:00",
-      "tier": "gemini",
-      "article": "US strikes two missile launchers on Iran\u2019s Larak island \u2014 media"
-    },
-    {
-      "timestamp": "2026-08-31T08:20:51.303978+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
-    {
-      "timestamp": "2026-08-31T17:27:53.297191+00:00",
-      "tier": "gemini",
-      "article": "Three civilians killed, 22 injured in Ukrainian attacks on Belgorod Region over past day"
-    },
-    {
-      "timestamp": "2026-08-31T17:28:24.357721+00:00",
-      "tier": "gemini",
-      "article": "Iran response to US strikes will be \u2018very painful\u2019 \u2013 professor"
-    },
     {
       "timestamp": "2026-08-31T17:28:47.977829+00:00",
       "tier": "gemini",
@@ -505,6 +485,26 @@
     },
     {
       "timestamp": "2026-09-08T03:43:05.248965+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-08T14:15:43.890733+00:00",
+      "tier": "gemini",
+      "article": "The broken illusion: US fails to subdue Iran in war"
+    },
+    {
+      "timestamp": "2026-09-08T14:16:07.668387+00:00",
+      "tier": "gemini",
+      "article": "New Yemeni missile strikes halt operations, spark fires at critical Saudi energy sites"
+    },
+    {
+      "timestamp": "2026-09-08T14:16:32.726387+00:00",
+      "tier": "gemini",
+      "article": "Israeli strikes kill dozens of civilians in Lebanon (VIDEO)"
+    },
+    {
+      "timestamp": "2026-09-08T14:17:01.876683+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
