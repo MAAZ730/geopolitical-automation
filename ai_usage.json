@@ -2,27 +2,12 @@
   "date": "2026-03-02",
   "gemini_calls": 0,
   "hf_calls": 0,
-  "total_calls": 6485,
+  "total_calls": 6488,
   "tiers": {
     "groq": 6056,
-    "gemini": 429
+    "gemini": 432
   },
   "log": [
-    {
-      "timestamp": "2026-08-31T17:28:47.977829+00:00",
-      "tier": "gemini",
-      "article": "Strong earthquake strikes southern Japan, no impact on nuclear plants"
-    },
-    {
-      "timestamp": "2026-08-31T17:29:13.516574+00:00",
-      "tier": "gemini",
-      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
-    },
-    {
-      "timestamp": "2026-08-31T22:38:30.270605+00:00",
-      "tier": "gemini",
-      "article": "Ukrainians mourn community leader killed in Russian strike on Myla"
-    },
     {
       "timestamp": "2026-09-01T04:13:57.481075+00:00",
       "tier": "gemini",
@@ -505,6 +490,21 @@
     },
     {
       "timestamp": "2026-09-08T14:17:01.876683+00:00",
+      "tier": "gemini",
+      "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
+    },
+    {
+      "timestamp": "2026-09-08T19:19:51.160130+00:00",
+      "tier": "gemini",
+      "article": "Yemeni forces strike Saudi facilities in retaliatory blitz"
+    },
+    {
+      "timestamp": "2026-09-08T19:20:16.568522+00:00",
+      "tier": "gemini",
+      "article": "Senior MP: Strike on US warships represents mere fraction of Iran\u2019s military prowess"
+    },
+    {
+      "timestamp": "2026-09-08T19:20:50.835696+00:00",
       "tier": "gemini",
       "article": "Regional leaders discuss security, cooperation amid Middle East tensions"
     }
